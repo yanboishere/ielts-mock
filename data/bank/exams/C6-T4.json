@@ -1,0 +1,1621 @@
+{
+ "schema": "ielts-mock.exam/1",
+ "id": "C6-T4",
+ "source": {
+  "book": 6,
+  "test": 4
+ },
+ "title": "Cambridge IELTS 6 · Test 4",
+ "listening": {
+  "parts": [
+   {
+    "part": 1,
+    "range": [
+     1,
+     10
+    ],
+    "pages": [
+     79
+    ],
+    "groups": [
+     {
+      "id": "L1-1",
+      "type": "completion",
+      "range": [
+       1,
+       10
+      ],
+      "instructions": [
+       "Complete the notes below.",
+       "Write **NO MORE THAN TWO WORDS AND/OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "note",
+        "text": "*Example*"
+       },
+       {
+        "t": "p",
+        "text": "Title of conference: *Future Directions* in Computing"
+       },
+       {
+        "t": "p",
+        "text": "**Three day cost:** £ {{1}}"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "Payment by {{2}} or on arrival"
+       },
+       {
+        "t": "sub",
+        "text": "Accommodation:"
+       },
+       {
+        "t": "p",
+        "text": "Conference Centre"
+       },
+       {
+        "t": "li",
+        "text": "£ {{3}} per night"
+       },
+       {
+        "t": "li",
+        "text": "near to conference rooms"
+       },
+       {
+        "t": "p",
+        "text": "Guest House"
+       },
+       {
+        "t": "li",
+        "text": "£ {{4}} per night"
+       },
+       {
+        "t": "li",
+        "text": "approximately {{5}} walk from Conference Centre"
+       },
+       {
+        "t": "sub",
+        "text": "Further documents to be sent:"
+       },
+       {
+        "t": "li",
+        "text": "{{6}}"
+       },
+       {
+        "t": "li",
+        "text": "an application form"
+       },
+       {
+        "t": "sub",
+        "text": "Location:"
+       },
+       {
+        "t": "p",
+        "text": "Conference Centre is on {{7}} Park Road, next to the {{8}} ."
+       },
+       {
+        "t": "p",
+        "text": "Taxi costs £ {{9}} or take bus number {{10}} from station."
+       }
+      ]
+     }
+    ],
+    "transcript": "CLERK: Conference Centre Reservations. Good morning.\nWOMAN: Hi. I'm interested in the computing conference next month.\nCLERK: Future Directions in Computing?\nWOMAN: Yes, that's right. Could I ask you a few questions about it?\nCLERK: Of course.\nWOMAN: OK. I know the conference is for three days but actually I want to attend on the Friday and Saturday only. Will that work out to be any cheaper?\nCLERK: Let me have a look. Well, you could register for the two days separately, but that wouldn't actually save you very much as it still costs £35 for each day. In fact, if you could register for the three days, you also get an invitation to a free dinner on the Saturday night, so that's probably the better option.\nWOMAN: Right, I'll do that. How much will the fees be in that case?\nCLERK: It's £75. [Q1]\nWOMAN: All right. I'd like to register for the full three days. Now, can I pay that by credit card?\nCLERK: I'm afraid not. You'll have to send a cheque to us, or you can pay at [Q2] the conference office.\nWOMAN: Fine. So it's probably easiest if I pay by cheque. Now then, what else do I need to arrange? Right. How about accommodation? I guess that's not included in the price?\nCLERK: No, I'm sorry, it's not, but we do have a few rooms available for delegates at the conference centre if you'd like. Those are very cheap but if you're interested you'll need to book soon, because there's always a heavy demand for them. They are only £15 per night, but they are very [Q3] basic and you'd have to get your own breakfast, because they don't provide you with that. But it's very convenient, because it's in the same building as the conference rooms.\nWOMAN: Uhuh.\nCLERK: Or there's a very reasonable guest house which is £25 per night. And I [Q4] think that includes your breakfast.\nWOMAN: Is it close to the conference centre?\nCLERK: It would be about a ten-minute walk away from here. [Q5]\nWOMAN: I see. That sounds quite reasonable.\nCLERK: The details are all in our conference pack, which I'll send you. [Q6]\nWOMAN: Great, thanks. That'll be very useful. Oh, and can you also send me an application form?\nCLERK: Of course. I'll get that in the post to you straight away. Is there anything else?\nWOMAN: Yes, actually. Can you tell me where exactly the conference centre is?\nCLERK: Well, it's on South Park Road and it's right at the end of the road [Q7] next to the library. It's a ten-minute taxi ride from the station and will [Q8] cost you £5. Otherwise, you can take the bus which runs every half an [Q9] hour from the station – that's the 21A – and it brings you straight [Q10] to the conference centre.\nWOMAN: Right, got that."
+   },
+   {
+    "part": 2,
+    "range": [
+     11,
+     20
+    ],
+    "pages": [
+     80,
+     81
+    ],
+    "groups": [
+     {
+      "id": "L2-1",
+      "type": "matching",
+      "range": [
+       11,
+       13
+      ],
+      "instructions": [
+       "Which team will do each of the following jobs?",
+       "Choose **THREE** answers from the box and write the correct letter, **A–D**, next to questions 11–13."
+      ],
+      "optionsTitle": "Teams",
+      "options": [
+       {
+        "key": "A",
+        "text": "the blue team"
+       },
+       {
+        "key": "B",
+        "text": "the yellow team"
+       },
+       {
+        "key": "C",
+        "text": "the green team"
+       },
+       {
+        "key": "D",
+        "text": "the red team"
+       }
+      ],
+      "questions": [
+       {
+        "n": 11,
+        "text": "checking entrance tickets"
+       },
+       {
+        "n": 12,
+        "text": "preparing refreshments"
+       },
+       {
+        "n": 13,
+        "text": "directing car-park traffic"
+       }
+      ]
+     },
+     {
+      "id": "L2-2",
+      "type": "completion",
+      "range": [
+       14,
+       20
+      ],
+      "instructions": [
+       "Complete the table below.",
+       "Write **NO MORE THAN THREE WORDS AND/OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Travel Expo"
+       },
+       {
+        "t": "sub",
+        "text": "Temporary Staff Orientation Programme"
+       },
+       {
+        "t": "table",
+        "header": 1,
+        "rows": [
+         [
+          "Time",
+          "Event",
+          "Details"
+         ],
+         [
+          "9.30 am",
+          "Talk by Anne Smith",
+          "• information about pay\n• will give out the {{14}} forms"
+         ],
+         [
+          "10.00 am",
+          "Talk by Peter Chen",
+          "• will discuss Conference Centre plan\n• will explain about arrangements for {{15}} and fire exits"
+         ],
+         [
+          "10.30 am",
+          "Coffee Break",
+          "• go to Staff Canteen on the {{16}}"
+         ],
+         [
+          "11.00 am",
+          "Video Presentation",
+          "• go to {{17}}\n• video title: {{18}}"
+         ],
+         [
+          "12.00",
+          "Buffet Lunch",
+          "• go to the {{19}} on 1st floor"
+         ],
+         [
+          "1.00 pm",
+          "Meet the {{20}}",
+          ""
+         ],
+         [
+          "3.00 pm",
+          "Finish",
+          ""
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    "transcript": "Good morning and welcome, everybody. I'm Jenny Stewart and I'm the Staff Manager here at the exhibition centre. We're expecting this year's International Travel Exhibition to attract over 10,000 visitors a day, ladies and gentlemen, and you are among the two hundred extra staff recruited to help look after them. Now, to help things run smoothly, we have divided you into four teams – the blue team, the green team, the red team, and the yellow team. So first I'll explain how the teams are divided up, and then we'll be giving you colour-coded T-shirts so we can identify you more easily. First of all, those who will be looking after the phones and handling all calls regarding the exhibition, you will be on the red team. Now, we've also put the entrance staff on the red team and you'll be stamping the entrance tickets [Q11] and giving out publicity leaflets, OK?\nThose of you involved in distributing entrance tickets will be on the yellow team and we've also put those of you who'll be staffing the information booths around the conference centre on the yellow team, so you'll be getting a yellow T-shirt. Now, most of the hospitality staff have been put in the blue team, so the chefs among you and the kitchen hands will [Q12] all need a blue T-shirt, but, because of the sheer numbers, all waiting staff will be on the yellow team, and this includes the bar staff among you. Those who will be monitoring and [Q13] directing the traffic in the car parks are on the green team, so you'll need to get a green T-shirt. This year we've also employed a considerable number of attendants to direct the human traffic around the conference centre. Now, you'll be working in the exhibition hall at all times, giving directions and generally helping people whenever you can, and you will be in the red team, so please collect a red T-shirt.\nRight, now that everyone knows what team they're in, we'll get on with the orientation and training programme and first I'll run through the rest of today's programme, which you should have in front of you, so that you can get a general idea of what else is in store today. This introduction finishes at 9.30 and then you'll be hearing from Anne Smith. Anne works in the accounts department on level two and she looks after all temporary staff, and so she is the person to see if you have any problems regarding pay. Anne will be explaining when and how you get this. She will also be handing out your tax forms. And I will just [Q14] stress that all tax forms must be completed and returned to Anne before your pay can be processed. Following Anne's talk you'll hear from Peter Chen, our Conference Manager, and he will be going over a plan of the conference centre with you, which will help you to orient yourselves. He will also go through the security arrangements with you and show [Q15] you the fire exits. Then at 10.30, there will be a coffee break in the staff canteen, which is located down on the ground floor. Now, after the break we'll be moving to a different [Q16] location for a video presentation, so instead of coming back here, we'd like you all to go to Lecture Room three-one-one. You'll find it on this same level, just down the hall, and [Q17] there you will be shown a video about important safety issues in the workplace, called Safety at Work. We'll finish off the morning with lunch, which should give everyone a [Q18] chance to meet and get to know each other, and we'll be serving you a buffet lunch in the Main Hall, which is on the first floor, from 12.00 o'clock. After lunch you'll be [Q19] divided up into your teams to meet your team leaders and we're hoping to be all [Q20] finished by 3.00 so I won't delay you any longer, and I'll hand over to ..."
+   },
+   {
+    "part": 3,
+    "range": [
+     21,
+     30
+    ],
+    "pages": [
+     82,
+     83
+    ],
+    "groups": [
+     {
+      "id": "L3-1",
+      "type": "completion",
+      "range": [
+       21,
+       25
+      ],
+      "instructions": [
+       "Complete the summary below.",
+       "Write **ONE WORD ONLY** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "The School of Education Libraries"
+       },
+       {
+        "t": "p",
+        "text": "The libraries on both sites provide internet access and have a variety of {{21}} materials on education."
+       },
+       {
+        "t": "p",
+        "text": "The Castle Road library has books on sociology, together with {{22}} and other resources relevant to the majority of {{23}} school subjects."
+       },
+       {
+        "t": "p",
+        "text": "The Fordham library includes resources for teaching in {{24}} education and special needs."
+       },
+       {
+        "t": "p",
+        "text": "Current issues of periodicals are available at both libraries, although {{25}} issues are only available at Fordham."
+       }
+      ]
+     },
+     {
+      "id": "L3-2",
+      "type": "completion",
+      "range": [
+       26,
+       27
+      ],
+      "instructions": [
+       "Answer the questions below.",
+       "Write **NO MORE THAN TWO WORDS AND/OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "p",
+        "text": "Which books cannot be renewed by telephone or email? {{26}}"
+       },
+       {
+        "t": "p",
+        "text": "How much time is allowed to return recalled books? {{27}}"
+       }
+      ]
+     },
+     {
+      "id": "L3-3",
+      "type": "multi",
+      "range": [
+       28,
+       30
+      ],
+      "n": [
+       28,
+       29,
+       30
+      ],
+      "select": 3,
+      "instructions": [
+       "Choose **THREE** letters, **A–G**."
+      ],
+      "text": "Which **THREE** topics do this term's study skills workshops cover?",
+      "options": [
+       {
+        "key": "A",
+        "text": "An introduction to the Internet"
+       },
+       {
+        "key": "B",
+        "text": "How to carry out research for a dissertation"
+       },
+       {
+        "key": "C",
+        "text": "Making good use of the whole range of library services"
+       },
+       {
+        "key": "D",
+        "text": "Planning a dissertation"
+       },
+       {
+        "key": "E",
+        "text": "Standard requirements when writing a dissertation"
+       },
+       {
+        "key": "F",
+        "text": "Using the Internet when doing research"
+       },
+       {
+        "key": "G",
+        "text": "What books and technical resources are available in the library"
+       }
+      ]
+     }
+    ],
+    "transcript": "LIBRARIAN: Good afternoon. Can I help you?\nSTUDENT: Good afternoon. Yes, I've just transferred to the School of Education, and I'd like information about joining the library.\nLIBRARIAN: Well, the School of Education has libraries on two sites, as I'm sure you know. This one here is the Fordham Site, and the other is on Castle Road.\nSTUDENT: And is there any difference between the two libraries?\nLIBRARIAN: Not in terms of their facilities. Access to online databases and the Internet is available at both sites and each site has a range of reference [Q21] materials on education.\nSTUDENT: Oh yes. I see.\nLIBRARIAN: But the Castle Road site has books on the sociology of education and a collection of textbooks and teaching resources covering most of [Q22] the subjects taught in secondary schools. [Q23]\nSTUDENT: Ah, right, but I'm training to be a primary teacher so I need to look at materials for the five to eleven age group.\nLIBRARIAN: Then you've come to the right place. At Fordham we hold material relating to primary education, as well as special needs, but of [Q24] course you'll need to familiarise yourself with both sites to make the most of our resources.\nSTUDENT: You haven't mentioned periodicals. Are they held at both sites?\nLIBRARIAN: Current issues, yes but if you want to look at back issues you'll [Q25] need to use the CD-ROM databases which are held here at Fordham.\nSTUDENT: I see. Now, about borrowing books. I'm living out of town, so I'm hoping I can borrow quite a few items, and cut down on the number of trips I have to make.\nLIBRARIAN: Right, well, members can borrow two books at a time from each site.\nSTUDENT: Only two books?\nLIBRARIAN: Only two from each site, but that's four altogether.\nSTUDENT: Oh I see, and how long can I hang on to them for?\nLIBRARIAN: The borrowing period is one month, but of course books can be renewed. You can renew any item a maximum of three times.\nSTUDENT: Do I have to come to the library to do that?\nLIBRARIAN: No, you can do it by telephone or email, but you can't renew overdue books this way, only before or on the due date stamped [Q26] in the book. We'll need your full name, your borrower number and the name of the site library you borrowed the items from.\nSTUDENT: So theoretically I can borrow books for up to three months – is that what you're saying?\nLIBRARIAN: Yes, provided they're not recalled.\nSTUDENT: So, what happens then?\nLIBRARIAN: Well, sometimes an item is requested by another borrower, in which case we'd send you a letter, and you'd have to return the book within seven working days. Don't forget we're closed on [Q27] Sundays.\nSTUDENT: OK.\nSTUDENT: I expect it'll take me a while to find what I need. There's such a lot here.\nLIBRARIAN: Yes there is, but if you need help getting started, this term we're running three study skills workshops.\nSTUDENT: Oh? What are they on?\nLIBRARIAN: Er, let me see. The first one's on resources – yes, here it is. How to use the library's resources. That includes everything, not [Q28/29/30] just the print and technical resources.\nSTUDENT: That sounds useful. Is there anything on using the Internet?\nLIBRARIAN: Er, let's see. The one on the Internet for beginners was last term. This [Q28/29/30] term it's finding research materials online.\nSTUDENT: That sounds interesting too, hm, what's the last one?\nLIBRARIAN: It's a workshop on dissertations. [Q28/29/30]\nSTUDENT: What do you mean – how to write one?\nLIBRARIAN: Er, no it's more to do with academic writing conventions, you know – writing a bibliography and how to refer to sources in your text. That sort of thing. Anyway, here's a leaflet with information about all three.\nSTUDENT: Thanks a lot. That'll be very useful.\nLIBRARIAN: You're welcome."
+   },
+   {
+    "part": 4,
+    "range": [
+     31,
+     40
+    ],
+    "pages": [
+     84,
+     85
+    ],
+    "groups": [
+     {
+      "id": "L4-1",
+      "type": "choice",
+      "range": [
+       31,
+       34
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B** or **C**."
+      ],
+      "questions": [
+       {
+        "n": 31,
+        "text": "When did Asiatic lions develop as a separate sub-species?",
+        "options": [
+         {
+          "key": "A",
+          "text": "about 10,000 years ago"
+         },
+         {
+          "key": "B",
+          "text": "about 100,000 years ago"
+         },
+         {
+          "key": "C",
+          "text": "about 1,000,000 years ago"
+         }
+        ]
+       },
+       {
+        "n": 32,
+        "text": "Pictures of Asiatic lions can be seen on ancient coins from",
+        "options": [
+         {
+          "key": "A",
+          "text": "Greece."
+         },
+         {
+          "key": "B",
+          "text": "The Middle East."
+         },
+         {
+          "key": "C",
+          "text": "India."
+         }
+        ]
+       },
+       {
+        "n": 33,
+        "text": "Asiatic lions disappeared from Europe",
+        "options": [
+         {
+          "key": "A",
+          "text": "2,500 years ago."
+         },
+         {
+          "key": "B",
+          "text": "2,000 years ago."
+         },
+         {
+          "key": "C",
+          "text": "1,900 years ago."
+         }
+        ]
+       },
+       {
+        "n": 34,
+        "text": "Very few African lions have",
+        "options": [
+         {
+          "key": "A",
+          "text": "a long mane."
+         },
+         {
+          "key": "B",
+          "text": "a coat with varied colours."
+         },
+         {
+          "key": "C",
+          "text": "a fold of skin on their stomach."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L4-2",
+      "type": "completion",
+      "range": [
+       35,
+       40
+      ],
+      "instructions": [
+       "Complete the sentences below.",
+       "Write **NO MORE THAN TWO WORDS AND/OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "THE GIR SANCTUARY"
+       },
+       {
+        "t": "p",
+        "text": "The sanctuary has an area of approximately {{35}} square kilometres."
+       },
+       {
+        "t": "p",
+        "text": "One threat to the lions in the sanctuary is {{36}} ."
+       },
+       {
+        "t": "p",
+        "text": "The ancestors of the Gir Sanctuary lions were protected by a {{37}} ."
+       },
+       {
+        "t": "p",
+        "text": "A large part of the lions' {{38}} consists of animals belonging to local farmers."
+       },
+       {
+        "t": "p",
+        "text": "The lions sometimes {{39}} , especially when water is short."
+       },
+       {
+        "t": "p",
+        "text": "In ancient India a man would fight a lion as a test of {{40}} ."
+       }
+      ]
+     }
+    ],
+    "transcript": "Well, most people think that lions only come from Africa. And you would be forgiven for thinking this, because in fact most lions do come from Africa. But this hasn't always been the case. If we go back ten thousand years we would find that there were lions roaming vast sections of the globe. But now, unfortunately, only very small sections of the lions' former habitat remain.\nMy particular interest is Asiatic lions, which are a sub-species of African lions. It's almost [Q31] a hundred thousand years since the Asiatic lions split off and developed as a sub-species. At one time the Asiatic lion was living as far west as Greece and they were found from there, in a band that spread east through various countries of the Middle East, all the way to India. In museums, you can now see Greek coins that have clear images of the Asiatic [Q32] lion on them. Most of them are dated at around 500 B.C. However, Europe saw its last [Q33] Asiatic lion roaming free two thousand years ago. Over the next nineteen hundred years the numbers of Asiatic lions in the other areas declined steadily, but it was only in the nineteenth century that they disappeared from everywhere but India.\nSo, how can you tell an Asiatic lion from an African lion, with which you're probably more familiar? Well, in general, Asiatic lions are not as big as African lions. The colour is more or less the same, but the appearance of the mane is different – that's the hair around the lion's face and neck. The Asiatic lion's mane is noticeably shorter than the African lion's. Asiatic lions also have a long fold of skin on their undersides, whereas not many [Q34] African lions have this.\nWell, I'd like to talk to you now about the Gir Sanctuary in India. That's where I've just come back from. The sanctuary was established specifically to protect the Asiatic lion. It's 1,450 square kilometres in area and most of it is forest. There are now around [Q35] three hundred Asiatic lions in India and almost all of them are in this sanctuary.\nBut despite living in a sanctuary, which makes them safe from hunters, they still face a number of problems that threaten their survival. One of these is the ever-present danger of disease. This is what killed more than a third of Africa's Serengeti lions in 1994, and [Q36] people are fearful that something similar could happen in the Gir Sanctuary and kill off many of the Asiatic lions there.\nIndia's lions are particularly vulnerable because they have a limited gene pool. The reason for this is interesting – it's because all of them are descended from a few dozen lions that were saved by a prince who took a particular interest in them. He was very wealthy, and [Q37] he managed to protect them – otherwise they'd probably have died out completely.\nWhen you see the Asiatic lion in India, what you sense is enormous vitality. They're very impressive beasts and you would never guess that they had this vulnerability when you look at them. The Asiatic lions don't have the Gir Sanctuary to themselves, I should add. They actually share it with about two thousand farmers. A significant proportion of the lions' diet is [Q38] made up of the livestock of these farmers – goats, chickens and so on – as much as a third, in fact. And they've even been known to attack humans, especially in times of drought. [Q39]\nOne final piece of interesting information – in ancient India one of the greatest tests of leadership for a man was to fight a lion. Now it seems, in modern India it will be a great [Q40] test to see if the lion can be saved. I'm sure this is something that all of you will share concern for too."
+   }
+  ],
+  "answers": {
+   "1": {
+    "a": [
+     "75"
+    ]
+   },
+   "2": {
+    "a": [
+     "cheque",
+     "check"
+    ],
+    "k": "cheque/check"
+   },
+   "3": {
+    "a": [
+     "15"
+    ]
+   },
+   "4": {
+    "a": [
+     "25"
+    ]
+   },
+   "5": {
+    "a": [
+     "10 minute",
+     "10 minutes",
+     "10 minutes'",
+     "10 min",
+     "10 mins",
+     "10 mins'"
+    ],
+    "k": "10 minute(s')/min(s')"
+   },
+   "6": {
+    "a": [
+     "conference pack"
+    ]
+   },
+   "7": {
+    "a": [
+     "South"
+    ]
+   },
+   "8": {
+    "a": [
+     "library"
+    ]
+   },
+   "9": {
+    "a": [
+     "5"
+    ]
+   },
+   "10": {
+    "a": [
+     "21A"
+    ]
+   },
+   "11": {
+    "a": [
+     "D"
+    ]
+   },
+   "12": {
+    "a": [
+     "A"
+    ]
+   },
+   "13": {
+    "a": [
+     "C"
+    ]
+   },
+   "14": {
+    "a": [
+     "tax"
+    ]
+   },
+   "15": {
+    "a": [
+     "security"
+    ]
+   },
+   "16": {
+    "a": [
+     "ground floor"
+    ]
+   },
+   "17": {
+    "a": [
+     "lecture room 311"
+    ]
+   },
+   "18": {
+    "a": [
+     "Safety at Work"
+    ]
+   },
+   "19": {
+    "a": [
+     "Main Hall"
+    ]
+   },
+   "20": {
+    "a": [
+     "team leaders"
+    ]
+   },
+   "21": {
+    "a": [
+     "reference"
+    ]
+   },
+   "22": {
+    "a": [
+     "textbooks"
+    ]
+   },
+   "23": {
+    "a": [
+     "secondary"
+    ]
+   },
+   "24": {
+    "a": [
+     "primary"
+    ]
+   },
+   "25": {
+    "a": [
+     "back"
+    ]
+   },
+   "26": {
+    "a": [
+     "overdue books",
+     "overdue ones"
+    ],
+    "k": "overdue books/ones"
+   },
+   "27": {
+    "a": [
+     "7 working days"
+    ]
+   },
+   "28": {
+    "a": [
+     "C"
+    ]
+   },
+   "29": {
+    "a": [
+     "E"
+    ]
+   },
+   "30": {
+    "a": [
+     "F"
+    ]
+   },
+   "31": {
+    "a": [
+     "B"
+    ]
+   },
+   "32": {
+    "a": [
+     "A"
+    ]
+   },
+   "33": {
+    "a": [
+     "B"
+    ]
+   },
+   "34": {
+    "a": [
+     "C"
+    ]
+   },
+   "35": {
+    "a": [
+     "1,450",
+     "1450"
+    ],
+    "k": "1,450"
+   },
+   "36": {
+    "a": [
+     "disease"
+    ]
+   },
+   "37": {
+    "a": [
+     "wealthy prince",
+     "prince"
+    ],
+    "k": "(wealthy) prince"
+   },
+   "38": {
+    "a": [
+     "diet"
+    ]
+   },
+   "39": {
+    "a": [
+     "attack humans"
+    ]
+   },
+   "40": {
+    "a": [
+     "leadership"
+    ]
+   }
+  }
+ },
+ "reading": {
+  "passages": [
+   {
+    "passage": 1,
+    "range": [
+     1,
+     13
+    ],
+    "pages": [
+     86,
+     87,
+     88,
+     89
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 1–13**, which are based on Reading Passage 1 on the following pages.",
+    "title": "Doctoring sales",
+    "subtitle": "*Pharmaceuticals is one of the most profitable industries in North America. But do the drugs industry's sales and marketing strategies go too far?*",
+    "paragraphs": [
+     {
+      "label": "A",
+      "text": "A few months ago Kim Schaefer, sales representative of a major global pharmaceutical company, walked into a medical center in New York to bring information and free samples of her company's latest products. That day she was lucky – a doctor was available to see her. 'The last rep offered me a trip to Florida. What do you have?' the physician asked. He was only half joking."
+     },
+     {
+      "label": "B",
+      "text": "What was on offer that day was a pair of tickets for a New York musical. But on any given day, what Schaefer can offer is typical for today's drugs rep – a car trunk full of promotional gifts and gadgets, a budget that could buy lunches and dinners for a small country, hundreds of free drug samples and the freedom to give a physician $200 to prescribe her new product to the next six patients who fit the drug's profile. And she also has a few $1,000 honoraria to offer in exchange for doctors' attendance at her company's next educational lecture."
+     },
+     {
+      "label": "C",
+      "text": "Selling pharmaceuticals is a daily exercise in ethical judgement. Salespeople like Schaefer walk the line between the common practice of buying a prospect's time with a free meal, and bribing doctors to prescribe their drugs. They work in an industry highly criticized for its sales and marketing practices, but find themselves in the middle of the age-old chicken-or-egg question – businesses won't use strategies that don't work, so are doctors to blame for the escalating extravagance of pharmaceutical marketing? Or is it the industry's responsibility to decide the boundaries?"
+     },
+     {
+      "label": "D",
+      "text": "The explosion in the sheer number of salespeople in the field – and the amount of funding used to promote their causes – forces close examination of the pressures, influences and relationships between drug reps and doctors. Salespeople provide much-needed information and education to physicians. In many cases the glossy brochures, article reprints and prescriptions they deliver are primary sources of drug education for healthcare givers. With the huge investment the industry has placed in face-to-face selling, salespeople have essentially become specialists in one drug or group of drugs – a tremendous advantage in getting the attention of busy doctors in need of quick information."
+     },
+     {
+      "label": "E",
+      "text": "But the sales push rarely stops in the office. The flashy brochures and pamphlets left by the sales reps are often followed up with meals at expensive restaurants, meetings in warm and sunny places, and an inundation of promotional gadgets. Rarely do patients watch a doctor write with a pen that isn't emblazoned with a drug's name, or see a nurse use a tablet not bearing a pharmaceutical company's logo. Millions of dollars are spent by pharmaceutical companies on promotional products like coffee mugs, shirts, umbrellas, and golf balls. Money well spent? It's hard to tell. 'I've been the recipient of golf balls from one company and I use them, but it doesn't make me prescribe their medicine,' says one doctor. 'I tend to think I'm not influenced by what they give me.'"
+     },
+     {
+      "label": "F",
+      "text": "Free samples of new and expensive drugs might be the single most effective way of getting doctors and patients to become loyal to a product. Salespeople hand out hundreds of dollars' worth of samples each week – $7.2 billion worth of them in one year. Though few comprehensive studies have been conducted, one by the University of Washington investigated how drug sample availability affected what physicians prescribe. A total of 131 doctors self-reported their prescribing patterns – the conclusion was that the availability of samples led them to dispense and prescribe drugs that differed from their preferred drug choice."
+     },
+     {
+      "label": "G",
+      "text": "The bottom line is that pharmaceutical companies as a whole invest more in marketing than they do in research and development. And patients are the ones who pay – in the form of sky-rocketing prescription prices – for every pen that's handed out, every free theatre ticket, and every steak dinner eaten. In the end the fact remains that pharmaceutical companies have every right to make a profit and will continue to find new ways to increase sales. But as the medical world continues to grapple with what's acceptable and what's not, it is clear that companies must continue to be heavily scrutinized for their sales and marketing strategies."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R1-1",
+      "type": "matching",
+      "range": [
+       1,
+       7
+      ],
+      "instructions": [
+       "Reading Passage 1 has seven paragraphs, **A–G**.",
+       "Choose the correct heading for each paragraph from the list of headings below.",
+       "Write the correct number, **i–x**, in boxes 1–7 on your answer sheet."
+      ],
+      "optionsTitle": "List of Headings",
+      "options": [
+       {
+        "key": "i",
+        "text": "Not all doctors are persuaded"
+       },
+       {
+        "key": "ii",
+        "text": "Choosing the best offers"
+       },
+       {
+        "key": "iii",
+        "text": "Who is responsible for the increase in promotions?"
+       },
+       {
+        "key": "iv",
+        "text": "Fighting the drug companies"
+       },
+       {
+        "key": "v",
+        "text": "An example of what doctors expect from drug companies"
+       },
+       {
+        "key": "vi",
+        "text": "Gifts include financial incentives"
+       },
+       {
+        "key": "vii",
+        "text": "Research shows that promotion works"
+       },
+       {
+        "key": "viii",
+        "text": "The high costs of research"
+       },
+       {
+        "key": "ix",
+        "text": "The positive side of drugs promotion"
+       },
+       {
+        "key": "x",
+        "text": "Who really pays for doctors' free gifts?"
+       }
+      ],
+      "questions": [
+       {
+        "n": 1,
+        "text": "Paragraph A"
+       },
+       {
+        "n": 2,
+        "text": "Paragraph B"
+       },
+       {
+        "n": 3,
+        "text": "Paragraph C"
+       },
+       {
+        "n": 4,
+        "text": "Paragraph D"
+       },
+       {
+        "n": 5,
+        "text": "Paragraph E"
+       },
+       {
+        "n": 6,
+        "text": "Paragraph F"
+       },
+       {
+        "n": 7,
+        "text": "Paragraph G"
+       }
+      ]
+     },
+     {
+      "id": "R1-2",
+      "type": "ynng",
+      "range": [
+       8,
+       13
+      ],
+      "instructions": [
+       "Do the following statements agree with the views of the writer in Reading Passage 1?",
+       "In boxes 8–13 on your answer sheet, write",
+       "**YES** if the statement agrees with the views of the writer",
+       "**NO** if the statement contradicts the views of the writer",
+       "**NOT GIVEN** if it is impossible to say what the writer thinks about this"
+      ],
+      "questions": [
+       {
+        "n": 8,
+        "text": "Sales representatives like Kim Schaefer work to a very limited budget."
+       },
+       {
+        "n": 9,
+        "text": "Kim Schaefer's marketing technique may be open to criticism on moral grounds."
+       },
+       {
+        "n": 10,
+        "text": "The information provided by drug companies is of little use to doctors."
+       },
+       {
+        "n": 11,
+        "text": "Evidence of drug promotion is clearly visible in the healthcare environment."
+       },
+       {
+        "n": 12,
+        "text": "The drug companies may give free drug samples to patients without doctors' prescriptions."
+       },
+       {
+        "n": 13,
+        "text": "It is legitimate for drug companies to make money."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "passage": 2,
+    "range": [
+     14,
+     26
+    ],
+    "pages": [
+     90,
+     91,
+     92,
+     93
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 14–26**, which are based on Reading Passage 2 below.",
+    "title": "Do literate women make better mothers?",
+    "subtitle": null,
+    "paragraphs": [
+     {
+      "text": "Children in developing countries are healthier and more likely to survive past the age of five when their mothers can read and write. Experts in public health accepted this idea decades ago, but until now no one has been able to show that a woman's ability to read in itself improves her children's chances of survival."
+     },
+     {
+      "text": "Most literate women learnt to read in primary school, and the fact that a woman has had an education may simply indicate her family's wealth or that it values its children more highly. Now a long-term study carried out in Nicaragua has eliminated these factors by showing that teaching reading to poor adult women, who would otherwise have remained illiterate, has a direct effect on their children's health and survival."
+     },
+     {
+      "text": "In 1979, the government of Nicaragua established a number of social programmes, including a National Literacy Crusade. By 1985, about 300,000 illiterate adults from all over the country, many of whom had never attended primary school, had learnt how to read, write and use numbers."
+     },
+     {
+      "text": "During this period, researchers from the Liverpool School of Tropical Medicine, the Central American Institute of Health in Nicaragua, the National Autonomous University of Nicaragua and the Costa Rican Institute of Health interviewed nearly 3,000 women, some of whom had learnt to read as children, some during the literacy crusade and some who had never learnt at all. The women were asked how many children they had given birth to and how many of them had died in infancy. The research teams also examined the surviving children to find out how well-nourished they were."
+     },
+     {
+      "text": "The investigators' findings were striking. In the late 1970s, the infant mortality rate for the children of illiterate mothers was around 110 deaths per thousand live births. At this point in their lives, those mothers who later went on to learn to read had a similar level of child mortality (105/1000). For women educated in primary school, however, the infant mortality rate was significantly lower, at 80 per thousand."
+     },
+     {
+      "text": "In 1985, after the National Literacy Crusade had ended, the infant mortality figures for those who remained illiterate and for those educated in primary school remained more or less unchanged. For those women who learnt to read through the campaign, the infant mortality rate was 84 per thousand, an impressive 21 points lower than for those women who were still illiterate. The children of the newly-literate mothers were also better nourished than those of women who could not read."
+     },
+     {
+      "text": "Why are the children of literate mothers better off? According to Peter Sandiford of the Liverpool School of Tropical Medicine, no one knows for certain. Child health was not on the curriculum during the women's lessons, so he and his colleagues are looking at other factors. They are working with the same group of 3,000 women, to try to find out whether reading mothers make better use of hospitals and clinics, opt for smaller families, exert more control at home, learn modern childcare techniques more quickly, or whether they merely have more respect for themselves and their children."
+     },
+     {
+      "text": "The Nicaraguan study may have important implications for governments and aid agencies that need to know where to direct their resources. Sandiford says that there is increasing evidence that female education, at any age, is 'an important health intervention in its own right'. The results of the study lend support to the World Bank's recommendation that education budgets in developing countries should be increased, not just to help their economies, but also to improve child health."
+     },
+     {
+      "text": "'We've known for a long time that maternal education is important,' says John Cleland of the London School of Hygiene and Tropical Medicine. 'But we thought that even if we started educating girls today, we'd have to wait a generation for the pay-off. The Nicaraguan study suggests we may be able to bypass that.'"
+     },
+     {
+      "text": "Cleland warns that the Nicaraguan crusade was special in many ways, and similar campaigns elsewhere might not work as well. It is notoriously difficult to teach adults skills that do not have an immediate impact on their everyday lives, and many literacy campaigns in other countries have been much less successful. 'The crusade was part of a larger effort to bring a better life to the people,' says Cleland. Replicating these conditions in other countries will be a major challenge for development workers."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R2-1",
+      "type": "completion",
+      "range": [
+       14,
+       18
+      ],
+      "instructions": [
+       "Complete the summary using the list of words, **A–J**, below.",
+       "Write the correct letter, **A–J**, in boxes 14–18 on your answer sheet.",
+       "**NB** You may use any letter more than once."
+      ],
+      "content": [
+       {
+        "t": "p",
+        "text": "The Nicaraguan National Literacy Crusade aimed to teach large numbers of illiterate {{14}} to read and write. Public health experts have known for many years that there is a connection between child health and {{15}} . However, it has not previously been known whether these two factors were directly linked or not. This question has been investigated by {{16}} in Nicaragua. As a result, factors such as {{17}} and attitudes to children have been eliminated, and it has been shown that {{18}} can in itself improve infant health and survival."
+       }
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": "child literacy"
+       },
+       {
+        "key": "B",
+        "text": "men and women"
+       },
+       {
+        "key": "C",
+        "text": "an international research team"
+       },
+       {
+        "key": "D",
+        "text": "medical care"
+       },
+       {
+        "key": "E",
+        "text": "mortality"
+       },
+       {
+        "key": "F",
+        "text": "maternal literacy"
+       },
+       {
+        "key": "G",
+        "text": "adults and children"
+       },
+       {
+        "key": "H",
+        "text": "paternal literacy"
+       },
+       {
+        "key": "I",
+        "text": "a National Literacy Crusade"
+       },
+       {
+        "key": "J",
+        "text": "family wealth"
+       }
+      ]
+     },
+     {
+      "id": "R2-2",
+      "type": "ynng",
+      "range": [
+       19,
+       24
+      ],
+      "instructions": [
+       "Do the following statements agree with the claims of the writer in Reading Passage 2?",
+       "In boxes 19–24 on your answer sheet, write",
+       "**YES** if the statement agrees with the claims of the writer",
+       "**NO** if the statement contradicts the claims of the writer",
+       "**NOT GIVEN** if it is impossible to say what the writer thinks about this"
+      ],
+      "questions": [
+       {
+        "n": 19,
+        "text": "About a thousand of the women interviewed by the researchers had learnt to read when they were children."
+       },
+       {
+        "n": 20,
+        "text": "Before the National Literacy Crusade, illiterate women had approximately the same levels of infant mortality as those who had learnt to read in primary school."
+       },
+       {
+        "n": 21,
+        "text": "Before and after the National Literacy Crusade, the child mortality rate for the illiterate women stayed at about 110 deaths for each thousand live births."
+       },
+       {
+        "n": 22,
+        "text": "The women who had learnt to read through the National Literacy Crusade showed the greatest change in infant mortality levels."
+       },
+       {
+        "n": 23,
+        "text": "The women who had learnt to read through the National Literacy Crusade had the lowest rates of child mortality."
+       },
+       {
+        "n": 24,
+        "text": "After the National Literacy Crusade, the children of the women who remained illiterate were found to be severely malnourished."
+       }
+      ]
+     },
+     {
+      "id": "R2-3",
+      "type": "multi",
+      "range": [
+       25,
+       26
+      ],
+      "n": [
+       25,
+       26
+      ],
+      "select": 2,
+      "instructions": [
+       "Choose **TWO** letters, **A–E**.",
+       "Write the correct letters in boxes 25 and 26 on your answer sheet."
+      ],
+      "text": "Which **TWO** important implications drawn from the Nicaraguan study are mentioned by the writer of the passage?",
+      "options": [
+       {
+        "key": "A",
+        "text": "It is better to educate mature women than young girls."
+       },
+       {
+        "key": "B",
+        "text": "Similar campaigns in other countries would be equally successful."
+       },
+       {
+        "key": "C",
+        "text": "The effects of maternal literacy programmes can be seen very quickly."
+       },
+       {
+        "key": "D",
+        "text": "Improving child health can quickly affect a country's economy."
+       },
+       {
+        "key": "E",
+        "text": "Money spent on female education will improve child health."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "passage": 3,
+    "range": [
+     27,
+     40
+    ],
+    "pages": [
+     94,
+     95,
+     96,
+     97,
+     98
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 27–40**, which are based on Reading Passage 3 on the following pages.",
+    "title": "Reading Passage 3",
+    "subtitle": "*Persistent bullying is one of the worst experiences a child can face. How can it be prevented? Peter Smith, Professor of Psychology at the University of Sheffield, directed the Sheffield Anti-Bullying Intervention Project, funded by the Department for Education. Here he reports on his findings.*",
+    "paragraphs": [
+     {
+      "label": "A",
+      "text": "Bullying can take a variety of forms, from the verbal – being taunted or called hurtful names – to the physical – being kicked or shoved – as well as indirect forms, such as being excluded from social groups. A survey I conducted with Irene Whitney found that in British primary schools up to a quarter of pupils reported experience of bullying, which in about one in ten cases was persistent. There was less bullying in secondary schools, with about one in twenty-five suffering persistent bullying, but these cases may be particularly recalcitrant."
+     },
+     {
+      "label": "B",
+      "text": "Bullying is clearly unpleasant, and can make the child experiencing it feel unworthy and depressed. In extreme cases it can even lead to suicide, though this is thankfully rare. Victimised pupils are more likely to experience difficulties with interpersonal relationships as adults, while children who persistently bully are more likely to grow up to be physically violent, and convicted of anti-social offences."
+     },
+     {
+      "label": "C",
+      "text": "Until recently, not much was known about the topic, and little help was available to teachers to deal with bullying. Perhaps as a consequence, schools would often deny the problem. 'There is no bullying at this school' has been a common refrain, almost certainly untrue. Fortunately more schools are now saying: 'There is not much bullying here, but when it occurs we have a clear policy for dealing with it.'"
+     },
+     {
+      "label": "D",
+      "text": "Three factors are involved in this change. First is an awareness of the severity of the problem. Second, a number of resources to help tackle bullying have become available in Britain. For example, the Scottish Council for Research in Education produced a package of materials, *Action Against Bullying*, circulated to all schools in England and Wales as well as in Scotland in summer 1992, with a second pack, *Supporting Schools Against Bullying*, produced the following year. In Ireland, *Guidelines on Countering Bullying Behaviour in Post-Primary Schools* was published in 1993. Third, there is evidence that these materials work, and that schools can achieve something. This comes from carefully conducted 'before and after' evaluations of interventions in schools, monitored by a research team. In Norway, after an intervention campaign was introduced nationally, an evaluation of forty-two schools suggested that, over a two-year period, bullying was halved. The Sheffield investigation, which involved sixteen primary schools and seven secondary schools, found that most schools succeeded in reducing bullying."
+     },
+     {
+      "label": "E",
+      "text": "Evidence suggests that a key step is to develop a policy on bullying, saying clearly what is meant by bullying, and giving explicit guidelines on what will be done if it occurs, what records will be kept, who will be informed, what sanctions will be employed. The policy should be developed through consultation, over a period of time – not just imposed from the head teacher's office! Pupils, parents and staff should feel they have been involved in the policy, which needs to be disseminated and implemented effectively."
+     },
+     {
+      "text": "Other actions can be taken to back up the policy. There are ways of dealing with the topic through the curriculum, using video, drama and literature. These are useful for raising awareness, and can best be tied in to early phases of development, while the school is starting to discuss the issue of bullying. They are also useful in renewing the policy for new pupils, or revising it in the light of experience. But curriculum work alone may only have short-term effects; it should be an addition to policy work, not a substitute."
+     },
+     {
+      "text": "There are also ways of working with individual pupils, or in small groups. Assertiveness training for pupils who are liable to be victims is worthwhile, and certain approaches to group bullying such as 'no blame', can be useful in changing the behaviour of bullying pupils without confronting them directly, although other sanctions may be needed for those who continue with persistent bullying."
+     },
+     {
+      "text": "Work in the playground is important, too. One helpful step is to train lunchtime supervisors to distinguish bullying from playful fighting, and help them break up conflicts. Another possibility is to improve the playground environment, so that pupils are less likely to be led into bullying from boredom or frustration."
+     },
+     {
+      "label": "F",
+      "text": "With these developments, schools can expect that at least the most serious kinds of bullying can largely be prevented. The more effort put in and the wider the whole school involvement, the more substantial the results are likely to be. The reduction in bullying – and the consequent improvement in pupil happiness – is surely a worthwhile objective."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R3-1",
+      "type": "matching",
+      "range": [
+       27,
+       30
+      ],
+      "instructions": [
+       "Reading Passage 3 has six sections, **A–F**.",
+       "Choose the correct heading for sections **A–D** from the list of headings below.",
+       "Write the correct number, **i–vii**, in boxes 27–30 on your answer sheet."
+      ],
+      "optionsTitle": "List of Headings",
+      "options": [
+       {
+        "key": "i",
+        "text": "The role of video violence"
+       },
+       {
+        "key": "ii",
+        "text": "The failure of government policy"
+       },
+       {
+        "key": "iii",
+        "text": "Reasons for the increased rate of bullying"
+       },
+       {
+        "key": "iv",
+        "text": "Research into how common bullying is in British schools"
+       },
+       {
+        "key": "v",
+        "text": "The reaction from schools to enquiries about bullying"
+       },
+       {
+        "key": "vi",
+        "text": "The effect of bullying on the children involved"
+       },
+       {
+        "key": "vii",
+        "text": "Developments that have led to a new approach by schools"
+       }
+      ],
+      "questions": [
+       {
+        "n": 27,
+        "text": "Section A"
+       },
+       {
+        "n": 28,
+        "text": "Section B"
+       },
+       {
+        "n": 29,
+        "text": "Section C"
+       },
+       {
+        "n": 30,
+        "text": "Section D"
+       }
+      ]
+     },
+     {
+      "id": "R3-2",
+      "type": "choice",
+      "range": [
+       31,
+       34
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B**, **C** or **D**.",
+       "Write the correct letter in boxes 31–34 on your answer sheet."
+      ],
+      "questions": [
+       {
+        "n": 31,
+        "text": "A recent survey found that in British secondary schools",
+        "options": [
+         {
+          "key": "A",
+          "text": "there was more bullying than had previously been the case."
+         },
+         {
+          "key": "B",
+          "text": "there was less bullying than in primary schools."
+         },
+         {
+          "key": "C",
+          "text": "cases of persistent bullying were very common."
+         },
+         {
+          "key": "D",
+          "text": "indirect forms of bullying were particularly difficult to deal with."
+         }
+        ]
+       },
+       {
+        "n": 32,
+        "text": "Children who are bullied",
+        "options": [
+         {
+          "key": "A",
+          "text": "are twice as likely to commit suicide as the average person."
+         },
+         {
+          "key": "B",
+          "text": "find it more difficult to relate to adults."
+         },
+         {
+          "key": "C",
+          "text": "are less likely to be violent in later life."
+         },
+         {
+          "key": "D",
+          "text": "may have difficulty forming relationships in later life."
+         }
+        ]
+       },
+       {
+        "n": 33,
+        "text": "The writer thinks that the declaration 'There is no bullying at this school'",
+        "options": [
+         {
+          "key": "A",
+          "text": "is no longer true in many schools."
+         },
+         {
+          "key": "B",
+          "text": "was not in fact made by many schools."
+         },
+         {
+          "key": "C",
+          "text": "reflected the school's lack of concern."
+         },
+         {
+          "key": "D",
+          "text": "reflected a lack of knowledge and resources."
+         }
+        ]
+       },
+       {
+        "n": 34,
+        "text": "What were the findings of research carried out in Norway?",
+        "options": [
+         {
+          "key": "A",
+          "text": "Bullying declined by 50% after an anti-bullying campaign."
+         },
+         {
+          "key": "B",
+          "text": "Twenty-one schools reduced bullying as a result of an anti-bullying campaign."
+         },
+         {
+          "key": "C",
+          "text": "Two years is the optimum length for an anti-bullying campaign."
+         },
+         {
+          "key": "D",
+          "text": "Bullying is a less serious problem in Norway than in the UK."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "R3-3",
+      "type": "completion",
+      "range": [
+       35,
+       39
+      ],
+      "instructions": [
+       "Complete the summary below.",
+       "Choose **NO MORE THAN TWO WORDS** from the passage for each answer.",
+       "Write your answers in boxes 35–39 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "What steps should schools take to reduce bullying?"
+       },
+       {
+        "t": "p",
+        "text": "The most important step is for the school authorities to produce a {{35}} which makes the school's attitude towards bullying quite clear. It should include detailed {{36}} as to how the school and its staff will react if bullying occurs."
+       },
+       {
+        "t": "p",
+        "text": "In addition, action can be taken through the {{37}} . This is particularly useful in the early part of the process, as a way of raising awareness and encouraging discussion. On its own, however, it is insufficient to bring about a permanent solution."
+       },
+       {
+        "t": "p",
+        "text": "Effective work can also be done with individual pupils and small groups. For example, potential {{38}} of bullying can be trained to be more self-confident. Or again, in dealing with group bullying, a 'no blame' approach, which avoids confronting the offender too directly, is often effective."
+       },
+       {
+        "t": "p",
+        "text": "Playground supervision will be more effective if members of staff are trained to recognise the difference between bullying and mere {{39}} ."
+       }
+      ]
+     },
+     {
+      "id": "R3-4",
+      "type": "choice",
+      "range": [
+       40,
+       40
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B**, **C** or **D**.",
+       "Write the correct letter in box 40 on your answer sheet."
+      ],
+      "questions": [
+       {
+        "n": 40,
+        "text": "Which of the following is the most suitable title for Reading Passage 3?",
+        "options": [
+         {
+          "key": "A",
+          "text": "Bullying: what parents can do"
+         },
+         {
+          "key": "B",
+          "text": "Bullying: are the media to blame?"
+         },
+         {
+          "key": "C",
+          "text": "Bullying: the link with academic failure"
+         },
+         {
+          "key": "D",
+          "text": "Bullying: from crisis management to prevention"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "answers": {
+   "1": {
+    "a": [
+     "v"
+    ]
+   },
+   "2": {
+    "a": [
+     "vi"
+    ]
+   },
+   "3": {
+    "a": [
+     "iii"
+    ]
+   },
+   "4": {
+    "a": [
+     "ix"
+    ]
+   },
+   "5": {
+    "a": [
+     "i"
+    ]
+   },
+   "6": {
+    "a": [
+     "vii"
+    ]
+   },
+   "7": {
+    "a": [
+     "x"
+    ]
+   },
+   "8": {
+    "a": [
+     "NO"
+    ]
+   },
+   "9": {
+    "a": [
+     "YES"
+    ]
+   },
+   "10": {
+    "a": [
+     "NO"
+    ]
+   },
+   "11": {
+    "a": [
+     "YES"
+    ]
+   },
+   "12": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "13": {
+    "a": [
+     "YES"
+    ]
+   },
+   "14": {
+    "a": [
+     "B"
+    ]
+   },
+   "15": {
+    "a": [
+     "F"
+    ]
+   },
+   "16": {
+    "a": [
+     "C"
+    ]
+   },
+   "17": {
+    "a": [
+     "J"
+    ]
+   },
+   "18": {
+    "a": [
+     "F"
+    ]
+   },
+   "19": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "20": {
+    "a": [
+     "NO"
+    ]
+   },
+   "21": {
+    "a": [
+     "YES"
+    ]
+   },
+   "22": {
+    "a": [
+     "YES"
+    ]
+   },
+   "23": {
+    "a": [
+     "NO"
+    ]
+   },
+   "24": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "25": {
+    "a": [
+     "C"
+    ]
+   },
+   "26": {
+    "a": [
+     "E"
+    ]
+   },
+   "27": {
+    "a": [
+     "iv"
+    ]
+   },
+   "28": {
+    "a": [
+     "vi"
+    ]
+   },
+   "29": {
+    "a": [
+     "v"
+    ]
+   },
+   "30": {
+    "a": [
+     "vii"
+    ]
+   },
+   "31": {
+    "a": [
+     "B"
+    ]
+   },
+   "32": {
+    "a": [
+     "D"
+    ]
+   },
+   "33": {
+    "a": [
+     "D"
+    ]
+   },
+   "34": {
+    "a": [
+     "A"
+    ]
+   },
+   "35": {
+    "a": [
+     "policy"
+    ]
+   },
+   "36": {
+    "a": [
+     "explicit guidelines",
+     "guidelines"
+    ],
+    "k": "(explicit) guidelines"
+   },
+   "37": {
+    "a": [
+     "school curriculum",
+     "curriculum"
+    ],
+    "k": "(school) curriculum"
+   },
+   "38": {
+    "a": [
+     "victims"
+    ]
+   },
+   "39": {
+    "a": [
+     "playful fighting"
+    ]
+   },
+   "40": {
+    "a": [
+     "D"
+    ]
+   }
+  }
+ },
+ "writing": {
+  "tasks": [
+   {
+    "task": 1,
+    "minutes": 20,
+    "minWords": 150,
+    "pages": [
+     99
+    ],
+    "prompt": [
+     "The charts below give information about USA marriage and divorce rates between 1970 and 2000, and the marital status of adult Americans in two of the years.",
+     "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+    ],
+    "image": "images/C6/C6-T4-W1.png",
+    "sample": {
+     "kind": "candidate",
+     "band": "6.5",
+     "text": "We are given two charts which show us a few sets of data about the marital status of the Americans between 1970 and 2000.\n\nThe first chart compares the number of marriages and divorces in the United States of America between 1970 and 2000. We can see that data is given for each decade; the number of people who are getting married decreased slightly since 1980, as well as the divorces one. Nevertheless, divorces increased between 1970 and 1980.\n\nThe second chart is more precise about the different marital status of the Americans between 1970 and 2000. The number of divorced people has risen more than the double during this two years, and the data for the never married people has also increased significantly. However, less and less people are married, as the first chart showed us; the widowed American number is also decreasing.\n\nAs a conclusion, we can say that the marital status background of the Americans has maybe known the greatest change it had ever seen.",
+     "comment": "The Task Achievement is the weak point in this answer. Some of the data is summarised but the points are not well-selected to convey the key trends shown in the charts. The main features of the first chart are not adequately presented and the overall conclusion does not summarise the main information. No figures are given to illustrate the points made.\nThe information is well-organised, however, with clear paragraphing and well-signalled sections. The accurate use of a range of sequencers and other linkers makes it easy to follow the writing. There are examples of errors but they are not frequent and do not cause confusion.\nA range of vocabulary is used with flexibility, in spite of some inappropriate collocations and awkward phrasing. Structures are varied and generally accurate, while any mistakes do not make the message unclear."
+    }
+   },
+   {
+    "task": 2,
+    "minutes": 40,
+    "minWords": 250,
+    "pages": [
+     100
+    ],
+    "prompt": [
+     "Write about the following topic:",
+     "*Some people prefer to spend their lives doing the same things and avoiding change. Others, however, think that change is always a good thing.*",
+     "*Discuss both these views and give your own opinion.*",
+     "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+    ],
+    "sample": {
+     "kind": "model",
+     "band": null,
+     "text": "Over the last half century the pace of change in the life of human beings has increased beyond our wildest expectations. This has been driven by technological and scientific breakthroughs that are changing the whole way we view the world on an almost daily basis. This means that change is not always a personal option, but an inescapable fact of life, and we need to constantly adapt to keep pace with it.\n\nThose people who believe they have achieved some security by doing the same, familiar things are living in denial. Even when people believe they are resisting change themselves, they cannot stop the world around them from changing. Sooner or later they will find that the familiar jobs no longer exist, or that the 'safe' patterns of behaviour are no longer appropriate.\n\nHowever, reaching the conclusion that change is inevitable is not the same as assuming that 'change is always for the better'. Unfortunately, it is not always the case that new things are promoted because they have good impacts for the majority of people. A lot of innovations are made with the aim of making money for a few. This is because it is the rich and powerful people in our society who are able to impose changes (such as in working conditions or property developments) that are in their own interests.\n\nIn conclusion, I would say that change can be stimulating and energising for individuals when they pursue it themselves, but that all change, including that which is imposed on people, does not necessarily have good outcomes.",
+     "comment": null
+    }
+   }
+  ]
+ },
+ "issues": []
+}

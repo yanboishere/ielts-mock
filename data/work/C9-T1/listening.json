@@ -1,0 +1,820 @@
+{
+  "parts": [
+    {
+      "part": 1,
+      "range": [
+        1,
+        10
+      ],
+      "pages": [
+        1
+      ],
+      "groups": [
+        {
+          "id": "L1-1",
+          "type": "completion",
+          "range": [
+            1,
+            10
+          ],
+          "instructions": [
+            "Complete the notes below.",
+            "Write **NO MORE THAN THREE WORDS AND/OR A NUMBER** for each answer."
+          ],
+          "content": [
+            {
+              "t": "h",
+              "text": "JOB ENQUIRY"
+            },
+            {
+              "t": "note",
+              "text": "*Example*"
+            },
+            {
+              "t": "li",
+              "text": "Work at: *a restaurant*"
+            },
+            {
+              "t": "li",
+              "text": "Type of work: {{1}}"
+            },
+            {
+              "t": "li",
+              "text": "Number of hours per week: 12 hours"
+            },
+            {
+              "t": "li",
+              "text": "Would need work permit"
+            },
+            {
+              "t": "li",
+              "text": "Work in the: {{2}} branch"
+            },
+            {
+              "t": "li",
+              "text": "Nearest bus stop: next to {{3}}"
+            },
+            {
+              "t": "li",
+              "text": "Pay: £{{4}} an hour"
+            },
+            {
+              "t": "li",
+              "text": "Extra benefits:"
+            },
+            {
+              "t": "li",
+              "level": 2,
+              "text": "– a free dinner"
+            },
+            {
+              "t": "li",
+              "level": 2,
+              "text": "– extra pay when you work on {{5}}"
+            },
+            {
+              "t": "li",
+              "level": 2,
+              "text": "– transport home when you work {{6}}"
+            },
+            {
+              "t": "li",
+              "text": "Qualities required:"
+            },
+            {
+              "t": "li",
+              "level": 2,
+              "text": "– {{7}}"
+            },
+            {
+              "t": "li",
+              "level": 2,
+              "text": "– ability to {{8}}"
+            },
+            {
+              "t": "li",
+              "text": "Interview arranged for: Thursday {{9}} at 6 p.m."
+            },
+            {
+              "t": "li",
+              "text": "Bring the names of two referees"
+            },
+            {
+              "t": "li",
+              "text": "Ask for: Samira {{10}}"
+            }
+          ]
+        }
+      ],
+      "transcript": "WOMAN: Good evening. King's Restaurant.\nMAN: Good evening. I'm ringing about the job I understand you have vacant.\nWOMAN: Oh yes.\nMAN: I'd like to find out a few more details, if I may.\nWOMAN: Yes, of course. Can I take your name?\nMAN: It's Peter Chin.\nWOMAN: Okay Peter. Well, if you want to ask about the job and then if we're both still interested, we could arrange for you to come for an interview.\nMAN: Great, thanks. I'm afraid I missed the advert for the job but heard about it from a friend.\nWOMAN: That's no problem at all. What would you like to know?\nMAN: Well, um, what sort of work is it - washing up?\nWOMAN: It's answering the phone. [Q1]\nMAN: Oh right, fine.\nWOMAN: And not waiting at table.\nMAN: That'd be good. And how many nights a week would it be?\nWOMAN: Well, we're really only busy at the weekend.\nMAN: So two nights?\nWOMAN: Three actually, so it would work out at twelve hours a week.\nMAN: That'd be fine. It wouldn't interfere with my studies.\nWOMAN: Are you at the university?\nMAN: Yes. First year Physics student.\nWOMAN: Oh, right.\nMAN: Um, and because I'm not an EU national would I need a work permit?\nWOMAN: Yes you would. Just get your tutor to sign it.\nMAN: That wouldn't be a problem, if I were to get the job. Um, where exactly is the restaurant?\nWOMAN: Well, we have two branches - the one we're recruiting for is in Hillsdunne Road. [Q2]\nMAN: I don't know that. How do you spell it please?\nWOMAN: It's H-I-double L-S-D-U-double N-E Road.\nMAN: Got that. Thanks. Is it near a bus stop?\nWOMAN: Yes. The nearest one would probably be just beside the Library. [Q3]\nMAN: Oh yes, I know it. That'd be fine for me. And could I ask about the pay?\nWOMAN: We're offering £4.45 an hour. [Q4]\nMAN: That's very good. My last job was £3.95 an hour.\nWOMAN: We feel it's pretty good and we also offer some good fringe benefits.\nMAN: Really?\nWOMAN: Well, we give you a free dinner, so you eat well.\nMAN: Right, better than hostel food!\nWOMAN: We certainly hope so! [Q5] And we also offer extra pay for working on national holidays.\nMAN: Oh, that's a really good perk, isn't it?\nWOMAN: Yes, we think so. And then because of the difficulties of getting public transport, if you're working after 11 o'clock we drive you home. [Q6]\nMAN: Oh, that's good to know.\nWOMAN: Well, we'd certainly be interested in inviting you for an interview, if you're still interested?\nMAN: Oh yes, certainly. Could I just also ask what qualities you're looking for?\nWOMAN: Well, for this particular job we want a clear voice, which you obviously do have! [Q7]\nMAN: Thanks.\nWOMAN: And you must be able to think quickly, you know. [Q8]\nMAN: Well, I hope I'd ...\nWOMAN: So, when could you come in for an interview? We're actually quite quiet tonight?\nMAN: Sorry, I couldn't come tonight. Or tomorrow, I'm afraid. Thursday's okay - that'd be 22nd of October. [Q9]\nWOMAN: Fine, after 5 p.m.?\nMAN: Yes, fine. Would 6 o'clock be okay?\nWOMAN: Perfect. And could you bring along the names of two referees?\nMAN: Yes, that's fine, no problem.\nWOMAN: Good. I look forward to seeing you.\nMAN: Oh, by the way, who should I ask for?\nWOMAN: Oh yes, of course, sorry. My name is Samira Manuja. [Q10]\nMAN: Can you spell that, please?\nWOMAN: M-A-N-U-J-A.\nMAN: Okay, I've got that. Thanks very much.\nWOMAN: Look forward to seeing you ..."
+    },
+    {
+      "part": 2,
+      "range": [
+        11,
+        20
+      ],
+      "pages": [
+        2,
+        3
+      ],
+      "groups": [
+        {
+          "id": "L2-1",
+          "type": "completion",
+          "range": [
+            11,
+            16
+          ],
+          "instructions": [
+            "Complete the notes below.",
+            "Write **ONE WORD AND/OR A NUMBER** for each answer."
+          ],
+          "content": [
+            {
+              "t": "h",
+              "text": "SPORTS WORLD"
+            },
+            {
+              "t": "li",
+              "text": "a new {{11}} of an international sports goods company"
+            },
+            {
+              "t": "li",
+              "text": "located in the shopping centre to the {{12}} of Bradcaster"
+            },
+            {
+              "t": "li",
+              "text": "has sports {{13}} and equipment on floors 1–3"
+            },
+            {
+              "t": "li",
+              "text": "can get you any item within {{14}} days"
+            },
+            {
+              "t": "li",
+              "text": "shop specializes in equipment for {{15}}"
+            },
+            {
+              "t": "li",
+              "text": "has a special section which just sells {{16}}"
+            }
+          ]
+        },
+        {
+          "id": "L2-2",
+          "type": "choice",
+          "range": [
+            17,
+            18
+          ],
+          "instructions": [
+            "Choose the correct letter, **A**, **B**, or **C**."
+          ],
+          "questions": [
+            {
+              "n": 17,
+              "text": "A champion athlete will be in the shop",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "on Saturday morning only"
+                },
+                {
+                  "key": "B",
+                  "text": "all day Saturday"
+                },
+                {
+                  "key": "C",
+                  "text": "for the whole weekend"
+                }
+              ]
+            },
+            {
+              "n": 18,
+              "text": "The first person to answer 20 quiz questions correctly will win",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "gym membership"
+                },
+                {
+                  "key": "B",
+                  "text": "a video"
+                },
+                {
+                  "key": "C",
+                  "text": "a calendar"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L2-3",
+          "type": "multi",
+          "range": [
+            19,
+            20
+          ],
+          "n": [
+            19,
+            20
+          ],
+          "select": 2,
+          "instructions": [
+            "Choose **TWO** letters, **A–E**."
+          ],
+          "text": "Which TWO pieces of information does the speaker give about the fitness test?",
+          "options": [
+            {
+              "key": "A",
+              "text": "You need to reserve a place."
+            },
+            {
+              "key": "B",
+              "text": "It is free to account holders."
+            },
+            {
+              "key": "C",
+              "text": "You get advice on how to improve your health."
+            },
+            {
+              "key": "D",
+              "text": "It takes place in a special clinic."
+            },
+            {
+              "key": "E",
+              "text": "It is cheaper this month."
+            }
+          ]
+        }
+      ],
+      "transcript": "ANDREW: Now we go to Jane who is going to tell us about what's happening in town this weekend.\nJANE: Right, thanks Andrew, and now on to what's new, and do we really need yet another sports shop in Bradcaster? Well, most of you probably know Sports World - the branch of a Danish sports goods company that opened a few years ago - it's attracted a lot of custom, and so the company has now decided to open another branch in the area. [Q11] It's going to be in the shopping centre to the west of Bradcaster, so that will be good news for all of you who've found the original shop in the north of the town hard to get to. [Q12]\nI was invited to a special preview and I can promise you, this is the ultimate in sports retailing. The whole place has been given a new minimalist look with the company's signature colours of black and red. The first three floors have a huge range of sports clothing as well as equipment, and on the top floor there's a cafe and a book and DVD section. [Q13] You'll find all the well-known names as well as some less well-known ones. If they haven't got exactly what you want in stock they promise to get it for you in ten days. [Q14] Unlike the other store, where it can take up to fourteen days. They cover all the major sports, including football, tennis and swimming, but they particularly focus on running, and they claim to have the widest range of equipment in the country. [Q15] As well as that, a whole section of the third floor is devoted to sports bags, including the latest designs from the States - if you can't find what you want here, it doesn't exist! [Q16]\nThe shop will be open from 9.00 am this Saturday and if you go along to the opening then you'll have the chance to meet the national 400 metres running champion Paul King, who's coming along to open the shop, and he will be staying around until about midday to chat to any fans who want to meet him and sign autographs. [Q17]\nThen there will be a whole range of special attractions all weekend. There will be free tickets for local sporting events for the first 50 customers, and also a special competition open to all. Just answer fifteen out of twenty sports questions correctly to win a signed copy of Paul King's DVD 'Spring Tips', while the first person to get all the questions correct gets a year's free membership of the Bradcaster Gym. [Q18] All entrants will receive a special Sports calendar with details of all Bradcaster fixtures in the coming year.\nOne of the special opening offers is a fitness test - a complete review of your cardiac fitness and muscle tone, actually done in the shop by qualified staff. This would normally cost £30.00 but is available at half price for this month only. There are only a limited number of places available for this, so to make a booking phone 560341. [Q19] [Q20] In addition, if you open an account you get lots more special offers including the chance to try out equipment at special open evenings..."
+    },
+    {
+      "part": 3,
+      "range": [
+        21,
+        30
+      ],
+      "pages": [
+        4,
+        5
+      ],
+      "groups": [
+        {
+          "id": "L3-1",
+          "type": "choice",
+          "range": [
+            21,
+            30
+          ],
+          "instructions": [
+            "Choose the correct letter, **A**, **B** or **C**."
+          ],
+          "title": "Course Feedback",
+          "questions": [
+            {
+              "n": 21,
+              "text": "One reason why Spiros felt happy about his marketing presentation was that",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "he was not nervous."
+                },
+                {
+                  "key": "B",
+                  "text": "his style was good."
+                },
+                {
+                  "key": "C",
+                  "text": "the presentation was the best in his group."
+                }
+              ]
+            },
+            {
+              "n": 22,
+              "text": "What surprised Hiroko about the other students' presentations?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Their presentations were not interesting."
+                },
+                {
+                  "key": "B",
+                  "text": "They found their presentations stressful."
+                },
+                {
+                  "key": "C",
+                  "text": "They didn't look at the audience enough."
+                }
+              ]
+            },
+            {
+              "n": 23,
+              "text": "After she gave her presentation, Hiroko felt",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "delighted."
+                },
+                {
+                  "key": "B",
+                  "text": "dissatisfied."
+                },
+                {
+                  "key": "C",
+                  "text": "embarrassed."
+                }
+              ]
+            },
+            {
+              "n": 24,
+              "text": "How does Spiros feel about his performance in tutorials?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "not very happy"
+                },
+                {
+                  "key": "B",
+                  "text": "really pleased"
+                },
+                {
+                  "key": "C",
+                  "text": "fairly confident"
+                }
+              ]
+            },
+            {
+              "n": 25,
+              "text": "Why can the other students participate so easily in discussions?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They are polite to each other."
+                },
+                {
+                  "key": "B",
+                  "text": "They agree to take turns in speaking."
+                },
+                {
+                  "key": "C",
+                  "text": "They know each other well."
+                }
+              ]
+            },
+            {
+              "n": 26,
+              "text": "Why is Hiroko feeling more positive about tutorials now?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "She finds the other students' opinions more interesting."
+                },
+                {
+                  "key": "B",
+                  "text": "She is making more of a contribution."
+                },
+                {
+                  "key": "C",
+                  "text": "The tutor includes her in the discussion."
+                }
+              ]
+            },
+            {
+              "n": 27,
+              "text": "To help her understand lectures, Hiroko",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "consulted reference materials."
+                },
+                {
+                  "key": "B",
+                  "text": "had extra tutorials with her lecturers."
+                },
+                {
+                  "key": "C",
+                  "text": "borrowed lecture notes from other students."
+                }
+              ]
+            },
+            {
+              "n": 28,
+              "text": "What does Spiros think of his reading skills?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "He reads faster than he used to."
+                },
+                {
+                  "key": "B",
+                  "text": "It still takes him a long time to read."
+                },
+                {
+                  "key": "C",
+                  "text": "He tends to struggle with new vocabulary."
+                }
+              ]
+            },
+            {
+              "n": 29,
+              "text": "What is Hiroko's subject area?",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "environmental studies"
+                },
+                {
+                  "key": "B",
+                  "text": "health education"
+                },
+                {
+                  "key": "C",
+                  "text": "engineering"
+                }
+              ]
+            },
+            {
+              "n": 30,
+              "text": "Hiroko thinks that in the reading classes the students should",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "learn more vocabulary."
+                },
+                {
+                  "key": "B",
+                  "text": "read more in their own subject areas."
+                },
+                {
+                  "key": "C",
+                  "text": "develop better reading strategies."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "transcript": "TEACHER: Before we start, Spiros and Hiroko, thanks for coming in today to talk about your recent study experiences and congratulations to you both in doing so well in your first semester exams! I'd like to discuss with you the value of the English for Academic Purposes course you did here last year before starting your university course. Spiros, if I could start with you, what parts of the programme have now proved to be particularly valuable to you?\nSPIROS: I think that having to do a seminar presentation really helped me. For example, a couple of weeks ago in our marketing subject, when it was my turn to give a presentation I felt quite confident. Of course, I was still nervous but because I had done one before, I knew what to expect. Also, I know I was well-prepared and I had practised my timing. In fact, I think that in relation to some of the other people in my group, I did quite a good job because my overall style was quite professional. [Q21] What about you, Hiroko?\nHIROKO: Mmm, that's interesting. In my group, I was really surprised by the way the students did their presentations - they just read their notes aloud! Can you believe that? They didn't worry about their presentation style or keeping eye contact with their audience - and I remember that these things were really stressed to us in the course here. [Q22]\nTEACHER: So, how did you approach your presentation, Hiroko?\nHIROKO: Well, to speak frankly, I read my notes too! At the time, it was a relief to do it this way, but actually when I had finished, I didn't feel any real sense of satisfaction. [Q23] I didn't feel positive about the experience at all.\nSPIROS: That's a pity. You know, although I was pleased with my presentation, I am not so pleased with my actual performance right now in the tutorials - during the whole semester I've not said anything in our tutorial discussions. [Q24] Not a word.\nHIROKO: Really, Spiros? Why's that? Do the other students talk too much?\nSPIROS: It's partly that, but it's mostly because I have had no confidence to speak out. Their style of speaking is so different - it's not the style we were used to during the course. They use so many colloquialisms, they're not very polite and sometimes there seems to be no order in their discussion. Also, they are very familiar with each other, so because they know each other's habits, they can let each other into the discussion. [Q25]\nHIROKO: You're right, Spiros, I've experienced that too.\nHIROKO: For most of this semester, I've said absolutely nothing in tutorials. But recently, I've been trying to speak up more and I just jump in, and I've noticed an interesting thing, I've noticed that if they thought my point was interesting or new, then the next time they actually asked for my opinion, and then it was much easier for me to be part of the discussion. [Q26]\nSPIROS: That's great, Hiroko! I hope that happens for me next semester - I'll have to work hard to find some interesting points. What helped you to find these ideas?\nHIROKO: I think that one thing that helped me with this was the reading. I've had to do so much reading this semester just to help me make sense of the lectures. At first I couldn't understand what the lecturers were talking about, so I had to turn to the books and journals. [Q27] Every night I read for hours, using the lists of references that were given, and I made pages of notes. At breakfast, I read and read my notes again. This habit has helped me to follow the ideas in the lectures, and it's also given me some ideas to use in the tutorials.\nSPIROS: But I did so much reading anyway - I don't think there's any time left over for anything extra. My reading speed is still quite slow, though I'm much better at dealing with vocabulary than I used to be. [Q28]\nTEACHER: What else do you think we could add to the course program to help with this reading problem?\nSPIROS: There's not really anything because it's my problem. I remember we were given long articles to read. We didn't like that but now I realise that reading those long articles was good preparation for the things I need to read now. Also, in class we regularly had speed-reading tasks to do, and we kept a record of our reading speed, so the teachers were encouraging us to work on that.\nHIROKO: That's true Spiros, but what we read could have been different. Sometimes in the English class I felt frustrated when I had to read articles about the environment or health or education, because I wanted to concentrate on my own field but we didn't read anything about engineering. [Q29] So, I think I wasted some time learning vocabulary I didn't need.\nTEACHER: But surely the strategies you were taught for dealing with that vocabulary were helpful.\nHIROKO: Yes, but psychologically speaking, I would have felt much better working on reading from my own field. [Q30] What do you think Spiros?\nSPIROS: I agree; that would have helped my confidence too and I would have been more motivated. It was good though that we could work on our own topics when we wrote the research assignments.\nTEACHER: Okay, let's move on to writing now ..."
+    },
+    {
+      "part": 4,
+      "range": [
+        31,
+        40
+      ],
+      "pages": [
+        6
+      ],
+      "groups": [
+        {
+          "id": "L4-1",
+          "type": "completion",
+          "range": [
+            31,
+            40
+          ],
+          "instructions": [
+            "Complete the notes below",
+            "Write **NO MORE THAN TWO WORDS** for each answer."
+          ],
+          "content": [
+            {
+              "t": "h",
+              "text": "Mass Strandings of Whales and Dolphins"
+            },
+            {
+              "t": "p",
+              "text": "Mass strandings: situations where groups of whales, dolphins, etc. swim onto the beach and die"
+            },
+            {
+              "t": "p",
+              "text": "Common in areas where the {{31}} can change quickly"
+            },
+            {
+              "t": "p",
+              "text": "Several other theories:"
+            },
+            {
+              "t": "sub",
+              "text": "Parasites"
+            },
+            {
+              "t": "p",
+              "text": "e.g. some parasites can affect marine animals' {{32}}, which they depend on for navigation"
+            },
+            {
+              "t": "sub",
+              "text": "Toxins"
+            },
+            {
+              "t": "p",
+              "text": "Poisons from {{33}} are commonly consumed by whales"
+            },
+            {
+              "t": "p",
+              "text": "e.g. Cape Cod (1988) – whales were killed by saxitoxin"
+            },
+            {
+              "t": "sub",
+              "text": "Accidental Strandings"
+            },
+            {
+              "t": "p",
+              "text": "Animals may follow prey ashore, e.g. Thurston (1995)"
+            },
+            {
+              "t": "p",
+              "text": "Unlikely because the majority of animals were not {{34}} when they stranded"
+            },
+            {
+              "t": "sub",
+              "text": "Human Activity"
+            },
+            {
+              "t": "p",
+              "text": "{{35}} from military tests are linked to some recent strandings"
+            },
+            {
+              "t": "p",
+              "text": "The Bahamas (2000) stranding was unusual because the whales"
+            },
+            {
+              "t": "li",
+              "text": "were all {{36}}"
+            },
+            {
+              "t": "li",
+              "text": "were not in a {{37}}"
+            },
+            {
+              "t": "sub",
+              "text": "Group Behaviour"
+            },
+            {
+              "t": "li",
+              "text": "More strandings in the most {{38}} species of whales"
+            },
+            {
+              "t": "li",
+              "text": "1994 dolphin stranding – only the {{39}} was ill"
+            },
+            {
+              "t": "sub",
+              "text": "Further Reading"
+            },
+            {
+              "t": "p",
+              "text": "Marine Mammals Ashore (Connor) – gives information about stranding {{40}}"
+            }
+          ]
+        }
+      ],
+      "transcript": "Good afternoon everyone. Well, with some of you about to go out on field work it's timely that in this afternoon's session I'll be sharing some ideas about the reasons why groups of whales and dolphins sometimes swim ashore from the sea right onto the beach and, most often, die in what are known as 'mass strandings'.\nUnfortunately, this type of event is a frequent occurrence in some of the locations that you'll be travelling to, where sometimes the tide goes out suddenly, confusing the animals. [Q31] However, there are many other theories about the causes of mass strandings.\nThe first is that the behaviour is linked to parasites. It's often found that stranded animals were infested with large numbers of parasites. For instance, a type of worm is commonly found in the ears of dead whales. Since marine animals rely heavily on their hearing to navigate, this type of infestation has the potential to be very harmful. [Q32]\nAnother theory is related to toxins, or poisons. These have also been found to contribute to the death of many marine animals. Many toxins, as I'm sure you're aware, originate from plants, or animals. [Q33] The whale ingests these toxins in its normal feeding behaviour but whether these poisons directly or indirectly lead to stranding and death, seems to depend upon the toxin involved.\nIn 1988, for example, fourteen humpback whales examined after stranding along the beaches of Cape Cod were found to have been poisoned after eating tuna that contained saxitoxin, the same toxin that can be fatal in humans.\nAlternatively, it has also been suggested that some animals strand accidentally by following their prey ashore in the confusion of the chase. In 1995 David Thurston monitored pilot whales that beached after following squid ashore. However, this idea does not seem to hold true for the majority of mass strandings because examination of the animals' stomach contents reveal that most had not been feeding as they stranded. [Q34]\nThere are also some new theories which link strandings to humans. A growing concern is that loud noises in the ocean cause strandings. Noises such as those caused by military exercises are of particular concern and have been pinpointed as the cause of some strandings of late. [Q35]\nOne of these, a mass stranding of whales in 2000 in the Bahamas coincided closely with experiments using a new submarine detection system. There were several factors that made this stranding stand out as different from previous strandings. This led researchers to look for a new cause. For one, all the stranded animals were healthy. [Q36] In addition, the animals were spread out along 38 kilometres of coast, whereas it's more common for the animals to be found in a group when mass strandings occur. [Q37]\nA final theory is related to group behaviour, and suggests that sea mammals cannot distinguish between sick and healthy leaders and will follow sick leaders, even to an inevitable death. This is a particularly interesting theory since the whales that are thought to be most social - the toothed whales - are the group that strand the most frequently. [Q38]\nThe theory is also supported by evidence from a dolphin stranding in 1994. Examination of the dead animals revealed that apart from the leader, all the others had been healthy at the time of their death. [Q39]\nWithout one consistent theory however it is very hard for us to do anything about this phenomenon except to assist animals where and when we can. Stranding networks have been established around the world to aid in rescuing animals and collecting samples from those that could not be helped. [Q40] I recommend John Connor's Marine Mammals Ashore as an excellent starting point if you're interested in finding out more about these networks, or establishing one yourself."
+    }
+  ],
+  "answers": {
+    "1": {
+      "a": [
+        "answer phone",
+        "answering phone",
+        "answer the phone",
+        "answering the phone"
+      ],
+      "k": "answer(ing) (the) phone"
+    },
+    "2": {
+      "a": [
+        "Hillsdunne Road"
+      ]
+    },
+    "3": {
+      "a": [
+        "library"
+      ]
+    },
+    "4": {
+      "a": [
+        "4.45"
+      ]
+    },
+    "5": {
+      "a": [
+        "national holidays"
+      ]
+    },
+    "6": {
+      "a": [
+        "after 11",
+        "after 11 o'clock"
+      ],
+      "k": "after 11 (o'clock)"
+    },
+    "7": {
+      "a": [
+        "clear voice"
+      ]
+    },
+    "8": {
+      "a": [
+        "think quickly"
+      ]
+    },
+    "9": {
+      "a": [
+        "22 October"
+      ]
+    },
+    "10": {
+      "a": [
+        "Manuja"
+      ]
+    },
+    "11": {
+      "a": [
+        "branch"
+      ]
+    },
+    "12": {
+      "a": [
+        "west"
+      ]
+    },
+    "13": {
+      "a": [
+        "clothing"
+      ]
+    },
+    "14": {
+      "a": [
+        "10"
+      ]
+    },
+    "15": {
+      "a": [
+        "running"
+      ]
+    },
+    "16": {
+      "a": [
+        "bags"
+      ]
+    },
+    "17": {
+      "a": [
+        "A"
+      ]
+    },
+    "18": {
+      "a": [
+        "A"
+      ]
+    },
+    "19": {
+      "a": [
+        "A"
+      ],
+      "k": "19&20 IN EITHER ORDER A E"
+    },
+    "20": {
+      "a": [
+        "E"
+      ],
+      "k": "19&20 IN EITHER ORDER A E"
+    },
+    "21": {
+      "a": [
+        "B"
+      ]
+    },
+    "22": {
+      "a": [
+        "C"
+      ]
+    },
+    "23": {
+      "a": [
+        "B"
+      ]
+    },
+    "24": {
+      "a": [
+        "A"
+      ]
+    },
+    "25": {
+      "a": [
+        "C"
+      ]
+    },
+    "26": {
+      "a": [
+        "B"
+      ]
+    },
+    "27": {
+      "a": [
+        "A"
+      ]
+    },
+    "28": {
+      "a": [
+        "B"
+      ]
+    },
+    "29": {
+      "a": [
+        "C"
+      ]
+    },
+    "30": {
+      "a": [
+        "B"
+      ]
+    },
+    "31": {
+      "a": [
+        "tide",
+        "tides"
+      ],
+      "k": "tide/tides"
+    },
+    "32": {
+      "a": [
+        "hearing",
+        "ear",
+        "ears"
+      ],
+      "k": "hearing/ear/ears"
+    },
+    "33": {
+      "a": [
+        "plants or animals",
+        "animals or plants",
+        "plants and animals",
+        "animals and plants",
+        "plants animals",
+        "animals plants",
+        "plants or fish",
+        "fish or plants",
+        "plants and fish",
+        "fish and plants",
+        "plants fish",
+        "fish plants",
+        "plants or fishes",
+        "fishes or plants",
+        "plants and fishes",
+        "fishes and plants",
+        "plants fishes",
+        "fishes plants"
+      ],
+      "k": "IN EITHER ORDER; BOTH REQUIRED FOR ONE MARK plants animals/fish/fishes"
+    },
+    "34": {
+      "a": [
+        "feeding"
+      ]
+    },
+    "35": {
+      "a": [
+        "noise",
+        "noises"
+      ],
+      "k": "noise/noises"
+    },
+    "36": {
+      "a": [
+        "healthy"
+      ]
+    },
+    "37": {
+      "a": [
+        "group"
+      ]
+    },
+    "38": {
+      "a": [
+        "social"
+      ]
+    },
+    "39": {
+      "a": [
+        "leader"
+      ]
+    },
+    "40": {
+      "a": [
+        "network",
+        "networks"
+      ],
+      "k": "network/networks"
+    }
+  },
+  "issues": [
+    "Listening Q33: the notes print two blanks ('33 ____ or ____') for a single question (key: both required for one mark); rendered as one gap {{33}} accepting 'plants or animals' etc.",
+    "Retyping errors corrected: 'NOW we go' → 'Now we go'; 'Bradcasster' → 'Bradcaster'; '12hours' → '12 hours'; Q24 'his performance tutorials' → 'his performance in tutorials'; Q27 option 'extra tutorials with her lectures' → 'with her lecturers'; Q34 notes 'prey as hore' → 'prey ashore'. Left as printed: Part 2 DVD title 'Spring Tips' (possibly 'Sprint Tips')."
+  ]
+}

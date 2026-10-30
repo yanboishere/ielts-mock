@@ -1,0 +1,738 @@
+{
+ "parts": [
+  {
+   "part": 1,
+   "range": [
+    1,
+    10
+   ],
+   "pages": [
+    11,
+    12
+   ],
+   "groups": [
+    {
+     "id": "L1-1",
+     "type": "completion",
+     "range": [
+      1,
+      4
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **NO MORE THAN THREE WORDS** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Notes on sports club"
+      },
+      {
+       "t": "note",
+       "text": "*Example* Name of club: *Kingswell*"
+      },
+      {
+       "t": "p",
+       "text": "Facilities available: Golf"
+      },
+      {
+       "t": "li",
+       "level": 2,
+       "text": "{{1}}"
+      },
+      {
+       "t": "li",
+       "level": 2,
+       "text": "{{2}}"
+      },
+      {
+       "t": "p",
+       "text": "Classes available:"
+      },
+      {
+       "t": "li",
+       "level": 2,
+       "text": "Kick-boxing"
+      },
+      {
+       "t": "li",
+       "level": 2,
+       "text": "{{3}}"
+      },
+      {
+       "t": "p",
+       "text": "Additional facility: {{4}} (restaurant opening soon)"
+      }
+     ]
+    },
+    {
+     "id": "L1-2",
+     "type": "completion",
+     "range": [
+      5,
+      8
+     ],
+     "instructions": [
+      "Complete the table below.",
+      "Write **NO MORE THAN TWO NUMBERS** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "MEMBERSHIP SCHEMES"
+      },
+      {
+       "t": "table",
+       "header": 1,
+       "rows": [
+        [
+         "Type",
+         "Use of facilities",
+         "Cost of classes",
+         "Times",
+         "Joining fee",
+         "Annual subscription fee"
+        ],
+        [
+         "GOLD",
+         "All",
+         "Free",
+         "Any time",
+         "£250",
+         "£{{5}}"
+        ],
+        [
+         "SILVER",
+         "All",
+         "£{{6}}",
+         "from {{7}}",
+         "£225",
+         "£300"
+        ],
+        [
+         "BRONZE",
+         "Restricted",
+         "£3",
+         "from 10.30 to 3.30\nweekdays only",
+         "£50",
+         "£{{8}}"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L1-3",
+     "type": "completion",
+     "range": [
+      9,
+      10
+     ],
+     "instructions": [
+      "Complete the sentences below.",
+      "Write **ONE WORD ONLY** for each answer."
+     ],
+     "content": [
+      {
+       "t": "p",
+       "text": "To join the centre, you need to book an instructor's {{9}}."
+      },
+      {
+       "t": "p",
+       "text": "To book a trial session, speak to David {{10}} (0458 95311)."
+      }
+     ]
+    }
+   ],
+   "transcript": "WOMAN: Good morning, oh sorry, it's gone 12, I'll start again, good afternoon, Kingswell Sports Club, how can I help you?\nMAN: Oh, good afternoon. I was wondering if you could give me some information about membership and facilities.\nWOMAN: Of course. What would you like to know?\nMAN: Do you have tennis courts, for example?\nWOMAN: No, I'm afraid we don't. We're primarily a golf club.\nMAN: What about football? I heard you had a team.\nWOMAN: No, I'm sorry. Perhaps you're thinking about Fresham Sports Centre.\nMAN: Oh, right. I know it. I've played badminton there.\nWOMAN: Have you? They've got a lot of facilities we don't have and vice versa. We do have a keep-fit studio, which is very popular with members, [Q1] and then as well as that there's swimming, of course. [Q2]\nMAN: That's good. I like to swim every day.\nWOMAN: We have a range of classes too.\nMAN: Do you have judo classes? I'm keen to learn.\nWOMAN: Well, at the moment we offer kick-boxing. We're planning to add judo and stretch classes soon. We're currently running a range of yoga [Q3] classes, too.\nMAN: What about relaxing after exercise? I assume you have a restaurant or something.\nWOMAN: At the moment, we've got a salad bar which is very popular. We'll [Q4] also have a fully-licensed restaurant by the end of the year.\nMAN: Sounds good!\nWOMAN: What kind of membership are you interested in?\nMAN: Um I'm not really sure. What are the options?\nWOMAN: Well, there are three different membership schemes.\nMAN: I see. What's the difference?\nWOMAN: Well, the first one's called Gold, and you can use all the facilities at any time of the day or week. You can also join in as many classes as you like for free.\nMAN: That sounds good. Is it very expensive?\nWOMAN: Well, you pay a £250 joining fee and then it's £450 – oh no, I'm sorry, it's just gone up by £50, sorry about that – it's now £500 for the annual [Q5] subscription fee.\nMAN: Right, got that. And what's the next type?\nWOMAN: Well, that's Silver – it's the same as Gold except you have to pay a small fee of £1.00 per lesson for any you do and you can only use the [Q6] centre at certain times.\nMAN: I see. So when exactly?\nWOMAN: You can only use the facilities between 10 am and 4.30 pm. [Q7]\nMAN: So I couldn't use the pool at 8 in the morning or evening, then?\nWOMAN: That's right.\nMAN: OK. And the price for that? Is the joining fee the same as for Gold?\nWOMAN: Actually, it's slightly less than the £250 – it's £225, but the annual fee is only £300. Does that sound more like what you want?\nMAN: Well, it's still rather more expensive than I thought. I'm a student here in England and I'm only here for six months.\nWOMAN: Ah, then the Bronze scheme would probably suit you best.\nMAN: How is that different?\nWOMAN: Well, some of the facilities have restricted use.\nMAN: And do I have to pay for classes?\nWOMAN: Yes, it's £3 for each class you join.\nMAN: I see. And what are the hours then?\nWOMAN: Between 10.30 and 3.30 weekdays only and you pay a £50 joining fee. The annual fee is £180 – it works out at £15 a month, so that would be [Q8] quite a lot cheaper.\nMAN: Oh, that should be all right. I could come in my free periods. What do I have to do if I want to join?\nWOMAN: Well, we book you in for an assessment with an instructor, who will [Q9] show you how to use all the equipment. If you want to organise a trial session and look around the centre, you'll need to speak to David Kynchley.\nMAN: Hmm. Could you spell that please?\nWOMAN: Yes, David K-Y-N-C-H-L-E-Y. I'll give you his direct line number. [Q10] It's oh-four-five-eight-nine-five-three-double one.\nMAN: Thanks.\nWOMAN: Thank you for calling Kingswell Sports Club."
+  },
+  {
+   "part": 2,
+   "range": [
+    11,
+    20
+   ],
+   "pages": [
+    13,
+    14
+   ],
+   "groups": [
+    {
+     "id": "L2-1",
+     "type": "matching",
+     "range": [
+      11,
+      16
+     ],
+     "instructions": [
+      "What change has been made to each part of the theatre?",
+      "Choose **SIX** answers from the box and write the correct letter, **A–G**, next to questions 11–16.",
+      "**Part of the theatre**"
+     ],
+     "title": "*RIVENDEN CITY THEATRE*",
+     "options": [
+      {
+       "key": "A",
+       "text": "doubled in number"
+      },
+      {
+       "key": "B",
+       "text": "given separate entrance"
+      },
+      {
+       "key": "C",
+       "text": "reduced in number"
+      },
+      {
+       "key": "D",
+       "text": "increased in size"
+      },
+      {
+       "key": "E",
+       "text": "replaced"
+      },
+      {
+       "key": "F",
+       "text": "strengthened"
+      },
+      {
+       "key": "G",
+       "text": "temporarily closed"
+      }
+     ],
+     "questions": [
+      {
+       "n": 11,
+       "text": "box office"
+      },
+      {
+       "n": 12,
+       "text": "shop"
+      },
+      {
+       "n": 13,
+       "text": "ordinary seats"
+      },
+      {
+       "n": 14,
+       "text": "seats for wheelchair users"
+      },
+      {
+       "n": 15,
+       "text": "lifts"
+      },
+      {
+       "n": 16,
+       "text": "dressing rooms"
+      }
+     ]
+    },
+    {
+     "id": "L2-2",
+     "type": "completion",
+     "range": [
+      17,
+      20
+     ],
+     "instructions": [
+      "Complete the table below.",
+      "Write **NO MORE THAN TWO WORDS AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "table",
+       "header": 1,
+       "rows": [
+        [
+         "Play",
+         "Dates",
+         "Starting time",
+         "Tickets available",
+         "Price"
+        ],
+        [
+         "*Royal Hunt of the Sun*",
+         "October 13th to {{17}}",
+         "{{18}} pm",
+         "for {{19}}",
+         "£{{20}}"
+        ]
+       ]
+      }
+     ]
+    }
+   ],
+   "transcript": "MAN: And here on Radio Rivenden we have Lynne Rawley, the Public Relations Officer of our own Rivenden City Theatre. Hello, Lynne.\nLYNNE: Hello.\nMAN: Now, the theatre is reopening soon after its three-year redevelopment programme, isn't it?\nLYNNE: That's right, and there are a lot of improvements. The first thing people will see when they go in is that the foyer has been repainted in the original green and gold. Then the box office has been reoriented, [Q11] with its own access from the side of the building instead of through the foyer, which means it can be open longer hours, and has more space, too. The shop that used to be in the foyer, which sold books and CDs, is the one part of the redevelopment which isn't yet complete. The plan is to find new premises for it near the theatre, and we've had difficulty finding somewhere suitable. We hope to [Q12] reopen the shop in the next few months.\nMAN: Will audiences find any difference in the auditorium?\nLYNNE: Yes, we've increased the leg-room between the rows. This means that there are now fewer seats but we're sure audiences will be much [Q13] happier. And we've installed air conditioning, so it won't get so hot and stuffy. We already had a few seats which were suitable for wheelchair users, and now there are twice as many, which we hope [Q14] will meet demand. Something else that will benefit audiences is the new lifts. The two we used to have were very small and slow. [Q15] They've now gone, and we've got much more efficient ones.\nMAN: Anything for the performers?\nLYNNE: Yes, we've made a number of improvements backstage. The small, [Q16] dark dressing rooms we used to have have been converted into two large airy rooms, so they're much more comfortable now. And the state-of-the-art electronic sound and lighting systems have been installed.\nMAN: OK, so what's the first play that audiences can see when the theatre reopens?\nLYNNE: We've got a very exciting production of Peter Shaffer's *Royal Hunt of the Sun*, which is currently touring the country. That starts on October the 13th and runs till the 19th. We're experimenting a bit with [Q17] the time the curtain goes up. We used to start all our performances at 7.30, but that made it difficult for people to go home by public transport, so instead we're beginning at 7, because at 9.45, when it [Q18] finishes, there are still buses running. Tickets are already selling fast. The Friday and Saturday performances sold out almost immediately and, in fact, now there are only tickets for Monday and Thursday. [Q19]\nMAN: How much are they?\nLYNNE: We've introduced a simpler price structure. Ticket prices used to range from £6 to £30 but now they're all £18. They're available from the box [Q20] office, in person, by phone, fax or post, or online.\nMAN: OK, Lynne, now if you'd like to give the contact details for the theatre ..."
+  },
+  {
+   "part": 3,
+   "range": [
+    21,
+    30
+   ],
+   "pages": [
+    15,
+    16
+   ],
+   "groups": [
+    {
+     "id": "L3-1",
+     "type": "choice",
+     "range": [
+      21,
+      21
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "questions": [
+      {
+       "n": 21,
+       "text": "What is Brian going to do before the course starts?",
+       "options": [
+        {
+         "key": "A",
+         "text": "attend a class"
+        },
+        {
+         "key": "B",
+         "text": "write a report"
+        },
+        {
+         "key": "C",
+         "text": "read a book"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L3-2",
+     "type": "completion",
+     "range": [
+      22,
+      25
+     ],
+     "instructions": [
+      "Complete the table below.",
+      "Write **NO MORE THAN TWO WORDS** for each answer."
+     ],
+     "content": [
+      {
+       "t": "table",
+       "header": 1,
+       "rows": [
+        [
+         "College Facility",
+         "Information"
+        ],
+        [
+         "Refectory",
+         "inform them {{22}} about special dietary requirements"
+        ],
+        [
+         "{{23}}",
+         "long waiting list, apply now"
+        ],
+        [
+         "Careers advice",
+         "drop-in centre for information"
+        ],
+        [
+         "Fitness centre",
+         "reduced {{24}} for students"
+        ],
+        [
+         "Library",
+         "includes books, journals, equipment room containing audio-visual materials"
+        ],
+        [
+         "Computers",
+         "ask your {{25}} to arrange a password with the technical support team"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L3-3",
+     "type": "completion",
+     "range": [
+      26,
+      30
+     ],
+     "instructions": [
+      "Complete the summary below.",
+      "Write **NO MORE THAN TWO WORDS** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Business Centre"
+      },
+      {
+       "t": "p",
+       "text": "The Business Resource Centre contains materials such as books and manuals to be used for training. It is possible to hire {{26}} and {{27}}. There are materials for working on study skills (e.g. {{28}}) and other subjects include finance and {{29}}."
+      },
+      {
+       "t": "p",
+       "text": "{{30}} membership costs £50 per year."
+      }
+     ]
+    }
+   ],
+   "transcript": "TUTOR: Hello, can I help you?\nBRIAN: I was told to come here, because I'd like to talk to someone about taking a management course.\nTUTOR: Right. I'm one of the tutors, so I should be able to help you.\nBRIAN: Oh, good. My name's Brian Ardley. I've decided to enrol on a part-time management course. A friend of mine took one last year, and recommended it to me.\nTUTOR: Right.\nBRIAN: Is there anything I should do before the course, like reading or anything?\nTUTOR: We prefer to integrate reading with the course, so we don't give out a reading list in advance. But we like people to write a case study, describing an organisation they know.\nBRIAN: I've already done that, as my friends told me you wanted one. But would it be possible to sit in on a teaching session, to see what it's like? [Q21] I haven't been a student for quite a while.\nTUTOR: Fine. Just let me know which date, and I'll arrange it with the tutor.\nBRIAN: Now, could I ask you about the college facilities, please?\nTUTOR: Anything in particular?\nBRIAN: Well, the course is one day a week, all day, isn't it? So presumably it's possible to buy food?\nTUTOR: Yes, the refectory's open all day.\nBRIAN: Does it cater for special diets? I have some food allergies.\nTUTOR: Provided you warn the refectory in advance, it won't be a problem. [Q22]\nBRIAN: Good. What about facilities for young children? I'd like to bring my daughter here while I'm studying.\nTUTOR: How old is she?\nBRIAN: Three.\nTUTOR: Then she's eligible to join the nursery, which is supervised by a qualified [Q23] Nursery Nurse. The waiting list for a place is quite long though, so you ought to apply now.\nBRIAN: OK.\nTUTOR: I don't know if our careers advice service would be of any interest to you?\nBRIAN: Yes, it might help me decide how to develop my career after the course.\nTUTOR: The centre has a lot of reference materials, and staff qualified to give guidance on a one-to-one basis.\nBRIAN: I noticed a fitness centre next to the college. Is that for students?\nTUTOR: It's open to everyone, but students pay an annual fee that's much less [Q24] than the general public pay.\nBRIAN: And presumably the college library stocks newspapers and journals, as well as books?\nTUTOR: Yes, and there's also an audio-visual room, for viewing and listening to videos, cassettes, and so on.\nBRIAN: Is there also access to computers?\nTUTOR: Yes, your tutor will need to arrange with the technical support team for [Q25] you to get a password, so ask him or her about it when you start the course.\nBRIAN: OK\nTUTOR: By the way, do you know about our Business Centre?\nBRIAN: No. What's that?\nTUTOR: It's a training resource – a collection of materials for people to study on their own, or use in their own organisations.\nBRIAN: Uhuh. You mean books and videos?\nTUTOR: Yes, and manuals for self-study. Plus a lot of computer-based materials, so people can work through them at their own speed, and repeat anything they aren't sure about. And you can hire laptops to use in your own [Q26/Q27] home or workplace as well as printers that you can take away. [Q26/Q27]\nBRIAN: Does it have anything that I could use to improve my study skills? I don't have much idea about report writing, and I'm sure I'll need it on the [Q28] course.\nTUTOR: Oh yes, there's plenty of useful material. Just ask one of the staff.\nBRIAN: Does the centre cover all the main areas of business?\nTUTOR: Yes, topics like finance, and of course marketing – that's a popular one. [Q29] Local managers seem to queue up to borrow the videos!\nBRIAN: So it isn't just for students, then?\nTUTOR: No, it's for members only, but anyone can join.\nBRIAN: How much does it cost?\nTUTOR: £100 a year for a company, and £50 for an individual, with no discount [Q30] for students, I'm afraid.\nBRIAN: That's very helpful. Well, I think that's all. I'd better go home and fill in the enrolment form. Thanks for all your help.\nTUTOR: You're welcome. Goodbye.\nBRIAN: Goodbye."
+  },
+  {
+   "part": 4,
+   "range": [
+    31,
+    40
+   ],
+   "pages": [
+    17,
+    18
+   ],
+   "groups": [
+    {
+     "id": "L4-1",
+     "type": "completion",
+     "range": [
+      31,
+      37
+     ],
+     "instructions": [
+      "Complete the table below.",
+      "Write **NO MORE THAN TWO WORDS** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Social history of the East End of London"
+      },
+      {
+       "t": "table",
+       "header": 1,
+       "rows": [
+        [
+         "Period",
+         "Situation"
+        ],
+        [
+         "1st–4th centuries",
+         "Produce from the area was used to {{31}} the people of London."
+        ],
+        [
+         "5th–10th centuries",
+         "New technology allowed the production of goods made of {{32}}."
+        ],
+        [
+         "11th century",
+         "Lack of {{33}} in the East End encouraged the growth of businesses."
+        ],
+        [
+         "16th century",
+         "Construction of facilities for the building of {{34}} stimulated international trade.\nAgricultural workers came from other parts of {{35}} to look for work."
+        ],
+        [
+         "17th century",
+         "Marshes were drained to provide land that could be {{36}} on."
+        ],
+        [
+         "19th century",
+         "Inhabitants lived in conditions of great {{37}} with very poor sanitation."
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L4-2",
+     "type": "multi",
+     "range": [
+      38,
+      40
+     ],
+     "n": [
+      38,
+      39,
+      40
+     ],
+     "select": 3,
+     "instructions": [
+      "Choose **THREE** letters, **A–G**."
+     ],
+     "text": "Which **THREE** of the following problems are mentioned in connection with 20th century housing in the East End?",
+     "options": [
+      {
+       "key": "A",
+       "text": "unsympathetic landlords"
+      },
+      {
+       "key": "B",
+       "text": "unclean water"
+      },
+      {
+       "key": "C",
+       "text": "heating problems"
+      },
+      {
+       "key": "D",
+       "text": "high rents"
+      },
+      {
+       "key": "E",
+       "text": "overcrowding"
+      },
+      {
+       "key": "F",
+       "text": "poor standards of building"
+      },
+      {
+       "key": "G",
+       "text": "houses catching fire"
+      }
+     ]
+    }
+   ],
+   "transcript": "In the last few weeks, we've been looking at various aspects of the social history of London, and this morning we're continuing with a look at life in the area called the East End. I'll start with a brief history of the district, and then focus on life in the first half of the twentieth century.\nBack in the first to the fourth centuries AD, when the Romans controlled England, London grew into a town of 45,000 people, and what's now the East End – the area by the river Thames, and along the road heading north-east from London to the coast – consisted of farmland with crops and livestock which helped to feed that population. [Q31]\nThe Romans left in 410, at the beginning of the fifth century, and from then onwards the country suffered a series of invasions by tribes from present-day Germany and Denmark, the Angles, Saxons and Jutes, many of whom settled in the East End. The technology they introduced meant that metal and leather goods were produced there for the first time. And as [Q32] the East End was by the river, ships could transport goods between there and foreign markets.\nIn the eleventh century, in 1066 to be precise, the Normans conquered England, and during the next few centuries London became one of the most powerful and prosperous cities in Europe. The East End benefited from this, and because there were fewer restrictions there [Q33] than in the city itself, plenty of newcomers settled there from abroad, bringing their skills as workers, merchants or money-lenders during the next few hundred years.\nIn the sixteenth century the first dock was dug where ships were constructed, eventually [Q34] making the East End the focus of massive international trade. And in the late sixteenth century, when much of the rest of England was suffering economically, a lot of agricultural [Q35] workers came to the East End to look for alternative work.\nIn the seventeenth century, the East End was still a series of separate, semi-rural settlements. There was a shortage of accommodation, so marshland was drained and built on to house [Q36] the large numbers of people now living there.\nBy the nineteenth century London was the busiest port in the world, and this became the main source of employment in the East End. Those who could afford to live in more pleasant surroundings moved out, and the area became one where the vast majority of people lived in extreme poverty, and suffered from appalling sanitary conditions. [Q37]\nThat brief outline takes us to the beginning of the twentieth century, and now we'll turn to housing.\nAt the beginning of the century, living conditions for the majority of working people in East London were very basic indeed. Houses were crowded closely together and usually very [Q38/Q39/Q40] badly built, because there was no regulation. But the poor and needy were attracted by the possibility of work, and they had to be housed. It was the availability, rather than the condition, of the housing that was the major concern for tenants and landlords alike.\nFew houses had electricity at this time, so other sources of power were used, like coal for [Q38/Q39/Q40] the fires which heated perhaps just one room. Of course, the smoke from these contributed a great deal to the air pollution for which London used to be famous.\nA tiny, damp, unhealthy house like this might well be occupied by two full families, possibly [Q38/Q39/Q40] including several children, grandparents, aunts and uncles.\nNow, before I go on to health implications of this way of life, I'll say something about food and nutrition."
+  }
+ ],
+ "answers": {
+  "1": {
+   "a": [
+    "a keep-fit studio",
+    "keep-fit studio",
+    "a keep-fit",
+    "keep-fit"
+   ],
+   "k": "(a) keep-fit (studio)"
+  },
+  "2": {
+   "a": [
+    "swimming"
+   ]
+  },
+  "3": {
+   "a": [
+    "yoga classes",
+    "yoga"
+   ],
+   "k": "yoga (classes)"
+  },
+  "4": {
+   "a": [
+    "a salad bar",
+    "salad bar"
+   ],
+   "k": "(a) salad bar"
+  },
+  "5": {
+   "a": [
+    "500"
+   ]
+  },
+  "6": {
+   "a": [
+    "1"
+   ]
+  },
+  "7": {
+   "a": [
+    "10 am, 4.30 pm",
+    "10, 4.30",
+    "10 am, 4.30",
+    "10, 4.30 pm",
+    "10 am to 4.30 pm",
+    "10 to 4.30"
+   ],
+   "k": "10 (am), 4.30 (pm)"
+  },
+  "8": {
+   "a": [
+    "180"
+   ]
+  },
+  "9": {
+   "a": [
+    "assessment"
+   ]
+  },
+  "10": {
+   "a": [
+    "Kynchley"
+   ]
+  },
+  "11": {
+   "a": [
+    "B"
+   ]
+  },
+  "12": {
+   "a": [
+    "G"
+   ]
+  },
+  "13": {
+   "a": [
+    "C"
+   ]
+  },
+  "14": {
+   "a": [
+    "A"
+   ]
+  },
+  "15": {
+   "a": [
+    "E"
+   ]
+  },
+  "16": {
+   "a": [
+    "D"
+   ]
+  },
+  "17": {
+   "a": [
+    "October the 19th",
+    "October 19th",
+    "19th"
+   ],
+   "k": "(October (the)) 19th"
+  },
+  "18": {
+   "a": [
+    "7"
+   ]
+  },
+  "19": {
+   "a": [
+    "Monday, Thursday",
+    "Monday and Thursday",
+    "Monday Thursday"
+   ],
+   "k": "Monday, Thursday"
+  },
+  "20": {
+   "a": [
+    "18"
+   ]
+  },
+  "21": {
+   "a": [
+    "A"
+   ]
+  },
+  "22": {
+   "a": [
+    "in advance"
+   ]
+  },
+  "23": {
+   "a": [
+    "nursery"
+   ]
+  },
+  "24": {
+   "a": [
+    "annual fee"
+   ]
+  },
+  "25": {
+   "a": [
+    "tutor"
+   ]
+  },
+  "26": {
+   "a": [
+    "laptops"
+   ]
+  },
+  "27": {
+   "a": [
+    "printers"
+   ]
+  },
+  "28": {
+   "a": [
+    "report writing"
+   ]
+  },
+  "29": {
+   "a": [
+    "marketing"
+   ]
+  },
+  "30": {
+   "a": [
+    "Individual"
+   ]
+  },
+  "31": {
+   "a": [
+    "feed"
+   ]
+  },
+  "32": {
+   "a": [
+    "metal and leather",
+    "leather and metal",
+    "metal, leather",
+    "leather, metal"
+   ],
+   "k": "IN EITHER ORDER: metal, leather"
+  },
+  "33": {
+   "a": [
+    "restrictions"
+   ]
+  },
+  "34": {
+   "a": [
+    "ships"
+   ]
+  },
+  "35": {
+   "a": [
+    "England"
+   ]
+  },
+  "36": {
+   "a": [
+    "built"
+   ]
+  },
+  "37": {
+   "a": [
+    "poverty"
+   ]
+  },
+  "38": {
+   "a": [
+    "C"
+   ]
+  },
+  "39": {
+   "a": [
+    "E"
+   ]
+  },
+  "40": {
+   "a": [
+    "F"
+   ]
+  }
+ },
+ "eitherOrder": [
+  [
+   26,
+   27
+  ]
+ ],
+ "issues": [
+  "Q7, Q19 and Q32: the book prints two dotted lines for one question number ('from 7 ...... to ......', 'for 19 ...... and ......', 'made of 32 ...... and ......'); the key gives both parts as one answer (10 (am), 4.30 (pm) / Monday, Thursday / metal and leather IN EITHER ORDER), so a single gap is shown and the connecting words 'to' / 'and' after the gap are omitted.",
+  "Q11–16: the heading 'Part of the theatre' printed above the question list is given as the last instruction line.",
+  "Listening Q31–37 table header cells are printed white-on-grey and are barely legible in the scan; read as 'Period' and 'Situation'."
+ ]
+}

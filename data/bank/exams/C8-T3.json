@@ -1,0 +1,1752 @@
+{
+ "schema": "ielts-mock.exam/1",
+ "id": "C8-T3",
+ "source": {
+  "book": 8,
+  "test": 3
+ },
+ "title": "Cambridge IELTS 8 · Test 3",
+ "listening": {
+  "parts": [
+   {
+    "part": 1,
+    "range": [
+     1,
+     10
+    ],
+    "pages": [
+     55,
+     56,
+     57
+    ],
+    "groups": [
+     {
+      "id": "L1-1",
+      "type": "completion",
+      "range": [
+       1,
+       3
+      ],
+      "instructions": [
+       "Complete the form below.",
+       "Write **ONE WORD AND/OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Rented Properties"
+       },
+       {
+        "t": "h",
+        "text": "Customer's Requirements"
+       },
+       {
+        "t": "p",
+        "text": "**Name:** Steven Godfrey"
+       },
+       {
+        "t": "note",
+        "text": "*Example*"
+       },
+       {
+        "t": "p",
+        "text": "**No. of bedrooms:** *four*"
+       },
+       {
+        "t": "p",
+        "text": "**Preferred location:** in the {{1}} area of town"
+       },
+       {
+        "t": "p",
+        "text": "**Maximum monthly rent:** £{{2}}"
+       },
+       {
+        "t": "p",
+        "text": "**Length of let required:** {{3}}"
+       },
+       {
+        "t": "p",
+        "text": "**Starting:** September 1st"
+       }
+      ]
+     },
+     {
+      "id": "L1-2",
+      "type": "completion",
+      "range": [
+       4,
+       8
+      ],
+      "instructions": [
+       "Complete the table below.",
+       "Write **ONE WORD AND/OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "table",
+        "header": 1,
+        "rows": [
+         [
+          "Address",
+          "Rooms",
+          "Monthly rent",
+          "Problem"
+         ],
+         [
+          "Oakington Avenue",
+          "living/dining room, separate kitchen",
+          "£550",
+          "no {{4}}"
+         ],
+         [
+          "Mead Street",
+          "large living room and kitchen, bathroom and a cloakroom",
+          "£580",
+          "the {{5}} is too large"
+         ],
+         [
+          "Hamilton Road",
+          "living room, kitchen-diner, and a {{6}}",
+          "£550",
+          "too {{7}}"
+         ],
+         [
+          "Devon Close",
+          "living room, dining room, small kitchen",
+          "£{{8}}",
+          "none"
+         ]
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L1-3",
+      "type": "multi",
+      "range": [
+       9,
+       10
+      ],
+      "n": [
+       9,
+       10
+      ],
+      "select": 2,
+      "instructions": [
+       "Choose **TWO** letters, **A–E**."
+      ],
+      "text": "Which **TWO** facilities in the district of Devon Close are open to the public at the moment?",
+      "options": [
+       {
+        "key": "A",
+        "text": "museum"
+       },
+       {
+        "key": "B",
+        "text": "concert hall"
+       },
+       {
+        "key": "C",
+        "text": "cinema"
+       },
+       {
+        "key": "D",
+        "text": "sports centre"
+       },
+       {
+        "key": "E",
+        "text": "swimming pool"
+       }
+      ]
+     }
+    ],
+    "transcript": "WOMAN: Good morning. How can I help you?\nMAN: Hello. I'm interested in renting a house somewhere in the town.\nWOMAN: Right. Could I have your name please?\nMAN: Yes, it's Steven Godfrey.\nWOMAN: And tell me how many bedrooms you're looking for.\nMAN: Well, we'd need four, because I'm going to share the house with three friends.\nWOMAN: Okay, there are several of that size on our books. They mostly belong to families who are working abroad at the moment. What about the location?\nMAN: It'd be nice to be central. [Q1]\nWOMAN: That might be difficult, as most houses of that size are in the suburbs. Still, there are a few. What's your upper limit for the rent?\nMAN: We'd like something around £500 a month, but we could go up to £600 if [Q2] we have to. But we can't go beyond that.\nWOMAN: Do you know how long you want to rent the house for? The minimum let is six months, as you probably realise.\nMAN: We're at college here for two years, and we don't want to have to move [Q3] during that time if we can avoid it.\nWOMAN: Right. And how soon do you want to move in? All our lets start on the first of the month.\nMAN: Well, as soon as possible, really, so that means September 1st.\nWOMAN: Okay, let me have a look at what we've got .... We have photographs of all the houses on our books, so you can get an idea of what they're like. There's this one in Oakington Avenue, at £550 a month. Combined living room and dining room, with a separate kitchen. It doesn't have a garage, [Q4] though you can park in the road.\nMAN: Ah, we'd prefer to have one, if possible.\nWOMAN: Right. Then have a look at this house, in Mead Street. It's got a very large living room and kitchen, bathroom, cloakroom ...\nMAN: How much is it?\nWOMAN: That one's 580. It's very well furnished and equipped. It also has plenty of space for parking, and it's available for a minimum of a year. Oh, and there's a big garden. [Q5]\nMAN: I don't think we could cope with that, to be honest. We'll be too busy to look after it.\nWOMAN: Okay. Then there's this older house in Hamilton Road: living room, kitchen-diner, and it has a study. 550 a month.\nMAN: That looks rather nice. But whereabouts in Hamilton Road?\nWOMAN: Towards the western end.\nMAN: Oh, that'll be very noisy. I know the area. [Q7]\nWOMAN: Yes, it's pretty lively. Some people like it, though. Well, what about this house in Devon Close?\nMAN: That looks lovely.\nWOMAN: There's a big demand for houses in that area, so prices tend to be quite high. But this one hasn't been decorated for a few years, which has kept the rent down a bit. It's got a living room, dining room and small kitchen, and it's 595 a month. I think it would suit you, from what you've said. [Q8]\nMAN: It sounds fine.\nMAN: Why's that part of town so popular?\nWOMAN: Well, there's a big scheme to improve the district, and it'll soon have the best facilities for miles around.\nMAN: What sort of thing?\nWOMAN: There's a big sports centre under construction, which will be very impressive when it's finished. In fact the swimming pool's already opened, [Q9 & Q10] ahead of schedule, and it's attracting a lot of people.\nMAN: What about cinemas: are there any in the area?\nWOMAN: The only one closed down last year, and it's now in the process of being converted into a film museum. The local people are trying to get a new cinema added to the scheme.\nMAN: I think I heard something about a plan to replace the existing concert hall [Q9 & Q10] with a larger one.\nWOMAN: Ah, that's due to start next year.\nMAN: Well it sounds an interesting area to live in. Could I go and see the house, please?\nWOMAN: Yes, of course."
+   },
+   {
+    "part": 2,
+    "range": [
+     11,
+     20
+    ],
+    "pages": [
+     58,
+     59
+    ],
+    "groups": [
+     {
+      "id": "L2-1",
+      "type": "completion",
+      "range": [
+       11,
+       16
+      ],
+      "instructions": [
+       "Complete the notes below.",
+       "Write **NO MORE THAN TWO WORDS AND/OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "THE NATIONAL ARTS CENTRE"
+       },
+       {
+        "t": "p",
+        "text": "**Well known for:** {{11}}"
+       },
+       {
+        "t": "p",
+        "text": "**Complex consists of:** concert rooms"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "theatres"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "cinemas"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "art galleries"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "public library"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "restaurants"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "a {{12}}"
+       },
+       {
+        "t": "p",
+        "text": "**Historical background:** 1940 – area destroyed by bombs"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "1960s–1970s – Centre was {{13}} and built"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "in {{14}} – opened to public"
+       },
+       {
+        "t": "p",
+        "text": "**Managed by:** the {{15}}"
+       },
+       {
+        "t": "p",
+        "text": "**Open:** {{16}} days per year"
+       }
+      ]
+     },
+     {
+      "id": "L2-2",
+      "type": "completion",
+      "range": [
+       17,
+       20
+      ],
+      "instructions": [
+       "Complete the table below.",
+       "Write **NO MORE THAN THREE WORDS AND/OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "table",
+        "header": 1,
+        "rows": [
+         [
+          "Day",
+          "Time",
+          "Event",
+          "Venue",
+          "Ticket price"
+         ],
+         [
+          "Monday and Tuesday",
+          "7.30 p.m.",
+          "'The Magic Flute'\n(opera by Mozart)",
+          "{{17}}",
+          "from £8.00"
+         ],
+         [
+          "Wednesday",
+          "8.00 p.m.",
+          "'{{18}}'\n(Canadian film)",
+          "Cinema 2",
+          "£{{19}}"
+         ],
+         [
+          "Saturday and Sunday",
+          "11 a.m. to 10 p.m.",
+          "'{{20}}'\n(art exhibition)",
+          "Gallery 1",
+          "free"
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    "transcript": "Hello, and welcome to Focus on the Arts. I'm your host – Dave Green – and this is your very own local radio programme. Every Friday evening we put the spotlight on different arts and culture facilities, and look at the shows and events that are on offer in the coming week.\nAnd today the focus is on The National Arts Centre. Now, if you don't already know it yourself, I'm sure you've all heard of it. It's famous throughout the world as one of the major [Q11] venues for classical music.\nBut did you know that it is actually much more than just a place to hear concerts? The Centre itself is a huge complex that caters for a great range of arts. Under a single roof it houses concert rooms, theatres, cinemas, art galleries and a wonderful public library, as well as service facilities including three restaurants and a bookshop. So at any one time, [Q12] the choice of entertainment there is simply enormous.\nSo, how did they manage to build such a big arts complex right in the heart of the city? Well, the area was completely destroyed by bombs during the war in 1940. So the opportunity was taken to create a cultural centre that would be, what they called: 'the City's gift to the Nation'. Of course it took a while for such a big project to get started, but it was planned in the 60s, built in the 70s and eventually opened to the public in 1983. Ever since [Q13 & Q14] then it has proved to be a great success. It is not privately owned, like many arts centres, but is still in public hands – it's run by the City Council. Both our National Symphony [Q15] Orchestra and National Theatre Company were involved in the planning of the project, and they are now based there – giving regular performances every week – and as the Centre is open 363 days of the year, there are plenty of performances to choose from. [Q16]\nSo, to give you some idea of what's on, and to help you choose from the many possibilities, we've made a selection of the star attractions.\nIf you're interested in classical music, then we recommend you go along to the National on either Monday or Tuesday evening at 7.30 for a spectacular production of 'The Magic Flute' – probably the most popular of all Mozart's operas. It's in the Garden Hall and tickets start [Q17] at only £8.00, but you'll have to be early if you want to get them that cheap! And remember, it's only on for those two evenings.\nFor those more interested in the cinema, you might like to see the new Canadian film which is showing on Wednesday evening at 8pm in Cinema 2. And that's called 'Three Lives.' It's [Q18] had fantastic reviews and tickets cost just £4.50, which is a reduction on the usual price of [Q19] £5.50. So, it's really good value, especially for such a great movie.\nBut you can see the centre's main attraction at the weekend, because on Saturday and Sunday, 11 am to 10 pm, they're showing a wonderful new exhibition that hasn't been seen anywhere else in Europe yet. It's a collection of Chinese Art called 'Faces of China' – that's [Q20] in Gallery 1 – and it has some really fascinating paintings and sculptures by leading artists from all over China – and the good news is that it is completely free, so don't miss it!\nSo why not go along to the National Arts Centre next week for one – or all – of these great events – and you can always pick up a programme and check out all the other performances and exhibitions on offer, or coming soon, on almost every day of the year.\nNext week we'll be looking at the new Museum of Science..."
+   },
+   {
+    "part": 3,
+    "range": [
+     21,
+     30
+    ],
+    "pages": [
+     60,
+     61
+    ],
+    "groups": [
+     {
+      "id": "L3-1",
+      "type": "choice",
+      "range": [
+       21,
+       26
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B** or **C**."
+      ],
+      "title": "Latin American studies",
+      "questions": [
+       {
+        "n": 21,
+        "text": "Paul decided to get work experience in South America because he wanted",
+        "options": [
+         {
+          "key": "A",
+          "text": "to teach English there."
+         },
+         {
+          "key": "B",
+          "text": "to improve his Spanish."
+         },
+         {
+          "key": "C",
+          "text": "to learn about Latin American life."
+         }
+        ]
+       },
+       {
+        "n": 22,
+        "text": "What project work did Paul originally intend to get involved in?",
+        "options": [
+         {
+          "key": "A",
+          "text": "construction"
+         },
+         {
+          "key": "B",
+          "text": "agriculture"
+         },
+         {
+          "key": "C",
+          "text": "tourism"
+         }
+        ]
+       },
+       {
+        "n": 23,
+        "text": "Why did Paul change from one project to another?",
+        "options": [
+         {
+          "key": "A",
+          "text": "His first job was not well organised."
+         },
+         {
+          "key": "B",
+          "text": "He found doing the routine work very boring."
+         },
+         {
+          "key": "C",
+          "text": "The work was too physically demanding."
+         }
+        ]
+       },
+       {
+        "n": 24,
+        "text": "In the village community, he learnt how important it was to",
+        "options": [
+         {
+          "key": "A",
+          "text": "respect family life."
+         },
+         {
+          "key": "B",
+          "text": "develop trust."
+         },
+         {
+          "key": "C",
+          "text": "use money wisely."
+         }
+        ]
+       },
+       {
+        "n": 25,
+        "text": "What does Paul say about his project manager?",
+        "options": [
+         {
+          "key": "A",
+          "text": "He let Paul do most of the work."
+         },
+         {
+          "key": "B",
+          "text": "His plans were too ambitious."
+         },
+         {
+          "key": "C",
+          "text": "He was very supportive of Paul."
+         }
+        ]
+       },
+       {
+        "n": 26,
+        "text": "Paul was surprised to be given",
+        "options": [
+         {
+          "key": "A",
+          "text": "a computer to use."
+         },
+         {
+          "key": "B",
+          "text": "so little money to live on."
+         },
+         {
+          "key": "C",
+          "text": "an extension to his contract."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L3-2",
+      "type": "matching",
+      "range": [
+       27,
+       30
+      ],
+      "instructions": [
+       "What does Paul decide about each of the following modules?",
+       "Write the correct letter, **A**, **B** or **C**, next to questions 27–30."
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": "He will do this."
+       },
+       {
+        "key": "B",
+        "text": "He might do this."
+       },
+       {
+        "key": "C",
+        "text": "He won't do this."
+       }
+      ],
+      "title": "Module",
+      "questions": [
+       {
+        "n": 27,
+        "text": "Gender Studies in Latin America"
+       },
+       {
+        "n": 28,
+        "text": "Second Language Acquisition"
+       },
+       {
+        "n": 29,
+        "text": "Indigenous Women's Lives"
+       },
+       {
+        "n": 30,
+        "text": "Portuguese Language Studies"
+       }
+      ]
+     }
+    ],
+    "transcript": "WOMAN: I've been reading your personal statement, Paul. First, let's talk about your work experience in South America. What took you there? Was it to gain more fluency in Spanish?\nPAUL: Well, as I'm combining Spanish with Latin American studies, my main idea was to find out more about the way people lived there. My spoken [Q21] Spanish was already pretty good in fact.\nWOMAN: So you weren't too worried about language barriers?\nPAUL: No. In fact, I ended up teaching English there, although that wasn't my original choice of work.\nWOMAN: I see. How did you find out about all this?\nPAUL: I found an agency that runs all kinds of voluntary projects in South America.\nWOMAN: What kind of work?\nPAUL: Well, there were several possibilities.\nWOMAN: You mean construction? Engineering work?\nPAUL: Yes, getting involved in building projects was an option. Then there was tourism – taking tourists for walks around the volcanoes – which I actually [Q22] chose to do, and then there was work with local farmers.\nWOMAN: But you didn't continue with that project. Why not?\nPAUL: Because I never really knew whether I'd be needed or not. I'd thought it might be difficult physically, but I was certainly fit enough... no, I wanted [Q23] to do something that had more of a proper structure to it, I suppose. I get de-motivated otherwise.\nWOMAN: What do you think you learned from your experience? It must have been a great opportunity to examine community life.\nPAUL: Yes, but it was difficult at first to be accepted by the locals. It was a very remote village and some of them were reluctant to speak to me – although they were always interested in my clothes and how much I'd had to pay for them.\nWOMAN: Well, that's understandable.\nPAUL: Yes, but things soon improved. What struck me was that when people [Q24] became more comfortable with me and less suspicious, we really connected with each other in a meaningful way.\nWOMAN: You made good friends?\nPAUL: Yes, with two of the families in particular.\nWOMAN: Good. What about management. Did you have a project manager?\nPAUL: Yes and he gave me lots of advice and guidance. [Q25]\nWOMAN: And was he good at managing too?\nPAUL: That wasn't his strong point! I think he was often more interested in the academic side of things than filing reports. He was a bit of a dreamer.\nWOMAN: And did you have a contract?\nPAUL: I had to stay for a minimum of three months. My parents were surprised when I asked to stay longer – six months in the end. I was so happy there.\nWOMAN: And did anything on the administration side of things surprise you? What was the food and lodging like?\nPAUL: Simple... but there was plenty to eat and I only paid seven dollars a day for that which was amazing really. And they gave me all the equipment I needed ... even a laptop. [Q26]\nWOMAN: You didn't expect that then?\nPAUL: No.\nWOMAN: Well, I'll look forward to hearing more.\nWOMAN: But now let's look at these modules. You'll need to start thinking about which ones you'll definitely want to study. The first one here is Gender Studies in Latin America.\nPAUL: Mmm ...\nWOMAN: It looks at how gender analysis is reconfiguring civil society in Latin America. Women are increasingly occupying positions in government and in other elected leadership positions in Latin America. I think you'd find it interesting.\nPAUL: If it was to do with people in the villages rather than those in the public [Q27] sphere, I would.\nWOMAN: Okay. What about Second Language Acquisition?\nPAUL: Do you think I'd find that useful?\nWOMAN: Well, you've had some practical experience in the field, I think it would be.\nPAUL: I hadn't thought about that. I'll put that down as a definite, then. [Q28]\nWOMAN: Okay. What about Indigenous Women's Lives. That sounds appropriate.\nPAUL: I thought so too, but I looked at last year's exam questions and that changed my mind.\nWOMAN: Don't judge the value of the course on that. Maybe, talk to some other students first and we can talk about it again later. [Q29]\nPAUL: Okay.\nWOMAN: Yes. And lastly, will you sign up for Portuguese lessons?\nPAUL: My Spanish is good, so would I find that module easy?\nWOMAN: Not necessarily. Some people find that Spanish interferes with learning Portuguese... getting the accent right too. It's quite different in a lot of ways.\nPAUL: Well, I'd much sooner do something else, then. [Q30]\nWOMAN: Alright. Now, what we need to do is ..."
+   },
+   {
+    "part": 4,
+    "range": [
+     31,
+     40
+    ],
+    "pages": [
+     62,
+     63
+    ],
+    "groups": [
+     {
+      "id": "L4-1",
+      "type": "choice",
+      "range": [
+       31,
+       34
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B** or **C**."
+      ],
+      "title": "Trying to repeat success",
+      "questions": [
+       {
+        "n": 31,
+        "text": "Compared to introducing new business processes, attempts to copy existing processes are",
+        "options": [
+         {
+          "key": "A",
+          "text": "more attractive."
+         },
+         {
+          "key": "B",
+          "text": "more frequent."
+         },
+         {
+          "key": "C",
+          "text": "more straightforward."
+         }
+        ]
+       },
+       {
+        "n": 32,
+        "text": "Most research into the repetition of success in business has",
+        "options": [
+         {
+          "key": "A",
+          "text": "been done outside the United States."
+         },
+         {
+          "key": "B",
+          "text": "produced consistent findings."
+         },
+         {
+          "key": "C",
+          "text": "related to only a few contexts."
+         }
+        ]
+       },
+       {
+        "n": 33,
+        "text": "What does the speaker say about consulting experts?",
+        "options": [
+         {
+          "key": "A",
+          "text": "Too few managers ever do it."
+         },
+         {
+          "key": "B",
+          "text": "It can be useful in certain circumstances."
+         },
+         {
+          "key": "C",
+          "text": "Experts are sometimes unwilling to give advice."
+         }
+        ]
+       },
+       {
+        "n": 34,
+        "text": "An expert's knowledge about a business system may be incomplete because",
+        "options": [
+         {
+          "key": "A",
+          "text": "some details are difficult for workers to explain."
+         },
+         {
+          "key": "B",
+          "text": "workers choose not to mention certain details."
+         },
+         {
+          "key": "C",
+          "text": "details are sometimes altered by workers."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L4-2",
+      "type": "completion",
+      "range": [
+       35,
+       40
+      ],
+      "instructions": [
+       "Complete the notes below.",
+       "Write **ONE WORD ONLY** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Setting up systems based on an existing process"
+       },
+       {
+        "t": "sub",
+        "text": "Two mistakes"
+       },
+       {
+        "t": "p",
+        "text": "Manager tries to:"
+       },
+       {
+        "t": "li",
+        "text": "improve on the original process"
+       },
+       {
+        "t": "li",
+        "text": "create an ideal {{35}} from the best parts of several processes"
+       },
+       {
+        "t": "sub",
+        "text": "Cause of problems"
+       },
+       {
+        "t": "li",
+        "text": "information was inaccurate"
+       },
+       {
+        "t": "li",
+        "text": "comparison between the business settings was invalid"
+       },
+       {
+        "t": "li",
+        "text": "disadvantages were overlooked, e.g. effect of changes on {{36}}"
+       },
+       {
+        "t": "sub",
+        "text": "Solution"
+       },
+       {
+        "t": "li",
+        "text": "change {{37}}"
+       },
+       {
+        "t": "li",
+        "text": "impose rigorous {{38}}"
+       },
+       {
+        "t": "li",
+        "text": "copy original very closely:"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "– physical features of the {{39}}"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "– the {{40}} of original employees"
+       }
+      ]
+     }
+    ],
+    "transcript": "Good morning, everyone. In the last few lectures I've been dealing with business finance, but now I'm going to move on to business systems. And in today's lecture I'm going to talk about what can go wrong when businesses try to copy their own best practices.\nOnce a business has successfully introduced a new process – managing a branch bank, say, or selling a new product – the parent organisation naturally wants to repeat that success, and capture it if possible on a bigger scale. The goal, then, is to utilise existing knowledge and not to generate new knowledge. It's a less glamorous activity than pure innovation, but it actually happens more often, as a matter of fact. However, surprisingly, [Q31] getting things right the second time is not necessarily any simpler than it was the first time.\nNow, there's been a lot of research into how companies can repeat their previous successes, and it certainly hasn't been confined to the United States. It seems that most large industries are trying to repeat their own successes, and manage the knowledge they've acquired – but even so it has been shown that the overwhelming majority of attempts fail. A host of studies confirm this, covering a wide range of business settings: [Q32] branch banks, retail stores, real estate agencies, factories, call centres... to name but a few.\nSo why do so few managers get things right the second or third time? Let's consider one reason for failure – placing too much trust in the people who are running the successful operation, the 'experts' shall we say. Managers who want to apply existing knowledge typically start off by going to an expert – such as the person who designed and is running a successful department store – and picking their brains. Now, this approach can be used if [Q33] you want to gain a rough understanding of a particular system, or understand smaller, isolated problems. The trouble is, even the expert doesn't fully grasp the whole thing because when it comes to complex systems, the individual components of the process are interwoven with one another. The expert never has complete access to the necessary information. And the situation's complicated even further by the fact that experts are usually not aware of their own ignorance. The ignorance can take various forms. For instance, a lot of details of the system are invisible to managers. Some may be difficult to describe – [Q34] learned on the job and well known by workers perhaps, but impossible to describe in a way that's helpful. And there are some things that people know or do that they're not even aware of.\nNow, let's consider two types of mistake that can occur when a manager actually starts to set up a duplicate system to replicate a successful process. Firstly, perhaps he forgets that he was just trying to copy another process, and starts trying to improve on it. Another mistake is trying to use the best parts of various different systems, in the hope of creating the perfect combination. [Q35]\nUnfortunately, attempts like these usually turn out to be misguided and lead to problems. Why? Well, for various reasons. Perhaps there weren't really any advantages after all, because the information wasn't accurate. Or perhaps the business settings weren't really comparable. More typically, the advantages are real enough, but there are also disadvantages that have been overlooked. For example, the modifications might compromise safety in some way. [Q36]\nSo, what's the solution? Well, I don't intend to suggest that it's easy to get things right the second time ... it's not. But the underlying problem has more to do with attitudes than the actual difficulty of the task, and there are ways of getting it right. These involve adjusting attitudes, first of all ... being more realistic and cautious really. Secondly, they involve [Q37] exerting strict controls on the organisational and operational systems. And this in turn [Q38] means copying the original as closely as possible. Not merely duplicating the physical characteristics of the factory, but also duplicating the skills that the original employees had. [Q39 & Q40] Reliance on a template like this offers the huge advantage of built-in consistency."
+   }
+  ],
+  "answers": {
+   "1": {
+    "a": [
+     "central"
+    ]
+   },
+   "2": {
+    "a": [
+     "600"
+    ]
+   },
+   "3": {
+    "a": [
+     "2 years",
+     "2 year"
+    ],
+    "k": "2 year(s)"
+   },
+   "4": {
+    "a": [
+     "garage"
+    ]
+   },
+   "5": {
+    "a": [
+     "garden"
+    ]
+   },
+   "6": {
+    "a": [
+     "study"
+    ]
+   },
+   "7": {
+    "a": [
+     "noisy"
+    ]
+   },
+   "8": {
+    "a": [
+     "595"
+    ]
+   },
+   "9": {
+    "a": [
+     "B"
+    ]
+   },
+   "10": {
+    "a": [
+     "E"
+    ]
+   },
+   "11": {
+    "a": [
+     "classical music",
+     "classical concerts",
+     "music concerts",
+     "concerts",
+     "classical music concerts"
+    ],
+    "k": "classical music/(classical/music) concerts"
+   },
+   "12": {
+    "a": [
+     "bookshop",
+     "bookstore"
+    ],
+    "k": "bookshop/bookstore"
+   },
+   "13": {
+    "a": [
+     "planned"
+    ]
+   },
+   "14": {
+    "a": [
+     "1983",
+     "the 1980s",
+     "1980s"
+    ],
+    "k": "1983/(the) 1980s"
+   },
+   "15": {
+    "a": [
+     "City Council"
+    ]
+   },
+   "16": {
+    "a": [
+     "363"
+    ]
+   },
+   "17": {
+    "a": [
+     "the Garden Hall",
+     "Garden Hall"
+    ],
+    "k": "(the) Garden Hall"
+   },
+   "18": {
+    "a": [
+     "Three Lives"
+    ]
+   },
+   "19": {
+    "a": [
+     "4.50"
+    ]
+   },
+   "20": {
+    "a": [
+     "Faces of China"
+    ]
+   },
+   "21": {
+    "a": [
+     "C"
+    ]
+   },
+   "22": {
+    "a": [
+     "C"
+    ]
+   },
+   "23": {
+    "a": [
+     "A"
+    ]
+   },
+   "24": {
+    "a": [
+     "B"
+    ]
+   },
+   "25": {
+    "a": [
+     "C"
+    ]
+   },
+   "26": {
+    "a": [
+     "A"
+    ]
+   },
+   "27": {
+    "a": [
+     "C"
+    ]
+   },
+   "28": {
+    "a": [
+     "A"
+    ]
+   },
+   "29": {
+    "a": [
+     "B"
+    ]
+   },
+   "30": {
+    "a": [
+     "C"
+    ]
+   },
+   "31": {
+    "a": [
+     "B"
+    ]
+   },
+   "32": {
+    "a": [
+     "B"
+    ]
+   },
+   "33": {
+    "a": [
+     "B"
+    ]
+   },
+   "34": {
+    "a": [
+     "A"
+    ]
+   },
+   "35": {
+    "a": [
+     "combination",
+     "system"
+    ],
+    "k": "combination/system"
+   },
+   "36": {
+    "a": [
+     "safety"
+    ]
+   },
+   "37": {
+    "a": [
+     "attitude",
+     "attitudes"
+    ],
+    "k": "attitude(s)"
+   },
+   "38": {
+    "a": [
+     "control",
+     "controls"
+    ],
+    "k": "control(s)"
+   },
+   "39": {
+    "a": [
+     "factory",
+     "factories"
+    ],
+    "k": "factory/factories"
+   },
+   "40": {
+    "a": [
+     "skills"
+    ]
+   }
+  }
+ },
+ "reading": {
+  "passages": [
+   {
+    "passage": 1,
+    "range": [
+     1,
+     13
+    ],
+    "pages": [
+     64,
+     65,
+     66,
+     67,
+     68
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 1–13** which are based on Reading Passage 1 below.",
+    "title": "Striking Back at Lightning With Lasers",
+    "subtitle": null,
+    "paragraphs": [
+     {
+      "text": "Seldom is the weather more dramatic than when thunderstorms strike. Their electrical fury inflicts death or serious injury on around 500 people each year in the United States alone. As the clouds roll in, a leisurely round of golf can become a terrifying dice with death – out in the open, a lone golfer may be a lightning bolt's most inviting target. And there is damage to property too. Lightning damage costs American power companies more than $100 million a year."
+     },
+     {
+      "text": "But researchers in the United States and Japan are planning to hit back. Already in laboratory trials they have tested strategies for neutralising the power of thunderstorms, and this winter they will brave real storms, equipped with an armoury of lasers that they will be pointing towards the heavens to discharge thunderclouds before lightning can strike."
+     },
+     {
+      "text": "The idea of forcing storm clouds to discharge their lightning on command is not new. In the early 1960s, researchers tried firing rockets trailing wires into thunderclouds to set up an easy discharge path for the huge electric charges that these clouds generate. The technique survives to this day at a test site in Florida run by the University of Florida, with support from the Electrical Power Research Institute (EPRI), based in California. EPRI, which is funded by power companies, is looking at ways to protect the United States' power grid from lightning strikes. 'We can cause the lightning to strike where we want it to using rockets,' says Ralph Bernstein, manager of lightning projects at EPRI. The rocket site is providing precise measurements of lightning voltages and allowing engineers to check how electrical equipment bears up."
+     },
+     {
+      "kind": "heading",
+      "text": "Bad behaviour"
+     },
+     {
+      "text": "But while rockets are fine for research, they cannot provide the protection from lightning strikes that everyone is looking for. The rockets cost around $1,200 each, can only be fired at a limited frequency and their failure rate is about 40 per cent. And even when they do trigger lightning, things still do not always go according to plan. 'Lightning is not perfectly well behaved,' says Bernstein. 'Occasionally, it will take a branch and go someplace it wasn't supposed to go.'"
+     },
+     {
+      "text": "And anyway, who would want to fire streams of rockets in a populated area? 'What goes up must come down,' points out Jean-Claude Diels of the University of New Mexico. Diels is leading a project, which is backed by EPRI, to try to use lasers to discharge lightning safely – and safety is a basic requirement since no one wants to put themselves or their expensive equipment at risk. With around $500,000 invested so far, a promising system is just emerging from the laboratory."
+     },
+     {
+      "text": "The idea began some 20 years ago, when high-powered lasers were revealing their ability to extract electrons out of atoms and create ions. If a laser could generate a line of ionisation in the air all the way up to a storm cloud, this conducting path could be used to guide lightning to Earth, before the electric field becomes strong enough to break down the air in an uncontrollable surge. To stop the laser itself being struck, it would not be pointed straight at the clouds. Instead it would be directed at a mirror, and from there into the sky. The mirror would be protected by placing lightning conductors close by. Ideally, the cloud-zapper (gun) would be cheap enough to be installed around all key power installations, and portable enough to be taken to international sporting events to beam up at brewing storm clouds."
+     },
+     {
+      "kind": "heading",
+      "text": "A stumbling block"
+     },
+     {
+      "text": "However, there is still a big stumbling block. The laser is no nifty portable: it's a monster that takes up a whole room. Diels is trying to cut down the size and says that a laser around the size of a small table is in the offing. He plans to test this more manageable system on live thunderclouds next summer."
+     },
+     {
+      "text": "Bernstein says that Diels's system is attracting lots of interest from the power companies. But they have not yet come up with the $5 million that EPRI says will be needed to develop a commercial system, by making the lasers yet smaller and cheaper. 'I cannot say I have money yet, but I'm working on it,' says Bernstein. He reckons that the forthcoming field tests will be the turning point – and he's hoping for good news. Bernstein predicts 'an avalanche of interest and support' if all goes well. He expects to see cloud-zappers eventually costing $50,000 to $100,000 each."
+     },
+     {
+      "text": "Other scientists could also benefit. With a lightning 'switch' at their fingertips, materials scientists could find out what happens when mighty currents meet matter. Diels also hopes to see the birth of 'interactive meteorology' – not just forecasting the weather but controlling it. 'If we could discharge clouds, we might affect the weather,' he says."
+     },
+     {
+      "text": "And perhaps, says Diels, we'll be able to confront some other meteorological menaces. 'We think we could prevent hail by inducing lightning,' he says. Thunder, the shock wave that comes from a lightning flash, is thought to be the trigger for the torrential rain that is typical of storms. A laser thunder factory could shake the moisture out of clouds, perhaps preventing the formation of the giant hailstones that threaten crops. With luck, as the storm clouds gather this winter, laser-toting researchers could, for the first time, strike back."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R1-1",
+      "type": "choice",
+      "range": [
+       1,
+       3
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B**, **C** or **D**.",
+       "Write the correct letter in boxes 1–3 on your answer sheet."
+      ],
+      "questions": [
+       {
+        "n": 1,
+        "text": "The main topic discussed in the text is",
+        "options": [
+         {
+          "key": "A",
+          "text": "the damage caused to US golf courses and golf players by lightning strikes."
+         },
+         {
+          "key": "B",
+          "text": "the effect of lightning on power supplies in the US and in Japan."
+         },
+         {
+          "key": "C",
+          "text": "a variety of methods used in trying to control lightning strikes."
+         },
+         {
+          "key": "D",
+          "text": "a laser technique used in trying to control lightning strikes."
+         }
+        ]
+       },
+       {
+        "n": 2,
+        "text": "According to the text, every year lightning",
+        "options": [
+         {
+          "key": "A",
+          "text": "does considerable damage to buildings during thunderstorms."
+         },
+         {
+          "key": "B",
+          "text": "kills or injures mainly golfers in the United States."
+         },
+         {
+          "key": "C",
+          "text": "kills or injures around 500 people throughout the world."
+         },
+         {
+          "key": "D",
+          "text": "damages more than 100 American power companies."
+         }
+        ]
+       },
+       {
+        "n": 3,
+        "text": "Researchers at the University of Florida and at the University of New Mexico",
+        "options": [
+         {
+          "key": "A",
+          "text": "receive funds from the same source."
+         },
+         {
+          "key": "B",
+          "text": "are using the same techniques."
+         },
+         {
+          "key": "C",
+          "text": "are employed by commercial companies."
+         },
+         {
+          "key": "D",
+          "text": "are in opposition to each other."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "R1-2",
+      "type": "completion",
+      "range": [
+       4,
+       6
+      ],
+      "instructions": [
+       "Complete the sentences below.",
+       "Choose **NO MORE THAN TWO WORDS** from the passage for each answer.",
+       "Write your answers in boxes 4–6 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "p",
+        "text": "EPRI receives financial support from {{4}}."
+       },
+       {
+        "t": "p",
+        "text": "The advantage of the technique being developed by Diels is that it can be used {{5}}."
+       },
+       {
+        "t": "p",
+        "text": "The main difficulty associated with using the laser equipment is related to its {{6}}."
+       }
+      ]
+     },
+     {
+      "id": "R1-3",
+      "type": "completion",
+      "range": [
+       7,
+       10
+      ],
+      "instructions": [
+       "Complete the summary using the list of words, **A–I**, below.",
+       "Write the correct letter, **A–I**, in boxes 7–10 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "p",
+        "text": "In this method, a laser is used to create a line of ionisation by removing electrons from {{7}}. This laser is then directed at {{8}} in order to control electrical charges, a method which is less dangerous than using {{9}}. As a protection for the lasers, the beams are aimed firstly at {{10}}."
+       }
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": "cloud-zappers"
+       },
+       {
+        "key": "B",
+        "text": "atoms"
+       },
+       {
+        "key": "C",
+        "text": "storm clouds"
+       },
+       {
+        "key": "D",
+        "text": "mirrors"
+       },
+       {
+        "key": "E",
+        "text": "technique"
+       },
+       {
+        "key": "F",
+        "text": "ions"
+       },
+       {
+        "key": "G",
+        "text": "rockets"
+       },
+       {
+        "key": "H",
+        "text": "conductors"
+       },
+       {
+        "key": "I",
+        "text": "thunder"
+       }
+      ]
+     },
+     {
+      "id": "R1-4",
+      "type": "ynng",
+      "range": [
+       11,
+       13
+      ],
+      "instructions": [
+       "Do the following statements agree with the information given in Reading Passage 1?",
+       "In boxes 11–13 on your answer sheet write",
+       "**YES** if the statement agrees with the claims of the writer",
+       "**NO** if the statement contradicts the claims of the writer",
+       "**NOT GIVEN** if it is impossible to say what the writer thinks about this"
+      ],
+      "questions": [
+       {
+        "n": 11,
+        "text": "Power companies have given Diels enough money to develop his laser."
+       },
+       {
+        "n": 12,
+        "text": "Obtaining money to improve the lasers will depend on tests in real storms."
+       },
+       {
+        "n": 13,
+        "text": "Weather forecasters are intensely interested in Diels's system."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "passage": 2,
+    "range": [
+     14,
+     26
+    ],
+    "pages": [
+     69,
+     70,
+     71,
+     72
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 14–26**, which are based on Reading Passage 2 below.",
+    "title": "The Nature of Genius",
+    "subtitle": null,
+    "paragraphs": [
+     {
+      "text": "There has always been an interest in geniuses and prodigies. The word 'genius', from the Latin *gens* (= family) and the term 'genius', meaning 'begetter', comes from the early Roman cult of a divinity as the head of the family. In its earliest form, genius was concerned with the ability of the head of the family, the paterfamilias, to perpetuate himself. Gradually, genius came to represent a person's characteristics and thence an individual's highest attributes derived from his 'genius' or guiding spirit. Today, people still look to stars or genes, astrology or genetics, in the hope of finding the source of exceptional abilities or personal characteristics."
+     },
+     {
+      "text": "The concept of genius and of gifts has become part of our folk culture, and attitudes are ambivalent towards them. We envy the gifted and mistrust them. In the mythology of giftedness, it is popularly believed that if people are talented in one area, they must be defective in another, that intellectuals are impractical, that prodigies burn too brightly too soon and burn out, that gifted people are eccentric, that they are physical weaklings, that there's a thin line between genius and madness, that genius runs in families, that the gifted are so clever they don't need special help, that giftedness is the same as having a high IQ, that some races are more intelligent or musical or mathematical than others, that genius goes unrecognised and unrewarded, that adversity makes men wise or that people with gifts have a responsibility to use them. Language has been enriched with such terms as 'highbrow', 'egghead', 'blue-stocking', 'wiseacre', 'know-all', 'boffin' and, for many, 'intellectual' is a term of denigration."
+     },
+     {
+      "text": "The nineteenth century saw considerable interest in the nature of genius, and produced not a few studies of famous prodigies. Perhaps for us today, two of the most significant aspects of most of these studies of genius are the frequency with which early encouragement and teaching by parents and tutors had beneficial effects on the intellectual, artistic or musical development of the children but caused great difficulties of adjustment later in their lives, and the frequency with which abilities went unrecognised by teachers and schools. However, the difficulty with the evidence produced by these studies, fascinating as they are in collecting together anecdotes and apparent similarities and exceptions, is that they are not what we would today call norm-referenced. In other words, when, for instance, information is collated about early illnesses, methods of upbringing, schooling, etc., we must also take into account information from other historical sources about how common or exceptional these were at the time. For instance, infant mortality was high and life expectancy much shorter than today, home tutoring was common in the families of the nobility and wealthy, bullying and corporal punishment were common at the best independent schools and, for the most part, the cases studied were members of the privileged classes. It was only with the growth of paediatrics and psychology in the twentieth century that studies could be carried out on a more objective, if still not always very scientific, basis."
+     },
+     {
+      "text": "Geniuses, however they are defined, are but the peaks which stand out through the mist of history and are visible to the particular observer from his or her particular vantage point. Change the observers and the vantage points, clear away some of the mist, and a different lot of peaks appear. Genius is a term we apply to those whom we recognise for their outstanding achievements and who stand near the end of the continuum of human abilities which reaches back through the mundane and mediocre to the incapable. There is still much truth in Dr Samuel Johnson's observation, 'The true genius is a mind of large general powers, accidentally determined to some particular direction'. We may disagree with the 'general', for we doubt if all musicians of genius could have become scientists of genius or vice versa, but there is no doubting the accidental determination which nurtured or triggered their gifts into those channels into which they have poured their powers so successfully. Along the continuum of abilities are hundreds of thousands of gifted men and women, boys and girls."
+     },
+     {
+      "text": "What we appreciate, enjoy or marvel at in the works of genius or the achievements of prodigies are the manifestations of skills or abilities which are similar to, but so much superior to, our own. But that their minds are not different from our own is demonstrated by the fact that the hard-won discoveries of scientists like Kepler or Einstein become the commonplace knowledge of schoolchildren and the once outrageous shapes and colours of an artist like Paul Klee so soon appear on the fabrics we wear. This does not minimise the supremacy of their achievements, which outstrip our own as the sub-four-minute milers outstrip our jogging."
+     },
+     {
+      "text": "To think of geniuses and the gifted as having uniquely different brains is only reasonable if we accept that each human brain is uniquely different. The purpose of instruction is to make us even more different from one another, and in the process of being educated we can learn from the achievements of those more gifted than ourselves. But before we try to emulate geniuses or encourage our children to do so we should note that some of the things we learn from them may prove unpalatable. We may envy their achievements and fame, but we should also recognise the price they may have paid in terms of perseverance, single-mindedness, dedication, restrictions on their personal lives, the demands upon their energies and time, and how often they had to display great courage to preserve their integrity or to make their way to the top."
+     },
+     {
+      "text": "Genius and giftedness are relative descriptive terms of no real substance. We may, at best, give them some precision by defining them and placing them in a context but, whatever we do, we should never delude ourselves into believing that gifted children or geniuses are different from the rest of humanity, save in the degree to which they have developed the performance of their abilities."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R2-1",
+      "type": "multi",
+      "range": [
+       14,
+       18
+      ],
+      "n": [
+       14,
+       15,
+       16,
+       17,
+       18
+      ],
+      "select": 5,
+      "instructions": [
+       "Choose **FIVE** letters, **A–K**.",
+       "Write the correct letters in boxes 14–18 on your answer sheet.",
+       "**NB** *Your answers may be given in any order.*",
+       "Below are listed some popular beliefs about genius and giftedness."
+      ],
+      "text": "Which **FIVE** of these beliefs are reported by the writer of the text?",
+      "options": [
+       {
+        "key": "A",
+        "text": "Truly gifted people are talented in all areas."
+       },
+       {
+        "key": "B",
+        "text": "The talents of geniuses are soon exhausted."
+       },
+       {
+        "key": "C",
+        "text": "Gifted people should use their gifts."
+       },
+       {
+        "key": "D",
+        "text": "A genius appears once in every generation."
+       },
+       {
+        "key": "E",
+        "text": "Genius can be easily destroyed by discouragement."
+       },
+       {
+        "key": "F",
+        "text": "Genius is inherited."
+       },
+       {
+        "key": "G",
+        "text": "Gifted people are very hard to live with."
+       },
+       {
+        "key": "H",
+        "text": "People never appreciate true genius."
+       },
+       {
+        "key": "I",
+        "text": "Geniuses are natural leaders."
+       },
+       {
+        "key": "J",
+        "text": "Gifted people develop their greatness through difficulties."
+       },
+       {
+        "key": "K",
+        "text": "Genius will always reveal itself."
+       }
+      ]
+     },
+     {
+      "id": "R2-2",
+      "type": "tfng",
+      "range": [
+       19,
+       26
+      ],
+      "instructions": [
+       "Do the following statements agree with the information given in Reading Passage 2?",
+       "In boxes 19–26 on your answer sheet, write",
+       "**TRUE** if the statement agrees with the information",
+       "**FALSE** if the statement contradicts the information",
+       "**NOT GIVEN** if there is no information on this"
+      ],
+      "questions": [
+       {
+        "n": 19,
+        "text": "Nineteenth-century studies of the nature of genius failed to take into account the uniqueness of the person's upbringing."
+       },
+       {
+        "n": 20,
+        "text": "Nineteenth-century studies of genius lacked both objectivity and a proper scientific approach."
+       },
+       {
+        "n": 21,
+        "text": "A true genius has general powers capable of excellence in any area."
+       },
+       {
+        "n": 22,
+        "text": "The skills of ordinary individuals are in essence the same as the skills of prodigies."
+       },
+       {
+        "n": 23,
+        "text": "The ease with which truly great ideas are accepted and taken for granted fails to lessen their significance."
+       },
+       {
+        "n": 24,
+        "text": "Giftedness and genius deserve proper scientific research into their true nature so that all talent may be retained for the human race."
+       },
+       {
+        "n": 25,
+        "text": "Geniuses often pay a high price to achieve greatness."
+       },
+       {
+        "n": 26,
+        "text": "To be a genius is worth the high personal cost."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "passage": 3,
+    "range": [
+     27,
+     40
+    ],
+    "pages": [
+     73,
+     74,
+     75,
+     76
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 27–40**, which are based on Reading Passage 3 on the following pages.",
+    "title": "HOW DOES THE BIOLOGICAL CLOCK TICK?",
+    "subtitle": null,
+    "paragraphs": [
+     {
+      "label": "A",
+      "text": "Our life span is restricted. Everyone accepts this as 'biologically' obvious. 'Nothing lives for ever!' However, in this statement we think of artificially produced, technical objects, products which are subjected to natural wear and tear during use. This leads to the result that at some time or other the object stops working and is unusable ('death' in the biological sense). But are the *wear and tear and loss of function of technical objects and the death of living* organisms really similar or comparable?"
+     },
+     {
+      "label": "B",
+      "text": "Our 'dead' products are 'static', closed systems. It is always the basic material which constitutes the object and which, in the natural course of things, is worn down and becomes 'older'. Ageing in this case must occur according to the laws of physical chemistry and of thermodynamics. Although the same law holds for a living organism, the result of this law is not inexorable in the same way. At least as long as a biological system has the ability to renew itself it could actually become older without ageing; an organism is an open, dynamic system through which new material continuously flows. Destruction of old material and formation of new material are thus in permanent dynamic equilibrium. The material of which the organism is formed changes continuously. Thus our bodies continuously exchange old substance for new, just like a spring which more or less maintains its form and movement, but in which the water molecules are always different."
+     },
+     {
+      "label": "C",
+      "text": "Thus ageing and death should not be seen as inevitable, particularly as the organism possesses many mechanisms for repair. It is not, in principle, necessary for a biological system to age and die. Nevertheless, a restricted life span, ageing, and then death are basic characteristics of life. The reason for this is easy to recognise: in nature, the existent organisms either adapt or are regularly replaced by new types. Because of changes in the genetic material (mutations) these have new characteristics and in the course of their individual lives they are tested for optimal or better adaptation to the environmental conditions. Immortality would disturb this system – it needs room for new and better life. This is the basic problem of evolution."
+     },
+     {
+      "label": "D",
+      "text": "Every organism has a life span which is highly characteristic. There are striking differences in life span between different species, but within one species the parameter is relatively constant. For example, the average duration of human life has hardly changed in thousands of years. Although more and more people attain an advanced age as a result of developments in medical care and better nutrition, the characteristic upper limit for most remains 80 years. A further argument against the simple wear and tear theory is the observation that the time within which organisms age lies between a few days (even a few hours for unicellular organisms) and several thousand years, as with mammoth trees."
+     },
+     {
+      "label": "E",
+      "text": "If a life span is a genetically determined biological characteristic, it is logically necessary to propose the existence of an internal clock, which in some way measures and controls the ageing process and which finally determines death as the last step in a fixed programme. Like the life span, the metabolic rate has for different organisms a fixed mathematical relationship to the body mass. In comparison to the life span this relationship is 'inverted': the larger the organism the lower its metabolic rate. Again this relationship is valid not only for birds, but also, similarly on average within the systematic unit, for all other organisms (plants, animals, unicellular organisms)."
+     },
+     {
+      "label": "F",
+      "text": "Animals which behave 'frugally' with energy become particularly old, for example, crocodiles and tortoises. Parrots and birds of prey are often held chained up. Thus they are not able to 'experience life' and so they attain a high life span in captivity. Animals which save energy by hibernation or lethargy (e.g. bats or hedgehogs) live much longer than those which are always active. The metabolic rate of mice can be reduced by a very low consumption of food (hunger diet). They then may live twice as long as their well fed comrades. Women become distinctly (about 10 per cent) older than men. If you examine the metabolic rates of the two sexes you establish that the higher male metabolic rate roughly accounts for the lower male life span. That means that they live life 'energetically' – more intensively, but not for as long."
+     },
+     {
+      "label": "G",
+      "text": "It follows from the above that sparing use of energy reserves should tend to extend life. Extreme high performance sports may lead to optimal cardiovascular performance, but they quite certainly do not prolong life. Relaxation lowers metabolic rate, as does adequate sleep and in general an equable and balanced personality. Each of us can develop his or her own 'energy saving programme' with a little self-observation, critical self-control and, above all, logical consistency. Experience will show that to live in this way not only increases the life span but is also very healthy. This final aspect should not be forgotten."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R3-1",
+      "type": "matching",
+      "range": [
+       27,
+       32
+      ],
+      "instructions": [
+       "Reading Passage 3 has seven paragraphs, **A–G**.",
+       "Choose the correct heading for paragraphs **B–G** from the list of headings below.",
+       "Write the correct number, **i–x**, in boxes 27–32 on your answer sheet.",
+       "Example: Paragraph A – v"
+      ],
+      "optionsTitle": "List of Headings",
+      "options": [
+       {
+        "key": "i",
+        "text": "The biological clock"
+       },
+       {
+        "key": "ii",
+        "text": "Why dying is beneficial"
+       },
+       {
+        "key": "iii",
+        "text": "The ageing process of men and women"
+       },
+       {
+        "key": "iv",
+        "text": "Prolonging your life"
+       },
+       {
+        "key": "v",
+        "text": "Limitations of life span"
+       },
+       {
+        "key": "vi",
+        "text": "Modes of development of different species"
+       },
+       {
+        "key": "vii",
+        "text": "A stable life span despite improvements"
+       },
+       {
+        "key": "viii",
+        "text": "Energy consumption"
+       },
+       {
+        "key": "ix",
+        "text": "Fundamental differences in ageing of objects and organisms"
+       },
+       {
+        "key": "x",
+        "text": "Repair of genetic material"
+       }
+      ],
+      "questions": [
+       {
+        "n": 27,
+        "text": "Paragraph B"
+       },
+       {
+        "n": 28,
+        "text": "Paragraph C"
+       },
+       {
+        "n": 29,
+        "text": "Paragraph D"
+       },
+       {
+        "n": 30,
+        "text": "Paragraph E"
+       },
+       {
+        "n": 31,
+        "text": "Paragraph F"
+       },
+       {
+        "n": 32,
+        "text": "Paragraph G"
+       }
+      ]
+     },
+     {
+      "id": "R3-2",
+      "type": "completion",
+      "range": [
+       33,
+       36
+      ],
+      "instructions": [
+       "Complete the notes below.",
+       "Choose **NO MORE THAN TWO WORDS** from the passage for each answer.",
+       "Write your answers in boxes 33–36 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "li",
+        "text": "Objects age in accordance with principles of {{33}} and of {{34}}"
+       },
+       {
+        "t": "li",
+        "text": "Through mutations, organisms can {{35}} better to the environment"
+       },
+       {
+        "t": "li",
+        "text": "{{36}} would pose a serious problem for the theory of evolution"
+       }
+      ]
+     },
+     {
+      "id": "R3-3",
+      "type": "ynng",
+      "range": [
+       37,
+       40
+      ],
+      "instructions": [
+       "Do the following statements agree with the views of the writer in Reading Passage 3?",
+       "In boxes 37–40 on your answer sheet, write",
+       "**YES** if the statement agrees with the views of the writer",
+       "**NO** if the statement contradicts the views of the writer",
+       "**NOT GIVEN** if it is impossible to say what the writer thinks about this"
+      ],
+      "questions": [
+       {
+        "n": 37,
+        "text": "The wear and tear theory applies to both artificial objects and biological systems."
+       },
+       {
+        "n": 38,
+        "text": "In principle, it is possible for a biological system to become older without ageing."
+       },
+       {
+        "n": 39,
+        "text": "Within seven years, about 90 per cent of a human body is replaced as new."
+       },
+       {
+        "n": 40,
+        "text": "Conserving energy may help to extend a human's life."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "answers": {
+   "1": {
+    "a": [
+     "D"
+    ]
+   },
+   "2": {
+    "a": [
+     "A"
+    ]
+   },
+   "3": {
+    "a": [
+     "A"
+    ]
+   },
+   "7": {
+    "a": [
+     "B"
+    ]
+   },
+   "8": {
+    "a": [
+     "C"
+    ]
+   },
+   "9": {
+    "a": [
+     "G"
+    ]
+   },
+   "10": {
+    "a": [
+     "D"
+    ]
+   },
+   "4": {
+    "a": [
+     "power companies"
+    ]
+   },
+   "5": {
+    "a": [
+     "safely"
+    ]
+   },
+   "6": {
+    "a": [
+     "size"
+    ]
+   },
+   "11": {
+    "a": [
+     "NO"
+    ]
+   },
+   "12": {
+    "a": [
+     "YES"
+    ]
+   },
+   "13": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "14": {
+    "a": [
+     "B"
+    ]
+   },
+   "15": {
+    "a": [
+     "C"
+    ]
+   },
+   "16": {
+    "a": [
+     "F"
+    ]
+   },
+   "17": {
+    "a": [
+     "H"
+    ]
+   },
+   "18": {
+    "a": [
+     "J"
+    ]
+   },
+   "19": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "20": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "21": {
+    "a": [
+     "FALSE"
+    ]
+   },
+   "22": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "23": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "24": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "25": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "26": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "27": {
+    "a": [
+     "ix"
+    ]
+   },
+   "28": {
+    "a": [
+     "ii"
+    ]
+   },
+   "29": {
+    "a": [
+     "vii"
+    ]
+   },
+   "30": {
+    "a": [
+     "i"
+    ]
+   },
+   "31": {
+    "a": [
+     "viii"
+    ]
+   },
+   "32": {
+    "a": [
+     "iv"
+    ]
+   },
+   "33": {
+    "a": [
+     "physical chemistry",
+     "thermodynamics"
+    ],
+    "k": "physical chemistry (and) thermodynamics"
+   },
+   "34": {
+    "a": [
+     "physical chemistry",
+     "thermodynamics"
+    ],
+    "k": "physical chemistry (and) thermodynamics"
+   },
+   "35": {
+    "a": [
+     "adapt"
+    ]
+   },
+   "36": {
+    "a": [
+     "immortality"
+    ]
+   },
+   "37": {
+    "a": [
+     "NO"
+    ]
+   },
+   "38": {
+    "a": [
+     "YES"
+    ]
+   },
+   "39": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "40": {
+    "a": [
+     "YES"
+    ]
+   }
+  },
+  "eitherOrder": [
+   [
+    33,
+    34
+   ]
+  ]
+ },
+ "writing": {
+  "tasks": [
+   {
+    "task": 1,
+    "minutes": 20,
+    "minWords": 150,
+    "pages": [
+     77
+    ],
+    "prompt": [
+     "The diagrams below show the stages and equipment used in the cement-making process, and how cement is used to produce concrete for building purposes.",
+     "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+    ],
+    "image": "images/C8/C8-T3-W1.png",
+    "sample": {
+     "kind": "candidate",
+     "band": "6",
+     "text": "The diagrams show the processes and the equipments used to make cement, and how these are used to produce concrete for building purposes.\n\nThe first step in the cement productios is to introduce limestone clay. These materials pass through a crusher that produces a powder. Then this powder goes into a mixer. After this, the product passes to a rotating heater which works with heat. Afterwards, the mixture goes into a ginder where the cement comes out. At the end of the process, the cement is packed in bags.\n\nReferring to the concret production, the process begins with a combination of 15% cement, 10% water, 25% and sand 50% gravel. These four elements are introduced into a concrete mixer.\n\nAs mentioned above, the concrete production takes fewer steps that the cement production; however, it is necessary to use more materials than the latter process in order to obtain the final product.\n\nThe last difference between both processes is that the concrete mixer does not work with heat.",
+     "comment": "This answer presents the information in the two diagrams appropriately. The main differences between the two processes are identified in a clear summary, but other important features could be described more fully. The organisation of information is the strongest feature of this script. The description is well organised and there is a smooth progression across the whole answer that is achieved through good use of linkers and referencing phrases. A range of relevant vocabulary is used, although this is not wide and there are some less suitable word choices. There are a few mistakes in spelling, but these do not make the answer difficult to understand. A mix of sentence forms is used and there are some accurate examples of complex structures, but the many short, simple sentences tend to limit the range."
+    }
+   },
+   {
+    "task": 2,
+    "minutes": 40,
+    "minWords": 250,
+    "pages": [
+     78
+    ],
+    "prompt": [
+     "Write about the following topic:",
+     "*Increasing the price of petrol is the best way to solve growing traffic and pollution problems.*",
+     "*To what extent do you agree or disagree?*",
+     "*What other measures do you think might be effective?*",
+     "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+    ],
+    "sample": {
+     "kind": "model",
+     "band": null,
+     "text": "There is no doubt that traffic and pollution from vehicles have become huge problems, both in cities and on motorways everywhere. Solving these problems is likely to need more than a simple rise in the price of petrol.\n\nWhile it is undeniable that private car use is one of the main causes of the increase in traffic and pollution, higher fuel costs are unlikely to limit the number of drivers for long. As this policy would also affect the cost of public transport, it would be very unpopular with everyone who needs to travel on the roads. But there are various other measures that could be implemented that would have a huge effect on these problems.\n\nI think to tackle the problem of pollution, cleaner fuels need to be developed. The technology is already available to produce electric cars that would be both quieter and cleaner to use. Persuading manufacturers and travellers to adopt this new technology would be a more effective strategy for improving air quality, especially in cities.\n\nHowever, traffic congestion will not be solved by changing the type of private vehicle people can use. To do this, we need to improve the choice of public transport services available to travellers. For example, if sufficient sky trains and underground train systems were built and effectively maintained in our major cities, then traffic on the roads would be dramatically reduced. Long-distance train and coach services should be made attractive and affordable alternatives to driving your own car for long journeys.\n\nIn conclusion, I think that long-term traffic and pollution reductions would depend on educating the public to use public transport more, and on governments using public money to construct and run efficient systems.",
+     "comment": null
+    }
+   }
+  ]
+ },
+ "issues": [
+  "R1 Q11-13: the book prints the rubric \"Do the following statements agree with the information given in Reading Passage 1?\" but with YES/NO/NOT GIVEN options (claims of the writer); reproduced as printed, answers keyed as YES/NO/NOT GIVEN."
+ ]
+}

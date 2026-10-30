@@ -1,0 +1,1561 @@
+{
+ "schema": "ielts-mock.exam/1",
+ "id": "C13-T1",
+ "source": {
+  "book": 13,
+  "test": 1
+ },
+ "title": "Cambridge IELTS 13 · Test 1",
+ "listening": {
+  "parts": [
+   {
+    "part": 1,
+    "range": [
+     1,
+     10
+    ],
+    "pages": [
+     11
+    ],
+    "groups": [
+     {
+      "id": "L1-1",
+      "type": "completion",
+      "range": [
+       1,
+       10
+      ],
+      "instructions": [
+       "Complete the table below.",
+       "Write **ONE WORD AND/OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "COOKERY CLASSES"
+       },
+       {
+        "t": "table",
+        "header": 1,
+        "rows": [
+         [
+          "Cookery Class",
+          "Focus",
+          "Other Information"
+         ],
+         [
+          "*Example*\nThe Food *Studio*",
+          "how to {{1}} and cook with seasonal products",
+          "• small classes\n• also offers {{2}} classes\n• clients who return get a {{3}} discount"
+         ],
+         [
+          "Bond's Cookery School",
+          "food that is {{4}}",
+          "• includes recipes to strengthen your {{5}}\n• they have a free {{6}} every Thursday"
+         ],
+         [
+          "The {{7}} Centre",
+          "mainly {{8}} food",
+          "• located near the {{9}}\n• a special course in skills with a {{10}} is sometimes available"
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    "transcript": "OFFICIAL: Hello, Tourist Information Centre, Mike speaking, how can I help you?\nWOMAN: Oh, hi. I wanted to find out about cookery classes. I believe there are some one-day classes for tourists?\nOFFICIAL: Well, they're open to everyone, but tourists are always welcome. OK, let me give you some details of what's available. There are several classes. One very popular one is at the Food Studio.\nWOMAN: OK.\nOFFICIAL: They focus on seasonal products, and as well as teaching you how to cook them, they also show you how to choose them. [Q1]\nWOMAN: Right, that sounds good. How big are the classes?\nOFFICIAL: I'm not sure exactly, but they'll be quite small.\nWOMAN: And could I get a private lesson there? [Q2]\nOFFICIAL: I think so... let me check, yes, they do offer those. Though in fact most of the people who attend the classes find it's a nice way of getting to know one another.\nWOMAN: I suppose it must be, yes.\nOFFICIAL: And this company has a special deal for clients where they offer a discount of 20 percent if you return for a further class. [Q3]\nWOMAN: OK. But you said there were several classes?\nOFFICIAL: That's right. Another one you might be interested in is Bond's Cookery School. They're quite new, they just opened six months ago, but I've heard good things about them. They concentrate on teaching you to prepare healthy food, and [Q4] they have quite a lot of specialist staff.\nWOMAN: So is that food for people on a diet and things like that? I don't know if I'd be interested in that.\nOFFICIAL: Well, I don't think they particularly focus on low calorie diets or weight loss. It's more to do with recipes that look at specific needs, like including ingredients that will help build up your bones and make them stronger, that sort of thing. [Q5]\nWOMAN: I see. Well, I might be interested, I'm not sure. Do they have a website I could check?\nOFFICIAL: Yes, just key in the name of the school – it'll come up. And if you want to know more about them, every Thursday evening they have a lecture at the school. [Q6] It's free and you don't need to book or anything, just turn up at 7.30. And that might give you an idea of whether you want to go to an actual class.\nOFFICIAL: OK, there's one more place you might be interested in. That's got a rather strange name, it's called The Arretsa Centre – that's spelled A-R-R-E-T-S-A. [Q7]\nWOMAN: OK.\nOFFICIAL: They've got a very good reputation. They do a bit of meat and fish cookery but they mostly specialise in vegetarian dishes. [Q8]\nWOMAN: Right. That's certainly an area I'd like to learn more about. I've got lots of friends who don't eat meat. In fact, I think I might have seen that school today. Is it just by the market? [Q9]\nOFFICIAL: That's right. So they don't have any problem getting their ingredients. They're right next door. And they also offer a special two-hour course in how to use a knife. They cover all the different skills – buying them, sharpening, chopping [Q10] techniques. It gets booked up quickly though so you'd need to check it was available.\nWOMAN: Right, well thank you very much. I'll go and ..."
+   },
+   {
+    "part": 2,
+    "range": [
+     11,
+     20
+    ],
+    "pages": [
+     12,
+     13
+    ],
+    "groups": [
+     {
+      "id": "L2-1",
+      "type": "choice",
+      "range": [
+       11,
+       13
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B** or **C**."
+      ],
+      "title": "Traffic Changes in Granford",
+      "questions": [
+       {
+        "n": 11,
+        "text": "Why are changes needed to traffic systems in Granford?",
+        "options": [
+         {
+          "key": "A",
+          "text": "The number of traffic accidents has risen."
+         },
+         {
+          "key": "B",
+          "text": "The amount of traffic on the roads has increased."
+         },
+         {
+          "key": "C",
+          "text": "The types of vehicles on the roads have changed."
+         }
+        ]
+       },
+       {
+        "n": 12,
+        "text": "In a survey, local residents particularly complained about",
+        "options": [
+         {
+          "key": "A",
+          "text": "dangerous driving by parents."
+         },
+         {
+          "key": "B",
+          "text": "pollution from trucks and lorries."
+         },
+         {
+          "key": "C",
+          "text": "inconvenience from parked cars."
+         }
+        ]
+       },
+       {
+        "n": 13,
+        "text": "According to the speaker, one problem with the new regulations will be",
+        "options": [
+         {
+          "key": "A",
+          "text": "raising money to pay for them."
+         },
+         {
+          "key": "B",
+          "text": "finding a way to make people follow them."
+         },
+         {
+          "key": "C",
+          "text": "getting the support of the police."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L2-2",
+      "type": "matching",
+      "range": [
+       14,
+       20
+      ],
+      "instructions": [
+       "Label the map below.",
+       "Write the correct letter, **A–I**, next to Questions 14–20."
+      ],
+      "title": "Proposed traffic changes in Granford",
+      "image": "images/C13/C13-T1-L2-map.png",
+      "options": [
+       {
+        "key": "A",
+        "text": ""
+       },
+       {
+        "key": "B",
+        "text": ""
+       },
+       {
+        "key": "C",
+        "text": ""
+       },
+       {
+        "key": "D",
+        "text": ""
+       },
+       {
+        "key": "E",
+        "text": ""
+       },
+       {
+        "key": "F",
+        "text": ""
+       },
+       {
+        "key": "G",
+        "text": ""
+       },
+       {
+        "key": "H",
+        "text": ""
+       },
+       {
+        "key": "I",
+        "text": ""
+       }
+      ],
+      "questions": [
+       {
+        "n": 14,
+        "text": "New traffic lights"
+       },
+       {
+        "n": 15,
+        "text": "Pedestrian crossing"
+       },
+       {
+        "n": 16,
+        "text": "Parking allowed"
+       },
+       {
+        "n": 17,
+        "text": "New 'No Parking' sign"
+       },
+       {
+        "n": 18,
+        "text": "New disabled parking spaces"
+       },
+       {
+        "n": 19,
+        "text": "Widened pavement"
+       },
+       {
+        "n": 20,
+        "text": "Lorry loading/unloading restrictions"
+       }
+      ]
+     }
+    ],
+    "transcript": "Good evening everyone. My name's Phil Sutton, and I'm chairman of the Highways Committee. We've called this meeting to inform members of the public about the new regulations for traffic and parking we're proposing for Granford. I'll start by summarising these changes before we open the meeting to questions.\nSo, why do we need to make these changes to traffic systems in Granford? Well, we're very aware that traffic is becoming an increasing problem. It's been especially noticeable with the increase in heavy traffic while they've been building the new hospital. But it's the overall rise [Q11] in the volume of traffic of all kinds that's concerning us. To date there's not been any increase in traffic accidents, but that's not something we want to see happen, obviously.\nWe recently carried out a survey of local residents, and their responses were interesting. People were very concerned about the lack of visibility on some roads due to cars parked [Q12] along the sides of the roads. We'd expected complaints about the congestion near the school when parents are dropping off their children or picking them up, but this wasn't top of the list, and nor were noise and fumes from trucks and lorries, though they were mentioned by some people.\nWe think these new traffic regulations would make a lot of difference. But we still have a long way to go. We've managed to keep our proposals within budget, just, so they can be covered by the Council. But, of course, it's no good introducing new regulations if we don't have a way [Q13] of making sure that everyone obeys them, and that's an area we're still working on with the help of representatives from the police force. OK, so this slide shows a map of the central area of Granford, with the High Street in the middle and School Road on the right. Now, we already have a set of traffic lights in the High [Q14] Street at the junction with Station Road, but we're planning to have another set at the other end, at the School Road junction, to regulate the flow of traffic along the High Street.\nWe've decided we definitely need a pedestrian crossing. We considered putting this on School Road, just outside the school, but in the end we decided that could lead to a lot of traffic congestion so we decided to locate it on the High Street, crossing the road in front of [Q15] the supermarket. That's a very busy area, so it should help things there.\nWe're proposing some changes to parking. At present, parking isn't allowed on the High [Q16] Street outside the library, but we're going to change that, and allow parking there, but not at the other end of the High Street near School Road.\nThere'll be a new 'No Parking' sign on School Road, just by the entrance to the school, [Q17] forbidding parking for 25 metres. This should improve visibility for drivers and pedestrians, especially on the bend just to the north of the school.\nAs far as disabled drivers are concerned, at present they have parking outside the supermarket, but lorries also use those spaces, so we've got two new disabled parking [Q18] spaces on the side road up towards the bank. It's not ideal, but probably better than the present arrangement.\nWe also plan to widen the pavement on School Road. We think we can manage to get an [Q19] extra half-metre on the bend just before you get to the school, on the same side of the road.\nFinally, we've introduced new restrictions on loading and unloading for the supermarket, so [Q20] lorries will only be allowed to stop there before 8 am. That's the supermarket on School Road – we kept to the existing arrangements with the High Street supermarket.\nOK. So that's about it. Now, would anyone..."
+   },
+   {
+    "part": 3,
+    "range": [
+     21,
+     30
+    ],
+    "pages": [
+     14,
+     15
+    ],
+    "groups": [
+     {
+      "id": "L3-1",
+      "type": "choice",
+      "range": [
+       21,
+       25
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B** or **C**."
+      ],
+      "questions": [
+       {
+        "n": 21,
+        "text": "Why is Jack interested in investigating seed germination?",
+        "options": [
+         {
+          "key": "A",
+          "text": "He may do a module on a related topic later on."
+         },
+         {
+          "key": "B",
+          "text": "He wants to have a career in plant science."
+         },
+         {
+          "key": "C",
+          "text": "He is thinking of choosing this topic for his dissertation."
+         }
+        ]
+       },
+       {
+        "n": 22,
+        "text": "Jack and Emma agree the main advantage of their present experiment is that it can be",
+        "options": [
+         {
+          "key": "A",
+          "text": "described very easily."
+         },
+         {
+          "key": "B",
+          "text": "carried out inside the laboratory."
+         },
+         {
+          "key": "C",
+          "text": "completed in the time available."
+         }
+        ]
+       },
+       {
+        "n": 23,
+        "text": "What do they decide to check with their tutor?",
+        "options": [
+         {
+          "key": "A",
+          "text": "whether their aim is appropriate"
+         },
+         {
+          "key": "B",
+          "text": "whether anyone else has chosen this topic"
+         },
+         {
+          "key": "C",
+          "text": "whether the assignment contributes to their final grade"
+         }
+        ]
+       },
+       {
+        "n": 24,
+        "text": "They agree that Graves' book on seed germination is disappointing because",
+        "options": [
+         {
+          "key": "A",
+          "text": "it fails to cover recent advances in seed science."
+         },
+         {
+          "key": "B",
+          "text": "the content is irrelevant for them."
+         },
+         {
+          "key": "C",
+          "text": "its focus is very theoretical."
+         }
+        ]
+       },
+       {
+        "n": 25,
+        "text": "What does Jack say about the article on seed germination by Lee Hall?",
+        "options": [
+         {
+          "key": "A",
+          "text": "The diagrams of plant development are useful."
+         },
+         {
+          "key": "B",
+          "text": "The analysis of seed germination statistics is thorough."
+         },
+         {
+          "key": "C",
+          "text": "The findings on seed germination after fires are surprising."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L3-2",
+      "type": "completion",
+      "range": [
+       26,
+       30
+      ],
+      "instructions": [
+       "Complete the flow-chart below.",
+       "Choose **FIVE** answers from the box and write the correct letter, **A–H**, next to Questions 26–30."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Stages in the experiment"
+       },
+       {
+        "t": "flow",
+        "steps": [
+         "Select seeds of different {{26}} and sizes.",
+         "Measure and record the {{27}} and size of each one.",
+         "Decide on the {{28}} to be used.",
+         "Use a different {{29}} for each seed and label it.",
+         "After about 3 weeks, record the plant's {{30}} .",
+         "Investigate the findings."
+        ]
+       }
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": "container"
+       },
+       {
+        "key": "B",
+        "text": "soil"
+       },
+       {
+        "key": "C",
+        "text": "weight"
+       },
+       {
+        "key": "D",
+        "text": "condition"
+       },
+       {
+        "key": "E",
+        "text": "height"
+       },
+       {
+        "key": "F",
+        "text": "colour"
+       },
+       {
+        "key": "G",
+        "text": "types"
+       },
+       {
+        "key": "H",
+        "text": "depths"
+       }
+      ]
+     }
+    ],
+    "transcript": "EMMA: We've got to choose a topic for our experiment, haven't we, Jack? Were you thinking of something to do with seeds?\nJACK: That's right. I thought we could look at seed germination – how a seed begins to grow.\nEMMA: OK. Any particular reason? I know you're hoping to work in plant science eventually ...\nJACK: Yeah, but practically everything we do is going to feed into that. No, there's an [Q21] optional module on seed structure and function in the third year that I might do, so I thought it might be useful for that. If I choose that option, I don't have to do a dissertation module.\nEMMA: Good idea.\nJACK: Well, I thought for this experiment we could look at the relationship between seed size and the way the seeds are planted. So, we could plant different sized seeds in different ways, and see which grow best.\nEMMA: OK. We'd need to allow time for the seeds to come up. [Q22]\nJACK: That should be fine if we start now. A lot of the other possible experiments need quite a bit longer.\nEMMA: So that'd make it a good one to choose. And I don't suppose it'd need much equipment; we're not doing chemical analysis or anything. Though that's not really an issue, we've got plenty of equipment in the laboratory.\nJACK: Yeah. We need to have a word with the tutor if we're going to go ahead with it though. I'm sure our aim's OK. It's not very ambitious but the assignment's only ten percent of our final mark, isn't it? But we need to be sure we're the only ones doing [Q23] it.\nEMMA: Yeah, it's only five percent actually, but it'd be a bit boring if everyone was doing it.\nJACK: Did you read that book on seed germination on our reading list?\nEMMA: The one by Graves? I looked through it for my last experiment, though it wasn't all that relevant there. It would be for this experiment, though. I found it quite hard to [Q24] follow – lots about the theory, which I hadn't expected.\nJACK: Yes, I'd been hoping for something more practical. It does include references to the recent findings on genetically-modified seeds, though.\nEMMA: Yes, that was interesting.\nJACK: I read an article about seed germination by Lee Hall.\nEMMA: About seeds that lie in the ground for ages and only germinate after a fire?\nJACK: That's the one. I knew a bit about it already, but not about this research. His [Q25] analysis of figures comparing the times of the fires and the proportion of seeds that germinated was done in a lot of detail – very impressive.\nEMMA: Was that the article with the illustrations of early stages of plant development? They were very clear.\nJACK: I think those diagrams were in another article.\nEMMA: Anyway, shall we have a look at the procedure for our experiment? We'll need to get going with it quite soon.\nJACK: Right. So the first thing we have to do is find our seeds. I think vegetable seeds would be best. And obviously they mustn't all be the same size. So, how many [Q26] sorts do we need? About four different ones?\nEMMA: I think that would be enough. There'll be quite a large number of seeds for each one.\nJACK: Then, for each seed we need to find out how much it weighs, and also measure its [Q27] dimensions, and we need to keep a careful record of all that.\nEMMA: That'll be quite time-consuming. And we also need to decide how deep we're [Q28] going to plant the seeds – right on the surface, a few millimetres down, or several centimetres.\nJACK: OK. So then we get planting. Do you think we can plant several seeds together in [Q29] the same plant pot?\nEMMA: No, I think we need a different one for each seed.\nJACK: Right. And we'll need to label them – we can use different coloured labels. Then we wait for the seeds to germinate – I reckon that'll be about three weeks, depending on what the weather's like. Then we see if our plants have come up, and write [Q30] down how tall they've grown.\nEMMA: Then all we have to do is look at our numbers, and see if there's any relation between them.\nJACK: That's right. So..."
+   },
+   {
+    "part": 4,
+    "range": [
+     31,
+     40
+    ],
+    "pages": [
+     16
+    ],
+    "groups": [
+     {
+      "id": "L4-1",
+      "type": "completion",
+      "range": [
+       31,
+       40
+      ],
+      "instructions": [
+       "Complete the notes below.",
+       "Write **ONE WORD ONLY** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Effects of urban environments on animals"
+       },
+       {
+        "t": "sub",
+        "text": "Introduction"
+       },
+       {
+        "t": "p",
+        "text": "Recent urban developments represent massive environmental changes. It was previously thought that only a few animals were suitable for city life, e.g."
+       },
+       {
+        "t": "li",
+        "text": "the {{31}} – because of its general adaptability"
+       },
+       {
+        "t": "li",
+        "text": "the pigeon – because walls of city buildings are similar to {{32}}"
+       },
+       {
+        "t": "p",
+        "text": "In fact, many urban animals are adapting with unusual {{33}} ."
+       },
+       {
+        "t": "sub",
+        "text": "Recent research"
+       },
+       {
+        "t": "li",
+        "text": "Emilie Snell-Rood studied small urbanised mammal specimens from museums in Minnesota."
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "– She found the size of their {{34}} had increased."
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "– She suggests this may be due to the need to locate new sources of {{35}} and to deal with new dangers."
+       },
+       {
+        "t": "li",
+        "text": "Catarina Miranda focused on the {{36}} of urban and rural blackbirds."
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "– She found urban birds were often braver, but were afraid of situations that were {{37}} ."
+       },
+       {
+        "t": "li",
+        "text": "Jonathan Atwell studies how animals respond to urban environments."
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "– He found that some animals respond to {{38}} by producing lower levels of hormones."
+       },
+       {
+        "t": "li",
+        "text": "Sarah Partan's team found urban squirrels use their {{39}} to help them communicate."
+       },
+       {
+        "t": "sub",
+        "text": "Long-term possibilities"
+       },
+       {
+        "t": "p",
+        "text": "Species of animals may develop which are unique to cities. However, some changes may not be {{40}} ."
+       }
+      ]
+     }
+    ],
+    "transcript": "Hi. Today we're going to be looking at animals in urban environments and I'm going to be telling you about some research on how they're affected by these environments.\nNow, in evolutionary terms, urban environments represent huge upheavals, the sorts of massive changes that usually happen over millions of years. And we used to think that only a few species could adapt to this new environment. One species which is well known as being [Q31] highly adaptable is the crow, and there've been various studies about how they manage to learn new skills. Another successful species is the pigeon, because they're able to perch on [Q32] ledges on the walls of city buildings, just like they once perched on cliffs by the sea.\nBut in fact, we're now finding that these early immigrants were just the start of a more general movement of animals into cities, and of adaptation by these animals to city life. And one thing [Q33] that researchers are finding especially interesting is the speed with which they're doing this – we're not talking about gradual evolution here – these animals are changing fast.\nLet me tell you about some of the studies that have been carried out in this area. So, in the University of Minnesota, a biologist called Emilie Snell-Rood and her colleagues looked at specimens of urbanised small mammals such as mice and gophers that had been collected in Minnesota, and that are now kept in museums there. And she looked at specimens that had been collected over the last hundred years, which is a very short time in evolutionary terms. And she found that during that time, these small mammals had experienced a jump in [Q34] brain size when compared to rural mammals. Now, we can't be sure this means they're more intelligent, but since the sizes of other parts of the body didn't change, it does suggest that something cognitive was going on. And Snell-Rood thinks that this change might reflect the [Q35] cognitive demands of adjusting to city life – having to look in different places to find food, for example, and coping with a whole new set of dangers.\nThen over in Germany at the Max Planck Institute, there's another biologist called Catarina [Q36] Miranda who's done some experiments with blackbirds living in urban and rural areas. And she's been looking not at their anatomy but at their behaviour. So as you might expect, she's found that the urban blackbirds tend to be quite bold – they're prepared to face up to a lot of threats that would frighten away their country counterparts. But there's one type of situation [Q37] that does seem to frighten the urban blackbirds, and that's anything new – anything they haven't experienced before. And if you think about it, that's quite sensible for a bird living in the city. Jonathan Atwell, in Indiana University, is looking at how a range of animals respond to urban environments. He's found that when they're under stress, their endocrine systems react by [Q38] reducing the amount of hormones such as corticosterone into their blood. It's a sensible-seeming adaptation. A rat that gets scared every time a subway train rolls past won't be very successful.\nThere's just one more study I'd like to mention which is by Sarah Partan and her team, and they've been looking at how squirrels communicate in an urban environment, and they've [Q39] found that a routine part of their communication is carried out by waving their tails. You do also see this in the country, but it's much more prevalent in cities, possibly because it's effective in a noisy environment.\nSo what are the long-term implications of this? One possibility is that we may see completely [Q40] new species developing in cities. But on the other hand, it's possible that not all of these adaptations will be permanent. Once the animal's got accustomed to its new environment, it may no longer need the features it's developed So, now we've had a look ..."
+   }
+  ],
+  "answers": {
+   "1": {
+    "a": [
+     "choose"
+    ]
+   },
+   "2": {
+    "a": [
+     "private"
+    ]
+   },
+   "3": {
+    "a": [
+     "20 percent",
+     "twenty percent",
+     "20",
+     "twenty"
+    ],
+    "k": "20 / twenty percent"
+   },
+   "4": {
+    "a": [
+     "healthy"
+    ]
+   },
+   "5": {
+    "a": [
+     "bones"
+    ]
+   },
+   "6": {
+    "a": [
+     "lecture"
+    ]
+   },
+   "7": {
+    "a": [
+     "Arretsa"
+    ]
+   },
+   "8": {
+    "a": [
+     "vegetarian"
+    ]
+   },
+   "9": {
+    "a": [
+     "market"
+    ]
+   },
+   "10": {
+    "a": [
+     "knife"
+    ]
+   },
+   "11": {
+    "a": [
+     "B"
+    ]
+   },
+   "12": {
+    "a": [
+     "C"
+    ]
+   },
+   "13": {
+    "a": [
+     "B"
+    ]
+   },
+   "14": {
+    "a": [
+     "E"
+    ]
+   },
+   "15": {
+    "a": [
+     "D"
+    ]
+   },
+   "16": {
+    "a": [
+     "B"
+    ]
+   },
+   "17": {
+    "a": [
+     "G"
+    ]
+   },
+   "18": {
+    "a": [
+     "C"
+    ]
+   },
+   "19": {
+    "a": [
+     "H"
+    ]
+   },
+   "20": {
+    "a": [
+     "I"
+    ]
+   },
+   "21": {
+    "a": [
+     "A"
+    ]
+   },
+   "22": {
+    "a": [
+     "C"
+    ]
+   },
+   "23": {
+    "a": [
+     "B"
+    ]
+   },
+   "24": {
+    "a": [
+     "C"
+    ]
+   },
+   "25": {
+    "a": [
+     "B"
+    ]
+   },
+   "26": {
+    "a": [
+     "G"
+    ]
+   },
+   "27": {
+    "a": [
+     "C"
+    ]
+   },
+   "28": {
+    "a": [
+     "H"
+    ]
+   },
+   "29": {
+    "a": [
+     "A"
+    ]
+   },
+   "30": {
+    "a": [
+     "E"
+    ]
+   },
+   "31": {
+    "a": [
+     "crow"
+    ]
+   },
+   "32": {
+    "a": [
+     "cliffs"
+    ]
+   },
+   "33": {
+    "a": [
+     "speed"
+    ]
+   },
+   "34": {
+    "a": [
+     "brain",
+     "brains"
+    ],
+    "k": "brain(s)"
+   },
+   "35": {
+    "a": [
+     "food"
+    ]
+   },
+   "36": {
+    "a": [
+     "behaviour",
+     "behaviours",
+     "behavior",
+     "behaviors"
+    ],
+    "k": "behaviour(s) / behavior(s)"
+   },
+   "37": {
+    "a": [
+     "new"
+    ]
+   },
+   "38": {
+    "a": [
+     "stress"
+    ]
+   },
+   "39": {
+    "a": [
+     "tail",
+     "tails"
+    ],
+    "k": "tail(s)"
+   },
+   "40": {
+    "a": [
+     "permanent"
+    ]
+   }
+  }
+ },
+ "reading": {
+  "passages": [
+   {
+    "passage": 1,
+    "range": [
+     1,
+     13
+    ],
+    "pages": [
+     17,
+     18,
+     19,
+     20
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 1–13**, which are based on Reading Passage 1 below.",
+    "title": "Case Study: Tourism New Zealand website",
+    "subtitle": null,
+    "paragraphs": [
+     {
+      "text": "New Zealand is a small country of four million inhabitants, a long-haul flight from all the major tourist-generating markets of the world. Tourism currently makes up 9% of the country's gross domestic product, and is the country's largest export sector. Unlike other export sectors, which make products and then sell them overseas, tourism brings its customers to New Zealand. The product is the country itself – the people, the places and the experiences. In 1999, Tourism New Zealand launched a campaign to communicate a new brand position to the world. The campaign focused on New Zealand's scenic beauty, exhilarating outdoor activities and authentic Maori culture, and it made New Zealand one of the strongest national brands in the world."
+     },
+     {
+      "text": "A key feature of the campaign was the website www.newzealand.com, which provided potential visitors to New Zealand with a single gateway to everything the destination had to offer. The heart of the website was a database of tourism services operators, both those based in New Zealand and those based abroad which offered tourism services to the country. Any tourism-related business could be listed by filling in a simple form. This meant that even the smallest bed and breakfast address or specialist activity provider could gain a web presence with access to an audience of long-haul visitors. In addition, because participating businesses were able to update the details they gave on a regular basis, the information provided remained accurate. And to maintain and improve standards, Tourism New Zealand organised a scheme whereby organisations appearing on the website underwent an independent evaluation against a set of agreed national standards of quality. As part of this, the effect of each business on the environment was considered."
+     },
+     {
+      "text": "To communicate the New Zealand experience, the site also carried features relating to famous people and places. One of the most popular was an interview with former New Zealand All Blacks rugby captain Tana Umaga. Another feature that attracted a lot of attention was an interactive journey through a number of the locations chosen for blockbuster films which had made use of New Zealand's stunning scenery as a backdrop. As the site developed, additional features were added to help independent travellers devise their own customised itineraries. To make it easier to plan motoring holidays, the site catalogued the most popular driving routes in the country, highlighting different routes according to the season and indicating distances and times."
+     },
+     {
+      "text": "Later, a Travel Planner feature was added, which allowed visitors to click and 'bookmark' places or attractions they were interested in, and then view the results on a map. The Travel Planner offered suggested routes and public transport options between the chosen locations. There were also links to accommodation in the area. By registering with the website, users could save their Travel Plan and return to it later, or print it out to take on the visit. The website also had a 'Your Words' section where anyone could submit a blog of their New Zealand travels for possible inclusion on the website. ⟦GAP⟧"
+     },
+     {
+      "text": "The Tourism New Zealand website won two Webby awards for online achievement and innovation. More importantly perhaps, the growth of tourism to New Zealand was impressive. Overall tourism expenditure increased by an average of 6.9% per year between 1999 and 2004. From Britain, visits to New Zealand grew at an average annual rate of 13% between 2002 and 2006, compared to a rate of 4% overall for British visits abroad."
+     },
+     {
+      "text": "The website was set up to allow both individuals and travel organisations to create itineraries and travel packages to suit their own needs and interests. On the website, visitors can search for activities not solely by geographical location, but also by the particular nature of the activity. This is important as research shows that activities are the key driver of visitor satisfaction, contributing 74% to visitor satisfaction, while transport and accommodation account for the remaining 26%. The more activities that visitors undertake, the more satisfied they will be. It has also been found that visitors enjoy cultural activities most when they are interactive, such as visiting a marae (meeting ground) to learn about traditional Maori life. Many long-haul travellers enjoy such learning experiences, which provide them with stories to take home to their friends and family. In addition, it appears that visitors to New Zealand don't want to be 'one of the crowd' and find activities that involve only a few people more special and meaningful. ⟦GAP⟧"
+     },
+     {
+      "text": "It could be argued that New Zealand is not a typical destination. New Zealand is a small country with a visitor economy composed mainly of small businesses. It is generally perceived as a safe English-speaking country with a reliable transport infrastructure. Because of the long-haul flight, most visitors stay for longer (average 20 days) and want to see as much of the country as possible on what is often seen as a once-in-a-lifetime visit. However, the underlying lessons apply anywhere – the effectiveness of a strong brand, a strategy based on unique experiences and a comprehensive and user-friendly website."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R1-1",
+      "type": "completion",
+      "range": [
+       1,
+       7
+      ],
+      "instructions": [
+       "Complete the table below.",
+       "Choose **ONE WORD ONLY** from the passage for each answer.",
+       "Write your answers in boxes 1–7 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "table",
+        "header": 1,
+        "rows": [
+         [
+          "Section of website",
+          "Comments"
+         ],
+         [
+          "Database of tourism services",
+          "• easy for tourism-related businesses to get on the list\n• allowed businesses to {{1}} information regularly\n• provided a country-wide evaluation of businesses, including their impact on the {{2}}"
+         ],
+         [
+          "Special features on local topics",
+          "• e.g. an interview with a former sports {{3}} , and an interactive tour of various locations used in {{4}}"
+         ],
+         [
+          "Information on driving routes",
+          "• varied depending on the {{5}}"
+         ],
+         [
+          "Travel Planner",
+          "• included a map showing selected places, details of public transport and local {{6}}"
+         ],
+         [
+          "'Your Words'",
+          "• travellers could send a link to their {{7}}"
+         ]
+        ]
+       }
+      ]
+     },
+     {
+      "id": "R1-2",
+      "type": "tfng",
+      "range": [
+       8,
+       13
+      ],
+      "instructions": [
+       "Do the following statements agree with the information given in Reading Passage 1?",
+       "In boxes 8–13 on your answer sheet, write",
+       "**TRUE** if the statement agrees with the information",
+       "**FALSE** if the statement contradicts the information",
+       "**NOT GIVEN** if there is no information on this"
+      ],
+      "questions": [
+       {
+        "n": 8,
+        "text": "The website www.newzealand.com aimed to provide ready-made itineraries and packages for travel companies and individual tourists."
+       },
+       {
+        "n": 9,
+        "text": "It was found that most visitors started searching on the website by geographical location."
+       },
+       {
+        "n": 10,
+        "text": "According to research, 26% of visitor satisfaction is related to their accommodation."
+       },
+       {
+        "n": 11,
+        "text": "Visitors to New Zealand like to become involved in the local culture."
+       },
+       {
+        "n": 12,
+        "text": "Visitors like staying in small hotels in New Zealand rather than in larger ones."
+       },
+       {
+        "n": 13,
+        "text": "Many visitors feel it is unlikely that they will return to New Zealand after their visit."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "passage": 2,
+    "range": [
+     14,
+     26
+    ],
+    "pages": [
+     21,
+     22,
+     23,
+     24
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 14–26**, which are based on Reading Passage 2 on pages 21 and 22.",
+    "title": "Why being bored is stimulating – and useful, too",
+    "subtitle": "*This most common of emotions is turning out to be more interesting than we thought*",
+    "paragraphs": [
+     {
+      "label": "A",
+      "text": "We all know how it feels – it's impossible to keep your mind on anything, time stretches out, and all the things you could do seem equally unlikely to make you feel better. But defining boredom so that it can be studied in the lab has proved difficult. For a start, it can include a lot of other mental states, such as frustration, apathy, depression and indifference. There isn't even agreement over whether boredom is always a low-energy, flat kind of emotion or whether feeling agitated and restless counts as boredom, too. In his book, *Boredom: A Lively History*, Peter Toohey at the University of Calgary, Canada, compares it to disgust – an emotion that motivates us to stay away from certain situations. 'If disgust protects humans from infection, boredom may protect them from \"infectious\" social situations,' he suggests."
+     },
+     {
+      "label": "B",
+      "text": "By asking people about their experiences of boredom, Thomas Goetz and his team at the University of Konstanz in Germany have recently identified five distinct types: indifferent, calibrating, searching, reactant and apathetic. These can be plotted on two axes – one running left to right, which measures low to high arousal, and the other from top to bottom, which measures how positive or negative the feeling is. Intriguingly, Goetz has found that while people experience all kinds of boredom, they tend to specialise in one. Of the five types, the most damaging is 'reactant' boredom with its explosive combination of high arousal and negative emotion. The most useful is what Goetz calls 'indifferent' boredom: someone isn't engaged in anything satisfying but still feels relaxed and calm. However, it remains to be seen whether there are any character traits that predict the kind of boredom each of us might be prone to."
+     },
+     {
+      "label": "C",
+      "text": "Psychologist Sandi Mann at the University of Central Lancashire, UK, goes further. 'All emotions are there for a reason, including boredom,' she says. Mann has found that being bored makes us more creative. 'We're all afraid of being bored but in actual fact it can lead to all kinds of amazing things,' she says. In experiments published last year, Mann found that people who had been made to feel bored by copying numbers out of the phone book for 15 minutes came up with more creative ideas about how to use a polystyrene cup than a control group. Mann concluded that a passive, boring activity is best for creativity because it allows the mind to wander. In fact, she goes so far as to suggest that we should seek out more boredom in our lives."
+     },
+     {
+      "label": "D",
+      "text": "Psychologist John Eastwood at York University in Toronto, Canada, isn't convinced. 'If you are in a state of mind-wandering you are not bored,' he says. 'In my view, by definition boredom is an undesirable state.' That doesn't necessarily mean that it isn't adaptive, he adds. 'Pain is adaptive – if we didn't have physical pain, bad things would happen to us. Does that mean that we should actively cause pain? No. But even if boredom has evolved to help us survive, it can still be toxic if allowed to fester.' For Eastwood, the central feature of boredom is a failure to put our 'attention system' into gear. This causes an inability to focus on anything, which makes time seem to go painfully slowly. What's more, your efforts to improve the situation can end up making you feel worse. 'People try to connect with the world and if they are not successful there's that frustration and irritability,' he says. Perhaps most worryingly, says Eastwood, repeatedly failing to engage attention can lead to a state where we don't know what to do any more, and no longer care."
+     },
+     {
+      "text": "E Eastwood's team is now trying to explore why the attention system fails. It's early days but they think that at least some of it comes down to personality. Boredom proneness has been linked with a variety of traits. People who are motivated by pleasure seem to suffer particularly badly. Other personality traits, such as curiosity, are associated with a high boredom threshold. More evidence that boredom has detrimental effects comes from studies of people who are more or less prone to boredom. It seems those who bore easily face poorer prospects in education, their career and even life in general. But of course, boredom itself cannot kill – it's the things we do to deal with it that may put us in danger. What can we do to alleviate it before it comes to that? Goetz's group has one suggestion. Working with teenagers, they found that those who 'approach' a boring situation – in other words, see that it's boring and get stuck in anyway – report less boredom than those who try to avoid it by using snacks, TV or social media for distraction."
+     },
+     {
+      "text": "F Psychologist Francoise Wemelsfelder speculates that our over-connected lifestyles might even be a new source of boredom. 'In modern human society there is a lot of overstimulation but still a lot of problems finding meaning,' she says. So instead of seeking yet more mental stimulation, perhaps we should leave our phones alone, and use boredom to motivate us to engage with the world in a more meaningful way."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R2-1",
+      "type": "matching",
+      "range": [
+       14,
+       19
+      ],
+      "instructions": [
+       "Reading Passage 2 has six paragraphs, **A–F**.",
+       "Choose the correct heading for each paragraph from the list of headings below.",
+       "Write the correct number, **i–viii**, in boxes 14–19 on your answer sheet."
+      ],
+      "optionsTitle": "List of Headings",
+      "options": [
+       {
+        "key": "i",
+        "text": "The productive outcomes that may result from boredom"
+       },
+       {
+        "key": "ii",
+        "text": "What teachers can do to prevent boredom"
+       },
+       {
+        "key": "iii",
+        "text": "A new explanation and a new cure for boredom"
+       },
+       {
+        "key": "iv",
+        "text": "Problems with a scientific approach to boredom"
+       },
+       {
+        "key": "v",
+        "text": "A potential danger arising from boredom"
+       },
+       {
+        "key": "vi",
+        "text": "Creating a system of classification for feelings of boredom"
+       },
+       {
+        "key": "vii",
+        "text": "Age groups most affected by boredom"
+       },
+       {
+        "key": "viii",
+        "text": "Identifying those most affected by boredom"
+       }
+      ],
+      "questions": [
+       {
+        "n": 14,
+        "text": "Paragraph A"
+       },
+       {
+        "n": 15,
+        "text": "Paragraph B"
+       },
+       {
+        "n": 16,
+        "text": "Paragraph C"
+       },
+       {
+        "n": 17,
+        "text": "Paragraph D"
+       },
+       {
+        "n": 18,
+        "text": "Paragraph E"
+       },
+       {
+        "n": 19,
+        "text": "Paragraph F"
+       }
+      ]
+     },
+     {
+      "id": "R2-2",
+      "type": "matching",
+      "range": [
+       20,
+       23
+      ],
+      "instructions": [
+       "Look at the following people (Questions 20–23) and the list of ideas below.",
+       "Match each person with the correct idea, **A–E**.",
+       "Write the correct letter, **A–E**, in boxes 20–23 on your answer sheet."
+      ],
+      "optionsTitle": "List of Ideas",
+      "options": [
+       {
+        "key": "A",
+        "text": "The way we live today may encourage boredom."
+       },
+       {
+        "key": "B",
+        "text": "One sort of boredom is worse than all the others."
+       },
+       {
+        "key": "C",
+        "text": "Levels of boredom may fall in the future."
+       },
+       {
+        "key": "D",
+        "text": "Trying to cope with boredom can increase its negative effects."
+       },
+       {
+        "key": "E",
+        "text": "Boredom may encourage us to avoid an unpleasant experience."
+       }
+      ],
+      "questions": [
+       {
+        "n": 20,
+        "text": "Peter Toohey"
+       },
+       {
+        "n": 21,
+        "text": "Thomas Goetz"
+       },
+       {
+        "n": 22,
+        "text": "John Eastwood"
+       },
+       {
+        "n": 23,
+        "text": "Francoise Wemelsfelder"
+       }
+      ]
+     },
+     {
+      "id": "R2-3",
+      "type": "completion",
+      "range": [
+       24,
+       26
+      ],
+      "instructions": [
+       "Complete the summary below.",
+       "Choose **ONE WORD ONLY** from the passage for each answer.",
+       "Write your answers in boxes 24–26 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Responses to boredom"
+       },
+       {
+        "t": "p",
+        "text": "For John Eastwood, the central feature of boredom is that people cannot {{24}} , due to a failure in what he calls the 'attention system', and as a result they become frustrated and irritable. His team suggests that those for whom {{25}} is an important aim in life may have problems in coping with boredom, whereas those who have the characteristic of {{26}} can generally cope with it."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "passage": 3,
+    "range": [
+     27,
+     40
+    ],
+    "pages": [
+     25,
+     26,
+     27,
+     28,
+     29
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 27–40**, which are based on Reading Passage 3 below.",
+    "title": "Artificial artists",
+    "subtitle": "*Can computers really create works of art?*",
+    "paragraphs": [
+     {
+      "text": "The Painting Fool is one of a growing number of computer programs which, so their makers claim, possess creative talents. Classical music by an artificial composer has had audiences enraptured, and even tricked them into believing a human was behind the score. Artworks painted by a robot have sold for thousands of dollars and been hung in prestigious galleries. And software has been built which creates art that could not have been imagined by the programmer."
+     },
+     {
+      "text": "Human beings are the only species to perform sophisticated creative acts regularly. If we can break this process down into computer code, where does that leave human creativity? 'This is a question at the very core of humanity,' says Geraint Wiggins, a computational creativity researcher at Goldsmiths, University of London. 'It scares a lot of people. They are worried that it is taking something special away from what it means to be human.'"
+     },
+     {
+      "text": "To some extent, we are all familiar with computerised art. The question is: where does the work of the artist stop and the creativity of the computer begin? Consider one of the oldest machine artists, Aaron, a robot that has had paintings exhibited in London's Tate Modern and the San Francisco Museum of Modern Art. Aaron can pick up a paintbrush and paint on canvas on its own. Impressive perhaps, but it is still little more than a tool to realise the programmer's own creative ideas."
+     },
+     {
+      "text": "Simon Colton, the designer of the Painting Fool, is keen to make sure his creation doesn't attract the same criticism. Unlike earlier 'artists' such as Aaron, the Painting Fool only needs minimal direction and can come up with its own concepts by going online for material. The software runs its own web searches and trawls through social media sites. It is now beginning to display a kind of imagination too, creating pictures from scratch. One of its original works is a series of fuzzy landscapes, depicting trees and sky. While some might say they have a mechanical look, Colton argues that such reactions arise from people's double standards towards software-produced and human-produced art. After all, he says, consider that the Painting Fool painted the landscapes without referring to a photo. 'If a child painted a new scene from its head, you'd say it has a certain level of imagination,' he points out. 'The same should be true of a machine.' Software bugs can also lead to unexpected results. Some of the Painting Fool's paintings of a chair came out in black and white, thanks to a technical glitch. This gives the work an eerie, ghostlike quality. Human artists like the renowned Ellsworth Kelly are lauded for limiting their colour palette – so why should computers be any different?"
+     },
+     {
+      "text": "Researchers like Colton don't believe it is right to measure machine creativity directly to that of humans who 'have had millennia to develop our skills'. Others, though, are fascinated by the prospect that a computer might create something as original and subtle as our best artists. So far, only one has come close. Composer David Cope invented a program called Experiments in Musical Intelligence, or EMI. Not only did EMI create compositions in Cope's style, but also that of the most revered classical composers, including Bach, Chopin and Mozart. Audiences were moved to tears, and EMI even fooled classical music experts into thinking they were hearing genuine Bach. Not everyone was impressed however. Some, such as Wiggins, have blasted Cope's work as pseudoscience, and condemned him for his deliberately vague explanation of how the software worked. Meanwhile, Douglas Hofstadter of Indiana University said EMI created replicas which still rely completely on the original artist's creative impulses. When audiences found out the truth they were often outraged with Cope, and one music lover even tried to punch him. Amid such controversy, Cope destroyed EMI's vital databases."
+     },
+     {
+      "text": "But why did so many people love the music, yet recoil when they discovered how it was composed? A study by computer scientist David Moffat of Glasgow Caledonian University provides a clue. He asked both expert musicians and non-experts to assess six compositions. The participants weren't told beforehand whether the tunes were composed by humans or computers, but were asked to guess, and then rate how much they liked each one. People who thought the composer was a computer tended to dislike the piece more than those who believed it was human. This was true even among the experts, who might have been expected to be more objective in their analyses."
+     },
+     {
+      "text": "Where does this prejudice come from? Paul Bloom of Yale University has a suggestion: he reckons part of the pleasure we get from art stems from the creative process behind the work. This can give it an 'irresistible essence', says Bloom. Meanwhile, experiments by Justin Kruger of New York University have shown that people's enjoyment of an artwork increases if they think more time and effort was needed to create it. Similarly, Colton thinks that when people experience art, they wonder what the artist might have been thinking or what the artist is trying to tell them. It seems obvious, therefore, that with computers producing art, this speculation is cut short – there's nothing to explore. But as technology becomes increasingly complex, finding those greater depths in computer art could become possible. This is precisely why Colton asks the Painting Fool to tap into online social networks for its inspiration: hopefully this way it will choose themes that will already be meaningful to us."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R3-1",
+      "type": "choice",
+      "range": [
+       27,
+       31
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B**, **C** or **D**.",
+       "Write the correct letter in boxes 27–31 on your answer sheet."
+      ],
+      "questions": [
+       {
+        "n": 27,
+        "text": "What is the writer suggesting about computer-produced works in the first paragraph?",
+        "options": [
+         {
+          "key": "A",
+          "text": "People's acceptance of them can vary considerably."
+         },
+         {
+          "key": "B",
+          "text": "A great deal of progress has already been attained in this field."
+         },
+         {
+          "key": "C",
+          "text": "They have had more success in some artistic genres than in others."
+         },
+         {
+          "key": "D",
+          "text": "The advances are not as significant as the public believes them to be."
+         }
+        ]
+       },
+       {
+        "n": 28,
+        "text": "According to Geraint Wiggins, why are many people worried by computer art?",
+        "options": [
+         {
+          "key": "A",
+          "text": "It is aesthetically inferior to human art."
+         },
+         {
+          "key": "B",
+          "text": "It may ultimately supersede human art."
+         },
+         {
+          "key": "C",
+          "text": "It undermines a fundamental human quality."
+         },
+         {
+          "key": "D",
+          "text": "It will lead to a deterioration in human ability."
+         }
+        ]
+       },
+       {
+        "n": 29,
+        "text": "What is a key difference between Aaron and the Painting Fool?",
+        "options": [
+         {
+          "key": "A",
+          "text": "its programmer's background"
+         },
+         {
+          "key": "B",
+          "text": "public response to its work"
+         },
+         {
+          "key": "C",
+          "text": "the source of its subject matter"
+         },
+         {
+          "key": "D",
+          "text": "the technical standard of its output"
+         }
+        ]
+       },
+       {
+        "n": 30,
+        "text": "What point does Simon Colton make in the fourth paragraph?",
+        "options": [
+         {
+          "key": "A",
+          "text": "Software-produced art is often dismissed as childish and simplistic."
+         },
+         {
+          "key": "B",
+          "text": "The same concepts of creativity should not be applied to all forms of art."
+         },
+         {
+          "key": "C",
+          "text": "It is unreasonable to expect a machine to be as imaginative as a human being."
+         },
+         {
+          "key": "D",
+          "text": "People tend to judge computer art and human art according to different criteria."
+         }
+        ]
+       },
+       {
+        "n": 31,
+        "text": "The writer refers to the paintings of a chair as an example of computer art which",
+        "options": [
+         {
+          "key": "A",
+          "text": "achieves a particularly striking effect."
+         },
+         {
+          "key": "B",
+          "text": "exhibits a certain level of genuine artistic skill."
+         },
+         {
+          "key": "C",
+          "text": "closely resembles that of a well-known artist."
+         },
+         {
+          "key": "D",
+          "text": "highlights the technical limitations of the software."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "R3-2",
+      "type": "matching",
+      "range": [
+       32,
+       37
+      ],
+      "instructions": [
+       "Complete each sentence with the correct ending, **A–G** below.",
+       "Write the correct letter, **A–G**, in boxes 32–37 on your answer sheet."
+      ],
+      "optionsTitle": "List of Ideas",
+      "options": [
+       {
+        "key": "A",
+        "text": "generating work that was virtually indistinguishable from that of humans."
+       },
+       {
+        "key": "B",
+        "text": "knowing whether it was the work of humans or software."
+       },
+       {
+        "key": "C",
+        "text": "producing work entirely dependent on the imagination of its creator."
+       },
+       {
+        "key": "D",
+        "text": "comparing the artistic achievements of humans and computers."
+       },
+       {
+        "key": "E",
+        "text": "revealing the technical details of his program."
+       },
+       {
+        "key": "F",
+        "text": "persuading the public to appreciate computer art."
+       },
+       {
+        "key": "G",
+        "text": "discovering that it was the product of a computer program."
+       }
+      ],
+      "questions": [
+       {
+        "n": 32,
+        "text": "Simon Colton says it is important to consider the long-term view when"
+       },
+       {
+        "n": 33,
+        "text": "David Cope's EMI software surprised people by"
+       },
+       {
+        "n": 34,
+        "text": "Geraint Wiggins criticised Cope for not"
+       },
+       {
+        "n": 35,
+        "text": "Douglas Hofstadter claimed that EMI was"
+       },
+       {
+        "n": 36,
+        "text": "Audiences who had listened to EMI's music became angry after"
+       },
+       {
+        "n": 37,
+        "text": "The participants in David Moffat's study had to assess music without"
+       }
+      ]
+     },
+     {
+      "id": "R3-3",
+      "type": "ynng",
+      "range": [
+       38,
+       40
+      ],
+      "instructions": [
+       "Do the following statements agree with the claims of the writer in Reading Passage 3?",
+       "In boxes 38–40 on your answer sheet, write",
+       "**YES** if the statement agrees with the claims of the writer",
+       "**NO** if the statement contradicts the claims of the writer",
+       "**NOT GIVEN** if it is impossible to say what the writer thinks about this"
+      ],
+      "questions": [
+       {
+        "n": 38,
+        "text": "Moffat's research may help explain people's reactions to EMI."
+       },
+       {
+        "n": 39,
+        "text": "The non-experts in Moffat's study all responded in a predictable way."
+       },
+       {
+        "n": 40,
+        "text": "Justin Kruger's findings cast doubt on Paul Bloom's theory about people's prejudice towards computer art."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "answers": {
+   "1": {
+    "a": [
+     "update"
+    ]
+   },
+   "2": {
+    "a": [
+     "environment"
+    ]
+   },
+   "3": {
+    "a": [
+     "captain"
+    ]
+   },
+   "4": {
+    "a": [
+     "films"
+    ]
+   },
+   "5": {
+    "a": [
+     "season"
+    ]
+   },
+   "6": {
+    "a": [
+     "accommodation"
+    ]
+   },
+   "7": {
+    "a": [
+     "blog"
+    ]
+   },
+   "8": {
+    "a": [
+     "FALSE"
+    ]
+   },
+   "9": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "10": {
+    "a": [
+     "FALSE"
+    ]
+   },
+   "11": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "12": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "13": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "14": {
+    "a": [
+     "iv"
+    ]
+   },
+   "15": {
+    "a": [
+     "vi"
+    ]
+   },
+   "16": {
+    "a": [
+     "i"
+    ]
+   },
+   "17": {
+    "a": [
+     "v"
+    ]
+   },
+   "18": {
+    "a": [
+     "viii"
+    ]
+   },
+   "19": {
+    "a": [
+     "iii"
+    ]
+   },
+   "20": {
+    "a": [
+     "E"
+    ]
+   },
+   "21": {
+    "a": [
+     "B"
+    ]
+   },
+   "22": {
+    "a": [
+     "D"
+    ]
+   },
+   "23": {
+    "a": [
+     "A"
+    ]
+   },
+   "24": {
+    "a": [
+     "focus"
+    ]
+   },
+   "25": {
+    "a": [
+     "pleasure"
+    ]
+   },
+   "26": {
+    "a": [
+     "curiosity"
+    ]
+   },
+   "27": {
+    "a": [
+     "B"
+    ]
+   },
+   "28": {
+    "a": [
+     "C"
+    ]
+   },
+   "29": {
+    "a": [
+     "C"
+    ]
+   },
+   "30": {
+    "a": [
+     "D"
+    ]
+   },
+   "31": {
+    "a": [
+     "A"
+    ]
+   },
+   "32": {
+    "a": [
+     "D"
+    ]
+   },
+   "33": {
+    "a": [
+     "A"
+    ]
+   },
+   "34": {
+    "a": [
+     "E"
+    ]
+   },
+   "35": {
+    "a": [
+     "C"
+    ]
+   },
+   "36": {
+    "a": [
+     "G"
+    ]
+   },
+   "37": {
+    "a": [
+     "B"
+    ]
+   },
+   "38": {
+    "a": [
+     "YES"
+    ]
+   },
+   "39": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "40": {
+    "a": [
+     "NO"
+    ]
+   }
+  }
+ },
+ "writing": {
+  "tasks": [
+   {
+    "task": 1,
+    "minutes": 20,
+    "minWords": 150,
+    "pages": [
+     30
+    ],
+    "prompt": [
+     "The two maps below show road access to a city hospital in 2007 and in 2010.",
+     "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+    ],
+    "image": "images/C13/C13-T1-W1.png",
+    "sample": {
+     "kind": "candidate",
+     "band": "5.5",
+     "text": "Two maps illustrate the way to get to a city hospital of two different years (2007 and 2010).\n\nAccording to both maps, the main features which is city hospital is sourrounded by Ring Road. In these two maps, there have been two features that still remained. This two features are City Hospital and staff car park. Apart from these two features there are some features that shows on 2010 map but haven't shown on 2007 map. The additional features that appear on the map of 2010 are public car park which located on the east-side of the city hospital. The further additional features are two around-turn on the hospital Rd. which can lead to the bus station.\n\nOverall, there are two major features that never change on both 2007 and 2010 map. These features are city hospital and staff car park. However, there are some additional features that appear on the map of 2010 but not on 2007. These features are public car park, bus station and two around-turns.",
+     "comment": "The candidate has identified all the key features (hospital, ring road, new public car park, staff car park and bus station in 2010) but the descriptions are not always accurate e.g. [*two features that still remained. This two features are City Hospital and staff car park*] whereas the staff car park was formerly a car park for both staff and public, while the mention of the bus station is not developed. Organisation is clear, however, with some good use of cohesive devices [*According to* | *Apart from* | *The further additional features*], although there is an error in the use of reference pronouns [*This/These two features*]. The range of vocabulary is sufficient for the task [*two different years* | *features* | *remained* | *additional*], though [*features*] is over-used. A spelling error is noted in the second line [*sourrounded*] but this does not cause any difficulty for the reader; similarly, the use of [*around-turn*] can be easily understood as 'roundabout'. There is a mix of simple and complex sentences, mainly used accurately."
+    }
+   },
+   {
+    "task": 2,
+    "minutes": 40,
+    "minWords": 250,
+    "pages": [
+     31
+    ],
+    "prompt": [
+     "Write about the following topic:",
+     "*Living in a country where you have to speak a foreign language can cause serious social problems, as well as practical problems.*",
+     "*To what extent do you agree or disagree with this statement?*",
+     "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+    ],
+    "sample": {
+     "kind": "candidate",
+     "band": "6.5",
+     "text": "It is clear that living in a foreign country has its own benefits and drawbacks to consider. I agre with this statement, however I think that anybody coming in another country should respect national culture. In this essay, I would like to outline the social and practical problems.\n\nThe social problems would be language barrier, which means that a person coming from another country might not be able to speak and understand the language which might be a problem as far a person who is living in a country, and a person who came in the country. Another problem is linked to the language barrier, but it might influence the behaviour of others. An individual who come into the country might offend others with their behaviour or language. For example; some cultures like English people prefer to be very polite and say things differently from other cultures. Therefore a person who doesn't know how to behave in a particular culture might offend others around him.\n\nThe practical problems would be misunderstanding of culture. That means that a person who visits other countries does not understand other culture and he behaves as he wants to.\n\nThe second practical problem is finding a job. An individual who works in foreign country might not be appropriate for people who he serves. For example if an individual works in a restaurant, the people who live in a country and they were born in that country might not respect and not like the behaviour of a person who works in a restaurant, it might be because, the cultures are different.\n\nTo summarize, it can be said that there are a lot of misconceptions which people have when they come in a foreign country, and in my opinion and from my personal experience people should educate themselves in order to know how to behave in different situations with different cultures.",
+     "comment": "The candidate deals with both parts of the prompt and addresses some social and practical problems that might be experienced in a foreign language environment. Ideas are supported by examples, though there is room for further development here. Organisation is logical and there is clear progression throughout the response. Cohesive devices are used appropriately [*Another problem* | *For example* | *Therefore* | *That means ...* | *The second ... problem* | *To summarize*]. There is a sufficient range of vocabulary to allow some flexibility and precision and to demonstrate awareness of style and collocation [*language barrier* | *linked to* | *influence the behaviour* | *offend* | *misunderstanding* | *misconceptions*]. There is a mix of simple and complex sentence forms including subordinate clauses [*which means that* | *a person who*], modal verbs [*should* | *might* | *would*] and gerunds [*finding a job*]. Grammatical control is generally good as is the use of punctuation, although the first sentence in the second paragraph is incomplete."
+    }
+   }
+  ]
+ },
+ "issues": []
+}

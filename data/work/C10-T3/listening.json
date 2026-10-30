@@ -1,0 +1,815 @@
+{
+ "parts": [
+  {
+   "part": 1,
+   "range": [
+    1,
+    10
+   ],
+   "pages": [
+    49
+   ],
+   "groups": [
+    {
+     "id": "L1-1",
+     "type": "completion",
+     "range": [
+      1,
+      10
+     ],
+     "instructions": [
+      "Complete the form below.",
+      "Write **ONE WORD AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Early Learning Childcare Centre\nEnrolment Form"
+      },
+      {
+       "t": "note",
+       "text": "*Example*"
+      },
+      {
+       "t": "li",
+       "text": "Parent or guardian: Carol *Smith*"
+      },
+      {
+       "t": "sub",
+       "text": "Personal Details"
+      },
+      {
+       "t": "li",
+       "text": "Child's name: Kate"
+      },
+      {
+       "t": "li",
+       "text": "Age: {{1}}"
+      },
+      {
+       "t": "li",
+       "text": "Address: {{2}} Road, Woodside, 4032"
+      },
+      {
+       "t": "li",
+       "text": "Phone: 3345 9865"
+      },
+      {
+       "t": "sub",
+       "text": "Childcare Information"
+      },
+      {
+       "t": "li",
+       "text": "Days enrolled for: Monday and {{3}}"
+      },
+      {
+       "t": "li",
+       "text": "Start time: {{4}} am"
+      },
+      {
+       "t": "li",
+       "text": "Childcare group: the {{5}} group"
+      },
+      {
+       "t": "li",
+       "text": "Which meal/s are required each day? {{6}}"
+      },
+      {
+       "t": "li",
+       "text": "Medical conditions: needs {{7}}"
+      },
+      {
+       "t": "li",
+       "text": "Emergency contact: Jenny {{8}} Phone: 3346 7523"
+      },
+      {
+       "t": "li",
+       "text": "Relationship to child: {{9}}"
+      },
+      {
+       "t": "sub",
+       "text": "Fees"
+      },
+      {
+       "t": "li",
+       "text": "Will pay each {{10}}"
+      }
+     ]
+    }
+   ],
+   "transcript": "DIRECTOR: Good morning. Welcome to the Early Learning Childcare Centre. How may I help you?\nCAROL: Hi. I spoke to you last week about enrolling my daughter for next year.\nDIRECTOR: Oh, yes. I'll just get some details from you. So, you're her mother?\nCAROL: That's right.\nDIRECTOR: And, can I have your name?\nCAROL: It's Carol, Carol Smith.\nDIRECTOR: And your daughter's name?\nCAROL: It's Kate.\nDIRECTOR: Now, we have several groups at the centre and we cater for children from three to five years old. How old is your daughter?\nCAROL: She's three now but she turns four next month.\nDIRECTOR: I'll put four down because that's how old she'll be when she starts. [Q1]\nCAROL: Fine, she's so excited about her birthday and coming to the centre.\nDIRECTOR: That's good to hear. And what's your address?\nCAROL: It's 46 Wombat Road, that's W-O-M-B-A-T. Woodside 4032. [Q2]\nDIRECTOR: And what's the phone number?\nCAROL: Oh ... it's ... 3345 9865.\nDIRECTOR: So, have you decided on the days you'd like to bring your daughter here?\nCAROL: I'd prefer Monday and Wednesday if possible.\nDIRECTOR: Mmm. I'll check, Monday's fine, but I think the centre is already full for Wednesday. Erm. Yes. Sorry. It seems to be a very popular day. We can offer you a Thursday or a Friday as well.\nCAROL: Oh dear. I suppose Thursday would be all right because she has [Q3] swimming on Friday.\nDIRECTOR: OK, got that. Because a lot of parents work, we do offer flexible start and finish times. We are open from 7:30 in the morning until 6 o'clock at night. What time would you like your daughter to start?\nCAROL: I need to get to work in the city by 9:00 so I'll drop her off at 8:30. You're [Q4] pretty close to the city here so that should give me plenty of time to get there.\nDIRECTOR: That's fine. Now, we also need to decide which group she'll be in. We have two different groups and they're divided up according to age. There's the green group, which is for three- to four-year-olds. And then there's the red group which is for four- to five-year-olds.\nCAROL: She's quite mature for her age and she can already write her name and read a little.\nDIRECTOR: Well, I'll put her in the red group and we can always change her to the [Q5] green one if there are any problems.\nCAROL: That sounds fine.\nDIRECTOR: OK. Let's move on to meals. We can provide breakfast, lunch and dinner. As she's finishing pretty early, she won't need dinner, will you give her breakfast before she comes?\nCAROL: Yes, she'll only need lunch. [Q6]\nDIRECTOR: Now, does she have any medical conditions we need to know about? Does she have asthma or any hearing problems for example?\nCAROL: No. But she does need to wear glasses. [Q7]\nDIRECTOR: Oh, I'll make a note of that.\nCAROL: Yes, she's pretty good about wearing them, she can't see much without them.\nDIRECTOR: Right. OK. Now, I also need emergency contact details.\nCAROL: So what sort of information do you need?\nDIRECTOR: Just the name and number of a friend or family member we can contact in case we can't get hold of you at any time.\nCAROL: OK. That'd better be my sister ... Jenny Ball. That's B-A-double L. Her [Q8] phone number is 3346 7523.\nDIRECTOR: Great. So she is the child's aunt? [Q9]\nCAROL: Yes, that's right.\nDIRECTOR: I'll make a note of that as well. Now, is there anything you'd like to ask?\nCAROL: What about payment? How much are the fees each term?\nDIRECTOR: Well, for two days and the hours you've chosen, that will be $450 altogether.\nCAROL: OK, and do I have to pay that now?\nDIRECTOR: No, we send out invoices once the children start at the centre. You can choose to pay at the end of each term or we do offer a slightly discounted rate if you pay every month.\nCAROL: Oh. I'll do that then. I find it easier to budget that way and I'm not used to [Q10] the term dates just yet.\nDIRECTOR: Good, it makes it a lot simpler for us as well. Well, that's everything. Would you like me to show you around ...?"
+  },
+  {
+   "part": 2,
+   "range": [
+    11,
+    20
+   ],
+   "pages": [
+    50,
+    51
+   ],
+   "groups": [
+    {
+     "id": "L2-1",
+     "type": "multi",
+     "range": [
+      11,
+      12
+     ],
+     "n": [
+      11,
+      12
+     ],
+     "select": 2,
+     "instructions": [
+      "Choose **TWO** letters, **A–E**."
+     ],
+     "text": "Which **TWO** things does Alice say about the Dolphin Conservation Trust?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Children make up most of the membership."
+      },
+      {
+       "key": "B",
+       "text": "It's the country's largest conservation organisation."
+      },
+      {
+       "key": "C",
+       "text": "It helps finance campaigns for changes in fishing practices."
+      },
+      {
+       "key": "D",
+       "text": "It employs several dolphin experts full-time."
+      },
+      {
+       "key": "E",
+       "text": "Volunteers help in various ways."
+      }
+     ]
+    },
+    {
+     "id": "L2-2",
+     "type": "choice",
+     "range": [
+      13,
+      15
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B**, or **C**."
+     ],
+     "questions": [
+      {
+       "n": 13,
+       "text": "Why is Alice so pleased the Trust has won the Charity Commission award?",
+       "options": [
+        {
+         "key": "A",
+         "text": "It has brought in extra money."
+        },
+        {
+         "key": "B",
+         "text": "It made the work of the trust better known."
+        },
+        {
+         "key": "C",
+         "text": "It has attracted more members."
+        }
+       ]
+      },
+      {
+       "n": 14,
+       "text": "Alice says oil exploration causes problems to dolphins because of",
+       "options": [
+        {
+         "key": "A",
+         "text": "noise."
+        },
+        {
+         "key": "B",
+         "text": "oil leaks."
+        },
+        {
+         "key": "C",
+         "text": "movement of ships."
+        }
+       ]
+      },
+      {
+       "n": 15,
+       "text": "Alice became interested in dolphins when",
+       "options": [
+        {
+         "key": "A",
+         "text": "she saw one swimming near her home."
+        },
+        {
+         "key": "B",
+         "text": "she heard a speaker at her school."
+        },
+        {
+         "key": "C",
+         "text": "she read a book about them."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L2-3",
+     "type": "matching",
+     "range": [
+      16,
+      20
+     ],
+     "instructions": [
+      "Which dolphin does Alice make each of the following comments about?",
+      "Write the correct letter, **A**, **B**, **C** or **D**, next to questions 16–20."
+     ],
+     "optionsTitle": "Dolphins",
+     "options": [
+      {
+       "key": "A",
+       "text": "Moondancer"
+      },
+      {
+       "key": "B",
+       "text": "Echo"
+      },
+      {
+       "key": "C",
+       "text": "Kiwi"
+      },
+      {
+       "key": "D",
+       "text": "Samson"
+      }
+     ],
+     "questions": [
+      {
+       "n": 16,
+       "text": "It has not been seen this year."
+      },
+      {
+       "n": 17,
+       "text": "It is photographed more than the others."
+      },
+      {
+       "n": 18,
+       "text": "It is always very energetic."
+      },
+      {
+       "n": 19,
+       "text": "It is the newest one in the scheme."
+      },
+      {
+       "n": 20,
+       "text": "It has an unusual shape."
+      }
+     ]
+    }
+   ],
+   "transcript": "INTERVIEWER: Today we're pleased to have on the show Alice Bussell from the Dolphin Conservation Trust. Tell us about the Trust, Alice.\nALICE: Well, obviously its purpose is to protect dolphins in seas all around the world. It tries to raise people's awareness of the problems these marine creatures are suffering because of pollution and other threats. It started ten years ago and it's one of the fastest growing animal charities in the country – although it's still fairly small compared with the big players in animal protection. We are particularly proud of the work we do in education – last year we visited a huge number of schools in different parts of the country, going round to talk to children and young people aged from five to eighteen. In fact, about thirty-five per cent of our members are children. The charity uses its money to support campaigns [Q11] [Q12] – for example, for changes in fishing policy and so forth. It hopes soon to be able to employ its first full-time biologist – with dolphin expertise – to monitor populations. Of course, many people give their services on a voluntary basis and we now have volunteers working in observation, office [Q11] [Q12] work and other things. I should also tell you about the award we won from the Charity Commission last year – for our work in education. Although it's not meant an enormous amount of money for us, it has made our activities even [Q13] more widely publicised and understood. In the long term it may not bring in extra members but we're hoping it'll have this effect.\nINTERVIEWER: Is it possible to see dolphins in UK waters?\nALICE: Yes. In several locations. And we have a big project in the east part of Scotland. This has long been a haven for dolphins because it has very little shipping. However, that may be about to change soon because oil companies want to increase exploration there. We're campaigning against this because, although there'll be little pollution from oil, exploration [Q14] creates a lot of underwater noise. It means the dolphins can't rest and socialise. This is how I became interested in dolphin conservation in the first place. I had never seen one and I hadn't been particularly interested in them at school. Then I came across this story about a family of dolphins who had [Q15] to leave their home in the Moray Firth because of the oil companies and about a child who campaigned to save them. I couldn't put the book down – I was hooked.\nINTERVIEWER: I'm sure our listeners will want to find out what they can do to help. You mentioned the 'Adopt a Dolphin' scheme. Can you tell us about that?\nALICE: Of course! People can choose one of our dolphins to sponsor. They receive a picture of it and news updates. I'd like to tell you about four which are currently being adopted by our members: Moondancer, Echo, Kiwi and Samson. Unfortunately, Echo is being rather elusive this year [Q16] and hasn't yet been sighted by our observers but we remain optimistic that he'll be out there soon. All the others have been out in force – Samson and Moondancer are often photographed together but it is Kiwi [Q17] who's our real 'character' as she seems to love coming up close for the cameras and we've captured her on film hundreds of times. They all have their own personalities – Moondancer is very elegant and curves out and into the water very smoothly, whereas Samson has a lot of energy – he's [Q18] always leaping out of the water with great vigour. You'd probably expect him to be the youngest – he's not quite – that's Kiwi – but Samson's the [Q19] latest of our dolphins to be chosen for the scheme. Kiwi makes a lot of noise so we can often pick her out straightaway. Echo and Moondancer are noisy too, but Moondancer's easy to find because she has a [Q20] particularly large fin on her back, which makes her easy to identify. So, yes, they're all very different...\nINTERVIEWER: Well, they sound a fascinating group ..."
+  },
+  {
+   "part": 3,
+   "range": [
+    21,
+    30
+   ],
+   "pages": [
+    52,
+    53
+   ],
+   "groups": [
+    {
+     "id": "L3-1",
+     "type": "choice",
+     "range": [
+      21,
+      25
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "title": "Theatre Studies Course",
+     "questions": [
+      {
+       "n": 21,
+       "text": "What helped Rob to prepare to play the character of a doctor?",
+       "options": [
+        {
+         "key": "A",
+         "text": "the stories his grandfather told him"
+        },
+        {
+         "key": "B",
+         "text": "the times when he watched his grandfather working"
+        },
+        {
+         "key": "C",
+         "text": "the way he imagined his grandfather at work"
+        }
+       ]
+      },
+      {
+       "n": 22,
+       "text": "In the play's first scene, the boredom of village life was suggested by",
+       "options": [
+        {
+         "key": "A",
+         "text": "repetition of words and phrases."
+        },
+        {
+         "key": "B",
+         "text": "scenery painted in dull colours."
+        },
+        {
+         "key": "C",
+         "text": "long pauses within conversations."
+        }
+       ]
+      },
+      {
+       "n": 23,
+       "text": "What has Rob learned about himself through working in a group?",
+       "options": [
+        {
+         "key": "A",
+         "text": "He likes to have clear guidelines."
+        },
+        {
+         "key": "B",
+         "text": "He copes well with stress."
+        },
+        {
+         "key": "C",
+         "text": "He thinks he is a good leader."
+        }
+       ]
+      },
+      {
+       "n": 24,
+       "text": "To support the production, research material was used which described",
+       "options": [
+        {
+         "key": "A",
+         "text": "political developments."
+        },
+        {
+         "key": "B",
+         "text": "changing social attitudes."
+        },
+        {
+         "key": "C",
+         "text": "economic transformations."
+        }
+       ]
+      },
+      {
+       "n": 25,
+       "text": "What problem did the students overcome in the final rehearsal?",
+       "options": [
+        {
+         "key": "A",
+         "text": "one person forgetting their words"
+        },
+        {
+         "key": "B",
+         "text": "an equipment failure"
+        },
+        {
+         "key": "C",
+         "text": "the injury of one character"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L3-2",
+     "type": "matching",
+     "range": [
+      26,
+      30
+     ],
+     "instructions": [
+      "What action is needed for the following stages in doing the 'year abroad' option?",
+      "Choose **FIVE** answers from the box and write the correct letter, **A–G**, next to questions 26–30."
+     ],
+     "optionsTitle": "Action",
+     "options": [
+      {
+       "key": "A",
+       "text": "be on time"
+      },
+      {
+       "key": "B",
+       "text": "get a letter of recommendation"
+      },
+      {
+       "key": "C",
+       "text": "plan for the final year"
+      },
+      {
+       "key": "D",
+       "text": "make sure the institution's focus is relevant"
+      },
+      {
+       "key": "E",
+       "text": "show ability in Theatre Studies"
+      },
+      {
+       "key": "F",
+       "text": "make travel arrangements and bookings"
+      },
+      {
+       "key": "G",
+       "text": "ask for help"
+      }
+     ],
+     "title": "Stages in doing the 'year abroad' option",
+     "questions": [
+      {
+       "n": 26,
+       "text": "in the second year of the course"
+      },
+      {
+       "n": 27,
+       "text": "when first choosing where to go"
+      },
+      {
+       "n": 28,
+       "text": "when sending in your choices"
+      },
+      {
+       "n": 29,
+       "text": "when writing your personal statement"
+      },
+      {
+       "n": 30,
+       "text": "when doing the year abroad"
+      }
+     ]
+    }
+   ],
+   "transcript": "MIA: Hi, Rob. How's the course going?\nROB: Oh, hi, Mia. Yeah, great. I can't believe the first term's nearly over.\nMIA: I saw your group's performance last night at the student theatre. It was good.\nROB: Really? Yeah ... but now we have to write a report on the whole thing, an in-depth analysis. I don't know where to start. Like, I have to write about the role I played, the doctor, how I developed the character.\nMIA: Well, what was your starting point?\nROB: Er ... my grandfather was a doctor before he retired, and I just based it on him.\nMIA: OK, but how? Did you talk to him about it?\nROB: He must have all sorts of stories, but he never says much about his work, even now. He has a sort of authority though.\nMIA: So how did you manage to capture that?\nROB: I'd ... I'd visualise what he must have been like in the past, when he was [Q21] sitting in his consulting room listening to his patients.\nMIA: OK, so that's what you explain in your report.\nROB: Right.\nMIA: Then there's the issue of atmosphere – so in the first scene we needed to know how boring life was in the doctor's village in the 1950s, so when the curtain went up on the first scene in the waiting room, there was that long silence before anyone spoke. And then people kept saying the same thing [Q22] over and over, like 'Cold, isn't it?'\nROB: Yes, and everyone wore grey and brown, and just sat in a row.\nMIA: Yes, all those details of the production.\nROB: And I have to analyse how I functioned in the group – what I found out about myself. I know I was so frustrated at times, when we couldn't agree.\nMIA: Yes. So did one person emerge as the leader?\nROB: Sophia did. That was OK – she helped us work out exactly what to do, for [Q23] the production. And that made me feel better, I suppose.\nMIA: When you understood what needed doing?\nROB: Yes. And Sophia did some research, too. That was useful in developing our approach.\nMIA: Like what?\nROB: Well, she found these articles from the 1950s about how relationships [Q24] between children and their parents, or between the public and people like bank managers or the police were shifting.\nMIA: Interesting. And did you have any practical problems to overcome?\nROB: Well, in the final rehearsal everything was going fine until the last scene – that's where the doctor's first patient appears on stage on his own.\nMIA: The one in the wheelchair?\nROB: Yes, and he had this really long speech, with the stage all dark except for one spotlight – and then that stuck somehow so it was shining on the [Q25] wrong side of the stage ... but anyway we got that fixed, thank goodness.\nMIA: Yes, it was fine on the night.\nROB: But while you're here, Mia, I wanted to ask you about the year abroad option. Would you recommend doing that?\nMIA: Yes, definitely. It's a fantastic chance to study in another country for a year.\nROB: I think I'd like to do it, but it looks very competitive – there's only a limited number of places.\nMIA: Yes, so next year when you are in the second year of the course, you [Q26] need to work really hard in all your theatre studies modules. Only students with good marks get places – you have to prove that you know your subject really well.\nROB: Right. So how did you choose where to go?\nMIA: Well, I decided I wanted a programme that would fit in with what I wanted [Q27] to do after I graduate, so I looked for a university with emphasis on acting rather than directing for example. It depends on you. Then about six months before you go, you have to email the scheme coordinator with your top three choices. I had a friend who missed the deadline and didn't [Q28] get her first choice, so you do need to get a move on at that stage. You'll find that certain places are very popular with everyone.\nROB: And don't you have to write a personal statement at that stage?\nMIA: Yes.\nROB: Right. I'll get some of the final year students to give me some tips ... [Q29] maybe see if I can read what they wrote.\nMIA: I think that's a very good idea. I don't mind showing you what I did. And while you're abroad don't make the mistake I made. I got so involved [Q30] I forgot all about making arrangements for when I came back here for the final year. Make sure you stay in touch so they know your choices for the optional modules. You don't want to miss out doing your preferred specialisms.\nROB: Right."
+  },
+  {
+   "part": 4,
+   "range": [
+    31,
+    40
+   ],
+   "pages": [
+    54,
+    55
+   ],
+   "groups": [
+    {
+     "id": "L4-1",
+     "type": "completion",
+     "range": [
+      31,
+      40
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **ONE WORD ONLY** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "'Self-regulatory focus theory' and leadership"
+      },
+      {
+       "t": "sub",
+       "text": "Self-regulatory focus theory"
+      },
+      {
+       "t": "p",
+       "text": "People's focus is to approach pleasure or avoid pain"
+      },
+      {
+       "t": "p",
+       "text": "Promotion goals focus on {{31}}"
+      },
+      {
+       "t": "p",
+       "text": "Prevention goals emphasise avoiding punishment"
+      },
+      {
+       "t": "sub",
+       "text": "Factors that affect people's focus"
+      },
+      {
+       "t": "p",
+       "text": "The Chronic Factor"
+      },
+      {
+       "t": "li",
+       "text": "comes from one's {{32}}"
+      },
+      {
+       "t": "p",
+       "text": "The {{33}} Factor"
+      },
+      {
+       "t": "li",
+       "text": "we are more likely to focus on promotion goals when with a {{34}}"
+      },
+      {
+       "t": "li",
+       "text": "we are more likely to focus on prevention goals with our boss"
+      },
+      {
+       "t": "sub",
+       "text": "How people's focus affects them"
+      },
+      {
+       "t": "p",
+       "text": "Promotion Focus: People think about an ideal version of themselves, their {{35}} and their gains."
+      },
+      {
+       "t": "p",
+       "text": "Prevention Focus: People think about their 'ought' self and their obligations"
+      },
+      {
+       "t": "sub",
+       "text": "Leaders"
+      },
+      {
+       "t": "p",
+       "text": "Leadership behaviour and {{36}} affects people's focus"
+      },
+      {
+       "t": "p",
+       "text": "*Transformational Leaders:*"
+      },
+      {
+       "t": "li",
+       "text": "pay special attention to the {{37}} of their followers"
+      },
+      {
+       "t": "li",
+       "text": "passionately communicate a clear {{38}}"
+      },
+      {
+       "t": "li",
+       "text": "inspire promotion focus in followers"
+      },
+      {
+       "t": "p",
+       "text": "*Transactional Leaders:*"
+      },
+      {
+       "t": "li",
+       "text": "create {{39}} to make expectations clear"
+      },
+      {
+       "t": "li",
+       "text": "emphasise the results of a mistake"
+      },
+      {
+       "t": "li",
+       "text": "inspire prevention focus in followers"
+      },
+      {
+       "t": "sub",
+       "text": "Conclusion"
+      },
+      {
+       "t": "p",
+       "text": "Promotion Focus is good for jobs requiring {{40}}"
+      },
+      {
+       "t": "p",
+       "text": "Prevention Focus is good for work such as a surgeon"
+      },
+      {
+       "t": "p",
+       "text": "Leaders' actions affect which focus people use"
+      }
+     ]
+    }
+   ],
+   "transcript": "Today, I want to talk about self-regulatory focus theory and how the actions of leaders can affect the way followers approach different situations. Self-regulatory focus theory is a theory developed by Tori Higgins. He says that a person's focus at any given time is to either approach pleasure or avoid pain. These are two basic motivations that each and every one of us has, and they cause us to have different kinds of goals. Promotion goals in different life situations emphasise achievement. Prevention goals are oriented towards the [Q31] avoidance of punishment.\nIn a specific situation, our thoughts might focus more on promotion goals or more on prevention goals. The theory suggests that two factors affect which goals we are focusing on. First, there is a chronic factor. This factor is connected to a person's personality and [Q32] says that each person has a basic tendency to either focus more on promotion goals or focus more on prevention goals as part of his or her personality. Second, there is a situational factor which means that the context we are in can make us more likely to [Q33] focus on one set of goals or the other. For example, we are more likely to be thinking about pleasure and to have promotion goals when we are spending time with a friend. In [Q34] contrast, if we are working on an important project for our boss, we are more likely to try to avoid making mistakes and therefore have more prevention goals in our mind.\nResearch has shown that the goals we are focusing on at a given time affect the way we think. For example, when focusing on promotion goals, people consider their ideal self, their aspirations and gains. They don't think about what they can lose, so they think in a [Q35] happier mode. They feel more inspired to change.\nWhen people are focusing on prevention goals, they think about their \"ought\" self. What are they supposed to be? What are people expecting from them? They consider their obligations to others. As a result, they experience more anxiety and try to avoid situations where they could lose.\nNow that I have talked about the two focuses and how they affect people, I want to look at the idea that the way leaders behave, or their style of leading, can affect the focus [Q36] that followers adopt in a specific situation. In talking about leadership, we often mention transformational leaders and transactional leaders. Transformational leaders, when interacting with their followers, focus on their development. In their words and actions [Q37] transformational leaders highlight change. Their speech is passionate and conveys a definitive vision. All of these things can encourage followers to think about what could be. [Q38] In other words, they inspire a promotion focus in their followers.\nIn contrast, transactional leaders focus on developing clear structures that tell their [Q39] followers exactly what is expected of them. While they do explain the rewards people will get for following orders, they emphasise more how a follower will be punished or that a follower won't get rewarded if his or her behaviour doesn't change. In short, they emphasise the consequences of making a mistake. This emphasis will clearly lead followers to focus on avoiding punishment and problems. This is clearly a prevention focus.\nIn conclusion, it is important to understand that one focus is not necessarily better than the other one. For a designer who works in a field where a lot of innovation is needed, a [Q40] promotion focus is probably better. In contrast, a prevention focus which causes people to work more cautiously and produce higher quality work might be very appropriate for a job like a surgeon, for example. The main point of the research, though, is that the actions of leaders can greatly influence whether people approach a situation with more of a promotion focus or more of a prevention focus."
+  }
+ ],
+ "answers": {
+  "1": {
+   "a": [
+    "4",
+    "four"
+   ],
+   "k": "4"
+  },
+  "2": {
+   "a": [
+    "46 Wombat"
+   ]
+  },
+  "3": {
+   "a": [
+    "Thursday"
+   ]
+  },
+  "5": {
+   "a": [
+    "red"
+   ]
+  },
+  "6": {
+   "a": [
+    "lunch"
+   ]
+  },
+  "7": {
+   "a": [
+    "glasses"
+   ]
+  },
+  "9": {
+   "a": [
+    "aunt"
+   ]
+  },
+  "10": {
+   "a": [
+    "month"
+   ]
+  },
+  "4": {
+   "a": [
+    "8.30",
+    "8:30"
+   ],
+   "k": "8.30"
+  },
+  "8": {
+   "a": [
+    "Ball"
+   ],
+   "k": "BALL"
+  },
+  "11": {
+   "a": [
+    "C"
+   ]
+  },
+  "12": {
+   "a": [
+    "E"
+   ]
+  },
+  "13": {
+   "a": [
+    "B"
+   ]
+  },
+  "14": {
+   "a": [
+    "A"
+   ]
+  },
+  "15": {
+   "a": [
+    "C"
+   ]
+  },
+  "16": {
+   "a": [
+    "B"
+   ]
+  },
+  "17": {
+   "a": [
+    "C"
+   ]
+  },
+  "18": {
+   "a": [
+    "D"
+   ]
+  },
+  "19": {
+   "a": [
+    "D"
+   ]
+  },
+  "20": {
+   "a": [
+    "A"
+   ]
+  },
+  "21": {
+   "a": [
+    "C"
+   ]
+  },
+  "22": {
+   "a": [
+    "A"
+   ]
+  },
+  "23": {
+   "a": [
+    "A"
+   ]
+  },
+  "24": {
+   "a": [
+    "B"
+   ]
+  },
+  "25": {
+   "a": [
+    "B"
+   ]
+  },
+  "26": {
+   "a": [
+    "E"
+   ]
+  },
+  "27": {
+   "a": [
+    "D"
+   ]
+  },
+  "28": {
+   "a": [
+    "A"
+   ]
+  },
+  "29": {
+   "a": [
+    "G"
+   ]
+  },
+  "30": {
+   "a": [
+    "C"
+   ]
+  },
+  "31": {
+   "a": [
+    "achievement",
+    "achievements"
+   ],
+   "k": "achievement / achievements"
+  },
+  "32": {
+   "a": [
+    "personality",
+    "character"
+   ],
+   "k": "personality / character"
+  },
+  "33": {
+   "a": [
+    "Situational"
+   ]
+  },
+  "34": {
+   "a": [
+    "friend"
+   ]
+  },
+  "35": {
+   "a": [
+    "aspirations",
+    "ambitions"
+   ],
+   "k": "aspirations / ambitions"
+  },
+  "36": {
+   "a": [
+    "style"
+   ]
+  },
+  "37": {
+   "a": [
+    "development"
+   ]
+  },
+  "38": {
+   "a": [
+    "vision"
+   ]
+  },
+  "39": {
+   "a": [
+    "structures"
+   ]
+  },
+  "40": {
+   "a": [
+    "innovation",
+    "innovations"
+   ],
+   "k": "innovation / innovations"
+  }
+ }
+}

@@ -1,0 +1,1686 @@
+{
+ "schema": "ielts-mock.exam/1",
+ "id": "C15-T1",
+ "source": {
+  "book": 15,
+  "test": 1
+ },
+ "title": "Cambridge IELTS 15 · Test 1",
+ "listening": {
+  "parts": [
+   {
+    "part": 1,
+    "range": [
+     1,
+     10
+    ],
+    "pages": [
+     12
+    ],
+    "groups": [
+     {
+      "id": "L1-1",
+      "type": "completion",
+      "range": [
+       1,
+       10
+      ],
+      "instructions": [
+       "Complete the notes below.",
+       "Write **ONE WORD AND/OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Bankside Recruitment Agency"
+       },
+       {
+        "t": "li",
+        "text": "Address of agency: 497 Eastside, Docklands"
+       },
+       {
+        "t": "li",
+        "text": "Name of agent: Becky {{1}}"
+       },
+       {
+        "t": "li",
+        "text": "Phone number: 07866 510333"
+       },
+       {
+        "t": "li",
+        "text": "Best to call her in the {{2}}"
+       },
+       {
+        "t": "sub",
+        "text": "Typical jobs"
+       },
+       {
+        "t": "li",
+        "text": "Clerical and admin roles, mainly in the finance industry"
+       },
+       {
+        "t": "li",
+        "text": "Must have good {{3}} skills"
+       },
+       {
+        "t": "li",
+        "text": "Jobs are usually for at least one {{4}}"
+       },
+       {
+        "t": "li",
+        "text": "Pay is usually £{{5}} per hour"
+       },
+       {
+        "t": "sub",
+        "text": "Registration process"
+       },
+       {
+        "t": "li",
+        "text": "Wear a {{6}} to the interview"
+       },
+       {
+        "t": "li",
+        "text": "Must bring your {{7}} to the interview"
+       },
+       {
+        "t": "li",
+        "text": "They will ask questions about each applicant's {{8}}"
+       },
+       {
+        "t": "sub",
+        "text": "Advantages of using an agency"
+       },
+       {
+        "t": "li",
+        "text": "The {{9}} you receive at interview will benefit you"
+       },
+       {
+        "t": "li",
+        "text": "Will get access to vacancies which are not advertised"
+       },
+       {
+        "t": "li",
+        "text": "Less {{10}} is involved in applying for jobs"
+       }
+      ]
+     }
+    ],
+    "transcript": "AMBER: Hello William. This is Amber – you said to phone if I wanted to get more information about the job agency you mentioned. Is now a good time?\nWILLIAM: Oh, hi Amber. Yes. Fine. So the agency I was talking about is called Bankside – they're based in Docklands – I can tell you the address now – 497 Eastside.\nAMBER: OK, thanks. So is there anyone in particular I should speak to there?\nWILLIAM: The agent I always deal with is called Becky Jamieson.\nAMBER: Let me write that down – Becky ...\nWILLIAM: Jamieson J-A-M-I-E-S-O-N. [Q1]\nAMBER: Do you have her direct line?\nWILLIAM: Yes, it's in my contacts somewhere – right, here we are: 078 double 6, 510 triple 3. I wouldn't call her until the afternoon if I were you – she's always really busy in [Q2] the morning trying to fill last-minute vacancies. She's really helpful and friendly so I'm sure it would be worth getting in touch with her for an informal chat.\nAMBER: It's mainly clerical and admin jobs they deal with, isn't it?\nWILLIAM: That's right. I know you're hoping to find a full-time job in the media eventually – but Becky mostly recruits temporary staff for the finance sector – which will look good on your CV – and generally pays better too.\nAMBER: Yeah – I'm just a bit worried because I don't have much office experience.\nWILLIAM: I wouldn't worry. They'll probably start you as a receptionist, or something like that. So what's important for that kind of job isn't so much having business skills or knowing lots of different computer systems – it's communication that really [Q3] matters – so you'd be fine there. And you'll pick up office skills really quickly on the job. It's not that complicated.\nAMBER: OK good. So how long do people generally need temporary staff for? It would be great if I could get something lasting at least a month.\nWILLIAM: That shouldn't be too difficult. But you're more likely to be offered something for a week at first, which might get extended. It's unusual to be sent somewhere for [Q4] just a day or two.\nAMBER: Right. I've heard the pay isn't too bad – better than working in a shop or a restaurant.\nWILLIAM: Oh yes – definitely. The hourly rate is about £10, 11 if you're lucky. [Q5]\nAMBER: That's pretty good. I was only expecting to get eight or nine pounds an hour.\nWILLIAM: Do you want me to tell you anything about the registration process?\nAMBER: Yes, please. I know you have to have an interview.\nWILLIAM: The interview usually takes about an hour and you should arrange that about a week in advance.\nAMBER: I suppose I should dress smartly if it's for office work – I can probably borrow a suit from Mum. [Q6]\nWILLIAM: Good idea. It's better to look too smart than too casual.\nAMBER: Will I need to bring copies of my exam certificates or anything like that?\nWILLIAM: No – they don't need to see those, I don't think.\nAMBER: What about my passport? [Q7]\nWILLIAM: Oh yes – they will ask to see that.\nAMBER: OK.\nWILLIAM: I wouldn't get stressed about the interview though. It's just a chance for them to build a relationship with you – so they can try and match you to a job which you'll like. So there are questions about personality that they always ask candidates – [Q8] fairly basic ones. And they probably won't ask anything too difficult like what your plans are for the future.\nAMBER: Hope not.\nWILLIAM: Anyway, there are lots of benefits to using an agency – for example, the interview will be useful because they'll give you feedback on your performance so you can [Q9] improve next time.\nAMBER: And they'll have access to jobs which aren't advertised.\nWILLIAM: Exactly – most temporary jobs aren't advertised.\nAMBER: And I expect finding a temporary job this way takes a lot less time – it's much [Q10] easier than ringing up individual companies.\nWILLIAM: Yes indeed. Well I think ..."
+   },
+   {
+    "part": 2,
+    "range": [
+     11,
+     20
+    ],
+    "pages": [
+     13,
+     14
+    ],
+    "groups": [
+     {
+      "id": "L2-1",
+      "type": "choice",
+      "range": [
+       11,
+       14
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B** or **C**."
+      ],
+      "title": "Matthews Island Holidays",
+      "questions": [
+       {
+        "n": 11,
+        "text": "According to the speaker, the company",
+        "options": [
+         {
+          "key": "A",
+          "text": "has been in business for longer than most of its competitors."
+         },
+         {
+          "key": "B",
+          "text": "arranges holidays to more destinations than its competitors."
+         },
+         {
+          "key": "C",
+          "text": "has more customers than its competitors."
+         }
+        ]
+       },
+       {
+        "n": 12,
+        "text": "Where can customers meet the tour manager before travelling to the Isle of Man?",
+        "options": [
+         {
+          "key": "A",
+          "text": "Liverpool"
+         },
+         {
+          "key": "B",
+          "text": "Heysham"
+         },
+         {
+          "key": "C",
+          "text": "Luton"
+         }
+        ]
+       },
+       {
+        "n": 13,
+        "text": "How many lunches are included in the price of the holiday?",
+        "options": [
+         {
+          "key": "A",
+          "text": "three"
+         },
+         {
+          "key": "B",
+          "text": "four"
+         },
+         {
+          "key": "C",
+          "text": "five"
+         }
+        ]
+       },
+       {
+        "n": 14,
+        "text": "Customers have to pay extra for",
+        "options": [
+         {
+          "key": "A",
+          "text": "guaranteeing themselves a larger room."
+         },
+         {
+          "key": "B",
+          "text": "booking at short notice."
+         },
+         {
+          "key": "C",
+          "text": "transferring to another date."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L2-2",
+      "type": "completion",
+      "range": [
+       15,
+       20
+      ],
+      "instructions": [
+       "Complete the table below.",
+       "Write **ONE WORD AND/OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Timetable for Isle of Man holiday"
+       },
+       {
+        "t": "table",
+        "header": 1,
+        "rows": [
+         [
+          "",
+          "Activity",
+          "Notes"
+         ],
+         [
+          "Day 1",
+          "Arrive",
+          "Introduction by manager\nHotel dining room has view of the {{15}}"
+         ],
+         [
+          "Day 2",
+          "Tynwald Exhibition and Peel",
+          "Tynwald may have been founded in {{16}} not 979."
+         ],
+         [
+          "Day 3",
+          "Trip to Snaefell",
+          "Travel along promenade in a tram; train to Laxey; train to the {{17}} of Snaefell"
+         ],
+         [
+          "Day 4",
+          "Free day",
+          "Company provides a {{18}} for local transport and heritage sites."
+         ],
+         [
+          "Day 5",
+          "Take the {{19}} railway train from Douglas to Port Erin",
+          "Free time, then coach to Castletown – former {{20}} has old castle."
+         ],
+         [
+          "Day 6",
+          "Leave",
+          "Leave the island by ferry or plane"
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    "transcript": "Good morning. My name's Erica Matthews, and I'm the owner of Matthews Island Holidays, a company set up by my parents. Thank you for coming to this presentation, in which I hope to interest you in what we have to offer. We're a small, family-run company, and we believe in the importance of the personal touch, so we don't aim to compete with other companies on the number of customers. What we do is build on our many years' experience – more than [Q11] almost any other rail holiday company – to ensure we provide perfect holidays in a small number of destinations, which we've got to know extremely well.\nI'll start with our six-day Isle of Man holiday. This is a fascinating island in the Irish Sea, with Wales to the south, England to the east, Scotland to the north and Northern Ireland to the west. Our holiday starts in Heysham, where your tour manager will meet you, then you'll [Q12] travel by ferry to the Isle of Man. Some people prefer to fly from Luton instead, and another popular option is to go by train to Liverpool and take a ferry from there.\nYou have five nights in the hotel, and the price covers five breakfasts and dinners, and lunch [Q13] on the three days when there are organised trips: day four is free, and most people have lunch in a café or restaurant in Douglas.\nThe price of the holiday includes the ferry to the Isle of Man, all travel on the island, the hotel, and the meals I've mentioned. Incidentally, we try to make booking our holidays as simple and fair as possible, so unlike with many companies, the price is the same whether you book six months in advance or at the last minute, and there's no supplement for single rooms in hotels. If you make a booking then need to change the start date, for example because [Q14] of illness, you're welcome to change to an alternative date or a different tour, for a small administrative fee.\nOK, so what does the holiday consist of? Well, on day one you'll arrive in time for a short introduction by your tour manager, followed by dinner in the hotel. The dining room looks out at the river, close to where it flows into the harbour, and there's usually plenty of activity [Q15] going on.\nOn day two you'll take the coach to the small town of Peel, on the way calling in at the Tynwald Exhibition. The Isle of Man isn't part of the United Kingdom, and it has its own parliament, called Tynwald. It's claimed that this is the world's oldest parliament that's still functioning, and that it dates back to 979. However, the earliest surviving reference to it is from 1422, so perhaps it isn't quite as old as it claims! [Q16]\nDay three we have a trip to the mountain Snaefell. This begins with a leisurely ride along the promenade in Douglas in a horse-drawn tram. Then you board an electric train which takes you to the fishing village of Laxey. From there it's an eight-kilometre ride in the Snaefell Mountain Railway to the top. Lunch will be in the café, giving you spectacular views of the [Q17] island.\nDay four is free for you to explore, using the pass which we'll give you. So you won't have to [Q18] pay for travel on local transport, or for entrance to the island's heritage sites. Or you might just want to take it easy in Douglas and perhaps do a little light shopping.\nThe last full day, day five, is for some people the highlight of the holiday, with a ride on the steam railway, from Douglas to Port Erin. After some time to explore, a coach will take [Q19] you to the headland that overlooks the Calf of Man, a small island just off the coast. From there you continue to Castletown, which used to be the capital of the Isle of Man, and its [Q20] mediaeval castle.\nAnd on day six it's back to the ferry – or the airport, if you flew to the island – and time to go home.\nNow I'd like to tell you ..."
+   },
+   {
+    "part": 3,
+    "range": [
+     21,
+     30
+    ],
+    "pages": [
+     15,
+     16
+    ],
+    "groups": [
+     {
+      "id": "L3-1",
+      "type": "matching",
+      "range": [
+       21,
+       26
+      ],
+      "instructions": [
+       "What did findings of previous research claim about the personality traits a child is likely to have because of their position in the family?",
+       "Choose **SIX** answers from the box and write the correct letter, **A–H**, next to Questions 21–26."
+      ],
+      "optionsTitle": "Personality Traits",
+      "options": [
+       {
+        "key": "A",
+        "text": "outgoing"
+       },
+       {
+        "key": "B",
+        "text": "selfish"
+       },
+       {
+        "key": "C",
+        "text": "independent"
+       },
+       {
+        "key": "D",
+        "text": "attention-seeking"
+       },
+       {
+        "key": "E",
+        "text": "introverted"
+       },
+       {
+        "key": "F",
+        "text": "co-operative"
+       },
+       {
+        "key": "G",
+        "text": "caring"
+       },
+       {
+        "key": "H",
+        "text": "competitive"
+       }
+      ],
+      "title": "Position in family",
+      "questions": [
+       {
+        "n": 21,
+        "text": "the eldest child"
+       },
+       {
+        "n": 22,
+        "text": "a middle child"
+       },
+       {
+        "n": 23,
+        "text": "the youngest child"
+       },
+       {
+        "n": 24,
+        "text": "a twin"
+       },
+       {
+        "n": 25,
+        "text": "an only child"
+       },
+       {
+        "n": 26,
+        "text": "a child with much older siblings"
+       }
+      ]
+     },
+     {
+      "id": "L3-2",
+      "type": "choice",
+      "range": [
+       27,
+       28
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B** or **C**."
+      ],
+      "questions": [
+       {
+        "n": 27,
+        "text": "What do the speakers say about the evidence relating to birth order and academic success?",
+        "options": [
+         {
+          "key": "A",
+          "text": "There is conflicting evidence about whether oldest children perform best in intelligence tests."
+         },
+         {
+          "key": "B",
+          "text": "There is little doubt that birth order has less influence on academic achievement than socio-economic status."
+         },
+         {
+          "key": "C",
+          "text": "Some studies have neglected to include important factors such as family size."
+         }
+        ]
+       },
+       {
+        "n": 28,
+        "text": "What does Ruth think is surprising about the difference in oldest children's academic performance?",
+        "options": [
+         {
+          "key": "A",
+          "text": "It is mainly thanks to their roles as teachers for their younger siblings."
+         },
+         {
+          "key": "B",
+          "text": "The advantages they have only lead to a slightly higher level of achievement."
+         },
+         {
+          "key": "C",
+          "text": "The extra parental attention they receive at a young age makes little difference."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L3-3",
+      "type": "multi",
+      "range": [
+       29,
+       30
+      ],
+      "n": [
+       29,
+       30
+      ],
+      "select": 2,
+      "instructions": [
+       "Choose **TWO** letters, **A–E**."
+      ],
+      "text": "Which **TWO** experiences of sibling rivalry do the speakers agree has been valuable for them?",
+      "options": [
+       {
+        "key": "A",
+        "text": "learning to share"
+       },
+       {
+        "key": "B",
+        "text": "learning to stand up for oneself"
+       },
+       {
+        "key": "C",
+        "text": "learning to be a good loser"
+       },
+       {
+        "key": "D",
+        "text": "learning to be tolerant"
+       },
+       {
+        "key": "E",
+        "text": "learning to say sorry"
+       }
+      ]
+     }
+    ],
+    "transcript": "RUTH: Ed, how are you getting on with the reading for our presentation next week?\nED: Well, OK, Ruth – but there's so much of it.\nRUTH: I know, I hadn't realised birth order was such a popular area of research.\nED: But the stuff on birth order and personality is mostly unreliable. From what I've been reading a lot of the claims about how your position in the family determines certain personality traits are just stereotypes, with no robust evidence to support them.\nRUTH: OK, but that's an interesting point – we could start by outlining what previous research has shown. There are studies going back over a hundred years.\nED: Yeah – so we could just run through some of the typical traits. Like the consensus seems to be that oldest children are generally less well-adjusted because they never get over the arrival of a younger sibling.\nRUTH: Right, but on a positive note, some studies claimed that they were thought to [Q21] be good at nurturing – certainly in the past when people had large families they would have been expected to look after the younger ones.\nED: There isn't such a clear picture for middle children – but one trait that a lot of the studies mention is that they are easier to get on with than older or younger siblings.\nRUTH: Generally eager to please and helpful – although that's certainly not accurate as [Q22] far as my family goes – my middle brother was a nightmare – always causing fights and envious of whatever I had.\nED: As I said – none of this seems to relate to my own experience. I'm the youngest in my family and I don't recognise myself in any of the studies I've read about. I'm supposed to have been a sociable and confident child who made friends easily – [Q23] but I was actually terribly shy.\nRUTH: Really? That's funny. There have been hundreds of studies on twins but mostly about nurture versus nature ...\nED: There was one on personality, which said that a twin is likely to be quite shy in [Q24] social situations because they always have their twin around to depend on for support.\nRUTH: My cousins were like that when they were small – they were only interested in each other and found it hard to engage with other kids. They're fine now though.\nED: Only children have had a really bad press – a lot of studies have branded them as loners who think the world revolves around them because they've never had [Q25] to fight for their parents' attention.\nRUTH: That does seem a bit harsh. One category I hadn't considered before was children with much older siblings – a couple of studies mentioned that these children grow up more quickly and are expected to do basic things for [Q26] themselves – like getting dressed.\nED: I can see how that might be true – although I expect they're sometimes the exact opposite – playing the baby role and clamouring for special treatment.\nRUTH: What was the problem with most of these studies, do you think?\nED: I think it was because in a lot of cases data was collected from only one sibling per family, who rated him or herself and his or her siblings at the same time.\nRUTH: Mmm. Some of the old research into the relationship between birth order and academic achievement has been proved to be accurate though. Performances in intelligence tests decline slightly from the eldest child to his or her younger siblings. This has been proved in lots of recent studies.\nED: Yes. Although what many of them didn't take into consideration was family [Q27] size. The more siblings there are, the likelier the family is to have a low socio-economic status – which can also account for differences between siblings in academic performance.\nRUTH: The oldest boy might be given more opportunities than his younger sisters, for example.\nED: Exactly.\nRUTH: But the main reason for the marginally higher academic performance of oldest children is quite surprising, I think. It's not only that they benefit intellectually from extra attention at a young age – which is what I would have expected. It's [Q28] that they benefit from being teachers for their younger siblings, by verbalising processes.\nED: Right, and this gives them status and confidence, which again contribute, in a small way, to better performance. So would you say sibling rivalry has been a useful thing for you?\nRUTH: I think so – my younger brother was incredibly annoying and we fought a lot but I think this has made me a stronger person. I know how to defend myself. We had [Q29/Q30] some terrible arguments and I would have died rather than apologise to him – but we had to put up with each other and most of the time we co-existed amicably [Q29/Q30] enough.\nED: Yes, my situation was pretty similar. But I don't think having two older brothers made me any less selfish – I was never prepared to let my brothers use any of my stuff ...\nRUTH: That's perfectly normal, whereas ..."
+   },
+   {
+    "part": 4,
+    "range": [
+     31,
+     40
+    ],
+    "pages": [
+     17
+    ],
+    "groups": [
+     {
+      "id": "L4-1",
+      "type": "completion",
+      "range": [
+       31,
+       40
+      ],
+      "instructions": [
+       "Complete the notes below.",
+       "Write **ONE WORD ONLY** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "The Eucalyptus Tree in Australia"
+       },
+       {
+        "t": "sub",
+        "text": "Importance"
+       },
+       {
+        "t": "li",
+        "text": "it provides {{31}} and food for a wide range of species"
+       },
+       {
+        "t": "li",
+        "text": "its leaves provide {{32}} which is used to make a disinfectant"
+       },
+       {
+        "t": "sub",
+        "text": "Reasons for present decline in number"
+       },
+       {
+        "t": "sub",
+        "text": "A) Diseases"
+       },
+       {
+        "t": "p",
+        "text": "(i) 'Mundulla Yellows'"
+       },
+       {
+        "t": "li",
+        "level": 2,
+        "text": "Cause – lime used for making {{33}} was absorbed"
+       },
+       {
+        "t": "p",
+        "level": 3,
+        "text": "– trees were unable to take in necessary iron through their roots"
+       },
+       {
+        "t": "p",
+        "text": "(ii) 'Bell-miner Associated Die-back'"
+       },
+       {
+        "t": "li",
+        "level": 2,
+        "text": "Cause – {{34}} feed on eucalyptus leaves"
+       },
+       {
+        "t": "p",
+        "level": 3,
+        "text": "– they secrete a substance containing sugar"
+       },
+       {
+        "t": "p",
+        "level": 3,
+        "text": "– bell-miner birds are attracted by this and keep away other species"
+       },
+       {
+        "t": "sub",
+        "text": "B) Bushfires"
+       },
+       {
+        "t": "p",
+        "text": "William Jackson's theory:"
+       },
+       {
+        "t": "li",
+        "text": "high-frequency bushfires have impact on vegetation, resulting in the growth of {{35}}"
+       },
+       {
+        "t": "li",
+        "text": "mid-frequency bushfires result in the growth of eucalyptus forests, because they:"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "– make more {{36}} available to the trees"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "– maintain the quality of the {{37}}"
+       },
+       {
+        "t": "li",
+        "text": "low-frequency bushfires result in the growth of '{{38}} rainforest', which is:"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "– a {{39}} ecosystem"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "– an ideal environment for the {{40}} of the bell-miner"
+       }
+      ]
+     }
+    ],
+    "transcript": "Today I'm going to talk about the eucalyptus tree. This is a very common tree here in Australia, where it's also sometimes called the gum tree. First I'm going to talk about why it's important, then I'm going to describe some problems it faces at present.\nRight, well the eucalyptus tree is an important tree for lots of reasons. For example, it gives shelter to creatures like birds and bats, and these and other species also depend on it for [Q31] food, particularly the nectar from its flowers. So it supports biodiversity. It's useful to us humans too, because we can kill germs with a disinfectant made from oil extracted from [Q32] eucalyptus leaves.\nThe eucalyptus grows all over Australia and the trees can live for up to four hundred years. So it's alarming that all across the country, numbers of eucalyptus are falling because the trees are dying off prematurely. So what are the reasons for this?\nOne possible reason is disease. As far back as the 1970s the trees started getting a disease called Mundulla Yellows. The trees' leaves would gradually turn yellow, then the tree would die. It wasn't until 2004 that they found the cause of the problem was lime, or calcium hydroxide to give it its proper chemical name, which was being used in the construction of roads. The lime was being washed away into the ground and affecting the roots of the [Q33] eucalyptus trees nearby. What it was doing was preventing the trees from sucking up the iron they needed for healthy growth. When this was injected back into the affected trees, they immediately recovered.\nBut this problem only affected a relatively small number of trees. By 2000, huge numbers of eucalyptus were dying along Australia's East Coast, of a disease known as Bell-miner Associated Die-back. The bell-miner is a bird, and the disease seems to be common where there are high populations of bell-miners. Again it's the leaves of the trees that are affected. What happens is that insects settle on the leaves and eat their way round them, destroying [Q34] them as they go, and at the same time they secrete a solution which has sugar in it. The bell-miner birds really like this solution, and in order to get as much as possible, they keep away other creatures that might try to get it. So these birds and insects flourish at the expense of other species, and eventually so much damage is done to the leaves that the tree dies.\nBut experts say that trees can start looking sick before any sign of Bell-miner Associated Die-back. So it looks as if the problem might have another explanation. One possibility is that it's to do with the huge bushfires that we have in Australia. A theory proposed over 40 years ago by ecologist William Jackson is that the *frequency* of bushfires in a particular region affects the type of vegetation that grows there. If there are very frequent bushfires in a region, this encourages grass to grow afterwards, while if the bushfires are rather less frequent, this [Q35] results in the growth of eucalyptus forests.\nSo why is this? Why do fairly frequent bushfires actually support the growth of eucalyptus? Well, one reason is that the fire stops the growth of other species which would consume water needed by eucalyptus trees. And there's another reason. If these other quick-growing [Q36] species of bushes and plants are allowed to proliferate, they harm the eucalyptus in another way, by affecting the composition of the soil, and removing nutrients from it. So some [Q37] bushfires are actually essential for the eucalyptus to survive as long as they are not too frequent. In fact there's evidence that Australia's indigenous people practised regular burning of bush land for thousands of years before the arrival of the Europeans.\nBut since Europeans arrived on the continent, the number of bushfires has been strictly controlled. Now scientists believe that this reduced frequency of bushfires to low levels has led to what's known as 'dry rainforest', which seems an odd name as usually we associate [Q38] tropical rainforest with wet conditions. And what's special about this type of rainforest? Well, unlike tropical rainforest which is a rich ecosystem, this type of ecosystem is usually a simple [Q39] one. It has very thick, dense vegetation, but not much variety of species. The vegetation provides lots of shade, so one species that does find it ideal is the bell-miner bird, which builds its nests in the undergrowth there. But again that's not helpful for the eucalyptus tree. [Q40]"
+   }
+  ],
+  "answers": {
+   "1": {
+    "a": [
+     "Jamieson"
+    ]
+   },
+   "2": {
+    "a": [
+     "afternoon"
+    ]
+   },
+   "3": {
+    "a": [
+     "communication"
+    ]
+   },
+   "4": {
+    "a": [
+     "week"
+    ]
+   },
+   "5": {
+    "a": [
+     "10",
+     "ten"
+    ],
+    "k": "10/ten"
+   },
+   "6": {
+    "a": [
+     "suit"
+    ]
+   },
+   "7": {
+    "a": [
+     "passport"
+    ]
+   },
+   "8": {
+    "a": [
+     "personality"
+    ]
+   },
+   "9": {
+    "a": [
+     "feedback"
+    ]
+   },
+   "10": {
+    "a": [
+     "time"
+    ]
+   },
+   "11": {
+    "a": [
+     "A"
+    ]
+   },
+   "12": {
+    "a": [
+     "B"
+    ]
+   },
+   "13": {
+    "a": [
+     "A"
+    ]
+   },
+   "14": {
+    "a": [
+     "C"
+    ]
+   },
+   "15": {
+    "a": [
+     "river"
+    ]
+   },
+   "16": {
+    "a": [
+     "1422"
+    ]
+   },
+   "17": {
+    "a": [
+     "top"
+    ]
+   },
+   "18": {
+    "a": [
+     "pass"
+    ]
+   },
+   "19": {
+    "a": [
+     "steam"
+    ]
+   },
+   "20": {
+    "a": [
+     "capital"
+    ]
+   },
+   "21": {
+    "a": [
+     "G"
+    ]
+   },
+   "22": {
+    "a": [
+     "F"
+    ]
+   },
+   "23": {
+    "a": [
+     "A"
+    ]
+   },
+   "24": {
+    "a": [
+     "E"
+    ]
+   },
+   "25": {
+    "a": [
+     "B"
+    ]
+   },
+   "26": {
+    "a": [
+     "C"
+    ]
+   },
+   "27": {
+    "a": [
+     "C"
+    ]
+   },
+   "28": {
+    "a": [
+     "A"
+    ]
+   },
+   "29": {
+    "a": [
+     "B"
+    ]
+   },
+   "30": {
+    "a": [
+     "D"
+    ]
+   },
+   "31": {
+    "a": [
+     "shelter"
+    ]
+   },
+   "32": {
+    "a": [
+     "oil"
+    ]
+   },
+   "33": {
+    "a": [
+     "roads"
+    ]
+   },
+   "34": {
+    "a": [
+     "insects"
+    ]
+   },
+   "35": {
+    "a": [
+     "grass",
+     "grasses"
+    ],
+    "k": "grass(es)"
+   },
+   "36": {
+    "a": [
+     "water"
+    ]
+   },
+   "37": {
+    "a": [
+     "soil"
+    ]
+   },
+   "38": {
+    "a": [
+     "dry"
+    ]
+   },
+   "39": {
+    "a": [
+     "simple"
+    ]
+   },
+   "40": {
+    "a": [
+     "nest",
+     "nests"
+    ],
+    "k": "nest(s)"
+   }
+  }
+ },
+ "reading": {
+  "passages": [
+   {
+    "passage": 1,
+    "range": [
+     1,
+     13
+    ],
+    "pages": [
+     18,
+     19,
+     20,
+     21
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 1–13**, which are based on Reading Passage 1 below.",
+    "title": "Nutmeg – a valuable spice",
+    "subtitle": null,
+    "paragraphs": [
+     {
+      "text": "The nutmeg tree, *Myristica fragrans*, is a large evergreen tree native to Southeast Asia. Until the late 18th century, it only grew in one place in the world: a small group of islands in the Banda Sea, part of the Moluccas – or Spice Islands – in northeastern Indonesia. The tree is thickly branched with dense foliage of tough, dark green oval leaves, and produces small, yellow, bell-shaped flowers and pale yellow pear-shaped fruits. The fruit is encased in a fleshy husk. When the fruit is ripe, this husk splits into two halves along a ridge running the length of the fruit. Inside is a purple-brown shiny seed, 2–3 cm long by about 2 cm across, surrounded by a lacy red or crimson covering called an 'aril'. These are the sources of the two spices nutmeg and mace, the former being produced from the dried seed and the latter from the aril."
+     },
+     {
+      "text": "Nutmeg was a highly prized and costly ingredient in European cuisine in the Middle Ages, and was used as a flavouring, medicinal, and preservative agent. Throughout this period, the Arabs were the exclusive importers of the spice to Europe. They sold nutmeg for high prices to merchants based in Venice, but they never revealed the exact location of the source of this extremely valuable commodity. The Arab-Venetian dominance of the trade finally ended in 1512, when the Portuguese reached the Banda Islands and began exploiting its precious resources."
+     },
+     {
+      "text": "Always in danger of competition from neighbouring Spain, the Portuguese began subcontracting their spice distribution to Dutch traders. Profits began to flow into the Netherlands, and the Dutch commercial fleet swiftly grew into one of the largest in the world. The Dutch quietly gained control of most of the shipping and trading of spices in Northern Europe. Then, in 1580, Portugal fell under Spanish rule, and by the end of the 16th century the Dutch found themselves locked out of the market. As prices for pepper, nutmeg, and other spices soared across Europe, they decided to fight back."
+     },
+     {
+      "text": "In 1602, Dutch merchants founded the VOC, a trading corporation better known as the Dutch East India Company. By 1617, the VOC was the richest commercial operation in the world. The company had 50,000 employees worldwide, with a private army of 30,000 men and a fleet of 200 ships. At the same time, thousands of people across Europe were dying of the plague, a highly contagious and deadly disease. Doctors were desperate for a way to stop the spread of this disease, and they decided nutmeg held the cure. Everybody wanted nutmeg, and many were willing to spare no expense to have it. Nutmeg bought for a few pennies in Indonesia could be sold for 68,000 times its original cost on the streets of London. The only problem was the short supply. And that's where the Dutch found their opportunity."
+     },
+     {
+      "text": "The Banda Islands were ruled by local sultans who insisted on maintaining a neutral trading policy towards foreign powers. This allowed them to avoid the presence of Portuguese or Spanish troops on their soil, but it also left them unprotected from other invaders. In 1621, the Dutch arrived and took over. Once securely in control of the Bandas, the Dutch went to work protecting their new investment. They concentrated all nutmeg production into a few easily guarded areas, uprooting and destroying any trees outside the plantation zones. Anyone caught growing a nutmeg seedling or carrying seeds without the proper authority was severely punished. In addition, all exported nutmeg was covered with lime to make sure there was no chance a fertile seed which could be grown elsewhere would leave the islands. There was only one obstacle to Dutch domination. One of the Banda Islands, a sliver of land called Run, only 3 km long by less than 1 km wide, was under the control of the British. After decades of fighting for control of this tiny island, the Dutch and British arrived at a compromise settlement, the Treaty of Breda, in 1667. Intent on securing their hold over every nutmeg-producing island, the Dutch offered a trade: if the British would give them the island of Run, they would in turn give Britain a distant and much less valuable island in North America. The British agreed. That other island was Manhattan, which is how New Amsterdam became New York. The Dutch now had a monopoly over the nutmeg trade which would last for another century."
+     },
+     {
+      "text": "Then, in 1770, a Frenchman named Pierre Poivre successfully smuggled nutmeg plants to safety in Mauritius, an island off the coast of Africa. Some of these were later exported to the Caribbean where they thrived, especially on the island of Grenada. Next, in 1778, a volcanic eruption in the Banda region caused a tsunami that wiped out half the nutmeg groves. Finally, in 1809, the British returned to Indonesia and seized the Banda Islands by force. They returned the islands to the Dutch in 1817, but not before transplanting hundreds of nutmeg seedlings to plantations in several locations across southern Asia. The Dutch nutmeg monopoly was over."
+     },
+     {
+      "text": "Today, nutmeg is grown in Indonesia, the Caribbean, India, Malaysia, Papua New Guinea and Sri Lanka, and world nutmeg production is estimated to average between 10,000 and 12,000 tonnes per year."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R1-1",
+      "type": "completion",
+      "range": [
+       1,
+       4
+      ],
+      "instructions": [
+       "Complete the notes below.",
+       "Choose **ONE WORD ONLY** from the passage for each answer.",
+       "Write your answers in boxes 1–4 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "The nutmeg tree and fruit"
+       },
+       {
+        "t": "li",
+        "text": "the leaves of the tree are {{1}} in shape"
+       },
+       {
+        "t": "li",
+        "text": "the {{2}} surrounds the fruit and breaks open when the fruit is ripe"
+       },
+       {
+        "t": "li",
+        "text": "the {{3}} is used to produce the spice nutmeg"
+       },
+       {
+        "t": "li",
+        "text": "the covering known as the aril is used to produce {{4}}"
+       },
+       {
+        "t": "li",
+        "text": "the tree has yellow flowers and fruit"
+       }
+      ]
+     },
+     {
+      "id": "R1-2",
+      "type": "tfng",
+      "range": [
+       5,
+       7
+      ],
+      "instructions": [
+       "Do the following statements agree with the information given in Reading Passage 1?",
+       "In boxes 5–7 on your answer sheet, write",
+       "**TRUE** if the statement agrees with the information",
+       "**FALSE** if the statement contradicts the information",
+       "**NOT GIVEN** if there is no information on this"
+      ],
+      "questions": [
+       {
+        "n": 5,
+        "text": "In the Middle Ages, most Europeans knew where nutmeg was grown."
+       },
+       {
+        "n": 6,
+        "text": "The VOC was the world's first major trading company."
+       },
+       {
+        "n": 7,
+        "text": "Following the Treaty of Breda, the Dutch had control of all the islands where nutmeg grew."
+       }
+      ]
+     },
+     {
+      "id": "R1-3",
+      "type": "completion",
+      "range": [
+       8,
+       13
+      ],
+      "instructions": [
+       "Complete the table below.",
+       "Choose **ONE WORD ONLY** from the passage for each answer.",
+       "Write your answers in boxes 8–13 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "table",
+        "header": 0,
+        "rows": [
+         [
+          "Middle Ages",
+          "Nutmeg was brought to Europe by the {{8}}"
+         ],
+         [
+          "16th century",
+          "European nations took control of the nutmeg trade"
+         ],
+         [
+          "17th century",
+          "Demand for nutmeg grew, as it was believed to be effective against the disease known as the {{9}}\n\nThe Dutch\n– took control of the Banda Islands\n– restricted nutmeg production to a few areas\n– put {{10}} on nutmeg to avoid it being cultivated outside the islands\n– finally obtained the island of {{11}} from the British"
+         ],
+         [
+          "Late 18th century",
+          "1770 – nutmeg plants were secretly taken to {{12}}\n\n1778 – half the Banda Islands' nutmeg plantations were destroyed by a {{13}}"
+         ]
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "passage": 2,
+    "range": [
+     14,
+     26
+    ],
+    "pages": [
+     22,
+     23,
+     24,
+     25
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 14–26**, which are based on Reading Passage 2 below.",
+    "title": "Driverless cars",
+    "subtitle": null,
+    "paragraphs": [
+     {
+      "label": "A",
+      "text": "The automotive sector is well used to adapting to automation in manufacturing. The implementation of robotic car manufacture from the 1970s onwards led to significant cost savings and improvements in the reliability and flexibility of vehicle mass production. A new challenge to vehicle production is now on the horizon and, again, it comes from automation. However, this time it is not to do with the manufacturing process, but with the vehicles themselves."
+     },
+     {
+      "text": "Research projects on vehicle automation are not new. Vehicles with limited self-driving capabilities have been around for more than 50 years, resulting in significant contributions towards driver assistance systems. But since Google announced in 2010 that it had been trialling self-driving cars on the streets of California, progress in this field has quickly gathered pace."
+     },
+     {
+      "label": "B",
+      "text": "There are many reasons why technology is advancing so fast. One frequently cited motive is safety; indeed, research at the UK's Transport Research Laboratory has demonstrated that more than 90 percent of road collisions involve human error as a contributory factor, and it is the primary cause in the vast majority. Automation may help to reduce the incidence of this."
+     },
+     {
+      "text": "Another aim is to free the time people spend driving for other purposes. If the vehicle can do some or all of the driving, it may be possible to be productive, to socialise or simply to relax while automation systems have responsibility for safe control of the vehicle. If the vehicle can do the driving, those who are challenged by existing mobility models – such as older or disabled travellers – may be able to enjoy significantly greater travel autonomy."
+     },
+     {
+      "label": "C",
+      "text": "Beyond these direct benefits, we can consider the wider implications for transport and society, and how manufacturing processes might need to respond as a result. At present, the average car spends more than 90 percent of its life parked. Automation means that initiatives for car-sharing become much more viable, particularly in urban areas with significant travel demand. If a significant proportion of the population choose to use shared automated vehicles, mobility demand can be met by far fewer vehicles."
+     },
+     {
+      "label": "D",
+      "text": "The Massachusetts Institute of Technology investigated automated mobility in Singapore, finding that fewer than 30 percent of the vehicles currently used would be required if fully automated car sharing could be implemented. If this is the case, it might mean that we need to manufacture far fewer vehicles to meet demand. However, the number of trips being taken would probably increase, partly because empty vehicles would have to be moved from one customer to the next."
+     },
+     {
+      "text": "Modelling work by the University of Michigan Transportation Research Institute suggests automated vehicles might reduce vehicle ownership by 43 percent, but that vehicles' average annual mileage would double as a result. As a consequence, each vehicle would be used more intensively, and might need replacing sooner. This faster rate of turnover may mean that vehicle production will not necessarily decrease."
+     },
+     {
+      "label": "E",
+      "text": "Automation may prompt other changes in vehicle manufacture. If we move to a model where consumers are tending not to own a single vehicle but to purchase access to a range of vehicles through a mobility provider, drivers will have the freedom to select one that best suits their needs for a particular journey, rather than making a compromise across all their requirements."
+     },
+     {
+      "text": "Since, for most of the time, most of the seats in most cars are unoccupied, this may boost production of a smaller, more efficient range of vehicles that suit the needs of individuals. Specialised vehicles may then be available for exceptional journeys, such as going on a family camping trip or helping a son or daughter move to university."
+     },
+     {
+      "label": "F",
+      "text": "There are a number of hurdles to overcome in delivering automated vehicles to our roads. These include the technical difficulties in ensuring that the vehicle works reliably in the infinite range of traffic, weather and road situations it might encounter; the regulatory challenges in understanding how liability and enforcement might change when drivers are no longer essential for vehicle operation; and the societal changes that may be required for communities to trust and accept automated vehicles as being a valuable part of the mobility landscape."
+     },
+     {
+      "label": "G",
+      "text": "It's clear that there are many challenges that need to be addressed but, through robust and targeted research, these can most probably be conquered within the next 10 years. Mobility will change in such potentially significant ways and in association with so many other technological developments, such as telepresence and virtual reality, that it is hard to make concrete predictions about the future. However, one thing is certain: change is coming, and the need to be flexible in response to this will be vital for those involved in manufacturing the vehicles that will deliver future mobility."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R2-1",
+      "type": "matching",
+      "range": [
+       14,
+       18
+      ],
+      "instructions": [
+       "Reading Passage 2 has seven sections, **A–G**.",
+       "Which section contains the following information?",
+       "Write the correct letter, **A–G**, in boxes 14–18 on your answer sheet."
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": ""
+       },
+       {
+        "key": "B",
+        "text": ""
+       },
+       {
+        "key": "C",
+        "text": ""
+       },
+       {
+        "key": "D",
+        "text": ""
+       },
+       {
+        "key": "E",
+        "text": ""
+       },
+       {
+        "key": "F",
+        "text": ""
+       },
+       {
+        "key": "G",
+        "text": ""
+       }
+      ],
+      "questions": [
+       {
+        "n": 14,
+        "text": "reference to the amount of time when a car is not in use"
+       },
+       {
+        "n": 15,
+        "text": "mention of several advantages of driverless vehicles for individual road-users"
+       },
+       {
+        "n": 16,
+        "text": "reference to the opportunity of choosing the most appropriate vehicle for each trip"
+       },
+       {
+        "n": 17,
+        "text": "an estimate of how long it will take to overcome a number of problems"
+       },
+       {
+        "n": 18,
+        "text": "a suggestion that the use of driverless cars may have no effect on the number of vehicles manufactured"
+       }
+      ]
+     },
+     {
+      "id": "R2-2",
+      "type": "completion",
+      "range": [
+       19,
+       22
+      ],
+      "instructions": [
+       "Complete the summary below.",
+       "Choose **NO MORE THAN TWO WORDS** from the passage for each answer.",
+       "Write your answers in boxes 19–22 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "The impact of driverless cars"
+       },
+       {
+        "t": "p",
+        "text": "Figures from the Transport Research Laboratory indicate that most motor accidents are partly due to {{19}}, so the introduction of driverless vehicles will result in greater safety. In addition to the direct benefits of automation, it may bring other advantages. For example, schemes for {{20}} will be more workable, especially in towns and cities, resulting in fewer cars on the road."
+       },
+       {
+        "t": "p",
+        "text": "According to the University of Michigan Transportation Research Institute, there could be a 43 percent drop in {{21}} of cars. However, this would mean that the yearly {{22}} of each car would, on average, be twice as high as it currently is. This would lead to a higher turnover of vehicles, and therefore no reduction in automotive manufacturing."
+       }
+      ]
+     },
+     {
+      "id": "R2-3",
+      "type": "multi",
+      "range": [
+       23,
+       24
+      ],
+      "n": [
+       23,
+       24
+      ],
+      "select": 2,
+      "instructions": [
+       "Choose **TWO** letters, **A–E**.",
+       "Write the correct letters in boxes 23 and 24 on your answer sheet."
+      ],
+      "text": "Which **TWO** benefits of automated vehicles does the writer mention?",
+      "options": [
+       {
+        "key": "A",
+        "text": "Car travellers could enjoy considerable cost savings."
+       },
+       {
+        "key": "B",
+        "text": "It would be easier to find parking spaces in urban areas."
+       },
+       {
+        "key": "C",
+        "text": "Travellers could spend journeys doing something other than driving."
+       },
+       {
+        "key": "D",
+        "text": "People who find driving physically difficult could travel independently."
+       },
+       {
+        "key": "E",
+        "text": "A reduction in the number of cars would mean a reduction in pollution."
+       }
+      ]
+     },
+     {
+      "id": "R2-4",
+      "type": "multi",
+      "range": [
+       25,
+       26
+      ],
+      "n": [
+       25,
+       26
+      ],
+      "select": 2,
+      "instructions": [
+       "Choose **TWO** letters, **A–E**.",
+       "Write the correct letters in boxes 25 and 26 on your answer sheet."
+      ],
+      "text": "Which **TWO** challenges to automated vehicle development does the writer mention?",
+      "options": [
+       {
+        "key": "A",
+        "text": "making sure the general public has confidence in automated vehicles"
+       },
+       {
+        "key": "B",
+        "text": "managing the pace of transition from conventional to automated vehicles"
+       },
+       {
+        "key": "C",
+        "text": "deciding how to compensate professional drivers who become redundant"
+       },
+       {
+        "key": "D",
+        "text": "setting up the infrastructure to make roads suitable for automated vehicles"
+       },
+       {
+        "key": "E",
+        "text": "getting automated vehicles to adapt to various different driving conditions"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "passage": 3,
+    "range": [
+     27,
+     40
+    ],
+    "pages": [
+     26,
+     27,
+     28,
+     29
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 27–40**, which are based on Reading Passage 3 below.",
+    "title": "What is exploration?",
+    "subtitle": null,
+    "paragraphs": [
+     {
+      "text": "We are all explorers. Our desire to discover, and then share that new-found knowledge, is part of what makes us human – indeed, this has played an important part in our success as a species. Long before the first caveman slumped down beside the fire and grunted news that there were plenty of wildebeest over yonder, our ancestors had learnt the value of sending out scouts to investigate the unknown. This questing nature of ours undoubtedly helped our species spread around the globe, just as it nowadays no doubt helps the last nomadic Penan maintain their existence in the depleted forests of Borneo, and a visitor negotiate the subways of New York."
+     },
+     {
+      "text": "Over the years, we've come to think of explorers as a peculiar breed – different from the rest of us, different from those of us who are merely 'well travelled', even; and perhaps there *is* a type of person more suited to seeking out the new, a type of caveman more inclined to risk venturing out. That, however, doesn't take away from the fact that we all have this enquiring instinct, even today; and that in all sorts of professions – whether artist, marine biologist or astronomer – borders of the unknown are being tested each day."
+     },
+     {
+      "text": "Thomas Hardy set some of his novels in Egdon Heath, a fictional area of uncultivated land, and used the landscape to suggest the desires and fears of his characters. He is delving into matters we all recognise because they are common to humanity. This is surely an act of exploration, and into a world as remote as the author chooses. Explorer and travel writer Peter Fleming talks of the moment when the explorer returns to the existence he has left behind with his loved ones. The traveller 'who has for weeks or months seen himself only as a puny and irrelevant alien crawling laboriously over a country in which he has no roots and no background, suddenly encounters his other self, a relatively solid figure, with a place in the minds of certain people'."
+     },
+     {
+      "text": "In this book about the exploration of the earth's surface, I have confined myself to those whose travels were real and who also aimed at more than personal discovery. But that still left me with another problem: the word 'explorer' has become associated with a past era. We think back to a golden age, as if exploration peaked somehow in the 19th century – as if the process of discovery is now on the decline, though the truth is that we have named only one and a half million of this planet's species, and there may be more than 10 million – and that's not including bacteria. We have studied only 5 per cent of the species we know. We have scarcely mapped the ocean floors, and know even less about ourselves; we fully understand the workings of only 10 per cent of our brains."
+     },
+     {
+      "text": "Here is how some of today's 'explorers' define the word. Ran Fiennes, dubbed the 'greatest living explorer', said, 'An explorer is someone who has done something that no human has done before – and also done something scientifically useful.' Chris Bonington, a leading mountaineer, felt exploration was to be found in the act of physically touching the unknown: 'You have to have gone somewhere new.' Then Robin Hanbury-Tenison, a campaigner on behalf of remote so-called 'tribal' peoples, said, 'A traveller simply records information about some far-off world, and reports back; but an explorer *changes* the world.' Wilfred Thesiger, who crossed Arabia's Empty Quarter in 1946, and belongs to an era of unmechanised travel now lost to the rest of us, told me, 'If I'd gone across by camel when I could have gone by car, it would have been a stunt.' To him, exploration meant bringing back information from a remote place regardless of any great self-discovery."
+     },
+     {
+      "text": "Each definition is slightly different – and tends to reflect the field of endeavour of each pioneer. It was the same whoever I asked: the prominent historian would say exploration was a thing of the past, the cutting-edge scientist would say it was of the present. And so on. They each set their own particular criteria; the common factor in their approach being that they all had, unlike many of us who simply enjoy travel or discovering new things, both a very definite objective from the outset and also a desire to record their findings."
+     },
+     {
+      "text": "I'd best declare my own bias. As a writer, I'm interested in the exploration of ideas. I've done a great many expeditions and each one was unique. I've lived for months alone with isolated groups of people all around the world, even two 'uncontacted tribes'. But none of these things is of the slightest interest to anyone unless, through my books, I've found a new slant, explored a new idea. Why? Because the world has moved on. The time has long passed for the great continental voyages – another walk to the poles, another crossing of the Empty Quarter. We know how the land surface of our planet lies; exploration of it is now down to the details – the habits of microbes, say, or the grazing behaviour of buffalo. Aside from the deep sea and deep underground, it's the era of specialists. However, this is to disregard the role the human mind has in conveying remote places; and this is what interests me: how a fresh interpretation, even of a well-travelled route, can give its readers new insights."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R3-1",
+      "type": "choice",
+      "range": [
+       27,
+       32
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B**, **C** or **D**.",
+       "Write the correct letter in boxes 27–32 on your answer sheet."
+      ],
+      "questions": [
+       {
+        "n": 27,
+        "text": "The writer refers to visitors to New York to illustrate the point that",
+        "options": [
+         {
+          "key": "A",
+          "text": "exploration is an intrinsic element of being human."
+         },
+         {
+          "key": "B",
+          "text": "most people are enthusiastic about exploring."
+         },
+         {
+          "key": "C",
+          "text": "exploration can lead to surprising results."
+         },
+         {
+          "key": "D",
+          "text": "most people find exploration daunting."
+         }
+        ]
+       },
+       {
+        "n": 28,
+        "text": "According to the second paragraph, what is the writer's view of explorers?",
+        "options": [
+         {
+          "key": "A",
+          "text": "Their discoveries have brought both benefits and disadvantages."
+         },
+         {
+          "key": "B",
+          "text": "Their main value is in teaching others."
+         },
+         {
+          "key": "C",
+          "text": "They act on an urge that is common to everyone."
+         },
+         {
+          "key": "D",
+          "text": "They tend to be more attracted to certain professions than to others."
+         }
+        ]
+       },
+       {
+        "n": 29,
+        "text": "The writer refers to a description of Egdon Heath to suggest that",
+        "options": [
+         {
+          "key": "A",
+          "text": "Hardy was writing about his own experience of exploration."
+         },
+         {
+          "key": "B",
+          "text": "Hardy was mistaken about the nature of exploration."
+         },
+         {
+          "key": "C",
+          "text": "Hardy's aim was to investigate people's emotional states."
+         },
+         {
+          "key": "D",
+          "text": "Hardy's aim was to show the attraction of isolation."
+         }
+        ]
+       },
+       {
+        "n": 30,
+        "text": "In the fourth paragraph, the writer refers to 'a golden age' to suggest that",
+        "options": [
+         {
+          "key": "A",
+          "text": "the amount of useful information produced by exploration has decreased."
+         },
+         {
+          "key": "B",
+          "text": "fewer people are interested in exploring than in the 19th century."
+         },
+         {
+          "key": "C",
+          "text": "recent developments have made exploration less exciting."
+         },
+         {
+          "key": "D",
+          "text": "we are wrong to think that exploration is no longer necessary."
+         }
+        ]
+       },
+       {
+        "n": 31,
+        "text": "In the sixth paragraph, when discussing the definition of exploration, the writer argues that",
+        "options": [
+         {
+          "key": "A",
+          "text": "people tend to relate exploration to their own professional interests."
+         },
+         {
+          "key": "B",
+          "text": "certain people are likely to misunderstand the nature of exploration."
+         },
+         {
+          "key": "C",
+          "text": "the generally accepted definition has changed over time."
+         },
+         {
+          "key": "D",
+          "text": "historians and scientists have more valid definitions than the general public."
+         }
+        ]
+       },
+       {
+        "n": 32,
+        "text": "In the last paragraph, the writer explains that he is interested in",
+        "options": [
+         {
+          "key": "A",
+          "text": "how someone's personality is reflected in their choice of places to visit."
+         },
+         {
+          "key": "B",
+          "text": "the human ability to cast new light on places that may be familiar."
+         },
+         {
+          "key": "C",
+          "text": "how travel writing has evolved to meet changing demands."
+         },
+         {
+          "key": "D",
+          "text": "the feelings that writers develop about the places that they explore."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "R3-2",
+      "type": "matching",
+      "range": [
+       33,
+       37
+      ],
+      "instructions": [
+       "Look at the following statements (Questions 33–37) and the list of explorers below.",
+       "Match each statement with the correct explorer, **A–E**.",
+       "Write the correct letter, **A–E**, in boxes 33–37 on your answer sheet.",
+       "**NB** You may use any letter more than once."
+      ],
+      "optionsTitle": "List of Explorers",
+      "options": [
+       {
+        "key": "A",
+        "text": "Peter Fleming"
+       },
+       {
+        "key": "B",
+        "text": "Ran Fiennes"
+       },
+       {
+        "key": "C",
+        "text": "Chris Bonington"
+       },
+       {
+        "key": "D",
+        "text": "Robin Hanbury-Tenison"
+       },
+       {
+        "key": "E",
+        "text": "Wilfred Thesiger"
+       }
+      ],
+      "reuse": true,
+      "questions": [
+       {
+        "n": 33,
+        "text": "He referred to the relevance of the form of transport used."
+       },
+       {
+        "n": 34,
+        "text": "He described feelings on coming back home after a long journey."
+       },
+       {
+        "n": 35,
+        "text": "He worked for the benefit of specific groups of people."
+       },
+       {
+        "n": 36,
+        "text": "He did not consider learning about oneself an essential part of exploration."
+       },
+       {
+        "n": 37,
+        "text": "He defined exploration as being both unique and of value to others."
+       }
+      ]
+     },
+     {
+      "id": "R3-3",
+      "type": "completion",
+      "range": [
+       38,
+       40
+      ],
+      "instructions": [
+       "Complete the summary below.",
+       "Choose **NO MORE THAN TWO WORDS** from the passage for each answer.",
+       "Write your answers in boxes 38–40 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "The writer's own bias"
+       },
+       {
+        "t": "p",
+        "text": "The writer has experience of a large number of {{38}}, and was the first stranger that certain previously {{39}} people had encountered. He believes there is no need for further exploration of Earth's {{40}}, except to answer specific questions such as how buffalo eat."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "answers": {
+   "1": {
+    "a": [
+     "oval"
+    ]
+   },
+   "2": {
+    "a": [
+     "husk"
+    ]
+   },
+   "3": {
+    "a": [
+     "seed"
+    ]
+   },
+   "4": {
+    "a": [
+     "mace"
+    ]
+   },
+   "5": {
+    "a": [
+     "FALSE"
+    ]
+   },
+   "6": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "7": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "8": {
+    "a": [
+     "Arabs"
+    ]
+   },
+   "9": {
+    "a": [
+     "plague"
+    ]
+   },
+   "10": {
+    "a": [
+     "lime"
+    ]
+   },
+   "11": {
+    "a": [
+     "Run"
+    ]
+   },
+   "12": {
+    "a": [
+     "Mauritius"
+    ]
+   },
+   "13": {
+    "a": [
+     "tsunami"
+    ]
+   },
+   "14": {
+    "a": [
+     "C"
+    ]
+   },
+   "15": {
+    "a": [
+     "B"
+    ]
+   },
+   "16": {
+    "a": [
+     "E"
+    ]
+   },
+   "17": {
+    "a": [
+     "G"
+    ]
+   },
+   "18": {
+    "a": [
+     "D"
+    ]
+   },
+   "19": {
+    "a": [
+     "human error"
+    ]
+   },
+   "20": {
+    "a": [
+     "car sharing",
+     "car-sharing"
+    ],
+    "k": "car (-) sharing"
+   },
+   "21": {
+    "a": [
+     "ownership"
+    ]
+   },
+   "22": {
+    "a": [
+     "mileage"
+    ]
+   },
+   "23": {
+    "a": [
+     "C"
+    ]
+   },
+   "24": {
+    "a": [
+     "D"
+    ]
+   },
+   "25": {
+    "a": [
+     "A"
+    ]
+   },
+   "26": {
+    "a": [
+     "E"
+    ]
+   },
+   "27": {
+    "a": [
+     "A"
+    ]
+   },
+   "28": {
+    "a": [
+     "C"
+    ]
+   },
+   "29": {
+    "a": [
+     "C"
+    ]
+   },
+   "30": {
+    "a": [
+     "D"
+    ]
+   },
+   "31": {
+    "a": [
+     "A"
+    ]
+   },
+   "32": {
+    "a": [
+     "B"
+    ]
+   },
+   "33": {
+    "a": [
+     "E"
+    ]
+   },
+   "34": {
+    "a": [
+     "A"
+    ]
+   },
+   "35": {
+    "a": [
+     "D"
+    ]
+   },
+   "36": {
+    "a": [
+     "E"
+    ]
+   },
+   "37": {
+    "a": [
+     "B"
+    ]
+   },
+   "38": {
+    "a": [
+     "unique expeditions",
+     "expeditions"
+    ],
+    "k": "(unique) expeditions"
+   },
+   "39": {
+    "a": [
+     "uncontacted",
+     "isolated"
+    ],
+    "k": "uncontacted / isolated"
+   },
+   "40": {
+    "a": [
+     "land surface",
+     "surface"
+    ],
+    "k": "(land) surface"
+   }
+  }
+ },
+ "writing": {
+  "tasks": [
+   {
+    "task": 1,
+    "minutes": 20,
+    "minWords": 150,
+    "pages": [
+     30
+    ],
+    "prompt": [
+     "The chart below shows the results of a survey about people's coffee and tea buying and drinking habits in five Australian cities.",
+     "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+    ],
+    "image": "images/C15/C15-T1-W1.png",
+    "sample": {
+     "kind": "candidate",
+     "band": "6.0",
+     "text": "The table depicts the outcomes of a questionare of how often people buy and drink a different types of coffee in Sydney, Melbourne, Brisbane, Adelaide, and Hobart of Australia.\n\nThe first option is bought fresh coffee in last 4 weeks. In Sydney has 43.7 per cent of city residents and has almost the same amount as Melbourne which is 42.2 per cent. Brisbane and Adelaide have a nearly same amount, 34.2 per cent and 34.4 per cent. Next, Hobart has 38.3 per cent.\n\nThe second line is bought instant coffee in last 4 weeks. Brisbane has 52.6 per cent. Other two cities that have amost the same number are Adelaide, 49.8 per cent, and Melbourne, 48.3 per cent. The lowest number is 45.5 per cent of Sydney and The highest number is 54.1 per cent of Hobart.\n\nThe last option of the survey shows the percentage of city residents that went to a café for coffee or tea in last 4 weeks. In Sydney, people went to a café for coffee or tea in last 4 weeks 61 per cent of city residents. In Brisbane, citizens went to a café for coffee of tea in last 4 weeks 55.4 per cent. The lowest is Adelaide that shows 49.9 per cent of city residents. In Hobart, people went to a café for coffee of tea in last 4 weeks 62.7 per cent. The highest is Melbourne that shows 63.3 per cent.\n\nIn conclusion, the highest number of the survey is the percentage of city residents that went to a cafe for coffee or tea in last 4 weeks because it shows almost the highest percentage in 3 types.",
+     "comment": "This answer covers all three categories and shows a good level of grouping and comparison of information in each category. The descriptions are supported by accurate data. Organisation is clear (introduction and overview, one paragraph per category) and there is evidence of cohesive devices [*The first option* | *The second line* | *The last option*]. Vocabulary is generally adequate and appropriate for the task, in spite of occasional errors [*questionare* / questionnaire | *amost* / almost]. Grammar shows a mix of simple and complex sentence structures with a reasonable level of accuracy. A wider range of vocabulary and/or grammatical range would help to improve the score here."
+    }
+   },
+   {
+    "task": 2,
+    "minutes": 40,
+    "minWords": 250,
+    "pages": [
+     31
+    ],
+    "prompt": [
+     "Write about the following topic:",
+     "*In some countries, owning a home rather than renting one is very important for people.*",
+     "*Why might this be the case?*",
+     "*Do you think this is a positive or negative situation?*",
+     "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+    ],
+    "sample": {
+     "kind": "candidate",
+     "band": "7.0",
+     "text": "In some countries the ownership of peoples' home is an important matter. In these countries it is very important to own your own home rather than renting it. It might be indifferent for some, but for these people it matter.\n\nWhy is that the case? you might wonder. I think it is because your home is supposed to be exactly what it sounds like, your home. As a human I think we long after having stuff to call our own, doesn't matter what it is, but humans will always want to claim ownership. This is nothing new and it has been like this through human history, like colonies for example, which later once again became the same country as before lead by its own inhabitants. People will always want to be the one to decide what happens to them and when you rent your home you can't even paint it without the owners permission.\n\nIf you as a person are renting an apartment there might be a lot of stressors in your life. A scratched wall can cause you a major headache, because the wall was not yours. The bedroom you are currently sleeping in might not be available as long as you hope, things happen in life and maybe the next landlord won't want to have you as a tenant.\n\nIn other perspective, not owning your home could be a relief when it comes to your finance. As a renter you won't have to pay mortgage, take loans or spend an awful lot of money on buying the property. You wouldn't have to worry about the house market crashing or a natural disaster destroying your expensive home.\n\nBottom line, as a human I feel like we need to have a home and calling it your own can make that more special. I personally would rather own my house, because then whatever happens it is on me and no one else.",
+     "comment": "The candidate clearly explains why home ownership may be of importance to some people. She or he also explores the positive and negative sides of owning your own home before putting forward his or her own opinion. The task is well addressed and ideas are explored in some depth. Organisation is clear, with good use of cohesive devices and paragraphing and the message is easy to follow. The range of vocabulary is appropriate, with examples of less common items [*long after* / for | *house* / housing *market*] and good use of collocations [*claim ownership* | *a major headache* | *pay mortgage* | *natural disaster* | The *bottom line*]. There is a variety of complex sentence structures, with a high level of accuracy and only a minor error in punctuation [*owners* / owner's]."
+    }
+   }
+  ]
+ },
+ "issues": []
+}

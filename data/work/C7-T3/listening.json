@@ -1,0 +1,850 @@
+{
+ "parts": [
+  {
+   "part": 1,
+   "range": [
+    1,
+    10
+   ],
+   "pages": [
+    60,
+    61
+   ],
+   "groups": [
+    {
+     "id": "L1-1",
+     "type": "completion",
+     "range": [
+      1,
+      2
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **NO MORE THAN THREE WORDS AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "note",
+       "text": "*Example* Type of job required: Part-time"
+      },
+      {
+       "t": "p",
+       "text": "Student is studying {{1}}"
+      },
+      {
+       "t": "p",
+       "text": "Student is in the {{2}} year of the course."
+      }
+     ]
+    },
+    {
+     "id": "L1-2",
+     "type": "completion",
+     "range": [
+      3,
+      5
+     ],
+     "instructions": [
+      "Complete the table below.",
+      "Write **NO MORE THAN TWO WORDS** for each answer."
+     ],
+     "content": [
+      {
+       "t": "table",
+       "header": 1,
+       "rows": [
+        [
+         "Position Available",
+         "Where",
+         "Problem"
+        ],
+        [
+         "Receptionist",
+         "in the {{3}}",
+         "evening lectures"
+        ],
+        [
+         "{{4}}",
+         "in the Child Care Centre",
+         "too early"
+        ],
+        [
+         "Clerical Assistant",
+         "in the {{5}}",
+         "evening lectures"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L1-3",
+     "type": "completion",
+     "range": [
+      6,
+      10
+     ],
+     "instructions": [
+      "Complete the form below.",
+      "Write **NO MORE THAN THREE WORDS AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "table",
+       "header": 1,
+       "rows": [
+        [
+         "STUDENT DETAILS",
+         ""
+        ],
+        [
+         "**Name:**",
+         "Anita Newman"
+        ],
+        [
+         "**Address:**",
+         "{{6}}\nRoom No. {{7}}"
+        ],
+        [
+         "**Other skills:**",
+         "Speaks some Japanese"
+        ],
+        [
+         "**Position available:**",
+         "{{8}} at the English Language Centre"
+        ],
+        [
+         "**Duties:**",
+         "Respond to enquiries and\n{{9}}"
+        ],
+        [
+         "**Time of interview:**",
+         "Friday at {{10}} a.m."
+        ]
+       ]
+      }
+     ]
+    }
+   ],
+   "transcript": "AGENT: Good morning.\nSTUDENT: Oh, good morning. Is this... er... room number 26?\nAGENT: Yes, that's right.\nSTUDENT: So is this the Student Job Centre?\nAGENT: It certainly is. How can I help you?\nSTUDENT: Well, actually I'm looking for a job – a part-time job. Do you have anything available at the moment?\nAGENT: Ah, yes... Are you a registered student? I'm afraid this service is only available to full-time students.\nSTUDENT: Yes... I am. I'm doing a degree in Business Studies. Here's my [Q1] student card.\nAGENT: Which year are you in?\nSTUDENT: Well... I've been at uni for four years but I'm in the Third Year [Q2] because I took last year off.\nAGENT: Right... well, let's just have a look at what positions are available at the moment. There's a job working at the reception desk at the Sports [Q3] Centre, for three evenings a week – that's Wednesdays, Thursdays and Fridays.\nSTUDENT: That sounds like fun but unfortunately I have evening lectures – so that's not possible, I'm afraid. Is there anything during the day?\nAGENT: OK, that's no good then. Um. What about cleaning? There's a position for a cleaner at the Child Care Centre. [Q4]\nSTUDENT: Right...\nAGENT: But you'd need to be there at 6 am. Does that appeal?\nSTUDENT: Six o'clock in the morning! Oh, that's far too early for me, I'm afraid. I'd never make it that early in the morning.\nAGENT: Mmm... Well – there was a position going in the Computer Lab. for three days a week that might be OK. Ah, here it is! No, it's in the [Q5] Library, not the Lab., Clerical Assistant required – I think it mostly involves putting the books back on the shelves. Oh no – hang on. It's for Wednesday and Friday evenings again.\nSTUDENT: No – I can't manage that because of the lectures.\nAGENT: OK, I'm getting the idea. Look, I'll just get a few details from you anyway, and then we can check through the list and see what comes up.\nAGENT: We'll fill in the personal details on this application form first, if that's OK?\nSTUDENT: Yes, that's fine.\nAGENT: Now, what's your name again?\nSTUDENT: Anita Newman – that's N-E-W-M-A-N.\nAGENT: And your address, Anita?\nSTUDENT: I'm in one of the Halls of Residence for post-graduate students, you know, International House. [Q6]\nAGENT: OK – that's easy. What's your room number there?\nSTUDENT: Room B569 – no sorry B659. I always get that wrong. I haven't been [Q7] living there very long.\nAGENT: Do you have any other skills? Typing, languages, that sort of thing?\nSTUDENT: Well, I speak some Japanese.\nAGENT: Right, I'll make a note of that. Now – let's see what else is available. What do you think of administrative work? There is a position for an Office Assistant at the English Language Centre. [Q8]\nSTUDENT: That sounds interesting.\nAGENT: It's for 3 days a week – Monday, Friday and Saturday mornings. Interested?\nSTUDENT: Mmm. I was hoping to have Saturdays free. But I need the work so... can you tell me what the job involves?\nAGENT: Yes, sure. It says here that you'll be required to deal with student enquiries and answer the phone. [Q9]\nSTUDENT: I'm sure I can handle all that without a problem.\nAGENT: Great. Well, would you like me to arrange an interview for you? Say, Friday morning, around ten?\nSTUDENT: Could we make it a bit later? Unfortunately, I've got something to do at ten. Would that be OK?\nAGENT: Not a problem. How about eleven thirty? Hope it works out for you [Q10] Anita.\nSTUDENT: Me too. And thanks for all your help."
+  },
+  {
+   "part": 2,
+   "range": [
+    11,
+    20
+   ],
+   "pages": [
+    62,
+    63
+   ],
+   "groups": [
+    {
+     "id": "L2-1",
+     "type": "choice",
+     "range": [
+      11,
+      11
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "title": "SPONSORED WALKING HOLIDAY",
+     "questions": [
+      {
+       "n": 11,
+       "text": "On the holiday, you will be walking for",
+       "options": [
+        {
+         "key": "A",
+         "text": "6 days."
+        },
+        {
+         "key": "B",
+         "text": "8 days."
+        },
+        {
+         "key": "C",
+         "text": "10 days."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L2-2",
+     "type": "choice",
+     "range": [
+      12,
+      12
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "image": "images/C7/C7-T3-L2-q12-pies.png",
+     "questions": [
+      {
+       "n": 12,
+       "text": "What proportion of the sponsorship money goes to charity?",
+       "options": [
+        {
+         "key": "A",
+         "text": ""
+        },
+        {
+         "key": "B",
+         "text": ""
+        },
+        {
+         "key": "C",
+         "text": ""
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L2-3",
+     "type": "choice",
+     "range": [
+      13,
+      16
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "questions": [
+      {
+       "n": 13,
+       "text": "Each walker's sponsorship money goes to one",
+       "options": [
+        {
+         "key": "A",
+         "text": "student."
+        },
+        {
+         "key": "B",
+         "text": "teacher."
+        },
+        {
+         "key": "C",
+         "text": "school."
+        }
+       ]
+      },
+      {
+       "n": 14,
+       "text": "When you start the trek you must be",
+       "options": [
+        {
+         "key": "A",
+         "text": "interested in getting fit."
+        },
+        {
+         "key": "B",
+         "text": "already quite fit."
+        },
+        {
+         "key": "C",
+         "text": "already very fit."
+        }
+       ]
+      },
+      {
+       "n": 15,
+       "text": "As you walk you will carry",
+       "options": [
+        {
+         "key": "A",
+         "text": "all of your belongings."
+        },
+        {
+         "key": "B",
+         "text": "some of your belongings."
+        },
+        {
+         "key": "C",
+         "text": "none of your belongings."
+        }
+       ]
+      },
+      {
+       "n": 16,
+       "text": "The Semira Region has a long tradition of",
+       "options": [
+        {
+         "key": "A",
+         "text": "making carpets."
+        },
+        {
+         "key": "B",
+         "text": "weaving blankets."
+        },
+        {
+         "key": "C",
+         "text": "carving wood."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L2-4",
+     "type": "completion",
+     "range": [
+      17,
+      20
+     ],
+     "instructions": [
+      "Complete the form below.",
+      "Write **ONE WORD ONLY** for each answer."
+     ],
+     "content": [
+      {
+       "t": "table",
+       "header": 1,
+       "rows": [
+        [
+         "ITINERARY",
+         ""
+        ],
+        [
+         "Day 1",
+         "arrive in Kishba"
+        ],
+        [
+         "Day 2",
+         "rest day"
+        ],
+        [
+         "Day 3",
+         "spend all day in a\n{{17}}"
+        ],
+        [
+         "Day 4",
+         "visit a school"
+        ],
+        [
+         "Day 5",
+         "rest day"
+        ],
+        [
+         "Day 6",
+         "see a {{18}} with old carvings"
+        ],
+        [
+         "Day 7",
+         "rest day"
+        ],
+        [
+         "Day 8",
+         "swim in a {{19}}"
+        ],
+        [
+         "Day 9",
+         "visit a {{20}}"
+        ],
+        [
+         "Day 10",
+         "depart from Kishba"
+        ]
+       ]
+      }
+     ]
+    }
+   ],
+   "transcript": "Good morning. I'm very pleased to have been invited along to your club to talk about our Charity Sponsored Walking Holiday for Education Aid. I'll start by giving you a brief overview of what it entails. First of all let me explain what we mean by 'sponsored' here. This is where people promise to donate money to the charity if you achieve your goal, in this case to walk a certain number of miles.\nBasically we are organizing a ten-day holiday, from the sixth to the sixteenth of November, with eight days actual walking, trekking in the Semira Mountains. [Q11]\nLet's have a look at some of the details. We require you to raise sponsorship money of at least $3,200, paying $250 of it up front as a deposit and the rest in stages throughout the year. Out of this about thirty-five per cent will go on your expenses, and that leaves sixty-five per cent [Q12] guaranteed to go to the charity.\nWhich brings me to the most important part. This trek is being specifically organized to help education in the Semira region. Last year we helped train teachers for the disabled, and this year we're focusing on the pupils. Each of the walkers' sponsorship money will go to help an [Q13] individual special needs pupil in one of the mountain schools. In the second part of the talk I'll be giving you a lot more details, but back to the basic information.\nAge limits. This is the second time we have run this kind of holiday and um, on the first we even had an eighty-year old, but we found it was wise to establish limits this time. You have to be at least eighteen and the top limit is now seventy, though you need to obtain a health certificate from your doctor if you are over sixty years old.\nNow, the Semira Mountains are among the highest in the world but you mustn't be too daunted, we will mainly be trekking in the foothills only, although there will be spectacular views even in the foothills. However, you will need to be extremely fit if you aren't now and [Q14] you're interested in coming with us. You have plenty of time to get into shape. You will be sleeping in tents so you must have quite a bit of equipment with you but you will be helped by local assistants. Your bedding and so forth will be carried by them. We ask that you only [Q15] walk with a small rucksack with needs for the day.\nI don't think I've really said enough about the marvellous area you'll be walking in. Let's have a look at some of the sights you'll be seeing. Apart from these spectacular snow-covered peaks and valleys, there are marvellous historic villages. The area has been famous for centuries for making beautiful carpets, although recently there has been a trend to move [Q16] into weaving blankets and wood carving. The people are extremely friendly and welcoming. We deliberately keep the parties small in size to minimize disruption to people and landscape.\nI hope that there are still some people interested. I will be distributing leaflets at the end where you can find out more information, but just for the moment I'll outline the itinerary, the main high points of the holiday. Obviously, you'll start by flying out to Kishba, the capital city, on Day One. After a couple of days to acclimatize yourself, you'll start the trek on Day Three walking through the enormous Katiba Forest which will take the whole of the [Q17] day. Day Four takes us higher up, going through the foothills past a number of villages and visiting a school for the disabled in Sohan. Then you have a rest day, that's Day Five, before going to the spectacular Kumi Temple with twelfth-century carvings, set in a small forest by [Q18] a lake and that's Day Six, the highlight for many. We stay near there for Day Seven because then comes the hardest day, walking through very mountainous country, but culminating in a swim in the Parteh Falls. This is the highest waterfall in the region. Day Nine is much easier, [Q19] with part of the day spent in a village where they make some of the gorgeous red blankets. [Q20] Then back down to Kishba and the journey home.\nSo you can see it's a pretty packed timetable..."
+  },
+  {
+   "part": 3,
+   "range": [
+    21,
+    30
+   ],
+   "pages": [
+    64,
+    65,
+    66
+   ],
+   "groups": [
+    {
+     "id": "L3-1",
+     "type": "completion",
+     "range": [
+      21,
+      22
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **ONE WORD AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "OCEAN RESEARCH"
+      },
+      {
+       "t": "sub",
+       "text": "The Robotic Float Project"
+      },
+      {
+       "t": "li",
+       "text": "Float is shaped like a {{21}}"
+      },
+      {
+       "t": "li",
+       "text": "Scientists from {{22}} have worked on the project so far"
+      }
+     ]
+    },
+    {
+     "id": "L3-2",
+     "type": "completion",
+     "range": [
+      23,
+      25
+     ],
+     "instructions": [
+      "Complete the diagram below.",
+      "Write **ONE WORD AND/OR A NUMBER** for each answer."
+     ],
+     "image": "images/C7/C7-T3-L3-diagram.png",
+     "content": [
+      {
+       "t": "h",
+       "text": "THE OPERATIONAL CYCLE"
+      },
+      {
+       "t": "p",
+       "text": "Float dropped into ocean and {{23}} by satellite"
+      },
+      {
+       "t": "p",
+       "text": "Average distance travelled: {{24}}"
+      },
+      {
+       "t": "p",
+       "text": "Float records changes in salinity and {{25}}"
+      }
+     ]
+    },
+    {
+     "id": "L3-3",
+     "type": "matching",
+     "range": [
+      26,
+      30
+     ],
+     "instructions": [
+      "In what time period can data from the float projects help with the following things?",
+      "Write the correct letter, **A**, **B** or **C**, next to questions 26–30."
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "At present"
+      },
+      {
+       "key": "B",
+       "text": "In the near future"
+      },
+      {
+       "key": "C",
+       "text": "In the long-term future"
+      }
+     ],
+     "reuse": true,
+     "questions": [
+      {
+       "n": 26,
+       "text": "understanding of El Niño"
+      },
+      {
+       "n": 27,
+       "text": "understanding of climate change"
+      },
+      {
+       "n": 28,
+       "text": "naval rescues"
+      },
+      {
+       "n": 29,
+       "text": "sustainable fishing practices"
+      },
+      {
+       "n": 30,
+       "text": "crop selection"
+      }
+     ]
+    }
+   ],
+   "transcript": "SIMON: Thanks to all of you for coming along today to hear about how the robotic float project is helping with ocean research. Well, first of all we'll look at what a robotic float does and its use. So let's start with the device itself. It looks a bit like a cigar and it's about one and a half [Q21] metres long. More importantly it's full of equipment that's designed to collect data. So, it can help us in building up a profile of different factors which work together within the world's oceans.\nSTUDENT 1: Sounds like a big project – isn't it too big for one country to undertake?\nSIMON: That's quite true but this project is a really good example of international co-operation. Over the last five years scientists from thirteen countries have been taking part in the project and launching [Q22] floats in their area of ocean control. And next year this number will rise to fourteen when Indonesia joins the project.\nSTUDENT 2: That's impressive.\nSIMON: But let's move onto how floats work.\nSIMON: The operational cycle goes like this. Each of the floats is dropped in the ocean from a boat at a set point and activated from a satellite. [Q23] Then the float immediately sinks about 2,000 metres... that's two whole kilometres down in the water. It stays at this depth for about 10 days and is carried around by the currents which operate in the ocean at this level. During this time it's possible for it to cover quite large distances but the average is fifty kilometres. [Q24]\nSTUDENT 2: So what is it actually recording?\nSIMON: Well at this stage nothing, but as it rises to the surface it collects all sorts of data, most importantly variations in salinity, that's salt levels, and the changes in temperature, a bit like underwater weather balloons. [Q25] Then when it gets back to the surface all the data it's collected is beamed up to the satellite. After about five hours on the surface the float automatically sinks, beginning the whole process again.\nSTUDENT 1: What happens to the data?\nSIMON: Well the information is transferred direct to onshore meteorological stations... like our one in Hobart... and within four hours the findings can be on computers and they can be mapped and analysed.\nSTUDENT 2: You say you're building models of the world's ocean systems but how're they going to be used, and more importantly, when?\nSIMON: Some of the data has already helped in completing projects. For [Q26] example, our understanding of the underlying causes of El Niño events is being confirmed by float data. Another way we're using float data is to help us to understand the mechanics of climate change, like [Q27] global warming and ozone depletion. That's part of an ongoing variability study but the results are still a long way off. However, this is not the case with our ocean weather forecasting. Because we know from the floats what the prevailing weather conditions will be in certain parts of the ocean, we can advise the navy on search and rescue missions. That's happening right now and [Q28] many yachtsmen owe their lives to the success of this project. In addition, the float data can help us to look at the biological implications of ocean processes.\nSTUDENT 1: Would that help with preserving fish stocks? [Q29]\nSIMON: Yes, and advising governments on fisheries legislation. We're well on the way to completing a project on this. We hope it will help to bring about more sustainable fishing practices. We'll be seeing the results of that quite soon.\nSTUDENT 2: It sounds like the data from floats has lots of applications.\nSIMON: Yes it does. It's also a powerful agricultural tool. If we were aware of what the weather would be like, say, next year, we could make sure that the farmers planted appropriate grain varieties to produce the best yield from the available rainfall.\nSTUDENT 1: That sounds a bit like science fiction, especially when now we can't even tell them when a drought will break.\nSIMON: I agree that this concept is still a long way in the future, but it will [Q30] come eventually and the float data will have made a contribution."
+  },
+  {
+   "part": 4,
+   "range": [
+    31,
+    40
+   ],
+   "pages": [
+    67,
+    68
+   ],
+   "groups": [
+    {
+     "id": "L4-1",
+     "type": "choice",
+     "range": [
+      31,
+      34
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "title": "Hotels and the tourist industry",
+     "questions": [
+      {
+       "n": 31,
+       "text": "According to the speaker, how might a guest feel when staying in a luxury hotel?",
+       "options": [
+        {
+         "key": "A",
+         "text": "impressed with the facilities"
+        },
+        {
+         "key": "B",
+         "text": "depressed by the experience"
+        },
+        {
+         "key": "C",
+         "text": "concerned at the high costs"
+        }
+       ]
+      },
+      {
+       "n": 32,
+       "text": "According to recent research, luxury hotels overlook the need to",
+       "options": [
+        {
+         "key": "A",
+         "text": "provide for the demands of important guests."
+        },
+        {
+         "key": "B",
+         "text": "create a comfortable environment."
+        },
+        {
+         "key": "C",
+         "text": "offer an individual and personal welcome."
+        }
+       ]
+      },
+      {
+       "n": 33,
+       "text": "The company focused their research on",
+       "options": [
+        {
+         "key": "A",
+         "text": "a wide variety of hotels."
+        },
+        {
+         "key": "B",
+         "text": "large, luxury hotel chains."
+        },
+        {
+         "key": "C",
+         "text": "exotic holiday hotels."
+        }
+       ]
+      },
+      {
+       "n": 34,
+       "text": "What is the impact of the outside environment on a hotel guest?",
+       "options": [
+        {
+         "key": "A",
+         "text": "It has a considerable effect."
+        },
+        {
+         "key": "B",
+         "text": "It has a very limited effect."
+        },
+        {
+         "key": "C",
+         "text": "It has no effect whatsoever."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L4-2",
+     "type": "completion",
+     "range": [
+      35,
+      40
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **ONE WORD ONLY** for each answer."
+     ],
+     "content": [
+      {
+       "t": "p",
+       "text": "A company providing luxury serviced apartments aims to:"
+      },
+      {
+       "t": "li",
+       "text": "cater specifically for {{35}} travellers"
+      },
+      {
+       "t": "li",
+       "text": "provide a stylish {{36}} for guests to use"
+      },
+      {
+       "t": "li",
+       "text": "set a trend throughout the {{37}} which becomes permanent"
+      },
+      {
+       "t": "p",
+       "text": "Traditional holiday hotels attract people by:"
+      },
+      {
+       "t": "li",
+       "text": "offering the chance to {{38}} their ordinary routine life"
+      },
+      {
+       "t": "li",
+       "text": "making sure that they are cared for in all respects – like a {{39}}"
+      },
+      {
+       "t": "li",
+       "text": "leaving small treats in their rooms – e.g. cosmetics or {{40}}"
+      }
+     ]
+    }
+   ],
+   "transcript": "Good morning everyone. Today's lecture forms part of the Hospitality and Tourism module. Last week I looked at the economy end of the hotel business; this week I'm going to discuss the luxury end of the market. Let's consider the following scenario...\nYou wake up in the middle of the night in a strange hotel miles away from home, disoriented most probably from jet lag, when even the most expensive surroundings can seem empty and [Q31] dispiriting. You have paid a great deal of money to stay in this first-class hotel with its contemporary technology, but according to recent research carried out by an international travel and public relations company, all is not well. The research suggests that even the most opulent, luxurious hotels seem to have underestimated the most basic needs of their customers – be they travelling for work or pleasure: the need to feel at home in surroundings [Q32] which are both familiar and inviting.\nDo these findings, however, apply only to hotels situated in particular areas? Is it possible that the external environment can affect a guest's well-being? The company's research covered a whole range of different hotel types, both independent hotels and those which are part of [Q33] large chains. They investigated chic so-called boutique hotels in the heart of downtown business districts, stately mansions located in the depths of beautiful countryside, and plush hotels built at the edge of tropical beaches surrounded by palm trees and idyllic blue ocean. And the research concluded that what was outside the hotel building simply didn't matter. [Q34] This is a fascinating revelation and those of you hoping to move into careers in the travel and leisure industry would be well advised to look at the findings in more detail.\nBut back to the main point of this lecture... the need to feel at home. What can the hotel industry do about it? And is the very idea so subjective that it's impossible to do *anything* about it on a global basis?\nHowever, nothing stands still in this world. One company has come up with the slogan 'Take Your Home With You', and aims to provide clients with luxury serviced apartments. Those in the business travel industry maintain that these serviced apartments dispense with all the unwanted and expensive hotel services that business travellers don't want, while maximising [Q35] the facilities they do want. For example, not only sleeping and living accommodation, but also a sleek modern kitchen that allows guests to cook and entertain if they wish, at no [Q36] additional cost. The attractions of such facilities are obvious and it'll be interesting to see whether the company manages to establish a trend all over the world and make a lasting [Q37] impact on the luxury accommodation market.\nNow, finally I want to consider the psychology underpinning the traditional holiday hotel industry. As a hotelier, how do you go about attracting people to give up the security of their own home and entrust themselves to staying in a completely strange place and sleeping in an unfamiliar bed? Firstly, hotels exploit people's need to escape the predictability of their [Q38] everyday lives. For a few days people can pretend they are free of responsibilities and can indulge themselves. Secondly, there is something very powerful in our need to be pampered and looked after, it's almost as if we return to being a baby, when everything was done for us [Q39] and we felt safe and secure. And not far removed from this is the pleasure in being spoilt and given little treats – like the miniscule bottles of shampoo and tiny bars of soap, the [Q40] chocolate on your pillow at night – and we actually forget that we are paying for it all!\nNext week, I'm going to look at eco-hotels, a fairly new phenomenon but increasingly popular..."
+  }
+ ],
+ "issues": [
+  "Listening Q11–16 are one printed group (\"SPONSORED WALKING HOLIDAY\"); split into three choice groups so that Q12's options (three pie charts A, B, C, shaded area = 'Money going to charity') can be shown as the group image; Q12 option texts are empty.",
+  "Listening Section 3 diagram (Q23–25) carries a blue 'www.luckbar.com.cn' watermark stamp in the scan; it remains visible in the crop."
+ ],
+ "answers": {
+  "1": {
+   "a": [
+    "business"
+   ]
+  },
+  "2": {
+   "a": [
+    "third",
+    "3rd"
+   ],
+   "k": "third"
+  },
+  "3": {
+   "a": [
+    "Sport Centre",
+    "Sports Centre"
+   ],
+   "k": "Sport(s) Centre"
+  },
+  "4": {
+   "a": [
+    "a cleaner",
+    "cleaner"
+   ],
+   "k": "(a) cleaner"
+  },
+  "5": {
+   "a": [
+    "Library"
+   ]
+  },
+  "6": {
+   "a": [
+    "International House"
+   ]
+  },
+  "7": {
+   "a": [
+    "B659"
+   ]
+  },
+  "8": {
+   "a": [
+    "an office assistant",
+    "office assistant"
+   ],
+   "k": "(an) office assistant"
+  },
+  "9": {
+   "a": [
+    "answer the phone",
+    "answer phone"
+   ],
+   "k": "answer (the) phone"
+  },
+  "10": {
+   "a": [
+    "11.30"
+   ]
+  },
+  "11": {
+   "a": [
+    "B"
+   ]
+  },
+  "12": {
+   "a": [
+    "C"
+   ]
+  },
+  "13": {
+   "a": [
+    "A"
+   ]
+  },
+  "14": {
+   "a": [
+    "C"
+   ]
+  },
+  "15": {
+   "a": [
+    "B"
+   ]
+  },
+  "16": {
+   "a": [
+    "A"
+   ]
+  },
+  "17": {
+   "a": [
+    "forest"
+   ]
+  },
+  "18": {
+   "a": [
+    "temple"
+   ]
+  },
+  "19": {
+   "a": [
+    "waterfall"
+   ]
+  },
+  "20": {
+   "a": [
+    "village"
+   ]
+  },
+  "21": {
+   "a": [
+    "cigar"
+   ]
+  },
+  "22": {
+   "a": [
+    "13 different countries",
+    "13 countries"
+   ],
+   "k": "13 (different) countries"
+  },
+  "23": {
+   "a": [
+    "activated"
+   ]
+  },
+  "24": {
+   "a": [
+    "50 km",
+    "50 kms"
+   ],
+   "k": "50 km(s)"
+  },
+  "25": {
+   "a": [
+    "temperature"
+   ]
+  },
+  "26": {
+   "a": [
+    "A"
+   ]
+  },
+  "27": {
+   "a": [
+    "C"
+   ]
+  },
+  "28": {
+   "a": [
+    "A"
+   ]
+  },
+  "29": {
+   "a": [
+    "B"
+   ]
+  },
+  "30": {
+   "a": [
+    "C"
+   ]
+  },
+  "31": {
+   "a": [
+    "B"
+   ]
+  },
+  "32": {
+   "a": [
+    "B"
+   ]
+  },
+  "33": {
+   "a": [
+    "A"
+   ]
+  },
+  "34": {
+   "a": [
+    "C"
+   ]
+  },
+  "35": {
+   "a": [
+    "business"
+   ]
+  },
+  "36": {
+   "a": [
+    "kitchen"
+   ]
+  },
+  "37": {
+   "a": [
+    "world"
+   ]
+  },
+  "38": {
+   "a": [
+    "escape"
+   ]
+  },
+  "39": {
+   "a": [
+    "baby"
+   ]
+  },
+  "40": {
+   "a": [
+    "chocolate"
+   ]
+  }
+ }
+}

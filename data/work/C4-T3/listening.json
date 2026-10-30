@@ -1,0 +1,1036 @@
+{
+ "parts": [
+  {
+   "part": 1,
+   "range": [
+    1,
+    10
+   ],
+   "pages": [
+    57,
+    58
+   ],
+   "groups": [
+    {
+     "id": "L1-1",
+     "type": "completion",
+     "range": [
+      1,
+      4
+     ],
+     "instructions": [
+      "Complete the form below.",
+      "Write **NO MORE THAN THREE WORDS AND/OR NUMBERS** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Accommodation Request Form"
+      },
+      {
+       "t": "note",
+       "text": "*Example*"
+      },
+      {
+       "t": "p",
+       "text": "Name: *Sara Lim*"
+      },
+      {
+       "t": "p",
+       "text": "Age: 23"
+      },
+      {
+       "t": "p",
+       "text": "Length of time in Australia: {{1}}"
+      },
+      {
+       "t": "p",
+       "text": "Present address: Flat 1,"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "539, {{2}} Road"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "Canterbury 2036"
+      },
+      {
+       "t": "p",
+       "text": "Present course: {{3}} English"
+      },
+      {
+       "t": "p",
+       "text": "Accommodation required from: {{4}},"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "7th September"
+      }
+     ]
+    },
+    {
+     "id": "L1-2",
+     "type": "choice",
+     "range": [
+      5,
+      7
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "questions": [
+      {
+       "n": 5,
+       "text": "Sara requires a",
+       "options": [
+        {
+         "key": "A",
+         "text": "single room."
+        },
+        {
+         "key": "B",
+         "text": "twin room."
+        },
+        {
+         "key": "C",
+         "text": "triple room."
+        }
+       ]
+      },
+      {
+       "n": 6,
+       "text": "She would prefer to live with a",
+       "options": [
+        {
+         "key": "A",
+         "text": "family."
+        },
+        {
+         "key": "B",
+         "text": "single person."
+        },
+        {
+         "key": "C",
+         "text": "couple."
+        }
+       ]
+      },
+      {
+       "n": 7,
+       "text": "She would like to live in a",
+       "options": [
+        {
+         "key": "A",
+         "text": "flat."
+        },
+        {
+         "key": "B",
+         "text": "house."
+        },
+        {
+         "key": "C",
+         "text": "studio apartment."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L1-3",
+     "type": "completion",
+     "range": [
+      8,
+      10
+     ],
+     "instructions": [
+      "Complete the sentences below.",
+      "Write **NO MORE THAN ONE WORD** for each answer."
+     ],
+     "content": [
+      {
+       "t": "p",
+       "text": "The {{8}} will be $320."
+      },
+      {
+       "t": "p",
+       "text": "She needs to pay the rent by cash or cheque on a {{9}} basis."
+      },
+      {
+       "t": "p",
+       "text": "She needs to pay her part of the {{10}} bill."
+      }
+     ]
+    }
+   ],
+   "transcript": "LYNDA: Sara, I've heard that you want to move into a homestay family. Is that correct?\nSARA: Yes, that's right. I've been staying with my aunt and now my cousin is arriving from Singapore and my aunt needs the room for him.\nLYNDA: Oh, that's bad luck. Well, I'll need to get some particulars first. Sara, what's your full name?\nSARA: Sara Lim, and that's Sara without the 'h' at the end.\nLYNDA: Mmm. How old are you, Sara?\nSARA: Twenty-three, only just. It was my birthday on the twenty-first of August.\nLYNDA: Happy birthday for yesterday. How long have you been in Australia?\nSARA: A year in Adelaide and six months in Sydney. I prefer Sydney, I've got more [Q1] friends here.\nLYNDA: What's your address at your aunt's house?\nSARA: Flat one, five three nine Forest Road, Canterbury. And the post code is two, [Q2] o, three, six.\nLYNDA: OK. What are you studying now?\nSARA: I was studying General English in Adelaide and now I'm doing Academic [Q3] English, because I'm trying to get into Medicine next year.\nLYNDA: That sounds good, but it'll take you a long time. When would you like to move out from your aunt's?\nSARA: My cousin arrives on Friday morning, so I'd better be out on Thursday. [Q4]\nLYNDA: What, the seventh of September?\nSARA: Yes, that's right.\nLYNDA: That doesn't leave us much time. Right, OK. I need to know what kind of accommodation you'd like, so I can get you something suitable.\nSARA: Can I share a room with someone else? I've been alone in my room at my aunt's [Q5] and I've always shared with my sister and I like that.\nLYNDA: Yes, fine. That'll save you money too. Would you like to live with a family or do you think that a single person would be better for you? I have lots of very nice [Q6] single people on my books.\nSARA: Do you have any women living alone, retired women?\nLYNDA: Yes, I have quite a few whose children have grown up and left home. In fact, I have some really lovely retired ladies, living by themselves, who just love the company of students. Most of them live in flats, but that's not a problem for you, [Q7] is it?\nSARA: Not at all. I'm used to that. My aunt lives in a flat too, remember. I'm not used to a big house with a garden, swimming pool, pets and all that.\nLYNDA: OK, fine. I know quite a bit about what you want now. I should let you know that your rent will be a hundred and sixty dollars per week. You'll have to pay me three hundred and twenty dollars as a deposit before you move in. The [Q8] deposit is as insurance, in case you break something. You'll need to pay monthly [Q9] to me, by cash or cheque, I don't mind. You don't need to pay for gas, electricity or water, but you will need to pay your proportion of the phone bill. Most [Q10] families do that on an honour system, but you'll have to wait and see.\nSARA: Mmm.\nLYNDA: Have you got any more questions for me?\nSARA: When will you know where I can go?\nLYNDA: I'll work on it now, so come and see me tomorrow and I should have some news for you then.\nSARA: Thanks a lot.\nLYNDA: Goodbye. See you tomorrow – after lunch would be better for me.\nSARA: OK, see you then. Bye."
+  },
+  {
+   "part": 2,
+   "range": [
+    11,
+    20
+   ],
+   "pages": [
+    59,
+    60
+   ],
+   "groups": [
+    {
+     "id": "L2-1",
+     "type": "choice",
+     "range": [
+      11,
+      14
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "questions": [
+      {
+       "n": 11,
+       "text": "When is this year's festival being held?",
+       "options": [
+        {
+         "key": "A",
+         "text": "1–13 January"
+        },
+        {
+         "key": "B",
+         "text": "5–17 January"
+        },
+        {
+         "key": "C",
+         "text": "25–31 January"
+        }
+       ]
+      },
+      {
+       "n": 12,
+       "text": "What will the reviewer concentrate on today?",
+       "options": [
+        {
+         "key": "A",
+         "text": "theatre"
+        },
+        {
+         "key": "B",
+         "text": "dance"
+        },
+        {
+         "key": "C",
+         "text": "exhibitions"
+        }
+       ]
+      },
+      {
+       "n": 13,
+       "text": "How many circuses are there in the festival?",
+       "options": [
+        {
+         "key": "A",
+         "text": "one"
+        },
+        {
+         "key": "B",
+         "text": "two"
+        },
+        {
+         "key": "C",
+         "text": "several"
+        }
+       ]
+      },
+      {
+       "n": 14,
+       "text": "Where does Circus Romano perform?",
+       "options": [
+        {
+         "key": "A",
+         "text": "in a theatre"
+        },
+        {
+         "key": "B",
+         "text": "in a tent"
+        },
+        {
+         "key": "C",
+         "text": "in a stadium"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L2-2",
+     "type": "completion",
+     "range": [
+      15,
+      20
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **NO MORE THAN THREE WORDS** for each answer."
+     ],
+     "content": [
+      {
+       "t": "table",
+       "header": 1,
+       "rows": [
+        [
+         "",
+         "Where",
+         "Type of performance",
+         "Highlights",
+         "Type of audience"
+        ],
+        [
+         "Circus Romano",
+         "",
+         "Clowns and acrobats",
+         "Music and {{15}}",
+         "{{16}}"
+        ],
+        [
+         "Circus Electrica",
+         "{{17}}",
+         "Dancers and magicians",
+         "Aerial displays",
+         "{{18}}"
+        ],
+        [
+         "Mekong Water Puppets",
+         "{{19}}",
+         "Puppets",
+         "Seeing the puppeteers at the end",
+         "{{20}}"
+        ]
+       ]
+      }
+     ]
+    }
+   ],
+   "transcript": "GEOFFREY: Good evening, and in this week's edition of 'Focus on the Arts', Jane Hemmington is going to fill us in on what's in store for us at this year's Summer Festival. Over to you, Jane.\nJANE: Thank you, Geoffrey. This year, the Summer Festival is the biggest we've ever seen, so there should be something for everybody. This is the third year they've run it and the timing's slightly different: for the last couple of years it's been around the fifth to seventeenth, but this year they wanted to allow everyone enough time to recover from the first of January celebrations and they've put it at the end of the month. [Q11] The programme has sensational theatre, dance and also a large number of art exhibitions, but the thing the Festival is most famous for is its great street music. For today's report though, Geoffrey, I'm looking at some of the theatrical events that you might like to see; in particular, at this year's [Q12] theme – circuses. I'm going to tell you about two circus performances, but there are plenty [Q13] of others in the programme. I've chosen these because they represent distinct movements within circus performance. The first is the Circus Romano from Italy. As this is a travelling circus, it follows a long tradition by performing in a marquee – which is really like a canvas portable building [Q14] usually put up in a green space or car park, rather than in a theatre or stadium. In spite of this, Circus Romano isn't at all like the traditional circuses I grew up with. There are no animals – just very talented clowning and acrobatic routines. The show has a lot of very funny moments, especially at the beginning, but the best part is the music and lighting. They're magical. At [Q15] forty-five dollars it's very expensive anyway – it's really for adult tastes. In [Q16] fact, much of it would be wasted on children – so I suggest you leave them at home. The second circus performance is Circus Electrica at the Studio Theatre. [Q17] The purists are suggesting that this isn't a circus at all. It's a showcase for skills in dance and magic, rather than the usual ones you expect in a circus. With only six performers it's a small production, which suits the venue well – the Studio only seats about two hundred people. For my money it's the aerial displays which are outstanding as well as the magical tricks – features which are missing from Circus Romano. An interesting feature of the show is that the performers are so young – the youngest is only fourteen. But it's still well worth seeing: a good one for the whole family. [Q18] And finally, as it's summer, you may wish to see some of the Festival performances that are being presented outdoors. Like the famous Mekong Water Puppet Troupe, performing in the City Gardens this week. Now, water [Q19] puppetry is amazing! It's large puppets on long sticks, controlled by puppeteers standing waist deep in the lake. The puppets do comedy routines and there is some terrific formation dancing. This is a fantastic show and the best moment comes at the end – seeing the puppeteers. When the troupe walks up out of the water, you get this amazing feeling. It's really hard to believe that what you've been watching is lifeless wood and cloth. As an adult, I had a great time, but I did note that other older people in the audience weren't quite as taken with it as I was. It's a must for young children though, [Q20] and that's the audience it's really aimed at. Well, that's all I've time for today, but I'll be back next week with more news of what's worth seeing and what it's best to miss."
+  },
+  {
+   "part": 3,
+   "range": [
+    21,
+    30
+   ],
+   "pages": [
+    61,
+    62
+   ],
+   "groups": [
+    {
+     "id": "L3-1",
+     "type": "choice",
+     "range": [
+      21,
+      25
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "questions": [
+      {
+       "n": 21,
+       "text": "The man wants information on courses for",
+       "options": [
+        {
+         "key": "A",
+         "text": "people going back to college."
+        },
+        {
+         "key": "B",
+         "text": "postgraduate students."
+        },
+        {
+         "key": "C",
+         "text": "business executives."
+        }
+       ]
+      },
+      {
+       "n": 22,
+       "text": "The 'Study for Success' seminar lasts for",
+       "options": [
+        {
+         "key": "A",
+         "text": "one day."
+        },
+        {
+         "key": "B",
+         "text": "two days."
+        },
+        {
+         "key": "C",
+         "text": "three days."
+        }
+       ]
+      },
+      {
+       "n": 23,
+       "text": "In the seminar the work on writing aims to improve",
+       "options": [
+        {
+         "key": "A",
+         "text": "confidence."
+        },
+        {
+         "key": "B",
+         "text": "speed."
+        },
+        {
+         "key": "C",
+         "text": "clarity."
+        }
+       ]
+      },
+      {
+       "n": 24,
+       "text": "Reading sessions help students to read",
+       "options": [
+        {
+         "key": "A",
+         "text": "analytically."
+        },
+        {
+         "key": "B",
+         "text": "as fast as possible."
+        },
+        {
+         "key": "C",
+         "text": "thoroughly."
+        }
+       ]
+      },
+      {
+       "n": 25,
+       "text": "The seminar tries to",
+       "options": [
+        {
+         "key": "A",
+         "text": "prepare learners physically."
+        },
+        {
+         "key": "B",
+         "text": "encourage interest in learning."
+        },
+        {
+         "key": "C",
+         "text": "develop literacy skills."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L3-2",
+     "type": "choice",
+     "range": [
+      26,
+      30
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "questions": [
+      {
+       "n": 26,
+       "text": "A key component of the course is learning how to",
+       "options": [
+        {
+         "key": "A",
+         "text": "use time effectively."
+        },
+        {
+         "key": "B",
+         "text": "stay healthy."
+        },
+        {
+         "key": "C",
+         "text": "select appropriate materials."
+        }
+       ]
+      },
+      {
+       "n": 27,
+       "text": "Students who want to do the 'Study for Success' seminar should",
+       "options": [
+        {
+         "key": "A",
+         "text": "register with the Faculty Office."
+        },
+        {
+         "key": "B",
+         "text": "contact their Course Convenor."
+        },
+        {
+         "key": "C",
+         "text": "reserve a place in advance."
+        }
+       ]
+      },
+      {
+       "n": 28,
+       "text": "The 'Learning Skills for University Study' course takes place on",
+       "options": [
+        {
+         "key": "A",
+         "text": "Monday, Wednesday and Friday."
+        },
+        {
+         "key": "B",
+         "text": "Monday, Tuesday and Wednesday."
+        },
+        {
+         "key": "C",
+         "text": "Monday, Thursday and Friday."
+        }
+       ]
+      },
+      {
+       "n": 29,
+       "text": "A feature of this course is",
+       "options": [
+        {
+         "key": "A",
+         "text": "a physical training component."
+        },
+        {
+         "key": "B",
+         "text": "advice on coping with stress."
+        },
+        {
+         "key": "C",
+         "text": "a detailed weekly planner."
+        }
+       ]
+      },
+      {
+       "n": 30,
+       "text": "The man chooses the 'Study for Success' seminar because",
+       "options": [
+        {
+         "key": "A",
+         "text": "he is over forty."
+        },
+        {
+         "key": "B",
+         "text": "he wants to start at the beginning."
+        },
+        {
+         "key": "C",
+         "text": "he seeks to revise his skills."
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "transcript": "OFFICER: Hello. Er, I'm Dawn Matthews.\nSTUDENT: Yes, hello. I've been referred to you because I'm enquiring about the refresher courses that you run. I'd like to find out a bit more about them.\nOFFICER: OK. Well, we run quite a few different short courses for students who are either returning to study or studying part-time. Um, tell me about your [Q21] situation.\nSTUDENT: Well, I think that I really need some help in preparing for the coming semester, especially to build up my confidence a bit and help me study effectively because, you see, I've been out in the work-force for nearly twelve years now, so it really is a long time since I was last a student.\nOFFICER: Yes, it can seem like a long time, can't it? Um, well, let me start by telling you what courses we have that might suit you. Are you an undergraduate or a postgraduate? Arts or Sciences?\nSTUDENT: Undergraduate, and I'm in the Business faculty.\nOFFICER: Right then. First of all, there's our intensive 'Study for Success' seminar on the first and second of February. It's aimed at students like you who are [Q22] uncertain about what to expect at college, and looks at a fairly wide range of approaches to university learning, to motivate you to begin your study and build on your own learning strategies.\nSTUDENT: Mm, that sounds good. What are some of the strategies that are presented?\nOFFICER: Well, we try to cover all aspects of study. Some of the strategies in writing, for example, would be improving your planning for writing, organising your thinking and building some techniques to help you write more clearly. With [Q23] reading, there'll be sessions aimed at getting into the habit of analysing [Q24] material as you read it, and tips to help you record and remember what you have read. It really is very important to begin reading confidently right from the beginning.\nSTUDENT: Mm.\nOFFICER: There's also advice on how to get the most from your lectures and practice in giving confident presentations, as well as how to prepare for exams.\nSTUDENT: What about the motivational side of things?\nOFFICER: Ah. Well, there's a range of motivational exercises that we do to help the students feel positive and enthusiastic about their study. The process of [Q25] learning and exploring a subject can lead to a whole new way of looking at the world, and the study skills and techniques that you build up can be applied in all sorts of different ways.\nSTUDENT: Actually, I... I'm very excited about the whole thing of taking up studying again but, you know, I'm a little nervous about whether I'll manage to get everything done. I suppose it's the same for all mature students?\nOFFICER: Of course it is. Two of the key components of the course are time management [Q26] and overcoming procrastination. People discover that, once they learn to plan their days, all the work can be accomplished and there'll still be time for leisure.\nSTUDENT: Is there an enrolment fee?\nOFFICER: Well, er, oh, just a minute, let's see ... Ah, the cost is thirty pounds, which includes all course materials and morning tea. You have to arrange your own lunch.\nSTUDENT: That wouldn't be a problem. I already make sandwiches for my three kids and my wife and myself every day. I won't have to change my routine.\nOFFICER: No. Now, I need to tell you that this is a very popular course and it's essential that you book well ahead of time. In fact, the Course Convenor tells me that [Q27] there are only five places left.\nSTUDENT: What other course might be good for me?\nOFFICER: There is one other that you could benefit from. It's simply called 'Learning Skills for University Study' and is on three consecutive mornings starting on [Q28] a Monday, from nine to twelve, and costs twenty-five pounds. This is aimed at upgrading the study skills most school-leavers have and help them cope with the increased demands of university study. It focuses mainly on making students more responsible for their own success.\nSTUDENT: What sort of things are covered in this course?\nOFFICER: Well, basically it's more advanced thinking, note-taking, reading and writing strategies, but also some input about stress management. [Q29]\nSTUDENT: I think I'd be better off starting from the basics and looking at all the [Q30] strategies, don't you?\nOFFICER: Yes, from what you've told me, I think that's more in line with your situation.\nSTUDENT: Alright then, um, can I book a place on the 'Study for Success' seminar course now?\nOFFICER: Yes. Let me just get out a registration form and take down your details."
+  },
+  {
+   "part": 4,
+   "range": [
+    31,
+    40
+   ],
+   "pages": [
+    63,
+    64
+   ],
+   "groups": [
+    {
+     "id": "L4-1",
+     "type": "completion",
+     "range": [
+      31,
+      32
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **NO MORE THAN TWO WORDS AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "New Union Building"
+      },
+      {
+       "t": "sub",
+       "text": "Procedures to establish student opinion:"
+      },
+      {
+       "t": "li",
+       "text": "students were asked to give written suggestions on the building's design"
+      },
+      {
+       "t": "li",
+       "text": "these points informed the design of a {{31}}"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "(there were {{32}} respondents)"
+      },
+      {
+       "t": "li",
+       "text": "results collated and report produced by Union Committee"
+      }
+     ]
+    },
+    {
+     "id": "L4-2",
+     "type": "completion",
+     "range": [
+      33,
+      37
+     ],
+     "instructions": [
+      "Complete the table below.",
+      "Write **NO MORE THAN THREE WORDS** for each answer."
+     ],
+     "content": [
+      {
+       "t": "table",
+       "header": 2,
+       "rows": [
+        [
+         "",
+         "CHOICE OF SITE",
+         "",
+         ""
+        ],
+        [
+         "",
+         "Site One",
+         "Site Two",
+         "Site Three"
+        ],
+        [
+         "Location",
+         "City centre near Faculty of {{33}}",
+         "Outskirts near park",
+         "Out of town near the {{34}}"
+        ],
+        [
+         "Advantages and/or disadvantages",
+         "Problems with {{35}}",
+         "Close to {{36}}",
+         "Access to living quarters. Larger site, so more {{37}}"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L4-3",
+     "type": "completion",
+     "range": [
+      38,
+      38
+     ],
+     "instructions": [
+      "Choose **TWO** letters **A–G**."
+     ],
+     "content": [
+      {
+       "t": "p",
+       "text": "Which **TWO** facilities did the students request in the new Union building? {{38}}"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "**A** a library"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "**B** a games room"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "**C** a student health centre"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "**D** a mini fitness centre"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "**E** a large swimming pool"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "**F** a travel agency"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "**G** a lecture theatre"
+      }
+     ]
+    },
+    {
+     "id": "L4-4",
+     "type": "choice",
+     "range": [
+      39,
+      39
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "questions": [
+      {
+       "n": 39,
+       "text": "Which argument was used **AGAINST** having a drama theatre?",
+       "options": [
+        {
+         "key": "A",
+         "text": "It would be expensive and no students would use it."
+        },
+        {
+         "key": "B",
+         "text": "It would be a poor use of resources because only a minority would use it."
+        },
+        {
+         "key": "C",
+         "text": "It could not accommodate large productions of plays."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L4-5",
+     "type": "completion",
+     "range": [
+      40,
+      40
+     ],
+     "instructions": [
+      "Choose **TWO** letters **A–E**."
+     ],
+     "content": [
+      {
+       "t": "p",
+       "text": "Which **TWO** security measures have been requested? {{40}}"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "**A** closed-circuit TV"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "**B** show Union Card on entering the building"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "**C** show Union Card when asked"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "**D** spot searches of bags"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "**E** permanent Security Office on site"
+      }
+     ]
+    }
+   ],
+   "transcript": "We're very grateful that the Committee has agreed that a representative for the Students' Union can present students' suggestions about the design for the proposed new Union building. We appreciate that some of our ideas may not be feasible in the circumstances, but we do feel that it is important that the ultimate beneficiaries of the facilities should have some say in its design.\nIf I could start by briefly explaining what steps were taken to find out student opinion and how we have arrived at conclusions. Firstly, a meeting was held in the current Union for our SU Committee to explain the options. Then we invited all students to submit written suggestions for the design, placing cards in a suggestion box. These suggestions then provided the basis for the design of a questionnaire, which was completed by approximately [Q31] [Q32] two thousand of the College students over a period of three weeks. Finally, the SU Committee collated the results and drew up a report. If I can just hand around a copy of that report. This presentation is essentially a summary and discussion of the key points of this report.\nSo, in broad terms, the consensus was as follows. Firstly, regarding the crucial matter of the site, we presented the three options that you have proposed. One: in the city centre, near the Faculty of Education; two: on the outskirts of the city, near the park, and three: out of [Q33] town, near the halls of residence. We asked students to cite reasons for and against these [Q34] sites and, and there was remarkable agreement on all three. Site One was unpopular because of traffic and parking problems. Site Two had a number of supporters, mainly [Q35] because it was close to most lecture rooms. And Site Three, out of town, near the halls of [Q36] residence, was clearly the most popular because of access from living quarters. It was clear that the Union was mainly to be used after lectures. It was also felt that the larger site would allow more room for a choice of facilities. [Q37]\nOur second area of interest was obviously the facilities: there was minimal interest in having a library on the premises, but one option seemed to be a reading room instead – more useful. We would like the current table games room to be replaced with a small gym. [Q38] And, if possible, a small swimming pool – not, of course, Olympic-sized! There was a large number of respondents in favour of a travel agent's and insurance centre. We also request that there be the offices of the Student Counselling Centre, moving this from the Refectory. There was, however, much disagreement about whether to build a drama theatre. Just over forty per cent of the respondents were in favour, but a largish minority were strongly against it, claiming that it is elitist and a waste of funds. Essentially the jury is out on that. [Q39]\nFinally, given the number of unfortunate incidents in the current Union over the past few months, a strong point was repeatedly made about security. The recommendations would be at least video surveillance and security personnel who would check Student Union cards on [Q40] request. We doubt if it would be feasible to have a check at reception of all people coming in.\nWell, this is the summary of the views of the student population. As I say, fuller details are given in our report but I'm happy to take any questions if you have them... (fade out)"
+  }
+ ],
+ "answers": {
+  "1": {
+   "a": [
+    "1½ years",
+    "1.5 years",
+    "one and a half years"
+   ],
+   "k": "1½ years"
+  },
+  "2": {
+   "a": [
+    "Forest",
+    "Forrest"
+   ],
+   "k": "Forest / Forrest"
+  },
+  "3": {
+   "a": [
+    "Academic"
+   ]
+  },
+  "4": {
+   "a": [
+    "Thursday"
+   ]
+  },
+  "5": {
+   "a": [
+    "B"
+   ]
+  },
+  "6": {
+   "a": [
+    "B"
+   ]
+  },
+  "7": {
+   "a": [
+    "A"
+   ]
+  },
+  "8": {
+   "a": [
+    "deposit"
+   ]
+  },
+  "9": {
+   "a": [
+    "monthly"
+   ]
+  },
+  "10": {
+   "a": [
+    "telephone",
+    "phone"
+   ],
+   "k": "telephone / phone"
+  },
+  "11": {
+   "a": [
+    "C"
+   ]
+  },
+  "12": {
+   "a": [
+    "A"
+   ]
+  },
+  "13": {
+   "a": [
+    "C"
+   ]
+  },
+  "14": {
+   "a": [
+    "B"
+   ]
+  },
+  "15": {
+   "a": [
+    "lighting",
+    "lights",
+    "light"
+   ],
+   "k": "lighting / lights / light"
+  },
+  "16": {
+   "a": [
+    "adult",
+    "adults"
+   ],
+   "k": "adult / adults"
+  },
+  "17": {
+   "a": [
+    "Studio Theatre",
+    "at Studio Theatre",
+    "the Studio Theatre",
+    "at the Studio Theatre",
+    "Studio Theater",
+    "at Studio Theater",
+    "the Studio Theater",
+    "at the Studio Theater"
+   ],
+   "k": "(at) Studio Theatre / (the) Studio Theatre / (at) Studio Theater / (the) Studio Theater"
+  },
+  "18": {
+   "a": [
+    "the whole family",
+    "all the family",
+    "families"
+   ],
+   "k": "the whole family / all the family / families"
+  },
+  "19": {
+   "a": [
+    "City Gardens",
+    "in City Gardens",
+    "the City Gardens",
+    "in the City Gardens",
+    "outdoors"
+   ],
+   "k": "(in) City Gardens / the City Gardens / outdoors"
+  },
+  "20": {
+   "a": [
+    "young children",
+    "younger children",
+    "children"
+   ],
+   "k": "young children / younger children / children"
+  },
+  "21": {
+   "a": [
+    "A"
+   ]
+  },
+  "22": {
+   "a": [
+    "B"
+   ]
+  },
+  "23": {
+   "a": [
+    "C"
+   ]
+  },
+  "24": {
+   "a": [
+    "A"
+   ]
+  },
+  "25": {
+   "a": [
+    "B"
+   ]
+  },
+  "26": {
+   "a": [
+    "A"
+   ]
+  },
+  "27": {
+   "a": [
+    "C"
+   ]
+  },
+  "28": {
+   "a": [
+    "B"
+   ]
+  },
+  "29": {
+   "a": [
+    "B"
+   ]
+  },
+  "30": {
+   "a": [
+    "B"
+   ]
+  },
+  "31": {
+   "a": [
+    "questionnaire"
+   ]
+  },
+  "32": {
+   "a": [
+    "approximately 2,000",
+    "about 2,000",
+    "approximately 2000",
+    "about 2000"
+   ],
+   "k": "approximately 2,000 / about 2,000"
+  },
+  "33": {
+   "a": [
+    "Education"
+   ]
+  },
+  "34": {
+   "a": [
+    "halls of residence",
+    "living quarters"
+   ],
+   "k": "halls of residence / living quarters"
+  },
+  "35": {
+   "a": [
+    "traffic and parking",
+    "parking and traffic",
+    "traffic parking",
+    "parking traffic"
+   ],
+   "k": "IN EITHER ORDER, BOTH REQUIRED FOR ONE MARK traffic parking"
+  },
+  "36": {
+   "a": [
+    "most lecture rooms",
+    "lecture rooms",
+    "lecture halls",
+    "lecture theatres",
+    "lecture theaters"
+   ],
+   "k": "(most) lecture rooms / lecture halls / lecture theatres / lecture theaters"
+  },
+  "37": {
+   "a": [
+    "choice of facilities",
+    "facilities",
+    "room for facilities"
+   ],
+   "k": "(choice of) facilities / (room for) facilities"
+  },
+  "38": {
+   "a": [
+    "D F",
+    "F D",
+    "D, F",
+    "F, D",
+    "D,F",
+    "F,D",
+    "DF",
+    "FD",
+    "D and F",
+    "F and D"
+   ],
+   "k": "IN EITHER ORDER, BOTH REQUIRED FOR ONE MARK D F"
+  },
+  "39": {
+   "a": [
+    "B"
+   ]
+  },
+  "40": {
+   "a": [
+    "A C",
+    "C A",
+    "A, C",
+    "C, A",
+    "A,C",
+    "C,A",
+    "AC",
+    "CA",
+    "A and C",
+    "C and A"
+   ],
+   "k": "IN EITHER ORDER, BOTH REQUIRED FOR ONE MARK A C"
+  }
+ },
+ "issues": [
+  "Listening Q35: the table cell prints two dotted lines ('35 ...... and ......') for a single question (key: traffic, parking – in either order, both required for one mark); rendered as one gap {{35}} accepting 'traffic and parking' etc.",
+  "Listening Q38 and Q40: each is a single question number printed as 'Choose TWO letters' with the key 'IN EITHER ORDER, BOTH REQUIRED FOR ONE MARK' (Q38: D, F; Q40: A, C). The schema's multi type needs one question number per letter, so each is rendered as a completion group with the lettered list as text and one gap accepting both letters in either order (e.g. 'D F', 'F, D', 'D and F')."
+ ]
+}

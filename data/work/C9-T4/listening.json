@@ -1,0 +1,825 @@
+{
+ "parts": [
+  {
+   "part": 1,
+   "range": [
+    1,
+    10
+   ],
+   "pages": [
+    84,
+    85
+   ],
+   "groups": [
+    {
+     "id": "L1-1",
+     "type": "completion",
+     "range": [
+      1,
+      4
+     ],
+     "instructions": [
+      "Complete the table below.",
+      "Write **ONE WORD ONLY** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Health Centres"
+      },
+      {
+       "t": "table",
+       "header": 1,
+       "rows": [
+        [
+         "Name of centre",
+         "Doctor's name",
+         "Advantage"
+        ],
+        [
+         "The Harvey Clinic",
+         "*Example* Dr *Green*",
+         "especially good with {{1}}"
+        ],
+        [
+         "The {{2}} Health Practice",
+         "Dr Fuller",
+         "offers {{3}} appointments"
+        ],
+        [
+         "The Shore Lane Health Centre",
+         "Dr {{4}}",
+         ""
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L1-2",
+     "type": "multi",
+     "range": [
+      5,
+      6
+     ],
+     "n": [
+      5,
+      6
+     ],
+     "select": 2,
+     "instructions": [
+      "Choose **TWO** letters, **A–E**."
+     ],
+     "text": "Which **TWO** of the following are offered free of charge at Shore Lane Health Centre?",
+     "options": [
+      {
+       "key": "A",
+       "text": "acupuncture"
+      },
+      {
+       "key": "B",
+       "text": "employment medicals"
+      },
+      {
+       "key": "C",
+       "text": "sports injury therapy"
+      },
+      {
+       "key": "D",
+       "text": "travel advice"
+      },
+      {
+       "key": "E",
+       "text": "vaccinations"
+      }
+     ]
+    },
+    {
+     "id": "L1-3",
+     "type": "completion",
+     "range": [
+      7,
+      10
+     ],
+     "instructions": [
+      "Complete the table below.",
+      "Write **NO MORE THAN TWO WORDS AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Talks for patients at Shore Lane Health Centre"
+      },
+      {
+       "t": "table",
+       "header": 1,
+       "rows": [
+        [
+         "Subject of talk",
+         "Date/Time",
+         "Location",
+         "Notes"
+        ],
+        [
+         "Giving up smoking",
+         "25th February at 7pm",
+         "room 4",
+         "useful for people with asthma or {{7}} problems"
+        ],
+        [
+         "Healthy eating",
+         "1st March at 5pm",
+         "the {{8}} (Shore Lane)",
+         "anyone welcome"
+        ],
+        [
+         "Avoiding injuries during exercise",
+         "9th March at {{9}}",
+         "room 6",
+         "for all {{10}}"
+        ]
+       ]
+      }
+     ]
+    }
+   ],
+   "transcript": "WOMAN: Can I help you?\nMAN: Yes, I've just moved to this area with my wife and children and I'd like to know where we can all register with a doctor at a Health Centre.\nWOMAN: Okay. Well, there's Doctor Green at The Harvey Clinic. We always recommend her for babies, because she's very good with them and she runs a special clinic. [Q1]\nMAN: Oh... actually my youngest child is five, so that wouldn't be any good for us.\nWOMAN: Right.\nMAN: Is there anywhere else I could try?\nWOMAN: Yes, the Eshcol Health Practice is the next one on my list. [Q2]\nMAN: How do you spell that?\nWOMAN: E-S-H-C-O-L. And it's Doctor Fuller, who has space on his list. The clinic only opened a year ago, so the facilities are all very modern.\nMAN: That sounds good.\nWOMAN: And it's particularly good if you're busy during the day, because they also do appointments in the evening. [Q3] They're closed on Saturday, though. The only other place on the list is the Health Centre on Shore Lane. You can register with Doctor Gormley, that's G-O-R-M-L-E-Y. He's new there, but the centre has a very good reputation. [Q4]\nMAN: Oh yes, I think I know the road. That would be the best one. Thanks. Could you tell me, will all their services be free?\nWOMAN: Erm ... there are usually some small charges that doctors make. Let me see what it says about the Shore Lane Centre. If you need to be vaccinated before any trips abroad, you won't have to pay for this. [Q5/Q6] Erm, what else? The sports injury treatment service operates on a paying basis, as does the nutritional therapy service. Some health centres do offer alternative therapies like homeopathy as part of their pay-to-use service. Shore Lane are hoping to do this soon - I think they may start with acupuncture. And finally, if you need to prove you're healthy or haven't had any serious injuries before a new employer will accept you, you can get a free fitness check-up there, but you'd most likely have to pay for insurance medicals though. [Q5/Q6]\nMAN: Okay, thanks.\nWOMAN: You might also be interested to know the Centre is running a pilot scheme of talks for patients. I've got the list here. Actually, they look very interesting.\nMAN: What sort of things?\nWOMAN: Well, the first one's about giving up smoking. It's next week, the twenty-fifth of February, at 7 pm, and that's in Room 4. It says, the talk will stress the health benefits particularly for people with asthma or heart disease. [Q7]\nMAN: That sounds very interesting.\nWOMAN: There's also a talk for families with children. It's on Healthy Eating, and takes place on the first of March at five o'clock.\nMAN: Will that be at the Health Centre?\nWOMAN: Erm, actually it's at the primary school on Shore Lane. I imagine they're inviting the parents of pupils there - it says here 'all welcome'. [Q8]\nMAN: Mmm, I might go to that if I have time.\nWOMAN: There's a couple of other talks - one giving advice about how to avoid injuries while doing exercise. It's on the ninth of March. Oh, it's a late afternoon talk, at four thirty, and it'll be in Room 6. It also says the talk is suitable for all ages. [Q9] And finally, there's a talk called 'Stress Management' which is ... [Q10]"
+  },
+  {
+   "part": 2,
+   "range": [
+    11,
+    20
+   ],
+   "pages": [
+    86,
+    87,
+    88
+   ],
+   "groups": [
+    {
+     "id": "L2-1",
+     "type": "matching",
+     "range": [
+      11,
+      13
+     ],
+     "instructions": [
+      "Label the diagram below.",
+      "Choose **THREE** answers from the box and write the correct letter, **A–E**, next to questions 11–13."
+     ],
+     "image": "images/C9/C9-T4-L2-diagram.png",
+     "options": [
+      {
+       "key": "A",
+       "text": "electricity indicator"
+      },
+      {
+       "key": "B",
+       "text": "on/off switch"
+      },
+      {
+       "key": "C",
+       "text": "reset button"
+      },
+      {
+       "key": "D",
+       "text": "time control"
+      },
+      {
+       "key": "E",
+       "text": "warning indicator"
+      }
+     ],
+     "questions": [
+      {
+       "n": 11,
+       "text": "11"
+      },
+      {
+       "n": 12,
+       "text": "12"
+      },
+      {
+       "n": 13,
+       "text": "13"
+      }
+     ]
+    },
+    {
+     "id": "L2-2",
+     "type": "matching",
+     "range": [
+      14,
+      18
+     ],
+     "instructions": [
+      "Where can each of the following items be found?",
+      "Choose **FIVE** answers from the box and write the correct letter, **A–G**, next to questions 14–18."
+     ],
+     "optionsTitle": "Locations",
+     "options": [
+      {
+       "key": "A",
+       "text": "in box on washing machine"
+      },
+      {
+       "key": "B",
+       "text": "in cupboard on landing"
+      },
+      {
+       "key": "C",
+       "text": "in chest of drawers"
+      },
+      {
+       "key": "D",
+       "text": "next to window in living room"
+      },
+      {
+       "key": "E",
+       "text": "on shelf by back door"
+      },
+      {
+       "key": "F",
+       "text": "on top of television"
+      },
+      {
+       "key": "G",
+       "text": "under kitchen sink"
+      }
+     ],
+     "questions": [
+      {
+       "n": 14,
+       "text": "pillows"
+      },
+      {
+       "n": 15,
+       "text": "washing powder"
+      },
+      {
+       "n": 16,
+       "text": "key"
+      },
+      {
+       "n": 17,
+       "text": "light bulbs"
+      },
+      {
+       "n": 18,
+       "text": "map"
+      }
+     ]
+    },
+    {
+     "id": "L2-3",
+     "type": "completion",
+     "range": [
+      19,
+      20
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **ONE WORD AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "p",
+       "text": "The best place to park in town – next to the station"
+      },
+      {
+       "t": "p",
+       "text": "Phone number for takeaway pizzas – {{19}}"
+      },
+      {
+       "t": "p",
+       "text": "Railway museum closed on {{20}}"
+      }
+     ]
+    }
+   ],
+   "transcript": "MAN: Hello?\nWOMAN: Hi. It's Laura Carlton here. We've just arrived at the holiday flat, but I can't get the hot water and heating to work.\nMAN: Oh right! That's easy. Don't worry. In the upstairs cupboard, you'll find the water heater. You'll see three main controls on the left at the bottom of the heater. The first one - the round one on the far left - is the most important one for the heating and hot water. [Q11] It's the main control switch. Make sure it's in the 'on' position. The switch itself doesn't light up, but the little square below will be black if the switch is 'off'. That's probably what's happened - it's got switched off by mistake. The middle one of these three controls - you'll see it's slightly larger than the first one - controls the radiators. If you feel cold while you're there and need the radiators on, this needs to be turned to maximum. The last of the three controls - the one on the right - is usually on about a number four setting which for the water in the taps is usually quite hot enough. Below the heating controls in the middle is a small round plastic button. If there isn't enough water in the pipes, sometimes the heater goes out. [Q12] If this happens you'll need to press this button to reset the heater. Hold it in for about five seconds and the heater should come on again. [Q12] Then there's a little square indicator under the third knob that's a kind of alarm light. It'll flash if you need to reset the heater. [Q13]\nWOMAN: It sounds complicated ...\nMAN: I'm sure you won't have any problems with it. There should be some more instructions on the side of the heater. Call me back if you can't make it work.\nWOMAN: Okay.\nWOMAN: While you're on the phone, we haven't managed to find a few things we need, like extra pillows for the beds and some washing powder. Is there any here?\nMAN: Pillows... yes. If you look in the cupboard, the large white one upstairs - to the left of the bathroom door - there should be four or five on the top shelf. [Q14] And if you want to do some washing, there's some powder for that ... probably by the back door. There's a kind of shelf there above the sink. [Q15] In fact, I'm sure there's some there, in a large blue box. You need about half a cup full for each wash. And that reminds me, the spare key to the back door is hanging on a hook on the wall by the sitting room window. [Q16] Please make sure to put it back when you've used it. The previous guests lost it in the garden and I had to get another one made! And if you have any trouble with the lamps, you'll find some spare bulbs in a large cardboard box. It's on top of the washing machine with all kinds of useful things in it. [Q17] Oh, and another thing I forgot to mention when we last spoke ...\nWOMAN: Yes?\nMAN: I've left you a local map, so you'll be able to find your way around easily. It shows the whole area. [Q18] I put it in the top drawer of the chest under the TV in your bedroom. There's a whole file of local information in there too.\nWOMAN: Thanks. What about visiting the town? Can you give us any advice?\nMAN: Yes. You'll need to take the car. It's too far to walk from the flat really. You have to pay to leave your car in all the car parks now I'm afraid... I like the one that's by the station best and you can walk to the town centre from there in five minutes. That's where all the best restaurants are. But if you want a takeaway, the Italian one does really good pasta and pizzas. Call 7-3 double 2.8-1 for that one, or 7 double 6, double 1, 9 for the Chinese. [Q19] They're both good and they'll both deliver to the flat. As for places to visit, yes, do go and see the railway museum. The exhibition is small but really good. It gets very crowded on Sundays, so I suggest you visit it on a quieter day, later in the week, but not on Thursdays which is market day - you won't find anywhere to park and it's also the only day of the week when they're not open! [Q20] Anything else?\nWOMAN: Not for the moment. Thanks!"
+  },
+  {
+   "part": 3,
+   "range": [
+    21,
+    30
+   ],
+   "pages": [
+    89,
+    90
+   ],
+   "groups": [
+    {
+     "id": "L3-1",
+     "type": "choice",
+     "range": [
+      21,
+      22
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "questions": [
+      {
+       "n": 21,
+       "text": "In her home country, Kira had",
+       "options": [
+        {
+         "key": "A",
+         "text": "completed a course."
+        },
+        {
+         "key": "B",
+         "text": "done two years of a course."
+        },
+        {
+         "key": "C",
+         "text": "found her course difficult."
+        }
+       ]
+      },
+      {
+       "n": 22,
+       "text": "To succeed with assignments, Kira had to",
+       "options": [
+        {
+         "key": "A",
+         "text": "read faster"
+        },
+        {
+         "key": "B",
+         "text": "write faster."
+        },
+        {
+         "key": "C",
+         "text": "change her way of thinking"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L3-2",
+     "type": "completion",
+     "range": [
+      23,
+      25
+     ],
+     "instructions": [
+      "Complete the sentences below.",
+      "Write **ONE WORD ONLY** for each answer."
+     ],
+     "content": [
+      {
+       "t": "p",
+       "text": "Kira says that lectures are easier to {{23}} than those in her home country."
+      },
+      {
+       "t": "p",
+       "text": "Paul suggests that Kira may be more {{24}} than when she was studying before."
+      },
+      {
+       "t": "p",
+       "text": "Kira says that students want to discuss things that worry them or that {{25}} them very much."
+      }
+     ]
+    },
+    {
+     "id": "L3-3",
+     "type": "completion",
+     "range": [
+      26,
+      30
+     ],
+     "instructions": [
+      "Answer the questions below.",
+      "Write **NO MORE THAN THREE WORDS AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "p",
+       "text": "How did the students do their practical sessions? {{26}}"
+      },
+      {
+       "t": "p",
+       "text": "In the second semester how often did Kira work in a hospital? {{27}}"
+      },
+      {
+       "t": "p",
+       "text": "How much full-time work did Kira do during the year? {{28}}"
+      },
+      {
+       "t": "p",
+       "text": "Having completed the year, how does Kira feel? {{29}}"
+      },
+      {
+       "t": "p",
+       "text": "In addition to the language, what do overseas students need to become familiar with? {{30}}"
+      }
+     ]
+    }
+   ],
+   "transcript": "PAUL: Hello, Kira, how are you?\nKIRA: Fine thanks, Paul, how are you?\nPAUL: Well, thanks. It's good to see you. It must be twelve months since you did our course?\nKIRA: That's right. It's nice to come back and say hello.\nPAUL: What course did you enrol in?\nKIRA: Actually, I went straight into third year Pharmacy. They credited me with two years, which probably made it more difficult for me.\nPAUL: On the other hand, you were lucky to be granted credits. Is that why you chose the course?\nKIRA: Yes. And, as I'd already finished a course in it in my country, I thought it would be easier if I studied something I already knew. [Q21]\nPAUL: I didn't realise you went into third year. I thought you started in first year. No wonder it was so hard! And what do you think is one of the big differences between studying at a university here and studying in your country?\nKIRA: Well, I've found it very difficult to write assignments, because I wasn't familiar with that aspect of the system here. The main problem is that the lecturers expect you to be critical. That made me feel really terrible. I thought \"How can I possibly do it? How can I comment on someone else's research when they probably spent five years doing it?\" I think a lot of people who come from overseas countries have similar problems. But after a while it became easier for me. People expect you to have problems with the process of reading and writing but, in fact, it is more a question of altering your viewpoint towards academic study. [Q22]\nPAUL: How was the content of the lectures? Was it easy for you?\nKIRA: I didn't really have many problems understanding lectures. The content was very similar to what I'd studied before.\nPAUL: And what about the lecturers themselves? Are they essentially the same as lecturers in your country?\nKIRA: Well actually, no. Here, they're much easier to approach. After every lecture you can go and ask them something you didn't understand. [Q23] Or you can make an appointment and talk to them about anything in the course.\nPAUL: Maybe you found them different because you're a more mature student now, whereas when you were studying in your country you were younger and not so assertive. [Q24]\nKIRA: No, I don't think that's the difference. Most of the students here do it. In my faculty, they all seem to make appointments - usually to talk about something in the course that's worrying them, but sometimes just about something that might really interest them, something they might want to specialise in. [Q25] The lecturers must set aside certain times every week when they're available for students.\nPAUL: That's good to hear.\nPAUL: And how was your timetable? Was it a very busy year?\nKIRA: Very, very busy. They make you work very hard. Apart from lectures, we had practical sessions in a lot of subjects. We did these in small groups. [Q26] I had to go and work four hours every week in a community pharmacy. Actually, I enjoyed this very much - meeting new people all the time. Then in second semester, we had to get experience in hospital dispensaries, so every second day we went to one of the big hospitals and worked there. [Q27] And on top of all that we had our assignments, which took me a lot of time. Oh, I nearly forgot, between first and second semesters, we had to work full-time for two weeks in a hospital. [Q28]\nPAUL: That does sound a very heavy year. So are you pleased now that you did it? Do you feel some sense of achievement?\nKIRA: Yeah, I do feel much more confident, which I suppose is the most important thing. [Q29]\nPAUL: And have you got any recommendations for people who are studying from overseas?\nKIRA: Well, I suppose they need very good English. It would be much better if they spent more time learning English before they enter the university, because you can be in big trouble if you don't understand what people are saying and you haven't got time to translate.\nPAUL: Anything else?\nKIRA: Well, as I said before, the biggest problem for me was a lack of familiarity with the education system here. [Q30]\nPAUL: It sounds as if it was a real challenge. Congratulations, Kira.\nKIRA: Thanks, Paul."
+  },
+  {
+   "part": 4,
+   "range": [
+    31,
+    40
+   ],
+   "pages": [
+    91,
+    92
+   ],
+   "groups": [
+    {
+     "id": "L4-1",
+     "type": "choice",
+     "range": [
+      31,
+      36
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "title": "Wildlife in city gardens",
+     "questions": [
+      {
+       "n": 31,
+       "text": "What led the group to choose their topic?",
+       "options": [
+        {
+         "key": "A",
+         "text": "They were concerned about the decline of one species."
+        },
+        {
+         "key": "B",
+         "text": "They were interested in the effects of city growth."
+        },
+        {
+         "key": "C",
+         "text": "They wanted to investigate a recent phenomenon."
+        }
+       ]
+      },
+      {
+       "n": 32,
+       "text": "The exact proportion of land devoted to private gardens was confirmed by",
+       "options": [
+        {
+         "key": "A",
+         "text": "consulting some official documents."
+        },
+        {
+         "key": "B",
+         "text": "taking large-scale photos."
+        },
+        {
+         "key": "C",
+         "text": "discussions with town surveyors."
+        }
+       ]
+      },
+      {
+       "n": 33,
+       "text": "The group asked garden owners to",
+       "options": [
+        {
+         "key": "A",
+         "text": "take part in formal interviews."
+        },
+        {
+         "key": "B",
+         "text": "keep a record of animals they saw."
+        },
+        {
+         "key": "C",
+         "text": "get in contact when they saw a rare species."
+        }
+       ]
+      },
+      {
+       "n": 34,
+       "text": "The group made their observations in gardens",
+       "options": [
+        {
+         "key": "A",
+         "text": "which had a large number of animal species."
+        },
+        {
+         "key": "B",
+         "text": "which they considered to be representative."
+        },
+        {
+         "key": "C",
+         "text": "which had stable populations of rare animals."
+        }
+       ]
+      },
+      {
+       "n": 35,
+       "text": "The group did extensive reading on",
+       "options": [
+        {
+         "key": "A",
+         "text": "wildlife problems in rural areas."
+        },
+        {
+         "key": "B",
+         "text": "urban animal populations."
+        },
+        {
+         "key": "C",
+         "text": "current gardening practices."
+        }
+       ]
+      },
+      {
+       "n": 36,
+       "text": "The speaker focuses on three animal species because",
+       "options": [
+        {
+         "key": "A",
+         "text": "a lot of data has been obtained about them."
+        },
+        {
+         "key": "B",
+         "text": "the group were most interested in them."
+        },
+        {
+         "key": "C",
+         "text": "they best indicated general trends."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L4-2",
+     "type": "completion",
+     "range": [
+      37,
+      40
+     ],
+     "instructions": [
+      "Complete the table below.",
+      "Write **ONE WORD ONLY** for each answer."
+     ],
+     "content": [
+      {
+       "t": "table",
+       "header": 1,
+       "rows": [
+        [
+         "Animals",
+         "Reason for population increase in gardens",
+         "Comments"
+        ],
+        [
+         "{{37}}",
+         "suitable stretches of water",
+         "massive increase in urban population"
+        ],
+        [
+         "Hedgehogs",
+         "safer from {{38}} when in cities",
+         "easy to {{39}} them accurately"
+        ],
+        [
+         "Song thrushes",
+         "- a variety of {{40}} to eat\n- more nesting places available",
+         "large survey starting soon"
+        ]
+       ]
+      }
+     ]
+    }
+   ],
+   "transcript": "Good morning. Today I'd like to present the findings of our Year 2 project on wildlife found in gardens throughout our city. I'll start by saying something about the background to the project, then talk a little bit about our research techniques, and then indicate some of our interim findings.\nFirst of all, how did we choose our topic? Well, there are four of us in the group and one day while we were discussing a possible focus, two of the group mentioned that they had seen yet more sparrow-hawks - one of Britain's most interesting birds of prey - in their own city centre gardens and wondered why they were turning up in these gardens in great numbers. [Q31] We were all very engaged by the idea of why wild animals would choose to inhabit a city garden. Why is it so popular with wildlife when the countryside itself is becoming less so?\nThe first thing we did was to establish what proportion of the urban land is taken up by private gardens. We estimated that it was about one fifth, and this was endorsed by looking at large-scale usage maps in the town land survey office - 24% to be precise. [Q32] Our own informal discussions with neighbours and friends led us to believe that many garden owners had interesting experiences to relate regarding wild animal sightings so we decided to survey garden owners from different areas of the city. Just over 100 of them completed a survey once every two weeks for twelve months - ticking off species they had seen from a pro forma list - and adding the names of any rarer ones. [Q33] Meanwhile, we were doing our own observations in selected gardens throughout the city. We deliberately chose smaller ones because they were by far the most typical in the city. [Q34] The whole point of the project was to look at the norm not the exception. Alongside this primary research on urban gardens, we were studying a lot of books about the decline of wild animals in the countryside and thinking of possible causes for this. [Q35]\nSo what did we find? Well, so much that I just won't have time to tell you about here. If you're interested in reading our more comprehensive findings, we've produced detailed graphic representations on the college web-site and of course any of the group would be happy to talk to you about them. Just email us.\nWhat we've decided to present today is information about just three species - because we felt these gave a good indication of the processes at work in rural and urban settings as a whole. [Q36]\nThe first species to generate a lot of interesting information was frogs. And there was a clear pattern here - they proliferate where there is suitable water. [Q37] Garden ponds are on the increase, rural ponds are disappearing, leading to massive migration to the towns.\nHedgehogs are also finding it easier to live in urban areas - this time because their predators are not finding it quite so attractive to leave their rural environment, so hedgehogs have a better survival rate in cities. [Q38] We had lots of sightings, so all in all we had no difficulties with our efforts to count their numbers precisely. [Q39]\nOur final species is the finest of bird singers, the song thrush. On the decline in the countryside, they are experiencing a resurgence in urban gardens because these days gardeners are buying lots of different plants which means there's an extensive range of seeds around, which is what they feed on. [Q40] Another factor is the provision of nesting places - which is actually better in gardens than the countryside. Hard to believe it, but it's true. Incidentally, we discovered that a massive new survey on song thrushes is about to be launched, so you should keep an eye open for that.\nNow, I'd be happy to answer any questions you may have ..."
+  }
+ ],
+ "answers": {
+  "1": {
+   "a": [
+    "babies"
+   ]
+  },
+  "2": {
+   "a": [
+    "Eshcol"
+   ]
+  },
+  "3": {
+   "a": [
+    "evening"
+   ]
+  },
+  "4": {
+   "a": [
+    "Gormley"
+   ]
+  },
+  "5": {
+   "a": [
+    "B"
+   ]
+  },
+  "6": {
+   "a": [
+    "E"
+   ]
+  },
+  "7": {
+   "a": [
+    "heart"
+   ]
+  },
+  "8": {
+   "a": [
+    "primary school"
+   ]
+  },
+  "9": {
+   "a": [
+    "4.30"
+   ]
+  },
+  "10": {
+   "a": [
+    "ages"
+   ]
+  },
+  "11": {
+   "a": [
+    "B"
+   ]
+  },
+  "12": {
+   "a": [
+    "C"
+   ]
+  },
+  "13": {
+   "a": [
+    "E"
+   ]
+  },
+  "14": {
+   "a": [
+    "B"
+   ]
+  },
+  "15": {
+   "a": [
+    "E"
+   ]
+  },
+  "16": {
+   "a": [
+    "D"
+   ]
+  },
+  "17": {
+   "a": [
+    "A"
+   ]
+  },
+  "18": {
+   "a": [
+    "C"
+   ]
+  },
+  "19": {
+   "a": [
+    "732281"
+   ]
+  },
+  "20": {
+   "a": [
+    "Thursday",
+    "Thursdays"
+   ],
+   "k": "Thursday/Thursdays"
+  },
+  "21": {
+   "a": [
+    "A"
+   ]
+  },
+  "22": {
+   "a": [
+    "C"
+   ]
+  },
+  "23": {
+   "a": [
+    "approach"
+   ]
+  },
+  "24": {
+   "a": [
+    "mature"
+   ]
+  },
+  "25": {
+   "a": [
+    "interest"
+   ]
+  },
+  "26": {
+   "a": [
+    "groups"
+   ]
+  },
+  "27": {
+   "a": [
+    "every 2 days"
+   ]
+  },
+  "28": {
+   "a": [
+    "2 weeks"
+   ]
+  },
+  "29": {
+   "a": [
+    "confident"
+   ]
+  },
+  "30": {
+   "a": [
+    "education system"
+   ]
+  },
+  "31": {
+   "a": [
+    "C"
+   ]
+  },
+  "32": {
+   "a": [
+    "A"
+   ]
+  },
+  "33": {
+   "a": [
+    "B"
+   ]
+  },
+  "34": {
+   "a": [
+    "B"
+   ]
+  },
+  "35": {
+   "a": [
+    "A"
+   ]
+  },
+  "36": {
+   "a": [
+    "C"
+   ]
+  },
+  "37": {
+   "a": [
+    "frog",
+    "frogs"
+   ],
+   "k": "frog/frogs"
+  },
+  "38": {
+   "a": [
+    "predators"
+   ]
+  },
+  "39": {
+   "a": [
+    "count"
+   ]
+  },
+  "40": {
+   "a": [
+    "seed",
+    "seeds"
+   ],
+   "k": "seed/seeds"
+  }
+ },
+ "issues": [
+  "C9 is a retyped edition; unambiguous typing errors corrected (Listening):",
+  "Q7-10 table: 'Health eating' -> 'Healthy eating'; 'Avoiding injures' -> 'Avoiding injuries'; 'room4'/'room6' -> 'room 4'/'room 6'",
+  "Q21/Q22 stems: 'country ,Kira' / 'assignments ,Kira' -> 'country, Kira' / 'assignments, Kira'; Q23 stray '.,' at end -> '.'",
+  "Q22 option A 'read faster' and C 'change her way of thinking' printed without full stops; kept as printed",
+  "Q27: 'how often did Kria work' -> 'Kira'",
+  "Q38 table: 'safer from 38 … when I cities' -> 'when in cities'",
+  "Q19-20 notes: 'town-next' / 'pizzas-19' -> 'town – next' / 'pizzas – 19'",
+  "Audioscript S1: 'IS there' -> 'Is there'; 'HOW do you spell' -> 'How do you spell'; 'MAN;' -> 'MAN:'",
+  "Audioscript S2: '..probably by the back door' -> '... probably'",
+  "Audioscript S4: 'decided to resent today' -> 'present'; 'urban setting s' -> 'urban settings'; missing full stops added in 'typical in the city. The whole point' and 'survival rate in cities. We had'",
+  "Audioscript S1: margin marker 'Q5 & 6' printed twice; rendered as [Q5/Q6]. Q19 phone number printed as '7-3 double 2.8-1' (key 732281); kept as printed",
+  "Section 2 diagram scan shows faint show-through text from the reverse page."
+ ]
+}

@@ -1,0 +1,718 @@
+{
+ "parts": [
+  {
+   "part": 1,
+   "range": [
+    1,
+    10
+   ],
+   "pages": [
+    11
+   ],
+   "groups": [
+    {
+     "id": "L1-1",
+     "type": "completion",
+     "range": [
+      1,
+      10
+     ],
+     "instructions": [
+      "Complete the table below.",
+      "Write **ONE WORD AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "COOKERY CLASSES"
+      },
+      {
+       "t": "table",
+       "header": 1,
+       "rows": [
+        [
+         "Cookery Class",
+         "Focus",
+         "Other Information"
+        ],
+        [
+         "*Example*\nThe Food *Studio*",
+         "how to {{1}} and cook with seasonal products",
+         "• small classes\n• also offers {{2}} classes\n• clients who return get a {{3}} discount"
+        ],
+        [
+         "Bond's Cookery School",
+         "food that is {{4}}",
+         "• includes recipes to strengthen your {{5}}\n• they have a free {{6}} every Thursday"
+        ],
+        [
+         "The {{7}} Centre",
+         "mainly {{8}} food",
+         "• located near the {{9}}\n• a special course in skills with a {{10}} is sometimes available"
+        ]
+       ]
+      }
+     ]
+    }
+   ],
+   "transcript": "OFFICIAL: Hello, Tourist Information Centre, Mike speaking, how can I help you?\nWOMAN: Oh, hi. I wanted to find out about cookery classes. I believe there are some one-day classes for tourists?\nOFFICIAL: Well, they're open to everyone, but tourists are always welcome. OK, let me give you some details of what's available. There are several classes. One very popular one is at the Food Studio.\nWOMAN: OK.\nOFFICIAL: They focus on seasonal products, and as well as teaching you how to cook them, they also show you how to choose them. [Q1]\nWOMAN: Right, that sounds good. How big are the classes?\nOFFICIAL: I'm not sure exactly, but they'll be quite small.\nWOMAN: And could I get a private lesson there? [Q2]\nOFFICIAL: I think so... let me check, yes, they do offer those. Though in fact most of the people who attend the classes find it's a nice way of getting to know one another.\nWOMAN: I suppose it must be, yes.\nOFFICIAL: And this company has a special deal for clients where they offer a discount of 20 percent if you return for a further class. [Q3]\nWOMAN: OK. But you said there were several classes?\nOFFICIAL: That's right. Another one you might be interested in is Bond's Cookery School. They're quite new, they just opened six months ago, but I've heard good things about them. They concentrate on teaching you to prepare healthy food, and [Q4] they have quite a lot of specialist staff.\nWOMAN: So is that food for people on a diet and things like that? I don't know if I'd be interested in that.\nOFFICIAL: Well, I don't think they particularly focus on low calorie diets or weight loss. It's more to do with recipes that look at specific needs, like including ingredients that will help build up your bones and make them stronger, that sort of thing. [Q5]\nWOMAN: I see. Well, I might be interested, I'm not sure. Do they have a website I could check?\nOFFICIAL: Yes, just key in the name of the school – it'll come up. And if you want to know more about them, every Thursday evening they have a lecture at the school. [Q6] It's free and you don't need to book or anything, just turn up at 7.30. And that might give you an idea of whether you want to go to an actual class.\nOFFICIAL: OK, there's one more place you might be interested in. That's got a rather strange name, it's called The Arretsa Centre – that's spelled A-R-R-E-T-S-A. [Q7]\nWOMAN: OK.\nOFFICIAL: They've got a very good reputation. They do a bit of meat and fish cookery but they mostly specialise in vegetarian dishes. [Q8]\nWOMAN: Right. That's certainly an area I'd like to learn more about. I've got lots of friends who don't eat meat. In fact, I think I might have seen that school today. Is it just by the market? [Q9]\nOFFICIAL: That's right. So they don't have any problem getting their ingredients. They're right next door. And they also offer a special two-hour course in how to use a knife. They cover all the different skills – buying them, sharpening, chopping [Q10] techniques. It gets booked up quickly though so you'd need to check it was available.\nWOMAN: Right, well thank you very much. I'll go and ..."
+  },
+  {
+   "part": 2,
+   "range": [
+    11,
+    20
+   ],
+   "pages": [
+    12,
+    13
+   ],
+   "groups": [
+    {
+     "id": "L2-1",
+     "type": "choice",
+     "range": [
+      11,
+      13
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "title": "Traffic Changes in Granford",
+     "questions": [
+      {
+       "n": 11,
+       "text": "Why are changes needed to traffic systems in Granford?",
+       "options": [
+        {
+         "key": "A",
+         "text": "The number of traffic accidents has risen."
+        },
+        {
+         "key": "B",
+         "text": "The amount of traffic on the roads has increased."
+        },
+        {
+         "key": "C",
+         "text": "The types of vehicles on the roads have changed."
+        }
+       ]
+      },
+      {
+       "n": 12,
+       "text": "In a survey, local residents particularly complained about",
+       "options": [
+        {
+         "key": "A",
+         "text": "dangerous driving by parents."
+        },
+        {
+         "key": "B",
+         "text": "pollution from trucks and lorries."
+        },
+        {
+         "key": "C",
+         "text": "inconvenience from parked cars."
+        }
+       ]
+      },
+      {
+       "n": 13,
+       "text": "According to the speaker, one problem with the new regulations will be",
+       "options": [
+        {
+         "key": "A",
+         "text": "raising money to pay for them."
+        },
+        {
+         "key": "B",
+         "text": "finding a way to make people follow them."
+        },
+        {
+         "key": "C",
+         "text": "getting the support of the police."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L2-2",
+     "type": "matching",
+     "range": [
+      14,
+      20
+     ],
+     "instructions": [
+      "Label the map below.",
+      "Write the correct letter, **A–I**, next to Questions 14–20."
+     ],
+     "title": "Proposed traffic changes in Granford",
+     "image": "images/C13/C13-T1-L2-map.png",
+     "options": [
+      {
+       "key": "A",
+       "text": ""
+      },
+      {
+       "key": "B",
+       "text": ""
+      },
+      {
+       "key": "C",
+       "text": ""
+      },
+      {
+       "key": "D",
+       "text": ""
+      },
+      {
+       "key": "E",
+       "text": ""
+      },
+      {
+       "key": "F",
+       "text": ""
+      },
+      {
+       "key": "G",
+       "text": ""
+      },
+      {
+       "key": "H",
+       "text": ""
+      },
+      {
+       "key": "I",
+       "text": ""
+      }
+     ],
+     "questions": [
+      {
+       "n": 14,
+       "text": "New traffic lights"
+      },
+      {
+       "n": 15,
+       "text": "Pedestrian crossing"
+      },
+      {
+       "n": 16,
+       "text": "Parking allowed"
+      },
+      {
+       "n": 17,
+       "text": "New 'No Parking' sign"
+      },
+      {
+       "n": 18,
+       "text": "New disabled parking spaces"
+      },
+      {
+       "n": 19,
+       "text": "Widened pavement"
+      },
+      {
+       "n": 20,
+       "text": "Lorry loading/unloading restrictions"
+      }
+     ]
+    }
+   ],
+   "transcript": "Good evening everyone. My name's Phil Sutton, and I'm chairman of the Highways Committee. We've called this meeting to inform members of the public about the new regulations for traffic and parking we're proposing for Granford. I'll start by summarising these changes before we open the meeting to questions.\nSo, why do we need to make these changes to traffic systems in Granford? Well, we're very aware that traffic is becoming an increasing problem. It's been especially noticeable with the increase in heavy traffic while they've been building the new hospital. But it's the overall rise [Q11] in the volume of traffic of all kinds that's concerning us. To date there's not been any increase in traffic accidents, but that's not something we want to see happen, obviously.\nWe recently carried out a survey of local residents, and their responses were interesting. People were very concerned about the lack of visibility on some roads due to cars parked [Q12] along the sides of the roads. We'd expected complaints about the congestion near the school when parents are dropping off their children or picking them up, but this wasn't top of the list, and nor were noise and fumes from trucks and lorries, though they were mentioned by some people.\nWe think these new traffic regulations would make a lot of difference. But we still have a long way to go. We've managed to keep our proposals within budget, just, so they can be covered by the Council. But, of course, it's no good introducing new regulations if we don't have a way [Q13] of making sure that everyone obeys them, and that's an area we're still working on with the help of representatives from the police force. OK, so this slide shows a map of the central area of Granford, with the High Street in the middle and School Road on the right. Now, we already have a set of traffic lights in the High [Q14] Street at the junction with Station Road, but we're planning to have another set at the other end, at the School Road junction, to regulate the flow of traffic along the High Street.\nWe've decided we definitely need a pedestrian crossing. We considered putting this on School Road, just outside the school, but in the end we decided that could lead to a lot of traffic congestion so we decided to locate it on the High Street, crossing the road in front of [Q15] the supermarket. That's a very busy area, so it should help things there.\nWe're proposing some changes to parking. At present, parking isn't allowed on the High [Q16] Street outside the library, but we're going to change that, and allow parking there, but not at the other end of the High Street near School Road.\nThere'll be a new 'No Parking' sign on School Road, just by the entrance to the school, [Q17] forbidding parking for 25 metres. This should improve visibility for drivers and pedestrians, especially on the bend just to the north of the school.\nAs far as disabled drivers are concerned, at present they have parking outside the supermarket, but lorries also use those spaces, so we've got two new disabled parking [Q18] spaces on the side road up towards the bank. It's not ideal, but probably better than the present arrangement.\nWe also plan to widen the pavement on School Road. We think we can manage to get an [Q19] extra half-metre on the bend just before you get to the school, on the same side of the road.\nFinally, we've introduced new restrictions on loading and unloading for the supermarket, so [Q20] lorries will only be allowed to stop there before 8 am. That's the supermarket on School Road – we kept to the existing arrangements with the High Street supermarket.\nOK. So that's about it. Now, would anyone..."
+  },
+  {
+   "part": 3,
+   "range": [
+    21,
+    30
+   ],
+   "pages": [
+    14,
+    15
+   ],
+   "groups": [
+    {
+     "id": "L3-1",
+     "type": "choice",
+     "range": [
+      21,
+      25
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "questions": [
+      {
+       "n": 21,
+       "text": "Why is Jack interested in investigating seed germination?",
+       "options": [
+        {
+         "key": "A",
+         "text": "He may do a module on a related topic later on."
+        },
+        {
+         "key": "B",
+         "text": "He wants to have a career in plant science."
+        },
+        {
+         "key": "C",
+         "text": "He is thinking of choosing this topic for his dissertation."
+        }
+       ]
+      },
+      {
+       "n": 22,
+       "text": "Jack and Emma agree the main advantage of their present experiment is that it can be",
+       "options": [
+        {
+         "key": "A",
+         "text": "described very easily."
+        },
+        {
+         "key": "B",
+         "text": "carried out inside the laboratory."
+        },
+        {
+         "key": "C",
+         "text": "completed in the time available."
+        }
+       ]
+      },
+      {
+       "n": 23,
+       "text": "What do they decide to check with their tutor?",
+       "options": [
+        {
+         "key": "A",
+         "text": "whether their aim is appropriate"
+        },
+        {
+         "key": "B",
+         "text": "whether anyone else has chosen this topic"
+        },
+        {
+         "key": "C",
+         "text": "whether the assignment contributes to their final grade"
+        }
+       ]
+      },
+      {
+       "n": 24,
+       "text": "They agree that Graves' book on seed germination is disappointing because",
+       "options": [
+        {
+         "key": "A",
+         "text": "it fails to cover recent advances in seed science."
+        },
+        {
+         "key": "B",
+         "text": "the content is irrelevant for them."
+        },
+        {
+         "key": "C",
+         "text": "its focus is very theoretical."
+        }
+       ]
+      },
+      {
+       "n": 25,
+       "text": "What does Jack say about the article on seed germination by Lee Hall?",
+       "options": [
+        {
+         "key": "A",
+         "text": "The diagrams of plant development are useful."
+        },
+        {
+         "key": "B",
+         "text": "The analysis of seed germination statistics is thorough."
+        },
+        {
+         "key": "C",
+         "text": "The findings on seed germination after fires are surprising."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L3-2",
+     "type": "completion",
+     "range": [
+      26,
+      30
+     ],
+     "instructions": [
+      "Complete the flow-chart below.",
+      "Choose **FIVE** answers from the box and write the correct letter, **A–H**, next to Questions 26–30."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Stages in the experiment"
+      },
+      {
+       "t": "flow",
+       "steps": [
+        "Select seeds of different {{26}} and sizes.",
+        "Measure and record the {{27}} and size of each one.",
+        "Decide on the {{28}} to be used.",
+        "Use a different {{29}} for each seed and label it.",
+        "After about 3 weeks, record the plant's {{30}} .",
+        "Investigate the findings."
+       ]
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "container"
+      },
+      {
+       "key": "B",
+       "text": "soil"
+      },
+      {
+       "key": "C",
+       "text": "weight"
+      },
+      {
+       "key": "D",
+       "text": "condition"
+      },
+      {
+       "key": "E",
+       "text": "height"
+      },
+      {
+       "key": "F",
+       "text": "colour"
+      },
+      {
+       "key": "G",
+       "text": "types"
+      },
+      {
+       "key": "H",
+       "text": "depths"
+      }
+     ]
+    }
+   ],
+   "transcript": "EMMA: We've got to choose a topic for our experiment, haven't we, Jack? Were you thinking of something to do with seeds?\nJACK: That's right. I thought we could look at seed germination – how a seed begins to grow.\nEMMA: OK. Any particular reason? I know you're hoping to work in plant science eventually ...\nJACK: Yeah, but practically everything we do is going to feed into that. No, there's an [Q21] optional module on seed structure and function in the third year that I might do, so I thought it might be useful for that. If I choose that option, I don't have to do a dissertation module.\nEMMA: Good idea.\nJACK: Well, I thought for this experiment we could look at the relationship between seed size and the way the seeds are planted. So, we could plant different sized seeds in different ways, and see which grow best.\nEMMA: OK. We'd need to allow time for the seeds to come up. [Q22]\nJACK: That should be fine if we start now. A lot of the other possible experiments need quite a bit longer.\nEMMA: So that'd make it a good one to choose. And I don't suppose it'd need much equipment; we're not doing chemical analysis or anything. Though that's not really an issue, we've got plenty of equipment in the laboratory.\nJACK: Yeah. We need to have a word with the tutor if we're going to go ahead with it though. I'm sure our aim's OK. It's not very ambitious but the assignment's only ten percent of our final mark, isn't it? But we need to be sure we're the only ones doing [Q23] it.\nEMMA: Yeah, it's only five percent actually, but it'd be a bit boring if everyone was doing it.\nJACK: Did you read that book on seed germination on our reading list?\nEMMA: The one by Graves? I looked through it for my last experiment, though it wasn't all that relevant there. It would be for this experiment, though. I found it quite hard to [Q24] follow – lots about the theory, which I hadn't expected.\nJACK: Yes, I'd been hoping for something more practical. It does include references to the recent findings on genetically-modified seeds, though.\nEMMA: Yes, that was interesting.\nJACK: I read an article about seed germination by Lee Hall.\nEMMA: About seeds that lie in the ground for ages and only germinate after a fire?\nJACK: That's the one. I knew a bit about it already, but not about this research. His [Q25] analysis of figures comparing the times of the fires and the proportion of seeds that germinated was done in a lot of detail – very impressive.\nEMMA: Was that the article with the illustrations of early stages of plant development? They were very clear.\nJACK: I think those diagrams were in another article.\nEMMA: Anyway, shall we have a look at the procedure for our experiment? We'll need to get going with it quite soon.\nJACK: Right. So the first thing we have to do is find our seeds. I think vegetable seeds would be best. And obviously they mustn't all be the same size. So, how many [Q26] sorts do we need? About four different ones?\nEMMA: I think that would be enough. There'll be quite a large number of seeds for each one.\nJACK: Then, for each seed we need to find out how much it weighs, and also measure its [Q27] dimensions, and we need to keep a careful record of all that.\nEMMA: That'll be quite time-consuming. And we also need to decide how deep we're [Q28] going to plant the seeds – right on the surface, a few millimetres down, or several centimetres.\nJACK: OK. So then we get planting. Do you think we can plant several seeds together in [Q29] the same plant pot?\nEMMA: No, I think we need a different one for each seed.\nJACK: Right. And we'll need to label them – we can use different coloured labels. Then we wait for the seeds to germinate – I reckon that'll be about three weeks, depending on what the weather's like. Then we see if our plants have come up, and write [Q30] down how tall they've grown.\nEMMA: Then all we have to do is look at our numbers, and see if there's any relation between them.\nJACK: That's right. So..."
+  },
+  {
+   "part": 4,
+   "range": [
+    31,
+    40
+   ],
+   "pages": [
+    16
+   ],
+   "groups": [
+    {
+     "id": "L4-1",
+     "type": "completion",
+     "range": [
+      31,
+      40
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **ONE WORD ONLY** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Effects of urban environments on animals"
+      },
+      {
+       "t": "sub",
+       "text": "Introduction"
+      },
+      {
+       "t": "p",
+       "text": "Recent urban developments represent massive environmental changes. It was previously thought that only a few animals were suitable for city life, e.g."
+      },
+      {
+       "t": "li",
+       "text": "the {{31}} – because of its general adaptability"
+      },
+      {
+       "t": "li",
+       "text": "the pigeon – because walls of city buildings are similar to {{32}}"
+      },
+      {
+       "t": "p",
+       "text": "In fact, many urban animals are adapting with unusual {{33}} ."
+      },
+      {
+       "t": "sub",
+       "text": "Recent research"
+      },
+      {
+       "t": "li",
+       "text": "Emilie Snell-Rood studied small urbanised mammal specimens from museums in Minnesota."
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "– She found the size of their {{34}} had increased."
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "– She suggests this may be due to the need to locate new sources of {{35}} and to deal with new dangers."
+      },
+      {
+       "t": "li",
+       "text": "Catarina Miranda focused on the {{36}} of urban and rural blackbirds."
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "– She found urban birds were often braver, but were afraid of situations that were {{37}} ."
+      },
+      {
+       "t": "li",
+       "text": "Jonathan Atwell studies how animals respond to urban environments."
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "– He found that some animals respond to {{38}} by producing lower levels of hormones."
+      },
+      {
+       "t": "li",
+       "text": "Sarah Partan's team found urban squirrels use their {{39}} to help them communicate."
+      },
+      {
+       "t": "sub",
+       "text": "Long-term possibilities"
+      },
+      {
+       "t": "p",
+       "text": "Species of animals may develop which are unique to cities. However, some changes may not be {{40}} ."
+      }
+     ]
+    }
+   ],
+   "transcript": "Hi. Today we're going to be looking at animals in urban environments and I'm going to be telling you about some research on how they're affected by these environments.\nNow, in evolutionary terms, urban environments represent huge upheavals, the sorts of massive changes that usually happen over millions of years. And we used to think that only a few species could adapt to this new environment. One species which is well known as being [Q31] highly adaptable is the crow, and there've been various studies about how they manage to learn new skills. Another successful species is the pigeon, because they're able to perch on [Q32] ledges on the walls of city buildings, just like they once perched on cliffs by the sea.\nBut in fact, we're now finding that these early immigrants were just the start of a more general movement of animals into cities, and of adaptation by these animals to city life. And one thing [Q33] that researchers are finding especially interesting is the speed with which they're doing this – we're not talking about gradual evolution here – these animals are changing fast.\nLet me tell you about some of the studies that have been carried out in this area. So, in the University of Minnesota, a biologist called Emilie Snell-Rood and her colleagues looked at specimens of urbanised small mammals such as mice and gophers that had been collected in Minnesota, and that are now kept in museums there. And she looked at specimens that had been collected over the last hundred years, which is a very short time in evolutionary terms. And she found that during that time, these small mammals had experienced a jump in [Q34] brain size when compared to rural mammals. Now, we can't be sure this means they're more intelligent, but since the sizes of other parts of the body didn't change, it does suggest that something cognitive was going on. And Snell-Rood thinks that this change might reflect the [Q35] cognitive demands of adjusting to city life – having to look in different places to find food, for example, and coping with a whole new set of dangers.\nThen over in Germany at the Max Planck Institute, there's another biologist called Catarina [Q36] Miranda who's done some experiments with blackbirds living in urban and rural areas. And she's been looking not at their anatomy but at their behaviour. So as you might expect, she's found that the urban blackbirds tend to be quite bold – they're prepared to face up to a lot of threats that would frighten away their country counterparts. But there's one type of situation [Q37] that does seem to frighten the urban blackbirds, and that's anything new – anything they haven't experienced before. And if you think about it, that's quite sensible for a bird living in the city. Jonathan Atwell, in Indiana University, is looking at how a range of animals respond to urban environments. He's found that when they're under stress, their endocrine systems react by [Q38] reducing the amount of hormones such as corticosterone into their blood. It's a sensible-seeming adaptation. A rat that gets scared every time a subway train rolls past won't be very successful.\nThere's just one more study I'd like to mention which is by Sarah Partan and her team, and they've been looking at how squirrels communicate in an urban environment, and they've [Q39] found that a routine part of their communication is carried out by waving their tails. You do also see this in the country, but it's much more prevalent in cities, possibly because it's effective in a noisy environment.\nSo what are the long-term implications of this? One possibility is that we may see completely [Q40] new species developing in cities. But on the other hand, it's possible that not all of these adaptations will be permanent. Once the animal's got accustomed to its new environment, it may no longer need the features it's developed So, now we've had a look ..."
+  }
+ ],
+ "answers": {
+  "1": {
+   "a": [
+    "choose"
+   ]
+  },
+  "2": {
+   "a": [
+    "private"
+   ]
+  },
+  "3": {
+   "a": [
+    "20 percent",
+    "twenty percent",
+    "20",
+    "twenty"
+   ],
+   "k": "20 / twenty percent"
+  },
+  "4": {
+   "a": [
+    "healthy"
+   ]
+  },
+  "5": {
+   "a": [
+    "bones"
+   ]
+  },
+  "6": {
+   "a": [
+    "lecture"
+   ]
+  },
+  "7": {
+   "a": [
+    "Arretsa"
+   ]
+  },
+  "8": {
+   "a": [
+    "vegetarian"
+   ]
+  },
+  "9": {
+   "a": [
+    "market"
+   ]
+  },
+  "10": {
+   "a": [
+    "knife"
+   ]
+  },
+  "11": {
+   "a": [
+    "B"
+   ]
+  },
+  "12": {
+   "a": [
+    "C"
+   ]
+  },
+  "13": {
+   "a": [
+    "B"
+   ]
+  },
+  "14": {
+   "a": [
+    "E"
+   ]
+  },
+  "15": {
+   "a": [
+    "D"
+   ]
+  },
+  "16": {
+   "a": [
+    "B"
+   ]
+  },
+  "17": {
+   "a": [
+    "G"
+   ]
+  },
+  "18": {
+   "a": [
+    "C"
+   ]
+  },
+  "19": {
+   "a": [
+    "H"
+   ]
+  },
+  "20": {
+   "a": [
+    "I"
+   ]
+  },
+  "21": {
+   "a": [
+    "A"
+   ]
+  },
+  "22": {
+   "a": [
+    "C"
+   ]
+  },
+  "23": {
+   "a": [
+    "B"
+   ]
+  },
+  "24": {
+   "a": [
+    "C"
+   ]
+  },
+  "25": {
+   "a": [
+    "B"
+   ]
+  },
+  "26": {
+   "a": [
+    "G"
+   ]
+  },
+  "27": {
+   "a": [
+    "C"
+   ]
+  },
+  "28": {
+   "a": [
+    "H"
+   ]
+  },
+  "29": {
+   "a": [
+    "A"
+   ]
+  },
+  "30": {
+   "a": [
+    "E"
+   ]
+  },
+  "31": {
+   "a": [
+    "crow"
+   ]
+  },
+  "32": {
+   "a": [
+    "cliffs"
+   ]
+  },
+  "33": {
+   "a": [
+    "speed"
+   ]
+  },
+  "34": {
+   "a": [
+    "brain",
+    "brains"
+   ],
+   "k": "brain(s)"
+  },
+  "35": {
+   "a": [
+    "food"
+   ]
+  },
+  "36": {
+   "a": [
+    "behaviour",
+    "behaviours",
+    "behavior",
+    "behaviors"
+   ],
+   "k": "behaviour(s) / behavior(s)"
+  },
+  "37": {
+   "a": [
+    "new"
+   ]
+  },
+  "38": {
+   "a": [
+    "stress"
+   ]
+  },
+  "39": {
+   "a": [
+    "tail",
+    "tails"
+   ],
+   "k": "tail(s)"
+  },
+  "40": {
+   "a": [
+    "permanent"
+   ]
+  }
+ }
+}

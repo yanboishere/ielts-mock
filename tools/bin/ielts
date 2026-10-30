@@ -1,0 +1,659 @@
+#!/usr/bin/python3 -I
+"""IELTS bank extraction helper.
+
+Subcommands
+  pagetext BOOK PAGES [--coords]     print OCR text of pages (e.g. 12-17,20); --coords prefixes rows with y/x
+  pageview BOOK PAGE [x y w h]       write a viewable JPG (whole page or normalized region) and print its path
+  ocrzoom  BOOK PAGE x y w h         re-OCR a region at high zoom (good for answer keys / tables)
+  figcrop  BOOK PAGE x y w h NAME    save a high-res figure to bank/images/BOOK/NAME.png, print relative path
+  findtext BOOK REGEX [PAGES]        search OCR text, print page numbers + matching rows
+  events   BOOK                      print detected structural markers (test/section starts)
+  validate FILE.json [...]           validate exam JSON files against the schema
+  assemble BOOK TEST                 merge ~/ielts-data/work/BOOK-TTEST/{listening,reading,writing}.json into
+                                     ~/ielts-data/bank/exams/BOOK-TTEST.json and validate it
+  show     EXAMID [listening|reading|writing]   print a readable rendering of an assembled exam (for proofreading)
+  answers  EXAMID                    print the answer keys compactly (for checking against the key pages)
+
+Coordinates are normalized to the upright page, origin top-left: x, y, width, height in 0..1.
+"""
+import json, os, re, sys, subprocess, unicodedata
+
+HOME = os.path.expanduser("~")
+DATA = os.path.join(HOME, "ielts-data")
+OCR = os.path.join(DATA, "ocr")
+BANK = os.path.join(DATA, "bank")
+TOOLS = os.path.join(HOME, "ielts-tools", "bin")
+BOOKS = json.load(open(os.path.join(DATA, "books.json")))
+
+
+def pdf_of(book):
+    if book not in BOOKS:
+        sys.exit(f"unknown book {book}; use one of {', '.join(BOOKS)}")
+    return os.path.expanduser(BOOKS[book]["pdf"])
+
+
+def parse_pages(spec):
+    pages = []
+    for part in str(spec).split(","):
+        part = part.strip()
+        if not part:
+            continue
+        if "-" in part:
+            a, b = part.split("-")
+            pages += list(range(int(a), int(b) + 1))
+        else:
+            pages.append(int(part))
+    return pages
+
+
+def rows_of(d):
+    lines = sorted(d["lines"], key=lambda l: (l["y"], l["x"]))
+    rows = []
+    for l in lines:
+        cy = l["y"] + l["h"] / 2
+        best = None
+        for r in rows[-4:]:
+            if abs(r["cy"] - cy) < min(r["h"], l["h"]) * 0.45:
+                best = r
+                break
+        if best is not None:
+            best["items"].append(l)
+        else:
+            rows.append({"cy": cy, "h": l["h"], "items": [l]})
+    rows.sort(key=lambda r: r["cy"])
+    for r in rows:
+        r["items"].sort(key=lambda l: l["x"])
+    return rows
+
+
+def load_page(book, p):
+    f = os.path.join(OCR, book, f"p{p:04d}.json")
+    if not os.path.exists(f):
+        return None
+    return json.load(open(f))
+
+
+def page_text(book, p, coords=False, cols=110):
+    d = load_page(book, p)
+    if d is None:
+        return f"(no page {p})"
+    out = []
+    for r in rows_of(d):
+        s = ""
+        for it in r["items"]:
+            col = int(it["x"] * cols)
+            if len(s) < col:
+                s += " " * (col - len(s))
+            elif s:
+                s += "  "
+            s += it["t"]
+        if coords:
+            s = f"[y{r['items'][0]['y']:.3f}] " + s
+        out.append(s.rstrip())
+    if not coords:
+        nonempty = [l for l in out if l.strip()]
+        if nonempty:
+            m = min(len(l) - len(l.lstrip()) for l in nonempty)
+            out = [l[m:] for l in out]
+    return "\n".join(out)
+
+
+def cmd_pagetext(args):
+    coords = "--coords" in args
+    args = [a for a in args if a != "--coords"]
+    book, spec = args[0], args[1]
+    for p in parse_pages(spec):
+        print(f"===== {book} page {p}")
+        print(page_text(book, p, coords))
+
+
+def cmd_pageview(args):
+    book, p = args[0], int(args[1])
+    os.makedirs("/tmp/ielts-view", exist_ok=True)
+    if len(args) >= 6:
+        x, y, w, h = args[2:6]
+        out = f"/tmp/ielts-view/{book}-p{p:04d}-{x}-{y}-{w}-{h}.jpg"
+        r = subprocess.run([os.path.join(TOOLS, "figcrop-bin"), pdf_of(book), str(p), x, y, w, h, out, "1300", "jpg"], capture_output=True, text=True)
+        print(r.stdout.strip() or r.stderr.strip())
+    else:
+        src = os.path.join(OCR, book, f"p{p:04d}.jpg")
+        out = f"/tmp/ielts-view/{book}-p{p:04d}.jpg"
+        subprocess.run(["/usr/bin/sips", "-Z", "1000", src, "--out", out], capture_output=True)
+        print(out)
+
+
+def cmd_ocrzoom(args):
+    book, p, x, y, w, h = args[0], args[1], args[2], args[3], args[4], args[5]
+    r = subprocess.run([os.path.join(TOOLS, "ocrregion-bin"), pdf_of(book), p, x, y, w, h, "1400"], capture_output=True, text=True)
+    print(r.stdout)
+    if r.returncode:
+        print(r.stderr)
+
+
+def cmd_figcrop(args):
+    book, p, x, y, w, h, name = args[:7]
+    name = re.sub(r"\.png$", "", name)
+    rel = f"images/{book}/{name}.png"
+    out = os.path.join(BANK, rel)
+    r = subprocess.run([os.path.join(TOOLS, "figcrop-bin"), pdf_of(book), p, x, y, w, h, out], capture_output=True, text=True)
+    if r.returncode:
+        sys.exit(r.stderr or r.stdout)
+    print(r.stdout.strip())
+    print(f"JSON path: {rel}")
+
+
+def cmd_findtext(args):
+    book, rx = args[0], re.compile(args[1], re.I)
+    pages = parse_pages(args[2]) if len(args) > 2 else sorted(int(f[1:5]) for f in os.listdir(os.path.join(OCR, book)) if f.endswith(".json"))
+    for p in pages:
+        d = load_page(book, p)
+        if not d:
+            continue
+        for r in rows_of(d):
+            t = " ".join(it["t"] for it in r["items"])
+            if rx.search(t):
+                print(f"p{p}: {t[:150]}")
+
+
+def cmd_events(args):
+    book = args[0]
+    pages = sorted(int(f[1:5]) for f in os.listdir(os.path.join(OCR, book)) if f.endswith(".json"))
+    for p in pages:
+        d = load_page(book, p)
+        rs = [" ".join(it["t"] for it in r["items"]) for r in rows_of(d)]
+        top = " | ".join(rs[:5])
+        print(f"{p:3d}: {top[:140]}")
+
+
+# ---------------------------------------------------------------- validation
+
+GAP = re.compile(r"\{\{(\d+)\}\}")
+TYPES = {"completion", "choice", "multi", "tfng", "ynng", "matching"}
+BLOCK_TYPES = {"h", "sub", "p", "li", "table", "flow", "img", "note"}
+
+
+class V:
+    def __init__(self, path):
+        self.path = path
+        self.errors = []
+        self.warnings = []
+
+    def err(self, msg):
+        self.errors.append(msg)
+
+    def warn(self, msg):
+        self.warnings.append(msg)
+
+
+def check_text(v, where, s):
+    if not isinstance(s, str):
+        v.err(f"{where}: expected string, got {type(s).__name__}")
+        return ""
+    if re.search(r"\.{4,}|_{3,}|…{2,}", s):
+        v.warn(f"{where}: contains dotted/underscore blanks (use {{{{n}}}} gaps instead): {s[:80]!r}")
+    return s
+
+
+def gaps_in_blocks(v, where, blocks):
+    found = []
+    if not isinstance(blocks, list):
+        v.err(f"{where}.content must be a list")
+        return found
+    for i, b in enumerate(blocks):
+        w = f"{where}.content[{i}]"
+        if not isinstance(b, dict) or "t" not in b:
+            v.err(f"{w}: block must be an object with 't'")
+            continue
+        t = b["t"]
+        if t not in BLOCK_TYPES:
+            v.err(f"{w}: unknown block type {t!r}")
+            continue
+        if t in ("h", "sub", "p", "li", "note"):
+            found += [int(n) for n in GAP.findall(check_text(v, w, b.get("text", "")))]
+        elif t == "table":
+            rows = b.get("rows")
+            if not isinstance(rows, list) or not rows:
+                v.err(f"{w}: table needs rows")
+                continue
+            width = None
+            for ri, row in enumerate(rows):
+                if not isinstance(row, list):
+                    v.err(f"{w}.rows[{ri}] must be a list")
+                    continue
+                if width is None:
+                    width = len(row)
+                elif len(row) != width:
+                    v.warn(f"{w}.rows[{ri}] has {len(row)} cells, first row has {width}")
+                for ci, cell in enumerate(row):
+                    found += [int(n) for n in GAP.findall(check_text(v, f"{w}.rows[{ri}][{ci}]", cell))]
+        elif t == "flow":
+            steps = b.get("steps")
+            if not isinstance(steps, list) or not steps:
+                v.err(f"{w}: flow needs steps")
+                continue
+            for si, s in enumerate(steps):
+                found += [int(n) for n in GAP.findall(check_text(v, f"{w}.steps[{si}]", s))]
+        elif t == "img":
+            check_image(v, w, b.get("src"))
+    return found
+
+
+def check_image(v, where, src):
+    if not src:
+        v.err(f"{where}: missing image src")
+        return
+    if not os.path.exists(os.path.join(BANK, src)):
+        v.err(f"{where}: image file not found in bank: {src}")
+
+
+def check_options(v, where, opts, required=True):
+    if opts is None:
+        if required:
+            v.err(f"{where}: options required")
+        return []
+    if not isinstance(opts, list) or not opts:
+        v.err(f"{where}: options must be a non-empty list")
+        return []
+    keys = []
+    for i, o in enumerate(opts):
+        if not isinstance(o, dict) or "key" not in o:
+            v.err(f"{where}.options[{i}] must have key")
+            continue
+        keys.append(str(o["key"]))
+        if "text" not in o:
+            v.err(f"{where}.options[{i}] must have text (may be empty string)")
+    if len(set(keys)) != len(keys):
+        v.err(f"{where}: duplicate option keys {keys}")
+    return keys
+
+
+def check_group(v, where, g, answers):
+    """returns list of question numbers covered"""
+    if not isinstance(g, dict):
+        v.err(f"{where}: group must be object")
+        return []
+    t = g.get("type")
+    if t not in TYPES:
+        v.err(f"{where}: bad type {t!r}")
+        return []
+    rng = g.get("range")
+    if not (isinstance(rng, list) and len(rng) == 2 and all(isinstance(x, int) for x in rng) and rng[0] <= rng[1]):
+        v.err(f"{where}: range must be [first, last]")
+        return []
+    expected = list(range(rng[0], rng[1] + 1))
+    ins = g.get("instructions")
+    if not isinstance(ins, list) or not ins or not all(isinstance(s, str) for s in ins):
+        v.err(f"{where}: instructions must be a non-empty list of strings")
+    if g.get("image"):
+        check_image(v, where + ".image", g["image"])
+    nums = []
+    if t == "completion":
+        nums = gaps_in_blocks(v, where, g.get("content"))
+        if sorted(nums) != expected:
+            v.err(f"{where}: gaps {sorted(nums)} do not match range {rng}")
+        if g.get("options") is not None:
+            keys = check_options(v, where, g.get("options"))
+            for n in expected:
+                for a in answers.get(str(n), {}).get("a", []):
+                    if a not in keys:
+                        v.err(f"{where}: answer for Q{n} {a!r} not among option keys {keys}")
+    elif t in ("choice", "tfng", "ynng", "matching"):
+        qs = g.get("questions")
+        if not isinstance(qs, list) or not qs:
+            v.err(f"{where}: questions required")
+            return []
+        for i, q in enumerate(qs):
+            if not isinstance(q, dict) or not isinstance(q.get("n"), int):
+                v.err(f"{where}.questions[{i}]: needs integer n")
+                continue
+            nums.append(q["n"])
+            check_text(v, f"{where}.questions[{i}].text", q.get("text", ""))
+            if t == "choice":
+                keys = check_options(v, f"{where}.questions[{i}]", q.get("options"))
+                for a in answers.get(str(q["n"]), {}).get("a", []):
+                    if a not in keys:
+                        v.err(f"{where}: answer for Q{q['n']} {a!r} not in {keys}")
+        if sorted(nums) != expected:
+            v.err(f"{where}: question numbers {sorted(nums)} do not match range {rng}")
+        if t == "matching":
+            keys = check_options(v, where, g.get("options"))
+            for n in nums:
+                for a in answers.get(str(n), {}).get("a", []):
+                    if a not in keys:
+                        v.err(f"{where}: answer for Q{n} {a!r} not among option keys {keys}")
+        if t in ("tfng", "ynng"):
+            allowed = {"TRUE", "FALSE", "NOT GIVEN"} if t == "tfng" else {"YES", "NO", "NOT GIVEN"}
+            for n in nums:
+                for a in answers.get(str(n), {}).get("a", []):
+                    if a not in allowed:
+                        v.err(f"{where}: answer for Q{n} {a!r} must be one of {sorted(allowed)}")
+    elif t == "multi":
+        ns = g.get("n")
+        if not isinstance(ns, list) or not all(isinstance(x, int) for x in ns):
+            v.err(f"{where}: multi needs n: [numbers]")
+            return []
+        nums = ns
+        if sorted(ns) != expected:
+            v.err(f"{where}: n {ns} do not match range {rng}")
+        if g.get("select") != len(ns):
+            v.err(f"{where}: select must equal number of questions ({len(ns)})")
+        check_text(v, f"{where}.text", g.get("text", ""))
+        keys = check_options(v, where, g.get("options"))
+        letters = []
+        for n in ns:
+            a = answers.get(str(n), {}).get("a", [])
+            letters += a
+            for x in a:
+                if x not in keys:
+                    v.err(f"{where}: answer for Q{n} {x!r} not in {keys}")
+        if len(set(letters)) != len(letters):
+            v.warn(f"{where}: repeated letters in multi answers {letters}")
+    return nums
+
+
+def check_answers(v, where, answers):
+    if not isinstance(answers, dict):
+        v.err(f"{where}.answers must be an object keyed by question number")
+        return
+    for k in [str(i) for i in range(1, 41)]:
+        if k not in answers:
+            v.err(f"{where}.answers: missing Q{k}")
+            continue
+        a = answers[k]
+        if not isinstance(a, dict) or not isinstance(a.get("a"), list) or not a["a"] or not all(isinstance(x, str) and x.strip() for x in a["a"]):
+            v.err(f"{where}.answers[{k}] must be {{'a': [non-empty strings], 'k': optional key text}}")
+        if "k" in a and not isinstance(a["k"], str):
+            v.err(f"{where}.answers[{k}].k must be a string")
+    extra = [k for k in answers if k not in [str(i) for i in range(1, 41)]]
+    if extra:
+        v.err(f"{where}.answers: unexpected keys {extra}")
+
+
+def check_listening(v, L):
+    answers = L.get("answers", {})
+    check_answers(v, "listening", answers)
+    parts = L.get("parts")
+    if not isinstance(parts, list) or len(parts) != 4:
+        v.err("listening.parts must have 4 parts")
+        return
+    covered = []
+    for i, p in enumerate(parts):
+        w = f"listening.parts[{i}]"
+        if p.get("part") != i + 1:
+            v.err(f"{w}.part must be {i + 1}")
+        rng = p.get("range")
+        if rng != [i * 10 + 1, i * 10 + 10]:
+            v.err(f"{w}.range must be {[i * 10 + 1, i * 10 + 10]}")
+        if not isinstance(p.get("pages"), list) or not p["pages"]:
+            v.err(f"{w}.pages required")
+        tr = p.get("transcript")
+        if not isinstance(tr, str) or len(tr.split()) < 250:
+            v.err(f"{w}.transcript missing or too short ({len(tr.split()) if isinstance(tr, str) else 0} words)")
+        if p.get("context") is not None and not isinstance(p.get("context"), str):
+            v.err(f"{w}.context must be a string")
+        nums = []
+        for gi, g in enumerate(p.get("groups") or []):
+            nums += check_group(v, f"{w}.groups[{gi}]", g, answers)
+        if isinstance(rng, list) and len(rng) == 2 and sorted(nums) != list(range(rng[0], rng[1] + 1)):
+            v.err(f"{w}: groups cover {sorted(nums)}, expected {rng}")
+        covered += nums
+    if sorted(covered) != list(range(1, 41)):
+        v.err(f"listening: questions covered {sorted(covered)} != 1..40")
+
+
+def check_reading(v, R):
+    answers = R.get("answers", {})
+    check_answers(v, "reading", answers)
+    ps = R.get("passages")
+    if not isinstance(ps, list) or len(ps) != 3:
+        v.err("reading.passages must have 3 passages")
+        return
+    covered = []
+    prev_end = 0
+    for i, p in enumerate(ps):
+        w = f"reading.passages[{i}]"
+        if p.get("passage") != i + 1:
+            v.err(f"{w}.passage must be {i + 1}")
+        rng = p.get("range")
+        if not (isinstance(rng, list) and len(rng) == 2 and rng[0] == prev_end + 1):
+            v.err(f"{w}.range must start at {prev_end + 1}")
+        else:
+            prev_end = rng[1]
+        if not isinstance(p.get("title"), str) or not p["title"].strip():
+            v.err(f"{w}.title required")
+        if not isinstance(p.get("pages"), list) or not p["pages"]:
+            v.err(f"{w}.pages required")
+        paras = p.get("paragraphs")
+        if not isinstance(paras, list) or not paras:
+            v.err(f"{w}.paragraphs required")
+        else:
+            words = 0
+            labels = []
+            for pi, para in enumerate(paras):
+                if not isinstance(para, dict) or not isinstance(para.get("text"), str):
+                    v.err(f"{w}.paragraphs[{pi}] needs text")
+                    continue
+                words += len(para["text"].split())
+                if para.get("label"):
+                    labels.append(para["label"])
+                if para.get("kind") not in (None, "text", "heading", "note", "img"):
+                    v.err(f"{w}.paragraphs[{pi}].kind invalid")
+                if para.get("kind") == "img":
+                    check_image(v, f"{w}.paragraphs[{pi}]", para.get("src"))
+                if re.search(r"(?<![a-z])-\s*$", para["text"]):
+                    v.warn(f"{w}.paragraphs[{pi}] ends with hyphen (check de-hyphenation)")
+            if words < 500:
+                v.warn(f"{w}: passage only {words} words")
+            if labels:
+                exp = [chr(ord('A') + k) for k in range(len(labels))]
+                if labels != exp:
+                    v.warn(f"{w}: paragraph labels {labels} are not consecutive A..")
+        nums = []
+        for gi, g in enumerate(p.get("groups") or []):
+            nums += check_group(v, f"{w}.groups[{gi}]", g, answers)
+        if rng and sorted(nums) != list(range(rng[0], rng[1] + 1)):
+            v.err(f"{w}: groups cover {sorted(nums)}, expected {rng}")
+        covered += nums
+    if sorted(covered) != list(range(1, 41)):
+        v.err(f"reading: questions covered {sorted(covered)} != 1..40")
+
+
+def check_writing(v, W):
+    ts = W.get("tasks")
+    if not isinstance(ts, list) or len(ts) != 2:
+        v.err("writing.tasks must have 2 tasks")
+        return
+    for i, t in enumerate(ts):
+        w = f"writing.tasks[{i}]"
+        if t.get("task") != i + 1:
+            v.err(f"{w}.task must be {i + 1}")
+        pr = t.get("prompt")
+        if not isinstance(pr, list) or not pr or not all(isinstance(s, str) and s.strip() for s in pr):
+            v.err(f"{w}.prompt must be a non-empty list of strings")
+        if t.get("minWords") != (150 if i == 0 else 250):
+            v.err(f"{w}.minWords must be {150 if i == 0 else 250}")
+        if t.get("minutes") != (20 if i == 0 else 40):
+            v.err(f"{w}.minutes must be {20 if i == 0 else 40}")
+        if not isinstance(t.get("pages"), list) or not t["pages"]:
+            v.err(f"{w}.pages required")
+        if i == 0 and not t.get("image"):
+            v.warn(f"{w}: Task 1 has no image")
+        if t.get("image"):
+            check_image(v, f"{w}.image", t["image"])
+        s = t.get("sample")
+        if s is not None:
+            if not isinstance(s, dict) or not isinstance(s.get("text"), str) or len(s["text"].split()) < 100:
+                v.err(f"{w}.sample must have text (>=100 words)")
+            for k in ("band", "comment", "kind"):
+                if k in s and s[k] is not None and not isinstance(s[k], str):
+                    v.err(f"{w}.sample.{k} must be a string")
+
+
+def validate(path):
+    v = V(path)
+    try:
+        d = json.load(open(path))
+    except Exception as e:
+        v.err(f"invalid JSON: {e}")
+        return v
+    if d.get("schema") != "ielts-mock.exam/1":
+        v.err("schema must be 'ielts-mock.exam/1'")
+    m = re.match(r"^C(\d+)-T(\d)$", d.get("id", ""))
+    if not m:
+        v.err("id must look like C15-T1")
+    src = d.get("source", {})
+    if m and (src.get("book") != int(m.group(1)) or src.get("test") != int(m.group(2))):
+        v.err("source.book/test must match id")
+    if not d.get("title"):
+        v.err("title required")
+    for mod, fn in (("listening", check_listening), ("reading", check_reading), ("writing", check_writing)):
+        if mod not in d:
+            v.err(f"missing module {mod}")
+        else:
+            fn(v, d[mod])
+    if d.get("issues") is not None and not (isinstance(d["issues"], list) and all(isinstance(s, str) for s in d["issues"])):
+        v.err("issues must be a list of strings")
+    return v
+
+
+def cmd_validate(args):
+    bad = 0
+    for path in args:
+        v = validate(path)
+        status = "OK" if not v.errors else "FAIL"
+        print(f"{status} {path}  ({len(v.errors)} errors, {len(v.warnings)} warnings)")
+        for e in v.errors:
+            print("  ERROR", e)
+        for w in v.warnings:
+            print("  warn ", w)
+        bad += bool(v.errors)
+    sys.exit(1 if bad else 0)
+
+
+def cmd_assemble(args):
+    book, test = args[0], int(args[1])
+    eid = f"{book}-T{test}"
+    work = os.path.join(DATA, "work", eid)
+    exam = {"schema": "ielts-mock.exam/1", "id": eid,
+            "source": {"book": int(book[1:]), "test": test},
+            "title": f"Cambridge IELTS {book[1:]} · Test {test}"}
+    issues = []
+    for mod in ("listening", "reading", "writing"):
+        f = os.path.join(work, mod + ".json")
+        if not os.path.exists(f):
+            print(f"missing {f}")
+            continue
+        try:
+            d = json.load(open(f))
+        except Exception as e:
+            sys.exit(f"{f}: invalid JSON: {e}")
+        if isinstance(d, dict) and "issues" in d:
+            issues += d.pop("issues") or []
+        exam[mod] = d
+    if os.path.exists(os.path.join(work, "issues.json")):
+        issues += json.load(open(os.path.join(work, "issues.json")))
+    exam["issues"] = issues
+    out = os.path.join(BANK, "exams", eid + ".json")
+    os.makedirs(os.path.dirname(out), exist_ok=True)
+    json.dump(exam, open(out, "w"), ensure_ascii=False, indent=1)
+    print("wrote", out)
+    cmd_validate([out])
+
+
+def _exam(eid):
+    f = os.path.join(BANK, "exams", eid + ".json")
+    if not os.path.exists(f):
+        sys.exit(f"not found: {f}")
+    return json.load(open(f))
+
+
+def _render_group(g, answers):
+    out = [f"  [{g.get('id')}] {g.get('type')} Q{g['range'][0]}-{g['range'][1]}"]
+    for s in g.get("instructions", []):
+        out.append(f"    | {s}")
+    if g.get("title"):
+        out.append(f"    # {g['title']}")
+    if g.get("image"):
+        out.append(f"    [image {g['image']}]")
+    ans = lambda n: "/".join(answers.get(str(n), {}).get("a", ["??"]))
+    def gapfill(t):
+        return GAP.sub(lambda m: f"[{m.group(1)}:{ans(m.group(1))}]", t)
+    for b in g.get("content", []) or []:
+        t = b.get("t")
+        ind = "    " + "  " * (int(b.get("level", 1)) - 1)
+        if t in ("h", "sub", "p", "li", "note"):
+            pre = {"h": "## ", "sub": "** ", "li": "• ", "note": "(note) ", "p": ""}[t]
+            out.append(ind + pre + gapfill(b.get("text", "")))
+        elif t == "table":
+            for row in b.get("rows", []):
+                out.append(ind + " || ".join(gapfill(c).replace("\n", " / ") for c in row))
+        elif t == "flow":
+            for st in b.get("steps", []):
+                out.append(ind + "-> " + gapfill(st))
+        elif t == "img":
+            out.append(ind + f"[img {b.get('src')}]")
+    if g.get("options") and g.get("type") != "choice":
+        if g.get("optionsTitle"):
+            out.append(f"    options: {g['optionsTitle']}" + (" (reuse)" if g.get("reuse") else ""))
+        for o in g["options"]:
+            out.append(f"      {o['key']} {o.get('text', '')}")
+    if g.get("type") == "multi":
+        out.append(f"    {g.get('n')} {g.get('text')}  => " + ", ".join(ans(n) for n in g.get("n", [])))
+    for q in g.get("questions", []) or []:
+        out.append(f"    {q['n']}. {q.get('text', '')}  => {ans(q['n'])}")
+        for o in q.get("options", []) or []:
+            out.append(f"        {o['key']} {o.get('text', '')}")
+    return out
+
+
+def cmd_show(args):
+    d = _exam(args[0])
+    mods = [args[1]] if len(args) > 1 else ["listening", "reading", "writing"]
+    for mod in mods:
+        m = d.get(mod, {})
+        print(f"===== {mod.upper()}")
+        if mod == "listening":
+            for p in m.get("parts", []):
+                print(f"PART {p.get('part')} pages {p.get('pages')}")
+                for g in p.get("groups", []):
+                    print("\n".join(_render_group(g, m.get("answers", {}))))
+                tr = p.get("transcript", "")
+                print(f"  transcript: {len(tr.split())} words, {tr.count('[Q')} Q-markers; starts: {tr[:100]!r}")
+        elif mod == "reading":
+            for p in m.get("passages", []):
+                words = sum(len(x.get("text", "").split()) for x in p.get("paragraphs", []))
+                print(f"PASSAGE {p.get('passage')} '{p.get('title')}' pages {p.get('pages')} {words} words, labels {[x.get('label') for x in p.get('paragraphs', []) if x.get('label')]}")
+                for g in p.get("groups", []):
+                    print("\n".join(_render_group(g, m.get("answers", {}))))
+        elif mod == "writing":
+            for t in m.get("tasks", []):
+                print(f"TASK {t.get('task')} image={t.get('image')} sample={'yes' if t.get('sample') else 'no'}")
+                for s in t.get("prompt", []):
+                    print("  | " + s)
+
+
+def cmd_answers(args):
+    d = _exam(args[0])
+    for mod in ("listening", "reading"):
+        a = d.get(mod, {}).get("answers", {})
+        items = [f"{n} {'/'.join(a.get(str(n), {}).get('a', ['??']))}" + (f" [{a[str(n)]['k']}]" if a.get(str(n), {}).get('k') else "") for n in range(1, 41)]
+        print(mod.upper())
+        for i in range(0, 40, 10):
+            print("  " + " | ".join(items[i:i + 10]))
+        if d.get(mod, {}).get("eitherOrder"):
+            print("  eitherOrder:", d[mod]["eitherOrder"])
+
+
+def main():
+    if len(sys.argv) < 2 or sys.argv[1] in ("-h", "--help", "help"):
+        print(__doc__)
+        return
+    cmd, args = sys.argv[1], sys.argv[2:]
+    fn = globals().get("cmd_" + cmd)
+    if not fn:
+        sys.exit(f"unknown command {cmd}\n{__doc__}")
+    fn(args)
+
+
+if __name__ == "__main__":
+    main()

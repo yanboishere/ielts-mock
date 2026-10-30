@@ -1,0 +1,1790 @@
+{
+ "schema": "ielts-mock.exam/1",
+ "id": "C7-T3",
+ "source": {
+  "book": 7,
+  "test": 3
+ },
+ "title": "Cambridge IELTS 7 · Test 3",
+ "listening": {
+  "parts": [
+   {
+    "part": 1,
+    "range": [
+     1,
+     10
+    ],
+    "pages": [
+     60,
+     61
+    ],
+    "groups": [
+     {
+      "id": "L1-1",
+      "type": "completion",
+      "range": [
+       1,
+       2
+      ],
+      "instructions": [
+       "Complete the notes below.",
+       "Write **NO MORE THAN THREE WORDS AND/OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "note",
+        "text": "*Example* Type of job required: Part-time"
+       },
+       {
+        "t": "p",
+        "text": "Student is studying {{1}}"
+       },
+       {
+        "t": "p",
+        "text": "Student is in the {{2}} year of the course."
+       }
+      ]
+     },
+     {
+      "id": "L1-2",
+      "type": "completion",
+      "range": [
+       3,
+       5
+      ],
+      "instructions": [
+       "Complete the table below.",
+       "Write **NO MORE THAN TWO WORDS** for each answer."
+      ],
+      "content": [
+       {
+        "t": "table",
+        "header": 1,
+        "rows": [
+         [
+          "Position Available",
+          "Where",
+          "Problem"
+         ],
+         [
+          "Receptionist",
+          "in the {{3}}",
+          "evening lectures"
+         ],
+         [
+          "{{4}}",
+          "in the Child Care Centre",
+          "too early"
+         ],
+         [
+          "Clerical Assistant",
+          "in the {{5}}",
+          "evening lectures"
+         ]
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L1-3",
+      "type": "completion",
+      "range": [
+       6,
+       10
+      ],
+      "instructions": [
+       "Complete the form below.",
+       "Write **NO MORE THAN THREE WORDS AND/OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "table",
+        "header": 1,
+        "rows": [
+         [
+          "STUDENT DETAILS",
+          ""
+         ],
+         [
+          "**Name:**",
+          "Anita Newman"
+         ],
+         [
+          "**Address:**",
+          "{{6}}\nRoom No. {{7}}"
+         ],
+         [
+          "**Other skills:**",
+          "Speaks some Japanese"
+         ],
+         [
+          "**Position available:**",
+          "{{8}} at the English Language Centre"
+         ],
+         [
+          "**Duties:**",
+          "Respond to enquiries and\n{{9}}"
+         ],
+         [
+          "**Time of interview:**",
+          "Friday at {{10}} a.m."
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    "transcript": "AGENT: Good morning.\nSTUDENT: Oh, good morning. Is this... er... room number 26?\nAGENT: Yes, that's right.\nSTUDENT: So is this the Student Job Centre?\nAGENT: It certainly is. How can I help you?\nSTUDENT: Well, actually I'm looking for a job – a part-time job. Do you have anything available at the moment?\nAGENT: Ah, yes... Are you a registered student? I'm afraid this service is only available to full-time students.\nSTUDENT: Yes... I am. I'm doing a degree in Business Studies. Here's my [Q1] student card.\nAGENT: Which year are you in?\nSTUDENT: Well... I've been at uni for four years but I'm in the Third Year [Q2] because I took last year off.\nAGENT: Right... well, let's just have a look at what positions are available at the moment. There's a job working at the reception desk at the Sports [Q3] Centre, for three evenings a week – that's Wednesdays, Thursdays and Fridays.\nSTUDENT: That sounds like fun but unfortunately I have evening lectures – so that's not possible, I'm afraid. Is there anything during the day?\nAGENT: OK, that's no good then. Um. What about cleaning? There's a position for a cleaner at the Child Care Centre. [Q4]\nSTUDENT: Right...\nAGENT: But you'd need to be there at 6 am. Does that appeal?\nSTUDENT: Six o'clock in the morning! Oh, that's far too early for me, I'm afraid. I'd never make it that early in the morning.\nAGENT: Mmm... Well – there was a position going in the Computer Lab. for three days a week that might be OK. Ah, here it is! No, it's in the [Q5] Library, not the Lab., Clerical Assistant required – I think it mostly involves putting the books back on the shelves. Oh no – hang on. It's for Wednesday and Friday evenings again.\nSTUDENT: No – I can't manage that because of the lectures.\nAGENT: OK, I'm getting the idea. Look, I'll just get a few details from you anyway, and then we can check through the list and see what comes up.\nAGENT: We'll fill in the personal details on this application form first, if that's OK?\nSTUDENT: Yes, that's fine.\nAGENT: Now, what's your name again?\nSTUDENT: Anita Newman – that's N-E-W-M-A-N.\nAGENT: And your address, Anita?\nSTUDENT: I'm in one of the Halls of Residence for post-graduate students, you know, International House. [Q6]\nAGENT: OK – that's easy. What's your room number there?\nSTUDENT: Room B569 – no sorry B659. I always get that wrong. I haven't been [Q7] living there very long.\nAGENT: Do you have any other skills? Typing, languages, that sort of thing?\nSTUDENT: Well, I speak some Japanese.\nAGENT: Right, I'll make a note of that. Now – let's see what else is available. What do you think of administrative work? There is a position for an Office Assistant at the English Language Centre. [Q8]\nSTUDENT: That sounds interesting.\nAGENT: It's for 3 days a week – Monday, Friday and Saturday mornings. Interested?\nSTUDENT: Mmm. I was hoping to have Saturdays free. But I need the work so... can you tell me what the job involves?\nAGENT: Yes, sure. It says here that you'll be required to deal with student enquiries and answer the phone. [Q9]\nSTUDENT: I'm sure I can handle all that without a problem.\nAGENT: Great. Well, would you like me to arrange an interview for you? Say, Friday morning, around ten?\nSTUDENT: Could we make it a bit later? Unfortunately, I've got something to do at ten. Would that be OK?\nAGENT: Not a problem. How about eleven thirty? Hope it works out for you [Q10] Anita.\nSTUDENT: Me too. And thanks for all your help."
+   },
+   {
+    "part": 2,
+    "range": [
+     11,
+     20
+    ],
+    "pages": [
+     62,
+     63
+    ],
+    "groups": [
+     {
+      "id": "L2-1",
+      "type": "choice",
+      "range": [
+       11,
+       11
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B** or **C**."
+      ],
+      "title": "SPONSORED WALKING HOLIDAY",
+      "questions": [
+       {
+        "n": 11,
+        "text": "On the holiday, you will be walking for",
+        "options": [
+         {
+          "key": "A",
+          "text": "6 days."
+         },
+         {
+          "key": "B",
+          "text": "8 days."
+         },
+         {
+          "key": "C",
+          "text": "10 days."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L2-2",
+      "type": "choice",
+      "range": [
+       12,
+       12
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B** or **C**."
+      ],
+      "image": "images/C7/C7-T3-L2-q12-pies.png",
+      "questions": [
+       {
+        "n": 12,
+        "text": "What proportion of the sponsorship money goes to charity?",
+        "options": [
+         {
+          "key": "A",
+          "text": ""
+         },
+         {
+          "key": "B",
+          "text": ""
+         },
+         {
+          "key": "C",
+          "text": ""
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L2-3",
+      "type": "choice",
+      "range": [
+       13,
+       16
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B** or **C**."
+      ],
+      "questions": [
+       {
+        "n": 13,
+        "text": "Each walker's sponsorship money goes to one",
+        "options": [
+         {
+          "key": "A",
+          "text": "student."
+         },
+         {
+          "key": "B",
+          "text": "teacher."
+         },
+         {
+          "key": "C",
+          "text": "school."
+         }
+        ]
+       },
+       {
+        "n": 14,
+        "text": "When you start the trek you must be",
+        "options": [
+         {
+          "key": "A",
+          "text": "interested in getting fit."
+         },
+         {
+          "key": "B",
+          "text": "already quite fit."
+         },
+         {
+          "key": "C",
+          "text": "already very fit."
+         }
+        ]
+       },
+       {
+        "n": 15,
+        "text": "As you walk you will carry",
+        "options": [
+         {
+          "key": "A",
+          "text": "all of your belongings."
+         },
+         {
+          "key": "B",
+          "text": "some of your belongings."
+         },
+         {
+          "key": "C",
+          "text": "none of your belongings."
+         }
+        ]
+       },
+       {
+        "n": 16,
+        "text": "The Semira Region has a long tradition of",
+        "options": [
+         {
+          "key": "A",
+          "text": "making carpets."
+         },
+         {
+          "key": "B",
+          "text": "weaving blankets."
+         },
+         {
+          "key": "C",
+          "text": "carving wood."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L2-4",
+      "type": "completion",
+      "range": [
+       17,
+       20
+      ],
+      "instructions": [
+       "Complete the form below.",
+       "Write **ONE WORD ONLY** for each answer."
+      ],
+      "content": [
+       {
+        "t": "table",
+        "header": 1,
+        "rows": [
+         [
+          "ITINERARY",
+          ""
+         ],
+         [
+          "Day 1",
+          "arrive in Kishba"
+         ],
+         [
+          "Day 2",
+          "rest day"
+         ],
+         [
+          "Day 3",
+          "spend all day in a\n{{17}}"
+         ],
+         [
+          "Day 4",
+          "visit a school"
+         ],
+         [
+          "Day 5",
+          "rest day"
+         ],
+         [
+          "Day 6",
+          "see a {{18}} with old carvings"
+         ],
+         [
+          "Day 7",
+          "rest day"
+         ],
+         [
+          "Day 8",
+          "swim in a {{19}}"
+         ],
+         [
+          "Day 9",
+          "visit a {{20}}"
+         ],
+         [
+          "Day 10",
+          "depart from Kishba"
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    "transcript": "Good morning. I'm very pleased to have been invited along to your club to talk about our Charity Sponsored Walking Holiday for Education Aid. I'll start by giving you a brief overview of what it entails. First of all let me explain what we mean by 'sponsored' here. This is where people promise to donate money to the charity if you achieve your goal, in this case to walk a certain number of miles.\nBasically we are organizing a ten-day holiday, from the sixth to the sixteenth of November, with eight days actual walking, trekking in the Semira Mountains. [Q11]\nLet's have a look at some of the details. We require you to raise sponsorship money of at least $3,200, paying $250 of it up front as a deposit and the rest in stages throughout the year. Out of this about thirty-five per cent will go on your expenses, and that leaves sixty-five per cent [Q12] guaranteed to go to the charity.\nWhich brings me to the most important part. This trek is being specifically organized to help education in the Semira region. Last year we helped train teachers for the disabled, and this year we're focusing on the pupils. Each of the walkers' sponsorship money will go to help an [Q13] individual special needs pupil in one of the mountain schools. In the second part of the talk I'll be giving you a lot more details, but back to the basic information.\nAge limits. This is the second time we have run this kind of holiday and um, on the first we even had an eighty-year old, but we found it was wise to establish limits this time. You have to be at least eighteen and the top limit is now seventy, though you need to obtain a health certificate from your doctor if you are over sixty years old.\nNow, the Semira Mountains are among the highest in the world but you mustn't be too daunted, we will mainly be trekking in the foothills only, although there will be spectacular views even in the foothills. However, you will need to be extremely fit if you aren't now and [Q14] you're interested in coming with us. You have plenty of time to get into shape. You will be sleeping in tents so you must have quite a bit of equipment with you but you will be helped by local assistants. Your bedding and so forth will be carried by them. We ask that you only [Q15] walk with a small rucksack with needs for the day.\nI don't think I've really said enough about the marvellous area you'll be walking in. Let's have a look at some of the sights you'll be seeing. Apart from these spectacular snow-covered peaks and valleys, there are marvellous historic villages. The area has been famous for centuries for making beautiful carpets, although recently there has been a trend to move [Q16] into weaving blankets and wood carving. The people are extremely friendly and welcoming. We deliberately keep the parties small in size to minimize disruption to people and landscape.\nI hope that there are still some people interested. I will be distributing leaflets at the end where you can find out more information, but just for the moment I'll outline the itinerary, the main high points of the holiday. Obviously, you'll start by flying out to Kishba, the capital city, on Day One. After a couple of days to acclimatize yourself, you'll start the trek on Day Three walking through the enormous Katiba Forest which will take the whole of the [Q17] day. Day Four takes us higher up, going through the foothills past a number of villages and visiting a school for the disabled in Sohan. Then you have a rest day, that's Day Five, before going to the spectacular Kumi Temple with twelfth-century carvings, set in a small forest by [Q18] a lake and that's Day Six, the highlight for many. We stay near there for Day Seven because then comes the hardest day, walking through very mountainous country, but culminating in a swim in the Parteh Falls. This is the highest waterfall in the region. Day Nine is much easier, [Q19] with part of the day spent in a village where they make some of the gorgeous red blankets. [Q20] Then back down to Kishba and the journey home.\nSo you can see it's a pretty packed timetable..."
+   },
+   {
+    "part": 3,
+    "range": [
+     21,
+     30
+    ],
+    "pages": [
+     64,
+     65,
+     66
+    ],
+    "groups": [
+     {
+      "id": "L3-1",
+      "type": "completion",
+      "range": [
+       21,
+       22
+      ],
+      "instructions": [
+       "Complete the notes below.",
+       "Write **ONE WORD AND/OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "OCEAN RESEARCH"
+       },
+       {
+        "t": "sub",
+        "text": "The Robotic Float Project"
+       },
+       {
+        "t": "li",
+        "text": "Float is shaped like a {{21}}"
+       },
+       {
+        "t": "li",
+        "text": "Scientists from {{22}} have worked on the project so far"
+       }
+      ]
+     },
+     {
+      "id": "L3-2",
+      "type": "completion",
+      "range": [
+       23,
+       25
+      ],
+      "instructions": [
+       "Complete the diagram below.",
+       "Write **ONE WORD AND/OR A NUMBER** for each answer."
+      ],
+      "image": "images/C7/C7-T3-L3-diagram.png",
+      "content": [
+       {
+        "t": "h",
+        "text": "THE OPERATIONAL CYCLE"
+       },
+       {
+        "t": "p",
+        "text": "Float dropped into ocean and {{23}} by satellite"
+       },
+       {
+        "t": "p",
+        "text": "Average distance travelled: {{24}}"
+       },
+       {
+        "t": "p",
+        "text": "Float records changes in salinity and {{25}}"
+       }
+      ]
+     },
+     {
+      "id": "L3-3",
+      "type": "matching",
+      "range": [
+       26,
+       30
+      ],
+      "instructions": [
+       "In what time period can data from the float projects help with the following things?",
+       "Write the correct letter, **A**, **B** or **C**, next to questions 26–30."
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": "At present"
+       },
+       {
+        "key": "B",
+        "text": "In the near future"
+       },
+       {
+        "key": "C",
+        "text": "In the long-term future"
+       }
+      ],
+      "reuse": true,
+      "questions": [
+       {
+        "n": 26,
+        "text": "understanding of El Niño"
+       },
+       {
+        "n": 27,
+        "text": "understanding of climate change"
+       },
+       {
+        "n": 28,
+        "text": "naval rescues"
+       },
+       {
+        "n": 29,
+        "text": "sustainable fishing practices"
+       },
+       {
+        "n": 30,
+        "text": "crop selection"
+       }
+      ]
+     }
+    ],
+    "transcript": "SIMON: Thanks to all of you for coming along today to hear about how the robotic float project is helping with ocean research. Well, first of all we'll look at what a robotic float does and its use. So let's start with the device itself. It looks a bit like a cigar and it's about one and a half [Q21] metres long. More importantly it's full of equipment that's designed to collect data. So, it can help us in building up a profile of different factors which work together within the world's oceans.\nSTUDENT 1: Sounds like a big project – isn't it too big for one country to undertake?\nSIMON: That's quite true but this project is a really good example of international co-operation. Over the last five years scientists from thirteen countries have been taking part in the project and launching [Q22] floats in their area of ocean control. And next year this number will rise to fourteen when Indonesia joins the project.\nSTUDENT 2: That's impressive.\nSIMON: But let's move onto how floats work.\nSIMON: The operational cycle goes like this. Each of the floats is dropped in the ocean from a boat at a set point and activated from a satellite. [Q23] Then the float immediately sinks about 2,000 metres... that's two whole kilometres down in the water. It stays at this depth for about 10 days and is carried around by the currents which operate in the ocean at this level. During this time it's possible for it to cover quite large distances but the average is fifty kilometres. [Q24]\nSTUDENT 2: So what is it actually recording?\nSIMON: Well at this stage nothing, but as it rises to the surface it collects all sorts of data, most importantly variations in salinity, that's salt levels, and the changes in temperature, a bit like underwater weather balloons. [Q25] Then when it gets back to the surface all the data it's collected is beamed up to the satellite. After about five hours on the surface the float automatically sinks, beginning the whole process again.\nSTUDENT 1: What happens to the data?\nSIMON: Well the information is transferred direct to onshore meteorological stations... like our one in Hobart... and within four hours the findings can be on computers and they can be mapped and analysed.\nSTUDENT 2: You say you're building models of the world's ocean systems but how're they going to be used, and more importantly, when?\nSIMON: Some of the data has already helped in completing projects. For [Q26] example, our understanding of the underlying causes of El Niño events is being confirmed by float data. Another way we're using float data is to help us to understand the mechanics of climate change, like [Q27] global warming and ozone depletion. That's part of an ongoing variability study but the results are still a long way off. However, this is not the case with our ocean weather forecasting. Because we know from the floats what the prevailing weather conditions will be in certain parts of the ocean, we can advise the navy on search and rescue missions. That's happening right now and [Q28] many yachtsmen owe their lives to the success of this project. In addition, the float data can help us to look at the biological implications of ocean processes.\nSTUDENT 1: Would that help with preserving fish stocks? [Q29]\nSIMON: Yes, and advising governments on fisheries legislation. We're well on the way to completing a project on this. We hope it will help to bring about more sustainable fishing practices. We'll be seeing the results of that quite soon.\nSTUDENT 2: It sounds like the data from floats has lots of applications.\nSIMON: Yes it does. It's also a powerful agricultural tool. If we were aware of what the weather would be like, say, next year, we could make sure that the farmers planted appropriate grain varieties to produce the best yield from the available rainfall.\nSTUDENT 1: That sounds a bit like science fiction, especially when now we can't even tell them when a drought will break.\nSIMON: I agree that this concept is still a long way in the future, but it will [Q30] come eventually and the float data will have made a contribution."
+   },
+   {
+    "part": 4,
+    "range": [
+     31,
+     40
+    ],
+    "pages": [
+     67,
+     68
+    ],
+    "groups": [
+     {
+      "id": "L4-1",
+      "type": "choice",
+      "range": [
+       31,
+       34
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B** or **C**."
+      ],
+      "title": "Hotels and the tourist industry",
+      "questions": [
+       {
+        "n": 31,
+        "text": "According to the speaker, how might a guest feel when staying in a luxury hotel?",
+        "options": [
+         {
+          "key": "A",
+          "text": "impressed with the facilities"
+         },
+         {
+          "key": "B",
+          "text": "depressed by the experience"
+         },
+         {
+          "key": "C",
+          "text": "concerned at the high costs"
+         }
+        ]
+       },
+       {
+        "n": 32,
+        "text": "According to recent research, luxury hotels overlook the need to",
+        "options": [
+         {
+          "key": "A",
+          "text": "provide for the demands of important guests."
+         },
+         {
+          "key": "B",
+          "text": "create a comfortable environment."
+         },
+         {
+          "key": "C",
+          "text": "offer an individual and personal welcome."
+         }
+        ]
+       },
+       {
+        "n": 33,
+        "text": "The company focused their research on",
+        "options": [
+         {
+          "key": "A",
+          "text": "a wide variety of hotels."
+         },
+         {
+          "key": "B",
+          "text": "large, luxury hotel chains."
+         },
+         {
+          "key": "C",
+          "text": "exotic holiday hotels."
+         }
+        ]
+       },
+       {
+        "n": 34,
+        "text": "What is the impact of the outside environment on a hotel guest?",
+        "options": [
+         {
+          "key": "A",
+          "text": "It has a considerable effect."
+         },
+         {
+          "key": "B",
+          "text": "It has a very limited effect."
+         },
+         {
+          "key": "C",
+          "text": "It has no effect whatsoever."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L4-2",
+      "type": "completion",
+      "range": [
+       35,
+       40
+      ],
+      "instructions": [
+       "Complete the notes below.",
+       "Write **ONE WORD ONLY** for each answer."
+      ],
+      "content": [
+       {
+        "t": "p",
+        "text": "A company providing luxury serviced apartments aims to:"
+       },
+       {
+        "t": "li",
+        "text": "cater specifically for {{35}} travellers"
+       },
+       {
+        "t": "li",
+        "text": "provide a stylish {{36}} for guests to use"
+       },
+       {
+        "t": "li",
+        "text": "set a trend throughout the {{37}} which becomes permanent"
+       },
+       {
+        "t": "p",
+        "text": "Traditional holiday hotels attract people by:"
+       },
+       {
+        "t": "li",
+        "text": "offering the chance to {{38}} their ordinary routine life"
+       },
+       {
+        "t": "li",
+        "text": "making sure that they are cared for in all respects – like a {{39}}"
+       },
+       {
+        "t": "li",
+        "text": "leaving small treats in their rooms – e.g. cosmetics or {{40}}"
+       }
+      ]
+     }
+    ],
+    "transcript": "Good morning everyone. Today's lecture forms part of the Hospitality and Tourism module. Last week I looked at the economy end of the hotel business; this week I'm going to discuss the luxury end of the market. Let's consider the following scenario...\nYou wake up in the middle of the night in a strange hotel miles away from home, disoriented most probably from jet lag, when even the most expensive surroundings can seem empty and [Q31] dispiriting. You have paid a great deal of money to stay in this first-class hotel with its contemporary technology, but according to recent research carried out by an international travel and public relations company, all is not well. The research suggests that even the most opulent, luxurious hotels seem to have underestimated the most basic needs of their customers – be they travelling for work or pleasure: the need to feel at home in surroundings [Q32] which are both familiar and inviting.\nDo these findings, however, apply only to hotels situated in particular areas? Is it possible that the external environment can affect a guest's well-being? The company's research covered a whole range of different hotel types, both independent hotels and those which are part of [Q33] large chains. They investigated chic so-called boutique hotels in the heart of downtown business districts, stately mansions located in the depths of beautiful countryside, and plush hotels built at the edge of tropical beaches surrounded by palm trees and idyllic blue ocean. And the research concluded that what was outside the hotel building simply didn't matter. [Q34] This is a fascinating revelation and those of you hoping to move into careers in the travel and leisure industry would be well advised to look at the findings in more detail.\nBut back to the main point of this lecture... the need to feel at home. What can the hotel industry do about it? And is the very idea so subjective that it's impossible to do *anything* about it on a global basis?\nHowever, nothing stands still in this world. One company has come up with the slogan 'Take Your Home With You', and aims to provide clients with luxury serviced apartments. Those in the business travel industry maintain that these serviced apartments dispense with all the unwanted and expensive hotel services that business travellers don't want, while maximising [Q35] the facilities they do want. For example, not only sleeping and living accommodation, but also a sleek modern kitchen that allows guests to cook and entertain if they wish, at no [Q36] additional cost. The attractions of such facilities are obvious and it'll be interesting to see whether the company manages to establish a trend all over the world and make a lasting [Q37] impact on the luxury accommodation market.\nNow, finally I want to consider the psychology underpinning the traditional holiday hotel industry. As a hotelier, how do you go about attracting people to give up the security of their own home and entrust themselves to staying in a completely strange place and sleeping in an unfamiliar bed? Firstly, hotels exploit people's need to escape the predictability of their [Q38] everyday lives. For a few days people can pretend they are free of responsibilities and can indulge themselves. Secondly, there is something very powerful in our need to be pampered and looked after, it's almost as if we return to being a baby, when everything was done for us [Q39] and we felt safe and secure. And not far removed from this is the pleasure in being spoilt and given little treats – like the miniscule bottles of shampoo and tiny bars of soap, the [Q40] chocolate on your pillow at night – and we actually forget that we are paying for it all!\nNext week, I'm going to look at eco-hotels, a fairly new phenomenon but increasingly popular..."
+   }
+  ],
+  "answers": {
+   "1": {
+    "a": [
+     "business"
+    ]
+   },
+   "2": {
+    "a": [
+     "third",
+     "3rd"
+    ],
+    "k": "third"
+   },
+   "3": {
+    "a": [
+     "Sport Centre",
+     "Sports Centre"
+    ],
+    "k": "Sport(s) Centre"
+   },
+   "4": {
+    "a": [
+     "a cleaner",
+     "cleaner"
+    ],
+    "k": "(a) cleaner"
+   },
+   "5": {
+    "a": [
+     "Library"
+    ]
+   },
+   "6": {
+    "a": [
+     "International House"
+    ]
+   },
+   "7": {
+    "a": [
+     "B659"
+    ]
+   },
+   "8": {
+    "a": [
+     "an office assistant",
+     "office assistant"
+    ],
+    "k": "(an) office assistant"
+   },
+   "9": {
+    "a": [
+     "answer the phone",
+     "answer phone"
+    ],
+    "k": "answer (the) phone"
+   },
+   "10": {
+    "a": [
+     "11.30"
+    ]
+   },
+   "11": {
+    "a": [
+     "B"
+    ]
+   },
+   "12": {
+    "a": [
+     "C"
+    ]
+   },
+   "13": {
+    "a": [
+     "A"
+    ]
+   },
+   "14": {
+    "a": [
+     "C"
+    ]
+   },
+   "15": {
+    "a": [
+     "B"
+    ]
+   },
+   "16": {
+    "a": [
+     "A"
+    ]
+   },
+   "17": {
+    "a": [
+     "forest"
+    ]
+   },
+   "18": {
+    "a": [
+     "temple"
+    ]
+   },
+   "19": {
+    "a": [
+     "waterfall"
+    ]
+   },
+   "20": {
+    "a": [
+     "village"
+    ]
+   },
+   "21": {
+    "a": [
+     "cigar"
+    ]
+   },
+   "22": {
+    "a": [
+     "13 different countries",
+     "13 countries"
+    ],
+    "k": "13 (different) countries"
+   },
+   "23": {
+    "a": [
+     "activated"
+    ]
+   },
+   "24": {
+    "a": [
+     "50 km",
+     "50 kms"
+    ],
+    "k": "50 km(s)"
+   },
+   "25": {
+    "a": [
+     "temperature"
+    ]
+   },
+   "26": {
+    "a": [
+     "A"
+    ]
+   },
+   "27": {
+    "a": [
+     "C"
+    ]
+   },
+   "28": {
+    "a": [
+     "A"
+    ]
+   },
+   "29": {
+    "a": [
+     "B"
+    ]
+   },
+   "30": {
+    "a": [
+     "C"
+    ]
+   },
+   "31": {
+    "a": [
+     "B"
+    ]
+   },
+   "32": {
+    "a": [
+     "B"
+    ]
+   },
+   "33": {
+    "a": [
+     "A"
+    ]
+   },
+   "34": {
+    "a": [
+     "C"
+    ]
+   },
+   "35": {
+    "a": [
+     "business"
+    ]
+   },
+   "36": {
+    "a": [
+     "kitchen"
+    ]
+   },
+   "37": {
+    "a": [
+     "world"
+    ]
+   },
+   "38": {
+    "a": [
+     "escape"
+    ]
+   },
+   "39": {
+    "a": [
+     "baby"
+    ]
+   },
+   "40": {
+    "a": [
+     "chocolate"
+    ]
+   }
+  }
+ },
+ "reading": {
+  "passages": [
+   {
+    "passage": 1,
+    "range": [
+     1,
+     13
+    ],
+    "pages": [
+     69,
+     70,
+     71,
+     72
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 1–13**, which are based on Reading Passage 1 below.",
+    "title": "Ant Intelligence",
+    "subtitle": null,
+    "paragraphs": [
+     {
+      "text": "When we think of intelligent members of the animal kingdom, the creatures that spring immediately to mind are apes and monkeys. But in fact the social lives of some members of the insect kingdom are sufficiently complex to suggest more than a hint of intelligence. Among these, the world of the ant has come in for considerable scrutiny lately, and the idea that ants demonstrate sparks of cognition has certainly not been rejected by those involved in these investigations."
+     },
+     {
+      "text": "Ants store food, repel attackers and use chemical signals to contact one another in case of attack. Such chemical communication can be compared to the human use of visual and auditory channels (as in religious chants, advertising images and jingles, political slogans and martial music) to arouse and propagate moods and attitudes. The biologist Lewis Thomas wrote, 'Ants are so much like human beings as to be an embarrassment. They farm fungi, raise aphids* as livestock, launch armies to war, use chemical sprays to alarm and confuse enemies, capture slaves, engage in child labour, exchange information ceaselessly. They do everything but watch television.'"
+     },
+     {
+      "text": "However, in ants there is no cultural transmission – everything must be encoded in the genes – whereas in humans the opposite is true. Only basic instincts are carried in the genes of a newborn baby, other skills being learned from others in the community as the child grows up. It may seem that this cultural continuity gives us a huge advantage over ants. They have never mastered fire nor progressed. Their fungus farming and aphid herding crafts are sophisticated when compared to the agricultural skills of humans five thousand years ago but have been totally overtaken by modern human agribusiness."
+     },
+     {
+      "text": "Or have they? The farming methods of ants are at least sustainable. They do not ruin environments or use enormous amounts of energy. Moreover, recent evidence suggests that the crop farming of ants may be more sophisticated and adaptable than was thought."
+     },
+     {
+      "text": "Ants were farmers fifty million years before humans were. Ants can't digest the cellulose in leaves – but some fungi can. The ants therefore cultivate these fungi in their nests, bringing them leaves to feed on, and then use them as a source of food. Farmer ants secrete antibiotics to control other fungi that might act as 'weeds', and spread waste to fertilise the crop."
+     },
+     {
+      "text": "It was once thought that the fungus that ants cultivate was a single type that they had propagated, essentially unchanged from the distant past. Not so. Ulrich Mueller of Maryland and his colleagues genetically screened 862 different types of fungi taken from ants' nests. These turned out to be highly diverse: it seems that ants are continually domesticating new species. Even more impressively, DNA analysis of the fungi suggests that the ants improve or modify the fungi by regularly swapping and sharing strains with neighbouring ant colonies."
+     },
+     {
+      "text": "Whereas prehistoric man had no exposure to urban lifestyles – the forcing house of intelligence – the evidence suggests that ants have lived in urban settings for close on a hundred million years, developing and maintaining underground cities of specialised chambers and tunnels."
+     },
+     {
+      "text": "When we survey Mexico City, Tokyo, Los Angeles, we are amazed at what has been accomplished by humans. Yet Hoelldobler and Wilson's magnificent work for ant lovers, The Ants, describes a supercolony of the ant Formica yessensis on the Ishikari Coast of Hokkaido. This 'megalopolis' was reported to be composed of 360 million workers and a million queens living in 4,500 interconnected nests across a territory of 2.7 square kilometres."
+     },
+     {
+      "text": "Such enduring and intricately meshed levels of technical achievement outstrip by far anything achieved by our distant ancestors. We hail as masterpieces the cave paintings in southern France and elsewhere, dating back some 20,000 years. Ant societies existed in something like their present form more than seventy million years ago. Beside this, prehistoric man looks technologically primitive. Is this then some kind of intelligence, albeit of a different kind?"
+     },
+     {
+      "text": "Research conducted at Oxford, Sussex and Zürich Universities has shown that when desert ants return from a foraging trip, they navigate by integrating bearings and distances, which they continuously update in their heads. They combine the evidence of visual landmarks with a mental library of local directions, all within a framework which is consulted and updated. So ants can learn too."
+     },
+     {
+      "text": "And in a twelve-year programme of work, Ryabko and Reznikova have found evidence that ants can transmit very complex messages. Scouts who had located food in a maze returned to mobilise their foraging teams. They engaged in contact sessions, at the end of which the scout was removed in order to observe what her team might do. Often the foragers proceeded to the exact spot in the maze where the food had been. Elaborate precautions were taken to prevent the foraging team using odour clues. Discussion now centres on whether the route through the maze is communicated as a 'left-right' sequence of turns or as a 'compass bearing and distance' message."
+     },
+     {
+      "text": "During the course of this exhaustive study, Reznikova has grown so attached to her laboratory ants that she feels she knows them as individuals - even without the paint spots used to mark them. It's no surprise that Edward Wilson, in his essay, 'In the company of ants', advises readers who ask what to do with the ants in their kitchen to: 'Watch where you step. Be careful of little lives.'"
+     },
+     {
+      "kind": "note",
+      "text": "* aphids: small insects of a different species from ants"
+     }
+    ],
+    "groups": [
+     {
+      "id": "R1-1",
+      "type": "tfng",
+      "range": [
+       1,
+       6
+      ],
+      "instructions": [
+       "Do the following statements agree with the information given in Reading Passage 1?",
+       "In boxes 1–6 on your answer sheet, write",
+       "**TRUE** if the statement agrees with the information",
+       "**FALSE** if the statement contradicts the information",
+       "**NOT GIVEN** if there is no information on this"
+      ],
+      "questions": [
+       {
+        "n": 1,
+        "text": "Ants use the same channels of communication as humans do."
+       },
+       {
+        "n": 2,
+        "text": "City life is one factor that encourages the development of intelligence."
+       },
+       {
+        "n": 3,
+        "text": "Ants can build large cities more quickly than humans do."
+       },
+       {
+        "n": 4,
+        "text": "Some ants can find their way by making calculations based on distance and position."
+       },
+       {
+        "n": 5,
+        "text": "In one experiment, foraging teams were able to use their sense of smell to find food."
+       },
+       {
+        "n": 6,
+        "text": "The essay, 'In the company of ants', explores ant communication."
+       }
+      ]
+     },
+     {
+      "id": "R1-2",
+      "type": "completion",
+      "range": [
+       7,
+       13
+      ],
+      "instructions": [
+       "Complete the summary using the list of words, **A–O**, below.",
+       "Write the correct letter, **A–O**, in boxes 7–13 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Ants as farmers"
+       },
+       {
+        "t": "p",
+        "text": "Ants have sophisticated methods of farming, including herding livestock and growing crops, which are in many ways similar to those used in human agriculture. The ants cultivate a large number of different species of edible fungi which convert {{7}} into a form which they can digest. They use their own natural {{8}} as weed-killers and also use unwanted materials as {{9}}. Genetic analysis shows they constantly upgrade these fungi by developing new species and by {{10}} species with neighbouring ant colonies. In fact, the farming methods of ants could be said to be more advanced than human agribusiness, since they use {{11}} methods, they do not affect the {{12}} and do not waste {{13}}."
+       }
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": "aphids"
+       },
+       {
+        "key": "B",
+        "text": "agricultural"
+       },
+       {
+        "key": "C",
+        "text": "cellulose"
+       },
+       {
+        "key": "D",
+        "text": "exchanging"
+       },
+       {
+        "key": "E",
+        "text": "energy"
+       },
+       {
+        "key": "F",
+        "text": "fertilizers"
+       },
+       {
+        "key": "G",
+        "text": "food"
+       },
+       {
+        "key": "H",
+        "text": "fungi"
+       },
+       {
+        "key": "I",
+        "text": "growing"
+       },
+       {
+        "key": "J",
+        "text": "interbreeding"
+       },
+       {
+        "key": "K",
+        "text": "natural"
+       },
+       {
+        "key": "L",
+        "text": "other species"
+       },
+       {
+        "key": "M",
+        "text": "secretions"
+       },
+       {
+        "key": "N",
+        "text": "sustainable"
+       },
+       {
+        "key": "O",
+        "text": "environment"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "passage": 2,
+    "range": [
+     14,
+     26
+    ],
+    "pages": [
+     73,
+     74,
+     75,
+     76,
+     77
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 14–26**, which are based on Reading Passage 2 on the following pages.",
+    "title": "Population movements and genetics",
+    "subtitle": null,
+    "paragraphs": [
+     {
+      "label": "A",
+      "text": "Study of the origins and distribution of human populations used to be based on archaeological and fossil evidence. A number of techniques developed since the 1950s, however, have placed the study of these subjects on a sounder and more objective footing. The best information on early population movements is now being obtained from the 'archaeology of the living body', the clues to be found in genetic material."
+     },
+     {
+      "label": "B",
+      "text": "Recent work on the problem of when people first entered the Americas is an example of the value of these new techniques. North-east Asia and Siberia have long been accepted as the launching ground for the first human colonisers of the New World¹. But was there one major wave of migration across the Bering Strait into the Americas, or several? And when did this event, or events, take place? In recent years, new clues have come from research into genetics, including the distribution of genetic markers in modern Native Americans²."
+     },
+     {
+      "label": "C",
+      "text": "An important project, led by the biological anthropologist Robert Williams, focused on the variants (called Gm allotypes) of one particular protein - immunoglobin G- found in the fluid portion of human blood. All proteins 'drift', or produce variants, over the generations, and members of an interbreeding human population will share a set of such variants. Thus, by comparing the Gm allotypes of two different populations (e.g. two Indian tribes), one can establish their genetic 'distance', which itself can be calibrated to give an indication of the length of time since these populations last interbred."
+     },
+     {
+      "label": "D",
+      "text": "Williams and his colleagues sampled the blood of over 5,000 American Indians in western North America during a twenty-year period. They found that their Gm allotypes could be divided into two groups, one of which also corresponded to the genetic typing of Central and South American Indians. Other tests showed that the Inuit (or Eskimo) and Aleut³ formed a third group. From this evidence it was deduced that there had been three major waves of migration across the Bering Strait. The first, Paleo-Indian, wave more than 15,000 years ago was ancestral to all Central and South American Indians. The second wave, about 14,000-12,000 years ago, brought Na-Dene hunters, ancestors of the Navajo and Apache (who only migrated south from Canada about 600 or 700 years ago). The third wave, perhaps 10,000 or 9,000 years ago, saw the migration from North-east Asia of groups ancestral to the modern Eskimo and Aleut."
+     },
+     {
+      "label": "E",
+      "text": "How far does other research support these conclusions? Geneticist Douglas Wallace has studied mitochondrial DNA⁴ in blood samples from three widely separated Native American groups: Pima-Papago Indians in Arizona, Maya Indians on the Yucatán peninsula, Mexico, and Ticuna Indians in the Upper Amazon region of Brazil. As would have been predicted by Robert Williams's work, all three groups appear to be descended from the same ancestral (Paleo-Indian) population."
+     },
+     {
+      "label": "F",
+      "text": "There are two other kinds of research that have thrown some light on the origins of the Native American population; they involve the study of teeth and of languages. The biological anthropologist Christy Turner is an expert in the analysis of changing physical characteristics in human teeth. He argues that tooth crowns and roots⁵ have a high genetic component, minimally affected by environmental and other factors. Studies carried out by Turner of many thousands of New and Old World specimens, both ancient and modern, suggest that the majority of prehistoric Americans are linked to Northern Asian populations by crown and root traits such as incisor⁶ shoveling (a scooping out on one or both surfaces of the tooth), single-rooted upper first premolars⁶ and triple-rooted lower first molars⁶. According to Turner, this ties in with the idea of a single Paleo-Indian migration out of North Asia, which he sets at before 14,000 years ago by calibrating rates of dental micro-evolution. Tooth analyses also suggest that there were two later migrations of Na-Denes and Eskimo-Aleut."
+     },
+     {
+      "label": "G",
+      "text": "The linguist Joseph Greenberg has, since the 1950s, argued that all Native American languages belong to a single 'Amerind' family, except for Na-Dene and Eskimo-Aleut - a view that gives credence to the idea of three main migrations. Greenberg is in a minority among fellow linguists, most of whom favour the notion of a great many waves of migration to account for the more than 1,000 languages spoken at one time by American Indians. But there is no doubt that the new genetic and dental evidence provides strong backing for Greenberg's view. Dates given for the migrations should nevertheless be treated with caution, except where supported by hard archaeological evidence."
+     },
+     {
+      "kind": "note",
+      "text": "¹ New World: the American continent, as opposed to the so-called Old World of Europe, Asia and Africa"
+     },
+     {
+      "kind": "note",
+      "text": "² modern Native American: an American descended from the groups that were native to America"
+     },
+     {
+      "kind": "note",
+      "text": "³ Inuit and Aleut: two of the ethnic groups native to the northern regions of North America (i.e. northern Canada and Greenland)"
+     },
+     {
+      "kind": "note",
+      "text": "⁴ DNA: the substance in which genetic information is stored"
+     },
+     {
+      "kind": "note",
+      "text": "⁵ crown/root: parts of the tooth"
+     },
+     {
+      "kind": "note",
+      "text": "⁶ incisor/premolar/molar: kinds of teeth"
+     }
+    ],
+    "groups": [
+     {
+      "id": "R2-1",
+      "type": "matching",
+      "range": [
+       14,
+       19
+      ],
+      "instructions": [
+       "Reading Passage 2 has seven sections, **A–G**.",
+       "Choose the correct headings for sections **A–F** from the list of headings below.",
+       "Write the correct number, **i–x**, in boxes 14–19 on your answer sheet.",
+       "Example: Section G – viii"
+      ],
+      "optionsTitle": "List of Headings",
+      "options": [
+       {
+        "key": "i",
+        "text": "The results of the research into blood-variants"
+       },
+       {
+        "key": "ii",
+        "text": "Dental evidence"
+       },
+       {
+        "key": "iii",
+        "text": "Greenberg's analysis of the dental and linguistic evidence"
+       },
+       {
+        "key": "iv",
+        "text": "Developments in the methods used to study early population movements"
+       },
+       {
+        "key": "v",
+        "text": "Indian migration from Canada to the U.S.A."
+       },
+       {
+        "key": "vi",
+        "text": "Further genetic evidence relating to the three-wave theory"
+       },
+       {
+        "key": "vii",
+        "text": "Long-standing questions about prehistoric migration to America"
+       },
+       {
+        "key": "viii",
+        "text": "Conflicting views of the three-wave theory, based on non-genetic evidence"
+       },
+       {
+        "key": "ix",
+        "text": "Questions about the causes of prehistoric migration to America"
+       },
+       {
+        "key": "x",
+        "text": "How analysis of blood-variants measures the closeness of the relationship between different populations"
+       }
+      ],
+      "questions": [
+       {
+        "n": 14,
+        "text": "Section A"
+       },
+       {
+        "n": 15,
+        "text": "Section B"
+       },
+       {
+        "n": 16,
+        "text": "Section C"
+       },
+       {
+        "n": 17,
+        "text": "Section D"
+       },
+       {
+        "n": 18,
+        "text": "Section E"
+       },
+       {
+        "n": 19,
+        "text": "Section F"
+       }
+      ]
+     },
+     {
+      "id": "R2-2",
+      "type": "completion",
+      "range": [
+       20,
+       21
+      ],
+      "instructions": [
+       "The discussion of Williams's research indicates the periods at which early people are thought to have migrated along certain routes. There are six routes, **A–F**, marked on the map below.",
+       "Complete the table below.",
+       "Write the correct letter, **A–F**, in boxes 20 and 21 on your answer sheet."
+      ],
+      "image": "images/C7/C7-T3-R2-map.png",
+      "content": [
+       {
+        "t": "table",
+        "header": 1,
+        "rows": [
+         [
+          "*Route*",
+          "*Period (number of years ago)*"
+         ],
+         [
+          "{{20}}",
+          "*15,000 or more*"
+         ],
+         [
+          "{{21}}",
+          "*600 to 700*"
+         ]
+        ]
+       }
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": ""
+       },
+       {
+        "key": "B",
+        "text": ""
+       },
+       {
+        "key": "C",
+        "text": ""
+       },
+       {
+        "key": "D",
+        "text": ""
+       },
+       {
+        "key": "E",
+        "text": ""
+       },
+       {
+        "key": "F",
+        "text": ""
+       }
+      ]
+     },
+     {
+      "id": "R2-3",
+      "type": "matching",
+      "range": [
+       22,
+       25
+      ],
+      "instructions": [
+       "Reading Passage 2 refers to the three-wave theory of early migration to the Americas. It also suggests in which of these three waves the ancestors of various groups of modern native Americans first reached the continent.",
+       "Classify the groups named in the table below as originating from",
+       "Write the correct letter, **A**, **B** or **C**, in boxes 22–25 on your answer sheet."
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": "the first wave"
+       },
+       {
+        "key": "B",
+        "text": "the second wave"
+       },
+       {
+        "key": "C",
+        "text": "the third wave"
+       }
+      ],
+      "reuse": true,
+      "questions": [
+       {
+        "n": 22,
+        "text": "Inuit"
+       },
+       {
+        "n": 23,
+        "text": "Apache"
+       },
+       {
+        "n": 24,
+        "text": "Pima-Papago"
+       },
+       {
+        "n": 25,
+        "text": "Ticuna"
+       }
+      ]
+     },
+     {
+      "id": "R2-4",
+      "type": "choice",
+      "range": [
+       26,
+       26
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B**, **C** or **D**.",
+       "Write the correct letter in box 26 on your answer sheet."
+      ],
+      "questions": [
+       {
+        "n": 26,
+        "text": "Christy Turner's research involved the examination of",
+        "options": [
+         {
+          "key": "A",
+          "text": "teeth from both prehistoric and modern Americans and Asians."
+         },
+         {
+          "key": "B",
+          "text": "thousands of people who live in either the New or the Old World."
+         },
+         {
+          "key": "C",
+          "text": "dental specimens from the majority of prehistoric Americans."
+         },
+         {
+          "key": "D",
+          "text": "the eating habits of American and Asian populations."
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "passage": 3,
+    "range": [
+     27,
+     40
+    ],
+    "pages": [
+     78,
+     79,
+     80,
+     81
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 27–40**, which are based on Reading Passage 3 below.",
+    "title": "Reading Passage 3",
+    "subtitle": null,
+    "paragraphs": [
+     {
+      "text": "Forests are one of the main elements of our natural heritage. The decline of Europe's forests over the last decade and a half has led to an increasing awareness and understanding of the serious imbalances which threaten them. European countries are becoming increasingly concerned by major threats to European forests, threats which know no frontiers other than those of geography or climate: air pollution, soil deterioration, the increasing number of forest fires and sometimes even the mismanagement of our woodland and forest heritage. There has been a growing awareness of the need for countries to get together to co-ordinate their policies. In December 1990, Strasbourg hosted the first Ministerial Conference on the protection of Europe's forests. The conference brought together 31 countries from both Western and Eastern Europe. The topics discussed included the co-ordinated study of the destruction of forests, as well as how to combat forest fires and the extension of European research programs on the forest ecosystem. The preparatory work for the conference had been undertaken at two meetings of experts. Their initial task was to decide which of the many forest problems of concern to Europe involved the largest number of countries and might be the subject of joint action. Those confined to particular geographical areas, such as countries bordering the Mediterranean or the Nordic countries therefore had to be discarded. However, this does not mean that in future they will be ignored."
+     },
+     {
+      "text": "As a whole, European countries see forests as performing a triple function: biological, economic and recreational. The first is to act as a 'green lung' for our planet; by means of photosynthesis, forests produce oxygen through the transformation of solar energy, thus fulfilling what for humans is the essential role of an immense, non-polluting power plant. At the same time, forests provide raw materials for human activities through their constantly renewed production of wood. Finally, they offer those condemned to spend five days a week in an urban environment an unrivalled area of freedom to unwind and take part in a range of leisure activities, such as hunting, riding and hiking. The economic importance of forests has been understood since the dawn of man — wood was the first fuel. The other aspects have been recognised only for a few centuries but they are becoming more and more important. Hence, there is a real concern throughout Europe about the damage to the forest environment which threatens these three basic roles."
+     },
+     {
+      "text": "The myth of the 'natural' forest has survived, yet there are effectively no remaining 'primary' forests in Europe. All European forests are artificial, having been adapted and exploited by man for thousands of years. This means that a forest policy is vital, that it must transcend national frontiers and generations of people, and that it must allow for the inevitable changes that take place in the forests, in needs, and hence in policy. The Strasbourg conference was one of the first events on such a scale to reach this conclusion. A general declaration was made that 'a central place in any ecologically coherent forest policy must be given to continuity over time and to the possible effects of unforeseen events, to ensure that the full potential of these forests is maintained'."
+     },
+     {
+      "text": "That general declaration was accompanied by six detailed resolutions to assist national policy-making. The first proposes the extension and systematisation of surveillance sites to monitor forest decline. Forest decline is still poorly understood but leads to the loss of a high proportion of a tree's needles or leaves. The entire continent and the majority of species are now affected: between 30% and 50% of the tree population. The condition appears to result from the cumulative effect of a number of factors, with atmospheric pollutants the principal culprits. Compounds of nitrogen and sulphur dioxide should be particularly closely watched. However, their effects are probably accentuated by climatic factors, such as drought and hard winters, or soil imbalances such as soil acidification, which damages the roots. The second resolution concentrates on the need to preserve the genetic diversity of European forests. The aim is to reverse the decline in the number of tree species or at least to preserve the 'genetic material' of all of them. Although forest fires do not affect all of Europe to the same extent, the amount of damage caused the experts to propose as the third resolution that the Strasbourg conference consider the establishment of a European databank on the subject. All information used in the development of national preventative policies would become generally available. The subject of the fourth resolution discussed by the ministers was mountain forests. In Europe, it is undoubtedly the mountain ecosystem which has changed most rapidly and is most at risk. A thinly scattered permanent population and development of leisure activities, particularly skiing, have resulted in significant long-term changes to the local ecosystems. Proposed developments include a preferential research program on mountain forests. The fifth resolution relaunched the European research network on the physiology of trees, called Eurosilva. Eurosilva should support joint European research on tree diseases and their physiological and biochemical aspects. Each country concerned could increase the number of scholarships and other financial support for doctoral theses and research projects in this area. Finally, the conference established the framework for a European research network on forest ecosystems. This would also involve harmonising activities in individual countries as well as identifying a number of priority research topics relating to the protection of forests. The Strasbourg conference's main concern was to provide for the future. This was the initial motivation, one now shared by all 31 participants representing 31 European countries. Their final text commits them to on-going discussion between government representatives with responsibility for forests."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R3-1",
+      "type": "tfng",
+      "range": [
+       27,
+       33
+      ],
+      "instructions": [
+       "Do the following statements agree with the information given in Reading Passage 3?",
+       "In boxes 27–33 on your answer sheet, write",
+       "**TRUE** if the statement agrees with the information",
+       "**FALSE** if the statement contradicts the information",
+       "**NOT GIVEN** if there is no information on this"
+      ],
+      "questions": [
+       {
+        "n": 27,
+        "text": "Forest problems of Mediterranean countries are to be discussed at the next meeting of experts."
+       },
+       {
+        "n": 28,
+        "text": "Problems in Nordic countries were excluded because they are outside the European Economic Community."
+       },
+       {
+        "n": 29,
+        "text": "Forests are a renewable source of raw material."
+       },
+       {
+        "n": 30,
+        "text": "The biological functions of forests were recognised only in the twentieth century."
+       },
+       {
+        "n": 31,
+        "text": "Natural forests still exist in parts of Europe."
+       },
+       {
+        "n": 32,
+        "text": "Forest policy should be limited by national boundaries."
+       },
+       {
+        "n": 33,
+        "text": "The Strasbourg conference decided that a forest policy must allow for the possibility of change."
+       }
+      ]
+     },
+     {
+      "id": "R3-2",
+      "type": "matching",
+      "range": [
+       34,
+       39
+      ],
+      "instructions": [
+       "Look at the following statements issued by the conference.",
+       "Which six of the following statements, **A–J**, refer to the resolutions that were issued?",
+       "Match the statements with the appropriate resolutions (Questions 34–39).",
+       "Write the correct letter, **A–J**, in boxes 34–39 on your answer sheet."
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": "All kinds of species of trees should be preserved."
+       },
+       {
+        "key": "B",
+        "text": "Fragile mountain forests should be given priority in research programs."
+       },
+       {
+        "key": "C",
+        "text": "The surviving natural forests of Europe do not need priority treatment."
+       },
+       {
+        "key": "D",
+        "text": "Research is to be better co-ordinated throughout Europe."
+       },
+       {
+        "key": "E",
+        "text": "Information on forest fires should be collected and shared."
+       },
+       {
+        "key": "F",
+        "text": "Loss of leaves from trees should be more extensively and carefully monitored."
+       },
+       {
+        "key": "G",
+        "text": "Resources should be allocated to research into tree diseases."
+       },
+       {
+        "key": "H",
+        "text": "Skiing should be encouraged in thinly populated areas."
+       },
+       {
+        "key": "I",
+        "text": "Soil imbalances such as acidification should be treated with compounds of nitrogen and sulphur."
+       },
+       {
+        "key": "J",
+        "text": "Information is to be systematically gathered on any decline in the condition of forests."
+       }
+      ],
+      "questions": [
+       {
+        "n": 34,
+        "text": "Resolution 1"
+       },
+       {
+        "n": 35,
+        "text": "Resolution 2"
+       },
+       {
+        "n": 36,
+        "text": "Resolution 3"
+       },
+       {
+        "n": 37,
+        "text": "Resolution 4"
+       },
+       {
+        "n": 38,
+        "text": "Resolution 5"
+       },
+       {
+        "n": 39,
+        "text": "Resolution 6"
+       }
+      ]
+     },
+     {
+      "id": "R3-3",
+      "type": "choice",
+      "range": [
+       40,
+       40
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B**, **C** or **D**.",
+       "Write the correct letter in box 40 on your answer sheet."
+      ],
+      "questions": [
+       {
+        "n": 40,
+        "text": "What is the best title for Reading Passage 3?",
+        "options": [
+         {
+          "key": "A",
+          "text": "The biological, economic and recreational role of forests"
+         },
+         {
+          "key": "B",
+          "text": "Plans to protect the forests of Europe"
+         },
+         {
+          "key": "C",
+          "text": "The priority of European research into ecosystems"
+         },
+         {
+          "key": "D",
+          "text": "Proposals for a world-wide policy on forest management"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "answers": {
+   "1": {
+    "a": [
+     "FALSE"
+    ]
+   },
+   "2": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "3": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "4": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "5": {
+    "a": [
+     "FALSE"
+    ]
+   },
+   "6": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "7": {
+    "a": [
+     "C"
+    ]
+   },
+   "8": {
+    "a": [
+     "M"
+    ]
+   },
+   "9": {
+    "a": [
+     "F"
+    ]
+   },
+   "10": {
+    "a": [
+     "D"
+    ]
+   },
+   "11": {
+    "a": [
+     "N"
+    ]
+   },
+   "12": {
+    "a": [
+     "O"
+    ]
+   },
+   "13": {
+    "a": [
+     "E"
+    ]
+   },
+   "14": {
+    "a": [
+     "iv"
+    ]
+   },
+   "15": {
+    "a": [
+     "vii"
+    ]
+   },
+   "16": {
+    "a": [
+     "x"
+    ]
+   },
+   "17": {
+    "a": [
+     "i"
+    ]
+   },
+   "18": {
+    "a": [
+     "vi"
+    ]
+   },
+   "19": {
+    "a": [
+     "ii"
+    ]
+   },
+   "20": {
+    "a": [
+     "E"
+    ]
+   },
+   "21": {
+    "a": [
+     "D"
+    ]
+   },
+   "22": {
+    "a": [
+     "C"
+    ]
+   },
+   "23": {
+    "a": [
+     "B"
+    ]
+   },
+   "24": {
+    "a": [
+     "A"
+    ]
+   },
+   "25": {
+    "a": [
+     "A"
+    ]
+   },
+   "26": {
+    "a": [
+     "A"
+    ]
+   },
+   "27": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "28": {
+    "a": [
+     "FALSE"
+    ]
+   },
+   "29": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "30": {
+    "a": [
+     "FALSE"
+    ]
+   },
+   "31": {
+    "a": [
+     "FALSE"
+    ]
+   },
+   "32": {
+    "a": [
+     "FALSE"
+    ]
+   },
+   "33": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "34": {
+    "a": [
+     "J"
+    ]
+   },
+   "35": {
+    "a": [
+     "A"
+    ]
+   },
+   "36": {
+    "a": [
+     "E"
+    ]
+   },
+   "37": {
+    "a": [
+     "B"
+    ]
+   },
+   "38": {
+    "a": [
+     "G"
+    ]
+   },
+   "39": {
+    "a": [
+     "D"
+    ]
+   },
+   "40": {
+    "a": [
+     "B"
+    ]
+   }
+  }
+ },
+ "writing": {
+  "tasks": [
+   {
+    "task": 1,
+    "minutes": 20,
+    "minWords": 150,
+    "pages": [
+     82
+    ],
+    "prompt": [
+     "The chart below shows information about changes in average house prices in five different cities between 1990 and 2002 compared with the average house prices in 1989.",
+     "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+    ],
+    "image": "images/C7/C7-T3-W1.png",
+    "sample": {
+     "kind": "candidate",
+     "band": "6.5",
+     "text": "The chart gives information about the percentage change in average house prices in five different cities located in five different countries over 12 year period between 1990 and 2002 compared with the average house prices in 1989.\n\nAccording to the chart, during the period from 1990 to 1995 the average prices of houses in three cities decreased significantly by five percent in New York (U,SA) and about 7.5 percent in both Tokyo (Japan) and London (UK). While the average house prices increased slightly in two cities Madrid (,Spain) and Frankfurt (Germany) by about 1.5 percent and 2 percent respectively.\n\nAs far as the next period (1996-2002) is concerned, it is clear that the average house prices decreased only in Tokyo (Japan) by 5 percent. In contrast the average house prices increased in the rest of cities. In New York it increased consideraply by 5 percent, in Madrid it increased slightly by 4 percent, in Frankfurt it increased by 2 percent.\n\nLondon has the largest increase in the average house price over the 6-year period from 1996 to 2002 as it increased dramatically by 11 percent.\n\nAll in all, there are a wide differences in house prices between the five cities which illustrated in this chart. These differences may be a result of the number of population or the number of houses required in a certain city.",
+     "comment": "This answer clearly presents and illustrates the key points of the information. The writer groups the data effectively and draws clear comparisons, although these could be more appropriately extended in the overview. Information is well organised across the response and a range of linking devices is used.\n\nThe opening paragraph, however, is an inadequate paraphrase of language given in the task, and although there are some appropriate collocations in the response, overall the range of vocabulary is rather restricted. Control is good, however, with few examples of error.\n\nA variety of structures is used with some fluency. There are occasional errors in punctuation and there are also some omissions and errors in grammar, but these tend to be minor and do not reduce communication."
+    }
+   },
+   {
+    "task": 2,
+    "minutes": 40,
+    "minWords": 250,
+    "pages": [
+     83
+    ],
+    "prompt": [
+     "Write about the following topic:",
+     "*As most people spend a major part of their adult life at work, job satisfaction is an important element of individual wellbeing.*",
+     "*What factors contribute to job satisfaction?*",
+     "*How realistic is the expectation of job satisfaction for all workers?*",
+     "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+    ],
+    "sample": {
+     "kind": "model",
+     "band": null,
+     "text": "Nowadays many adults have full-time jobs and the proportion of their lives spent doing such jobs is very high. So feelings about one's job must reflect how an individual feels about his or her life as a whole, and because of this, job satisfaction is indeed very important for the wellbeing of that person.\n\nEmployees get job satisfaction in a number of ways. Firstly, a person needs to feel that they are doing valued and valuable work, so positive feedback from superiors is very important in this respect. A sense of fulfilment is also encouraged if a worker feels the job is worth doing because it contributes to the society or the economy as a whole. Secondly, when someone feels they are improving or developing their skills through training opportunities, for example, then there is a sense of progression and purpose that rewards a worker. The sense of belonging to a team or a working community also contributes to job satisfaction because colleagues help each other to enjoy their working lives. Satisfaction is also increased by a sense of responsibility for and loyalty to a team.\n\nOf course not everyone enjoys their work. Hard economic realities mean that many people have little choice in the kind of job they can get. In some cases an employee is working in a job that suits neither their skills nor their personality. Some jobs are repetitive and boring, and labour relations may be poor and lead to resentment and insecurity rather than to job satisfaction.\n\nHowever, even though it is unlikely that all workers do feel happy in their work, I think it is not unrealistic to promote more job satisfaction in any job. If the factors identified above are implemented, then any job can be improved and more workers can feel greater degrees of job satisfaction.",
+     "comment": null
+    }
+   }
+  ]
+ },
+ "issues": [
+  "Listening Q11–16 are one printed group (\"SPONSORED WALKING HOLIDAY\"); split into three choice groups so that Q12's options (three pie charts A, B, C, shaded area = 'Money going to charity') can be shown as the group image; Q12 option texts are empty.",
+  "Listening Section 3 diagram (Q23–25) carries a blue 'www.luckbar.com.cn' watermark stamp in the scan; it remains visible in the crop.",
+  "Reading Passage 3 has no printed title (Question 40 asks for the best title); the title field is set to 'Reading Passage 3' (the printed section heading) so the required title is filled without inventing one.",
+  "Pages 69–72 (Passage 1 'Ant Intelligence' and its questions) were processed from OCR text only via script (no image views, remaining paragraph text not echoed); the footnote '* aphids: ...' and paragraphs 9–12 were taken from high-zoom OCR and dictionary-checked but not visually proofread. Summary option F is 'fertilizers' as read by two OCR passes.",
+  "Passage 2 superscript footnote markers are reproduced as Unicode superscripts (¹–⁶) with the six footnotes as note paragraphs."
+ ]
+}

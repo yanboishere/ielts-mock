@@ -1,0 +1,47 @@
+{
+ "tasks": [
+  {
+   "task": 1,
+   "minutes": 20,
+   "minWords": 150,
+   "pages": [
+    100
+   ],
+   "prompt": [
+    "The charts below give information about travel to and from the UK, and about the most popular countries for UK residents to visit.",
+    "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+   ],
+   "image": "images/C4/C4-T4-W1.png",
+   "sample": {
+    "kind": "candidate",
+    "band": "5",
+    "text": "The graphs reveal an information about overseas residents travel to UK and UK residents travel to other countries, and where they visited more.\n\nAccording to the chart of visits to and from UK, UK residents had visited abroad more than overseas residents visited UK. UK residents traveling were increased slightly till 1986, after that, there was a dramatic rise from &dollar;20 millions to &dollar;54 millions till 1999. In contrast, overseas residents were increased gradually in traveling to UK from &dollar;10 million to &dollar;28 millions between 1979 and 1999.\n\nFrom the information shown, we can see that France was the most popular country visited by UK residents, accounting for &dollar;11 millions. And the others countries visited by UK residents were Turkey, Greece and USA, which were &dollar;3, &dollar;4 and &dollar;5 millions.",
+    "comment": "The response is under-length (138 words). The candidate reports the key information in the first graph i.e. that visits to and from the UK increased and that the increase in visits from the UK was more marked than that of visits to the country. In the bar chart the information is also reported accurately. However, the references to &dollar are confusing, suggesting that the candidate has not fully understood the information given, and there is little attempt to relate the two diagrams or to make comparisons across the information given.\nThere is a brief introduction to the topic, with an attempt to paraphrase the rubric; the overall structure of the writing is clear, with some use of basic discourse markers. There is very little use of reference, however, resulting in a considerable amount of repetition of key vocabulary.\nThere is a fairly narrow range of sentence types and errors occur in verb formation and in the use of tenses."
+   }
+  },
+  {
+   "task": 2,
+   "minutes": 40,
+   "minWords": 250,
+   "pages": [
+    101
+   ],
+   "prompt": [
+    "Write about the following topic:",
+    "*In many countries schools have severe problems with student behaviour.*",
+    "*What do you think are the causes of this?*",
+    "*What solutions can you suggest?*",
+    "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+   ],
+   "sample": {
+    "kind": "model",
+    "band": null,
+    "text": "Poor student behaviour seems to be an increasingly widespread problem and I think that modern lifestyles are probably responsible for this.\n\nIn many countries, the birth rate is decreasing so that families are smaller with fewer children. These children are often spoilt, not in terms of love and attention because working parents do not have the time for this, but in more material ways. They are allowed to have whatever they want, regardless of price, and to behave as they please. This means that the children grow up without consideration for others and without any understanding of where their standard of living comes from.\n\nWhen they get to school age they have not learnt any self control or discipline. They have less respect for their teachers and refuse to obey school rules in the way that their parents did.\n\nTeachers continually complain about this problem and measures should be taken to combat the situation. But I think the solution to the problem lies with the families, who need to be more aware of the future consequences of spoiling their children. If they could raise them to be considerate of others and to be social, responsible individuals, the whole community would benefit.\n\nPerhaps parenting classes are needed to help them to do this, and high quality nursery schools could be established that would support families more in terms of raising the next generation. The government should fund this kind of parental support, because this is no longer a problem for individual families, but for society as a whole.",
+    "comment": null
+   }
+  }
+ ],
+ "issues": [
+  "Writing Task 1 sample answer and examiner comment: the book prints the unrendered entity '&dollar;' / '&dollar' (presumably intended as '$') before the figures; reproduced as printed."
+ ]
+}

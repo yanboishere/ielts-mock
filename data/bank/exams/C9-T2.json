@@ -1,0 +1,1778 @@
+{
+ "schema": "ielts-mock.exam/1",
+ "id": "C9-T2",
+ "source": {
+  "book": 9,
+  "test": 2
+ },
+ "title": "Cambridge IELTS 9 · Test 2",
+ "listening": {
+  "parts": [
+   {
+    "part": 1,
+    "range": [
+     1,
+     10
+    ],
+    "pages": [
+     28
+    ],
+    "groups": [
+     {
+      "id": "L1-1",
+      "type": "completion",
+      "range": [
+       1,
+       10
+      ],
+      "instructions": [
+       "Complete the form below.",
+       "Write **ONE WORD AND/OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Accommodation Form – Student Information"
+       },
+       {
+        "t": "table",
+        "header": 0,
+        "rows": [
+         [
+          "*Example:*\nType of accommodation:",
+          "*hall* of residence"
+         ],
+         [
+          "Name:",
+          "Anu {{1}}"
+         ],
+         [
+          "Date of birth:",
+          "{{2}}"
+         ],
+         [
+          "Country of origin:",
+          "India"
+         ],
+         [
+          "Course of study:",
+          "{{3}}"
+         ],
+         [
+          "Number of years planned in hall:",
+          "{{4}}"
+         ],
+         [
+          "Preferred catering arrangement:",
+          "half board"
+         ],
+         [
+          "Special dietary requirements:",
+          "no {{5}} (red)"
+         ],
+         [
+          "Preferred room type:",
+          "a single {{6}}"
+         ],
+         [
+          "Interests:",
+          "the {{7}} badminton"
+         ],
+         [
+          "Priorities in choice of hall:",
+          "to be with other students who are {{8}}\nto live outside the {{9}}\nto have a {{10}} area for socializing"
+         ],
+         [
+          "Contact phone number:",
+          "667549"
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    "transcript": "MAN: Good morning. Can I help you?\nWOMAN: Yes. I've just been accepted on a course at the university and I'd like to try and arrange accommodation in the hall of residence.\nMAN: Yes, certainly. Please sit down. What I'll do is fill in a form with you to find out a little more about your preferences and so forth.\nWOMAN: Thank you.\nMAN: So first of all, can I take your name?\nWOMAN: It's Anu Bhatt. [Q1]\nMAN: Could you spell your name please?\nWOMAN: Yes. A-N-U ... B-H-A double T.\nMAN: Thanks, and could I ask your date of birth?\nWOMAN: 31st March 1972. [Q2]\nMAN: Thank you. And where are you from?\nWOMAN: India.\nMAN: Oh right. And what will you be studying?\nWOMAN: I'm doing a course in nursing. [Q3]\nMAN: Right, thank you. And how long would you want to stay in hall, do you think?\nWOMAN: Well, it'll take three years but I'd only like to stay in hall for two. I'd like to [Q4] think about living outside for the third year.\nMAN: Fine. And what did you have in mind for catering? Do you want to cook for yourself or have all your meals provided, that's full board?\nWOMAN: Is there something in between?\nMAN: Yes. You can just have evening meal provided, which is half board.\nWOMAN: That's what I'd prefer.\nMAN: Yes, a lot of students opt for that. Now, with that in mind, do you have any special diet, anything we should know about?\nWOMAN: Yes, I don't take red meat. [Q5]\nMAN: No red meat.\nMAN: Now, thinking about the room itself, we have a number of options. You can have a single study bedroom or you can have a shared one. These are both what we call simple rooms. The other alternative is to opt for a single bedsit which actually has more space and better facilities. There's about £20 a week difference between them.\nWOMAN: Well, actually my grant is quite generous and I think the bedsit sounds the [Q6] best option.\nMAN: Lovely. I'll put you down for that and we'll see what availability is like. Now can I ask some other personal details which we like to have on record?\nWOMAN: Yes, of course.\nMAN: I wonder if you could let us know what your interests are. This might help us get a closer match for placing you in a particular hall.\nWOMAN: Ummm. Well, I love the theatre. [Q7]\nMAN: Right.\nWOMAN: And I enjoy sports, particularly badminton.\nMAN: That's worth knowing. Now, what we finish with on the form is really a list from you of what your priorities are in choosing a hall and we'll do our best to take these into account.\nWOMAN: Well, the first thing is I'd prefer a hall where there are other mature [Q8] students, if possible.\nMAN: Yes, we do have halls which tend to cater for slightly older students.\nWOMAN: Ummm and I'd prefer to be out of town. [Q9]\nMAN: That's actually very good for you because we tend to have more vacancies in out-of-town halls.\nWOMAN: Lucky!\nMAN: Yes. Anything else?\nWOMAN: Well, I would like somewhere with a shared area, a TV room for example, [Q10] or something like that. It's a good way to socialise.\nMAN: It certainly is.\nWOMAN: That's it.\nMAN: Now, we just need a contact telephone number for you.\nWOMAN: Sure, I'll just find it. It's double 67549.\nMAN: Great, so we'll be in contact with you as soon as possible..."
+   },
+   {
+    "part": 2,
+    "range": [
+     11,
+     20
+    ],
+    "pages": [
+     29,
+     30
+    ],
+    "groups": [
+     {
+      "id": "L2-1",
+      "type": "completion",
+      "range": [
+       11,
+       13
+      ],
+      "instructions": [
+       "Complete the table below.",
+       "Write **NO MORE THAN THREE WORDS** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Parks and open spaces"
+       },
+       {
+        "t": "table",
+        "header": 1,
+        "rows": [
+         [
+          "Name of place",
+          "Of particular interest",
+          "Open"
+         ],
+         [
+          "Halland Common",
+          "source of River Ouse",
+          "24 hours"
+         ],
+         [
+          "Holt Island",
+          "many different {{11}}",
+          "between {{12}}"
+         ],
+         [
+          "Longfield Country Park",
+          "reconstruction of a 2,000-year-old {{13}} with activities for children",
+          "daylight hours"
+         ]
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L2-2",
+      "type": "choice",
+      "range": [
+       14,
+       16
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B**, or **C**."
+      ],
+      "title": "Longfield Park",
+      "questions": [
+       {
+        "n": 14,
+        "text": "As part of Monday's activity, visitors will",
+        "options": [
+         {
+          "key": "A",
+          "text": "prepare food with herbs."
+         },
+         {
+          "key": "B",
+          "text": "meet a well-known herbalist."
+         },
+         {
+          "key": "C",
+          "text": "dye cloth with herbs."
+         }
+        ]
+       },
+       {
+        "n": 15,
+        "text": "For the activity on Wednesday,",
+        "options": [
+         {
+          "key": "A",
+          "text": "only group bookings are accepted."
+         },
+         {
+          "key": "B",
+          "text": "visitors should book in advance."
+         },
+         {
+          "key": "C",
+          "text": "attendance is free."
+         }
+        ]
+       },
+       {
+        "n": 16,
+        "text": "For the activity on Saturday, visitors should",
+        "options": [
+         {
+          "key": "A",
+          "text": "come in suitable clothing."
+         },
+         {
+          "key": "B",
+          "text": "make sure they are able to stay for the whole day."
+         },
+         {
+          "key": "C",
+          "text": "tell the rangers before the event what they wish to do."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L2-3",
+      "type": "matching",
+      "range": [
+       17,
+       20
+      ],
+      "instructions": [
+       "Label the map below",
+       "Write the correct letter, **A–I**, next to questions 17–20."
+      ],
+      "title": "Hinchingbrooke Park",
+      "image": "images/C9/C9-T2-L2-map.png",
+      "options": [
+       {
+        "key": "A",
+        "text": ""
+       },
+       {
+        "key": "B",
+        "text": ""
+       },
+       {
+        "key": "C",
+        "text": ""
+       },
+       {
+        "key": "D",
+        "text": ""
+       },
+       {
+        "key": "E",
+        "text": ""
+       },
+       {
+        "key": "F",
+        "text": ""
+       },
+       {
+        "key": "G",
+        "text": ""
+       },
+       {
+        "key": "H",
+        "text": ""
+       },
+       {
+        "key": "I",
+        "text": ""
+       }
+      ],
+      "questions": [
+       {
+        "n": 17,
+        "text": "bird hide"
+       },
+       {
+        "n": 18,
+        "text": "dog-walking area"
+       },
+       {
+        "n": 19,
+        "text": "flower garden"
+       },
+       {
+        "n": 20,
+        "text": "wooded area"
+       }
+      ]
+     }
+    ],
+    "transcript": "Hello, I'm delighted to welcome you to our Wildlife Club, and very pleased that you're interested in the countryside and the plants and creatures of this area. I think you'll be surprised at the variety we have here, even though we're not far from London. I'll start by telling you about some of the parks and open spaces nearby.\nOne very pleasant place is Halland Common. This has been public land for hundreds of years, and what you'll find interesting is that the River Ouse, which flows into the sea eighty kilometres away, has its source in the common. There's an information board about the plants and animals you can see here, and by the way, the common is accessible 24 hours a day.\nThen there's Holt Island, which is noted for its great range of trees. In the past willows [Q11] were grown here commercially for basket-making, and this ancient craft has recently been reintroduced. The island is only open to the public from Friday to Sunday, because it's quite [Q12] small, and if there were people around every day, much of the wildlife would keep away.\nFrom there it's just a short walk across the bridge to Longfield Country Park. Longfield [Q13] has a modern replica of a farm from over two thousand years ago. Children's activities are often arranged there, like bread-making and face-painting. The park is only open during daylight hours, so bear that in mind if you decide to go there.\nLongfield Park has a programme of activities throughout the year, and to give you a sample, this is what's happening in the next few days. On Monday you can learn about herbs, and how they've been used over the centuries. You'll start with a tour of our herb garden, practise the technique of using them as colour dyes for cloth, and listen to an [Q14] illustrated talk about their use in cooking and medicine.\nThen on Wednesday you can join local experts to discover the variety of insects and birds that appear in the evening. We keep to a small number of people in the group, so if you [Q15] want to go you'll need to phone the park ranger a few days ahead. There's a small charge, which you should pay when you turn up.\nI'm sure you're all keen to help with the practical task of looking after the park, so on Saturday you can join a working party. You'll have a choice of all sorts of activities, from planting hedges to picking up litter, so you'll be able to change from one to another when you feel like it. The rangers will be hard at work all day, but do come and join in, even for just a short while. One thing, though, is to make sure you're wearing something that you [Q16] don't mind getting dirty or torn.\nAnd finally I'd like to tell you about our new wildlife area, Hinchingbrooke Park, which will be opened to the public next month. This slide doesn't really indicate how big it is, but anyway, you can see the two gates into the park, and the main paths. As you can see, there's a lake in the north west of the park, with a bird hide to the west of it, at the end of a [Q17] path. So it'll be a nice quiet place for watching the birds on the lake.\nFairly close to where refreshments are available, there's a dog-walking area in the [Q18] southern part of the park, leading off from the path. And if you just want to sit and relax, you can go to the flower garden; that's the circular area on the map surrounded by paths. [Q19]\nAnd finally, there's a wooded area in the western section of the park between two paths. [Q20]\nOkay, that's enough from me, so let's go on to ..."
+   },
+   {
+    "part": 3,
+    "range": [
+     21,
+     30
+    ],
+    "pages": [
+     31,
+     32
+    ],
+    "groups": [
+     {
+      "id": "L3-1",
+      "type": "choice",
+      "range": [
+       21,
+       24
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B**, or **C**."
+      ],
+      "title": "Self-Access Centre",
+      "questions": [
+       {
+        "n": 21,
+        "text": "Students want to keep the Self-Access Centre because",
+        "options": [
+         {
+          "key": "A",
+          "text": "they enjoy the variety of equipment."
+         },
+         {
+          "key": "B",
+          "text": "they like being able to work on their own."
+         },
+         {
+          "key": "C",
+          "text": "it is an important part of their studies."
+         }
+        ]
+       },
+       {
+        "n": 22,
+        "text": "Some teachers would prefer to",
+        "options": [
+         {
+          "key": "A",
+          "text": "close the Self-Access Centre."
+         },
+         {
+          "key": "B",
+          "text": "move the Self-Access Centre elsewhere."
+         },
+         {
+          "key": "C",
+          "text": "restrict access to the Self-Access Centre."
+         }
+        ]
+       },
+       {
+        "n": 23,
+        "text": "The students' main concern about using the library would be",
+        "options": [
+         {
+          "key": "A",
+          "text": "the size of the library."
+         },
+         {
+          "key": "B",
+          "text": "difficulty in getting help."
+         },
+         {
+          "key": "C",
+          "text": "the lack of materials."
+         }
+        ]
+       },
+       {
+        "n": 24,
+        "text": "The Director of Studies is concerned about",
+        "options": [
+         {
+          "key": "A",
+          "text": "the cost of upgrading the centre."
+         },
+         {
+          "key": "B",
+          "text": "the lack of space in the centre."
+         },
+         {
+          "key": "C",
+          "text": "the difficulty in supervising the centre."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L3-2",
+      "type": "completion",
+      "range": [
+       25,
+       30
+      ],
+      "instructions": [
+       "Complete the notes below.",
+       "Write **NO MORE THAN TWO WORDS** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Necessary improvements to existing Self-Access Centre"
+       },
+       {
+        "t": "sub",
+        "text": "Equipment"
+       },
+       {
+        "t": "p",
+        "text": "Replace computers to create more space."
+       },
+       {
+        "t": "sub",
+        "text": "Resources"
+       },
+       {
+        "t": "p",
+        "text": "The level of the {{25}} materials, in particular, should be more clearly shown."
+       },
+       {
+        "t": "p",
+        "text": "Update the {{26}} collection."
+       },
+       {
+        "t": "p",
+        "text": "Buy some {{27}} and divide them up."
+       },
+       {
+        "t": "sub",
+        "text": "Use of the room"
+       },
+       {
+        "t": "p",
+        "text": "Speak to the teachers and organize a {{28}} for supervising the centre."
+       },
+       {
+        "t": "p",
+        "text": "Install an {{29}}."
+       },
+       {
+        "t": "p",
+        "text": "Restrict personal use of {{30}} on computer."
+       }
+      ]
+     }
+    ],
+    "transcript": "PAM: Hi Jun. As you know, I've asked you here today to discuss the future of our Self-Access Centre. We have to decide what we want to do about this very important resource for our English language students. So, can you tell me what the students think about this?\nJUN: Well, from the students' point of view, we would like to keep it. The majority of students say that they enjoy using it because it provides a variation on the classroom routine and they see it as a pretty major [Q21] component of their course, but we would like to see some improvements to the equipment, particularly the computers; there aren't enough for one each at the moment and we always have to share.\nPAM: Well yes, the teachers agree that it is a very valuable resource but one thing we have noticed is that a lot of the students are using it to check their personal emails. We don't want to stop you students using it, but we think the computers should be used as a learning resource, not for emails. Some of us also think that we could benefit a lot more by relocating the [Q22] Self-Access Centre to the main University library building. How do you think the students would feel about that, Jun?\nJUN: Well, the library is big enough to incorporate the Self-Access Centre, but it wouldn't be like a class activity anymore. Our main worry would be not being [Q23] able to go to a teacher for advice. I'm sure there would be plenty of things to do but we really need teachers to help us choose the best activities.\nPAM: Well, there would still be a teacher present and he or she would guide the activities of the students, we wouldn't just leave them to get on with it.\nJUN: Yes, but I think the students would be much happier keeping the existing set-up; they really like going to the Self-Access Centre with their teacher and staying together as a group to do activities. If we could just improve the resources and facilities, I think it would be fine. Is the cost going to be a problem?\nPAM: It's not so much the expense that I'm worried about, and we've certainly got room to do it, but it's the problem of timetabling a teacher to be in [Q24] there outside class hours. If we're going to spend a lot of money on equipment and resources, we really need to make sure that everything is looked after properly. Anyway, let's make some notes to see just what needs doing to improve the Centre.\nPAM: Now, what about the computers? I think it might be a good idea to install some new models. They would take up a lot less room and so that would increase the work space for text books and so on.\nJUN: That would be great. It is a bit cramped in there at times.\nPAM: What about other resources? Do you have a list of things that the students would like to see improved?\nJUN: Yes, one of the comments that students frequently make is that they find [Q25] it difficult to find materials that are appropriate for their level, especially reading resources, so I think we need to label them more clearly.\nPAM: Well that's easy enough, we can get that organised very quickly. In fact I think we should review all of the study resources as some of them are looking a bit out-of-date.\nJUN: Definitely. The CD section especially needs to be more current. I think we [Q26] should get some of the ones that go with our latest course books and also make multiple copies.\nPAM: Good, now I was also thinking about some different materials that we haven't got in there at all. What do you think of the idea of introducing [Q27] some workbooks? If we break them up into separate pages and laminate them, they'd be a great resource. The students could study the main course book in class and then do follow-up practice in the Self-Access Centre.\nJUN: That sounds good.\nPAM: Okay, now finally we need to think about how the room is used. I'll have to talk to the teachers and make sure we can all reach some agreement [Q28] on a timetable to supervise the centre after class. But we also need to think about security, too. Especially if we're going to invest in some new equipment.\nJUN: What about putting in an alarm? [Q29]\nPAM: Good idea. The other thing I'd like to do is talk to our technicians and see whether we could somehow limit the access to email. I really don't want to [Q30] see that resource misused.\nJUN: What about if we agree to only use it before and after class?\nPAM: Yes, that would be fine. OK, anyway... that's great for now. We'll discuss it further when we've managed to ..."
+   },
+   {
+    "part": 4,
+    "range": [
+     31,
+     40
+    ],
+    "pages": [
+     33,
+     34
+    ],
+    "groups": [
+     {
+      "id": "L4-1",
+      "type": "completion",
+      "range": [
+       31,
+       40
+      ],
+      "instructions": [
+       "Complete the notes below.",
+       "Write **ONE WORD ONLY** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Business Cultures"
+       },
+       {
+        "t": "sub",
+        "text": "Power culture"
+       },
+       {
+        "t": "table",
+        "header": 0,
+        "rows": [
+         [
+          "Characteristics of organisation",
+          "small\n{{31}} power source\nfew rules and procedures\ncommunication by {{32}}"
+         ],
+         [
+          "Advantage :",
+          "can act quickly"
+         ],
+         [
+          "Disadvantage:",
+          "might not act {{33}}"
+         ],
+         [
+          "Suitable employee:",
+          "not afraid of {{34}}\ndoesn't need job security"
+         ]
+        ]
+       },
+       {
+        "t": "sub",
+        "text": "Role culture"
+       },
+       {
+        "t": "table",
+        "header": 0,
+        "rows": [
+         [
+          "Characteristics of organization:",
+          "large, many {{35}}\nspecialized departments\nrules and procedure, e.g. job {{36}} and rules for discipline"
+         ],
+         [
+          "Advantages:",
+          "economies of scale\nsuccessful when {{37}} ability is important"
+         ],
+         [
+          "Disadvantages:",
+          "slow to see when {{38}} is needed\nslow to react"
+         ],
+         [
+          "Suitable employee:",
+          "values security\ndoesn't want {{39}}"
+         ]
+        ]
+       },
+       {
+        "t": "sub",
+        "text": "Task culture"
+       },
+       {
+        "t": "table",
+        "header": 0,
+        "rows": [
+         [
+          "Characteristics of organization:",
+          "project orientated\nin competitive market or making product with short life\na lot of delegation"
+         ],
+         [
+          "Advantage:",
+          "{{40}}"
+         ],
+         [
+          "Disadvantages:",
+          "no economies of scale or special expertise"
+         ],
+         [
+          "Suitable employee:",
+          "likes to work in groups"
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    "transcript": "Good morning everyone. Now whether you're going to university to study business or some other subject, many of you will eventually end up working for a company of some kind.\nNow, when you first start working somewhere you will realise that the organisation you've joined has certain characteristics. And we often refer to these social characteristics as the culture of the organisation - this includes its unwritten ideas, beliefs, values and things like that. One well known writer has classified company cultures by identifying four major types.\nThe first type is called the Power Culture, and it's usually found in small organisations.\nIt's the type of culture that needs a central source of power to be effective, and because [Q31] control is in the hands of just one or two people there aren't many rules or procedures. Another characteristic is that communication usually takes the form of conversations rather [Q32] than, say, formal meetings or written memos. Now one of the benefits of this culture is that the organisation has the ability to act quickly, so it responds well to threat, or danger on the one hand, and opportunity on the other.\nBut on the negative side, this type of organisation doesn't always act effectively, because [Q33] it depends too much on one or two people at the top, and when these people make poor decisions there's no-one else who can influence them.\nAnd the kind of person who does well in this type of business culture is one who is happy [Q34] to take risks, and for whom job security is a low priority.\nThe next type is known as Role Culture - that's R-O-L-E, not R-O-double L, by the way, and this type is usually found in large companies, which have lots of different levels in them. [Q35] These organisations usually have separate departments that specialise in things like finance, or sales, or maintenance, or whatever. Each one is co-ordinated at the top by a small group of senior managers, and typically everyone's job is controlled by sets of rules and procedures [Q36] - for example, there are specific job descriptions, rules for discipline, and so on.\nWhat are the benefits of this kind of culture? Well firstly, because it's found in large organisations, its fixed costs, or overheads as they're known, are low in relation to its output, or what it produces. In other words it can achieve economies of scale. And secondly, it is particularly successful in business markets where technical expertise is [Q37] important. On the other hand, this culture is often very slow to recognise the need for [Q38] change, and even slower to react. What kind of person does this type of culture suit? Well it suits employees who value security, and who don't particularly want to have [Q39] responsibility.\nMoving on now to Task Cultures - this type is found in organisations that are project-oriented. You usually find it where the market for the company's product is extremely competitive, or where the products themselves have a short life-span. Usually top management delegates the projects, the people and other resources. And once these have been allocated, little day-to-day control is exercised from the top, because this would seem like 'breaking the rules'.\nNow one of the major benefits of this culture is that it's flexible. But it does have some [Q40] major disadvantages too. For instance, it can't produce economies of scale or great depth of expertise. People who like working in groups or teams prefer this type of culture.\nAnd finally, the fourth category is called the Person Culture ..."
+   }
+  ],
+  "answers": {
+   "1": {
+    "a": [
+     "Bhatt"
+    ]
+   },
+   "2": {
+    "a": [
+     "31 March",
+     "31st March",
+     "March 31",
+     "March 31st"
+    ],
+    "k": "31 March"
+   },
+   "3": {
+    "a": [
+     "nursing"
+    ]
+   },
+   "4": {
+    "a": [
+     "2",
+     "two"
+    ],
+    "k": "2"
+   },
+   "5": {
+    "a": [
+     "meat"
+    ]
+   },
+   "6": {
+    "a": [
+     "bedsit"
+    ]
+   },
+   "7": {
+    "a": [
+     "theatre",
+     "theater"
+    ],
+    "k": "theatre/theater"
+   },
+   "8": {
+    "a": [
+     "mature",
+     "older"
+    ],
+    "k": "mature/older"
+   },
+   "9": {
+    "a": [
+     "town"
+    ]
+   },
+   "10": {
+    "a": [
+     "shared"
+    ]
+   },
+   "11": {
+    "a": [
+     "trees"
+    ]
+   },
+   "12": {
+    "a": [
+     "Friday and Sunday",
+     "Friday Sunday",
+     "Friday/Sunday",
+     "Friday, Sunday"
+    ],
+    "k": "Friday/Sunday"
+   },
+   "13": {
+    "a": [
+     "farm"
+    ]
+   },
+   "14": {
+    "a": [
+     "C"
+    ]
+   },
+   "15": {
+    "a": [
+     "B"
+    ]
+   },
+   "16": {
+    "a": [
+     "A"
+    ]
+   },
+   "17": {
+    "a": [
+     "A"
+    ]
+   },
+   "18": {
+    "a": [
+     "I"
+    ]
+   },
+   "19": {
+    "a": [
+     "F"
+    ]
+   },
+   "20": {
+    "a": [
+     "E"
+    ]
+   },
+   "21": {
+    "a": [
+     "C"
+    ]
+   },
+   "22": {
+    "a": [
+     "B"
+    ]
+   },
+   "23": {
+    "a": [
+     "B"
+    ]
+   },
+   "24": {
+    "a": [
+     "C"
+    ]
+   },
+   "25": {
+    "a": [
+     "reading"
+    ]
+   },
+   "26": {
+    "a": [
+     "CD"
+    ]
+   },
+   "27": {
+    "a": [
+     "workbooks"
+    ]
+   },
+   "28": {
+    "a": [
+     "timetable",
+     "schedule"
+    ],
+    "k": "timetable/schedule"
+   },
+   "29": {
+    "a": [
+     "alarm"
+    ]
+   },
+   "30": {
+    "a": [
+     "email",
+     "emails"
+    ],
+    "k": "email/emails"
+   },
+   "31": {
+    "a": [
+     "central"
+    ]
+   },
+   "32": {
+    "a": [
+     "conversation",
+     "conversations"
+    ],
+    "k": "conversation/conversations"
+   },
+   "33": {
+    "a": [
+     "effectively"
+    ]
+   },
+   "34": {
+    "a": [
+     "risk",
+     "risks"
+    ],
+    "k": "risk/risks"
+   },
+   "35": {
+    "a": [
+     "levels"
+    ]
+   },
+   "36": {
+    "a": [
+     "description",
+     "descriptions"
+    ],
+    "k": "description/descriptions"
+   },
+   "37": {
+    "a": [
+     "technical"
+    ]
+   },
+   "38": {
+    "a": [
+     "change"
+    ]
+   },
+   "39": {
+    "a": [
+     "responsibility"
+    ]
+   },
+   "40": {
+    "a": [
+     "flexible"
+    ]
+   }
+  }
+ },
+ "reading": {
+  "passages": [
+   {
+    "passage": 1,
+    "range": [
+     1,
+     13
+    ],
+    "pages": [
+     35,
+     36,
+     37,
+     38,
+     39,
+     40
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 1–13**, which are based on Reading Passage 1 below.",
+    "title": "Reading Passage 1",
+    "subtitle": null,
+    "paragraphs": [
+     {
+      "label": "A",
+      "text": "Hearing impairment or other auditory function deficit in young children can have a major impact on their development of speech and communication, resulting in a detrimental effect on their ability to learn at school. This is likely to have major consequences for the individual and the population as a whole. The New Zealand Ministry of Health has found from research carried out over two decades that 6-10% of children in that country are affected by hearing loss."
+     },
+     {
+      "label": "B",
+      "text": "A preliminary study in New Zealand has shown that classroom noise presents a major concern for teachers and pupils. Modern teaching practices, the organization of desks in the classroom, poor classroom acoustics, and mechanical means of ventilation such as air-conditioning units all contribute to the number of children unable to comprehend the teacher's voice. Education researchers Nelson and Soli have also suggested that recent trends in learning often involve collaborative interaction of multiple minds and tools as much as individual possession of information. This all amounts to heightened activity and noise levels, which have the potential to be particularly serious for children experiencing auditory function deficit. Noise in classrooms can only exacerbate their difficulty in comprehending and processing verbal communication with other children and instructions from the teacher."
+     },
+     {
+      "label": "C",
+      "text": "Children with auditory function deficit are potentially failing to learn to their maximum potential because of noise levels generated in classrooms. The effects of noise on the ability of children to learn effectively in typical classroom environment are now the subjects of increasing concern. The International Institute of Noise Control Engineering (I-INCE), on the advice of the World Health Organization, has established an international working party, which includes New Zealand, to evaluate noise and reverberation control for school rooms."
+     },
+     {
+      "label": "D",
+      "text": "While the detrimental effects of noise in classroom situations are not limited to children experiencing disability, those with a disability that affects their processing of speech and verbal communication could be extremely vulnerable. The auditory function deficits in question include hearing impairment, autistic spectrum disorders (ASD) and attention deficit disorders (ADD/ADHD)."
+     },
+     {
+      "label": "E",
+      "text": "Autism is considered a neurological and genetic life-long disorder that causes discrepancies in the way information is processed. This disorder is characterized by interlinking problems with social imagination, social communication and social interaction. According to Janzen, this affects the ability to understand and relate in typical ways to people, understand events and objects in the environment, and understand or respond to sensory stimuli. Autism does not allow learning or thinking in the same ways as in children who are developing normally. Autistic spectrum disorders often result in major difficulties in comprehending verbal information and speech processing. Those experiencing these disorders often find sounds such as crowd noise and the noise generated by machinery painful and distressing. This is difficult to scientifically quantify as such extra-sensory stimuli vary greatly from one autistic individual to another. But a child who finds any type of noise in their classroom or learning space intrusive is likely to be adversely affected in their ability to process information."
+     },
+     {
+      "label": "F",
+      "text": "The attention deficit disorders are indicative of neurological and genetic disorders and are characterized by difficulties with sustaining attention, effort and persistence, organization skills and disinhibition. Children experiencing these disorders find it difficult to screen out unimportant information, and focus on everything in the environment rather than attending to a single activity. Background noise in the classroom becomes a major distraction, which can affect their ability to concentrate."
+     },
+     {
+      "label": "G",
+      "text": "Children experiencing an auditory function deficit can often find speech and communication very difficult to isolate and process when set against high levels of background noise. These levels come from outside activities that penetrate the classroom structure, from teaching activities, and other noise generated inside, which can be exacerbated by room reverberation. Strategies are needed to obtain the optimum classroom construction and perhaps a change in classroom culture and methods of teaching. In particular, the effects of noisy classrooms and activities on those experiencing disabilities in the form of auditory function deficit need thorough investigation. It is probable that many undiagnosed children exist in the education system with 'invisible' disabilities. Their needs are less likely to be met than those of children with known disabilities."
+     },
+     {
+      "label": "H",
+      "text": "The New Zealand Government has developed a New Zealand Disability Strategy and has embarked on a wide-ranging consultation process. The strategy recognizes that people experiencing disability face significant barriers in achieving a full quality of life in areas such as attitude, education, employment and access to services. Objective 3 of the New Zealand Disability Strategy is to 'Provide the Best Education for Disabled People' by improving education so that all children, youth learners and adult learners will have equal opportunities to learn and develop within their already existing local school. For a successful education, the learning environment is vitally significant, so any effort to improve this is likely to be of great benefit to all children, but especially to those with auditory function disabilities."
+     },
+     {
+      "label": "I",
+      "text": "A number of countries are already in the process of formulating their own standards for the control and reduction of classroom noise. New Zealand will probably follow their example. The literature to date on noise in school rooms appears to focus on the effects on schoolchildren in general, their teachers and the hearing impaired. Only limited attention appears to have been given to those students experiencing the other disabilities involving auditory function deficit. It is imperative that the needs of these children are taken into account in the setting of appropriate international standards to be promulgated in future."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R1-1",
+      "type": "matching",
+      "range": [
+       1,
+       6
+      ],
+      "instructions": [
+       "Reading Passage 1 has nine sections, **A–I**.",
+       "Which section contains the following information?",
+       "Write the correct letter, **A–I**, in boxes 1–6 on your answer sheet."
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": ""
+       },
+       {
+        "key": "B",
+        "text": ""
+       },
+       {
+        "key": "C",
+        "text": ""
+       },
+       {
+        "key": "D",
+        "text": ""
+       },
+       {
+        "key": "E",
+        "text": ""
+       },
+       {
+        "key": "F",
+        "text": ""
+       },
+       {
+        "key": "G",
+        "text": ""
+       },
+       {
+        "key": "H",
+        "text": ""
+       },
+       {
+        "key": "I",
+        "text": ""
+       }
+      ],
+      "questions": [
+       {
+        "n": 1,
+        "text": "an account of a national policy initiative"
+       },
+       {
+        "n": 2,
+        "text": "a description of a global team effort"
+       },
+       {
+        "n": 3,
+        "text": "a hypothesis as to one reason behind the growth in classroom noise"
+       },
+       {
+        "n": 4,
+        "text": "a demand for suitable worldwide regulations"
+       },
+       {
+        "n": 5,
+        "text": "a list of medical conditions which place some children more at risk from noise than others"
+       },
+       {
+        "n": 6,
+        "text": "the estimated proportion of children in New Zealand with auditory problems"
+       }
+      ]
+     },
+     {
+      "id": "R1-2",
+      "type": "completion",
+      "range": [
+       7,
+       10
+      ],
+      "instructions": [
+       "Answer the questions below.",
+       "Choose **NO MORE THAN TWO WORDS AND/OR A NUMBER** from the passage for each answer.",
+       "Write your answers in boxes 7–10 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "p",
+        "text": "For what period of time has hearing loss in schoolchildren been studied in New Zealand? {{7}}"
+       },
+       {
+        "t": "p",
+        "text": "In addition to machinery noise, what other type of noise can upset children with autism? {{8}}"
+       },
+       {
+        "t": "p",
+        "text": "What term is used to describe the hearing problems of schoolchildren which have not been diagnosed? {{9}}"
+       },
+       {
+        "t": "p",
+        "text": "What part of the New Zealand Disability Strategy aims to give schoolchildren equal opportunity? {{10}}"
+       }
+      ]
+     },
+     {
+      "id": "R1-3",
+      "type": "multi",
+      "range": [
+       11,
+       12
+      ],
+      "n": [
+       11,
+       12
+      ],
+      "select": 2,
+      "instructions": [
+       "Choose **TWO** letters, **A–F**.",
+       "Write the correct letters in boxes 11 and 12 on your answer sheet.",
+       "*The list below includes factors contributing to classroom noise.*"
+      ],
+      "text": "Which **TWO** are mentioned by the writer of the passage?",
+      "options": [
+       {
+        "key": "A",
+        "text": "current teaching methods"
+       },
+       {
+        "key": "B",
+        "text": "echoing corridors"
+       },
+       {
+        "key": "C",
+        "text": "cooling systems"
+       },
+       {
+        "key": "D",
+        "text": "large class sizes"
+       },
+       {
+        "key": "E",
+        "text": "loud-voiced teachers"
+       },
+       {
+        "key": "F",
+        "text": "playground games"
+       }
+      ]
+     },
+     {
+      "id": "R1-4",
+      "type": "choice",
+      "range": [
+       13,
+       13
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B**, **C** or **D**.",
+       "Write the correct letter in box 13 on your answer sheet."
+      ],
+      "questions": [
+       {
+        "n": 13,
+        "text": "What is the writer's overall purpose in writing this article?",
+        "options": [
+         {
+          "key": "A",
+          "text": "to compare different methods of dealing with auditory problems"
+         },
+         {
+          "key": "B",
+          "text": "to provide solutions for overly noisy learning environments"
+         },
+         {
+          "key": "C",
+          "text": "to increase awareness of the situation of children with auditory problems"
+         },
+         {
+          "key": "D",
+          "text": "to promote New Zealand as a model for other countries to follow"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "passage": 2,
+    "range": [
+     14,
+     26
+    ],
+    "pages": [
+     41,
+     42,
+     43,
+     44,
+     45,
+     46
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 14–26**, which are based on Reading Passage 2 below.",
+    "title": "Venus in transit",
+    "subtitle": "*June 2004 saw the first passage, known as a 'transit', of the planet Venus across the face of the Sun in 122 years. Transits have helped shape our view of the whole Universe, as Heather Cooper and Nigel Henbest explain*",
+    "paragraphs": [
+     {
+      "label": "A",
+      "text": "On 8 June 2004, more than half the population of the world were treated to a rare astronomical event. For over six hours, the planet Venus steadily inched its way over the surface of the Sun. This 'transit' of Venus was the first since 6 December 1882. On that occasion, the American astronomer Professor Simon Newcomb led a party to South Africa to observe the event. They were based at a girls' school, where—it is alleged—the combined forces of three schoolmistresses outperformed the professionals with the accuracy of their observations."
+     },
+     {
+      "label": "B",
+      "text": "For centuries, transits of Venus have drawn explorers and astronomers alike to the four corners of the globe. And you can put it all down to the extraordinary polymath Edmond Halley. In November 1677, Halley observed a transit of the innermost planet, Mercury, from the desolate island of St Helena in the south Pacific. He realized that, from different latitudes, the passage of the planet across the Sun's disc would appear to differ. By timing the transit from two widely-separated locations, teams of astronomers could calculate the parallax angle—the apparent difference in position of an astronomical body due to a difference in the observer's position. Calculating this angle would allow astronomers to measure what was then the ultimate goal: the distance of the Earth from the sun. This distance is known as the 'astronomical' or AU."
+     },
+     {
+      "label": "C",
+      "text": "Halley was aware that the AU was one of the most fundamental of all astronomical measurements. Johannes Kepler, in the early 17th century, had shown that the distances of the planets from the Sun governed their orbital speeds, which were easily measurable. But no-one had found a way to calculate accurate distances to the planets from the earth. The goal was to measure the AU; then, knowing the orbital speeds of all the other planets round the Sun, the scale of the Solar System would fall into place. However, Halley realized that Mercury was so far away that its parallax angle would be very difficult to determine. As Venus was closer to the Earth, its parallax angle would be larger, and Halley worked out that by using Venus it would be possible to measure the Sun's distance to 1 part in 500. But there was a problem: transits of Venus, unlike those of Mercury, are rare, occurring in pairs roughly eight years apart every hundred or so years. Nevertheless, he accurately predicted that Venus would cross the face of the Sun in both 1761 and 1769—though he didn't survive to see either."
+     },
+     {
+      "label": "D",
+      "text": "Inspired by Halley's suggestion of a way to pin down the scale of the Solar System, teams of British and French astronomers set out on expeditions to places as diverse as India and Siberia. But things weren't helped by Britain and France being at war. The person who deserves most sympathy is the French astronomer Guillaume Le Gentil. He was thwarted by the fact that the British were besieging his observation site at Pondicherry in India. Sailing on a French warship crossing the Indian Ocean, Le Gentil saw a wonderful transit—but the ship's pitching and rolling ruled out any attempt at making accurate observations. Undaunted, he remained south of the equator, keeping himself busy by studying the islands of Mauritius and Madagascar before setting off to observe the next transit in the Philippines. Ironically after travelling nearly 50,000 kilometers, his view was clouded out at the last moment, a very dispiriting experience."
+     },
+     {
+      "label": "E",
+      "text": "While the early transit timings were as precise as instruments would allow, the measurements were dogged by the 'black drop' effect. When Venus begins to cross the Sun's disc, it looks smeared not circular—which makes it difficult to establish timings. This is due to diffraction of light. The second problem is that Venus exhibits a halo of light when it is seen just outside the Sun's disc. While this showed astronomers that Venus was surrounded by thick layer of gases refracting sunlight around it, both effects made it impossible to obtain accurate timings."
+     },
+     {
+      "label": "F",
+      "text": "But astronomers laboured hard to analyse the results of these expeditions to observe Venus transits. Johann Franz Encke, Director of the Berlin Observatory, finally determined a value for the AU based on all these parallax measurements: 153,340,000km. Reasonably accurate for the time, that is quite close to today's value of methods in accuracy. The AU is a cosmic measuring rod, and the basis of how we scale the Universe today. The parallax principle can be extended to measure the distances to the stars. If we look at a star in January—when Earth is at one point in its orbit—it will seem to be in a different position from where it appears six months later. Knowing the width of Earth's orbit, the parallax shift lets astronomers calculate the distance."
+     },
+     {
+      "label": "G",
+      "text": "June 2004's transit of Venus was thus more of an astronomical spectacle than a scientifically important event. But such transits have paved the way for what might prove to be one of the most vital breakthroughs in the cosmos—detecting Earth-sized planets orbiting other stars."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R2-1",
+      "type": "matching",
+      "range": [
+       14,
+       17
+      ],
+      "instructions": [
+       "Reading Passage 2 has seven paragraphs, **A–G**.",
+       "Which paragraph contains the following information?",
+       "Write the correct letter, **A–G**, in boxes 14–17 on your answer sheet."
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": ""
+       },
+       {
+        "key": "B",
+        "text": ""
+       },
+       {
+        "key": "C",
+        "text": ""
+       },
+       {
+        "key": "D",
+        "text": ""
+       },
+       {
+        "key": "E",
+        "text": ""
+       },
+       {
+        "key": "F",
+        "text": ""
+       },
+       {
+        "key": "G",
+        "text": ""
+       }
+      ],
+      "questions": [
+       {
+        "n": 14,
+        "text": "examples of different ways in which the parallax principle has been applied"
+       },
+       {
+        "n": 15,
+        "text": "a description of an event which prevented a transit observation"
+       },
+       {
+        "n": 16,
+        "text": "a statement about potential future discoveries leading on from transit observations"
+       },
+       {
+        "n": 17,
+        "text": "a description of physical states connected with Venus which early astronomical instruments failed to overcome"
+       }
+      ]
+     },
+     {
+      "id": "R2-2",
+      "type": "matching",
+      "range": [
+       18,
+       21
+      ],
+      "instructions": [
+       "Look at the following statements (Questions 18–21) and the list of people below.",
+       "Match each statement with the correct person, **A**, **B**, **C** or **D**.",
+       "Write the correct letter, **A**, **B**, **C** or **D**, in boxes 18–21 on your answer sheet."
+      ],
+      "optionsTitle": "List of People",
+      "options": [
+       {
+        "key": "A",
+        "text": "Edmond Halley"
+       },
+       {
+        "key": "B",
+        "text": "Johannes Kepler"
+       },
+       {
+        "key": "C",
+        "text": "Guillaume Le Gentil"
+       },
+       {
+        "key": "D",
+        "text": "Johann Franz Encke"
+       }
+      ],
+      "questions": [
+       {
+        "n": 18,
+        "text": "He calculated the distance of the Sun from the Earth based on observations of Venus with a fair degree of accuracy."
+       },
+       {
+        "n": 19,
+        "text": "He understood that the distance of the Sun from the Earth could be worked out by comparing observations of a transit."
+       },
+       {
+        "n": 20,
+        "text": "He realized that the time taken by a planet to go round the Sun depends on its distance from the Sun."
+       },
+       {
+        "n": 21,
+        "text": "He witnessed a Venus transit but was unable to make any calculations."
+       }
+      ]
+     },
+     {
+      "id": "R2-3",
+      "type": "tfng",
+      "range": [
+       22,
+       26
+      ],
+      "instructions": [
+       "Do the following statements agree with the information given in Reading Passage 2?",
+       "In boxes 22–26 on your answer sheet, write",
+       "**TRUE** if the statement agrees with the information",
+       "**FALSE** if the statement contradicts the information",
+       "**NOT GIVEN** if there is no information on this"
+      ],
+      "questions": [
+       {
+        "n": 22,
+        "text": "Halley observed one transit of the Planet Venus."
+       },
+       {
+        "n": 23,
+        "text": "Le Gentil managed to observe a second Venus transit."
+       },
+       {
+        "n": 24,
+        "text": "The shape of Venus appears distorted when it starts to pass in front of the Sun"
+       },
+       {
+        "n": 25,
+        "text": "Earth astronomers suspected that the atmosphere on Venus was toxic."
+       },
+       {
+        "n": 26,
+        "text": "The parallax principle allows astronomers to work out how far away distant stars are from the Earth."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "passage": 3,
+    "range": [
+     27,
+     40
+    ],
+    "pages": [
+     47,
+     48,
+     49,
+     50,
+     51,
+     52
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 27–40**, which are based on Reading Passage 3 below.",
+    "title": "A neuroscientist reveals how to think differently",
+    "subtitle": null,
+    "paragraphs": [
+     {
+      "text": "In the last decade a revolution has occurred in the way that scientists think about the brain. We now know that the decisions humans make can be traced to the firing patterns of neurons in specific parts of the brain. These discoveries have led to the field known as *neuroeconomics*, which studies the brain's secrets to success in an economic environment that demands innovation and being able to do things differently from competitors. A brain that can do this is an iconoclastic one. Briefly, an *iconoclast* is a person who does something that others say can't be done."
+     },
+     {
+      "text": "This definition implies that iconoclasts are different from other people, but more precisely, it is the brains that are different in three distinct ways: perception, fear response, and social intelligence. Each of these three functions utilizes a different circuit in the brain. Naysayers might suggest that the brain is irrelevant, that thinking in an original, even revolutionary, way is more a matter of personality than brain function. But the field of neuroeconomics was born out of the realization that the physical workings of the brain place limitations on the way we make decisions. By understanding these constraints, we begin to understand why some people march to a different drumbeat."
+     },
+     {
+      "text": "The first thing to realize is that the brain suffers from limited resources. It has a fixed energy budget, about the same as a 40 watt light bulb, so it has evolved to work as efficiently as possible. This is where most people are impeded from being an iconoclast. For example, when confronted with information streaming from the eyes, the brain will interpret this information in the quickest way possible. Thus it will draw on both past experience and any other source of information, such as what other people say, to make sense of what it is seeing. This happens all the time. The brain takes shortcuts that work so well we hardly ever aware of them. We think our perceptions of the world are real, but they are only biological and electrical rumblings. Perception is not simply a product of what your eyes or ears transmit to your brain. More than the physical reality of photons or sound waves, perception is a product of the brain."
+     },
+     {
+      "text": "Perception is central to iconoclasm. Iconoclasts see things differently to other people. Their brains do not fall into efficiency pitfalls as much as the average person's brain. Iconoclasts, either because they were born that way or through learning, have found ways to work around the perceptual shortcuts that plague most people. Perception is not something that is hardwired into the brain. It is a learned process, which is both a curse and an opportunity for change. The brain faces the fundamental problem of interpreting physical stimuli from the senses. Everything the brain sees, hears, or touches has multiple interpretations. The one that is ultimately chosen is simply the brain's best theory. In technical terms, these conjectures have their basis in the statistical likelihood of one interpretation over another and are heavily influenced by past experience and, importantly for potential iconoclasts, what other people say."
+     },
+     {
+      "text": "The best way to see things differently to other people is to bombard the brain with things it has never encountered before. Novelty releases the perceptual process from the chains of past experience and forces the brain to make new judgments."
+     },
+     {
+      "text": "Successful iconoclasts have an extraordinary willingness to be exposed to what is fresh and different. Observation of iconoclasts shows that they embrace novelty while most people avoid things that are different."
+     },
+     {
+      "text": "The problem with novelty, however, is that it tends to trigger the brain's fear system. Fear is a major impediment to thinking like an iconoclast and stops the average person in his tracks. There are many types of fear, but the two that inhibit iconoclastic thinking and people generally find difficult to deal with are *fear of uncertainty and fear of public ridicule.* These may seem like trivial phobias. But fear of public speaking, which everyone must do from time to time, afflicts one-third of the population. This makes it too common to be considered a mental disorder. It is simply a common variant of human nature, one which iconoclasts do not let inhibit their reactions."
+     },
+     {
+      "text": "Finally, to be successful iconoclasts, individuals must sell their ideas to other people. This is where social *intelligence* comes in. Social intelligence is the ability to understand and manage people in a business setting. In the last decade there has been an explosion of knowledge about the social brain and how the brain works when groups coordinate decision making. Neuroscience has revealed which brain circuits are responsible for functions like understanding what other people think, empathy, fairness, and social identity. These brain regions play key roles in whether people convince others of their ideas. Perception is important in social cognition too. The perception of someone's enthusiasm, or reputation, can make or break a deal. Understanding how perception becomes intertwined with social decision making shows why successful iconoclasts are so rare."
+     },
+     {
+      "text": "Iconoclasts create new opportunities in every area from artistic expression to technology to business. They supply creativity and innovation not easily accomplished by committees. Rules aren't important to them. Iconoclasts face alienation and failure, but can also be a major asset to any organization. It is crucial for success in any field to understand how the iconoclastic mind works."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R3-1",
+      "type": "choice",
+      "range": [
+       27,
+       31
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B**, **C** or **D**.",
+       "Write the correct letter in boxes 27–31 on your answer sheet."
+      ],
+      "questions": [
+       {
+        "n": 27,
+        "text": "Neuroeconomics is a field of study which seeks to",
+        "options": [
+         {
+          "key": "A",
+          "text": "cause a change in how scientists understand brain chemistry."
+         },
+         {
+          "key": "B",
+          "text": "understand how good decisions are made in the brain."
+         },
+         {
+          "key": "C",
+          "text": "understand how the brain is linked to achievement in competitive fields."
+         },
+         {
+          "key": "D",
+          "text": "trace the specific firing patterns of neurons in different areas of the brain."
+         }
+        ]
+       },
+       {
+        "n": 28,
+        "text": "According to the writer, iconoclasts are distinctive because",
+        "options": [
+         {
+          "key": "A",
+          "text": "they create unusual brain circuits."
+         },
+         {
+          "key": "B",
+          "text": "their brains function differently."
+         },
+         {
+          "key": "C",
+          "text": "their personalities are distinctive."
+         },
+         {
+          "key": "D",
+          "text": "they make decisions easily."
+         }
+        ]
+       },
+       {
+        "n": 29,
+        "text": "According to the writer, the brain works efficiently because",
+        "options": [
+         {
+          "key": "A",
+          "text": "it uses the eyes quickly"
+         },
+         {
+          "key": "B",
+          "text": "it interprets data logically."
+         },
+         {
+          "key": "C",
+          "text": "it generates its own energy"
+         },
+         {
+          "key": "D",
+          "text": "it relies on previous events"
+         }
+        ]
+       },
+       {
+        "n": 30,
+        "text": "The writer says that perception is",
+        "options": [
+         {
+          "key": "A",
+          "text": "a combination of photons and sound waves"
+         },
+         {
+          "key": "B",
+          "text": "a reliable product of what your senses transmit."
+         },
+         {
+          "key": "C",
+          "text": "a result of brain processes."
+         },
+         {
+          "key": "D",
+          "text": "a process we are usually conscious of."
+         }
+        ]
+       },
+       {
+        "n": 31,
+        "text": "According to the writer, an iconoclastic thinker",
+        "options": [
+         {
+          "key": "A",
+          "text": "centralizes perceptual thinking in one part of the brain."
+         },
+         {
+          "key": "B",
+          "text": "avoids cognitive traps."
+         },
+         {
+          "key": "C",
+          "text": "has a brain that is hardwired for learning."
+         },
+         {
+          "key": "D",
+          "text": "has more opportunities than the average person."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "R3-2",
+      "type": "ynng",
+      "range": [
+       32,
+       37
+      ],
+      "instructions": [
+       "Do the following statements agree with the claims of the writer in Reading Passage 3?",
+       "In boxes 32–37 on your answer sheet, write",
+       "**YES** if the statement agrees with the claims of the writer",
+       "**NO** if the statement contradicts the claims of the writer",
+       "**NOT GIVEN** if it is impossible to say what the writer thinks about this"
+      ],
+      "questions": [
+       {
+        "n": 32,
+        "text": "Exposure to different events forces the brain to think differently."
+       },
+       {
+        "n": 33,
+        "text": "Iconoclasts are usually receptive to new experiences."
+       },
+       {
+        "n": 34,
+        "text": "Most people are too shy to try different things."
+       },
+       {
+        "n": 35,
+        "text": "If you think in an iconoclastic way, you can easily overcome fear."
+       },
+       {
+        "n": 36,
+        "text": "When concern about embarrassment matters less, other fears become irrelevant."
+       },
+       {
+        "n": 37,
+        "text": "Fear of public speaking is a psychological illness."
+       }
+      ]
+     },
+     {
+      "id": "R3-3",
+      "type": "matching",
+      "range": [
+       38,
+       40
+      ],
+      "instructions": [
+       "Complete each sentence with the correct ending, **A–E**, below.",
+       "Write the correct letter, **A–E**, in boxes 38–40 on your answer sheet."
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": "requires both perceptual and social intelligence skills."
+       },
+       {
+        "key": "B",
+        "text": "focuses on how groups decide on an action."
+       },
+       {
+        "key": "C",
+        "text": "works in many fields, both artistic and scientific."
+       },
+       {
+        "key": "D",
+        "text": "leaves one open to criticism and rejection."
+       },
+       {
+        "key": "E",
+        "text": "involves understanding how organizations manage people."
+       }
+      ],
+      "questions": [
+       {
+        "n": 38,
+        "text": "Thinking like a successful iconoclast is demanding because it"
+       },
+       {
+        "n": 39,
+        "text": "The concept of the social brain is useful to iconoclasts because it"
+       },
+       {
+        "n": 40,
+        "text": "Iconoclasts are generally an asset because their way of thinking"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "answers": {
+   "1": {
+    "a": [
+     "H"
+    ]
+   },
+   "2": {
+    "a": [
+     "C"
+    ]
+   },
+   "3": {
+    "a": [
+     "B"
+    ]
+   },
+   "4": {
+    "a": [
+     "I"
+    ]
+   },
+   "5": {
+    "a": [
+     "D"
+    ]
+   },
+   "6": {
+    "a": [
+     "A"
+    ]
+   },
+   "7": {
+    "a": [
+     "two decades"
+    ]
+   },
+   "8": {
+    "a": [
+     "crowd",
+     "crowd noise"
+    ],
+    "k": "crowd (noise)"
+   },
+   "9": {
+    "a": [
+     "invisible",
+     "invisible disabilities",
+     "invisible disability"
+    ],
+    "k": "invisible (disabilities/disability)"
+   },
+   "10": {
+    "a": [
+     "Objective 3"
+    ]
+   },
+   "11": {
+    "a": [
+     "A"
+    ]
+   },
+   "12": {
+    "a": [
+     "C"
+    ]
+   },
+   "13": {
+    "a": [
+     "C"
+    ]
+   },
+   "14": {
+    "a": [
+     "F"
+    ]
+   },
+   "15": {
+    "a": [
+     "D"
+    ]
+   },
+   "16": {
+    "a": [
+     "G"
+    ]
+   },
+   "17": {
+    "a": [
+     "E"
+    ]
+   },
+   "18": {
+    "a": [
+     "D"
+    ]
+   },
+   "19": {
+    "a": [
+     "A"
+    ]
+   },
+   "20": {
+    "a": [
+     "B"
+    ]
+   },
+   "21": {
+    "a": [
+     "C"
+    ]
+   },
+   "22": {
+    "a": [
+     "FALSE"
+    ]
+   },
+   "23": {
+    "a": [
+     "FALSE"
+    ]
+   },
+   "24": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "25": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "26": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "27": {
+    "a": [
+     "C"
+    ]
+   },
+   "28": {
+    "a": [
+     "B"
+    ]
+   },
+   "29": {
+    "a": [
+     "D"
+    ]
+   },
+   "30": {
+    "a": [
+     "C"
+    ]
+   },
+   "31": {
+    "a": [
+     "B"
+    ]
+   },
+   "32": {
+    "a": [
+     "YES"
+    ]
+   },
+   "33": {
+    "a": [
+     "YES"
+    ]
+   },
+   "34": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "35": {
+    "a": [
+     "NO"
+    ]
+   },
+   "36": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "37": {
+    "a": [
+     "NO"
+    ]
+   },
+   "38": {
+    "a": [
+     "A"
+    ]
+   },
+   "39": {
+    "a": [
+     "B"
+    ]
+   },
+   "40": {
+    "a": [
+     "C"
+    ]
+   }
+  }
+ },
+ "writing": {
+  "tasks": [
+   {
+    "task": 1,
+    "minutes": 20,
+    "minWords": 150,
+    "pages": [
+     53
+    ],
+    "prompt": [
+     "*The chart below shows the total number of minutes (in billions) of telephone calls in the UK, divided into three categories, from 1995–2002.*",
+     "*Summarise the information by selecting and reporting the main features, and make comparisons where relevant.*"
+    ],
+    "image": "images/C9/C9-T2-W1.png",
+    "sample": {
+     "kind": "model",
+     "band": null,
+     "text": "The chart shows the time spent by UK residents on different types of telephone calls between 1995 and 2002.\n\nLocal fixed line calls were the highest throughout the period, rising from 72 billion minutes in 1995 to just under 90 billion in 1998. After peaking at 90 billion the following year, these calls had fallen back to the 1995 figure by 2002.\n\nNational and international fixed line calls grew steadily from 38 billion to 61 billion at the end of the period in question, though the growth slowed over the last two years.\n\nThere was a dramatic increase in mobile calls from 2 billion to 46 billion minutes. This rise was particularly noticeable between 1999 and 2002, during which time the use of mobile phones tripled.\n\nTo sum up, although local fixed line calls were still the most popular in 2002, the gap between the three categories had narrowed considerably over the second half of the period in question.",
+     "comment": null
+    }
+   },
+   {
+    "task": 2,
+    "minutes": 40,
+    "minWords": 250,
+    "pages": [
+     54
+    ],
+    "prompt": [
+     "Write about the following topic:",
+     "*Some people believe that unpaid community service should be a compulsory part of high school programmes (for example working for a charity, improving the neighbourhood or teaching sports to younger children).*",
+     "*To what extent do you agree or disagree?*",
+     "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+    ],
+    "sample": {
+     "kind": "candidate",
+     "band": "8",
+     "text": "It has been suggested that high school students should be involved in unpaid community services as a compulsory part of high school programmes. Most of the colleges are already providing opportunities to gain work experience, however these are not compulsory. In my opinion, sending students to work in community services is a good idea as it can provide them with many lots of valuable skills.\n\nLife skills are very important and by doing voluntary work, students can learn how to communicate with others and work in a team but also how to manage their time and improve their organisational skills. Nowadays, unfortunately, teenagers do not have many after-school activities. After-school clubs are no longer that popular and students mostly go home and sit in front of the TV, browse internet or play video games.\n\nBy giving them compulsory work activities with charitable or community organisations, they will be encouraged to do something more creative. Skills gained through compulsory work will not only be an asset on their CV but also increase their employability. Students will also gain more respect towards work and money as they will realise that it is not that easy to earn them and hopefully will learn to spend them in a more practical way.\n\nHealthy life balance and exercise are strongly promoted by the NHS, and therefore any kind of spare time charity work will prevent from sitting and doing nothing. It could also possibly reduce the crime level in the high school age group. If students have activities to do, they will not be bored and come up with silly ideas which can be dangerous for them or their surroundings.\n\nIn conclusion, I think this is a very good idea, and I hope this programme will be put into action for high schools/colleges shortly.",
+     "comment": "The answer addresses all parts of the prompt sufficiently, focusing on the benefits for students rather than society. A number of relevant, extended and supported ideas are used to produce a well-developed response to the question. However, some ideas, for example the reference to the crime level, are not fully extended. The ideas are logically ordered and cohesion is consistently well managed. Paragraphing is used appropriately, and progression between paragraphs is managed with some sophistication. A wide range of vocabulary is used to articulate meanings precisely, with skilful use of uncommon lexis, and very few inappropriacies. The range of grammatical structures used is also wide, with only occasional minor errors."
+    }
+   }
+  ]
+ },
+ "issues": [
+  "L Q12: the table prints 'between 12 ........ and ........' with one question number covering both blanks; rendered as 'between {{12}}'. Key 'Friday/Sunday' (= Friday and Sunday) expanded to both days.",
+  "L Section 2 map (Hinchingbrooke Park): the scan shows faint bleed-through of a table from the facing page inside the map; letters A–I are all legible.",
+  "L Section 3 audioscript: the last speaker label is printed 'RAM:' (typo) → 'PAM:'.",
+  "L Q21 option C: printed 'It is an important part ...' (capital I mid-sentence) → 'it is ...'.",
+  "C9 is a retyped PDF: unambiguous typing errors were corrected to the evident intended wording; corrections are listed below. Where words seem missing and the wording is uncertain, the text is kept as printed and noted.",
+  "Reading Passage 1 has no title printed in this PDF; the title field is set to 'Reading Passage 1' (the printed section heading) so the schema's required title is filled without inventing one.",
+  "Reading intro lines: PDF prints 'about 20 minutes an Question 1–13' / 'on Question 14–26'; normalised to 'on **Questions ...**'.",
+  "P1 para B: 'the organizations of desks' → 'the organization of desks'; 'Noise in classroom can' → 'Noise in classrooms can'.",
+  "P1 para F: 'a singe activity' → 'a single activity'. P1 para H: 'significance barriers' → 'significant barriers'.",
+  "P1 Q5: 'more at the risk from noise' → 'more at risk from noise'. P1 Q7: 'bearing loss' → 'hearing loss'.",
+  "P1 para C 'in typical classroom environment' kept as printed (possibly 'environments').",
+  "P2 subtitle: 'in 122 year' → 'in 122 years'; 'Healther Cooper' → 'Heather Cooper'.",
+  "P2 para A: 'a girl's school' → 'a girls' school'. P2 para B: 'drawn explores' → 'drawn explorers'.",
+  "P2 para B: 'known as the 'astronomical' or AU' kept as printed (the word 'unit' appears to be missing). 'the south Pacific' kept as printed.",
+  "P2 para C: 'parallax angel' → 'parallax angle'; the duplicated sentence 'As Venus was closer to the Earth, its parallax angle would be very difficult to determine.' (retyping error) removed.",
+  "P2 para D: 'But thing weren't' → 'But things weren't'; 'Feeling on a French warship' → 'Sailing on a French warship'.",
+  "P2 para E: 'surrounded by thick layer of gases' kept as printed (article apparently missing).",
+  "P2 para F: 'John Franz Encke' → 'Johann Franz Encke' (as in the List of People); 'quite close to today's value of methods in accuracy' kept as printed (words apparently missing).",
+  "P2 para G: 'most vital breakthrough' → 'most vital breakthroughs'. P2 Q18 'based one' → 'based on'; Q20 'depends one' → 'depends on'.",
+  "P2 Q22–26 rubric: 'FALES' → 'FALSE'.",
+  "P3 para 2: 'the brain is irrelevant that thinking' → 'the brain is irrelevant, that thinking'; 'the physical working of the brain place' → 'the physical workings of the brain place'.",
+  "P3 para 3: 'perceptions of the World' → 'perceptions of the world'; 'we hardly ever aware of them' kept as printed (verb apparently missing).",
+  "P3 para 4: 'do not fail into' → 'do not fall into'; 'the perceptual shortcut that plague' → 'the perceptual shortcuts that plague'; 'from the sense' → 'from the senses'.",
+  "P3 para 5: 'never encouraged before' → 'never encountered before'. P3 para 7: 'trivial phobia' → 'trivial phobias'.",
+  "P3 para 8: 'social intelligence come in' → 'comes in'; 'mange people' → 'manage people'; 'social cognitions' → 'social cognition'; 'make or beak a deal' → 'make or break a deal'; 'becomes interviewed with' → 'becomes intertwined with'.",
+  "P3 Q29 B: 'it interpret data' → 'it interprets data'; Q30 B: 'what you senses transmit' → 'what your senses transmit'; Q38–40 ending E: 'mange people' → 'manage people'.",
+  "P3 Q32–37: the PDF prints a TRUE/'FALES'/NOT GIVEN rubric, but the answer key gives YES/NO/NOT GIVEN (32 YES, 33 YES, 34 NOT GIVEN, 35 NO, 36 NOT GIVEN, 37 NO); following the key, the group is typed ynng and the rubric replaced with the standard YES/NO/NOT GIVEN wording."
+ ]
+}

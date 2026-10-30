@@ -1,0 +1,785 @@
+{
+ "parts": [
+  {
+   "part": 1,
+   "range": [
+    1,
+    10
+   ],
+   "pages": [
+    28
+   ],
+   "groups": [
+    {
+     "id": "L1-1",
+     "type": "completion",
+     "range": [
+      1,
+      10
+     ],
+     "instructions": [
+      "Complete the form below.",
+      "Write **ONE WORD AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Accommodation Form – Student Information"
+      },
+      {
+       "t": "table",
+       "header": 0,
+       "rows": [
+        [
+         "*Example:*\nType of accommodation:",
+         "*hall* of residence"
+        ],
+        [
+         "Name:",
+         "Anu {{1}}"
+        ],
+        [
+         "Date of birth:",
+         "{{2}}"
+        ],
+        [
+         "Country of origin:",
+         "India"
+        ],
+        [
+         "Course of study:",
+         "{{3}}"
+        ],
+        [
+         "Number of years planned in hall:",
+         "{{4}}"
+        ],
+        [
+         "Preferred catering arrangement:",
+         "half board"
+        ],
+        [
+         "Special dietary requirements:",
+         "no {{5}} (red)"
+        ],
+        [
+         "Preferred room type:",
+         "a single {{6}}"
+        ],
+        [
+         "Interests:",
+         "the {{7}} badminton"
+        ],
+        [
+         "Priorities in choice of hall:",
+         "to be with other students who are {{8}}\nto live outside the {{9}}\nto have a {{10}} area for socializing"
+        ],
+        [
+         "Contact phone number:",
+         "667549"
+        ]
+       ]
+      }
+     ]
+    }
+   ],
+   "transcript": "MAN: Good morning. Can I help you?\nWOMAN: Yes. I've just been accepted on a course at the university and I'd like to try and arrange accommodation in the hall of residence.\nMAN: Yes, certainly. Please sit down. What I'll do is fill in a form with you to find out a little more about your preferences and so forth.\nWOMAN: Thank you.\nMAN: So first of all, can I take your name?\nWOMAN: It's Anu Bhatt. [Q1]\nMAN: Could you spell your name please?\nWOMAN: Yes. A-N-U ... B-H-A double T.\nMAN: Thanks, and could I ask your date of birth?\nWOMAN: 31st March 1972. [Q2]\nMAN: Thank you. And where are you from?\nWOMAN: India.\nMAN: Oh right. And what will you be studying?\nWOMAN: I'm doing a course in nursing. [Q3]\nMAN: Right, thank you. And how long would you want to stay in hall, do you think?\nWOMAN: Well, it'll take three years but I'd only like to stay in hall for two. I'd like to [Q4] think about living outside for the third year.\nMAN: Fine. And what did you have in mind for catering? Do you want to cook for yourself or have all your meals provided, that's full board?\nWOMAN: Is there something in between?\nMAN: Yes. You can just have evening meal provided, which is half board.\nWOMAN: That's what I'd prefer.\nMAN: Yes, a lot of students opt for that. Now, with that in mind, do you have any special diet, anything we should know about?\nWOMAN: Yes, I don't take red meat. [Q5]\nMAN: No red meat.\nMAN: Now, thinking about the room itself, we have a number of options. You can have a single study bedroom or you can have a shared one. These are both what we call simple rooms. The other alternative is to opt for a single bedsit which actually has more space and better facilities. There's about £20 a week difference between them.\nWOMAN: Well, actually my grant is quite generous and I think the bedsit sounds the [Q6] best option.\nMAN: Lovely. I'll put you down for that and we'll see what availability is like. Now can I ask some other personal details which we like to have on record?\nWOMAN: Yes, of course.\nMAN: I wonder if you could let us know what your interests are. This might help us get a closer match for placing you in a particular hall.\nWOMAN: Ummm. Well, I love the theatre. [Q7]\nMAN: Right.\nWOMAN: And I enjoy sports, particularly badminton.\nMAN: That's worth knowing. Now, what we finish with on the form is really a list from you of what your priorities are in choosing a hall and we'll do our best to take these into account.\nWOMAN: Well, the first thing is I'd prefer a hall where there are other mature [Q8] students, if possible.\nMAN: Yes, we do have halls which tend to cater for slightly older students.\nWOMAN: Ummm and I'd prefer to be out of town. [Q9]\nMAN: That's actually very good for you because we tend to have more vacancies in out-of-town halls.\nWOMAN: Lucky!\nMAN: Yes. Anything else?\nWOMAN: Well, I would like somewhere with a shared area, a TV room for example, [Q10] or something like that. It's a good way to socialise.\nMAN: It certainly is.\nWOMAN: That's it.\nMAN: Now, we just need a contact telephone number for you.\nWOMAN: Sure, I'll just find it. It's double 67549.\nMAN: Great, so we'll be in contact with you as soon as possible..."
+  },
+  {
+   "part": 2,
+   "range": [
+    11,
+    20
+   ],
+   "pages": [
+    29,
+    30
+   ],
+   "groups": [
+    {
+     "id": "L2-1",
+     "type": "completion",
+     "range": [
+      11,
+      13
+     ],
+     "instructions": [
+      "Complete the table below.",
+      "Write **NO MORE THAN THREE WORDS** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Parks and open spaces"
+      },
+      {
+       "t": "table",
+       "header": 1,
+       "rows": [
+        [
+         "Name of place",
+         "Of particular interest",
+         "Open"
+        ],
+        [
+         "Halland Common",
+         "source of River Ouse",
+         "24 hours"
+        ],
+        [
+         "Holt Island",
+         "many different {{11}}",
+         "between {{12}}"
+        ],
+        [
+         "Longfield Country Park",
+         "reconstruction of a 2,000-year-old {{13}} with activities for children",
+         "daylight hours"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L2-2",
+     "type": "choice",
+     "range": [
+      14,
+      16
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B**, or **C**."
+     ],
+     "title": "Longfield Park",
+     "questions": [
+      {
+       "n": 14,
+       "text": "As part of Monday's activity, visitors will",
+       "options": [
+        {
+         "key": "A",
+         "text": "prepare food with herbs."
+        },
+        {
+         "key": "B",
+         "text": "meet a well-known herbalist."
+        },
+        {
+         "key": "C",
+         "text": "dye cloth with herbs."
+        }
+       ]
+      },
+      {
+       "n": 15,
+       "text": "For the activity on Wednesday,",
+       "options": [
+        {
+         "key": "A",
+         "text": "only group bookings are accepted."
+        },
+        {
+         "key": "B",
+         "text": "visitors should book in advance."
+        },
+        {
+         "key": "C",
+         "text": "attendance is free."
+        }
+       ]
+      },
+      {
+       "n": 16,
+       "text": "For the activity on Saturday, visitors should",
+       "options": [
+        {
+         "key": "A",
+         "text": "come in suitable clothing."
+        },
+        {
+         "key": "B",
+         "text": "make sure they are able to stay for the whole day."
+        },
+        {
+         "key": "C",
+         "text": "tell the rangers before the event what they wish to do."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L2-3",
+     "type": "matching",
+     "range": [
+      17,
+      20
+     ],
+     "instructions": [
+      "Label the map below",
+      "Write the correct letter, **A–I**, next to questions 17–20."
+     ],
+     "title": "Hinchingbrooke Park",
+     "image": "images/C9/C9-T2-L2-map.png",
+     "options": [
+      {
+       "key": "A",
+       "text": ""
+      },
+      {
+       "key": "B",
+       "text": ""
+      },
+      {
+       "key": "C",
+       "text": ""
+      },
+      {
+       "key": "D",
+       "text": ""
+      },
+      {
+       "key": "E",
+       "text": ""
+      },
+      {
+       "key": "F",
+       "text": ""
+      },
+      {
+       "key": "G",
+       "text": ""
+      },
+      {
+       "key": "H",
+       "text": ""
+      },
+      {
+       "key": "I",
+       "text": ""
+      }
+     ],
+     "questions": [
+      {
+       "n": 17,
+       "text": "bird hide"
+      },
+      {
+       "n": 18,
+       "text": "dog-walking area"
+      },
+      {
+       "n": 19,
+       "text": "flower garden"
+      },
+      {
+       "n": 20,
+       "text": "wooded area"
+      }
+     ]
+    }
+   ],
+   "transcript": "Hello, I'm delighted to welcome you to our Wildlife Club, and very pleased that you're interested in the countryside and the plants and creatures of this area. I think you'll be surprised at the variety we have here, even though we're not far from London. I'll start by telling you about some of the parks and open spaces nearby.\nOne very pleasant place is Halland Common. This has been public land for hundreds of years, and what you'll find interesting is that the River Ouse, which flows into the sea eighty kilometres away, has its source in the common. There's an information board about the plants and animals you can see here, and by the way, the common is accessible 24 hours a day.\nThen there's Holt Island, which is noted for its great range of trees. In the past willows [Q11] were grown here commercially for basket-making, and this ancient craft has recently been reintroduced. The island is only open to the public from Friday to Sunday, because it's quite [Q12] small, and if there were people around every day, much of the wildlife would keep away.\nFrom there it's just a short walk across the bridge to Longfield Country Park. Longfield [Q13] has a modern replica of a farm from over two thousand years ago. Children's activities are often arranged there, like bread-making and face-painting. The park is only open during daylight hours, so bear that in mind if you decide to go there.\nLongfield Park has a programme of activities throughout the year, and to give you a sample, this is what's happening in the next few days. On Monday you can learn about herbs, and how they've been used over the centuries. You'll start with a tour of our herb garden, practise the technique of using them as colour dyes for cloth, and listen to an [Q14] illustrated talk about their use in cooking and medicine.\nThen on Wednesday you can join local experts to discover the variety of insects and birds that appear in the evening. We keep to a small number of people in the group, so if you [Q15] want to go you'll need to phone the park ranger a few days ahead. There's a small charge, which you should pay when you turn up.\nI'm sure you're all keen to help with the practical task of looking after the park, so on Saturday you can join a working party. You'll have a choice of all sorts of activities, from planting hedges to picking up litter, so you'll be able to change from one to another when you feel like it. The rangers will be hard at work all day, but do come and join in, even for just a short while. One thing, though, is to make sure you're wearing something that you [Q16] don't mind getting dirty or torn.\nAnd finally I'd like to tell you about our new wildlife area, Hinchingbrooke Park, which will be opened to the public next month. This slide doesn't really indicate how big it is, but anyway, you can see the two gates into the park, and the main paths. As you can see, there's a lake in the north west of the park, with a bird hide to the west of it, at the end of a [Q17] path. So it'll be a nice quiet place for watching the birds on the lake.\nFairly close to where refreshments are available, there's a dog-walking area in the [Q18] southern part of the park, leading off from the path. And if you just want to sit and relax, you can go to the flower garden; that's the circular area on the map surrounded by paths. [Q19]\nAnd finally, there's a wooded area in the western section of the park between two paths. [Q20]\nOkay, that's enough from me, so let's go on to ..."
+  },
+  {
+   "part": 3,
+   "range": [
+    21,
+    30
+   ],
+   "pages": [
+    31,
+    32
+   ],
+   "groups": [
+    {
+     "id": "L3-1",
+     "type": "choice",
+     "range": [
+      21,
+      24
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B**, or **C**."
+     ],
+     "title": "Self-Access Centre",
+     "questions": [
+      {
+       "n": 21,
+       "text": "Students want to keep the Self-Access Centre because",
+       "options": [
+        {
+         "key": "A",
+         "text": "they enjoy the variety of equipment."
+        },
+        {
+         "key": "B",
+         "text": "they like being able to work on their own."
+        },
+        {
+         "key": "C",
+         "text": "it is an important part of their studies."
+        }
+       ]
+      },
+      {
+       "n": 22,
+       "text": "Some teachers would prefer to",
+       "options": [
+        {
+         "key": "A",
+         "text": "close the Self-Access Centre."
+        },
+        {
+         "key": "B",
+         "text": "move the Self-Access Centre elsewhere."
+        },
+        {
+         "key": "C",
+         "text": "restrict access to the Self-Access Centre."
+        }
+       ]
+      },
+      {
+       "n": 23,
+       "text": "The students' main concern about using the library would be",
+       "options": [
+        {
+         "key": "A",
+         "text": "the size of the library."
+        },
+        {
+         "key": "B",
+         "text": "difficulty in getting help."
+        },
+        {
+         "key": "C",
+         "text": "the lack of materials."
+        }
+       ]
+      },
+      {
+       "n": 24,
+       "text": "The Director of Studies is concerned about",
+       "options": [
+        {
+         "key": "A",
+         "text": "the cost of upgrading the centre."
+        },
+        {
+         "key": "B",
+         "text": "the lack of space in the centre."
+        },
+        {
+         "key": "C",
+         "text": "the difficulty in supervising the centre."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L3-2",
+     "type": "completion",
+     "range": [
+      25,
+      30
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **NO MORE THAN TWO WORDS** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Necessary improvements to existing Self-Access Centre"
+      },
+      {
+       "t": "sub",
+       "text": "Equipment"
+      },
+      {
+       "t": "p",
+       "text": "Replace computers to create more space."
+      },
+      {
+       "t": "sub",
+       "text": "Resources"
+      },
+      {
+       "t": "p",
+       "text": "The level of the {{25}} materials, in particular, should be more clearly shown."
+      },
+      {
+       "t": "p",
+       "text": "Update the {{26}} collection."
+      },
+      {
+       "t": "p",
+       "text": "Buy some {{27}} and divide them up."
+      },
+      {
+       "t": "sub",
+       "text": "Use of the room"
+      },
+      {
+       "t": "p",
+       "text": "Speak to the teachers and organize a {{28}} for supervising the centre."
+      },
+      {
+       "t": "p",
+       "text": "Install an {{29}}."
+      },
+      {
+       "t": "p",
+       "text": "Restrict personal use of {{30}} on computer."
+      }
+     ]
+    }
+   ],
+   "transcript": "PAM: Hi Jun. As you know, I've asked you here today to discuss the future of our Self-Access Centre. We have to decide what we want to do about this very important resource for our English language students. So, can you tell me what the students think about this?\nJUN: Well, from the students' point of view, we would like to keep it. The majority of students say that they enjoy using it because it provides a variation on the classroom routine and they see it as a pretty major [Q21] component of their course, but we would like to see some improvements to the equipment, particularly the computers; there aren't enough for one each at the moment and we always have to share.\nPAM: Well yes, the teachers agree that it is a very valuable resource but one thing we have noticed is that a lot of the students are using it to check their personal emails. We don't want to stop you students using it, but we think the computers should be used as a learning resource, not for emails. Some of us also think that we could benefit a lot more by relocating the [Q22] Self-Access Centre to the main University library building. How do you think the students would feel about that, Jun?\nJUN: Well, the library is big enough to incorporate the Self-Access Centre, but it wouldn't be like a class activity anymore. Our main worry would be not being [Q23] able to go to a teacher for advice. I'm sure there would be plenty of things to do but we really need teachers to help us choose the best activities.\nPAM: Well, there would still be a teacher present and he or she would guide the activities of the students, we wouldn't just leave them to get on with it.\nJUN: Yes, but I think the students would be much happier keeping the existing set-up; they really like going to the Self-Access Centre with their teacher and staying together as a group to do activities. If we could just improve the resources and facilities, I think it would be fine. Is the cost going to be a problem?\nPAM: It's not so much the expense that I'm worried about, and we've certainly got room to do it, but it's the problem of timetabling a teacher to be in [Q24] there outside class hours. If we're going to spend a lot of money on equipment and resources, we really need to make sure that everything is looked after properly. Anyway, let's make some notes to see just what needs doing to improve the Centre.\nPAM: Now, what about the computers? I think it might be a good idea to install some new models. They would take up a lot less room and so that would increase the work space for text books and so on.\nJUN: That would be great. It is a bit cramped in there at times.\nPAM: What about other resources? Do you have a list of things that the students would like to see improved?\nJUN: Yes, one of the comments that students frequently make is that they find [Q25] it difficult to find materials that are appropriate for their level, especially reading resources, so I think we need to label them more clearly.\nPAM: Well that's easy enough, we can get that organised very quickly. In fact I think we should review all of the study resources as some of them are looking a bit out-of-date.\nJUN: Definitely. The CD section especially needs to be more current. I think we [Q26] should get some of the ones that go with our latest course books and also make multiple copies.\nPAM: Good, now I was also thinking about some different materials that we haven't got in there at all. What do you think of the idea of introducing [Q27] some workbooks? If we break them up into separate pages and laminate them, they'd be a great resource. The students could study the main course book in class and then do follow-up practice in the Self-Access Centre.\nJUN: That sounds good.\nPAM: Okay, now finally we need to think about how the room is used. I'll have to talk to the teachers and make sure we can all reach some agreement [Q28] on a timetable to supervise the centre after class. But we also need to think about security, too. Especially if we're going to invest in some new equipment.\nJUN: What about putting in an alarm? [Q29]\nPAM: Good idea. The other thing I'd like to do is talk to our technicians and see whether we could somehow limit the access to email. I really don't want to [Q30] see that resource misused.\nJUN: What about if we agree to only use it before and after class?\nPAM: Yes, that would be fine. OK, anyway... that's great for now. We'll discuss it further when we've managed to ..."
+  },
+  {
+   "part": 4,
+   "range": [
+    31,
+    40
+   ],
+   "pages": [
+    33,
+    34
+   ],
+   "groups": [
+    {
+     "id": "L4-1",
+     "type": "completion",
+     "range": [
+      31,
+      40
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **ONE WORD ONLY** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Business Cultures"
+      },
+      {
+       "t": "sub",
+       "text": "Power culture"
+      },
+      {
+       "t": "table",
+       "header": 0,
+       "rows": [
+        [
+         "Characteristics of organisation",
+         "small\n{{31}} power source\nfew rules and procedures\ncommunication by {{32}}"
+        ],
+        [
+         "Advantage :",
+         "can act quickly"
+        ],
+        [
+         "Disadvantage:",
+         "might not act {{33}}"
+        ],
+        [
+         "Suitable employee:",
+         "not afraid of {{34}}\ndoesn't need job security"
+        ]
+       ]
+      },
+      {
+       "t": "sub",
+       "text": "Role culture"
+      },
+      {
+       "t": "table",
+       "header": 0,
+       "rows": [
+        [
+         "Characteristics of organization:",
+         "large, many {{35}}\nspecialized departments\nrules and procedure, e.g. job {{36}} and rules for discipline"
+        ],
+        [
+         "Advantages:",
+         "economies of scale\nsuccessful when {{37}} ability is important"
+        ],
+        [
+         "Disadvantages:",
+         "slow to see when {{38}} is needed\nslow to react"
+        ],
+        [
+         "Suitable employee:",
+         "values security\ndoesn't want {{39}}"
+        ]
+       ]
+      },
+      {
+       "t": "sub",
+       "text": "Task culture"
+      },
+      {
+       "t": "table",
+       "header": 0,
+       "rows": [
+        [
+         "Characteristics of organization:",
+         "project orientated\nin competitive market or making product with short life\na lot of delegation"
+        ],
+        [
+         "Advantage:",
+         "{{40}}"
+        ],
+        [
+         "Disadvantages:",
+         "no economies of scale or special expertise"
+        ],
+        [
+         "Suitable employee:",
+         "likes to work in groups"
+        ]
+       ]
+      }
+     ]
+    }
+   ],
+   "transcript": "Good morning everyone. Now whether you're going to university to study business or some other subject, many of you will eventually end up working for a company of some kind.\nNow, when you first start working somewhere you will realise that the organisation you've joined has certain characteristics. And we often refer to these social characteristics as the culture of the organisation - this includes its unwritten ideas, beliefs, values and things like that. One well known writer has classified company cultures by identifying four major types.\nThe first type is called the Power Culture, and it's usually found in small organisations.\nIt's the type of culture that needs a central source of power to be effective, and because [Q31] control is in the hands of just one or two people there aren't many rules or procedures. Another characteristic is that communication usually takes the form of conversations rather [Q32] than, say, formal meetings or written memos. Now one of the benefits of this culture is that the organisation has the ability to act quickly, so it responds well to threat, or danger on the one hand, and opportunity on the other.\nBut on the negative side, this type of organisation doesn't always act effectively, because [Q33] it depends too much on one or two people at the top, and when these people make poor decisions there's no-one else who can influence them.\nAnd the kind of person who does well in this type of business culture is one who is happy [Q34] to take risks, and for whom job security is a low priority.\nThe next type is known as Role Culture - that's R-O-L-E, not R-O-double L, by the way, and this type is usually found in large companies, which have lots of different levels in them. [Q35] These organisations usually have separate departments that specialise in things like finance, or sales, or maintenance, or whatever. Each one is co-ordinated at the top by a small group of senior managers, and typically everyone's job is controlled by sets of rules and procedures [Q36] - for example, there are specific job descriptions, rules for discipline, and so on.\nWhat are the benefits of this kind of culture? Well firstly, because it's found in large organisations, its fixed costs, or overheads as they're known, are low in relation to its output, or what it produces. In other words it can achieve economies of scale. And secondly, it is particularly successful in business markets where technical expertise is [Q37] important. On the other hand, this culture is often very slow to recognise the need for [Q38] change, and even slower to react. What kind of person does this type of culture suit? Well it suits employees who value security, and who don't particularly want to have [Q39] responsibility.\nMoving on now to Task Cultures - this type is found in organisations that are project-oriented. You usually find it where the market for the company's product is extremely competitive, or where the products themselves have a short life-span. Usually top management delegates the projects, the people and other resources. And once these have been allocated, little day-to-day control is exercised from the top, because this would seem like 'breaking the rules'.\nNow one of the major benefits of this culture is that it's flexible. But it does have some [Q40] major disadvantages too. For instance, it can't produce economies of scale or great depth of expertise. People who like working in groups or teams prefer this type of culture.\nAnd finally, the fourth category is called the Person Culture ..."
+  }
+ ],
+ "answers": {
+  "1": {
+   "a": [
+    "Bhatt"
+   ]
+  },
+  "2": {
+   "a": [
+    "31 March",
+    "31st March",
+    "March 31",
+    "March 31st"
+   ],
+   "k": "31 March"
+  },
+  "3": {
+   "a": [
+    "nursing"
+   ]
+  },
+  "4": {
+   "a": [
+    "2",
+    "two"
+   ],
+   "k": "2"
+  },
+  "5": {
+   "a": [
+    "meat"
+   ]
+  },
+  "6": {
+   "a": [
+    "bedsit"
+   ]
+  },
+  "7": {
+   "a": [
+    "theatre",
+    "theater"
+   ],
+   "k": "theatre/theater"
+  },
+  "8": {
+   "a": [
+    "mature",
+    "older"
+   ],
+   "k": "mature/older"
+  },
+  "9": {
+   "a": [
+    "town"
+   ]
+  },
+  "10": {
+   "a": [
+    "shared"
+   ]
+  },
+  "11": {
+   "a": [
+    "trees"
+   ]
+  },
+  "12": {
+   "a": [
+    "Friday and Sunday",
+    "Friday Sunday",
+    "Friday/Sunday",
+    "Friday, Sunday"
+   ],
+   "k": "Friday/Sunday"
+  },
+  "13": {
+   "a": [
+    "farm"
+   ]
+  },
+  "14": {
+   "a": [
+    "C"
+   ]
+  },
+  "15": {
+   "a": [
+    "B"
+   ]
+  },
+  "16": {
+   "a": [
+    "A"
+   ]
+  },
+  "17": {
+   "a": [
+    "A"
+   ]
+  },
+  "18": {
+   "a": [
+    "I"
+   ]
+  },
+  "19": {
+   "a": [
+    "F"
+   ]
+  },
+  "20": {
+   "a": [
+    "E"
+   ]
+  },
+  "21": {
+   "a": [
+    "C"
+   ]
+  },
+  "22": {
+   "a": [
+    "B"
+   ]
+  },
+  "23": {
+   "a": [
+    "B"
+   ]
+  },
+  "24": {
+   "a": [
+    "C"
+   ]
+  },
+  "25": {
+   "a": [
+    "reading"
+   ]
+  },
+  "26": {
+   "a": [
+    "CD"
+   ]
+  },
+  "27": {
+   "a": [
+    "workbooks"
+   ]
+  },
+  "28": {
+   "a": [
+    "timetable",
+    "schedule"
+   ],
+   "k": "timetable/schedule"
+  },
+  "29": {
+   "a": [
+    "alarm"
+   ]
+  },
+  "30": {
+   "a": [
+    "email",
+    "emails"
+   ],
+   "k": "email/emails"
+  },
+  "31": {
+   "a": [
+    "central"
+   ]
+  },
+  "32": {
+   "a": [
+    "conversation",
+    "conversations"
+   ],
+   "k": "conversation/conversations"
+  },
+  "33": {
+   "a": [
+    "effectively"
+   ]
+  },
+  "34": {
+   "a": [
+    "risk",
+    "risks"
+   ],
+   "k": "risk/risks"
+  },
+  "35": {
+   "a": [
+    "levels"
+   ]
+  },
+  "36": {
+   "a": [
+    "description",
+    "descriptions"
+   ],
+   "k": "description/descriptions"
+  },
+  "37": {
+   "a": [
+    "technical"
+   ]
+  },
+  "38": {
+   "a": [
+    "change"
+   ]
+  },
+  "39": {
+   "a": [
+    "responsibility"
+   ]
+  },
+  "40": {
+   "a": [
+    "flexible"
+   ]
+  }
+ },
+ "issues": [
+  "L Q12: the table prints 'between 12 ........ and ........' with one question number covering both blanks; rendered as 'between {{12}}'. Key 'Friday/Sunday' (= Friday and Sunday) expanded to both days.",
+  "L Section 2 map (Hinchingbrooke Park): the scan shows faint bleed-through of a table from the facing page inside the map; letters A–I are all legible.",
+  "L Section 3 audioscript: the last speaker label is printed 'RAM:' (typo) → 'PAM:'.",
+  "L Q21 option C: printed 'It is an important part ...' (capital I mid-sentence) → 'it is ...'."
+ ]
+}

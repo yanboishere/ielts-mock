@@ -1,0 +1,967 @@
+{
+ "parts": [
+  {
+   "part": 1,
+   "range": [
+    1,
+    10
+   ],
+   "pages": [
+    34,
+    35
+   ],
+   "groups": [
+    {
+     "id": "L1-1",
+     "type": "choice",
+     "range": [
+      1,
+      5
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**.",
+      "Example: How long has Sally been waiting? A five minutes B twenty minutes C thirty minutes (Answer: C)"
+     ],
+     "questions": [
+      {
+       "n": 1,
+       "text": "What does Peter want to drink?",
+       "options": [
+        {
+         "key": "A",
+         "text": "tea"
+        },
+        {
+         "key": "B",
+         "text": "coffee"
+        },
+        {
+         "key": "C",
+         "text": "a cold drink"
+        }
+       ]
+      },
+      {
+       "n": 2,
+       "text": "What caused Peter problems at the bank?",
+       "options": [
+        {
+         "key": "A",
+         "text": "The exchange rate was down."
+        },
+        {
+         "key": "B",
+         "text": "He was late."
+        },
+        {
+         "key": "C",
+         "text": "The computers weren't working."
+        }
+       ]
+      },
+      {
+       "n": 3,
+       "text": "Who did Peter talk to at the bank?",
+       "options": [
+        {
+         "key": "A",
+         "text": "an old friend"
+        },
+        {
+         "key": "B",
+         "text": "an American man"
+        },
+        {
+         "key": "C",
+         "text": "a German man"
+        }
+       ]
+      },
+      {
+       "n": 4,
+       "text": "Henry gave Peter a map of",
+       "options": [
+        {
+         "key": "A",
+         "text": "the city."
+        },
+        {
+         "key": "B",
+         "text": "the bus routes."
+        },
+        {
+         "key": "C",
+         "text": "the train system."
+        }
+       ]
+      },
+      {
+       "n": 5,
+       "text": "What do Peter and Sally decide to order?",
+       "options": [
+        {
+         "key": "A",
+         "text": "food and drinks"
+        },
+        {
+         "key": "B",
+         "text": "just food"
+        },
+        {
+         "key": "C",
+         "text": "just drinks"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L1-2",
+     "type": "completion",
+     "range": [
+      6,
+      8
+     ],
+     "instructions": [
+      "Complete the notes below using words from the box."
+     ],
+     "content": [
+      {
+       "t": "table",
+       "rows": [
+        [
+         "Art Gallery"
+        ],
+        [
+         "Cathedral"
+        ],
+        [
+         "Castle"
+        ],
+        [
+         "Gardens"
+        ],
+        [
+         "Markets"
+        ]
+       ],
+       "header": 0
+      },
+      {
+       "t": "p",
+       "text": "Tourist attractions open all day: {{6}} and Gardens"
+      },
+      {
+       "t": "p",
+       "text": "Tourist attractions NOT open on Mondays: {{7}} and Castle"
+      },
+      {
+       "t": "p",
+       "text": "Tourist attractions which have free entry: {{8}} and Markets"
+      }
+     ]
+    },
+    {
+     "id": "L1-3",
+     "type": "completion",
+     "range": [
+      9,
+      10
+     ],
+     "instructions": [
+      "Complete the sentences below.",
+      "Write **NO MORE THAN THREE WORDS** for each answer."
+     ],
+     "content": [
+      {
+       "t": "p",
+       "text": "The first place Peter and Sally will visit is the {{9}}."
+      },
+      {
+       "t": "p",
+       "text": "At the Cathedral, Peter really wants to {{10}}."
+      }
+     ]
+    }
+   ],
+   "transcript": "SALLY: Oh, Peter, there you are. You've been ages. What kept you so long?\nPETER: I'm sorry I'm so late, Sally. Have you been waiting long?\nSALLY: Oh, half an hour. But it doesn't matter. I've had a coffee and I've been reading this guidebook for tourists. Sit down. You look very hot and tired. What would you like to drink?\nPETER: I'd love a really chilled mineral water or something. Will you have another coffee? [Q1]\nSALLY: Yes, I will. The waitress will be back in a moment. Why were you so late? Did something happen?\nPETER: Yes. You know I went to the bank to cash some travellers cheques? Well, the exchange rate was looking healthy, but when I went to the teller, they told me the computer system was temporarily down, so they couldn't do any transactions. [Q2] They said the problem would be fixed in a few minutes, so I waited. And then I started talking to another guy in the bank, and I forgot the time.\nSALLY: Oh, really? Someone you met in the bank? Does he work there?\nPETER: No, he was a tourist, from New York. His name's Henry, and he's been here for a [Q3] week, but he's moving on to Germany tomorrow. He's an architect, and he's spending four weeks travelling around Europe.\nSALLY: Just like us!\nPETER: Yeah, just like us. He told me the names of some places where we should eat. Great food, and not too expensive, he said. Oh, and he also gave me this map of the bus system. He said he didn't need it any more. [Q4]\nSALLY: That's useful. Pity he's moving on tomorrow. Ah, here's the waitress. Let's order. Do you want anything to eat, or shall we just have a drink?\nPETER: Well, I'm hungry, and we've got a lot of sightseeing to do, so let's just have a snack and a drink. [Q5]\nSALLY: Sounds good to me!\nPETER: Well, let's decide what we'll see today. I guess the best place to start is the Cathedral, and then the Castle. What are the opening times for those two?\nSALLY: Well, according to this guidebook, the Cathedral is only open from nine-thirty in the morning until midday. No, hang on. That's the Cathedral Museum. The Cathedral itself is open morning and afternoon. The Castle is just open from one [Q6] to five, so we can't go there until after lunch. I really want to spend some time in the Art Gallery, because they've got this wonderful painting by Rembrandt that I've always wanted to see.\nPETER: What else should we see?\nSALLY: Well, the guidebook says the Botanical Gardens are worth spending some time in, and they're open all day, from eight to six, so we can go there any time. I'd like to go to the Markets near the river too, but ... oh ... no, wait, that's only in the mornings, too.\nPETER: As well as today and tomorrow, we can see some other places on Monday, you know. But I don't think the Markets will be open then; they only open on [Q7] Thursdays, so we've missed them for this week. Maybe we should go to the Cathedral today because it's Sunday tomorrow, and even though it's open every day it might be more difficult to get in tomorrow because of the church services.\nSALLY: That's true, but the Art Gallery isn't open on Sundays at all, so we'll have to go there today. The Castle's open every day except Mondays, so we're OK there, and the Gardens of course only close at night.\nPETER: Are all these places free or do we have to pay to go in? What does the guidebook say?\nSALLY: I think there's a charge for all of them except the Botanical Gardens. Oh, and the [Q8] Markets, of course you don't pay to go in.\nPETER: OK, well, it looks like our plan is this: we'll go to see the painting you like first, [Q9] the Rembrandt, then have lunch and go on to the Castle after that, and then the Cathedral.\nSALLY: OK. It says here that the roof of the Cathedral is really beautiful.\nPETER: Is that right? What I really want to do at the Cathedral is climb the tower. The [Q10] view is supposed to be spectacular.\nSALLY: OK, well, that'll be more than enough for today. Then, tomorrow, let's go to the Botanical Gardens and have a picnic. I want to sit by the river and watch the swans. This city's famous for them."
+  },
+  {
+   "part": 2,
+   "range": [
+    11,
+    20
+   ],
+   "pages": [
+    36,
+    37
+   ],
+   "groups": [
+    {
+     "id": "L2-1",
+     "type": "choice",
+     "range": [
+      11,
+      20
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "questions": [
+      {
+       "n": 11,
+       "text": "The Counselling Service may contact tutors if",
+       "options": [
+        {
+         "key": "A",
+         "text": "they are too slow in marking assignments."
+        },
+        {
+         "key": "B",
+         "text": "they give students a lot of work."
+        },
+        {
+         "key": "C",
+         "text": "they don't inform students about their progress."
+        }
+       ]
+      },
+      {
+       "n": 12,
+       "text": "Stress may be caused by",
+       "options": [
+        {
+         "key": "A",
+         "text": "new teachers."
+        },
+        {
+         "key": "B",
+         "text": "time pressure."
+        },
+        {
+         "key": "C",
+         "text": "unfamiliar subject matter."
+        }
+       ]
+      },
+      {
+       "n": 13,
+       "text": "International students may find stress difficult to handle because",
+       "options": [
+        {
+         "key": "A",
+         "text": "they lack support from family and friends."
+        },
+        {
+         "key": "B",
+         "text": "they don't have time to make new friends."
+        },
+        {
+         "key": "C",
+         "text": "they find it difficult to socialise."
+        }
+       ]
+      },
+      {
+       "n": 14,
+       "text": "A personal crisis may be caused by",
+       "options": [
+        {
+         "key": "A",
+         "text": "studying for too long overseas."
+        },
+        {
+         "key": "B",
+         "text": "business problems in the student's own country."
+        },
+        {
+         "key": "C",
+         "text": "disruptions to personal relationships."
+        }
+       ]
+      },
+      {
+       "n": 15,
+       "text": "Students may lose self-esteem if",
+       "options": [
+        {
+         "key": "A",
+         "text": "they have to change courses."
+        },
+        {
+         "key": "B",
+         "text": "they don't complete a course."
+        },
+        {
+         "key": "C",
+         "text": "their family puts too much pressure on them."
+        }
+       ]
+      },
+      {
+       "n": 16,
+       "text": "Students should consult Glenda Roberts if",
+       "options": [
+        {
+         "key": "A",
+         "text": "their general health is poor."
+        },
+        {
+         "key": "B",
+         "text": "their diet is too strict."
+        },
+        {
+         "key": "C",
+         "text": "they can't eat the local food."
+        }
+       ]
+      },
+      {
+       "n": 17,
+       "text": "Students in financial difficulties can receive",
+       "options": [
+        {
+         "key": "A",
+         "text": "assistance to buy books."
+        },
+        {
+         "key": "B",
+         "text": "a loan to pay their course fees."
+        },
+        {
+         "key": "C",
+         "text": "a no-interest loan to cover study expenses."
+        }
+       ]
+      },
+      {
+       "n": 18,
+       "text": "Loans are also available to students who",
+       "options": [
+        {
+         "key": "A",
+         "text": "can't pay their rent."
+        },
+        {
+         "key": "B",
+         "text": "need to buy furniture."
+        },
+        {
+         "key": "C",
+         "text": "can't cover their living expenses."
+        }
+       ]
+      },
+      {
+       "n": 19,
+       "text": "The number of students counselled by the service last year was",
+       "options": [
+        {
+         "key": "A",
+         "text": "214."
+        },
+        {
+         "key": "B",
+         "text": "240."
+        },
+        {
+         "key": "C",
+         "text": "2,600."
+        }
+       ]
+      },
+      {
+       "n": 20,
+       "text": "The speaker thinks the Counselling Service",
+       "options": [
+        {
+         "key": "A",
+         "text": "has been effective in spite of staff shortages."
+        },
+        {
+         "key": "B",
+         "text": "is under-used by students."
+        },
+        {
+         "key": "C",
+         "text": "has suffered badly because of staff cuts."
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "transcript": "So the counselling services we offer deal with any problems arising from your studies, or in your life outside the university. Let's take academic counselling. If you're confused about subjects or how to combine them in your degree, then we can advise you and discuss the career you are aiming for, so that you can see it all in context. We can also chase up your tutor if you're not getting proper feedback on how you are getting on in your subject. [Q11]\nBesides help with academic problems, you may also need personal counselling: if you think you're already under stress, well, just wait till classes begin next week. You'll have to start adjusting to teaching and learning methods that may be unfamiliar to you, as well as the mounting pressure as the deadline for that first assignment creeps up on you. And of [Q12] course, you have to cope with all this without your usual social network – you know, the social contacts, family and friends you could normally rely on for help. All of this causes [Q13] anxiety. Studying overseas can trigger a personal crisis – you may have left a lot of what you might call 'unfinished business' back in your own country, or you may have interrupted [Q14] personal relationships or even sometimes have broken them off to come overseas, and so the student often feels lonely, unhappy, unmotivated and unable to concentrate on studying. Or there may be other things bothering you. Our resident chaplain can offer you spiritual guidance if that's what you want, or we can put you in touch with community groups that can provide you with social contacts and friendship.\nWhat about exam stress? It affects nearly everyone to some extent, but especially overseas students like yourselves. There may be a huge amount of family pressure on you to succeed, and if you fail a subject or drop out of a course because it's too difficult then your self-esteem [Q15] can suffer. But it's not the end of the world if you don't pass an exam – I had to resit First Year Anthropology, so I can certainly offer you a sympathetic ear! Anyway, exam failure can lead to worrying changes in the way you normally behave. You may also be off your food, or you may have dietary problems because the local food is not to your liking [Q16] and upsets you, and this can affect your health and studies. Glenda Roberts is our dietician in the Health Service and we can put you on to her.\nAnd we all have money problems, don't we? But remember, full-time students can get a low-interest loan of up to six hundred dollars to buy books and for similar study-related [Q17] expenses. That's right, and you can get double that amount if you can't afford an item of equipment you need for your course – a musical instrument, for example. And it doesn't stop there. When you move into a flat, starting-up expenses, including furniture for it, can be [Q18] covered by a loan through the Welfare Service – see Jill Freeman for details.\nCan we help you? Well, last academic year, in spite of staff cuts, we counselled two [Q19] hundred and forty international students for a total of twenty-six hundred hours counselling, and, finally we won all but just one of the twelve appeals that we launched on behalf of students. Not too bad for an understaffed service, don't you think? That's all [Q20] from me. Thank you."
+  },
+  {
+   "part": 3,
+   "range": [
+    21,
+    30
+   ],
+   "pages": [
+    38,
+    39
+   ],
+   "groups": [
+    {
+     "id": "L3-1",
+     "type": "completion",
+     "range": [
+      21,
+      24
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **NO MORE THAN TWO WORDS AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "DETAILS OF ASSIGNMENT"
+      },
+      {
+       "t": "sub",
+       "text": "Part 1 Essay"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "Title: 'Assess the two main methods of {{21}} in social science research'"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "Number of words: {{22}}"
+      },
+      {
+       "t": "sub",
+       "text": "Part 2 Small-scale study"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "Choose one method."
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "Gather data from at least {{23}} subjects."
+      },
+      {
+       "t": "sub",
+       "text": "Part 3 Report on study"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "Number of words: {{24}}"
+      }
+     ]
+    },
+    {
+     "id": "L3-2",
+     "type": "multi",
+     "range": [
+      25,
+      26
+     ],
+     "n": [
+      25,
+      26
+     ],
+     "select": 2,
+     "instructions": [
+      "Choose **TWO** letters **A–E**."
+     ],
+     "text": "What **TWO** disadvantages of the questionnaire form of data collection do the students discuss?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The data is sometimes invalid."
+      },
+      {
+       "key": "B",
+       "text": "Too few people may respond."
+      },
+      {
+       "key": "C",
+       "text": "It is less likely to reveal the unexpected."
+      },
+      {
+       "key": "D",
+       "text": "It can only be used with literate populations."
+      },
+      {
+       "key": "E",
+       "text": "There is a delay between the distribution and return of questionnaires."
+      }
+     ]
+    },
+    {
+     "id": "L3-3",
+     "type": "completion",
+     "range": [
+      27,
+      30
+     ],
+     "instructions": [
+      "Complete the table below.",
+      "Write **NO MORE THAN THREE WORDS OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "table",
+       "header": 1,
+       "rows": [
+        [
+         "AUTHOR",
+         "TITLE",
+         "PUBLISHER",
+         "YEAR OF PUBLICATION"
+        ],
+        [
+         "{{27}}",
+         "'Sample Surveys in Social Science Research'",
+         "",
+         ""
+        ],
+        [
+         "Bell",
+         "{{28}}",
+         "{{29}}",
+         ""
+        ],
+        [
+         "Wilson",
+         "'Interviews That Work'",
+         "Oxford University Press",
+         "{{30}}"
+        ]
+       ]
+      }
+     ]
+    }
+   ],
+   "transcript": "ROSA: Oh, there you are, good. Sorry I'm a bit late – there was a long queue. So, have you worked out how to deal with this assignment then?\nMICK: Not yet, we've only been here a couple of minutes ourselves.\nROSA: Can you just remind me what the task is exactly?\nPETE: Well, there are two, no, three, parts to it: first, we've got to write an essay about ways of collecting data. Then ...\nROSA: What's the title of the essay exactly?\nMICK: I've got it here: 'Assess the two main methods of collecting data in social science [Q21] research'.\nROSA: And how much do we need to write?\nMICK: Fifteen hundred words. That's for the essay. Then, for the second part of the [Q22] assignment, we have to choose one method of data collection, and 'carry out a small-scale study, making appropriate use of the method chosen to gather data from at least five subjects'. [Q23]\nROSA: And then we have to write a report on the study?\nPETE: That's right, of three to four thousand words. [Q24]\nROSA: Did you get as far as discussing which form of data collection we should go for – questionnaire or interview, isn't it?\nMICK: Yeah, I think we should use a questionnaire. It'll be so much less time-consuming than organising interviews, I reckon. Once we've agreed on the wording of it, we only have to send it out and wait for the responses.\nROSA: Yes, I think it probably would be quicker. But what did that article he gave us last week say about the quality of data from questionnaires?\nMICK: I'm pretty sure it recommended questionnaires as a source of 'highly reliable data'. As long as you design the questionnaire properly in the first place, the data will be fine.\nROSA: No. I'm sure it talked about drawbacks as well, didn't it? Something about the response rate and the problems you get if it's too low. [Q25]\nMICK: Yeah, but we only need data from five subjects anyway.\nROSA: I suppose so. Another drawback I remember it mentioned was that questionnaire data tends not to reveal anything unexpected, because it is limited to the questions [Q26] fixed in advance by the researcher.\nMICK: Come on, Rosa. This is only a practice. It's not meant to be real research, is it?\nROSA: Well, I'm not sure about that.\nROSA: Maybe I'd better go through the article again, just to be sure. Can you remember what it was called?\nMICK: 'Sample Surveys in Social Science Research', I think. By Mehta. [Q27]\nROSA: M-E-H-T-A ?\nMICK: Yeah. And he also recommended a more recent book, called 'Survey Research', by [Q28] Bell, I think. It's in that series published by London University. [Q29]\nPETE: And if we tried to use interviews instead, I saw a book in the departmental library that'll be helpful: it's called 'Interviews That Work', by Wilson, published in Oxford in nineteen eighty-eight. [Q30]\nROSA: Right. I've got a tutorial now. Can we meet up again later this week? What about Friday morning?\nPETE: Suits me. Eleven o'clock?\nROSA: Fine.\nMICK: Before Friday, I think we should all look through the reading list."
+  },
+  {
+   "part": 4,
+   "range": [
+    31,
+    40
+   ],
+   "pages": [
+    40,
+    41
+   ],
+   "groups": [
+    {
+     "id": "L4-1",
+     "type": "choice",
+     "range": [
+      31,
+      32
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "questions": [
+      {
+       "n": 31,
+       "text": "Corporate crime is generally committed",
+       "options": [
+        {
+         "key": "A",
+         "text": "against individuals."
+        },
+        {
+         "key": "B",
+         "text": "by groups."
+        },
+        {
+         "key": "C",
+         "text": "for companies."
+        }
+       ]
+      },
+      {
+       "n": 32,
+       "text": "Corporate crime does NOT include",
+       "options": [
+        {
+         "key": "A",
+         "text": "employees stealing from their company."
+        },
+        {
+         "key": "B",
+         "text": "unintentional crime by employees."
+        },
+        {
+         "key": "C",
+         "text": "fraud resulting from company policy."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L4-2",
+     "type": "completion",
+     "range": [
+      33,
+      38
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **NO MORE THAN THREE WORDS** for each answer."
+     ],
+     "content": [
+      {
+       "t": "p",
+       "text": "Corporate crime has been ignored by:"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "a) the {{33}} e.g. films"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "b) {{34}}"
+      },
+      {
+       "t": "p",
+       "text": "Reasons:"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "a) often more complex, and needing {{35}}"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "b) less human interest than conventional crime"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "c) victims often {{36}}"
+      },
+      {
+       "t": "p",
+       "text": "Effects:"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "a) Economic costs"
+      },
+      {
+       "t": "li",
+       "level": 3,
+       "text": "may appear unimportant to {{37}}"
+      },
+      {
+       "t": "li",
+       "level": 3,
+       "text": "can make large {{38}} for company"
+      },
+      {
+       "t": "li",
+       "level": 3,
+       "text": "cause more losses to individuals than conventional crimes"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "b) Social costs"
+      },
+      {
+       "t": "li",
+       "level": 3,
+       "text": "make people lose trust in business world"
+      },
+      {
+       "t": "li",
+       "level": 3,
+       "text": "affect poorer people most"
+      }
+     ]
+    },
+    {
+     "id": "L4-3",
+     "type": "multi",
+     "range": [
+      39,
+      40
+     ],
+     "n": [
+      39,
+      40
+     ],
+     "select": 2,
+     "instructions": [
+      "Choose **TWO** letters **A–F**."
+     ],
+     "text": "The oil tanker explosion was an example of a crime which",
+     "options": [
+      {
+       "key": "A",
+       "text": "was no-one's fault."
+      },
+      {
+       "key": "B",
+       "text": "was not a corporate crime."
+      },
+      {
+       "key": "C",
+       "text": "was intentional."
+      },
+      {
+       "key": "D",
+       "text": "was caused by indifference."
+      },
+      {
+       "key": "E",
+       "text": "had tragic results."
+      },
+      {
+       "key": "F",
+       "text": "made a large profit for the company."
+      }
+     ]
+    }
+   ],
+   "transcript": "So far, in these lectures, we've been looking at crimes like robbery and murder – both from a historical viewpoint and also in contemporary society – and we've seen that the preoccupation in Western society with crime and with lawlessness is part of a long and continuous tradition, rather than something which is new and unique to modern society.\nBut over the past seventy years or so, there has been a massive increase in one type of crime, which is what's known as 'corporate crime'. Corporate crime is crime which, as the name suggests, is connected with companies, with business organisations. It includes illegal [Q31] acts of either individuals or a group within the company, but what is important is that these acts are normally in accordance with the goals of the company – they're for the good of the company rather than the individual. It's been defined as, quote, 'crime which is committed for the corporate organisation' – the company – 'not against it', unquote.\nSo crimes like theft by employees – things like embezzlement or fraud against one's [Q32] actual employer are excluded according to this definition. The employees may be involved but they're acting in the first place for the company – they may not even realise they're committing a crime or they may realise but they feel it's excusable because it's policy, or because otherwise they may lose their jobs. So here, really, we're talking about the links between power and crime.\nNow, this is one area that much less is generally known about than conventional or traditional crime. It has been relatively ignored by the mass media – for example, it tends to [Q33] be under-reported in comparison with conventional crime in news broadcasts, and in crime serials and films and so on – they very rarely deal with corporate crime. And it also tends to be ignored in academic circles – there's been far more research on conventional crime and [Q34] far more data is available.\nThere are several reasons for this lack of interest in corporate crime, compared with other types of crime. It's often very complex, whereas with conventional crime it's usually possible to follow what's going on without specialist knowledge. As well as this, whereas [Q35] conventional crime usually has a lot of human interest, corporate crime often has much less. The third reason, and possibly the most significant one, is that very often the victims are unaware – they think their misfortune is an accident or that it's the fault of no-one in [Q36] particular. They're unaware that they've been victims of a crime.\nSo, when we look at the effects of corporate crime we may find it's very difficult to assess the costs. But these costs can be very considerable in both their economic and social aspects.\nLet's look at the economic costs first. For example, if a company is producing fruit juice and it dilutes its product so that it's just a little below the concentration it should be, many millions of people may be paying a small amount extra for their carton of orange juice. Now small amounts like this may seem insignificant for individual customers – too small to [Q37] worry about – but for the company this deception might result in massive illegal profit. [Q38] However, all studies of corporate crime agree that the individuals are in fact deprived of far more money by such crime than they are by conventional crime like robbery and theft.\nIn addition to this, we have to consider the social costs of corporate crime and these are again very difficult to assess, but they are considerable. They're important because they can undermine the faith of the public in the business world and also, more importantly, because the main group of people they affect are, in fact, not the richer sections of society but the poorer – so here companies are robbing the poor to benefit the rich.\nThere are two more points to do with corporate crime that I'd like to illustrate with reference to a specific event which occurred several years ago. This was an explosion of a large oil tanker which caused the loss of more than fifty lives of the crew. It was an explosion which never should have happened and a subsequent inquiry laid the blame not on anyone who had actually been on the tanker at the time, but on the owners of the tanker. They had deliberately decided not to carry out necessary repair work on the tanker as it was due to be sold, and it was this lack of repair work which was directly responsible for the explosion.\nNow this illustrates two points to do with corporate crime. First of all, that it does not have to be intentional. The owners of the tanker certainly did not intend it to explode. But very serious consequences can result from people or organisations not considering the possible results of their actions seriously enough. The main crime here was indifference to [Q39] the human results rather than actual intention to harm anyone, but that didn't make the [Q40] results any less tragic.\nAnd this leads me to my second point – that corporate crime can have very severe consequences. It's not just a matter of companies making bigger profits than they should do, but of events which may affect the lives of innocent people, and yet very often companies, because they say they didn't intend to harm anyone, can avoid taking responsibility for the results of their actions. And that has been a very dangerous loophole in the law.\nA further example of corporate crime was ... (fade out)"
+  }
+ ],
+ "answers": {
+  "1": {
+   "a": [
+    "C"
+   ]
+  },
+  "2": {
+   "a": [
+    "C"
+   ]
+  },
+  "3": {
+   "a": [
+    "B"
+   ]
+  },
+  "4": {
+   "a": [
+    "B"
+   ]
+  },
+  "5": {
+   "a": [
+    "A"
+   ]
+  },
+  "6": {
+   "a": [
+    "Cathedral"
+   ]
+  },
+  "7": {
+   "a": [
+    "Markets"
+   ]
+  },
+  "8": {
+   "a": [
+    "Gardens"
+   ]
+  },
+  "9": {
+   "a": [
+    "Art Gallery"
+   ]
+  },
+  "10": {
+   "a": [
+    "climb the tower",
+    "see the view"
+   ],
+   "k": "climb the tower / see the view"
+  },
+  "11": {
+   "a": [
+    "C"
+   ]
+  },
+  "12": {
+   "a": [
+    "B"
+   ]
+  },
+  "13": {
+   "a": [
+    "A"
+   ]
+  },
+  "14": {
+   "a": [
+    "C"
+   ]
+  },
+  "15": {
+   "a": [
+    "B"
+   ]
+  },
+  "16": {
+   "a": [
+    "C"
+   ]
+  },
+  "17": {
+   "a": [
+    "A"
+   ]
+  },
+  "18": {
+   "a": [
+    "B"
+   ]
+  },
+  "19": {
+   "a": [
+    "B"
+   ]
+  },
+  "20": {
+   "a": [
+    "A"
+   ]
+  },
+  "21": {
+   "a": [
+    "collecting data",
+    "gathering data",
+    "data collection"
+   ],
+   "k": "collecting data / gathering data / data collection"
+  },
+  "22": {
+   "a": [
+    "1,500",
+    "1500"
+   ],
+   "k": "1,500"
+  },
+  "23": {
+   "a": [
+    "5"
+   ]
+  },
+  "24": {
+   "a": [
+    "3,000–4,000",
+    "3,000-4,000",
+    "3000-4000"
+   ],
+   "k": "3,000–4,000"
+  },
+  "25": {
+   "a": [
+    "B"
+   ]
+  },
+  "26": {
+   "a": [
+    "C"
+   ]
+  },
+  "27": {
+   "a": [
+    "Mehta"
+   ]
+  },
+  "28": {
+   "a": [
+    "Survey Research"
+   ]
+  },
+  "29": {
+   "a": [
+    "London University",
+    "London University Press"
+   ],
+   "k": "London University / London University Press"
+  },
+  "30": {
+   "a": [
+    "1988"
+   ]
+  },
+  "31": {
+   "a": [
+    "C"
+   ]
+  },
+  "32": {
+   "a": [
+    "A"
+   ]
+  },
+  "33": {
+   "a": [
+    "mass media",
+    "media"
+   ],
+   "k": "mass media / media"
+  },
+  "34": {
+   "a": [
+    "academic circles",
+    "academics",
+    "researchers"
+   ],
+   "k": "academic circles / academics / researchers"
+  },
+  "35": {
+   "a": [
+    "specialist knowledge",
+    "specialised knowledge"
+   ],
+   "k": "specialist knowledge / specialised knowledge"
+  },
+  "36": {
+   "a": [
+    "unaware"
+   ]
+  },
+  "37": {
+   "a": [
+    "individual customers",
+    "individual consumers",
+    "individuals"
+   ],
+   "k": "individual customers / individual consumers / individuals"
+  },
+  "38": {
+   "a": [
+    "illegal profit",
+    "illegal profits"
+   ],
+   "k": "illegal profit / illegal profits"
+  },
+  "39": {
+   "a": [
+    "D"
+   ]
+  },
+  "40": {
+   "a": [
+    "E"
+   ]
+  }
+ }
+}

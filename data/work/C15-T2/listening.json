@@ -1,0 +1,785 @@
+{
+ "parts": [
+  {
+   "part": 1,
+   "range": [
+    1,
+    10
+   ],
+   "pages": [
+    33
+   ],
+   "groups": [
+    {
+     "id": "L1-1",
+     "type": "completion",
+     "range": [
+      1,
+      4
+     ],
+     "instructions": [
+      "Complete the table below.",
+      "Write **ONE WORD ONLY** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Festival information"
+      },
+      {
+       "t": "table",
+       "header": 1,
+       "rows": [
+        [
+         "Date",
+         "Type of event",
+         "Details"
+        ],
+        [
+         "17th",
+         "a concert",
+         "performers from Canada"
+        ],
+        [
+         "18th",
+         "a ballet",
+         "company called {{1}}"
+        ],
+        [
+         "19th–20th (afternoon)",
+         "a play",
+         "type of play: a comedy called *Jemima*\nhas had a good {{2}}"
+        ],
+        [
+         "20th (evening)",
+         "a {{3}} show",
+         "show is called {{4}}"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L1-2",
+     "type": "completion",
+     "range": [
+      5,
+      10
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **ONE WORD ONLY** for each answer."
+     ],
+     "content": [
+      {
+       "t": "sub",
+       "text": "Workshops"
+      },
+      {
+       "t": "li",
+       "text": "Making {{5}} food"
+      },
+      {
+       "t": "li",
+       "text": "(children only) Making {{6}}"
+      },
+      {
+       "t": "li",
+       "text": "(adults only) Making toys from {{7}} using various tools"
+      },
+      {
+       "t": "sub",
+       "text": "Outdoor activities"
+      },
+      {
+       "t": "li",
+       "text": "Swimming in the {{8}}"
+      },
+      {
+       "t": "li",
+       "text": "Walking in the woods, led by an expert on {{9}}"
+      },
+      {
+       "t": "p",
+       "text": "See the festival organiser's {{10}} for more information"
+      }
+     ]
+    }
+   ],
+   "transcript": "TIM: Good morning. You're through to the tourist information office, Tim speaking. How can I help you?\nJEAN: Oh hello. Could you give me some information about next month's festival, please? My family and I will be staying in the town that week.\nTIM: Of course. Well it starts with a concert on the afternoon of the 17th.\nJEAN: Oh I heard about that. The orchestra and singers come from the USA, don't they?\nTIM: They're from Canada. They're very popular over there. They're going to perform a number of well-known pieces that will appeal to children as well as adults.\nJEAN: That sounds good. My whole family are interested in music.\nTIM: The next day, the 18th, there's a performance by a ballet company called Eustatis. [Q1]\nJEAN: Sorry?\nTIM: The name is spelt E-U-S-T-A-T-I-S. They appeared in last year's festival, and went down very well. Again, their programme is designed for all ages.\nJEAN: Good. I expect we'll go to that. I hope there's going to be a play during the festival, a comedy, ideally.\nTIM: You're in luck! On the 19th and 20th a local amateur group are performing one written by a member of the group. It's called *Jemima*. That'll be on in the town hall. They've already performed it two or three times. I haven't seen it myself, but the review in the local paper was very good. [Q2]\nJEAN: And is it suitable for children?\nTIM: Yes, in fact it's aimed more at children than at adults, so both performances are in the afternoon.\nJEAN: And what about dance? Will there be any performances? [Q3]\nTIM: Yes, also on the 20th, but in the evening. A professional company is putting on a show of modern pieces, with electronic music by young composers.\nJEAN: Uh-huh.\nTIM: The show is about how people communicate, or fail to communicate, with each other, so it's got the rather strange name, *Chat*. [Q4]\nJEAN: I suppose that's because that's something we do both face to face and online.\nTIM: That's right.\nTIM: Now there are also some workshops and other activities. They'll all take place at least once every day, so everyone who wants to take part will have a chance.\nJEAN: Good. We're particularly interested in cookery – you don't happen to have a cookery workshop, do you?\nTIM: We certainly do. It's going to focus on how to make food part of a healthy [Q5] lifestyle, and it'll show that even sweet things like cakes can contain much less sugar than they usually do.\nJEAN: That might be worth going to. We're trying to encourage our children to cook.\nTIM: Another workshop is just for children, and that's on creating posters to reflect the [Q6] history of the town. The aim is to make children aware of how both the town and people's lives have changed over the centuries. The results will be exhibited in the community centre. Then the other workshop is in toy-making, and that's for adults only.\nJEAN: Oh, why's that?\nTIM: Because it involves carpentry – participants will be making toys out of wood, so [Q7] there'll be a lot of sharp chisels and other tools around.\nJEAN: It makes sense to keep children away from it.\nTIM: Exactly. Now let me tell you about some of the outdoor activities. There'll be supervised wild swimming ...\nJEAN: Wild swimming? What's that?\nTIM: It just means swimming in natural waters, rather than a swimming pool.\nJEAN: Oh OK. In a lake, for instance. [Q8]\nTIM: Yes, there's a beautiful one just outside the town, and that'll be the venue for the swimming. There'll be lifeguards on duty, so it's suitable for all ages. And finally, there'll be a walk in some nearby woods every day. The leader is an expert on insects. He'll show some that live in the woods, and how important they are for [Q9] the environment. So there are going to be all sorts of different things to do during the festival.\nJEAN: There certainly are.\nTIM: If you'd like to read about how the preparations for the festival are going, the festival organiser is keeping a blog. Just search online for the festival website, [Q10] and you'll find it.\nJEAN: Well, thank you very much for all the information.\nTIM: You're welcome. Goodbye.\nJEAN: Goodbye."
+  },
+  {
+   "part": 2,
+   "range": [
+    11,
+    20
+   ],
+   "pages": [
+    34,
+    35
+   ],
+   "groups": [
+    {
+     "id": "L2-1",
+     "type": "choice",
+     "range": [
+      11,
+      14
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "title": "Minster Park",
+     "questions": [
+      {
+       "n": 11,
+       "text": "The park was originally established",
+       "options": [
+        {
+         "key": "A",
+         "text": "as an amenity provided by the city council."
+        },
+        {
+         "key": "B",
+         "text": "as land belonging to a private house."
+        },
+        {
+         "key": "C",
+         "text": "as a shared area set up by the local community."
+        }
+       ]
+      },
+      {
+       "n": 12,
+       "text": "Why is there a statue of Diane Gosforth in the park?",
+       "options": [
+        {
+         "key": "A",
+         "text": "She was a resident who helped to lead a campaign."
+        },
+        {
+         "key": "B",
+         "text": "She was a council member responsible for giving the public access."
+        },
+        {
+         "key": "C",
+         "text": "She was a senior worker at the park for many years."
+        }
+       ]
+      },
+      {
+       "n": 13,
+       "text": "During the First World War, the park was mainly used for",
+       "options": [
+        {
+         "key": "A",
+         "text": "exercises by troops."
+        },
+        {
+         "key": "B",
+         "text": "growing vegetables."
+        },
+        {
+         "key": "C",
+         "text": "public meetings."
+        }
+       ]
+      },
+      {
+       "n": 14,
+       "text": "When did the physical transformation of the park begin?",
+       "options": [
+        {
+         "key": "A",
+         "text": "2013"
+        },
+        {
+         "key": "B",
+         "text": "2015"
+        },
+        {
+         "key": "C",
+         "text": "2016"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L2-2",
+     "type": "matching",
+     "range": [
+      15,
+      20
+     ],
+     "instructions": [
+      "Label the map below.",
+      "Write the correct letter, **A–I**, next to Questions 15–20."
+     ],
+     "title": "Minster Park",
+     "image": "images/C15/C15-T2-L2-map.png",
+     "options": [
+      {
+       "key": "A",
+       "text": ""
+      },
+      {
+       "key": "B",
+       "text": ""
+      },
+      {
+       "key": "C",
+       "text": ""
+      },
+      {
+       "key": "D",
+       "text": ""
+      },
+      {
+       "key": "E",
+       "text": ""
+      },
+      {
+       "key": "F",
+       "text": ""
+      },
+      {
+       "key": "G",
+       "text": ""
+      },
+      {
+       "key": "H",
+       "text": ""
+      },
+      {
+       "key": "I",
+       "text": ""
+      }
+     ],
+     "questions": [
+      {
+       "n": 15,
+       "text": "statue of Diane Gosforth"
+      },
+      {
+       "n": 16,
+       "text": "wooden sculptures"
+      },
+      {
+       "n": 17,
+       "text": "playground"
+      },
+      {
+       "n": 18,
+       "text": "maze"
+      },
+      {
+       "n": 19,
+       "text": "tennis courts"
+      },
+      {
+       "n": 20,
+       "text": "fitness area"
+      }
+     ]
+    }
+   ],
+   "transcript": "WOMAN: I'm very pleased to welcome this evening's guest speaker, Mark Logan, who's going to tell us about the recent transformation of Minster Park. Over to you, Mark.\nMARK: Thank you. I'm sure you're all familiar with Minster Park. It's been a feature of the city for well over a century, and has been the responsibility of the city council for most of that time. What perhaps isn't so well known is the origin of the park: unlike many public parks that started in private ownership, as the garden of a [Q11] large house, for instance, Minster was some waste land, which people living nearby started planting with flowers in 1892. It was unclear who actually owned the land, and this wasn't settled until 20 years later, when the council took possession of it.\nYou may have noticed the statue near one of the entrances. It's of Diane Gosforth, who played a key role in the history of the park. Once the council had become the legal owner, it planned to sell the land for housing. Many local [Q12] people wanted it to remain a place that everyone could go to, to enjoy the fresh air and natural environment – remember the park is in a densely populated residential area. Diane Gosforth was one of those people, and she organised petitions and demonstrations, which eventually made the council change its mind about the future of the land.\nSoon after this the First World War broke out, in 1914, and most of the park was dug up and planted with vegetables, which were sold locally. At one stage the [Q13] army considered taking it over for troop exercises and got as far as contacting the city council, then decided the park was too small to be of use. There were occasional public meetings during the war, in an area that had been retained as grass.\nAfter the war, the park was turned back more or less to how it had been before 1914, and continued almost unchanged until recently. Plans for transforming it were drawn up at various times, most recently in 2013, though they were revised in 2015, before any work had started. The changes finally got going in 2016, and [Q14] were finished on schedule last year.\nOK, let me tell you about some of the changes that have been made – and some things that have been retained. If you look at this map, you'll see the familiar outline of the park, with the river forming the northern boundary, and a gate in each of the other three walls. The statue of Diane Gosforth has been moved: it used to be close to the south gate, but it's now immediately to the north of the lily [Q15] pond, almost in the centre of the park, which makes it much more visible.\nThere's a new area of wooden sculptures, which are on the river bank, where the [Q16] path from the east gate makes a sharp bend.\nThere are two areas that are particularly intended for children. The playground has been enlarged and improved, and that's between the river and the path that [Q17] leads from the pond to the river.\nThen there's a new maze, a circular series of paths, separated by low hedges. That's near the west gate – you go north from there towards the river and then [Q18] turn left to reach it.\nThere have been tennis courts in the park for many years, and they've been doubled, from four to eight. They're still in the south-west corner of the park, [Q19] where there's a right-angle bend in the path.\nSomething else I'd like to mention is the new fitness area. This is right next to the [Q20] lily pond on the same side as the west gate.\nNow, as you're all gardeners, I'm sure you'll like to hear about the plants that have been chosen for the park."
+  },
+  {
+   "part": 3,
+   "range": [
+    21,
+    30
+   ],
+   "pages": [
+    36,
+    37
+   ],
+   "groups": [
+    {
+     "id": "L3-1",
+     "type": "multi",
+     "range": [
+      21,
+      22
+     ],
+     "n": [
+      21,
+      22
+     ],
+     "select": 2,
+     "instructions": [
+      "Choose **TWO** letters, **A–E**."
+     ],
+     "text": "Which **TWO** groups of people is the display primarily intended for?",
+     "options": [
+      {
+       "key": "A",
+       "text": "students from the English department"
+      },
+      {
+       "key": "B",
+       "text": "residents of the local area"
+      },
+      {
+       "key": "C",
+       "text": "the university's teaching staff"
+      },
+      {
+       "key": "D",
+       "text": "potential new students"
+      },
+      {
+       "key": "E",
+       "text": "students from other departments"
+      }
+     ]
+    },
+    {
+     "id": "L3-2",
+     "type": "multi",
+     "range": [
+      23,
+      24
+     ],
+     "n": [
+      23,
+      24
+     ],
+     "select": 2,
+     "instructions": [
+      "Choose **TWO** letters, **A–E**."
+     ],
+     "text": "What are Cathy and Graham's **TWO** reasons for choosing the novelist Charles Dickens?",
+     "options": [
+      {
+       "key": "A",
+       "text": "His speeches inspired others to try to improve society."
+      },
+      {
+       "key": "B",
+       "text": "He used his publications to draw attention to social problems."
+      },
+      {
+       "key": "C",
+       "text": "His novels are well-known now."
+      },
+      {
+       "key": "D",
+       "text": "He was consulted on a number of social issues."
+      },
+      {
+       "key": "E",
+       "text": "His reputation has changed in recent times."
+      }
+     ]
+    },
+    {
+     "id": "L3-3",
+     "type": "matching",
+     "range": [
+      25,
+      30
+     ],
+     "instructions": [
+      "What topic do Cathy and Graham choose to illustrate with each novel?",
+      "Choose **SIX** answers from the box and write the correct letter, **A–H**, next to Questions 25–30."
+     ],
+     "optionsTitle": "Topics",
+     "options": [
+      {
+       "key": "A",
+       "text": "poverty"
+      },
+      {
+       "key": "B",
+       "text": "education"
+      },
+      {
+       "key": "C",
+       "text": "Dickens's travels"
+      },
+      {
+       "key": "D",
+       "text": "entertainment"
+      },
+      {
+       "key": "E",
+       "text": "crime and the law"
+      },
+      {
+       "key": "F",
+       "text": "wealth"
+      },
+      {
+       "key": "G",
+       "text": "medicine"
+      },
+      {
+       "key": "H",
+       "text": "a woman's life"
+      }
+     ],
+     "title": "Novels by Dickens",
+     "questions": [
+      {
+       "n": 25,
+       "text": "*The Pickwick Papers*"
+      },
+      {
+       "n": 26,
+       "text": "*Oliver Twist*"
+      },
+      {
+       "n": 27,
+       "text": "*Nicholas Nickleby*"
+      },
+      {
+       "n": 28,
+       "text": "*Martin Chuzzlewit*"
+      },
+      {
+       "n": 29,
+       "text": "*Bleak House*"
+      },
+      {
+       "n": 30,
+       "text": "*Little Dorrit*"
+      }
+     ]
+    }
+   ],
+   "transcript": "CATHY: OK, Graham, so let's check we both know what we're supposed to be doing.\nGRAHAM: OK.\nCATHY: So, for the university's open day, we have to plan a display on British life and literature in the mid-19th century.\nGRAHAM: That's right. But we'll have some people to help us find the materials and set it up, remember – for the moment, we just need to plan it.\nCATHY: Good. So have you gathered who's expected to come and see the display? Is it for the people studying English, or students from other departments? I'm not clear about it.\nGRAHAM: Nor me. That was how it used to be, but it didn't attract many people, so this year it's going to be part of an open day, to raise the university's profile. It'll be [Q21/Q22] publicised in the city, to encourage people to come and find out something of what goes on here. And it's included in the information that's sent to people who [Q21/Q22] are considering applying to study here next year.\nCATHY: Presumably some current students and lecturers will come?\nGRAHAM: I would imagine so, but we've been told to concentrate on the other categories of people.\nCATHY: Right. We don't have to cover the whole range of 19th-century literature, do we?\nGRAHAM: No, it's entirely up to us. I suggest just using Charles Dickens.\nCATHY: That's a good idea. Most people have heard of him, and have probably read [Q23/Q24] some of his novels, or seen films based on them, so that's a good lead-in to life in his time.\nGRAHAM: Exactly. And his novels show the awful conditions that most people had to live in, [Q23/Q24] don't they: he wanted to shock people into doing something about it.\nCATHY: Did he do any campaigning, other than writing?\nGRAHAM: Yes, he campaigned for education and other social reforms, and gave talks, but I'm inclined to ignore that and focus on the novels.\nCATHY: Yes, I agree.\nCATHY: OK, so now shall we think about a topic linked to each novel?\nGRAHAM: Yes. I've printed out a list of Dickens's novels in the order they were published, in the hope you'd agree to focus on him!\nCATHY: You're lucky I *did* agree! Let's have a look. OK, the first was *The Pickwick Papers*, published in 1836. It was very successful when it came out, wasn't it, and was adapted for the theatre straight away.\nGRAHAM: There's an interesting point, though, that there's a character who keeps falling [Q25] asleep, and that medical condition was named after the book – Pickwickian Syndrome.\nCATHY: Oh, so why don't we use that as the topic, and include some quotations from the novel?\nGRAHAM: Right. Next is *Oliver Twist*. There's a lot in the novel about poverty. But maybe something less obvious ...\nCATHY: Well Oliver is taught how to steal, isn't he? We could use that to illustrate the fact that very few children went to school, particularly not poor children, so they learnt [Q26] in other ways.\nGRAHAM: Good idea. What's next?\nCATHY: Maybe *Nicholas Nickleby*. Actually he taught in a really cruel school, didn't he?\nGRAHAM: That's right. But there's also the company of touring actors that Nicholas joins. [Q27] We could do something on theatres and other amusements of the time. We don't want *only* the bad things, do we?\nCATHY: OK.\nGRAHAM: What about *Martin Chuzzlewit*? He goes to the USA, doesn't he?\nCATHY: Yes, and Dickens himself had been there a year before, and drew on his [Q28] experience there in the novel.\nGRAHAM: I wonder, though ... The main theme is selfishness, so we could do something on social justice? No, too general, let's keep to your idea – I think it would work well.\nCATHY: He wrote *Bleak House* next – that's my favourite of his novels.\nGRAHAM: Yes, mine too. His satire of the legal system is pretty powerful.\nCATHY: That's true, but think about Esther, the heroine. As a child she lives with someone [Q29] she doesn't know is her aunt, who treats her very badly. Then she's very happy living with her guardian, and he puts her in charge of the household. And at the end she gets married and her guardian gives her and her husband a house, where of course they're very happy.\nGRAHAM: Yes, I like that.\nCATHY: What shall we take next? *Little Dorrit*? Old Mr Dorrit has been in a debtors' prison for years ...\nGRAHAM: So was Dickens's father, wasn't he?\nCATHY: That's right.\nGRAHAM: What about focusing on the part when Mr Dorrit inherits a fortune, and he starts [Q30] pretending he's always been rich?\nCATHY: Good idea.\nGRAHAM: OK, so next we need to think about what materials we want to illustrate each issue. That's going to be quite hard."
+  },
+  {
+   "part": 4,
+   "range": [
+    31,
+    40
+   ],
+   "pages": [
+    38
+   ],
+   "groups": [
+    {
+     "id": "L4-1",
+     "type": "completion",
+     "range": [
+      31,
+      40
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **ONE WORD ONLY** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Agricultural programme in Mozambique"
+      },
+      {
+       "t": "sub",
+       "text": "How the programme was organised"
+      },
+      {
+       "t": "li",
+       "text": "It focused on a dry and arid region in Chicualacuala district, near the Limpopo River."
+      },
+      {
+       "t": "li",
+       "text": "People depended on the forest to provide charcoal as a source of income."
+      },
+      {
+       "t": "li",
+       "text": "{{31}} was seen as the main priority to ensure the supply of water."
+      },
+      {
+       "t": "li",
+       "text": "Most of the work organised by farmers' associations was done by {{32}}."
+      },
+      {
+       "t": "li",
+       "text": "Fenced areas were created to keep animals away from crops."
+      },
+      {
+       "t": "li",
+       "text": "The programme provided"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "– {{33}} for the fences"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "– {{34}} for suitable crops"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "– water pumps."
+      },
+      {
+       "t": "li",
+       "text": "The farmers provided"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "– labour"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "– {{35}} for the fences on their land."
+      },
+      {
+       "t": "sub",
+       "text": "Further developments"
+      },
+      {
+       "t": "li",
+       "text": "The marketing of produce was sometimes difficult due to lack of {{36}}."
+      },
+      {
+       "t": "li",
+       "text": "Training was therefore provided in methods of food {{37}}."
+      },
+      {
+       "t": "li",
+       "text": "Farmers made special places where {{38}} could be kept."
+      },
+      {
+       "t": "li",
+       "text": "Local people later suggested keeping {{39}}."
+      },
+      {
+       "t": "sub",
+       "text": "Evaluation and lessons learned"
+      },
+      {
+       "t": "li",
+       "text": "Agricultural production increased, improving incomes and food security."
+      },
+      {
+       "t": "li",
+       "text": "Enough time must be allowed, particularly for the {{40}} phase of the programme."
+      }
+     ]
+    }
+   ],
+   "transcript": "I'm going to report on a case study of a programme which has been set up to help rural populations in Mozambique, a largely agricultural country in South-East Africa.\nThe programme worked with three communities in Chicualacuala district, near the Limpopo River. This is a dry and arid region, with unpredictable rainfall. Because of this, people in the area were unable to support themselves through agriculture and instead they used the forest as a means of providing themselves with an income, mainly by selling charcoal. However, this was not a sustainable way of living in the long term, as they were rapidly using up this resource.\nTo support agriculture in this dry region, the programme focused primarily on making use of existing water resources from the Limpopo River by setting up systems of irrigation, which [Q31] would provide a dependable water supply for crops and animals. The programme worked closely with the district government in order to find the best way of implementing this. The region already had one farmers' association, and it was decided to set up two more of these. These associations planned and carried out activities including water management, livestock breeding and agriculture, and it was notable that in general, women formed the majority of [Q32] the workforce.\nIt was decided that in order to keep the crops safe from animals, both wild and domestic, special areas should be fenced off where the crops could be grown. The community was responsible for creating these fences, but the programme provided the necessary wire for [Q33] making them.\nOnce the area had been fenced off, it could be cultivated. The land was dug, so that vegetables and cereals appropriate to the climate could be grown, and the programme provided the necessary seeds for this. The programme also provided pumps so that water [Q34] could be brought from the river in pipes to the fields. However, the labour was all provided by local people, and they also provided and put up the posts that supported the fences around [Q35] the fields.\nOnce the programme had been set up, its development was monitored carefully. The farmers were able to grow enough produce not just for their own needs, but also to sell. However, getting the produce to places where it could be marketed was sometimes a problem, as the farmers did not have access to transport, and this resulted in large amounts of produce, [Q36] especially vegetables, being spoiled. This problem was discussed with the farmers' associations and it was decided that in order to prevent food from being spoiled, the farmers needed to learn techniques for its preservation. [Q37]\nThere was also an additional initiative that had not been originally planned, but which became a central feature of the programme. This was when farmers started to dig holes for tanks in the fenced-off areas and to fill these with water and use them for breeding fish – an important [Q38] source of protein. After a time, another suggestion was made by local people which hadn't been part of the programme's original proposal, but which was also adopted later on. They decided to try setting up colonies of bees, which would provide honey both for their own [Q39] consumption and to sell.\nSo what lessons can be learned from this programme? First of all, it tells us that in dry, arid regions, if there is access to a reliable source of water, there is great potential for the development of agriculture. In Chicualacuala, there was a marked improvement in agricultural production, which improved food security and benefited local people by providing them with both food and income. However, it's important to set realistic timelines for each phase of the programme, especially for its design, as mistakes made at this stage may be hard to correct [Q40] later on.\nThe programme demonstrates that sustainable development is possible in areas where ..."
+  }
+ ],
+ "answers": {
+  "1": {
+   "a": [
+    "Eustatis"
+   ]
+  },
+  "2": {
+   "a": [
+    "review"
+   ]
+  },
+  "3": {
+   "a": [
+    "dance"
+   ]
+  },
+  "4": {
+   "a": [
+    "Chat"
+   ],
+   "k": "*Chat*"
+  },
+  "5": {
+   "a": [
+    "healthy"
+   ]
+  },
+  "6": {
+   "a": [
+    "posters"
+   ]
+  },
+  "7": {
+   "a": [
+    "wood"
+   ]
+  },
+  "8": {
+   "a": [
+    "lake"
+   ]
+  },
+  "9": {
+   "a": [
+    "insects"
+   ]
+  },
+  "10": {
+   "a": [
+    "blog"
+   ]
+  },
+  "11": {
+   "a": [
+    "C"
+   ]
+  },
+  "12": {
+   "a": [
+    "A"
+   ]
+  },
+  "13": {
+   "a": [
+    "B"
+   ]
+  },
+  "14": {
+   "a": [
+    "C"
+   ]
+  },
+  "15": {
+   "a": [
+    "E"
+   ]
+  },
+  "16": {
+   "a": [
+    "C"
+   ]
+  },
+  "17": {
+   "a": [
+    "B"
+   ]
+  },
+  "18": {
+   "a": [
+    "A"
+   ]
+  },
+  "19": {
+   "a": [
+    "G"
+   ]
+  },
+  "20": {
+   "a": [
+    "D"
+   ]
+  },
+  "21": {
+   "a": [
+    "B"
+   ]
+  },
+  "22": {
+   "a": [
+    "D"
+   ]
+  },
+  "23": {
+   "a": [
+    "B"
+   ]
+  },
+  "24": {
+   "a": [
+    "C"
+   ]
+  },
+  "25": {
+   "a": [
+    "G"
+   ]
+  },
+  "26": {
+   "a": [
+    "B"
+   ]
+  },
+  "27": {
+   "a": [
+    "D"
+   ]
+  },
+  "28": {
+   "a": [
+    "C"
+   ]
+  },
+  "29": {
+   "a": [
+    "H"
+   ]
+  },
+  "30": {
+   "a": [
+    "F"
+   ]
+  },
+  "31": {
+   "a": [
+    "Irrigation"
+   ]
+  },
+  "32": {
+   "a": [
+    "women"
+   ]
+  },
+  "33": {
+   "a": [
+    "wire",
+    "wires"
+   ],
+   "k": "wire(s)"
+  },
+  "34": {
+   "a": [
+    "seed",
+    "seeds"
+   ],
+   "k": "seed(s)"
+  },
+  "35": {
+   "a": [
+    "posts"
+   ]
+  },
+  "36": {
+   "a": [
+    "transport"
+   ]
+  },
+  "37": {
+   "a": [
+    "preservation"
+   ]
+  },
+  "38": {
+   "a": [
+    "fish",
+    "fishes"
+   ],
+   "k": "fish(es)"
+  },
+  "39": {
+   "a": [
+    "bees"
+   ]
+  },
+  "40": {
+   "a": [
+    "design"
+   ]
+  }
+ }
+}

@@ -1,0 +1,1548 @@
+{
+ "schema": "ielts-mock.exam/1",
+ "id": "C13-T3",
+ "source": {
+  "book": 13,
+  "test": 3
+ },
+ "title": "Cambridge IELTS 13 · Test 3",
+ "listening": {
+  "parts": [
+   {
+    "part": 1,
+    "range": [
+     1,
+     10
+    ],
+    "pages": [
+     55
+    ],
+    "groups": [
+     {
+      "id": "L1-1",
+      "type": "completion",
+      "range": [
+       1,
+       10
+      ],
+      "instructions": [
+       "Complete the notes below.",
+       "Write **ONE WORD AND/OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Moving to Banford City"
+       },
+       {
+        "t": "note",
+        "text": "*Example*"
+       },
+       {
+        "t": "p",
+        "text": "Linda recommends living in suburb of: *Dalton*"
+       },
+       {
+        "t": "sub",
+        "text": "Accommodation"
+       },
+       {
+        "t": "li",
+        "text": "Average rent: £{{1}} a month"
+       },
+       {
+        "t": "sub",
+        "text": "Transport"
+       },
+       {
+        "t": "li",
+        "text": "Linda travels to work by {{2}}"
+       },
+       {
+        "t": "li",
+        "text": "Limited {{3}} in city centre"
+       },
+       {
+        "t": "li",
+        "text": "Trains to London every {{4}} minutes"
+       },
+       {
+        "t": "li",
+        "text": "Poor train service at {{5}}"
+       },
+       {
+        "t": "sub",
+        "text": "Advantages of living in Banford"
+       },
+       {
+        "t": "li",
+        "text": "New {{6}} opened recently"
+       },
+       {
+        "t": "li",
+        "text": "{{7}} has excellent reputation"
+       },
+       {
+        "t": "li",
+        "text": "Good {{8}} on Bridge Street"
+       },
+       {
+        "t": "sub",
+        "text": "Meet Linda"
+       },
+       {
+        "t": "li",
+        "text": "Meet Linda on {{9}} after 5.30 pm"
+       },
+       {
+        "t": "li",
+        "text": "In the {{10}} opposite the station"
+       }
+      ]
+     }
+    ],
+    "transcript": "LINDA: Hello, Linda speaking.\nMATT: Oh hi, Linda. This is Matt Brooks. Alex White gave me your number. He said you'd be able to give me some advice about moving to Banford.\nLINDA: Yes, Alex did mention you. How can I help?\nMATT: Well, first of all – which area to live in?\nLINDA: Well, I live in Dalton, which is a really nice suburb – not too expensive, and there's a nice park.\nMATT: Sounds good. Do you know how much it would be to rent a two bedroom flat there?\nLINDA: Yeah, you should be able to get something reasonable for 850 pounds per month. [Q1] That's what people typically pay. You certainly wouldn't want to pay more than 900 pounds. That doesn't include bills or anything.\nMATT: No. That sounds alright. I'll definitely have a look there. Are the transport links easy from where you live?\nLINDA: Well, I'm very lucky. I work in the city centre so I don't have to use public transport. I go by bike. [Q2]\nMATT: Oh, I wish I could do that. Is it safe to cycle around the city?\nLINDA: Yes, it's fine. And it keeps me fit. Anyway, driving to work in the city centre would be a nightmare because there's hardly any parking. And the traffic during the rush [Q3] hour can be bad.\nMATT: I'd be working from home but I'd have to go to London one or two days a week.\nLINDA: Oh, that's perfect. Getting to London is no problem. There's a fast train every 30 minutes which only takes 45 minutes. [Q4]\nMATT: That's good.\nLINDA: Yeah, the train service isn't bad during the week. And they run quite late at night. It's weekends that are a problem. They're always doing engineering work and you [Q5] have to take a bus to Hadham and pick up the train there, which is really slow. But other than that, Banford's a great place to live. I've never been happier.\nLINDA: There are some nice restaurants in the city centre and a brand new cinema which [Q6] has only been open a couple of months. There's a good arts centre too.\nMATT: Sounds like Banford's got it all.\nLINDA: Yes! We're really lucky. There are lots of really good aspects to living here. The schools are good and the hospital here is one of the best in the country. Everyone I [Q7] know who's been there's had a positive experience. Oh, I can give you the name of my dentist too in Bridge Street, if you're interested. I've been going to him for years [Q8] and I've never had any problems.\nMATT: Oh, OK. Thanks!\nLINDA: I'll find his number and send it to you.\nMATT: Thanks, that would be really helpful.\nLINDA: Are you planning to visit Banford soon?\nMATT: Yes. My wife and I are both coming next week. We want to make some appointments with estate agents.\nLINDA: I could meet you if you like and show you around.\nMATT: Are you sure? We'd really appreciate that.\nLINDA: Either a Tuesday or Thursday is good for me, after 5.30. [Q9]\nMATT: Thursday's preferable – Tuesday I need to get home before 6 pm.\nLINDA: OK. Great. Let me know which train you're catching and I'll meet you in the café [Q10] outside. You can't miss it. It's opposite the station and next to the museum.\nMATT: Brilliant. I'll text you next week then. Thanks so much for all the advice.\nLINDA: No problem. I'll see you next week."
+   },
+   {
+    "part": 2,
+    "range": [
+     11,
+     20
+    ],
+    "pages": [
+     55
+    ],
+    "groups": [
+     {
+      "id": "L2-1",
+      "type": "matching",
+      "range": [
+       11,
+       16
+      ],
+      "instructions": [
+       "What advantage does the speaker mention for each of the following physical activities?",
+       "Choose **SIX** answers from the box and write the correct letter, **A–G**, next to Questions 11–16."
+      ],
+      "optionsTitle": "Advantages",
+      "title": "Physical activities",
+      "options": [
+       {
+        "key": "A",
+        "text": "not dependent on season"
+       },
+       {
+        "key": "B",
+        "text": "enjoyable"
+       },
+       {
+        "key": "C",
+        "text": "low risk of injury"
+       },
+       {
+        "key": "D",
+        "text": "fitness level unimportant"
+       },
+       {
+        "key": "E",
+        "text": "sociable"
+       },
+       {
+        "key": "F",
+        "text": "fast results"
+       },
+       {
+        "key": "G",
+        "text": "motivating"
+       }
+      ],
+      "questions": [
+       {
+        "n": 11,
+        "text": "using a gym"
+       },
+       {
+        "n": 12,
+        "text": "running"
+       },
+       {
+        "n": 13,
+        "text": "swimming"
+       },
+       {
+        "n": 14,
+        "text": "cycling"
+       },
+       {
+        "n": 15,
+        "text": "doing yoga"
+       },
+       {
+        "n": 16,
+        "text": "training with a personal trainer"
+       }
+      ]
+     },
+     {
+      "id": "L2-2",
+      "type": "multi",
+      "range": [
+       17,
+       18
+      ],
+      "n": [
+       17,
+       18
+      ],
+      "select": 2,
+      "instructions": [
+       "Choose **TWO** letters, **A–E**."
+      ],
+      "text": "For which **TWO** reasons does the speaker say people give up going to the gym?",
+      "options": [
+       {
+        "key": "A",
+        "text": "lack of time"
+       },
+       {
+        "key": "B",
+        "text": "loss of confidence"
+       },
+       {
+        "key": "C",
+        "text": "too much effort required"
+       },
+       {
+        "key": "D",
+        "text": "high costs"
+       },
+       {
+        "key": "E",
+        "text": "feeling less successful than others"
+       }
+      ]
+     },
+     {
+      "id": "L2-3",
+      "type": "multi",
+      "range": [
+       19,
+       20
+      ],
+      "n": [
+       19,
+       20
+      ],
+      "select": 2,
+      "instructions": [
+       "Choose **TWO** letters, **A–E**."
+      ],
+      "text": "Which **TWO** pieces of advice does the speaker give for setting goals?",
+      "options": [
+       {
+        "key": "A",
+        "text": "write goals down"
+       },
+       {
+        "key": "B",
+        "text": "have achievable aims"
+       },
+       {
+        "key": "C",
+        "text": "set a time limit"
+       },
+       {
+        "key": "D",
+        "text": "give yourself rewards"
+       },
+       {
+        "key": "E",
+        "text": "challenge yourself"
+       }
+      ]
+     }
+    ],
+    "transcript": "So if you're one of those people who hasn't found the perfect physical activity yet – here are some things to think about which might help you make the right decision for you.\nThe first question to ask yourself is whether you would enjoy training in a gym. Many people are put off by the idea of having to fit a visit to the gym into their busy day – you often have to go very early or late as some gyms can get very crowded. But with regular training you'll see a big [Q11] difference in a relatively short space of time.\nRunning has become incredibly popular in recent years. That's probably got a lot to do with the fact that it's a very accessible form of exercise – anyone can run – even if you can only run a [Q12] few metres to begin with. But make sure you get the right shoes – it's worth investing in a high quality pair and they don't come cheap. Another great thing about running is that you can do it at any time of day or night – the only thing that may stop you is snow and ice.\nSwimming is another really good way to build fitness. What attracts many people is that you [Q13] can swim in an indoor pool at any time of year. On the other hand, it can be quite boring or solitary – it's hard to chat to people while you're swimming lengths.\nCycling has become almost as popular as running in recent years. That's probably because as well as improving their fitness, many people say being out in the fresh air in a park or in the [Q14] countryside can be fun, provided the conditions are right, of course – only fanatics go out in the wind and rain!\nYoga is a good choice for those of you looking for exercise which focuses on developing both a healthy mind and body. It's a good way of building strength and with the right instructor, there's [Q15] less chance of hurting yourself than with other more active sports. But don't expect to find it easy – it can be surprisingly challenging, especially for people who aren't very flexible.\nGetting a personal trainer is a good way to start your fitness programme. Obviously there can be significant costs involved. But if you've got someone there to encourage you and help you [Q16] achieve your goals, you're less likely to give up. Make sure you get someone with a recognised qualification, though, or you could do yourself permanent damage.\nWhatever you do, don't join a gym unless you're sure you'll make good use of it. So many people waste lots of money by signing up for membership and then hardly ever go. What happens to their good intentions? I don't think people suddenly stop caring about improving their fitness, or decide they have more important things to do. I think people lose interest when they don't think they're making enough progress. That's when they give up hope and [Q17/Q18] stop believing they'll ever achieve their goals. Also, what people sometimes don't realise when they start is that it takes a lot of determination and hard work to keep training week after week and lots of people don't have that kind of commitment.\nOne thing you can do to help yourself is to set manageable goals – be realistic and don't [Q19/Q20] push yourself too far. Some people advise writing goals down, but I think it's better to have a flexible approach. Give yourself a really nice treat every time you reach one of your goals. And don't get too upset if you experience setbacks – it's a journey – there are bound to be difficulties along the way."
+   },
+   {
+    "part": 3,
+    "range": [
+     21,
+     30
+    ],
+    "pages": [
+     56,
+     57
+    ],
+    "groups": [
+     {
+      "id": "L3-1",
+      "type": "choice",
+      "range": [
+       21,
+       24
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B** or **C**."
+      ],
+      "title": "Project on using natural dyes to colour fabrics",
+      "questions": [
+       {
+        "n": 21,
+        "text": "What first inspired Jim to choose this project?",
+        "options": [
+         {
+          "key": "A",
+          "text": "textiles displayed in an exhibition"
+         },
+         {
+          "key": "B",
+          "text": "a book about a botanic garden"
+         },
+         {
+          "key": "C",
+          "text": "carpets he saw on holiday"
+         }
+        ]
+       },
+       {
+        "n": 22,
+        "text": "Jim eventually decided to do a practical investigation which involved",
+        "options": [
+         {
+          "key": "A",
+          "text": "using a range of dyes with different fibres."
+         },
+         {
+          "key": "B",
+          "text": "applying different dyes to one type of fibre."
+         },
+         {
+          "key": "C",
+          "text": "testing one dye and a range of fibres."
+         }
+        ]
+       },
+       {
+        "n": 23,
+        "text": "When doing his experiments, Jim was surprised by",
+        "options": [
+         {
+          "key": "A",
+          "text": "how much natural material was needed to make the dye."
+         },
+         {
+          "key": "B",
+          "text": "the fact that dyes were widely available on the internet."
+         },
+         {
+          "key": "C",
+          "text": "the time that he had to leave the fabric in the dye."
+         }
+        ]
+       },
+       {
+        "n": 24,
+        "text": "What problem did Jim have with using tartrazine as a fabric dye?",
+        "options": [
+         {
+          "key": "A",
+          "text": "It caused a slight allergic reaction."
+         },
+         {
+          "key": "B",
+          "text": "It was not a permanent dye on cotton."
+         },
+         {
+          "key": "C",
+          "text": "It was ineffective when used on nylon."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L3-2",
+      "type": "matching",
+      "range": [
+       25,
+       30
+      ],
+      "instructions": [
+       "What problem is identified with each of the following natural dyes?",
+       "Choose **SIX** answers from the box and write the correct letter, **A–H**, next to Questions 25–30."
+      ],
+      "optionsTitle": "Problems",
+      "options": [
+       {
+        "key": "A",
+        "text": "It is expensive."
+       },
+       {
+        "key": "B",
+        "text": "The colour is too strong."
+       },
+       {
+        "key": "C",
+        "text": "The colour is not long-lasting."
+       },
+       {
+        "key": "D",
+        "text": "It is very poisonous."
+       },
+       {
+        "key": "E",
+        "text": "It can damage the fabric."
+       },
+       {
+        "key": "F",
+        "text": "The colour may be unexpected."
+       },
+       {
+        "key": "G",
+        "text": "It is unsuitable for some fabrics."
+       },
+       {
+        "key": "H",
+        "text": "It is not generally available."
+       }
+      ],
+      "title": "Natural dyes",
+      "questions": [
+       {
+        "n": 25,
+        "text": "turmeric"
+       },
+       {
+        "n": 26,
+        "text": "beetroot"
+       },
+       {
+        "n": 27,
+        "text": "Tyrian purple"
+       },
+       {
+        "n": 28,
+        "text": "logwood"
+       },
+       {
+        "n": 29,
+        "text": "cochineal"
+       },
+       {
+        "n": 30,
+        "text": "metal oxide"
+       }
+      ]
+     }
+    ],
+    "transcript": "TUTOR: OK, Jim. You wanted to see me about your textile design project.\nJIM: That's right. I've been looking at how a range of natural dyes can be used to colour fabrics like cotton and wool.\nTUTOR: Why did you choose that topic?\nJIM: Well, I got a lot of useful ideas from the museum, you know, at that exhibition of textiles. But I've always been interested in anything to do with colour. Years ago, I went to a carpet shop with my parents when we were on holiday in Turkey, and I [Q21] remember all the amazing colours.\nTUTOR: They might not all have been natural dyes.\nJIM: Maybe not, but for the project I decided to follow it up. And I found a great book about a botanic garden in California that specialises in plants used for dyes.\nTUTOR: OK. So, in your project, you had to include a practical investigation.\nJIM: Yeah. At first I couldn't decide on my variables. I was going to just look at one type of fibre for example, like cotton ...\nTUTOR: ... and see how different types of dyes affected it?\nJIM: Yes. Then I decided to include others as well, so I looked at cotton and wool and [Q22] nylon.\nTUTOR: With just one type of dye?\nJIM: Various types, including some that weren't natural, for comparison.\nTUTOR: OK.\nJIM: So, I did the experiments last week. I used some ready-made natural dyes, I found a website which supplied them, they came in just a few days, but I also made some of my own.\nTUTOR: That must have taken quite a bit of time.\nJIM: Yes, I'd thought it'd just be a matter of a teaspoon or so of dye, and actually that wasn't the case at all. Like I was using one vegetable, beetroot, for a red dye, and I [Q23] had to chop up a whole pile of it. So it all took longer than I'd expected.\nTUTOR: One possibility is to use food colourings.\nJIM: I did use one. That was a yellow dye, an artificial one.\nTUTOR: Tartrazine?\nJIM: Yeah. I used it on cotton first. It came out a great colour, but when I rinsed the [Q24] material, the colour just washed away. I'd been going to try it out on nylon, but I abandoned that idea.\nTUTOR: Were you worried about health issues?\nJIM: I'd thought if it's a legal food colouring, it must be safe.\nTUTOR: Well, it can occasionally cause allergic reactions, I believe.\nTUTOR: So what natural dyes did you look at?\nJIM: Well, one was turmeric. The colour's great, it's a really strong yellow. It's generally used in dishes like curry.\nTUTOR: It's meant to be quite good for your health when eaten, but you might find it's not [Q25] permanent when it's used as a dye – a few washes, and it's gone.\nJIM: Right. I used beetroot as a dye for wool. When I chop up beetroot to eat I always end up with bright red hands, but the wool ended up just a sort of watery cream [Q26] shade. Disappointing.\nTUTOR: There's a natural dye called Tyrian purple. Have you heard of that?\nJIM: Yes. It comes from a shellfish, and it was worn in ancient times but only by important people as it was so rare. I didn't use it. [Q27]\nTUTOR: It fell out of use centuries ago, though one researcher managed to get hold of some recently. But that shade of purple can be produced by chemical dyes nowadays. Did you use any black dyes?\nJIM: Logwood. That was quite complicated. I had to prepare the fabric so the dye would take.\nTUTOR: I hope you were careful to wear gloves.\nJIM: Yes. I know the danger with that dye.\nTUTOR: Good. It can be extremely dangerous if it's ingested. Now, presumably you had a [Q28] look at an insect-based dye? Like cochineal, for example?\nJIM: Yes. I didn't actually make that, I didn't have time to start crushing up insects to get the red colour and anyway they're not available here, but I managed to get the dye quite easily from a website. But it cost a fortune. I can see why it's generally just [Q29] used in cooking, and in small quantities.\nTUTOR: Yes, it's very effective, but that's precisely why it's not used as a dye.\nJIM: I also read about using metal oxide. Apparently you can allow iron to rust while it's in contact with the fabric, and that colours it.\nTUTOR: Yes, that works well for dying cotton. But you have to be careful as the metal can [Q30] actually affect the fabric and so you can't expect to get a lot of wear out of fabrics treated in this way. And the colours are quite subtle, not everyone likes them. Anyway, it looks as if you've done a lot of work..."
+   },
+   {
+    "part": 4,
+    "range": [
+     31,
+     40
+    ],
+    "pages": [
+     58
+    ],
+    "groups": [
+     {
+      "id": "L4-1",
+      "type": "completion",
+      "range": [
+       31,
+       40
+      ],
+      "instructions": [
+       "Complete the notes below.",
+       "Write **ONE WORD ONLY** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "The sleepy lizard (*tiliqua rugosa*)"
+       },
+       {
+        "t": "sub",
+        "text": "Description"
+       },
+       {
+        "t": "li",
+        "text": "They are common in Western and South Australia"
+       },
+       {
+        "t": "li",
+        "text": "They are brown, but recognisable by their blue {{31}}"
+       },
+       {
+        "t": "li",
+        "text": "They are relatively large"
+       },
+       {
+        "t": "li",
+        "text": "Their diet consists mainly of {{32}}"
+       },
+       {
+        "t": "li",
+        "text": "Their main predators are large birds and {{33}}"
+       },
+       {
+        "t": "sub",
+        "text": "Navigation study"
+       },
+       {
+        "t": "li",
+        "text": "One study found that lizards can use the {{34}} to help them navigate"
+       },
+       {
+        "t": "sub",
+        "text": "Observations in the wild"
+       },
+       {
+        "t": "li",
+        "text": "Observations show that these lizards keep the same {{35}} for several years"
+       },
+       {
+        "t": "sub",
+        "text": "What people want"
+       },
+       {
+        "t": "li",
+        "text": "Possible reasons:"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "– to improve the survival of their young (but little {{36}} has been noted between parents and children)"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "– to provide {{37}} for female lizards"
+       },
+       {
+        "t": "sub",
+        "text": "Tracking study"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "– A study was carried out using GPS systems attached to the {{38}} of the lizards"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "– This provided information on the lizards' location and even the number of {{39}} taken"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "– It appeared that the lizards were trying to avoid one another"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "– This may be in order to reduce chances of {{40}}"
+       }
+      ]
+     }
+    ],
+    "transcript": "Last week, we started looking at reptiles, including crocodiles and snakes. Today, I'd like us to have a look at another reptile – the lizard – and in particular, at some studies that have been done on a particular type of lizard whose Latin name is *tiliqua rugosa*. This is commonly known as the sleepy lizard, because it's quite slow in its movements and spends quite a lot of its time dozing under rocks or lying in the sun.\nI'll start with a general description. Sleepy lizards live in Western and South Australia, where they're quite common. Unlike European lizards, which are mostly small, green and fast-moving, sleepy lizards are brown, but what's particularly distinctive about them is the colour of [Q31] their tongue, which is dark blue, in contrast with the lining of their mouth which is bright pink. And they're much bigger than most European lizards. They have quite a varied diet, including [Q32] insects and even small animals, but they mostly eat plants of varying kinds.\nEven though they're quite large and powerful, with strong jaws that can crush beetles and snail shells, they still have quite a few predators. Large birds like cassowaries were one of the main ones in the past, but nowadays they're more likely to be caught and killed by snakes. Actually, [Q33] another threat to their survival isn't a predator at all, but is man-made – quite a large number of sleepy lizards are killed by cars when they're trying to cross highways.\nOne study carried out by Michael Freake at Flinders University investigated the methods of navigation of these lizards. Though they move slowly, they can travel quite long distances. And he found that even if they were taken some distance away from their home territory, they could [Q34] usually find their way back home as long as they could see the sky – they didn't need any other landmarks on the ground.\nObservations of these lizards in the wild have also revealed that their mating habits are quite unusual. Unlike most animals, it seems that they're relatively monogamous, returning to the [Q35] same partner year after year. And the male and female also stay together for a long time, both before and after the birth of their young.\nIt's quite interesting to think about the possible reasons for this. It could be that it's to do with protecting their young – you'd expect them to have a much better chance of survival if they have both parents around. But in fact observers have noted that once the babies have hatched out of their eggs, they have hardly any contact with their parents. So, there's not [Q36] really any evidence to support that idea.\nAnother suggestion's based on the observation that male lizards in monogamous relationships tend to be bigger and stronger than other males. So maybe the male lizards stay around so they can give the female lizards protection from other males. But again, we're [Q37] not really sure.\nFinally, I'd like to mention another study that involved collecting data by tracking the lizards. I was actually involved in this myself. So we caught some lizards in the wild and we developed [Q38] a tiny GPS system that would allow us to track them, and we fixed this onto their tails. Then we set the lizards free again, and we were able to track them for twelve days and gather data, not just about their location, but even about how many steps they took during this period. [Q39]\nOne surprising thing we discovered from this is that there were far fewer meetings between lizards than we expected – it seems that they were actually trying to avoid one another. So why would that be? Well, again we have no clear evidence, but one hypothesis is that male [Q40] lizards can cause quite serious injuries to one another, so maybe this avoidance is a way of preventing this – of self-preservation, if you like. But we need to collect a lot more data before we can be sure of any of this."
+   }
+  ],
+  "answers": {
+   "1": {
+    "a": [
+     "850"
+    ]
+   },
+   "2": {
+    "a": [
+     "bike",
+     "bicycle"
+    ],
+    "k": "bike / bicycle"
+   },
+   "3": {
+    "a": [
+     "parking"
+    ]
+   },
+   "4": {
+    "a": [
+     "30",
+     "thirty"
+    ],
+    "k": "30 / thirty"
+   },
+   "5": {
+    "a": [
+     "weekend",
+     "weekends"
+    ],
+    "k": "weekend(s)"
+   },
+   "6": {
+    "a": [
+     "cinema"
+    ]
+   },
+   "7": {
+    "a": [
+     "hospital"
+    ]
+   },
+   "8": {
+    "a": [
+     "dentist"
+    ]
+   },
+   "9": {
+    "a": [
+     "Thursday"
+    ]
+   },
+   "10": {
+    "a": [
+     "café"
+    ]
+   },
+   "11": {
+    "a": [
+     "F"
+    ]
+   },
+   "12": {
+    "a": [
+     "D"
+    ]
+   },
+   "13": {
+    "a": [
+     "A"
+    ]
+   },
+   "14": {
+    "a": [
+     "B"
+    ]
+   },
+   "15": {
+    "a": [
+     "C"
+    ]
+   },
+   "16": {
+    "a": [
+     "G"
+    ]
+   },
+   "17": {
+    "a": [
+     "B"
+    ]
+   },
+   "18": {
+    "a": [
+     "C"
+    ]
+   },
+   "19": {
+    "a": [
+     "B"
+    ]
+   },
+   "20": {
+    "a": [
+     "D"
+    ]
+   },
+   "21": {
+    "a": [
+     "C"
+    ]
+   },
+   "22": {
+    "a": [
+     "A"
+    ]
+   },
+   "23": {
+    "a": [
+     "A"
+    ]
+   },
+   "24": {
+    "a": [
+     "B"
+    ]
+   },
+   "25": {
+    "a": [
+     "C"
+    ]
+   },
+   "26": {
+    "a": [
+     "F"
+    ]
+   },
+   "27": {
+    "a": [
+     "H"
+    ]
+   },
+   "28": {
+    "a": [
+     "D"
+    ]
+   },
+   "29": {
+    "a": [
+     "A"
+    ]
+   },
+   "30": {
+    "a": [
+     "E"
+    ]
+   },
+   "31": {
+    "a": [
+     "tongue",
+     "tongues"
+    ],
+    "k": "tongue(s)"
+   },
+   "32": {
+    "a": [
+     "plants"
+    ]
+   },
+   "33": {
+    "a": [
+     "snakes"
+    ]
+   },
+   "34": {
+    "a": [
+     "sky"
+    ]
+   },
+   "35": {
+    "a": [
+     "partner",
+     "partners"
+    ],
+    "k": "partner(s)"
+   },
+   "36": {
+    "a": [
+     "contact"
+    ]
+   },
+   "37": {
+    "a": [
+     "protection"
+    ]
+   },
+   "38": {
+    "a": [
+     "tail",
+     "tails"
+    ],
+    "k": "tail(s)"
+   },
+   "39": {
+    "a": [
+     "steps"
+    ]
+   },
+   "40": {
+    "a": [
+     "injury",
+     "injuries"
+    ],
+    "k": "injury / injuries"
+   }
+  }
+ },
+ "reading": {
+  "passages": [
+   {
+    "passage": 1,
+    "range": [
+     1,
+     13
+    ],
+    "pages": [
+     59,
+     60,
+     61,
+     62
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 1–13**, which are based on Reading Passage 1 below.",
+    "title": "The coconut palm",
+    "subtitle": null,
+    "paragraphs": [
+     {
+      "text": "For millennia, the coconut has been central to the lives of Polynesian and Asian peoples. In the western world, on the other hand, coconuts have always been exotic and unusual, sometimes rare. The Italian merchant traveller Marco Polo apparently saw coconuts in South Asia in the late 13th century, and among the mid-14th-century travel writings of Sir John Mandeville there is mention of 'great Notes of Ynde' (great Nuts of India). Today, images of palm-fringed tropical beaches are clichés in the west to sell holidays, chocolate bars, fizzy drinks and even romance."
+     },
+     {
+      "text": "Typically, we envisage coconuts as brown cannonballs that, when opened, provide sweet white flesh. But we see only part of the fruit and none of the plant from which they come. The coconut palm has a smooth, slender, grey trunk, up to 30 metres tall. This is an important source of timber for building houses, and is increasingly being used as a replacement for endangered hardwoods in the furniture construction industry. The trunk is surmounted by a rosette of leaves, each of which may be up to six metres long. The leaves have hard veins in their centres which, in many parts of the world, are used as brushes after the green part of the leaf has been stripped away. Immature coconut flowers are tightly clustered together among the leaves at the top of the trunk. The flower stems may be tapped for their sap to produce a drink, and the sap can also be reduced by boiling to produce a type of sugar used for cooking."
+     },
+     {
+      "text": "Coconut palms produce as many as seventy fruits per year, weighing more than a kilogram each. The wall of the fruit has three layers: a waterproof outer layer, a fibrous middle layer and a hard, inner layer. The thick fibrous middle layer produces coconut fibre, 'coir', which has numerous uses and is particularly important in manufacturing ropes. The woody innermost layer, the shell, with its three prominent 'eyes', surrounds the seed. An important product obtained from the shell is charcoal, which is widely used in various industries as well as in the home as a cooking fuel. When broken in half, the shells are also used as bowls in many parts of Asia."
+     },
+     {
+      "text": "Inside the shell are the nutrients (endosperm) needed by the developing seed. Initially, the endosperm is a sweetish liquid, coconut water, which is enjoyed as a drink, but also provides the hormones which encourage other plants to grow more rapidly and produce higher yields. As the fruit matures, the coconut water gradually solidifies to form the brilliant white, fat-rich, edible flesh or meat. Dried coconut flesh, 'copra', is made into coconut oil and coconut milk, which are widely used in cooking in different parts of the world, as well as in cosmetics. A derivative of coconut fat, glycerine, acquired strategic importance in a quite different sphere, as Alfred Nobel introduced the world to his nitroglycerine-based invention: dynamite."
+     },
+     {
+      "text": "Their biology would appear to make coconuts the great maritime voyagers and coastal colonizers of the plant world. The large, energy-rich fruits are able to float in water and tolerate salt, but cannot remain viable indefinitely; studies suggest after about 110 days at sea they are no longer able to germinate. Literally cast onto desert island shores, with little more than sand to grow in and exposed to the full glare of the tropical sun, coconut seeds are able to germinate and root. The air pocket in the seed, created as the endosperm solidifies, protects the embryo. In addition, the fibrous fruit wall that helped it to float during the voyage stores moisture that can be taken up by the roots of the coconut seedling as it starts to grow."
+     },
+     {
+      "text": "There have been centuries of academic debate over the origins of the coconut. There were no coconut palms in West Africa, the Caribbean or the east coast of the Americas before the voyages of the European explorers Vasco da Gama and Columbus in the late 15th and early 16th centuries. 16th century trade and human migration patterns reveal that Arab traders and European sailors are likely to have moved coconuts from South and Southeast Asia to Africa and then across the Atlantic to the east coast of America. But the origin of coconuts discovered along the west coast of America by 16th century sailors has been the subject of centuries of discussion. Two diametrically opposed origins have been proposed: that they came from Asia, or that they were native to America. Both suggestions have problems. In Asia, there is a large degree of coconut diversity and evidence of millennia of human use – but there are no relatives growing in the wild. In America, there are close coconut relatives, but no evidence that coconuts are indigenous. These problems have led to the intriguing suggestion that coconuts originated on coral islands in the Pacific and were dispersed from there."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R1-1",
+      "type": "completion",
+      "range": [
+       1,
+       8
+      ],
+      "instructions": [
+       "Complete the table below.",
+       "Choose **ONE WORD ONLY** from the passage for each answer.",
+       "Write your answers in boxes 1–8 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "THE COCONUT PALM"
+       },
+       {
+        "t": "table",
+        "header": 1,
+        "rows": [
+         [
+          "Part",
+          "Description",
+          "Uses"
+         ],
+         [
+          "**trunk**",
+          "up to 30 metres",
+          "timber for houses and the making of {{1}}"
+         ],
+         [
+          "**leaves**",
+          "up to 6 metres long",
+          "to make brushes"
+         ],
+         [
+          "**flowers**",
+          "at the top of the trunk",
+          "stems provide sap, used as a drink or a source of {{2}}"
+         ],
+         [
+          "**fruits**",
+          "outer layer",
+          ""
+         ],
+         [
+          "",
+          "middle layer (coir fibres)",
+          "used for {{3}} , etc."
+         ],
+         [
+          "",
+          "inner layer (shell)",
+          "a source of {{4}}\n(when halved) for {{5}}"
+         ],
+         [
+          "",
+          "coconut water",
+          "a drink\na source of {{6}} for other plants"
+         ],
+         [
+          "",
+          "coconut flesh",
+          "oil and milk for cooking and {{7}}\nglycerine (an ingredient in {{8}} )"
+         ]
+        ]
+       }
+      ]
+     },
+     {
+      "id": "R1-2",
+      "type": "tfng",
+      "range": [
+       9,
+       13
+      ],
+      "instructions": [
+       "Do the following statements agree with the information given in Reading Passage 1?",
+       "In boxes 9–13 on your answer sheet, write",
+       "**TRUE** if the statement agrees with the information",
+       "**FALSE** if the statement contradicts the information",
+       "**NOT GIVEN** if there is no information on this"
+      ],
+      "questions": [
+       {
+        "n": 9,
+        "text": "Coconut seeds need shade in order to germinate."
+       },
+       {
+        "n": 10,
+        "text": "Coconuts were probably transported to Asia from America in the 16th century."
+       },
+       {
+        "n": 11,
+        "text": "Coconuts found on the west coast of America were a different type from those found on the east coast."
+       },
+       {
+        "n": 12,
+        "text": "All the coconuts found in Asia are cultivated varieties."
+       },
+       {
+        "n": 13,
+        "text": "Coconuts are cultivated in different ways in America and the Pacific."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "passage": 2,
+    "range": [
+     14,
+     26
+    ],
+    "pages": [
+     63,
+     64,
+     65,
+     66
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 14–26**, which are based on Reading Passage 2 below.",
+    "title": "How baby talk gives infant brains a boost",
+    "subtitle": null,
+    "paragraphs": [
+     {
+      "label": "A",
+      "text": "The typical way of talking to a baby – high-pitched, exaggerated and repetitious – is a source of fascination for linguists who hope to understand how 'baby talk' impacts on learning. Most babies start developing their hearing while still in the womb, prompting some hopeful parents to play classical music to their pregnant bellies. Some research even suggests that infants are listening to adult speech as early as 10 weeks before being born, gathering the basic building blocks of their family's native tongue."
+     },
+     {
+      "label": "B",
+      "text": "Early language exposure seems to have benefits to the brain – for instance, studies suggest that babies raised in bilingual homes are better at learning how to mentally prioritize information. So how does the sweet if sometimes absurd sound of infant-directed speech influence a baby's development? Here are some recent studies that explore the science behind baby talk."
+     },
+     {
+      "label": "C",
+      "text": "Fathers don't use baby talk as often or in the same ways as mothers – and that's perfectly OK, according to a new study. Mark VanDam of Washington State University at Spokane and colleagues equipped parents with recording devices and speech-recognition software to study the way they interacted with their youngsters during a normal day. 'We found that moms do exactly what you'd expect and what's been described many times over,' VanDam explains. 'But we found that dads aren't doing the same thing. Dads didn't raise their pitch or fundamental frequency when they talked to kids.' Their role may be rooted in what is called the bridge hypothesis, which dates back to 1975. It suggests that fathers use less familial language to provide their children with a bridge to the kind of speech they'll hear in public. 'The idea is that a kid gets to practice a certain kind of speech with mom and another kind of speech with dad, so the kid then has a wider repertoire of kinds of speech to practice,' says VanDam."
+     },
+     {
+      "label": "D",
+      "text": "Scientists from the University of Washington and the University of Connecticut collected thousands of 30-second conversations between parents and their babies, fitting 26 children with audio-recording vests that captured language and sound during a typical eight-hour day. The study found that the more baby talk parents used, the more their youngsters began to babble. And when researchers saw the same babies at age two, they found that frequent baby talk had dramatically boosted vocabulary, regardless of socioeconomic status. 'Those children who listened to a lot of baby talk were talking more than the babies that listened to more adult talk or standard speech,' says Nairán Ramírez-Esparza of the University of Connecticut. 'We also found that it really matters whether you use baby talk in a one-on-one context,' she adds. 'The more parents use baby talk one-on-one, the more babies babble, and the more they babble, the more words they produce later in life.'"
+     },
+     {
+      "label": "E",
+      "text": "Another study suggests that parents might want to pair their youngsters up so they can babble more with their own kind. Researchers from McGill University and Université du Québec à Montréal found that babies seem to like listening to each other rather than to adults – which may be why baby talk is such a universal tool among parents. They played repeating vowel sounds made by a special synthesizing device that mimicked sounds made by either an adult woman or another baby. This way, only the impact of the auditory cues was observed. The team then measured how long each type of sound held the infants' attention. They found that the 'infant' sounds held babies' attention nearly 40 percent longer. The baby noises also induced more reactions in the listening infants, like smiling or lip moving, which approximates sound making. The team theorizes that this attraction to other infant sounds could help launch the learning process that leads to speech. 'It may be some property of the sound that is just drawing their attention,' says study co-author Linda Polka. 'Or maybe they are really interested in that particular type of sound because they are starting to focus on their own ability to make sounds. We are speculating here but it might catch their attention because they recognize it as a sound they could possibly make.'"
+     },
+     {
+      "label": "F",
+      "text": "In a study published in *Proceedings of the National Academy of Sciences*, a total of 57 babies from two slightly different age groups – seven months and eleven and a half months – were played a number of syllables from both their native language (English) and a non-native tongue (Spanish). The infants were placed in a brain-activation scanner that recorded activity in a brain region known to guide the motor movements that produce speech. The results suggest that listening to baby talk prompts infant brains to start practicing their language skills. 'Finding activation in motor areas of the brain when infants are simply listening is significant, because it means the baby brain is engaged in trying to talk back right from the start, and suggests that seven-month-olds' brains are already trying to figure out how to make the right movements that will produce words,' says co-author Patricia Kuhl. Another interesting finding was that while the seven-month-olds responded to all speech sounds regardless of language, the brains of the older infants worked harder at the motor activations of non-native sounds compared to native sounds. The study may have also uncovered a process by which babies recognize differences between their native language and other tongues."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R2-1",
+      "type": "matching",
+      "range": [
+       14,
+       17
+      ],
+      "instructions": [
+       "Look at the following ideas (Questions 14–17) and the list of researchers below.",
+       "Match each idea with the correct researcher, **A**, **B** or **C**.",
+       "Write the correct letter, **A**, **B** or **C**, in boxes 14–17 on your answer sheet.",
+       "**NB** You may use any letter more than once."
+      ],
+      "optionsTitle": "List of Researchers",
+      "options": [
+       {
+        "key": "A",
+        "text": "Mark VanDam"
+       },
+       {
+        "key": "B",
+        "text": "Nairán Ramírez-Esparza"
+       },
+       {
+        "key": "C",
+        "text": "Patricia Kuhl"
+       }
+      ],
+      "reuse": true,
+      "questions": [
+       {
+        "n": 14,
+        "text": "the importance of adults giving babies individual attention when talking to them"
+       },
+       {
+        "n": 15,
+        "text": "the connection between what babies hear and their own efforts to create speech"
+       },
+       {
+        "n": 16,
+        "text": "the advantage for the baby of having two parents each speaking in a different way"
+       },
+       {
+        "n": 17,
+        "text": "the connection between the amount of baby talk babies hear and how much vocalising they do themselves"
+       }
+      ]
+     },
+     {
+      "id": "R2-2",
+      "type": "completion",
+      "range": [
+       18,
+       23
+      ],
+      "instructions": [
+       "Complete the summary below.",
+       "Choose **NO MORE THAN TWO WORDS** from the passage for each answer.",
+       "Write your answers in boxes 18–23 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Research into how parents talk to babies"
+       },
+       {
+        "t": "p",
+        "text": "Researchers at Washington State University used {{18}} , together with specialised computer programs, to analyse how parents interacted with their babies during a normal day. The study revealed that {{19}} tended not to modify their ordinary speech patterns when interacting with their babies. According to an idea known as the {{20}} , they may use a more adult type of speech to prepare infants for the language they will hear outside the family home. According to the researchers, hearing baby talk from one parent and 'normal' language from the other expands the baby's {{21}} of types of speech which they can practise."
+       },
+       {
+        "t": "p",
+        "text": "Meanwhile, another study carried out by scientists from the University of Washington and the University of Connecticut recorded speech and sound using special {{22}} that the babies were equipped with. When they studied the babies again at age two, they found that those who had heard a lot of baby talk in infancy had a much larger {{23}} than those who had not."
+       }
+      ]
+     },
+     {
+      "id": "R2-3",
+      "type": "matching",
+      "range": [
+       24,
+       26
+      ],
+      "instructions": [
+       "Reading Passage 2 has six paragraphs, **A–F**.",
+       "Which paragraph contains the following information?",
+       "Write the correct letter, **A–F**, in boxes 24–26 on your answer sheet."
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": ""
+       },
+       {
+        "key": "B",
+        "text": ""
+       },
+       {
+        "key": "C",
+        "text": ""
+       },
+       {
+        "key": "D",
+        "text": ""
+       },
+       {
+        "key": "E",
+        "text": ""
+       },
+       {
+        "key": "F",
+        "text": ""
+       }
+      ],
+      "questions": [
+       {
+        "n": 24,
+        "text": "a reference to a change which occurs in babies' brain activity before the end of their first year"
+       },
+       {
+        "n": 25,
+        "text": "an example of what some parents do for their baby's benefit before birth"
+       },
+       {
+        "n": 26,
+        "text": "a mention of babies' preference for the sounds that other babies make"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "passage": 3,
+    "range": [
+     27,
+     40
+    ],
+    "pages": [
+     67,
+     68,
+     69,
+     70,
+     71
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 27–40**, which are based on Reading Passage 3 below.",
+    "title": "Whatever happened to the Harappan Civilisation?",
+    "subtitle": "*New research sheds light on the disappearance of an ancient society*",
+    "paragraphs": [
+     {
+      "label": "A",
+      "text": "The Harappan Civilisation of ancient Pakistan and India flourished 5,000 years ago, but a thousand years later their cities were abandoned. The Harappan Civilisation was a sophisticated Bronze Age society who built 'megacities' and traded internationally in luxury craft products, and yet seemed to have left almost no depictions of themselves. But their lack of self-imagery – at a time when the Egyptians were carving and painting representations of themselves all over their temples – is only part of the mystery."
+     },
+     {
+      "label": "B",
+      "text": "'There is plenty of archaeological evidence to tell us about the rise of the Harappan Civilisation, but relatively little about its fall,' explains archaeologist Dr Cameron Petrie of the University of Cambridge. 'As populations increased, cities were built that had great baths, craft workshops, palaces and halls laid out in distinct sectors. Houses were arranged in blocks, with wide main streets and narrow alleyways, and many had their own wells and drainage systems. It was very much a \"thriving\" civilisation.' Then around 2100 BC, a transformation began. Streets went uncleaned, buildings started to be abandoned, and ritual structures fell out of use. After their final demise, a millennium passed before really large-scale cities appeared once more in South Asia."
+     },
+     {
+      "label": "C",
+      "text": "Some have claimed that major glacier-fed rivers changed their course, dramatically affecting the water supply and agriculture; or that the cities could not cope with an increasing population, they exhausted their resource base, the trading economy broke down or they succumbed to invasion and conflict; and yet others that climate change caused an environmental change that affected food and water provision. 'It is unlikely that there was a single cause for the decline of the civilisation. But the fact is, until now, we have had little solid evidence from the area for most of the key elements,' said Petrie. 'A lot of the archaeological debate has really only been well-argued speculation.'"
+     },
+     {
+      "label": "D",
+      "text": "A research team led by Petrie, together with Dr Ravindanath Singh of Banaras Hindu University in India, found early in their investigations that many of the archaeological sites were not where they were supposed to be, completely altering understanding of the way that this region was inhabited in the past. When they carried out a survey of how the larger area was settled in relation to sources of water, they found inaccuracies in the published geographic locations of ancient settlements ranging from several hundred metres to many kilometres. They realised that any attempts to use the existing data were likely to be fundamentally flawed. Over the course of several seasons of fieldwork they carried out new surveys, finding an astonishing 198 settlement sites that were previously unknown."
+     },
+     {
+      "label": "E",
+      "text": "Now, research published by Dr Yama Dixit and Professor David Hodell, both from Cambridge's Department of Earth Sciences, has provided the first definitive evidence for climate change affecting the plains of north-western India, where hundreds of Harappan sites are known to have been situated. The researchers gathered shells of *Melanoides tuberculata* snails from the sediments of an ancient lake and used geochemical analysis as a means of tracing the climate history of the region. 'As today, the major source of water into the lake is likely to have been the summer monsoon,' says Dixit. 'But we have observed that there was an abrupt change about 4,100 years ago, when the amount of evaporation from the lake exceeded the rainfall – indicative of a drought.' Hodell adds: 'We estimate that the weakening of the Indian summer monsoon climate lasted about 200 years before recovering to the previous conditions, which we still see today.'"
+     },
+     {
+      "label": "F",
+      "text": "It has long been thought that other great Bronze Age civilisations also declined at a similar time, with a global-scale climate event being seen as the cause. While it is possible that these local-scale processes were linked, the real archaeological interest lies in understanding the impact of these larger-scale events on different environments and different populations. 'Considering the vast area of the Harappan Civilisation with its variable weather systems,' explains Singh, 'it is essential that we obtain more climate data from areas close to the two great cities at Mohenjodaro and Harappa and also from the Indian Punjab.'"
+     },
+     {
+      "label": "G",
+      "text": "Petrie and Singh's team is now examining archaeological records and trying to understand details of how people led their lives in the region five millennia ago. They are analysing grains cultivated at the time, and trying to work out whether they were grown under extreme conditions of water stress, and whether they were adjusting the combinations of crops they were growing for different weather systems. They are also looking at whether the types of pottery used, and other aspects of their material culture, were distinctive to specific regions or were more similar across larger areas. This gives us insight into the types of interactive networks that the population was involved in, and whether those changed."
+     },
+     {
+      "label": "H",
+      "text": "Petrie believes that archaeologists are in a unique position to investigate how past societies responded to environmental and climatic change. 'By investigating responses to environmental pressures and threats, we can learn from the past to engage with the public, and the relevant governmental and administrative bodies, to be more proactive in issues such as the management and administration of water supply, the balance of urban and rural development, and the importance of preserving cultural heritage in the future.'"
+     }
+    ],
+    "groups": [
+     {
+      "id": "R3-1",
+      "type": "matching",
+      "range": [
+       27,
+       31
+      ],
+      "instructions": [
+       "Reading Passage 3 has eight paragraphs, **A–H**.",
+       "Which paragraph contains the following information?",
+       "Write the correct letter, **A–H**, in boxes 27–31 on your answer sheet.",
+       "**NB** You may use any letter more than once."
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": ""
+       },
+       {
+        "key": "B",
+        "text": ""
+       },
+       {
+        "key": "C",
+        "text": ""
+       },
+       {
+        "key": "D",
+        "text": ""
+       },
+       {
+        "key": "E",
+        "text": ""
+       },
+       {
+        "key": "F",
+        "text": ""
+       },
+       {
+        "key": "G",
+        "text": ""
+       },
+       {
+        "key": "H",
+        "text": ""
+       }
+      ],
+      "reuse": true,
+      "questions": [
+       {
+        "n": 27,
+        "text": "proposed explanations for the decline of the Harappan Civilisation"
+       },
+       {
+        "n": 28,
+        "text": "reference to a present-day application of some archaeological research findings"
+       },
+       {
+        "n": 29,
+        "text": "a difference between the Harappan Civilisation and another culture of the same period"
+       },
+       {
+        "n": 30,
+        "text": "a description of some features of Harappan urban design"
+       },
+       {
+        "n": 31,
+        "text": "reference to the discovery of errors made by previous archaeologists"
+       }
+      ]
+     },
+     {
+      "id": "R3-2",
+      "type": "completion",
+      "range": [
+       32,
+       36
+      ],
+      "instructions": [
+       "Complete the summary below.",
+       "Choose **ONE WORD ONLY** from the passage for each answer.",
+       "Write your answers in boxes 32–36 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Looking at evidence of climate change"
+       },
+       {
+        "t": "p",
+        "text": "Yama Dixit and David Hodell have found the first definitive evidence of climate change affecting the plains of north-western India thousands of years ago. By collecting the {{32}} of snails and analysing them, they discovered evidence of a change in water levels in a {{33}} in the region. This occurred when there was less {{34}} than evaporation, and suggests that there was an extended period of drought."
+       },
+       {
+        "t": "p",
+        "text": "Petrie and Singh's team are using archaeological records to look at {{35}} from five millennia ago, in order to know whether people had adapted their agricultural practices to changing climatic conditions. They are also examining objects including {{36}} , so as to find out about links between inhabitants of different parts of the region and whether these changed over time."
+       }
+      ]
+     },
+     {
+      "id": "R3-3",
+      "type": "matching",
+      "range": [
+       37,
+       40
+      ],
+      "instructions": [
+       "Look at the following statements (Questions 37–40) and the list of researchers below.",
+       "Match each statement with the correct researcher, **A**, **B**, **C** or **D**.",
+       "Write the correct letter, **A**, **B**, **C** or **D**, in boxes 37–40 on your answer sheet.",
+       "**NB** You may use any letter more than once."
+      ],
+      "optionsTitle": "List of Researchers",
+      "options": [
+       {
+        "key": "A",
+        "text": "Cameron Petrie"
+       },
+       {
+        "key": "B",
+        "text": "Ravindanath Singh"
+       },
+       {
+        "key": "C",
+        "text": "Yama Dixit"
+       },
+       {
+        "key": "D",
+        "text": "David Hodell"
+       }
+      ],
+      "reuse": true,
+      "questions": [
+       {
+        "n": 37,
+        "text": "Finding further information about changes to environmental conditions in the region is vital."
+       },
+       {
+        "n": 38,
+        "text": "Examining previous patterns of behaviour may have long-term benefits."
+       },
+       {
+        "n": 39,
+        "text": "Rough calculations indicate the approximate length of a period of water shortage."
+       },
+       {
+        "n": 40,
+        "text": "Information about the decline of the Harappan Civilisation has been lacking."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "answers": {
+   "1": {
+    "a": [
+     "furniture"
+    ]
+   },
+   "2": {
+    "a": [
+     "sugar"
+    ]
+   },
+   "3": {
+    "a": [
+     "ropes"
+    ]
+   },
+   "4": {
+    "a": [
+     "charcoal"
+    ]
+   },
+   "5": {
+    "a": [
+     "bowls"
+    ]
+   },
+   "6": {
+    "a": [
+     "hormones"
+    ]
+   },
+   "7": {
+    "a": [
+     "cosmetics"
+    ]
+   },
+   "8": {
+    "a": [
+     "dynamite"
+    ]
+   },
+   "9": {
+    "a": [
+     "FALSE"
+    ]
+   },
+   "10": {
+    "a": [
+     "FALSE"
+    ]
+   },
+   "11": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "12": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "13": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "14": {
+    "a": [
+     "B"
+    ]
+   },
+   "15": {
+    "a": [
+     "C"
+    ]
+   },
+   "16": {
+    "a": [
+     "A"
+    ]
+   },
+   "17": {
+    "a": [
+     "B"
+    ]
+   },
+   "18": {
+    "a": [
+     "recording devices"
+    ]
+   },
+   "19": {
+    "a": [
+     "fathers",
+     "dads"
+    ],
+    "k": "fathers / dads"
+   },
+   "20": {
+    "a": [
+     "bridge hypothesis"
+    ]
+   },
+   "21": {
+    "a": [
+     "repertoire"
+    ]
+   },
+   "22": {
+    "a": [
+     "audio-recording vests",
+     "vests"
+    ],
+    "k": "(audio-recording) vests"
+   },
+   "23": {
+    "a": [
+     "vocabulary"
+    ]
+   },
+   "24": {
+    "a": [
+     "F"
+    ]
+   },
+   "25": {
+    "a": [
+     "A"
+    ]
+   },
+   "26": {
+    "a": [
+     "E"
+    ]
+   },
+   "27": {
+    "a": [
+     "C"
+    ]
+   },
+   "28": {
+    "a": [
+     "H"
+    ]
+   },
+   "29": {
+    "a": [
+     "A"
+    ]
+   },
+   "30": {
+    "a": [
+     "B"
+    ]
+   },
+   "31": {
+    "a": [
+     "D"
+    ]
+   },
+   "32": {
+    "a": [
+     "shells"
+    ]
+   },
+   "33": {
+    "a": [
+     "lake"
+    ]
+   },
+   "34": {
+    "a": [
+     "rainfall"
+    ]
+   },
+   "35": {
+    "a": [
+     "grains"
+    ]
+   },
+   "36": {
+    "a": [
+     "pottery"
+    ]
+   },
+   "37": {
+    "a": [
+     "B"
+    ]
+   },
+   "38": {
+    "a": [
+     "A"
+    ]
+   },
+   "39": {
+    "a": [
+     "D"
+    ]
+   },
+   "40": {
+    "a": [
+     "A"
+    ]
+   }
+  }
+ },
+ "writing": {
+  "tasks": [
+   {
+    "task": 1,
+    "minutes": 20,
+    "minWords": 150,
+    "pages": [
+     72
+    ],
+    "prompt": [
+     "The bar chart below shows the top ten countries for the production and consumption of electricity in 2014.",
+     "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+    ],
+    "image": "images/C13/C13-T3-W1.png",
+    "sample": {
+     "kind": "candidate",
+     "band": "5.0",
+     "text": "From the bar chart that show the top ten countries for the production and consumption of electricity in 2014. For the production of electricity, the 1st rank is China that have 5,398 billion kwh, the 2nd rank is United States that have 4,099 billion kwh, the 3rd rank is Russia that have 1,059 billion kwh, the 4th rank is Japan that have 936.2 billion kwh, the 5th rank is India that have 891 billion kwh, the 6th rank is Canada that have 618.9 billion kwh, the 7th rank is France that have 561.2 billion kwh, the 8th rank is Brazil that have 530.9 billion kwh, the 9th rank is Germany that have 526.6 billion kwh and the 10th rank is Republic of Korea that have 485.1 billion kwh. For the comsumption of electricity, the 1st rank is China that have 5,322 billion kwh, the 2nd rank is United States that have 3,866 billion kwh, the 3rd is Russia that have 1,038 billion kwh, the 4th rank is Japan that have 856.9 billion kwh, the 5th rank is India that have 698.8 billion kwh, the 6th rank is Germany that have 582.5 billion kwh, the 7th rank is Canada that have 499.9 kwh, the 8th rank is France that have 462.9 billion kwh, the 9th rank is Brazil that have 455.8 kwh and the 10th is Republic of Korea that have 449.5 billion kwh.\n\nFrom the information. The country that have the most in production and consumption is China. The country that have the least in production and consumption is Republic of Korea.\n\nAlmost all the country have production more than consumption, exept Germany that have consumption more than production.",
+     "comment": "This response is rather mechanical as it lists the countries in order of production and consumption of electricity, identifies the countries that produce and consume most and least and notes the fact that all the countries except Germany produce more than they consume. However, the writing is supported by data, although there are some errors in the figures (the figures for production in Russia, India and Brazil are inaccurate as is the figure for consumption in Japan). Organisation is limited and there are few examples of cohesive devices; similarly the range of vocabulary is limited although just adequate for the task. There is a mix of simple and complex sentence structures, but complex forms are mainly inaccurate [*that have* / has | *Almost all the country have* / Almost all the countries have]."
+    }
+   },
+   {
+    "task": 2,
+    "minutes": 40,
+    "minWords": 250,
+    "pages": [
+     73
+    ],
+    "prompt": [
+     "Write about the following topic:",
+     "*Some people say History is one of the most important school subjects. Other people think that, in today's world, subjects like Science and Technology are more important than History.*",
+     "*Discuss both these views and give your own opinion.*",
+     "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+    ],
+    "sample": {
+     "kind": "candidate",
+     "band": "6.0",
+     "text": "In my opinion I think every subjects is important for us. We have to learn everything through our past, present and future. Some people say that History is one of the most important school subjects it's true but it has to go along with today's world which is science and Technology. How can we move without our history, the people behind us \"The ancient people\" is the most powerful people who pushes us to move forward. The taught us how to fire a light, How to find a food, How to lives with other and animals, How to survive and others. Of course we wouldn't know that without them. Science and Technology are important too. They give us a chance to move forward with them. Without Science and Technology we're just a normally humans being. We spend our daily life with no useful. Without them we have no light we have no food, we have no comfortable stuff and things. Old people can survived without these things. Humans creates lots of invention to give an unlimited wants of people based on a limited government.\n\nMay I gives one example of the development of science and Technology. With this two things it give us a chance to be a member of ASEAN \"Association of South East Asia Nation\" we can be able to communicate with the other 9 countries with the high technology. it help us to be a TEAMWORK with the 9 other countries to develop our country. help us in terms of transportation, communication, collaboration etc. it can definitely hold on to that hope that in the near future.\n\nOverall economics can totally achieves. it is a fact that the member of the member of the ASEAN have differences in term of political standing, culture and traditions but it's not a problem with our help I know that there're a bright future are waiting for all of us. and that is a reason why History, Science and Technology is important\n\nWe use History to learn about others, their culture, their tradition to be understand each other more and more and using science and Technology to help us, our country, our world to be moving forward, to help each other and to give a bright chances and future for everyone, especially kids give a chances to them to study, to go to school, to get knowledge so the next ten years, twenty years to the new up coming year all of them can help each other to pass these chances to other kids go on and on.",
+     "comment": "The writer addresses all parts of the prompt and outlines why the various subjects are all important, supporting these ideas with relevant examples. Although the organisation is sometimes confused, there is a sense of progression and a definite conclusion is reached. Cohesive devices are used effectively [*In my opinion* | *Of course* | *especially*]. Referencing is generally accurate [*we wouldn't know that without them* | *these things* | *that hope* | *that is a reason why*], but there is one error [*With this* / *these two things*]. The range of vocabulary is quite varied [*go along with today's world* | *to move forward* | *daily life* | *transportation, communication, collaboration etc.* | *political standing, culture and traditions*], though errors occur [*every subjects* / subject | *normally* / normal *human beings* | *a bright chances* / chance], while a reference to [*stuff and things*] suggests the writer struggled to find more precise terms. There is a mix of simple and complex sentence forms, including different types of subordinate clauses [*Some people say that ...* | *... which is science and technology* | *... people who pushes* / push *us to* | *The* / *They taught us how to*] and although errors occur, these do not usually cause misunderstanding or difficulty for the reader. Punctuation is sometimes faulty, particularly omission of full stops."
+    }
+   }
+  ]
+ },
+ "issues": [
+  "Q1–16 question pages are missing from the source scan (book pp. 54–55); question text rebuilt from online retyped copies (engnovate, ieltstrainingonline, luckyielts) and cross-checked against the answer key and audioscript."
+ ]
+}

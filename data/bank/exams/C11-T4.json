@@ -1,0 +1,1701 @@
+{
+ "schema": "ielts-mock.exam/1",
+ "id": "C11-T4",
+ "source": {
+  "book": 11,
+  "test": 4
+ },
+ "title": "Cambridge IELTS 11 · Test 4",
+ "listening": {
+  "parts": [
+   {
+    "part": 1,
+    "range": [
+     1,
+     10
+    ],
+    "pages": [
+     78,
+     79
+    ],
+    "groups": [
+     {
+      "id": "L1-1",
+      "type": "completion",
+      "range": [
+       1,
+       7
+      ],
+      "instructions": [
+       "Complete the table below.",
+       "Write **ONE WORD AND/OR A NUMBER** for each answer"
+      ],
+      "content": [
+       {
+        "t": "table",
+        "header": 1,
+        "rows": [
+         [
+          "Event",
+          "Cost",
+          "Venue",
+          "Notes"
+         ],
+         [
+          "**Jazz band**",
+          "*Example*\nTickets available for £ *15*",
+          "The {{1}} school",
+          "Also appearing: Carolyn Hart (plays the {{2}} )"
+         ],
+         [
+          "**Duck races**",
+          "£1 per duck",
+          "Start behind the {{3}}",
+          "Prize: tickets for {{4}} held at the end of the festival.\nDucks can be bought in the {{5}}"
+         ],
+         [
+          "**Flower show**",
+          "Free",
+          "{{6}} Hall",
+          "Prizes presented at 5 pm by a well-known {{7}}"
+         ]
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L1-2",
+      "type": "matching",
+      "range": [
+       8,
+       10
+      ],
+      "instructions": [
+       "Who is each play suitable for?",
+       "Write the correct letter, **A**, **B** or **C**, next to Questions 8–10."
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": "mainly for children"
+       },
+       {
+        "key": "B",
+        "text": "mainly for adults"
+       },
+       {
+        "key": "C",
+        "text": "suitable for people of all ages"
+       }
+      ],
+      "title": "Plays",
+      "questions": [
+       {
+        "n": 8,
+        "text": "The Mystery of Muldoon"
+       },
+       {
+        "n": 9,
+        "text": "Fire and Flood"
+       },
+       {
+        "n": 10,
+        "text": "Silly Sailor"
+       }
+      ]
+     }
+    ],
+    "transcript": "ROB: Good morning. Stretton Festival box office. How can I help you?\nMELANIE: Oh, hello. My family and I are on holiday in the area, and we've seen some posters about the festival this week. Could you tell me about some of the events, please?\nROB: Of course.\nMELANIE: First of all, are there still tickets available for the jazz band on Saturday?\nROB: There are, but only £15. The £12 seats have all been sold.\nMELANIE: OK. And the venue is the school, isn't it?\nROB: Yes, that's right, the secondary school. Make sure you don't go to the primary school [Q1] by mistake! And there's an additional performer who isn't mentioned on the posters – Carolyn Hart is going to play with the band.\nMELANIE: Oh, I think I've heard her on the radio. Doesn't she play the oboe, or flute or something?\nROB: Yes, the flute. She usually plays with symphony orchestras, and apparently this is [Q2] her first time with a jazz band.\nMELANIE: Well, I'd certainly like to hear *her*. Then the next thing I want to ask about is the duck races – I saw a poster beside a river. What are they, exactly?\nROB: Well, you buy a yellow plastic duck – or as many as you like – they're a pound each. And you write your name on each one. There'll be several races, depending on the number of ducks taking part. And John Stevens, a champion swimmer who lives locally, is going to start the races. All the ducks will be launched into the river at the [Q3] back of the cinema, then they'll float along the river for 500 metres, as far as the railway bridge.\nMELANIE: And are there any prizes?\nROB: Yes, the first duck in each race to arrive at the finishing line wins its owner free [Q4] tickets for the concert on the last night of the festival.\nMELANIE: You said you can buy a duck? I'm sure my children will both want one.\nROB: They're on sale at a stall in the market. You can't miss it – it's got an enormous sign [Q5] showing a couple of ducks.\nMELANIE: OK. I'll go there this afternoon. I remember walking past there yesterday. Now could you tell me something about the flower show, please?\nROB: Well, admission is free, and the show is being held in Bythwaite Hall. [Q6]\nMELANIE: Sorry, how do you spell that?\nROB: B-Y-T-H-W-A-I-T-E. Bythwaite.\nMELANIE: Is it easy to find? I'm not very familiar with the town yet.\nROB: Oh, you won't have any problem. It's right in the centre of Stretton. It's the only old building in the town, so it's easy to recognise.\nMELANIE: I know it. I presume it's open all day.\nROB: Yes, but if you'd like to see the prizes being awarded for the best flowers, you'll need to be there at 5 o'clock. The prizes are being given by a famous actor, Kevin [Q7] Shapless. He lives nearby and gets involved in a lot of community events.\nMELANIE: Gosh, I've seen him on TV. I'll definitely go to the prize-giving.\nROB: Right.\nMELANIE: I've seen a list of plays that are being performed this week, and I'd like to know which are suitable for my children, and which ones my husband and I might go to.\nROB: How old are your children?\nMELANIE: Five and seven. What about 'The Mystery of Muldoon'?\nROB: That's aimed at five to ten-year-olds. [Q8]\nMELANIE: So if I take my children, I can expect them to enjoy it more than I do?\nROB: I think so. If you'd like something for yourself and your husband, and leave your [Q9] children with a babysitter, you might like to see 'Fire and Flood' – it's about events that really happened in Stretton two hundred years ago, and children might find it rather frightening.\nMELANIE: Oh, thanks for the warning. And finally, what about 'Silly Sailor'?\nROB: That's a comedy, and it's for young and old. In fact, it won an award in the Stretton [Q10] Drama Festival a couple of months ago.\nMELANIE: OK. Well, goodbye, and thanks for all the information. I'm looking forward to the festival!\nROB: Goodbye."
+   },
+   {
+    "part": 2,
+    "range": [
+     11,
+     20
+    ],
+    "pages": [
+     80,
+     81
+    ],
+    "groups": [
+     {
+      "id": "L2-1",
+      "type": "matching",
+      "range": [
+       11,
+       16
+      ],
+      "instructions": [
+       "What does the speaker say about each of the following collections?",
+       "Choose **SIX** answers from the box and write the correct letter, **A–G**, next to Questions 11–16."
+      ],
+      "optionsTitle": "Comments",
+      "options": [
+       {
+        "key": "A",
+        "text": "was given by one person"
+       },
+       {
+        "key": "B",
+        "text": "was recently publicised in the media"
+       },
+       {
+        "key": "C",
+        "text": "includes some items given by members of the public"
+       },
+       {
+        "key": "D",
+        "text": "includes some items given by the artists"
+       },
+       {
+        "key": "E",
+        "text": "includes the most popular exhibits in the museum"
+       },
+       {
+        "key": "F",
+        "text": "is the largest of its kind in the country"
+       },
+       {
+        "key": "G",
+        "text": "has had some of its contents relocated"
+       }
+      ],
+      "title": "Collections",
+      "questions": [
+       {
+        "n": 11,
+        "text": "20th- and 21st-century paintings"
+       },
+       {
+        "n": 12,
+        "text": "19th-century paintings"
+       },
+       {
+        "n": 13,
+        "text": "Sculptures"
+       },
+       {
+        "n": 14,
+        "text": "'Around the world' exhibition"
+       },
+       {
+        "n": 15,
+        "text": "Coins"
+       },
+       {
+        "n": 16,
+        "text": "Porcelain and glass"
+       }
+      ]
+     },
+     {
+      "id": "L2-2",
+      "type": "matching",
+      "range": [
+       17,
+       20
+      ],
+      "instructions": [
+       "Label the plan below.",
+       "Write the correct letter, **A–H**, next to Questions 17–20."
+      ],
+      "image": "images/C11/C11-T4-L2-plan.png",
+      "options": [
+       {
+        "key": "A",
+        "text": ""
+       },
+       {
+        "key": "B",
+        "text": ""
+       },
+       {
+        "key": "C",
+        "text": ""
+       },
+       {
+        "key": "D",
+        "text": ""
+       },
+       {
+        "key": "E",
+        "text": ""
+       },
+       {
+        "key": "F",
+        "text": ""
+       },
+       {
+        "key": "G",
+        "text": ""
+       },
+       {
+        "key": "H",
+        "text": ""
+       }
+      ],
+      "questions": [
+       {
+        "n": 17,
+        "text": "restaurant"
+       },
+       {
+        "n": 18,
+        "text": "café"
+       },
+       {
+        "n": 19,
+        "text": "baby-changing facilities"
+       },
+       {
+        "n": 20,
+        "text": "cloakroom"
+       }
+      ]
+     }
+    ],
+    "transcript": "Good morning, and welcome to the museum – one with a remarkable range of exhibits, which I'm sure you'll enjoy. My name's Greg, and I'll tell you about the various collections as we go round. But before we go, let me just give you a taste of what we have here.\nWell, for one thing, we have a fine collection of twentieth and twenty-first century paintings, many by very well-known artists. I'm sure you'll recognise several of the paintings. This is the [Q11] gallery that attracts the largest number of visitors, so it's best to go in early in the day, before the crowds arrive.\nThen there are the nineteenth-century paintings. The museum was opened in the middle of that century, and several of the artists each donated one work – to get the museum started, [Q12] as it were. So they're of special interest to us – we feel closer to them than to other works.\nThe sculpture gallery has a number of fine exhibits, but I'm afraid it's currently closed for refurbishment. You'll need to come back next year to see it properly, but a number of the [Q13] sculptures have been moved to other parts of the museum.\n'Around the world' is a temporary exhibition – you've probably seen something about it on TV [Q14] or in the newspapers. It's created a great deal of interest, because it presents objects from every continent and many countries, and provides information about their social context – why they were made, who for, and so on.\nThen there's the collection of coins. This is what you might call a focused, specialist collection, because all the coins come from this country, and were produced between two thousand and a thousand years ago. And many of them were discovered by ordinary people [Q15] digging their gardens, and donated to the museum!\nAll our porcelain and glass was left to the museum by its founder, when he died in 1878. And [Q16] in the terms of his will, we're not allowed to add anything to that collection: he believed it was perfect in itself, and we don't see any reason to disagree!\nOK, that was something about the collections, and now here's some more practical information, in case you need it. Most of the museum facilities are downstairs, in the basement, so you go down the stairs here. When you reach the bottom of the stairs, you'll find yourself in a sitting area, with comfortable chairs and sofas where you can have a rest before continuing your exploration of the museum.\nWe have a very good restaurant, which serves excellent food all day, in a relaxing atmosphere. To reach it, when you get to the bottom of the stairs, go straight ahead to the far [Q17] side of the sitting area, then turn right into the corridor. You'll see the door of the restaurant facing you.\nIf you just want a snack, or if you'd like to eat somewhere with facilities for children, we also have a café. When you reach the bottom of the stairs, you'll need to go straight ahead, turn [Q18] right into the corridor, and the café is immediately on the right.\nAnd talking about children, there are baby-changing facilities downstairs: cross the sitting [Q19] area, continue straight ahead along the corridor on the left, and you and your baby will find the facilities on the left-hand side.\nThe cloakroom, where you should leave coats, umbrellas and any large bags, is on the left [Q20] hand side of the sitting area. It's through the last door before you come to the corridor.\nThere are toilets on every floor, but in the basement they're the first rooms on the left when you get down there.\nOK, now if you've got anything to leave in the cloakroom, please do that now, and then we'll start our tour."
+   },
+   {
+    "part": 3,
+    "range": [
+     21,
+     30
+    ],
+    "pages": [
+     82,
+     83
+    ],
+    "groups": [
+     {
+      "id": "L3-1",
+      "type": "multi",
+      "range": [
+       21,
+       22
+      ],
+      "n": [
+       21,
+       22
+      ],
+      "select": 2,
+      "instructions": [
+       "Choose **TWO** letters, **A–E**."
+      ],
+      "text": "Which TWO characteristics were shared by the subjects of Joanna's psychology study?",
+      "options": [
+       {
+        "key": "A",
+        "text": "They had all won prizes for their music."
+       },
+       {
+        "key": "B",
+        "text": "They had all made music recordings."
+       },
+       {
+        "key": "C",
+        "text": "They were all under 27 years old."
+       },
+       {
+        "key": "D",
+        "text": "They had all toured internationally."
+       },
+       {
+        "key": "E",
+        "text": "They all played a string instrument."
+       }
+      ]
+     },
+     {
+      "id": "L3-2",
+      "type": "multi",
+      "range": [
+       23,
+       24
+      ],
+      "n": [
+       23,
+       24
+      ],
+      "select": 2,
+      "instructions": [
+       "Choose **TWO** letters, **A–E**."
+      ],
+      "text": "Which TWO points does Joanna make about her use of telephone interviews?",
+      "options": [
+       {
+        "key": "A",
+        "text": "It meant rich data could be collected."
+       },
+       {
+        "key": "B",
+        "text": "It allowed the involvement of top performers."
+       },
+       {
+        "key": "C",
+        "text": "It led to a stressful atmosphere at times."
+       },
+       {
+        "key": "D",
+        "text": "It meant interview times had to be limited."
+       },
+       {
+        "key": "E",
+        "text": "It caused some technical problems."
+       }
+      ]
+     },
+     {
+      "id": "L3-3",
+      "type": "multi",
+      "range": [
+       25,
+       26
+      ],
+      "n": [
+       25,
+       26
+      ],
+      "select": 2,
+      "instructions": [
+       "Choose **TWO** letters, **A–E**."
+      ],
+      "text": "Which TWO topics did Joanna originally intend to investigate in her research?",
+      "options": [
+       {
+        "key": "A",
+        "text": "regulations concerning concert dress"
+       },
+       {
+        "key": "B",
+        "text": "audience reactions to the dress of performers"
+       },
+       {
+        "key": "C",
+        "text": "changes in performer attitudes to concert dress"
+       },
+       {
+        "key": "D",
+        "text": "how choice of dress relates to performer roles"
+       },
+       {
+        "key": "E",
+        "text": "links between musical instrument and dress choice"
+       }
+      ]
+     },
+     {
+      "id": "L3-4",
+      "type": "choice",
+      "range": [
+       27,
+       30
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B** or **C**."
+      ],
+      "questions": [
+       {
+        "n": 27,
+        "text": "Joanna concentrated on women performers because",
+        "options": [
+         {
+          "key": "A",
+          "text": "women are more influenced by fashion."
+         },
+         {
+          "key": "B",
+          "text": "women's dress has led to more controversy."
+         },
+         {
+          "key": "C",
+          "text": "women's code of dress is less strict than men's."
+         }
+        ]
+       },
+       {
+        "n": 28,
+        "text": "Mike Frost's article suggests that in popular music, women's dress is affected by",
+        "options": [
+         {
+          "key": "A",
+          "text": "their wish to be taken seriously."
+         },
+         {
+          "key": "B",
+          "text": "their tendency to copy each other."
+         },
+         {
+          "key": "C",
+          "text": "their reaction to the masculine nature of the music."
+         }
+        ]
+       },
+       {
+        "n": 29,
+        "text": "What did Joanna's subjects say about the audience at a performance?",
+        "options": [
+         {
+          "key": "A",
+          "text": "The musicians' choice of clothing is linked to respect for the audience."
+         },
+         {
+          "key": "B",
+          "text": "The clothing should not distract the audience from the music."
+         },
+         {
+          "key": "C",
+          "text": "The audience should make the effort to dress appropriately."
+         }
+        ]
+       },
+       {
+        "n": 30,
+        "text": "According to the speakers, musicians could learn from sports scientists about",
+        "options": [
+         {
+          "key": "A",
+          "text": "the importance of clothing for physical freedom."
+         },
+         {
+          "key": "B",
+          "text": "the part played by clothing in improving performance."
+         },
+         {
+          "key": "C",
+          "text": "the way clothing may protect against physical injury."
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "transcript": "SUPERVISOR: Hi, Joanna, good to meet you. Now, before we discuss your new research project, I'd like to hear something about the psychology study you did last year for your Master's degree. So how did you choose your subjects for that?\nJOANNA: Well, I had six subjects, all professional musicians, and all female. Three were violinists and there was also a cello player and a pianist and a flute player. They were all very highly regarded in the music world and they'd done quite extensive [Q21] [Q22] tours in different continents, and quite a few had won prizes and competitions as well.\nSUPERVISOR: And they were quite young, weren't they?\nJOANNA: Yes, between 25 and 29 – the mean was 27.8. I wasn't specifically looking for [Q21] [Q22] artists who'd produced recordings, but this is something that's just taken for granted these days, and they all had.\nSUPERVISOR: Right. Now you collected your data through telephone interviews, didn't you?\nJOANNA: Yes. I realised if I was going to interview leading musicians it'd only be possible [Q23] [Q24] over the phone because they're so busy. I recorded them using a telephone recording adaptor. I'd been worried about the quality, but it worked out all right. I managed at least a 30-minute interview with each subject, sometimes longer.\nSUPERVISOR: Did doing it on the phone make it more stressful?\nJOANNA: I'd thought it might ... it was all quite informal though and in fact they seemed very keen to talk. And I don't think using the phone meant I got less rich data, [Q23] [Q24] rather the opposite in fact.\nSUPERVISOR: Interesting. And you were looking at how performers dress for concert performances?\nJOANNA: That's right. My research investigated the way players see their role as a musician and how this is linked to the type of clothing they decide to wear. But that focus didn't emerge immediately. When I started I was more interested in [Q25] [Q26] trying to investigate the impact of what was worn on those listening, and also whether someone like a violinist might adopt a different style of clothing from, [Q25] [Q26] say, someone playing the flute or the trumpet.\nSUPERVISOR: It's interesting that the choice of dress is up to the individual, isn't it?\nJOANNA: Yes, you'd expect there to be rules about it in orchestras, but that's quite rare.\nSUPERVISOR: You only had women performers in your study. Was that because male musicians are less worried about fashion?\nJOANNA: I think a lot of the men are very much influenced by fashion, but in social terms [Q27] the choices they have are more limited ... they'd really upset audiences if they strayed away from quite narrow boundaries.\nSUPERVISOR: Hmm. Now, popular music has quite different expectations. Did you read Mike Frost's article about the dress of women performers in popular music?\nJOANNA: No.\nSUPERVISOR: He points out that a lot of female singers and musicians in popular music tend to dress down in performances, and wear less feminine clothes, like jeans instead of skirts, and he suggests this is because otherwise they'd just be discounted as [Q28] trivial.\nJOANNA: But you could argue they're just wearing what's practical ... I mean, a pop-music concert is usually a pretty energetic affair.\nSUPERVISOR: Yes, he doesn't make that point, but I think you're probably right. I was interested by the effect of the audience at a musical performance when it came to the choice of dress.\nJOANNA: The subjects I interviewed felt this was really important. It's all to do with what we understand by performance as a public event. They believed the audience [Q29] had certain expectations and it was up to them as performers to fulfil these expectations, to show a kind of esteem ...\nSUPERVISOR: ... they weren't afraid of looking as if they'd made an effort to look good.\nJOANNA: Mmm. I think in the past the audience would have had those expectations of one another too, but that's not really the case now, not in the UK anyway.\nSUPERVISOR: No.\nJOANNA: And I also got interested in what sports scientists are doing too, with regard to clothing.\nSUPERVISOR: Musicians are quite vulnerable physically, aren't they, because the movements they carry out are very intensive and repetitive, so I'd imagine some features [Q30] of sports clothing could safeguard the players from the potentially dangerous effects of this sort of thing.\nJOANNA: Yes, but musicians don't really consider it. They avoid clothing that obviously restricts their movements, but that's as far as they go.\nSUPERVISOR: Anyway, coming back to your own research, do you have any idea where you're going from here?\nJOANNA: I was thinking of doing a study using an audience, including ..."
+   },
+   {
+    "part": 4,
+    "range": [
+     31,
+     40
+    ],
+    "pages": [
+     84
+    ],
+    "groups": [
+     {
+      "id": "L4-1",
+      "type": "completion",
+      "range": [
+       31,
+       40
+      ],
+      "instructions": [
+       "Complete the notes below.",
+       "Write **ONE WORD ONLY** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "The use of soil to reduce carbon dioxide (CO₂) in the atmosphere"
+       },
+       {
+        "t": "sub",
+        "text": "Rattan Lal:"
+       },
+       {
+        "t": "li",
+        "text": "Claims that 13% of CO₂ in the atmosphere could be absorbed by agricultural soils"
+       },
+       {
+        "t": "li",
+        "text": "Erosion is more likely in soil that is {{31}}"
+       },
+       {
+        "t": "li",
+        "text": "Lal found soil in Africa that was very {{32}}"
+       },
+       {
+        "t": "li",
+        "text": "It was suggested that carbon from soil was entering the atmosphere"
+       },
+       {
+        "t": "sub",
+        "text": "Soil and carbon:"
+       },
+       {
+        "t": "li",
+        "text": "plants turn CO₂ from the air into carbon-based substances such as {{33}}"
+       },
+       {
+        "t": "li",
+        "text": "some CO₂ moves from the {{34}} of plants to microbes in the soil"
+       },
+       {
+        "t": "li",
+        "text": "carbon was lost from the soil when agriculture was invented"
+       },
+       {
+        "t": "sub",
+        "text": "Regenerative agriculture:"
+       },
+       {
+        "t": "li",
+        "text": "uses established practices to make sure soil remains fertile and {{35}}"
+       },
+       {
+        "t": "li",
+        "text": "e.g. through year-round planting and increasing the {{36}} of plants that are grown"
+       },
+       {
+        "t": "sub",
+        "text": "California study:"
+       },
+       {
+        "t": "li",
+        "text": "taking place on a big {{37}} farm"
+       },
+       {
+        "t": "li",
+        "text": "uses compost made from waste from agriculture and {{38}}"
+       },
+       {
+        "t": "sub",
+        "text": "Australia study:"
+       },
+       {
+        "t": "li",
+        "text": "aims to increase soil carbon by using {{39}} that are always green"
+       },
+       {
+        "t": "sub",
+        "text": "Future developments may include:"
+       },
+       {
+        "t": "li",
+        "text": "reducing the amount of fertilizer used in farming"
+       },
+       {
+        "t": "li",
+        "text": "giving farmers {{40}} for carbon storage, as well as their produce"
+       }
+      ]
+     }
+    ],
+    "transcript": "As we saw in the last lecture, a major cause of climate change is the rapid rise in the level of carbon dioxide in the atmosphere over the last century. If we could reduce the amount of CO₂, perhaps the rate of climate change could also be slowed down. One potential method involves enhancing the role of the soil that plants grow in, with regard to absorbing CO₂. Rattan Lal, a soil scientist from Ohio State University, in the USA, claims that the world's agricultural soils could potentially absorb 13 per cent of the carbon dioxide in the atmosphere – the equivalent of the amount released in the last 30 years. And research is going on into how this might be achieved.\nLal first came to the idea that soil might be valuable in this way not through an interest in climate change, but rather out of concern for the land itself and the people dependent on it. Carbon-rich soil is dark, crumbly and fertile, and retains some water. But erosion can occur [Q31] if soil is dry, which is a likely effect if it contains inadequate amounts of carbon. Erosion is of course bad for people trying to grow crops or breed animals on that terrain. In the 1970s and '80s, Lal was studying soils in Africa so devoid of organic matter that the ground had [Q32] become extremely hard, like cement. There he met a pioneer in the study of global warming, who suggested that carbon from the soil had moved into the atmosphere. This is now looking increasingly likely.\nLet me explain. For millions of years, carbon dioxide levels in the atmosphere have been regulated, in part, by a natural partnership between plants and microbes – tiny organisms in the soil. Plants absorb CO₂ from the air and transform it into sugars and other carbon-based [Q33] substances. While a proportion of these carbon products remain in the plant, some transfer [Q34] from the roots to fungi and soil microbes, which store the carbon in the soil.\nThe invention of agriculture some 10,000 years ago disrupted these ancient soil-building processes and led to the loss of carbon from the soil. When humans started draining the natural topsoil, and ploughing it up for planting, they exposed the buried carbon to oxygen. This created carbon dioxide and released it into the air. And in some places, grazing by domesticated animals has removed all vegetation, releasing carbon into the air. Tons of carbon have been stripped from the world's soils – where it's needed – and pumped into the atmosphere.\nSo what can be done? Researchers are now coming up with evidence that even modest changes to farming can significantly help to reduce the amount of carbon in the atmosphere.\nSome growers have already started using an approach known as regenerative agriculture. This aims to boost the fertility of soil and keep it moist through established practices. These [Q35] include keeping fields planted all year round, and increasing the variety of plants being [Q36] grown. Strategies like these can significantly increase the amount of carbon stored in the soil, so agricultural researchers are now building a case for their use in combating climate change.\nOne American investigation into the potential for storing CO₂ on agricultural lands is taking place in California. Soil scientist Whendee Silver of the University of California, Berkeley, is conducting a first-of-its-kind study on a large cattle farm in the state. She and her students [Q37] are testing the effects on carbon storage of the compost that is created from waste – both agricultural, including manure and cornstalks, and waste produced in gardens, such as [Q38] leaves, branches, and lawn trimmings.\nIn Australia, soil ecologist Christine Jones is testing another promising soil-enrichment strategy. Jones and 12 farmers are working to build up soil carbon by cultivating grasses [Q39] that stay green all year round. Like composting, the approach has already been proved experimentally; Jones now hopes to show that it can be applied on working farms and that the resulting carbon capture can be accurately measured.\nIt's hoped in the future that projects such as these will demonstrate the role that farmers and other land managers can play in reducing the harmful effects of greenhouse gases. For example, in countries like the United States, where most farming operations use large applications of fertiliser, changing such long-standing habits will require a change of system. Rattan Lal argues that farmers should receive payment not just for the corn or beef they [Q40] produce, but also for the carbon they can store in their soil.\nAnother study being carried out ..."
+   }
+  ],
+  "answers": {
+   "1": {
+    "a": [
+     "secondary"
+    ]
+   },
+   "2": {
+    "a": [
+     "flute"
+    ]
+   },
+   "3": {
+    "a": [
+     "cinema"
+    ]
+   },
+   "4": {
+    "a": [
+     "concert"
+    ]
+   },
+   "5": {
+    "a": [
+     "market"
+    ]
+   },
+   "6": {
+    "a": [
+     "Bythwaite"
+    ]
+   },
+   "7": {
+    "a": [
+     "actor"
+    ]
+   },
+   "8": {
+    "a": [
+     "A"
+    ]
+   },
+   "9": {
+    "a": [
+     "B"
+    ]
+   },
+   "10": {
+    "a": [
+     "C"
+    ]
+   },
+   "11": {
+    "a": [
+     "E"
+    ]
+   },
+   "12": {
+    "a": [
+     "D"
+    ]
+   },
+   "13": {
+    "a": [
+     "G"
+    ]
+   },
+   "14": {
+    "a": [
+     "B"
+    ]
+   },
+   "15": {
+    "a": [
+     "C"
+    ]
+   },
+   "16": {
+    "a": [
+     "A"
+    ]
+   },
+   "17": {
+    "a": [
+     "F"
+    ]
+   },
+   "18": {
+    "a": [
+     "H"
+    ]
+   },
+   "19": {
+    "a": [
+     "C"
+    ]
+   },
+   "20": {
+    "a": [
+     "B"
+    ]
+   },
+   "21": {
+    "a": [
+     "B"
+    ]
+   },
+   "22": {
+    "a": [
+     "D"
+    ]
+   },
+   "23": {
+    "a": [
+     "A"
+    ]
+   },
+   "24": {
+    "a": [
+     "B"
+    ]
+   },
+   "25": {
+    "a": [
+     "B"
+    ]
+   },
+   "26": {
+    "a": [
+     "E"
+    ]
+   },
+   "27": {
+    "a": [
+     "C"
+    ]
+   },
+   "28": {
+    "a": [
+     "A"
+    ]
+   },
+   "29": {
+    "a": [
+     "A"
+    ]
+   },
+   "30": {
+    "a": [
+     "C"
+    ]
+   },
+   "31": {
+    "a": [
+     "dry"
+    ]
+   },
+   "32": {
+    "a": [
+     "hard"
+    ]
+   },
+   "33": {
+    "a": [
+     "sugar",
+     "sugars"
+    ],
+    "k": "sugar/sugars"
+   },
+   "34": {
+    "a": [
+     "roots"
+    ]
+   },
+   "35": {
+    "a": [
+     "moist",
+     "damp",
+     "wet"
+    ],
+    "k": "moist/damp/wet"
+   },
+   "36": {
+    "a": [
+     "variety"
+    ]
+   },
+   "37": {
+    "a": [
+     "cattle"
+    ]
+   },
+   "38": {
+    "a": [
+     "gardens",
+     "gardening"
+    ],
+    "k": "gardens/gardening"
+   },
+   "39": {
+    "a": [
+     "grasses"
+    ]
+   },
+   "40": {
+    "a": [
+     "payment",
+     "payments",
+     "money"
+    ],
+    "k": "payment/payments / money"
+   }
+  }
+ },
+ "reading": {
+  "passages": [
+   {
+    "passage": 1,
+    "range": [
+     1,
+     13
+    ],
+    "pages": [
+     85,
+     86,
+     87,
+     88
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 1–13**, which are based on Reading Passage 1 below.",
+    "title": "Research using twins",
+    "subtitle": null,
+    "paragraphs": [
+     {
+      "text": "To biomedical researchers all over the world, twins offer a precious opportunity to untangle the influence of genes and the environment – of nature and nurture. Because identical twins come from a single fertilized egg that splits into two, they share virtually the same genetic code. Any differences between them – one twin having younger looking skin, for example – must be due to environmental factors such as less time spent in the sun."
+     },
+     {
+      "text": "Alternatively, by comparing the experiences of identical twins with those of fraternal twins, who come from separate eggs and share on average half their DNA, researchers can quantify the extent to which our genes affect our lives. If identical twins are more similar to each other with respect to an ailment than fraternal twins are, then vulnerability to the disease must be rooted at least in part in heredity."
+     },
+     {
+      "text": "These two lines of research – studying the differences between identical twins to pinpoint the influence of environment, and comparing identical twins with fraternal ones to measure the role of inheritance – have been crucial to understanding the interplay of nature and nurture in determining our personalities, behavior, and vulnerability to disease."
+     },
+     {
+      "text": "The idea of using twins to measure the influence of heredity dates back to 1875, when the English scientist Francis Galton first suggested the approach (and coined the phrase 'nature and nurture'). But twin studies took a surprising twist in the 1980s, with the arrival of studies into identical twins who had been separated at birth and reunited as adults. Over two decades 137 sets of twins eventually visited Thomas Bouchard's lab in what became known as the Minnesota Study of Twins Reared Apart. Numerous tests were carried out on the twins, and they were each asked more than 15,000 questions."
+     },
+     {
+      "text": "Bouchard and his colleagues used this mountain of data to identify how far twins were affected by their genetic makeup. The key to their approach was a statistical concept called heritability. In broad terms, the heritability of a trait measures the extent to which differences among members of a population can be explained by differences in their genetics. And wherever Bouchard and other scientists looked, it seemed, they found the invisible hand of genetic influence helping to shape our lives."
+     },
+     {
+      "text": "Lately, however, twin studies have helped lead scientists to a radical new conclusion: that nature and nurture are not the only elemental forces at work. According to a recent field called epigenetics, there is a third factor also in play, one that in some cases serves as a bridge between the environment and our genes, and in others operates on its own to shape who we are."
+     },
+     {
+      "text": "Epigenetic processes are chemical reactions tied to neither nature nor nurture but representing what researchers have called a 'third component'. These reactions influence how our genetic code is expressed: how each gene is strengthened or weakened, even turned on or off, to build our bones, brains and all the other parts of our bodies."
+     },
+     {
+      "text": "If you think of our DNA as an immense piano keyboard and our genes as the keys – each key symbolizing a segment of DNA responsible for a particular note, or trait, and all the keys combining to make us who we are – then epigenetic processes determine when and how each key can be struck, changing the tune being played."
+     },
+     {
+      "text": "One way the study of epigenetics is revolutionizing our understanding of biology is by revealing a mechanism by which the environment directly impacts on genes. Studies of animals, for example, have shown that when a rat experiences stress during pregnancy, it can cause epigenetic changes in a fetus that lead to behavioral problems as the rodent grows up. Other epigenetic processes appear to occur randomly, while others are normal, such as those that guide embryonic cells as they become heart, brain, or liver cells, for example."
+     },
+     {
+      "text": "Geneticist Danielle Reed has worked with many twins over the years and thought deeply about what twin studies have taught us. 'It's very clear when you look at twins that much of what they share is hardwired,' she says. 'Many things about them are absolutely the same and unalterable. But it's also clear, when you get to know them, that other things about them are different. Epigenetics is the origin of a lot of those differences, in my view.'"
+     },
+     {
+      "text": "Reed credits Thomas Bouchard's work for today's surge in twin studies. 'He was the trailblazer,' she says. 'We forget that 50 years ago things like heart disease were thought to be caused entirely by lifestyle. Schizophrenia was thought to be due to poor mothering. Twin studies have allowed us to be more reflective about what people are actually born with and what's caused by experience.'"
+     },
+     {
+      "text": "Having said that, Reed adds, the latest work in epigenetics promises to take our understanding even further. 'What I like to say is that nature writes some things in pencil and some things in pen,' she says. 'Things written in pen you can't change. That's DNA. But things written in pencil you can. That's epigenetics. Now that we're actually able to look at the DNA and see where the pencil writings are, it's sort of a whole new world.'"
+     }
+    ],
+    "groups": [
+     {
+      "id": "R1-1",
+      "type": "tfng",
+      "range": [
+       1,
+       4
+      ],
+      "instructions": [
+       "Do the following statements agree with the information given in Reading Passage 1?",
+       "In boxes 1–4 on your answer sheet, write",
+       "**TRUE** if the statement agrees with the information",
+       "**FALSE** if the statement contradicts the information",
+       "**NOT GIVEN** if there is no information on this"
+      ],
+      "questions": [
+       {
+        "n": 1,
+        "text": "There may be genetic causes for the differences in how young the skin of identical twins looks."
+       },
+       {
+        "n": 2,
+        "text": "Twins are at greater risk of developing certain illnesses than non-twins."
+       },
+       {
+        "n": 3,
+        "text": "Bouchard advertised in newspapers for twins who had been separated at birth."
+       },
+       {
+        "n": 4,
+        "text": "Epigenetic processes are different from both genetic and environmental processes."
+       }
+      ]
+     },
+     {
+      "id": "R1-2",
+      "type": "matching",
+      "range": [
+       5,
+       9
+      ],
+      "instructions": [
+       "Look at the following statements (Questions 5–9) and the list of researchers below.",
+       "Match each statement with the correct researcher, **A**, **B** or **C**.",
+       "Write the correct letter, **A**, **B** or **C**, in boxes 5–9 on your answer sheet.",
+       "**NB** You may use any letter more than once."
+      ],
+      "optionsTitle": "List of Researchers",
+      "options": [
+       {
+        "key": "A",
+        "text": "Francis Galton"
+       },
+       {
+        "key": "B",
+        "text": "Thomas Bouchard"
+       },
+       {
+        "key": "C",
+        "text": "Danielle Reed"
+       }
+      ],
+      "reuse": true,
+      "questions": [
+       {
+        "n": 5,
+        "text": "invented a term used to distinguish two factors affecting human characteristics"
+       },
+       {
+        "n": 6,
+        "text": "expressed the view that the study of epigenetics will increase our knowledge"
+       },
+       {
+        "n": 7,
+        "text": "developed a mathematical method of measuring genetic influences"
+       },
+       {
+        "n": 8,
+        "text": "pioneered research into genetics using twins"
+       },
+       {
+        "n": 9,
+        "text": "carried out research into twins who had lived apart"
+       }
+      ]
+     },
+     {
+      "id": "R1-3",
+      "type": "completion",
+      "range": [
+       10,
+       13
+      ],
+      "instructions": [
+       "Complete the summary using the list of words, **A–F**, below.",
+       "Write the correct letter, **A–F**, in boxes 10–13 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Epigenetic processes"
+       },
+       {
+        "t": "p",
+        "text": "In epigenetic processes, {{10}} influence the activity of our genes, for example in creating our internal {{11}} . The study of epigenetic processes is uncovering a way in which our genes can be affected by our {{12}} . One example is that if a pregnant rat suffers stress, the new-born rat may later show problems in its {{13}} ."
+       }
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": "nurture"
+       },
+       {
+        "key": "B",
+        "text": "organs"
+       },
+       {
+        "key": "C",
+        "text": "code"
+       },
+       {
+        "key": "D",
+        "text": "chemicals"
+       },
+       {
+        "key": "E",
+        "text": "environment"
+       },
+       {
+        "key": "F",
+        "text": "behaviour/behavior"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "passage": 2,
+    "range": [
+     14,
+     26
+    ],
+    "pages": [
+     89,
+     90,
+     91,
+     92,
+     93
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 14–26**, which are based on Reading Passage 2 below.",
+    "title": "An Introduction to Film Sound",
+    "subtitle": null,
+    "paragraphs": [
+     {
+      "text": "Though we might think of film as an essentially visual experience, we really cannot afford to underestimate the importance of film sound. A meaningful sound track is often as complicated as the image on the screen, and is ultimately just as much the responsibility of the director. The entire sound track consists of three essential ingredients: the human voice, sound effects and music. These three tracks must be mixed and balanced so as to produce the necessary emphases which in turn create desired effects. Topics which essentially refer to the three previously mentioned tracks are discussed below. They include dialogue, synchronous and asynchronous sound effects, and music."
+     },
+     {
+      "text": "Let us start with dialogue. As is the case with stage drama, dialogue serves to tell the story and expresses feelings and motivations of characters as well. Often with film characterization the audience perceives little or no difference between the character and the actor. Thus, for example, the actor Humphrey Bogart is the character Sam Spade; film personality and life personality seem to merge. Perhaps this is because the very texture of a performer's voice supplies an element of character."
+     },
+     {
+      "text": "When voice textures fit the performer's physiognomy and gestures, a whole and very realistic persona emerges. The viewer sees not an actor working at his craft, but another human being struggling with life. It is interesting to note that how dialogue is used and the very amount of dialogue used varies widely among films. For example, in the highly successful science-fiction film *2001*, little dialogue was evident, and most of it was banal and of little intrinsic interest. In this way the film-maker was able to portray what Thomas Sobochack and Vivian Sobochack call, in *An Introduction to Film*, the 'inadequacy of human responses when compared with the magnificent technology created by man and the visual beauties of the universe'."
+     },
+     {
+      "text": "The comedy *Bringing Up Baby*, on the other hand, presents practically non-stop dialogue delivered at breakneck speed. This use of dialogue underscores not only the dizzy quality of the character played by Katherine Hepburn, but also the absurdity of the film itself and thus its humor. The audience is bounced from gag to gag and conversation to conversation; there is no time for audience reflection. The audience is caught up in a whirlwind of activity in simply managing to follow the plot. This film presents pure escapism – largely due to its frenetic dialogue."
+     },
+     {
+      "text": "Synchronous sound effects are those sounds which are synchronized or matched with what is viewed. For example, if the film portrays a character playing the piano, the sounds of the piano are projected. Synchronous sounds contribute to the realism of film and also help to create a particular atmosphere. For example, the 'click' of a door being opened may simply serve to convince the audience that the image portrayed is real, and the audience may only subconsciously note the expected sound. However, if the 'click' of an opening door is part of an ominous action such as a burglary, the sound mixer may call attention to the 'click' with an increase in volume; this helps to engage the audience in a moment of suspense."
+     },
+     {
+      "text": "Asynchronous sound effects, on the other hand, are not matched with a visible source of the sound on screen. Such sounds are included so as to provide an appropriate emotional nuance, and they may also add to the realism of the film. For example, a film-maker might opt to include the background sound of an ambulance's siren while the foreground sound and image portrays an arguing couple. The asynchronous ambulance siren underscores the psychic injury incurred in the argument; at the same time the noise of the siren adds to the realism of the film by acknowledging the film's city setting."
+     },
+     {
+      "text": "We are probably all familiar with background music in films, which has become so ubiquitous as to be noticeable in its absence. We are aware that it is used to add emotion and rhythm. Usually not meant to be noticeable, it often provides a tone or an emotional attitude toward the story and/or the characters depicted. In addition, background music often foreshadows a change in mood. For example, dissonant music may be used in film to indicate an approaching (but not yet visible) menace or disaster."
+     },
+     {
+      "text": "Background music may aid viewer understanding by linking scenes. For example, a particular musical theme associated with an individual character or situation may be repeated at various points in a film in order to remind the audience of salient motifs or ideas."
+     },
+     {
+      "text": "Film sound comprises conventions and innovations. We have come to expect an acceleration of music during car chases and creaky doors in horror films. Yet, it is important to note as well that sound is often brilliantly conceived. The effects of sound are often largely subtle and often are noted by only our subconscious minds. We need to foster an awareness of film sound as well as film space so as to truly appreciate an art form that sprang to life during the twentieth century – the modern film."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R2-1",
+      "type": "choice",
+      "range": [
+       14,
+       18
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B**, **C** or **D**.",
+       "Write the correct letter in boxes 14–18 on your answer sheet."
+      ],
+      "questions": [
+       {
+        "n": 14,
+        "text": "In the first paragraph, the writer makes a point that",
+        "options": [
+         {
+          "key": "A",
+          "text": "the director should plan the sound track at an early stage in filming."
+         },
+         {
+          "key": "B",
+          "text": "it would be wrong to overlook the contribution of sound to the artistry of films."
+         },
+         {
+          "key": "C",
+          "text": "the music industry can have a beneficial influence on sound in film."
+         },
+         {
+          "key": "D",
+          "text": "it is important for those working on the sound in a film to have sole responsibility for it."
+         }
+        ]
+       },
+       {
+        "n": 15,
+        "text": "One reason that the writer refers to Humphrey Bogart is to exemplify",
+        "options": [
+         {
+          "key": "A",
+          "text": "the importance of the actor and the character appearing to have similar personalities."
+         },
+         {
+          "key": "B",
+          "text": "the audience's wish that actors are visually appropriate for their roles."
+         },
+         {
+          "key": "C",
+          "text": "the value of the actor having had similar feelings to the character."
+         },
+         {
+          "key": "D",
+          "text": "the audience's preference for dialogue to be as authentic as possible."
+         }
+        ]
+       },
+       {
+        "n": 16,
+        "text": "In the third paragraph, the writer suggests that",
+        "options": [
+         {
+          "key": "A",
+          "text": "audiences are likely to be critical of film dialogue that does not reflect their own experience."
+         },
+         {
+          "key": "B",
+          "text": "film dialogue that appears to be dull may have a specific purpose."
+         },
+         {
+          "key": "C",
+          "text": "filmmakers vary considerably in the skill with which they handle dialogue."
+         },
+         {
+          "key": "D",
+          "text": "the most successful films are those with dialogue of a high quality."
+         }
+        ]
+       },
+       {
+        "n": 17,
+        "text": "What does the writer suggest about *Bringing Up Baby*?",
+        "options": [
+         {
+          "key": "A",
+          "text": "The plot suffers from the filmmaker's wish to focus on humorous dialogue."
+         },
+         {
+          "key": "B",
+          "text": "The dialogue helps to make it one of the best comedy films ever produced."
+         },
+         {
+          "key": "C",
+          "text": "There is a mismatch between the speed of the dialogue and the speed of actions."
+         },
+         {
+          "key": "D",
+          "text": "The nature of the dialogue emphasises key elements of the film."
+         }
+        ]
+       },
+       {
+        "n": 18,
+        "text": "The writer refers to the 'click' of a door to make the point that realistic sounds",
+        "options": [
+         {
+          "key": "A",
+          "text": "are often used to give the audience a false impression of events in the film."
+         },
+         {
+          "key": "B",
+          "text": "may be interpreted in different ways by different members of the audience."
+         },
+         {
+          "key": "C",
+          "text": "may be modified in order to manipulate the audience's response to the film."
+         },
+         {
+          "key": "D",
+          "text": "tend to be more significant in films presenting realistic situations."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "R2-2",
+      "type": "tfng",
+      "range": [
+       19,
+       23
+      ],
+      "instructions": [
+       "Do the following statements agree with the information given in Reading Passage 2?",
+       "In boxes 19–23 on your answer sheet, write",
+       "**TRUE** if the statement agrees with the information",
+       "**FALSE** if the statement contradicts the information",
+       "**NOT GIVEN** if there is no information on this"
+      ],
+      "questions": [
+       {
+        "n": 19,
+        "text": "Audiences are likely to be surprised if a film lacks background music."
+       },
+       {
+        "n": 20,
+        "text": "Background music may anticipate a development in a film."
+       },
+       {
+        "n": 21,
+        "text": "Background music has more effect on some people than on others."
+       },
+       {
+        "n": 22,
+        "text": "Background music may help the audience to make certain connections within the film."
+       },
+       {
+        "n": 23,
+        "text": "Audiences tend to be aware of how the background music is affecting them."
+       }
+      ]
+     },
+     {
+      "id": "R2-3",
+      "type": "matching",
+      "range": [
+       24,
+       26
+      ],
+      "instructions": [
+       "Complete each sentence with the correct ending, **A–E**, below.",
+       "Write the correct letter, **A–E**, in boxes 24–26 on your answer sheet."
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": "when the audience listens to the dialogue."
+       },
+       {
+        "key": "B",
+        "text": "if the film reflects the audience's own concerns."
+       },
+       {
+        "key": "C",
+        "text": "if voice, sound and music are combined appropriately."
+       },
+       {
+        "key": "D",
+        "text": "when the director is aware of how the audience will respond."
+       },
+       {
+        "key": "E",
+        "text": "when the actor's appearance, voice and moves are consistent with each other."
+       }
+      ],
+      "questions": [
+       {
+        "n": 24,
+        "text": "The audience's response to different parts of a film can be controlled"
+       },
+       {
+        "n": 25,
+        "text": "The feelings and motivations of characters become clear"
+       },
+       {
+        "n": 26,
+        "text": "A character seems to be a real person rather than an actor"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "passage": 3,
+    "range": [
+     27,
+     40
+    ],
+    "pages": [
+     94,
+     95,
+     96,
+     97
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 27–40**, which are based on Reading Passage 3 on the following pages.",
+    "title": "'This Marvellous Invention'",
+    "subtitle": null,
+    "paragraphs": [
+     {
+      "label": "A",
+      "text": "Of all mankind's manifold creations, language must take pride of place. Other inventions – the wheel, agriculture, sliced bread – may have transformed our material existence, but the advent of language is what made us human. Compared to language, all other inventions pale in significance, since everything we have ever achieved depends on language and originates from it. Without language, we could never have embarked on our ascent to unparalleled power over all other animals, and even over nature itself."
+     },
+     {
+      "label": "B",
+      "text": "But language is foremost not just because it came first. In its own right it is a tool of extraordinary sophistication, yet based on an idea of ingenious simplicity: 'this marvellous invention of composing out of twenty-five or thirty sounds that infinite variety of expressions which, whilst having in themselves no likeness to what is in our mind, allow us to disclose to others its whole secret, and to make known to those who cannot penetrate it all that we imagine, and all the various stirrings of our soul'. This was how, in 1660, the renowned French grammarians of the Port-Royal abbey near Versailles distilled the essence of language, and no one since has celebrated more eloquently the magnitude of its achievement. Even so, there is just one flaw in all these hymns of praise, for the homage to language's unique accomplishment conceals a simple yet critical incongruity. Language is mankind's greatest invention – except, of course, that it was never invented. This apparent paradox is at the core of our fascination with language, and it holds many of its secrets."
+     },
+     {
+      "label": "C",
+      "text": "Language often seems so skillfully drafted that one can hardly imagine it as anything other than the perfected handiwork of a master craftsman. How else could this instrument make so much out of barely three dozen measly morsels of sound? In themselves, these configurations of mouth – *p,f,b,v,t,d,k,g,sh,a,e* and so on – amount to nothing more than a few haphazard spits and splutters, random noises with no meaning, no ability to express, no power to explain. But run them through the cogs and wheels of the language machine, let it arrange them in some very special orders, and there is nothing that these meaningless streams of air cannot do: from sighing the interminable boredom of existence to unravelling the fundamental order of the universe."
+     },
+     {
+      "label": "D",
+      "text": "The most extraordinary thing about language, however, is that one doesn't have to be a genius to set its wheels in motion. The language machine allows just about everybody – from pre-modern foragers in the subtropical savannah, to post-modern philosophers in the suburban sprawl – to tie these meaningless sounds together into an infinite variety of subtle senses, and all apparently without the slightest exertion. Yet it is precisely this deceptive ease which makes language a victim of its own success, since in everyday life its triumphs are usually taken for granted. The wheels of language run so smoothly that one rarely bothers to stop and think about all the resourcefulness and expertise that must have gone into making it tick. Language conceals art."
+     },
+     {
+      "label": "E",
+      "text": "Often, it is only the estrangement of foreign tongues, with their many exotic and outlandish features, that brings home the wonder of language's design. One of the showiest stunts that some languages can pull off is an ability to build up words of breath-breaking length, and thus express in one word what English takes a whole sentence to say. The Turkish word *şehirliliştiremediklerimizdensiniz*, to take one example, means nothing less than 'you are one of those whom we can't turn into a town-dweller'. (In case you were wondering, this monstrosity really is one word, not merely many different words squashed together – most of its components cannot even stand up on their own.)"
+     },
+     {
+      "label": "F",
+      "text": "And if that sounds like some one-off freak, then consider Sumerian, the language spoken on the banks of the Euphrates some 5,000 years ago by the people who invented writing and thus enabled the documentation of history. A Sumerian word like *munintuma'a* ('when he had made it suitable for her') might seem rather trim compared to the Turkish colossus above. What is so impressive about it, however, is not its lengthiness but rather the reverse – the thrifty compactness of its construction. The word is made up of different slots, each corresponding to a particular portion of meaning. This sleek design allows single sounds to convey useful information, and in fact even the absence of a sound has been enlisted to express something specific. If you were to ask which bit in the Sumerian word corresponds to the pronoun 'it' in the English translation 'when he had made it suitable for her', then the answer would have to be nothing. Mind you, a very particular kind of nothing: the nothing that stands in the empty slot in the middle. The technology is so fine-tuned then that even a non-sound, when carefully placed in a particular position, has been invested with a specific function. Who could possibly have come up with such a nifty contraption?"
+     }
+    ],
+    "groups": [
+     {
+      "id": "R3-1",
+      "type": "matching",
+      "range": [
+       27,
+       32
+      ],
+      "instructions": [
+       "Reading Passage 3 has six paragraphs, **A–F**.",
+       "Choose the correct heading for paragraphs **A–F** from the list of headings below.",
+       "Write the correct number, **i–vii**, in boxes 27–32 on your answer sheet."
+      ],
+      "optionsTitle": "List of Headings",
+      "options": [
+       {
+        "key": "i",
+        "text": "Differences between languages highlight their impressiveness"
+       },
+       {
+        "key": "ii",
+        "text": "The way in which a few sounds are organised to convey a huge range of meaning"
+       },
+       {
+        "key": "iii",
+        "text": "Why the sounds used in different languages are not identical"
+       },
+       {
+        "key": "iv",
+        "text": "Apparently incompatible characteristics of language"
+       },
+       {
+        "key": "v",
+        "text": "Even silence can be meaningful"
+       },
+       {
+        "key": "vi",
+        "text": "Why language is the most important invention of all"
+       },
+       {
+        "key": "vii",
+        "text": "The universal ability to use language"
+       }
+      ],
+      "questions": [
+       {
+        "n": 27,
+        "text": "Paragraph A"
+       },
+       {
+        "n": 28,
+        "text": "Paragraph B"
+       },
+       {
+        "n": 29,
+        "text": "Paragraph C"
+       },
+       {
+        "n": 30,
+        "text": "Paragraph D"
+       },
+       {
+        "n": 31,
+        "text": "Paragraph E"
+       },
+       {
+        "n": 32,
+        "text": "Paragraph F"
+       }
+      ]
+     },
+     {
+      "id": "R3-2",
+      "type": "completion",
+      "range": [
+       33,
+       36
+      ],
+      "instructions": [
+       "Complete the summary using the list of words, **A–G**, below.",
+       "Write the correct letter, **A–G**, in boxes 33–36 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "The importance of language"
+       },
+       {
+        "t": "p",
+        "text": "The wheel is one invention that has had a major impact on {{33}} aspects of life, but no impact has been as {{34}} as that of language. Language is very {{35}} , yet composed of just a small number of sounds."
+       },
+       {
+        "t": "p",
+        "text": "Language appears to be {{36}} to use. However, its sophistication is often overlooked."
+       }
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": "difficult"
+       },
+       {
+        "key": "B",
+        "text": "complex"
+       },
+       {
+        "key": "C",
+        "text": "original"
+       },
+       {
+        "key": "D",
+        "text": "admired"
+       },
+       {
+        "key": "E",
+        "text": "material"
+       },
+       {
+        "key": "F",
+        "text": "easy"
+       },
+       {
+        "key": "G",
+        "text": "fundamental"
+       }
+      ]
+     },
+     {
+      "id": "R3-3",
+      "type": "ynng",
+      "range": [
+       37,
+       40
+      ],
+      "instructions": [
+       "Do the following statements agree with the views of the writer in Reading Passage 3?",
+       "In boxes 37–40 on your answer sheet, write",
+       "**YES** if the statement agrees with the views of the writer",
+       "**NO** if the statement contradicts the views of the writer",
+       "**NOT GIVEN** if it is impossible to say what the writer thinks about this"
+      ],
+      "questions": [
+       {
+        "n": 37,
+        "text": "Human beings might have achieved their present position without language."
+       },
+       {
+        "n": 38,
+        "text": "The Port-Royal grammarians did justice to the nature of language."
+       },
+       {
+        "n": 39,
+        "text": "A complex idea can be explained more clearly in a sentence than in a single word."
+       },
+       {
+        "n": 40,
+        "text": "The Sumerians were responsible for starting the recording of events."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "answers": {
+   "1": {
+    "a": [
+     "FALSE"
+    ]
+   },
+   "2": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "3": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "4": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "5": {
+    "a": [
+     "A"
+    ]
+   },
+   "6": {
+    "a": [
+     "C"
+    ]
+   },
+   "7": {
+    "a": [
+     "B"
+    ]
+   },
+   "8": {
+    "a": [
+     "A"
+    ]
+   },
+   "9": {
+    "a": [
+     "A"
+    ]
+   },
+   "10": {
+    "a": [
+     "D"
+    ]
+   },
+   "11": {
+    "a": [
+     "B"
+    ]
+   },
+   "12": {
+    "a": [
+     "E"
+    ]
+   },
+   "13": {
+    "a": [
+     "F"
+    ]
+   },
+   "14": {
+    "a": [
+     "B"
+    ]
+   },
+   "15": {
+    "a": [
+     "A"
+    ]
+   },
+   "16": {
+    "a": [
+     "B"
+    ]
+   },
+   "17": {
+    "a": [
+     "D"
+    ]
+   },
+   "18": {
+    "a": [
+     "C"
+    ]
+   },
+   "19": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "20": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "21": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "22": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "23": {
+    "a": [
+     "FALSE"
+    ]
+   },
+   "24": {
+    "a": [
+     "C"
+    ]
+   },
+   "25": {
+    "a": [
+     "A"
+    ]
+   },
+   "26": {
+    "a": [
+     "E"
+    ]
+   },
+   "27": {
+    "a": [
+     "vi"
+    ]
+   },
+   "28": {
+    "a": [
+     "iv"
+    ]
+   },
+   "29": {
+    "a": [
+     "ii"
+    ]
+   },
+   "30": {
+    "a": [
+     "vii"
+    ]
+   },
+   "31": {
+    "a": [
+     "i"
+    ]
+   },
+   "32": {
+    "a": [
+     "v"
+    ]
+   },
+   "33": {
+    "a": [
+     "E"
+    ]
+   },
+   "34": {
+    "a": [
+     "G"
+    ]
+   },
+   "35": {
+    "a": [
+     "B"
+    ]
+   },
+   "36": {
+    "a": [
+     "F"
+    ]
+   },
+   "37": {
+    "a": [
+     "NO"
+    ]
+   },
+   "38": {
+    "a": [
+     "YES"
+    ]
+   },
+   "39": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "40": {
+    "a": [
+     "YES"
+    ]
+   }
+  }
+ },
+ "writing": {
+  "tasks": [
+   {
+    "task": 1,
+    "minutes": 20,
+    "minWords": 150,
+    "pages": [
+     98
+    ],
+    "prompt": [
+     "The table below shows the numbers of visitors to Ashdown Museum during the year before and the year after it was refurbished. The charts show the result of surveys asking visitors how satisfied they were with their visit, during the same two periods.",
+     "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+    ],
+    "image": "images/C11/C11-T4-W1.png",
+    "sample": {
+     "kind": "candidate",
+     "band": "7",
+     "comment": "The candidate covers the main features of the table and charts, and gives a satisfactory overview of the data. The information is logically organised with a clear progression in the way points are presented. Cohesive devices are used effectively (*during the same two periods*), but not always accurately (*on a contrary*). A range of vocabulary is used flexibly (*shows a negative pattern, illustrates that, an upward trend, has reached its aim*), but there are occasional errors in word choice (*the amount of visitors, It is obviously*). The candidate has used a variety of complex structures (*the charts that show the result of surveys asking people how satisfied they were with their visit, after the refurbishment from 74,000 before the reconstruction to 92,000 after it had been done*). There is good control of grammar, although there are a few minor errors (*there is the charts*). Punctuation is generally well controlled, but full stops are missing at the end of the first and final paragraphs and there are a few minor errors (*lets look*).",
+     "text": "The table below shows the amount of visitors to Ashdown Museum during the years after and the year before it was modernized. After the table there is the charts that show the result of surveys asking people how satisfied they were with their visit thos museum, during the same two periods\n\nIt is obviously that the numbers of visitors significantly increased after the refurbishment from 74,000 before the reconstruction to 92,000 after it had been done. Now lets look at the charts. The year before refurbishment shows a negative pattern: the results of survey illustrate that only 15% of visitors were very satisfied and the number of dissatisfied people was 40%. The year after refurbishment illustrates that the number of dissatisfied visitors declined and became 15%, on a contrary, people who were very satisfied increased to 35%. Comparing the amount of satisfied visitors we can also see an upward trend (it increased from 30% to 40% after the refurbishment).\n\nTo sum up, we can say that all work that has been done to attract new visitors to Ashdown Museum has reached its aim"
+    }
+   },
+   {
+    "task": 2,
+    "minutes": 40,
+    "minWords": 250,
+    "pages": [
+     99
+    ],
+    "prompt": [
+     "Write about the following topic:",
+     "*Many governments think that economic progress is their most important goal. Some people, however, think that other types of progress are equally important for a country.*",
+     "Discuss both these views and give your own opinion.",
+     "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+    ],
+    "sample": {
+     "kind": "candidate",
+     "band": "5.5",
+     "comment": "All parts of the prompt are addressed and a position is presented (eventually) that is directly relevant to the prompt. Main ideas are relevant, but some are insufficiently developed. Ideas are generally arranged coherently and there is a clear overall progression. Some cohesive devices are used effectively, if mechanically, while others are faulty (*From the point of my view*). Paragraphing is adequate. The lexical resource is limited, but just about adequate for the task. Errors occur in word choice, word formation and spelling (*rise satisfaction*, *the same important as economic for a country*, *morden*) and may cause some difficulty for the reader. The candidate has tried to use a variety of complex structures, but the writing lacks grammatical control (*we are going to talking about*, *A country doesn't have a completed systems is not a completed country ...*). The variety of structures would suggest Band 6 on Grammar, Range and Accuracy, but the errors sometimes impede communication; there are also errors in sentence formation and/or punctuation (*But some people argue that*, *So the goverments put the economic progress to the top list*, *Because there are other progress such as*).",
+     "text": "Nowadays economic progress plays an important part in our life. So many governments believe that it should be the most important goal. But some people argue that it is not the most important thing. There are other progress are equally important. In this essay, we are going to talking about why people have different views.\n\nGenerally people think money is everything, if we do not have any money, we can not buy anything. So the goverments put the economic progress to the top list. They believe the if the economic progress could bring a good result, then people can have money to rise satisfaction about their life. However, other types of progress are not important.\n\nSome people suggest that the government should not put the economic progress to the most important place. Because there are other progress such as health system, building design, or education system are the same important as economic for a country. A country doesn't have a completed system is not a completed country, even if it has a lot of money. In this morden society, more and more people realize that money is not the important thing in the world, and it doesn't mean anything, while they think health , happeness are more important than it. Owing to that, some people argue that other types of progress are equally important.\n\nFrom the point of my view, I agree with that other types of progress are as important as economic. Even though we have a lot of money. we can not buy happeness and health. Therefore the governments should put other types of progress to the important place as well."
+    }
+   }
+  ]
+ },
+ "issues": [
+  "Reading key for Questions 19–26 is misprinted in the book (p129 lists 19 D, 20 TRUE, 21 TRUE, 22 NOT GIVEN, 23 TRUE, 24 FALSE, 25 C, 26 A – shifted by one line, with a stray 'D' at 19 and no answer for the last question). Answers here are the shifted-back values checked against the passage: 19 TRUE, 20 TRUE, 21 NOT GIVEN, 22 TRUE, 23 FALSE, 24 C, 25 A; 26 E was inferred from the passage ('When voice textures fit the performer's physiognomy and gestures, a whole and very realistic persona emerges')."
+ ]
+}

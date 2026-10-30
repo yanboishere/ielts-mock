@@ -1,0 +1,716 @@
+{
+ "parts": [
+  {
+   "part": 1,
+   "range": [
+    1,
+    10
+   ],
+   "pages": [
+    53
+   ],
+   "groups": [
+    {
+     "id": "L1-1",
+     "type": "completion",
+     "range": [
+      1,
+      10
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **ONE WORD AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Flanders Conference Hotel"
+      },
+      {
+       "t": "note",
+       "text": "*Example*"
+      },
+      {
+       "t": "p",
+       "text": "Customer Services Manager: *Angela*"
+      },
+      {
+       "t": "sub",
+       "text": "Date available"
+      },
+      {
+       "t": "li",
+       "text": "weekend beginning February 4th"
+      },
+      {
+       "t": "sub",
+       "text": "Conference facilities"
+      },
+      {
+       "t": "li",
+       "text": "the {{1}} room for talks"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "(projector and {{2}} available)"
+      },
+      {
+       "t": "li",
+       "text": "area for coffee and an {{3}}"
+      },
+      {
+       "t": "li",
+       "text": "free {{4}} throughout"
+      },
+      {
+       "t": "li",
+       "text": "a standard buffet lunch costs ${{5}} per head"
+      },
+      {
+       "t": "sub",
+       "text": "Accommodation"
+      },
+      {
+       "t": "li",
+       "text": "Rooms will cost ${{6}} including breakfast."
+      },
+      {
+       "t": "sub",
+       "text": "Other facilities"
+      },
+      {
+       "t": "li",
+       "text": "The hotel also has a spa and rooftop {{7}}."
+      },
+      {
+       "t": "li",
+       "text": "There's a free shuttle service to the {{8}}."
+      },
+      {
+       "t": "sub",
+       "text": "Location"
+      },
+      {
+       "t": "li",
+       "text": "Wilby Street (quite near the {{9}})"
+      },
+      {
+       "t": "li",
+       "text": "near to restaurants and many {{10}}"
+      }
+     ]
+    }
+   ],
+   "transcript": "ANGELA: Hello, Flanders conference hotel.\nMAN: Oh, hi. I wanted to ask about conference facilities at the hotel. Have I come through to the right person?\nANGELA: You have. I'm the customer services manager. My name's Angela. So how can I help you?\nMAN: Well, I'm calling from Barrett and Stansons, we're a medical company based in Perth.\nANGELA: Oh yes.\nMAN: And we're organising a conference for our clients to be held in Sydney. It'll be held over two days and we're expecting about fifty or sixty people.\nANGELA: When were you thinking of having it?\nMAN: Some time early next year, like the end of January? It'd have to be a weekend.\nANGELA: Let me see ... our conference facilities are already booked for the weekend beginning January 28th. We could do the first weekend in February?\nMAN: How about January 21st?\nANGELA: I'm afraid that's booked too.\nMAN: Well, let's go for the February date then.\nANGELA: So that's the weekend beginning the 4th.\nMAN: OK. Now can you tell me a bit about what conference facilities you have?\nANGELA: Sure. So for talks and presentations we have the Tesla room.\nMAN: Sorry?\nANGELA: Tesla – that's spelled T-E-S-L-A. It holds up to a hundred people, and it's fully [Q1] equipped with a projector and so on.\nMAN: How about a microphone? [Q2]\nANGELA: Yes, that'll be all set up ready for you, and there'll be one that members of the audience can use too, for questions, if necessary.\nMAN: Fine. And we'll also need some sort of open area where people can sit and have a cup of coffee, and we'd like to have an exhibition of our products and services [Q3] there as well, so that'll need to be quite a big space.\nANGELA: That's fine, there's a central atrium with all those facilities, and you can come before the conference starts if you want to set everything up.\nMAN: Great. And I presume there's wifi? [Q4]\nANGELA: Oh yes, that's free and available throughout the hotel.\nMAN: OK.\nANGELA: Would you also like us to provide a buffet lunch? We can do a two-course meal with a number of different options.\nMAN: What sort of price are we looking at for that?\nANGELA: Well, I can send you a copy of the standard menu. That's $45 per person. Or you [Q5] can have the special for $25 more.\nMAN: I think the standard should be OK, but yes, send me the menu.\nMAN: Now we're also going to need accommodation on the Saturday night for some of the participants ... I'm not sure how many, but probably about 25. So what do you charge for a room?\nANGELA: Well, for conference attendees we have a 25% reduction, so we can offer you rooms at $135. Normally a standard room's $180. [Q6]\nMAN: And does that include breakfast?\nANGELA: Sure. And of course, guests can also make use of all the other facilities at the hotel. So we've got a spa where you can get massages and facials and so on, and there's a pool up on the roof for the use of guests. [Q7]\nMAN: Great. Now what about transport links? The hotel's downtown, isn't it?\nANGELA: Yes, it's about 12 kilometres from the airport, but there's a complimentary [Q8] shuttle bus for guests. And it's only about ten minutes' walk from the central railway station.\nMAN: OK. Now, I don't know Sydney very well, can you just give me an idea of the location of the hotel?\nANGELA: Well, it's downtown on Wilby Street, that's quite a small street, and it's not very far from the sea. And of course if the conference attendees want to go out on [Q9] the Saturday evening there's a huge choice of places to eat. Then if they want to make a night of it, they can go on to one of the clubs in the area – there are a [Q10] great many to choose from.\nMAN: OK. So if we go ahead with this, can you give me some information about how much ..."
+  },
+  {
+   "part": 2,
+   "range": [
+    11,
+    20
+   ],
+   "pages": [
+    54,
+    55
+   ],
+   "groups": [
+    {
+     "id": "L2-1",
+     "type": "multi",
+     "range": [
+      11,
+      12
+     ],
+     "n": [
+      11,
+      12
+     ],
+     "select": 2,
+     "instructions": [
+      "Choose **TWO** letters, **A–E**."
+     ],
+     "text": "Which **TWO** activities that volunteers do are mentioned?",
+     "options": [
+      {
+       "key": "A",
+       "text": "decorating"
+      },
+      {
+       "key": "B",
+       "text": "cleaning"
+      },
+      {
+       "key": "C",
+       "text": "delivering meals"
+      },
+      {
+       "key": "D",
+       "text": "shopping"
+      },
+      {
+       "key": "E",
+       "text": "childcare"
+      }
+     ]
+    },
+    {
+     "id": "L2-2",
+     "type": "multi",
+     "range": [
+      13,
+      14
+     ],
+     "n": [
+      13,
+      14
+     ],
+     "select": 2,
+     "instructions": [
+      "Choose **TWO** letters, **A–E**."
+     ],
+     "text": "Which **TWO** ways that volunteers can benefit from volunteering are mentioned?",
+     "options": [
+      {
+       "key": "A",
+       "text": "learning how to be part of a team"
+      },
+      {
+       "key": "B",
+       "text": "having a sense of purpose"
+      },
+      {
+       "key": "C",
+       "text": "realising how lucky they are"
+      },
+      {
+       "key": "D",
+       "text": "improved ability at time management"
+      },
+      {
+       "key": "E",
+       "text": "boosting their employment prospects"
+      }
+     ]
+    },
+    {
+     "id": "L2-3",
+     "type": "matching",
+     "range": [
+      15,
+      20
+     ],
+     "instructions": [
+      "What has each of the following volunteers helped someone to do?",
+      "Choose **SIX** answers from the box and write the correct letter, **A–G**, next to Questions 15–20."
+     ],
+     "optionsTitle": "What volunteers have helped people to do",
+     "options": [
+      {
+       "key": "A",
+       "text": "overcome physical difficulties"
+      },
+      {
+       "key": "B",
+       "text": "rediscover skills not used for a long time"
+      },
+      {
+       "key": "C",
+       "text": "improve their communication skills"
+      },
+      {
+       "key": "D",
+       "text": "solve problems independently"
+      },
+      {
+       "key": "E",
+       "text": "escape isolation"
+      },
+      {
+       "key": "F",
+       "text": "remember past times"
+      },
+      {
+       "key": "G",
+       "text": "start a new hobby"
+      }
+     ],
+     "title": "Volunteers",
+     "questions": [
+      {
+       "n": 15,
+       "text": "Habib"
+      },
+      {
+       "n": 16,
+       "text": "Consuela"
+      },
+      {
+       "n": 17,
+       "text": "Minh"
+      },
+      {
+       "n": 18,
+       "text": "Tanya"
+      },
+      {
+       "n": 19,
+       "text": "Alexei"
+      },
+      {
+       "n": 20,
+       "text": "Juba"
+      }
+     ]
+    }
+   ],
+   "transcript": "Good morning. My name's Lucy Crittenden, and I'm the Director of Operations for an organisation that arranges volunteering in this part of the country. I'm hoping I can persuade one or two of you to become volunteers yourselves. Let me start by briefly explaining what we mean by volunteering.\nVolunteers are teenagers and adults who choose to spend some time, unpaid, helping other people in some way. Most volunteers devote two or three hours to this every week, while a few do much more. The people they help may have physical or behavioural difficulties, for example.\nVolunteers can do all sorts of things, depending on their own abilities and interests. If they're supporting a family that's struggling, for example, they may be able to give them tips on cooking, or recommend how to plan their budget or how to shop sensibly on their income. They might even do some painting or wallpapering, perhaps alongside any members of the [Q11] family who are able to do it. Or even do some babysitting so that parents can go out for [Q12] a while.\nThe benefit from volunteering isn't only for the people being helped. Volunteers also gain from it: they're using their skills to cope with somebody's mental or physical ill health, and volunteering may be a valuable element of their CV when they're applying for jobs: employers [Q13] usually look favourably on someone who's given up time to help others. Significantly, most volunteers feel that what they're doing gives them a purpose in their lives. And in my opinion, [Q14] they're lucky in that respect, as many people don't have that feeling.\nNow I'd like ... to tell you what some of our volunteers have said about what they do, to give you an idea of the range of ways in which they can help people.\nHabib supports an elderly lady who's beginning to show signs of dementia. Once a week they, along with other elderly people, go to the local community centre, where a group of people come in and sing. The songs take the listeners back to their youth, and for a little [Q15] while they can forget the difficulties that they face now.\nOur volunteer Consuela is an amazing woman. She has difficulty walking herself, but she doesn't let that stop her. She helps a couple of people with similar difficulties, who had almost stopped walking altogether. By using herself as an example, Consuela encourages them to [Q16] walk more and more.\nMinh visits a young man who lives alone and can't leave his home on his own, so he hardly ever saw anyone. But together they go out to the cinema, or to see friends the young man [Q17] hadn't been able to visit for a long time.\nTanya visits an elderly woman once a week. When the woman found out that Tanya is a professional dressmaker, she got interested. Tanya showed her some soft toys she'd made, and the woman decided to try it herself. And now she really enjoys it, and spends hours [Q18] making toys. They're not perhaps up to Tanya's standard yet, but she gains a lot of pleasure from doing it.\nAlexei is a volunteer with a family that faces a number of difficulties. By calmly talking over possible solutions with family members, he's helping them to realise that they aren't helpless, and that they can do something themselves to improve their situation. This has been great for [Q19] their self-esteem.\nAnd the last volunteer I'll mention, though there are plenty more, is Juba. She volunteers with a teenage girl with learning difficulties, who wasn't very good at talking to other people. Juba's worked very patiently with her, and now the girl is far better at expressing herself, and [Q20] at understanding other people.\nOK, I hope that's given you an idea of what volunteering is all about. Now I'd like ..."
+  },
+  {
+   "part": 3,
+   "range": [
+    21,
+    30
+   ],
+   "pages": [
+    56,
+    57
+   ],
+   "groups": [
+    {
+     "id": "L3-1",
+     "type": "completion",
+     "range": [
+      21,
+      26
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **ONE WORD AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Background on school marching band"
+      },
+      {
+       "t": "p",
+       "text": "It consists of around {{21}} students."
+      },
+      {
+       "t": "p",
+       "text": "It is due to play in a {{22}} band competition."
+      },
+      {
+       "t": "p",
+       "text": "It has been invited to play in the town's {{23}}."
+      },
+      {
+       "t": "p",
+       "text": "They have listened to a talk by a {{24}}."
+      },
+      {
+       "t": "p",
+       "text": "Joe will discuss a {{25}} with the band."
+      },
+      {
+       "t": "p",
+       "text": "Joe hopes the band will attend a {{26}} next month."
+      }
+     ]
+    },
+    {
+     "id": "L3-2",
+     "type": "matching",
+     "range": [
+      27,
+      30
+     ],
+     "instructions": [
+      "What problem does Joe mention in connection with each of the following band members?",
+      "Choose **FOUR** answers from the box and write the correct letter, **A–F**, next to Questions 27–30."
+     ],
+     "optionsTitle": "Problems",
+     "options": [
+      {
+       "key": "A",
+       "text": "makes a lot of mistakes in rehearsals"
+      },
+      {
+       "key": "B",
+       "text": "keeps making unhelpful suggestions"
+      },
+      {
+       "key": "C",
+       "text": "has difficulty with rhythm"
+      },
+      {
+       "key": "D",
+       "text": "misses too many rehearsals"
+      },
+      {
+       "key": "E",
+       "text": "has a health problem"
+      },
+      {
+       "key": "F",
+       "text": "doesn't mix with other students"
+      }
+     ],
+     "title": "Band members",
+     "questions": [
+      {
+       "n": 27,
+       "text": "flautist"
+      },
+      {
+       "n": 28,
+       "text": "trumpeter"
+      },
+      {
+       "n": 29,
+       "text": "trombonist"
+      },
+      {
+       "n": 30,
+       "text": "percussionist"
+      }
+     ]
+    }
+   ],
+   "transcript": "LIZZIE: So how are you getting on with your teaching practice at the High School, Joe?\nJOE: Well I've been put in charge of the school marching band, and it's quite a responsibility. I'd like to talk it over with you.\nLIZZIE: Go ahead. You'd better start by giving me a bit of background.\nJOE: OK. Well the band has students in it from all years, so they're aged 11 to 18, and there are about 50 of them altogether. It's quite a popular activity within the [Q21] school. I've never worked with a band of more than 20 before, and this is very different.\nLIZZIE: I can imagine.\nJOE: They aren't really good enough to enter national band competitions, but they're in a regional one later in the term. Even if they don't win, and I don't expect them to, [Q22] hopefully it'll be an incentive for them to try and improve.\nLIZZIE: Yes, hopefully.\nJOE: Well, now the town council's organising a carnival in the summer, and the band [Q23] has been asked to perform. If you ask me, they aren't really up to it yet, and I need to get them functioning better as a band, and in a very short time.\nLIZZIE: Have you been doing anything with them? Apart from practising the music, I mean.\nJOE: I played a recording I came across, of a drummer talking about how playing in a [Q24] band had changed his life. I think it was an after-dinner speech. I thought it was pretty inspiring, because being in the band had stopped him from getting involved in crime. The students seemed to find it interesting, too.\nLIZZIE: That's good.\nJOE: I'm planning to show them that old film from the 1940s 'Strike Up the Band', and [Q25] talk about it with the students. What do you think?\nLIZZIE: Good idea. As it's about a school band, it might make the students realise how much they can achieve if they work together.\nJOE: That's what I've got in mind. I'm hoping I can take some of the band to a parade [Q26] that's going to take place next month. A couple of marching bands will be performing, and the atmosphere should be quite exciting. It depends on whether I can persuade the school to hire a coach or two to take us there.\nLIZZIE: Mmm. They sound like good ideas to me.\nJOE: Thanks.\nJOE: Can I tell you about a few people in the band who I'm finding it quite difficult to cope with? I'm sure you'll have some ideas about what I can do.\nLIZZIE: Go ahead.\nJOE: There's a flautist who says she loves playing in the band. We rehearse twice a week after school, but she's hardly ever there. Then she looks for me the next [Q27] day and gives me a very plausible reason – she says she had to help her mother, or she's been ill, but to be honest, I don't believe her.\nLIZZIE: Oh dear! Any more students with difficulties?\nJOE: Plenty! There's a trumpeter who thinks she's the best musician in the band, though she certainly isn't. She's always saying what she thinks other people [Q28] should do, which makes my job pretty difficult.\nLIZZIE: She sounds a bit of a nightmare!\nJOE: You can say that again. One of the trombonists has got an impressive sense of rhythm, and could be an excellent musician – except that he has breathing [Q29] difficulties, and he doesn't really have enough breath for the trombone. He'd be much better off playing percussion, for instance, but he refuses to give up. So he ends up only playing half the notes.\nLIZZIE: I suppose you have to admire his determination.\nJOE: Maybe. One of the percussionists isn't too bad, but he never seems to interact [Q30] with other people, and he always rushes off as soon as the rehearsal ends. I don't know if there are family reasons, or what. But it isn't good in a band, where people really need to feel they're part of a group.\nLIZZIE: Hmm.\nJOE: There are others too, but at least that gives you an idea of what I'm up against. Do you have any thoughts about what I can do, Lizzie?"
+  },
+  {
+   "part": 4,
+   "range": [
+    31,
+    40
+   ],
+   "pages": [
+    58
+   ],
+   "groups": [
+    {
+     "id": "L4-1",
+     "type": "completion",
+     "range": [
+      31,
+      40
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **ONE WORD AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Concerts in university arts festival"
+      },
+      {
+       "t": "sub",
+       "text": "Concert 1"
+      },
+      {
+       "t": "li",
+       "text": "Australian composer: Liza Lim"
+      },
+      {
+       "t": "li",
+       "text": "studied piano and {{31}} before turning to composition"
+      },
+      {
+       "t": "li",
+       "text": "performers and festivals around the world have given her a lot of commissions"
+      },
+      {
+       "t": "li",
+       "text": "compositions show a great deal of {{32}} and are drawn from various cultural sources"
+      },
+      {
+       "t": "li",
+       "text": "her music is very expressive and also {{33}}"
+      },
+      {
+       "t": "li",
+       "text": "festival will include her {{34}} called *The Oresteia*"
+      },
+      {
+       "t": "li",
+       "text": "Lim described the sounds in *The Oresteia* as {{35}}"
+      },
+      {
+       "t": "li",
+       "text": "British composers: Ralph Vaughan Williams, Frederick Delius"
+      },
+      {
+       "t": "sub",
+       "text": "Concert 2"
+      },
+      {
+       "t": "li",
+       "text": "British composers: Benjamin Britten, Judith Weir"
+      },
+      {
+       "t": "li",
+       "text": "Australian composer: Ross Edwards"
+      },
+      {
+       "t": "li",
+       "text": "festival will include *The Tower of Remoteness*, inspired by nature"
+      },
+      {
+       "t": "li",
+       "text": "*The Tower of Remoteness* is performed by piano and {{36}}"
+      },
+      {
+       "t": "li",
+       "text": "compositions include music for children"
+      },
+      {
+       "t": "li",
+       "text": "celebrates Australia's cultural {{37}}"
+      },
+      {
+       "t": "sub",
+       "text": "Concert 3"
+      },
+      {
+       "t": "li",
+       "text": "Australian composer: Carl Vine"
+      },
+      {
+       "t": "li",
+       "text": "played cornet then piano"
+      },
+      {
+       "t": "li",
+       "text": "studied {{38}} before studying music"
+      },
+      {
+       "t": "li",
+       "text": "worked in Sydney as a pianist and composer"
+      },
+      {
+       "t": "li",
+       "text": "became well known as composer of music for {{39}}"
+      },
+      {
+       "t": "li",
+       "text": "festival will include his music for the 1996 {{40}}"
+      },
+      {
+       "t": "li",
+       "text": "British composers: Edward Elgar, Thomas Adès"
+      }
+     ]
+    }
+   ],
+   "transcript": "As you all know, the university is planning an arts festival for later this year, and here in the music department we've planned three concerts. These will be public performances, and the programme has just been finalised. The theme of the festival is links between the UK and Australia, and this is reflected in the music: each concert will feature both British and Australian composers. I'll tell you briefly about the Australian music, as you probably won't be familiar with that.\nThe first concert will include music by Liza Lim, who was born in Perth, Western Australia, in 1966. As a child, Lim originally learned to play the piano – like so many children – and also the violin, but when she was 11 her teachers encouraged her to start composing. She found [Q31] this was her real strength, and she studied and later taught composition, both in Australia and in other countries. As a composer, she has received commissions from numerous orchestras, other performers and festivals in several countries.\nLiza Lim's compositions are vibrant and full of energy, and she often explores Asian and [Q32] Australian Aboriginal cultural sources, including the native instrument, the didgeridoo: this is featured in a work called *The Compass*. Her music is very expressive, so although it is complex, it has the power of connecting with audiences and performers alike. [Q33]\nIn the festival we're going to give a semi-staged performance of *The Oresteia*. This is an opera in seven parts, based on the trilogy of ancient Greek tragedies by Aeschylus. Lim [Q34] composed this when she was in her mid-20s, and she also wrote the text, along with Barrie Kosky. It's performed by six singers, a dancer, and an orchestra that, as well as standard orchestral instruments, includes electric guitar, and a traditional Turkish stringed instrument. Lim wrote that because the stories in the tragedies are not easy to tell, the sounds she creates are also disturbing, and they include breathing, sobbing, laughing and whistling. The [Q35] work lasts around 75 minutes, and the rest of the concert will consist of orchestral works by the British composers Ralph Vaughan Williams and Frederick Delius.\nMoving on now to our second concert, this will begin with instrumental music by British composers – Benjamin Britten and Judith Weir. After the interval we'll go to Australia for a piece by Ross Edwards: *The Tower of Remoteness*. According to Edwards, the inspiration for this piece came from nature, when he was sitting alone in the dry bed of a creek, overshadowed by the leaves of palm trees, listening to the birds and insects. *The Tower of Remoteness* is scored for piano and clarinet. Edwards says he realised years after writing the [Q36] piece that he had subconsciously modelled its opening phrase on a bird call.\nRoss Edwards was born in 1943 in Sydney, Australia, and studied at the Sydney Conservatorium of Music and the universities of Adelaide and Sydney. He's well known in Australia, and in fact he's one of the country's most performed composers. He's written a wide range of music, from symphonies and concertos to some composed specifically for children. Edwards's music has been described as being 'deeply connected to Australia', and it can be regarded as a celebration of the diversity of cultures that Australia can be proud of. [Q37]\nThe last of the three Australian composers to be represented in our festival is Carl Vine. Born in 1954, Vine, like Liza Lim, comes from Perth, Western Australia. He took up the cornet at the age of five, switching to the piano five years later. However, he went to university to study physics, before changing to composition. After graduating he moved to Sydney and worked [Q38] as a freelance pianist and composer. Before long he had become prominent in Australia as a composer for dance, and in fact has written 25 scores of that type. [Q39]\nIn our third concert, Vine will be represented by his music for the flag hand-over ceremony of the Olympics held in 1996. This seven-minute orchestral piece was of course heard by [Q40] millions of people worldwide, and we'll hear it alongside works written by British composers Edward Elgar and, more recently, Thomas Adès."
+  }
+ ],
+ "answers": {
+  "1": {
+   "a": [
+    "Tesla"
+   ]
+  },
+  "2": {
+   "a": [
+    "microphone"
+   ]
+  },
+  "3": {
+   "a": [
+    "exhibition"
+   ]
+  },
+  "4": {
+   "a": [
+    "wifi"
+   ]
+  },
+  "5": {
+   "a": [
+    "45"
+   ]
+  },
+  "6": {
+   "a": [
+    "135"
+   ]
+  },
+  "7": {
+   "a": [
+    "pool"
+   ]
+  },
+  "8": {
+   "a": [
+    "airport"
+   ]
+  },
+  "9": {
+   "a": [
+    "sea"
+   ]
+  },
+  "10": {
+   "a": [
+    "clubs"
+   ]
+  },
+  "11": {
+   "a": [
+    "A"
+   ]
+  },
+  "12": {
+   "a": [
+    "E"
+   ]
+  },
+  "13": {
+   "a": [
+    "B"
+   ]
+  },
+  "14": {
+   "a": [
+    "E"
+   ]
+  },
+  "15": {
+   "a": [
+    "F"
+   ]
+  },
+  "16": {
+   "a": [
+    "A"
+   ]
+  },
+  "17": {
+   "a": [
+    "E"
+   ]
+  },
+  "18": {
+   "a": [
+    "G"
+   ]
+  },
+  "19": {
+   "a": [
+    "D"
+   ]
+  },
+  "20": {
+   "a": [
+    "C"
+   ]
+  },
+  "21": {
+   "a": [
+    "50"
+   ]
+  },
+  "22": {
+   "a": [
+    "regional"
+   ]
+  },
+  "23": {
+   "a": [
+    "carnival"
+   ]
+  },
+  "24": {
+   "a": [
+    "drummer"
+   ]
+  },
+  "25": {
+   "a": [
+    "film"
+   ]
+  },
+  "26": {
+   "a": [
+    "parade"
+   ]
+  },
+  "27": {
+   "a": [
+    "D"
+   ]
+  },
+  "28": {
+   "a": [
+    "B"
+   ]
+  },
+  "29": {
+   "a": [
+    "E"
+   ]
+  },
+  "30": {
+   "a": [
+    "F"
+   ]
+  },
+  "31": {
+   "a": [
+    "violin"
+   ]
+  },
+  "32": {
+   "a": [
+    "energy"
+   ]
+  },
+  "33": {
+   "a": [
+    "complex"
+   ]
+  },
+  "34": {
+   "a": [
+    "opera"
+   ]
+  },
+  "35": {
+   "a": [
+    "disturbing"
+   ]
+  },
+  "36": {
+   "a": [
+    "clarinet"
+   ]
+  },
+  "37": {
+   "a": [
+    "diversity"
+   ]
+  },
+  "38": {
+   "a": [
+    "physics"
+   ]
+  },
+  "39": {
+   "a": [
+    "dance"
+   ]
+  },
+  "40": {
+   "a": [
+    "Olympics"
+   ]
+  }
+ },
+ "issues": [
+  "Listening Part 1 question page (p.53) is almost blank in the scan (only the title and 'Accommodation' are legible); the notes were transcribed from the PDF text layer and the layout reconstructed from the faint image. The example answer is garbled in the text layer; 'Angela' is taken from the audioscript."
+ ]
+}

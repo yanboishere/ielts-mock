@@ -1,0 +1,898 @@
+{
+ "parts": [
+  {
+   "part": 1,
+   "range": [
+    1,
+    10
+   ],
+   "pages": [
+    14,
+    15
+   ],
+   "groups": [
+    {
+     "id": "L1-1",
+     "type": "completion",
+     "range": [
+      1,
+      5
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **NO MORE THAN THREE WORDS** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Transport from Airport to Milton"
+      },
+      {
+       "t": "note",
+       "text": "*Example*"
+      },
+      {
+       "t": "p",
+       "text": "Distance: *147* miles"
+      },
+      {
+       "t": "sub",
+       "text": "Options:"
+      },
+      {
+       "t": "li",
+       "text": "Car hire"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "– don't want to drive"
+      },
+      {
+       "t": "li",
+       "text": "{{1}}"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "– expensive"
+      },
+      {
+       "t": "li",
+       "text": "Greyhound bus"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "– $15 single, $27.50 return"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "– direct to the {{2}}"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "– long {{3}}"
+      },
+      {
+       "t": "li",
+       "text": "Airport Shuttle"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "– {{4}} service"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "– every 2 hours"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "– $35 single, $65 return"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "– need to {{5}}"
+      }
+     ]
+    },
+    {
+     "id": "L1-2",
+     "type": "completion",
+     "range": [
+      6,
+      10
+     ],
+     "instructions": [
+      "Complete the booking form below.",
+      "Write **ONE WORD AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "AIRPORT SHUTTLE BOOKING FORM"
+      },
+      {
+       "t": "table",
+       "header": 0,
+       "rows": [
+        [
+         "**To:**",
+         "Milton",
+         "",
+         ""
+        ],
+        [
+         "**Date:**",
+         "{{6}}",
+         "**No. of passengers:**",
+         "One"
+        ],
+        [
+         "**Bus Time:**",
+         "{{7}} pm",
+         "**Type of ticket:**",
+         "Single"
+        ],
+        [
+         "**Name:**",
+         "Janet {{8}}",
+         "",
+         ""
+        ],
+        [
+         "**Flight No:**",
+         "{{9}}",
+         "**From:**",
+         "London Heathrow"
+        ],
+        [
+         "**Address in Milton:**",
+         "Vacation Motel,\n24, Kitchener Street",
+         "",
+         ""
+        ],
+        [
+         "**Fare:**",
+         "$35",
+         "",
+         ""
+        ],
+        [
+         "**Credit Card No:**",
+         "(Visa) {{10}}",
+         "",
+         ""
+        ]
+       ]
+      }
+     ]
+    }
+   ],
+   "transcript": "MAN: Hello, this is Land Transport Information at Toronto Airport. How may I help you?\nWOMAN: Oh, good morning. Um, I'm flying to Toronto Airport next week, and I need to get to a town called um, Milton. Could you tell me how I can get there?\nMAN: Milton, did you say? Let me see. I think that's about 150 miles south-west of here. In fact it's 147 miles to be exact, so it'll take you at least – say, three to four hours by road.\nWOMAN: Wow! Is it as far as that?\nMAN: Yes, I'm afraid so. But you have a number of options to get you there and you can always rent a car right here at the airport, of course.\nWOMAN: Right. Well, I don't really want to drive myself, so I'd like more information about public transport.\nMAN: OK. In that case the quickest and most comfortable is a cab [Q1] and of course there are always plenty available. But it'll cost you. You can also take a Greyhound bus or there's an Airport Shuttle Service to Milton.\nWOMAN: Hmmm, I think for that kind of distance a cab would be way beyond my budget. But the bus sounds OK. Can you tell me how much that would cost?\nMAN: Sure. Let's see, that would be $15 one way, or $27.50 return... that's on the Greyhound.\nWOMAN: Oh, that's quite cheap – great! But whereabouts does it stop in Milton?\nMAN: It goes directly from the airport here to the City Centre and it's pretty fast. But you have to bear in mind that there is only one departure a day, so it depends what time your flight gets in. [Q2]\nWOMAN: Oh, of course. Hang on, we're due to get there at 11.30 am.\nMAN: Hmmm, too bad, the bus leaves at 3.45, so you would have quite a wait – more than 4 hours. [Q3]\nWOMAN: Oh, I see. Well, what about the Shuttle you mentioned?\nMAN: OK. That's the Airport Shuttle that will take you from the airport right to your hotel or private address. It's a door-to-door service and it would suit you much better, because there's one every two hours. [Q4]\nWOMAN: So how much does that cost?\nMAN: Let's see. Yeah, that's $35 one way, $65 return, so I guess it's a bit more expensive than the Greyhound.\nWOMAN: Oh, that doesn't sound too bad, especially if it'll take me straight to the hotel.\nMAN: But you do need to reserve a seat. [Q5]\nWOMAN: OK, is it possible to make a booking right now? Through you?\nMAN: Sure.\nMAN: OK, I just have to fill this form out for you. So what date do you want to book this for?\nWOMAN: The 16th of October – oh, no, sorry, that's my departure date. I arrive on the 17th, so book it for then, please. [Q6]\nMAN: So, that's the Toronto Airport Shuttle to Milton. And this is for just one person or ...?\nWOMAN: Yes, just me, please.\nMAN: Right. And you said your expected time of arrival was 11.30? So if I book your Shuttle for after 12.00 – let's say, 12.30: that should give you plenty of time to, you know, collect your baggage, maybe grab a coffee? [Q7]\nWOMAN: Yeah, that sounds fine, as long as we land on time!\nMAN: Well, we'll take your flight details so you don't need to worry too much about that. Now, what about the fare? What sort of ticket do you want? One way or ...?\nWOMAN: Yes, that'll be fine, provided I can book the return trip once I'm there.\nMAN: No problem – just allow a couple of days in advance to make sure you get a seat. And what's your name, please?\nWOMAN: Janet, Janet Thomson.\nMAN: Is that Thompson spelt with a 'p'?\nWOMAN: No, it's T-H-O-M-S-O-N. [Q8]\nMAN: OK. And you'll be coming from the UK? What flight will you be travelling on?\nWOMAN: Oh, it's Air Canada flight number AC936, from London Heathrow. [Q9]\nWMAN: Right. Now, do you know where you'll be staying? We need to give the driver an address.\nWOMAN: Yes, it's called the Vacation Motel – and I think it's near the town centre. Anyway, the address is 24, Kitchener Street – that's KITCHENER Street.\nMAN: That's fine. Right, so that's $35 to pay please. Have you got your credit card number there?\nWOMAN: Yes, it's a VISA card, and the number is 3303 8450 2045 6837. [Q10]\nMAN: OK. Well, that seems to be everything. Have a good trip and we'll see you in Toronto next week!\nWOMAN: Yes, bye – oh, thanks for your help!"
+  },
+  {
+   "part": 2,
+   "range": [
+    11,
+    20
+   ],
+   "pages": [
+    16,
+    17
+   ],
+   "groups": [
+    {
+     "id": "L2-1",
+     "type": "choice",
+     "range": [
+      11,
+      16
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "questions": [
+      {
+       "n": 11,
+       "text": "PS Camping has been organising holidays for",
+       "options": [
+        {
+         "key": "A",
+         "text": "15 years."
+        },
+        {
+         "key": "B",
+         "text": "20 years."
+        },
+        {
+         "key": "C",
+         "text": "25 years."
+        }
+       ]
+      },
+      {
+       "n": 12,
+       "text": "The company has most camping sites in",
+       "options": [
+        {
+         "key": "A",
+         "text": "France."
+        },
+        {
+         "key": "B",
+         "text": "Italy."
+        },
+        {
+         "key": "C",
+         "text": "Switzerland."
+        }
+       ]
+      },
+      {
+       "n": 13,
+       "text": "Which organised activity can children do every day of the week?",
+       "options": [
+        {
+         "key": "A",
+         "text": "football"
+        },
+        {
+         "key": "B",
+         "text": "drama"
+        },
+        {
+         "key": "C",
+         "text": "model making"
+        }
+       ]
+      },
+      {
+       "n": 14,
+       "text": "Some areas of the sites have a 'no noise' rule after",
+       "options": [
+        {
+         "key": "A",
+         "text": "9.30 p.m."
+        },
+        {
+         "key": "B",
+         "text": "10.00 p.m."
+        },
+        {
+         "key": "C",
+         "text": "10.30 p.m."
+        }
+       ]
+      },
+      {
+       "n": 15,
+       "text": "The holiday insurance that is offered by PS Camping",
+       "options": [
+        {
+         "key": "A",
+         "text": "can be charged on an annual basis."
+        },
+        {
+         "key": "B",
+         "text": "is included in the price of the holiday."
+        },
+        {
+         "key": "C",
+         "text": "must be taken out at the time of booking."
+        }
+       ]
+      },
+      {
+       "n": 16,
+       "text": "Customers who recommend PS Camping to friends will receive",
+       "options": [
+        {
+         "key": "A",
+         "text": "a free gift."
+        },
+        {
+         "key": "B",
+         "text": "an upgrade to a luxury tent."
+        },
+        {
+         "key": "C",
+         "text": "a discount."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L2-2",
+     "type": "matching",
+     "range": [
+      17,
+      20
+     ],
+     "instructions": [
+      "What does the speaker say about the following items?",
+      "Write the correct letter, **A**, **B** or **C**, next to questions 17–20."
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "They are provided in all tents."
+      },
+      {
+       "key": "B",
+       "text": "They are found in central areas of the campsite."
+      },
+      {
+       "key": "C",
+       "text": "They are available on request."
+      }
+     ],
+     "questions": [
+      {
+       "n": 17,
+       "text": "barbecues"
+      },
+      {
+       "n": 18,
+       "text": "toys"
+      },
+      {
+       "n": 19,
+       "text": "cool boxes"
+      },
+      {
+       "n": 20,
+       "text": "mops and buckets"
+      }
+     ]
+    }
+   ],
+   "transcript": "Thank you all for coming to my talk this evening. It's nice to see so many people in the audience. For those of you who don't know very much about PS Camping, let me start by giving you some background information about the company.\nThe company started twenty-five years ago. It actually opened as a retail chain selling camping equipment, and then twenty years ago, it bought a small number of campsites in the UK, and began offering camping holidays. [Q11] The company grew rapidly and has been providing holidays in continental Europe for the last fifteen years.\nIf you book a camping holiday with us, you'll have a choice of over three hundred sites. In Italy we now have some 64 sites that we either own, or have exclusive use of. France is where we have the majority of sites, [Q12] and we currently have a project to expand into Switzerland. We also have a number of sites in Northern Spain, particularly in the mountainous region of Picos de Europa. We've upgraded all these Spanish sites, and improved them considerably from their original three-star rating.\nWe believe our holidays offer superb facilities for the whole family. Parents who want their children to be fully occupied for all or part of the day can take advantage of our children's activities. These are organised by our well-qualified and enthusiastic staff. Each day kicks off with a sports match, perhaps football, or volleyball, followed by an hour of drama for everyone. [Q13] This may include singing or dancing, mime or other activities. In the afternoon, there's a different art activity for each day of the week including a poster competition or model making. What's more, our sites are truly child-friendly, and, with this in mind, we operate a no-noise rule in the evenings. Children's evening activities usually finish at 9.30, or occasionally 10, and from 10.30 holiday-makers are expected to be quiet in the areas where there are tents. [Q14]\nWe want nothing to go wrong on a PS Camping holiday, but if it does, we also want all customers to be insured. If you haven't organised an annual insurance policy of your own you'll need to take out the low-cost cover we offer and we require that you arrange this when you make your holiday reservation. [Q15]\nThere are many advantages to choosing PS Camping, and to recommending it to others. As a regular customer, you'll be kept informed of special offers, and your friends can benefit from ten per cent off their holiday, or book a luxury tent for the price of a standard one. In return, we'll send you a thank-you present, which you can choose from a list of high-quality items. [Q16]\nWhen it comes to our tents, these are equipped to the highest standard. We really do think of every essential detail, from an oven and cooking rings fuelled by bottled gas, to mirrors in the bedroom areas. If you don't want to cook indoors, you can borrow a barbecue if you ask in advance for one to be made available, [Q17] and there's even a picnic blanket to sit on outside your tent. Inside, a box of games and toys can be found, and children's tents can be hired if required. [Q18] All tents have a fridge, and if you want to spend the day on the beach, for example, ask for a specially designed PS Camping cool box, which will keep your food and drinks chilled. [Q19] There are excellent washing facilities at all our sites, with washing machines and clothes lines in the central areas, along with mops and buckets in case your tent needs cleaning during your stay. [Q20] All sites have a café and/or a shop for those who'd rather 'eat in' than dine at a local restaurant."
+  },
+  {
+   "part": 3,
+   "range": [
+    21,
+    30
+   ],
+   "pages": [
+    18,
+    19
+   ],
+   "groups": [
+    {
+     "id": "L3-1",
+     "type": "completion",
+     "range": [
+      21,
+      23
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **ONE WORD ONLY** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "DIFFERENCES BETWEEN INDIVIDUALS IN THE WORKPLACE"
+      },
+      {
+       "t": "p",
+       "text": "Individuals bring different:"
+      },
+      {
+       "t": "li",
+       "text": "ideas"
+      },
+      {
+       "t": "li",
+       "text": "{{21}}"
+      },
+      {
+       "t": "li",
+       "text": "learning experiences"
+      },
+      {
+       "t": "p",
+       "text": "Work behaviour differences are due to:"
+      },
+      {
+       "t": "li",
+       "text": "personality"
+      },
+      {
+       "t": "li",
+       "text": "{{22}}"
+      },
+      {
+       "t": "p",
+       "text": "Effects of diversity on companies:"
+      },
+      {
+       "t": "li",
+       "text": "Advantage: diversity develops {{23}}"
+      },
+      {
+       "t": "li",
+       "text": "Disadvantage: diversity can cause conflict"
+      }
+     ]
+    },
+    {
+     "id": "L3-2",
+     "type": "choice",
+     "range": [
+      24,
+      27
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "questions": [
+      {
+       "n": 24,
+       "text": "Janice thinks that employers should encourage workers who are",
+       "options": [
+        {
+         "key": "A",
+         "text": "potential leaders."
+        },
+        {
+         "key": "B",
+         "text": "open to new ideas."
+        },
+        {
+         "key": "C",
+         "text": "good at teamwork."
+        }
+       ]
+      },
+      {
+       "n": 25,
+       "text": "Janice suggests that managers may find it difficult to",
+       "options": [
+        {
+         "key": "A",
+         "text": "form successful groups."
+        },
+        {
+         "key": "B",
+         "text": "balance conflicting needs."
+        },
+        {
+         "key": "C",
+         "text": "deal with uncooperative workers."
+        }
+       ]
+      },
+      {
+       "n": 26,
+       "text": "Janice believes employers should look for job applicants who",
+       "options": [
+        {
+         "key": "A",
+         "text": "can think independently."
+        },
+        {
+         "key": "B",
+         "text": "will obey the system."
+        },
+        {
+         "key": "C",
+         "text": "can solve problems."
+        }
+       ]
+      },
+      {
+       "n": 27,
+       "text": "Janice believes managers should",
+       "options": [
+        {
+         "key": "A",
+         "text": "demonstrate good behaviour."
+        },
+        {
+         "key": "B",
+         "text": "encourage co-operation early on."
+        },
+        {
+         "key": "C",
+         "text": "increase financial incentives."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L3-3",
+     "type": "completion",
+     "range": [
+      28,
+      30
+     ],
+     "instructions": [
+      "Complete the sentences below.",
+      "Write **ONE WORD ONLY** for each answer."
+     ],
+     "content": [
+      {
+       "t": "p",
+       "text": "All managers need to understand their employees and recognise their company's {{28}} ."
+      },
+      {
+       "t": "p",
+       "text": "When managing change, increasing the company's {{29}} may be more important than employee satisfaction."
+      },
+      {
+       "t": "p",
+       "text": "During periods of change, managers may have to cope with increased amounts of {{30}} ."
+      }
+     ]
+    }
+   ],
+   "transcript": "TUTOR: Well, you've both been looking at different styles of managing individuals in companies and the workplace. How's the research going, Philip?\nPHILIP: Well, I've been looking at why individualism, I mean individual differences, are such an important area of management studies. When you think about any organization, be it a family business or a multinational company, they are all fundamentally a group of people working together. But it's what these individuals contribute to their places of work that makes you realize how important they are. Of course they bring different ideas, but it's also their attitudes and their experiences of learning. [Q21] Diversity is important in these areas too.\nTUTOR: So why do people behave so differently from one another at work?\nPHILIP: There are lots of reasons but research has shown a lot of it comes down to personality. And the other factor is gender. [Q22] It's a well known fact that men and women do lots of things in different ways, and the workplace is no different.\nTUTOR: Did you look at the effects of this variation on companies?\nPHILIP: Yes, I did. On the positive side, exposure to such diversity helps encourage creativity which is generally an asset to a company. [Q23] But unfortunately individual differences are also the root of conflict between staff and they can lead to difficulties for management, which can sometimes be serious.\nTUTOR: Thanks, Philip. So now I guess the two main things to remember here are to identify individual talent and then to utilize it. So Janice, *you* were looking at identifying different talents in workers. Do you think this is easy for managers to do?\nJANICE: Well, currently teamwork is in fashion in the workplace and in my opinion the importance of the individual is generally neglected. What managers should be targeting is those employees who can take the lead in a situation and are not afraid to accept the idea of responsibility. [Q24]\nTUTOR: That's true Janice but unfortunately many managers think the entire notion of encouraging individuality amongst their staff is far too hard.\nJANICE: Yes, that may be true but I think one of the most important tasks of managers is to consider the needs of the individual on one hand and group co-operation and conformity on the other. [Q25] It requires creative thinking on the part of management to avoid tension.\nTUTOR: So Janice, what kind of people do you think companies should be looking for?\nJANICE: Well, it has to start from the very beginning when companies are looking for new employees. When the personnel department is choosing between applicants they need to look for someone who's broken the mould and can think for themselves. [Q26] Instead, people making these decisions often use a range of psychological tests to see if a person is a problem solver, or will do as they're told. I'm not convinced these qualities are actually the most important.\nTUTOR: So do you think being a good team player is overrated?\nJANICE: No, it's not overrated. You do need to learn the rules and learn them fast. No individual can get around this if you're working in an organization.\nTUTOR: So how should managers deal with this?\nJANICE: Rewards. When an individual demonstrates the behaviour the organisation expects, some kind of incentive can be given. What's important here is that this happens right at the beginning so new recruits learn the rules of the system immediately. [Q27] Also the incentive should be something the individual actually wants, and this isn't always just money.\nTUTOR: To come back to you, Philip. You were saying that recognition of good performers is essential. What else should managers be looking for?\nPHILIP: Well, managing people means you not only have an understanding of your employees, but you also recognise the culture of the organization. [Q28] In fact, for some organizations creativity and individuality may be the last thing they want to see during working hours!\nTUTOR: Very true.\nPHILIP: Yes, but managing people isn't as easy as it looks. For example, change in the workplace can be quite tricky, especially if there's a need to increase profit. And at times like these managers may have to give priority to profit rather than individual staff needs. [Q29]\nTUTOR: Yes, and that creates difficult situations for people.\nPHILIP: Yes but what's important is that managers are able to deal with quite high levels of personal stress. During times of change they should be thinking not only about the strain on their staff but take time out to think of themselves. [Q30]\nTUTOR: Absolutely. So what are the implications of that for..."
+  },
+  {
+   "part": 4,
+   "range": [
+    31,
+    40
+   ],
+   "pages": [
+    20,
+    21
+   ],
+   "groups": [
+    {
+     "id": "L4-1",
+     "type": "completion",
+     "range": [
+      31,
+      35
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **ONE WORD ONLY** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "SEMINAR ON ROCK ART"
+      },
+      {
+       "t": "p",
+       "text": "Preparation for fieldwork trip to Namibia in {{31}}"
+      },
+      {
+       "t": "p",
+       "text": "Rock art in Namibia may be"
+      },
+      {
+       "t": "li",
+       "text": "paintings"
+      },
+      {
+       "t": "li",
+       "text": "engravings"
+      },
+      {
+       "t": "sub",
+       "text": "Earliest explanation of engravings of animal footprints"
+      },
+      {
+       "t": "p",
+       "text": "They were used to help {{32}} learn about tracking"
+      },
+      {
+       "t": "sub",
+       "text": "But:"
+      },
+      {
+       "t": "li",
+       "text": "Why are the tracks usually {{33}} ?"
+      },
+      {
+       "t": "li",
+       "text": "Why are some engravings realistic and others unrealistic?"
+      },
+      {
+       "t": "li",
+       "text": "Why are the unrealistic animals sometimes half {{34}} ?"
+      },
+      {
+       "t": "sub",
+       "text": "More recent explanation:"
+      },
+      {
+       "t": "p",
+       "text": "Wise men may have been trying to control wild animals with {{35}} ."
+      },
+      {
+       "t": "sub",
+       "text": "Comment:"
+      },
+      {
+       "t": "p",
+       "text": "Earlier explanation was due to scholars over-generalising from their experience of a different culture."
+      }
+     ]
+    },
+    {
+     "id": "L4-2",
+     "type": "completion",
+     "range": [
+      36,
+      40
+     ],
+     "instructions": [
+      "Complete the sentences below.",
+      "Write **ONE WORD ONLY** for each answer."
+     ],
+     "content": [
+      {
+       "t": "p",
+       "text": "If you look at a site from a {{36}} , you reduce visitor pressure."
+      },
+      {
+       "t": "p",
+       "text": "To camp on a site may be disrespectful to people from that {{37}} ."
+      },
+      {
+       "t": "p",
+       "text": "Undiscovered material may be damaged by {{38}} ."
+      },
+      {
+       "t": "p",
+       "text": "You should avoid {{39}} or tracing rock art as it is so fragile."
+      },
+      {
+       "t": "p",
+       "text": "In general, your aim is to leave the site {{40}} ."
+      }
+     ]
+    }
+   ],
+   "transcript": "Good afternoon, everyone!\nThis is the first seminar in preparation for our archaeological fieldwork in Namibia; we are fantastically lucky to have received partial research funding for this trip from our Institute, so I shall expect 200% attention and participation from you all. First in this seminar, I'm going to give a brief introduction to contemporary research on rock art, and in the second part I'm going to give you some do's and don'ts for our fieldwork trip in April – so please listen very carefully. [Q31]\nI'm first going to focus on the interpretation of rock art in Namibia. We are very fortunate to be going to an area where you can find some of the most important sites in the entire world. And I hope to show you how easy it is for everyone to make mistakes in looking at cultures which are different from our own – the first and most important lesson we have to learn.\nIn Namibia there are both paintings and engravings – that's where the surface of the rock is cut out. Many of the engravings show footprints of animals and most scholars used to think that the purpose of these was simple and obvious: this rock art was like a school book with pictures to teach children about tracks: which track belonged to which animal – giraffe, lion and so on. [Q32]\nBut there were some mysteries. First, when you look at a typical Namibian painting or engraving, you see the tracks are repeated, there are dozens of tracks for the same animal. [Q33] You'd expect just one clear illustration if the reason – the aim – was to teach tracking.\nNow there were two more problems. Why are some of the engravings of animals *very* accurate as you'd expect – all clearly identifiable – and others quite unrealistic?\nAnd another mystery – some of these *unrealistic* animals – that's in the engravings – seem to be half human. [Q34] Some, for example, have got human faces. Many researchers now think that these were pictures the wise men engraved of themselves. They believed they could use magic to control the animals they had drawn, so the hunters could then catch them for food. [Q35]\nThis shows you some of the dangers of coming from one culture to another, as we'll be doing, without understanding it fully. Scholars imagined that children looked at rock art pictures to learn to track – just because they themselves had learnt skills from pictures; many researchers now believe that rock art had a much more complex purpose. And we'll talk more about it next week!\nNow before I invite you to join in a discussion in this second part of the seminar, I'd like to make some very important points about our fieldwork – and in fact any field trip to look at rock art.\nWe're going to a number of sites, and we won't always be together. The single largest problem faced by people who manage the sites is – yes, I'm sure you've guessed – damage caused by visitors, even though it's usually unintentional.\nWhenever you do go to a site, don't forget you can learn many things from observing at a distance instead of walking all over it. This can really help to reduce visitor pressure. [Q36] People often say, 'Well, there's only two of us and just this one time', but maybe thousands of people are saying the same thing.\nAnd then some basic rules to guide you – we'll have our own camp near a village, but remember never to camp on a site if you go on your own. It may be disrespectful to the people of that culture, and certainly don't make fires, however romantic it may seem. [Q37] It's really dangerous in dry areas, and you can easily burn priceless undiscovered material by doing so. [Q38]\nSo, how are we going to enjoy the rock art on our field trip? By looking at it, drawing it and photographing it – NEVER by touching it or even tracing it. Rock art is fragile and precious. [Q39]\nRemember that climbing on rocks and in caves can destroy in a moment what has lasted for centuries. So no heroics in Namibia, please! Try to be extra careful and help others to be too.\nAnd lastly please don't even move rocks or branches to take photographs – you should leave the site intact – I'm sure I can rely on you to do that. [Q40]\nWell, that's about all I want to say before today's first discussion, but if you have any questions please ask them now – and don't forget you'll find some fascinating information about world-wide sites on the Internet. Right, first question then?"
+  }
+ ],
+ "answers": {
+  "1": {
+   "a": [
+    "a taxi",
+    "taxi",
+    "a cab",
+    "cab"
+   ],
+   "k": "(a) taxi/cab"
+  },
+  "2": {
+   "a": [
+    "city centre",
+    "city center"
+   ],
+   "k": "city centre/center"
+  },
+  "3": {
+   "a": [
+    "wait"
+   ]
+  },
+  "4": {
+   "a": [
+    "door-to-door"
+   ]
+  },
+  "5": {
+   "a": [
+    "reserve a seat",
+    "reserve"
+   ],
+   "k": "reserve (a seat)"
+  },
+  "6": {
+   "a": [
+    "the 17th of October",
+    "the 17th October",
+    "17th of October",
+    "17th October"
+   ],
+   "k": "(the) 17th(of) October"
+  },
+  "7": {
+   "a": [
+    "12.30"
+   ]
+  },
+  "8": {
+   "a": [
+    "Thomson"
+   ]
+  },
+  "9": {
+   "a": [
+    "AC 936",
+    "AC936"
+   ],
+   "k": "AC 936"
+  },
+  "10": {
+   "a": [
+    "3303 8450 2045 6837",
+    "3303845020456837"
+   ],
+   "k": "3303 8450 2045 6837"
+  },
+  "11": {
+   "a": [
+    "B"
+   ]
+  },
+  "12": {
+   "a": [
+    "A"
+   ]
+  },
+  "13": {
+   "a": [
+    "B"
+   ]
+  },
+  "14": {
+   "a": [
+    "C"
+   ]
+  },
+  "15": {
+   "a": [
+    "C"
+   ]
+  },
+  "16": {
+   "a": [
+    "A"
+   ]
+  },
+  "17": {
+   "a": [
+    "C"
+   ]
+  },
+  "18": {
+   "a": [
+    "A"
+   ]
+  },
+  "19": {
+   "a": [
+    "C"
+   ]
+  },
+  "20": {
+   "a": [
+    "B"
+   ]
+  },
+  "21": {
+   "a": [
+    "attitude",
+    "attitudes"
+   ],
+   "k": "attitude(s)"
+  },
+  "22": {
+   "a": [
+    "gender",
+    "sex"
+   ],
+   "k": "gender/sex"
+  },
+  "23": {
+   "a": [
+    "creativity",
+    "creativeness"
+   ],
+   "k": "creativity/creativeness"
+  },
+  "24": {
+   "a": [
+    "A"
+   ]
+  },
+  "25": {
+   "a": [
+    "B"
+   ]
+  },
+  "26": {
+   "a": [
+    "A"
+   ]
+  },
+  "27": {
+   "a": [
+    "B"
+   ]
+  },
+  "28": {
+   "a": [
+    "culture"
+   ]
+  },
+  "29": {
+   "a": [
+    "profit",
+    "profits"
+   ],
+   "k": "profit(s)"
+  },
+  "30": {
+   "a": [
+    "stress",
+    "strain"
+   ],
+   "k": "stress/strain"
+  },
+  "31": {
+   "a": [
+    "April"
+   ]
+  },
+  "32": {
+   "a": [
+    "children"
+   ]
+  },
+  "33": {
+   "a": [
+    "repeated"
+   ]
+  },
+  "34": {
+   "a": [
+    "human"
+   ]
+  },
+  "35": {
+   "a": [
+    "magic"
+   ]
+  },
+  "36": {
+   "a": [
+    "distance"
+   ]
+  },
+  "37": {
+   "a": [
+    "culture"
+   ]
+  },
+  "38": {
+   "a": [
+    "fire",
+    "fires"
+   ],
+   "k": "fire(s)"
+  },
+  "39": {
+   "a": [
+    "touching"
+   ]
+  },
+  "40": {
+   "a": [
+    "intact"
+   ]
+  }
+ },
+ "issues": [
+  "Section 1 tapescript: one speaker label is printed 'WMAN:' (for MAN:) in the book; reproduced as printed."
+ ]
+}

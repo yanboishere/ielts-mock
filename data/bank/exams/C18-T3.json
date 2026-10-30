@@ -1,0 +1,1731 @@
+{
+ "schema": "ielts-mock.exam/1",
+ "id": "C18-T3",
+ "source": {
+  "book": 18,
+  "test": 3
+ },
+ "title": "Cambridge IELTS 18 · Test 3",
+ "listening": {
+  "parts": [
+   {
+    "part": 1,
+    "range": [
+     1,
+     10
+    ],
+    "pages": [
+     57
+    ],
+    "groups": [
+     {
+      "id": "L1-1",
+      "type": "completion",
+      "range": [
+       1,
+       4
+      ],
+      "instructions": [
+       "Complete the form below.",
+       "Write **ONE WORD AND/OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Wayside Camera Club membership form"
+       },
+       {
+        "t": "li",
+        "text": "Name: Dan Green"
+       },
+       {
+        "t": "li",
+        "text": "Email address: dan1068@market.com"
+       },
+       {
+        "t": "li",
+        "text": "Home address: 52 {{1}} Street, Peacetown"
+       },
+       {
+        "t": "li",
+        "text": "Heard about us: from a {{2}}"
+       },
+       {
+        "t": "li",
+        "text": "Reasons for joining: to enter competitions"
+       },
+       {
+        "t": "p",
+        "text": "to {{3}}",
+        "level": 2
+       },
+       {
+        "t": "li",
+        "text": "Type of membership: {{4}} membership (£30)"
+       }
+      ]
+     },
+     {
+      "id": "L1-2",
+      "type": "completion",
+      "range": [
+       5,
+       10
+      ],
+      "instructions": [
+       "Complete the table below.",
+       "Write **NO MORE THAN TWO WORDS** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Photography competitions"
+       },
+       {
+        "t": "table",
+        "header": 1,
+        "rows": [
+         [
+          "Title of competition",
+          "Instructions",
+          "Feedback to Dan"
+         ],
+         [
+          "'{{5}}'",
+          "A scene in the home",
+          "The picture's composition was not good."
+         ],
+         [
+          "'Beautiful Sunsets'",
+          "Scene must show some {{6}}",
+          "The {{7}} was wrong."
+         ],
+         [
+          "'{{8}}'",
+          "Scene must show {{9}}",
+          "The photograph was too {{10}}."
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    "transcript": "BREDA: Hello, Wayside Camera Club, Breda speaking.\nDAN: Oh, hello, um, my name's Dan and I'd like to join your club.\nBREDA: That's great, Dan. We have an application form – would you like to complete it over the phone, then you can ask any questions you might have?\nDAN: Oh, yes, thanks.\nBREDA: OK, so what's your family name?\nDAN: It's Green – Dan Green.\nBREDA: So – can I take your email address?\nDAN: Yes, it's dan1068@market.com.\nBREDA: Thanks. And what about your home address?\nDAN: Well, I'm about ten miles away from your club in Peacetown. I live in a house there.\nBREDA: OK, so what's the house number and street?\nDAN: It's 52 Marrowfield Street. [Q1]\nBREDA: Is that M-A double R-O-W-F-I-E-L-D?\nDAN: That's right.\nBREDA: ... and that's Peacetown, you said?\nDAN: Uhuh.\nBREDA: So how did you hear about our club? Did you look on the internet?\nDAN: I usually do that, but this time, well, I was talking to a relative the other day and [Q2] he suggested it.\nBREDA: Oh, is he a member too?\nDAN: He belongs to another club – but he'd heard good things about yours.\nBREDA: OK. So what do you hope to get from joining?\nDAN: Well, one thing that really interests me is the competitions that you have. I enjoy entering those.\nBREDA: Right. Anything else?\nDAN: Well, I also like to socialise with other photographers. [Q3]\nBREDA: That's great. So what type of membership would you like?\nDAN: What are the options?\nBREDA: It's £30 a year for full membership or £20 a year if you're an associate. [Q4]\nDAN: I think I'll go for the full membership, then.\nBREDA: That's a good idea because you can't vote in meetings with an associate membership.\nBREDA: If I could just find out a bit more about you ...\nDAN: OK.\nBREDA: So you said you wanted to compete – have you ever won any photography competitions?\nDAN: Not yet, but I have entered three in the past.\nBREDA: Oh, that's interesting. So why don't you tell me something about those? Let's start with the first one.\nDAN: Well, the theme was entitled 'Domestic Life'. [Q5]\nBREDA: I see – so it had to be something related to the home?\nDAN: Yeah. I chose to take a photo of a family sitting round the dinner table having a meal, and, um, I didn't win, but I did get some feedback.\nBREDA: Oh, what did the judges say?\nDAN: That it was too 'busy' as a picture.\nBREDA: Aha – so it was the composition of the picture that they criticised?\nDAN: That's right – and once they'd told me that, I could see my mistake.\nBREDA: So what was the theme of the second competition?\nDAN: Well, my university was on the coast and that area gets a lot of beautiful sunsets, so that was the theme.\nBREDA: Oh, sunsets, that's a great theme.\nDAN: Yes. The instructions were to capture the clouds as well – it couldn't just be blue [Q6] sky and a setting sun.\nBREDA: Sure, cause they give you all those amazing pinks and purples.\nDAN: Yeah – and I thought I'd done that well, but the feedback was that I should have waited a bit longer to get the shot.\nBREDA: I see. So the timing wasn't right. [Q7]\nDAN: Yes – I took it too soon, basically. And then the third competition I entered was [Q8] called 'Animal Magic'.\nBREDA: Well, that's a difficult subject!\nDAN: I know! I had to take hundreds of shots.\nBREDA: I'm sure – because animals move all the time.\nDAN: That's what we had to show – there had to be some movement in the scene. I [Q9] got a great shot of a fox in the end, but I took it at night and, well, I suspected [Q10] that it was a bit dark, which is what I was told.\nBREDA: Well Dan – you seem to be really keen and we'd be delighted to have you in our club. I'm sure we can help with all those areas that you've outlined.\nDAN: Thanks, that's great."
+   },
+   {
+    "part": 2,
+    "range": [
+     11,
+     20
+    ],
+    "pages": [
+     58,
+     59
+    ],
+    "groups": [
+     {
+      "id": "L2-1",
+      "type": "multi",
+      "range": [
+       11,
+       12
+      ],
+      "n": [
+       11,
+       12
+      ],
+      "select": 2,
+      "instructions": [
+       "Choose **TWO** letters, **A–E**."
+      ],
+      "text": "Which **TWO** warnings does Dan give about picking mushrooms?",
+      "options": [
+       {
+        "key": "A",
+        "text": "Don't pick more than one variety of mushroom at a time."
+       },
+       {
+        "key": "B",
+        "text": "Don't pick mushrooms near busy roads."
+       },
+       {
+        "key": "C",
+        "text": "Don't eat mushrooms given to you."
+       },
+       {
+        "key": "D",
+        "text": "Don't eat mushrooms while picking them."
+       },
+       {
+        "key": "E",
+        "text": "Don't pick old mushrooms."
+       }
+      ]
+     },
+     {
+      "id": "L2-2",
+      "type": "multi",
+      "range": [
+       13,
+       14
+      ],
+      "n": [
+       13,
+       14
+      ],
+      "select": 2,
+      "instructions": [
+       "Choose **TWO** letters, **A–E**."
+      ],
+      "text": "Which **TWO** ideas about wild mushrooms does Dan say are correct?",
+      "options": [
+       {
+        "key": "A",
+        "text": "Mushrooms should always be peeled before eating."
+       },
+       {
+        "key": "B",
+        "text": "Mushrooms eaten by animals may be unsafe."
+       },
+       {
+        "key": "C",
+        "text": "Cooking destroys toxins in mushrooms."
+       },
+       {
+        "key": "D",
+        "text": "Brightly coloured mushrooms can be edible."
+       },
+       {
+        "key": "E",
+        "text": "All poisonous mushrooms have a bad smell."
+       }
+      ]
+     },
+     {
+      "id": "L2-3",
+      "type": "choice",
+      "range": [
+       15,
+       20
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B** or **C**."
+      ],
+      "questions": [
+       {
+        "n": 15,
+        "text": "What advice does Dan give about picking mushrooms in parks?",
+        "options": [
+         {
+          "key": "A",
+          "text": "Choose wooded areas."
+         },
+         {
+          "key": "B",
+          "text": "Don't disturb wildlife."
+         },
+         {
+          "key": "C",
+          "text": "Get there early."
+         }
+        ]
+       },
+       {
+        "n": 16,
+        "text": "Dan says it is a good idea for beginners to",
+        "options": [
+         {
+          "key": "A",
+          "text": "use a mushroom app."
+         },
+         {
+          "key": "B",
+          "text": "join a group."
+         },
+         {
+          "key": "C",
+          "text": "take a reference book."
+         }
+        ]
+       },
+       {
+        "n": 17,
+        "text": "What does Dan say is important for conservation?",
+        "options": [
+         {
+          "key": "A",
+          "text": "selecting only fully grown mushrooms"
+         },
+         {
+          "key": "B",
+          "text": "picking a limited amount of mushrooms"
+         },
+         {
+          "key": "C",
+          "text": "avoiding areas where rare mushroom species grow"
+         }
+        ]
+       },
+       {
+        "n": 18,
+        "text": "According to Dan, some varieties of wild mushrooms are in decline because there is",
+        "options": [
+         {
+          "key": "A",
+          "text": "a huge demand for them from restaurants."
+         },
+         {
+          "key": "B",
+          "text": "a lack of rain in this part of the country."
+         },
+         {
+          "key": "C",
+          "text": "a rise in building developments locally."
+         }
+        ]
+       },
+       {
+        "n": 19,
+        "text": "Dan says that when storing mushrooms, people should",
+        "options": [
+         {
+          "key": "A",
+          "text": "keep them in the fridge for no more than two days."
+         },
+         {
+          "key": "B",
+          "text": "keep them in a brown bag in a dark room."
+         },
+         {
+          "key": "C",
+          "text": "leave them for a period after washing them."
+         }
+        ]
+       },
+       {
+        "n": 20,
+        "text": "What does Dan say about trying new varieties of mushrooms?",
+        "options": [
+         {
+          "key": "A",
+          "text": "Experiment with different recipes."
+         },
+         {
+          "key": "B",
+          "text": "Expect some to have a strong taste."
+         },
+         {
+          "key": "C",
+          "text": "Cook them for a long time."
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "transcript": "PRESENTER: This evening we're delighted to welcome Dan Beagle, who's just written a book on looking for and finding food in the wild. He's going to tell us everything we need to know about picking wild mushrooms.\nDAN: Thank you very much. Well, I need to start by talking about safety. You really need to know what you're doing because some mushrooms are extremely poisonous. Having said that, once you know what to look for, it's really worth doing for the amazing variety of mushrooms available – which you can't get in the shops. But of course, you have to be very careful and that's why I always say you should never consume mushrooms picked by friends or neighbours – always [Q11/Q12] remember that some poisonous mushrooms look very similar to edible ones and it's easy for people to get confused. The other thing to avoid is mushrooms [Q11/Q12] growing beside busy roads for obvious reasons. But nothing beats the taste of freshly picked mushrooms – don't forget that the ones in the shops are often several days old and past their best.\nThere are certain ideas about wild mushrooms that it's important to be aware of. Don't listen to people who tell you that it's only OK to eat mushrooms that [Q13/Q14] are pale or dull – this is completely untrue. Some edible mushrooms are bright red, for example. Personally, I prefer mushrooms cooked but it won't do you any harm to eat them uncooked in salads – it's not necessary to peel them. Another thing you should remember is that you can't tell if a mushroom is safe to eat by its smell – some of the most deadly mushrooms have no smell and taste quite nice, apparently. Finally, just because deer or squirrels eat a particular mushroom [Q13/Q14] doesn't mean that you can.\nOf course, mushroom picking is associated with the countryside but if you haven't got a car, your local park can be a great place to start. There are usually a range of habitats where mushrooms grow, such as playing fields and wooded areas. But you need to be there first thing in the morning, as there's likely be a lot of [Q15] competition – not just from people but wildlife too. The deer often get the best mushrooms in my local park.\nIf you're a complete beginner, I wouldn't recommend going alone or relying on photos in a book, even the one I've written! There are some really good phone apps for identifying mushrooms, but you can't always rely on getting a good signal in the middle of a wood. If possible, you should go with a group led by an [Q16] expert – you'll stay safe and learn a lot that way.\nConservation is a really important consideration and you must follow a few basic rules. You should never pick all the mushrooms in one area – collect only [Q17] enough for your own needs. Be very careful that you don't trample on young mushrooms or other plants. And make sure you don't pick any mushrooms that are endangered and protected by law.\nThere's been a decline in some varieties of wild mushrooms in this part of the country. Restaurants are becoming more interested in locally sourced food like wild mushrooms, but the biggest problem is that so many new houses have been [Q18] built in this area in the last ten years. And more water is being taken from rivers and reservoirs because of this, and mushroom habitats have been destroyed.\nAnyway, a word of advice on storing mushrooms. Collect them in a brown paper bag and as soon as you get home, put them in the fridge. They'll be fine for a [Q19] couple of days, but it's best to cook them as soon as possible – after washing them really carefully first, of course.\nSo everybody knows what a mushroom tastes like, right? Well, you'll be surprised by the huge variety of wild mushrooms there are. Be adventurous! They're great [Q20] in so many dishes – stir fries, risottos, pasta. But just be aware that some people can react badly to certain varieties so it's a good idea not to eat huge quantities to begin with.\nOK, so now I'm going to show you ..."
+   },
+   {
+    "part": 3,
+    "range": [
+     21,
+     30
+    ],
+    "pages": [
+     60,
+     61
+    ],
+    "groups": [
+     {
+      "id": "L3-1",
+      "type": "multi",
+      "range": [
+       21,
+       22
+      ],
+      "n": [
+       21,
+       22
+      ],
+      "select": 2,
+      "instructions": [
+       "Choose **TWO** letters, **A–E**."
+      ],
+      "text": "Which **TWO** opinions about the Luddites do the students express?",
+      "options": [
+       {
+        "key": "A",
+        "text": "Their actions were ineffective."
+       },
+       {
+        "key": "B",
+        "text": "They are still influential today."
+       },
+       {
+        "key": "C",
+        "text": "They have received unfair criticism."
+       },
+       {
+        "key": "D",
+        "text": "They were proved right."
+       },
+       {
+        "key": "E",
+        "text": "Their attitude is understandable."
+       }
+      ]
+     },
+     {
+      "id": "L3-2",
+      "type": "multi",
+      "range": [
+       23,
+       24
+      ],
+      "n": [
+       23,
+       24
+      ],
+      "select": 2,
+      "instructions": [
+       "Choose **TWO** letters, **A–E**."
+      ],
+      "text": "Which **TWO** predictions about the future of work are the students doubtful about?",
+      "options": [
+       {
+        "key": "A",
+        "text": "Work will be more rewarding."
+       },
+       {
+        "key": "B",
+        "text": "Unemployment will fall."
+       },
+       {
+        "key": "C",
+        "text": "People will want to delay retiring."
+       },
+       {
+        "key": "D",
+        "text": "Working hours will be shorter."
+       },
+       {
+        "key": "E",
+        "text": "People will change jobs more frequently."
+       }
+      ]
+     },
+     {
+      "id": "L3-3",
+      "type": "matching",
+      "range": [
+       25,
+       30
+      ],
+      "instructions": [
+       "What comment do the students make about each of the following jobs?",
+       "Choose **SIX** answers from the box and write the correct letter, **A–G**, next to Questions 25–30."
+      ],
+      "optionsTitle": "Comments",
+      "options": [
+       {
+        "key": "A",
+        "text": "These jobs are likely to be at risk."
+       },
+       {
+        "key": "B",
+        "text": "Their role has become more interesting in recent years."
+       },
+       {
+        "key": "C",
+        "text": "The number of people working in this sector has fallen dramatically."
+       },
+       {
+        "key": "D",
+        "text": "This job will require more qualifications."
+       },
+       {
+        "key": "E",
+        "text": "Higher disposable income has led to a huge increase in jobs."
+       },
+       {
+        "key": "F",
+        "text": "There is likely to be a significant rise in demand for this service."
+       },
+       {
+        "key": "G",
+        "text": "Both employment and productivity have risen."
+       }
+      ],
+      "title": "Jobs",
+      "questions": [
+       {
+        "n": 25,
+        "text": "Accountants"
+       },
+       {
+        "n": 26,
+        "text": "Hairdressers"
+       },
+       {
+        "n": 27,
+        "text": "Administrative staff"
+       },
+       {
+        "n": 28,
+        "text": "Agricultural workers"
+       },
+       {
+        "n": 29,
+        "text": "Care workers"
+       },
+       {
+        "n": 30,
+        "text": "Bank clerks"
+       }
+      ]
+     }
+    ],
+    "transcript": "YOUNG MAN: That seminar yesterday on automation and the future of work was really good, wasn't it? Looking at the first industrial revolution in Britain in the 19th century and seeing how people reacted to massive change was a real eye-opener.\nYOUNG WOMAN: Yes. It was interesting to hear how people felt about automation then and what challenges they faced. I didn't know that first started with workers in the textile industry.\nYOUNG MAN: With those protesting workers called the Luddites destroying their knitting machines because they were so worried about losing their jobs.\nYOUNG WOMAN: Yes, and ultimately, they didn't achieve anything. And anyway, [Q21/Q22] industrialisation created more jobs than it destroyed.\nYOUNG MAN: Yes, that's true – but it probably didn't seem a positive thing at the time. I can [Q21/Q22] see why the Luddites felt so threatened.\nYOUNG WOMAN: I know. I'm sure I would have felt the same. The discussion about the future of work was really optimistic for a change. I like the idea that work won't involve doing boring, repetitive tasks, as robots will do all that. Normally, you only hear negative stuff about the future.\nYOUNG MAN: Bit too optimistic, don't you think? For example, I can't see how people are about to have more leisure time, when all the evidence shows people are [Q23/Q24] spending longer than ever at work.\nYOUNG WOMAN: No – that's true. And what about lower unemployment? I'm not so sure about that. [Q23/Q24]\nYOUNG MAN: Perhaps in the long term – but not in the foreseeable future.\nYOUNG WOMAN: Mmm. And I expect most people will be expected to work until they're much older – as everyone's living much longer.\nYOUNG MAN: That's already happening.\nYOUNG WOMAN: I enjoyed all that stuff on how technology has changed some jobs and how they're likely to change in the near future.\nYOUNG MAN: Yeah, incredible. Like accountants. You might think all the technological innovations would have put them out of a job, but in fact there are more of them [Q25] than ever. They're still really in demand and have become far more efficient.\nYOUNG WOMAN: Right. That was amazing. Twenty times more accountants in this country compared to the 19th century.\nYOUNG MAN: I know. I'd never have thought that demand for hairdressing would have gone up so much in the last hundred years. One hairdresser for every 287 people now, compared to one for over 1,500.\nYOUNG WOMAN: Yeah because people's earning power has gone up so they can afford to [Q26] spend more on personal services like that.\nYOUNG MAN: But technology hasn't changed the actual job that much.\nYOUNG WOMAN: No, they've got hairdryers, etc. but it's one job where you don't depend on a computer ... The kind of work that administrative staff do has changed enormously, thanks to technology. Even 20 years ago there were secretaries doing dictation and typing.\nYOUNG MAN: Yes. Really boring compared to these days, when they're given much more [Q27] responsibility and higher status.\nYOUNG WOMAN: Mmm. A lot of graduates go in for this kind of work now ... I'd expected there to be a much bigger change in the number of agricultural workers in the 19th century. But the 1871 census showed that roughly 25% of the population worked on the land.\nYOUNG MAN: Yeah, I'd have assumed it would be more than 50%. Now it's less than 0.2%. [Q28]\nYOUNG WOMAN: What about care workers?\nYOUNG MAN: They barely existed in the 19th century as people's lifespan was so much shorter. But now of course this sector will see huge growth. [Q29]\nYOUNG WOMAN: Yeah – and it's hard enough to meet current demand. The future looks quite bleak for bank clerks. They've been in decline since ATMs were introduced in the eighties.\nYOUNG MAN: And technology will certainly make most of the jobs they do now redundant, [Q30] I think.\nYOUNG WOMAN: I agree, although the situation may change. It's very hard to predict what will happen."
+   },
+   {
+    "part": 4,
+    "range": [
+     31,
+     40
+    ],
+    "pages": [
+     62
+    ],
+    "groups": [
+     {
+      "id": "L4-1",
+      "type": "completion",
+      "range": [
+       31,
+       40
+      ],
+      "instructions": [
+       "Complete the notes below.",
+       "Write **ONE WORD ONLY** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Space Traffic Management"
+       },
+       {
+        "t": "sub",
+        "text": "A Space Traffic Management system"
+       },
+       {
+        "t": "li",
+        "text": "is a concept similar to Air Traffic Control, but for satellites rather than planes."
+       },
+       {
+        "t": "li",
+        "text": "would aim to set up legal and {{31}} ways of improving safety."
+       },
+       {
+        "t": "li",
+        "text": "does not actually exist at present."
+       },
+       {
+        "t": "sub",
+        "text": "Problems in developing effective Space Traffic Management"
+       },
+       {
+        "t": "li",
+        "text": "Satellites are now quite {{32}} and therefore more widespread (e.g. there are constellations made up of {{33}} of satellites)."
+       },
+       {
+        "t": "li",
+        "text": "At present, satellites are not required to transmit information to help with their {{34}}."
+       },
+       {
+        "t": "li",
+        "text": "There are few systems for {{35}} satellites."
+       },
+       {
+        "t": "li",
+        "text": "Small pieces of debris may be difficult to identify."
+       },
+       {
+        "t": "li",
+        "text": "Operators may be unwilling to share details of satellites used for {{36}} or commercial reasons."
+       },
+       {
+        "t": "li",
+        "text": "It may be hard to collect details of the object's {{37}} at a given time."
+       },
+       {
+        "t": "li",
+        "text": "Scientists can only make a {{38}} about where the satellite will go."
+       },
+       {
+        "t": "sub",
+        "text": "Solutions"
+       },
+       {
+        "t": "li",
+        "text": "Common standards should be agreed on for the presentation of information."
+       },
+       {
+        "t": "li",
+        "text": "The information should be combined in one {{39}}."
+       },
+       {
+        "t": "li",
+        "text": "A coordinated system must be designed to create {{40}} in its users."
+       }
+      ]
+     }
+    ],
+    "transcript": "In today's astronomy lecture, I'm going to talk about the need for a system to manage the movement of satellites and other objects in orbit around the Earth. In other words, a Space Traffic Management system. We already have effective Air Traffic Control systems that are used internationally to ensure that planes navigate our skies safely. Well, Space Traffic Management is a similar concept, but focusing on the control of satellites.\nThe aim of such a system would be to prevent the danger of collisions in space between the objects in orbit around the Earth. In order to do this, we'd need to have a set of legal measures, [Q31] and we'd also have to develop the technical systems to enable us to prevent such accidents.\nBut unfortunately, at present we don't actually have a Space Traffic Management system that works. So why not? What are the problems in developing such a system?\nWell, for one thing, satellites are relatively cheap these days, compared with how they were in the [Q32] past, meaning that more people can afford to put them into space. So there's a lot more of them out there, and people aren't just launching single satellites but whole constellations, consisting of [Q33] thousands of them designed to work together. So space is getting more crowded every day.\nBut in spite of this, one thing you may be surprised to learn is that you can launch a satellite into space and, once it's out there, it doesn't have to send back any information to Earth to [Q34] allow its identification. So while we have international systems for ensuring we know where the *planes* in our skies are, and to prevent them from colliding with one another, when it comes to the safety of *satellites*, at present we don't have anything like enough proper ways [Q35] of tracking them.\nAnd it isn't just entire satellites that we need to consider. A greater threat is the huge amount of space debris in orbit around the Earth – broken bits of satellite and junk from space stations and so on. And some of these are so small that they can be very hard to identify, but they can still be very dangerous.\nIn addition, some operators may be unwilling to share information about the satellites they've [Q36] launched. For example, a satellite may be designed for military purposes, or it may have been launched for commercial reasons, and the operators don't want competitors to have information about it.\nAnd even if the operators *are* willing to provide it, the information isn't easy to collect. Details are [Q37] needed about the object itself, as well as about its location at a particular time – and remember that a satellite isn't very big, and it's likely to be moving at thousands of kilometres an hour. We don't have any sensors that can constantly follow something moving so fast, so all that the [Q38] scientists can do is to put forward a prediction concerning where the satellite is heading next.\nSo those are some of the problems that we're facing. Let's consider now some of the solutions that have been suggested. One key issue is the way in which information is dealt with. We need more information, but it also needs to be accessible at a global level, so we need to establish shared standards that we can all agree on for the way in which this information is presented. We already do this in other areas of science, so although this is a challenge, it's not an impossible task. Then, as all this information's collected, it needs to be put together so it can be used, and that will involve creating a single database on which it can be entered. [Q39]\nAs we continue to push forward new developments, congestion of the space environment is only going to increase. To cope with this, we need to develop a system like the one I've described to coordinate the work of the numerous spacecraft operators, but it's also essential that this system [Q40] is one that establishes *trust* in the people that use it, both nationally and at a global level.\nOne interesting development ..."
+   }
+  ],
+  "answers": {
+   "1": {
+    "a": [
+     "Marrowfield"
+    ]
+   },
+   "2": {
+    "a": [
+     "relative"
+    ]
+   },
+   "3": {
+    "a": [
+     "socialise",
+     "socialize"
+    ],
+    "k": "socialise / socialize"
+   },
+   "4": {
+    "a": [
+     "full"
+    ]
+   },
+   "5": {
+    "a": [
+     "Domestic Life"
+    ]
+   },
+   "6": {
+    "a": [
+     "clouds"
+    ]
+   },
+   "7": {
+    "a": [
+     "timing"
+    ]
+   },
+   "8": {
+    "a": [
+     "Animal Magic"
+    ]
+   },
+   "9": {
+    "a": [
+     "animal movement",
+     "movement"
+    ],
+    "k": "(animal) movement"
+   },
+   "10": {
+    "a": [
+     "dark"
+    ]
+   },
+   "11": {
+    "a": [
+     "B"
+    ]
+   },
+   "12": {
+    "a": [
+     "C"
+    ]
+   },
+   "13": {
+    "a": [
+     "B"
+    ]
+   },
+   "14": {
+    "a": [
+     "D"
+    ]
+   },
+   "15": {
+    "a": [
+     "C"
+    ]
+   },
+   "16": {
+    "a": [
+     "B"
+    ]
+   },
+   "17": {
+    "a": [
+     "B"
+    ]
+   },
+   "18": {
+    "a": [
+     "C"
+    ]
+   },
+   "19": {
+    "a": [
+     "A"
+    ]
+   },
+   "20": {
+    "a": [
+     "A"
+    ]
+   },
+   "21": {
+    "a": [
+     "A"
+    ]
+   },
+   "22": {
+    "a": [
+     "E"
+    ]
+   },
+   "23": {
+    "a": [
+     "B"
+    ]
+   },
+   "24": {
+    "a": [
+     "D"
+    ]
+   },
+   "25": {
+    "a": [
+     "G"
+    ]
+   },
+   "26": {
+    "a": [
+     "E"
+    ]
+   },
+   "27": {
+    "a": [
+     "B"
+    ]
+   },
+   "28": {
+    "a": [
+     "C"
+    ]
+   },
+   "29": {
+    "a": [
+     "F"
+    ]
+   },
+   "30": {
+    "a": [
+     "A"
+    ]
+   },
+   "31": {
+    "a": [
+     "technical"
+    ]
+   },
+   "32": {
+    "a": [
+     "cheap"
+    ]
+   },
+   "33": {
+    "a": [
+     "thousands"
+    ]
+   },
+   "34": {
+    "a": [
+     "identification"
+    ]
+   },
+   "35": {
+    "a": [
+     "tracking"
+    ]
+   },
+   "36": {
+    "a": [
+     "military"
+    ]
+   },
+   "37": {
+    "a": [
+     "location"
+    ]
+   },
+   "38": {
+    "a": [
+     "prediction"
+    ]
+   },
+   "39": {
+    "a": [
+     "database"
+    ]
+   },
+   "40": {
+    "a": [
+     "trust"
+    ]
+   }
+  }
+ },
+ "reading": {
+  "passages": [
+   {
+    "passage": 1,
+    "range": [
+     1,
+     13
+    ],
+    "pages": [
+     63,
+     64,
+     65,
+     66
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 1–13**, which are based on Reading Passage 1 below.",
+    "title": "Materials to take us beyond concrete",
+    "subtitle": "*Concrete is everywhere, but it's bad for the planet, generating large amounts of carbon dioxide – alternatives are being developed*",
+    "paragraphs": [
+     {
+      "label": "A",
+      "text": "Concrete is the second most used substance in the global economy, after water – and one of the world's biggest single sources of greenhouse gas emissions. The chemical process by which cement, the key ingredient of concrete, is created results in large quantities of carbon dioxide. The UN estimates that there will be 9.8 billion people living on the planet by mid-century. They will need somewhere to live. If concrete is the only answer to the construction of new cities, then carbon emissions will soar, aggravating global warming. And so scientists have started innovating with other materials, in a scramble for alternatives to a universal commodity that has underpinned our modern life for many years."
+     },
+     {
+      "label": "B",
+      "text": "The problem with replacing concrete is that it is so very good at what it does. Chris Cheeseman, an engineering professor at Imperial College London, says the key thing to consider is the extent to which concrete is used around the world, and is likely to continue to be used. 'Concrete is not a high-carbon product. Cement is high carbon, but concrete is not. But it is the scale on which it is used that makes it high carbon. The sheer scale of manufacture is so huge, that is the issue.'"
+     },
+     {
+      "label": "C",
+      "text": "Not only are the ingredients of concrete relatively cheap and found in abundance in most places around the globe, the stuff itself has marvellous properties: Portland cement, the vital component of concrete, is mouldable and pourable, but quickly sets hard. Cheeseman also notes another advantage: concrete and steel have similar thermal expansion properties, so steel can be used to reinforce concrete, making it far stronger and more flexible as a building material than it could be on its own. According to Cheeseman, all these factors together make concrete hard to beat. 'Concrete is amazing stuff. Making anything with similar properties is going to be very difficult.'"
+     },
+     {
+      "label": "D",
+      "text": "A possible alternative to concrete is wood. Making buildings from wood may seem like a rather medieval idea, but climate change is driving architects to turn to treated timber as a possible resource. Recent years have seen the emergence of tall buildings constructed almost entirely from timber. Vancouver, Vienna and Brumunddal in Norway are all home to constructed tall, wooden buildings."
+     },
+     {
+      "label": "E",
+      "text": "Using wood to construct buildings, however, is not straightforward. Wood expands as it absorbs moisture from the air and is susceptible to pests, not to mention fire. But treating wood and combining it with other materials can improve its properties. Cross-laminated timber is engineered wood. An adhesive is used to stick layers of solid-sawn timber together, crosswise, to form building blocks. This material is light but has the strength of concrete and steel. Construction experts say that wooden buildings can be constructed at a greater speed than ones of concrete and steel and the process, it seems, is quieter."
+     },
+     {
+      "label": "F",
+      "text": "Stora Enso is Europe's biggest supplier of cross-laminated timber, and its vice-president Markus Mannström reports that the company is seeing increasing demand globally for building in wood, with climate change concerns the key driver. Finland, with its large forests, where Stora Enso is based, has been leading the way, but the company is seeing a rise in demand for its timber products across the world, including in Asia. Of course, using timber in a building also locks away the carbon that it absorbed as it grew. But even treated wood has its limitations and only when a wider range of construction projects has been proven in practice will it be possible to see wood as a real alternative to concrete in constructing tall buildings."
+     },
+     {
+      "label": "G",
+      "text": "Fly ash and slag from iron ore are possible alternatives to cement in a concrete mix. Fly ash, a byproduct of coal-burning power plants, can be incorporated into concrete mixes to make up as much as 15 to 30% of the cement, without harming the strength or durability of the resulting mix. Iron-ore slag, a byproduct of the iron-ore smelting process, can be used in a similar way. Their incorporation into concrete mixes has the potential to reduce greenhouse gas emissions."
+     },
+     {
+      "text": "But Anna Surgenor, of the UK's Green Building Council, notes that although these waste products can save carbon in the concrete mix, their use is not always straightforward. 'It's possible to replace the cement content in concrete with waste products to lower the overall carbon impact. But there are several calculations that need to be considered across the entire life cycle of the building – these include factoring in where these materials are being shipped from. If they are transported over long distances, using fossil fuels, the use of alternative materials might not make sense from an overall carbon reduction perspective.'"
+     },
+     {
+      "label": "H",
+      "text": "While these technologies are all promising ideas, they are either unproven or based on materials that are not abundant. In their overview of innovation in the concrete industry, Felix Preston and Johanna Lehne of the UK's Royal Institute of International Affairs reached the conclusion that, 'Some novel cements have been discussed for more than a decade within the research community, without breaking through. At present, these alternatives are rarely as cost-effective as conventional cement, and they face raw-material shortages and resistance from customers.'"
+     }
+    ],
+    "groups": [
+     {
+      "id": "R1-1",
+      "type": "matching",
+      "range": [
+       1,
+       4
+      ],
+      "instructions": [
+       "Reading Passage 1 has eight sections, **A–H**.",
+       "Which section contains the following information?",
+       "Write the correct letter, **A–H**, in boxes 1–4 on your answer sheet."
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": ""
+       },
+       {
+        "key": "B",
+        "text": ""
+       },
+       {
+        "key": "C",
+        "text": ""
+       },
+       {
+        "key": "D",
+        "text": ""
+       },
+       {
+        "key": "E",
+        "text": ""
+       },
+       {
+        "key": "F",
+        "text": ""
+       },
+       {
+        "key": "G",
+        "text": ""
+       },
+       {
+        "key": "H",
+        "text": ""
+       }
+      ],
+      "questions": [
+       {
+        "n": 1,
+        "text": "an explanation of the industrial processes that create potential raw materials for concrete"
+       },
+       {
+        "n": 2,
+        "text": "a reference to the various locations where high-rise wooden buildings can be found"
+       },
+       {
+        "n": 3,
+        "text": "an indication of how widely available the raw materials of concrete are"
+       },
+       {
+        "n": 4,
+        "text": "the belief that more high-rise wooden buildings are needed before wood can be regarded as a viable construction material"
+       }
+      ]
+     },
+     {
+      "id": "R1-2",
+      "type": "completion",
+      "range": [
+       5,
+       8
+      ],
+      "instructions": [
+       "Complete the summary below.",
+       "Choose **ONE WORD ONLY** from the passage for each answer.",
+       "Write your answers in boxes 5–8 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Making buildings with wood"
+       },
+       {
+        "t": "p",
+        "text": "Wood is a traditional building material, but current environmental concerns are encouraging {{5}} to use wood in modern construction projects. Using wood, however, has its challenges. For example, as {{6}} in the atmosphere enters wood, it increases in size. In addition, wood is prone to pests and the risk of fire is greater. However, wood can be turned into a better construction material if it is treated and combined with other materials. In one process, {{7}} of solid wood are glued together to create building blocks. These blocks are lighter than concrete and steel but equal them in strength. Experts say that wooden buildings are an improvement on those made of concrete and steel in terms of the {{8}} with which they can be constructed and how much noise is generated by the process."
+       }
+      ]
+     },
+     {
+      "id": "R1-3",
+      "type": "matching",
+      "range": [
+       9,
+       13
+      ],
+      "instructions": [
+       "Look at the following statements (Questions 9–13) and the list of people below.",
+       "Match each statement with the correct person, **A**, **B**, **C** or **D**.",
+       "Write the correct letter, **A**, **B**, **C** or **D**, in boxes 9–13 on your answer sheet.",
+       "**NB** You may use any letter more than once."
+      ],
+      "optionsTitle": "List of People",
+      "reuse": true,
+      "options": [
+       {
+        "key": "A",
+        "text": "Chris Cheeseman"
+       },
+       {
+        "key": "B",
+        "text": "Markus Mannström"
+       },
+       {
+        "key": "C",
+        "text": "Anna Surgenor"
+       },
+       {
+        "key": "D",
+        "text": "Felix Preston and Johanna Lehne"
+       }
+      ],
+      "questions": [
+       {
+        "n": 9,
+        "text": "The environmental advantage of cement alternatives may not be as great as initially assumed."
+       },
+       {
+        "n": 10,
+        "text": "It would be hard to create a construction alternative to concrete that offers so many comparable benefits."
+       },
+       {
+        "n": 11,
+        "text": "Worries about the environment have led to increased interest in wood as a construction material."
+       },
+       {
+        "n": 12,
+        "text": "Expense has been a factor in the negative response to the development of new cements."
+       },
+       {
+        "n": 13,
+        "text": "The environmental damage caused by concrete is due to it being produced in large quantities."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "passage": 2,
+    "range": [
+     14,
+     26
+    ],
+    "pages": [
+     67,
+     68,
+     69,
+     70,
+     71
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 14–26**, which are based on Reading Passage 2 on pages 66 and 67.",
+    "title": "The steam car",
+    "subtitle": "*The successes and failures of the Doble brothers and their steam cars*",
+    "paragraphs": [
+     {
+      "label": "A",
+      "text": "When primitive automobiles first began to appear in the 1800s, their engines were based on steam power. Steam had already enjoyed a long and successful career in the railways, so it was only natural that the technology evolved into a miniaturized version which was separate from the trains. But these early cars inherited steam's weaknesses along with its strengths. The boilers had to be lit by hand, and they required about twenty minutes to build up pressure before they could be driven. Furthermore, their water reservoirs only lasted for about thirty miles before needing replenishment. Despite such shortcomings, these newly designed self-propelled carriages offered quick transportation, and by the early 1900s it was not uncommon to see such machines shuttling wealthy citizens around town."
+     },
+     {
+      "label": "B",
+      "text": "But the glory days of steam cars were few. A new technology called the Internal Combustion Engine soon appeared, which offered the ability to drive down the road just moments after starting up. At first, these noisy gasoline cars were unpopular because they were more complicated to operate and they had difficult hand-crank starters, which were known to break arms when the engines backfired. But in 1912 General Motors introduced the electric starter, and over the following few years steam power was gradually phased out."
+     },
+     {
+      "label": "C",
+      "text": "Even as the market was declining, four brothers made one last effort to rekindle the technology. Between 1906 and 1909, while still attending high school, Abner Doble and his three brothers built their first steam car in their parents' basement. It comprised parts taken from a wrecked early steam car but reconfigured to drive an engine of their own design. Though it did not run well, the Doble brothers went on to build a second and third prototype in the following years. Though the Doble boys' third prototype, nicknamed the Model B, still lacked the convenience of an internal combustion engine, it drew the attention of automobile trade magazines due to its numerous improvements over previous steam cars. The Model B proved to be superior to gasoline automobiles in many ways. Its high-pressure steam drove the engine pistons in virtual silence, in contrast to clattering gas engines which emitted the aroma of burned hydrocarbons. Perhaps most impressively, the Model B was amazingly swift. It could accelerate from zero to sixty miles per hour in just fifteen seconds, a feat described as 'remarkable acceleration' by *Automobile* magazine in 1914."
+     },
+     {
+      "label": "D",
+      "text": "The following year Abner Doble drove the Model B from Massachusetts to Detroit in order to seek investment in his automobile design, which he used to open the General Engineering Company. He and his brothers immediately began working on the Model C, which was intended to expand upon the innovations of the Model B. The brothers added features such as a key-based ignition in the cabin, eliminating the need for the operator to manually ignite the boiler. With these enhancements, the Dobles' new car company promised a steam vehicle which would provide all of the convenience of a gasoline car, but with much greater speed, much simpler driving controls, and a virtually silent powerplant. By the following April, the General Engineering Company had received 5,390 deposits for Doble Detroits, which were scheduled for delivery in early 1918."
+     },
+     {
+      "label": "E",
+      "text": "Later that year Abner Doble delivered unhappy news to those eagerly awaiting the delivery of their modern new cars. Those buyers who received the handful of completed cars complained that the vehicles were sluggish and erratic, sometimes going in reverse when they should go forward. The new engine design, though innovative, was still plagued with serious glitches."
+     },
+     {
+      "label": "F",
+      "text": "The brothers made one final attempt to produce a viable steam automobile. In early 1924, the Doble brothers shipped a Model E to New York City to be road-tested by the Automobile Club of America. After sitting overnight in freezing temperatures, the car was pushed out into the road and left to sit for over an hour in the frosty morning air. At the turn of the key, the boiler lit and reached its operating pressure inside of forty seconds. As they drove the test vehicle further, they found that its evenly distributed weight lent it surprisingly good handling, even though it was so heavy. As the new Doble steamer was further developed and tested, its maximum speed was pushed to over a hundred miles per hour, and it achieved about fifteen miles per gallon of kerosene with negligible emissions."
+     },
+     {
+      "label": "G",
+      "text": "Sadly, the Dobles' brilliant steam car never was a financial success. Priced at around $18,000 in 1924, it was popular only among the very wealthy. Plus, it is said that no two Model Es were quite the same, because Abner Doble tinkered endlessly with the design. By the time the company folded in 1931, fewer than fifty of the amazing Model E steam cars had been produced. For his whole career, until his death in 1961, Abner Doble remained adamant that steam-powered automobiles were at least equal to gasoline cars, if not superior. Given the evidence, he may have been right. Many of the Model E Dobles which have survived are still in good working condition, some having been driven over half a million miles with only normal maintenance. Astonishingly, an unmodified Doble Model E runs clean enough to pass the emissions laws in California today, and they are pretty strict. It is true that the technology poses some difficult problems, but you cannot help but wonder how efficient a steam car might be with the benefit of modern materials and computers. Under the current pressure to improve automotive performance and reduce emissions, it is not unthinkable that the steam car may rise again."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R2-1",
+      "type": "matching",
+      "range": [
+       14,
+       20
+      ],
+      "instructions": [
+       "Reading Passage 2 has seven paragraphs, **A–G**.",
+       "Choose the correct heading for each paragraph from the list of headings below.",
+       "Write the correct number, **i–viii**, in boxes 14–20 on your answer sheet."
+      ],
+      "optionsTitle": "List of Headings",
+      "options": [
+       {
+        "key": "i",
+        "text": "A period in cold conditions before the technology is assessed"
+       },
+       {
+        "key": "ii",
+        "text": "Marketing issues lead to failure"
+       },
+       {
+        "key": "iii",
+        "text": "Good and bad aspects of steam technology are passed on"
+       },
+       {
+        "key": "iv",
+        "text": "A possible solution to the issues of today"
+       },
+       {
+        "key": "v",
+        "text": "Further improvements lead to commercial orders"
+       },
+       {
+        "key": "vi",
+        "text": "Positive publicity at last for this quiet, clean, fast vehicle"
+       },
+       {
+        "key": "vii",
+        "text": "A disappointing outcome for customers"
+       },
+       {
+        "key": "viii",
+        "text": "A better option than the steam car arises"
+       }
+      ],
+      "questions": [
+       {
+        "n": 14,
+        "text": "Paragraph A"
+       },
+       {
+        "n": 15,
+        "text": "Paragraph B"
+       },
+       {
+        "n": 16,
+        "text": "Paragraph C"
+       },
+       {
+        "n": 17,
+        "text": "Paragraph D"
+       },
+       {
+        "n": 18,
+        "text": "Paragraph E"
+       },
+       {
+        "n": 19,
+        "text": "Paragraph F"
+       },
+       {
+        "n": 20,
+        "text": "Paragraph G"
+       }
+      ]
+     },
+     {
+      "id": "R2-2",
+      "type": "choice",
+      "range": [
+       21,
+       23
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B**, **C** or **D**.",
+       "Write the correct letter in boxes 21–23 on your answer sheet."
+      ],
+      "questions": [
+       {
+        "n": 21,
+        "text": "What point does the writer make about the steam car in Paragraph B?",
+        "options": [
+         {
+          "key": "A",
+          "text": "Its success was short-lived."
+         },
+         {
+          "key": "B",
+          "text": "Not enough cars were made."
+         },
+         {
+          "key": "C",
+          "text": "Car companies found them hard to sell."
+         },
+         {
+          "key": "D",
+          "text": "People found them hard to drive."
+         }
+        ]
+       },
+       {
+        "n": 22,
+        "text": "When building their first steam car, the Doble brothers",
+        "options": [
+         {
+          "key": "A",
+          "text": "constructed all the parts themselves."
+         },
+         {
+          "key": "B",
+          "text": "made written notes at each stage of the construction."
+         },
+         {
+          "key": "C",
+          "text": "needed several attempts to achieve a competitive model."
+         },
+         {
+          "key": "D",
+          "text": "sought the advice of experienced people in the car industry."
+         }
+        ]
+       },
+       {
+        "n": 23,
+        "text": "In order to produce the Model C, the Doble brothers",
+        "options": [
+         {
+          "key": "A",
+          "text": "moved production to a different city."
+         },
+         {
+          "key": "B",
+          "text": "raised financial capital."
+         },
+         {
+          "key": "C",
+          "text": "employed an additional worker."
+         },
+         {
+          "key": "D",
+          "text": "abandoned their earlier designs."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "R2-3",
+      "type": "completion",
+      "range": [
+       24,
+       26
+      ],
+      "instructions": [
+       "Complete the summary below.",
+       "Choose **ONE WORD AND/OR A NUMBER** from the passage for each answer.",
+       "Write your answers in boxes 24–26 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "The Model E"
+       },
+       {
+        "t": "p",
+        "text": "The Model E was road-tested in 1924 by the Automobile Club of America. They found it easy to drive, despite its weight, and it impressed the spectators. A later version of the Model E raised its {{24}}, while keeping its emissions extremely low."
+       },
+       {
+        "t": "p",
+        "text": "The steam car was too expensive for many people and its design was constantly being altered. Under {{25}} cars were produced before the company went out of business. However, even today, there are Model Es on the road in the US. They are straightforward to maintain, and they satisfy California's {{26}} emissions laws. Perhaps today's technology and materials would help us revive the steam car."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "passage": 3,
+    "range": [
+     27,
+     40
+    ],
+    "pages": [
+     72,
+     73,
+     74,
+     75,
+     76
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 27–40**, which are based on Reading Passage 3 below.",
+    "title": "The case for mixed-ability classes",
+    "subtitle": null,
+    "paragraphs": [
+     {
+      "text": "Picture this scene. It's an English literature lesson in a UK school, and the teacher has just read an extract from Shakespeare's *Romeo and Juliet* with a class of 15-year-olds. He's given some of the students copies of *No Fear Shakespeare,* a kid-friendly translation of the original. For three students, even these literacy demands are beyond them. Another girl simply can't focus and he gives her pens and paper to draw with. The teacher can ask the *No Fear* group to identify the key characters and maybe provide a tentative plot summary. He can ask most of the class about character development, and five of them might be able to support their statements with textual evidence. Now two curious students are wondering whether Shakespeare advocates living a life of moderation or one of passionate engagement."
+     },
+     {
+      "text": "As a teacher myself, I'd think my lesson would be going rather well if the discussion went as described above. But wouldn't this kind of class work better if there weren't such a huge gap between the top and the bottom? If we put all the kids who needed literacy support into one class, and all the students who want to discuss the virtue of moderation into another?"
+     },
+     {
+      "text": "The practice of 'streaming', or 'tracking', involves separating students into classes depending on their diagnosed levels of attainment. At a macro level, it requires the establishment of academically selective schools for the brightest students, and comprehensive schools for the rest. Within schools, it means selecting students into a 'stream' of general ability, or 'sets' of subject-specific ability. The practice is intuitively appealing to almost every stakeholder."
+     },
+     {
+      "text": "I have heard the mixed-ability model attacked by way of analogy: a group hike. The fittest in the group take the lead and set a brisk pace, only to have to stop and wait every 20 minutes. This is frustrating, and their enthusiasm wanes. Meanwhile, the slowest ones are not only embarrassed but physically struggling to keep up. What's worse, they never get a long enough break. They honestly just want to quit. Hiking, they feel, is not for them."
+     },
+     {
+      "text": "Mixed-ability classes bore students, frustrate parents and burn out teachers. The brightest ones will never summit Mount Qomolangma, and the stragglers won't enjoy the lovely stroll in the park they are perhaps more suited to. Individuals suffer at the demands of the collective, mediocrity prevails. So: is learning like hiking?"
+     },
+     {
+      "text": "The current pedagogical paradigm is arguably that of constructivism, which emerged out of the work of psychologist Lev Vygotsky. In the 1930s, Vygotsky emphasised the importance of targeting a student's specific 'zone of proximal development' (ZPD). This is the gap between what they can achieve only with support – teachers, textbooks, worked examples, parents and so on – and what they can achieve independently. The purpose of teaching is to provide and then gradually remove this 'scaffolding' until they are autonomous. If we accept this model, it follows that streaming students with similar ZPDs would be an efficient and effective solution. And that forcing everyone on the same hike – regardless of aptitude – would be madness."
+     },
+     {
+      "text": "Despite all this, there is limited empirical evidence to suggest that streaming results in better outcomes for students. Professor John Hattie, director of the Melbourne Education Research Institute, notes that 'tracking has minimal effects on learning outcomes'. What is more, streaming appears to significantly – and negatively – affect those students assigned to the lowest sets. These students tend to have much higher representation of low socioeconomic class. Less significant is the small benefit for those lucky clever students in the higher sets. The overall result is that the smart stay smart and the dumb get dumber, further entrenching the social divide."
+     },
+     {
+      "text": "In the latest update of Hattie's influential meta-analysis of factors influencing student achievement, one of the most significant factors is the teachers' estimate of achievement. Streaming students by diagnosed achievement automatically limits what the teacher feels the student is capable of. Meanwhile, in a mixed environment, teachers' estimates need to be more diverse and flexible."
+     },
+     {
+      "text": "While streaming might seem to help teachers effectively target a student's ZPD, it can underestimate the importance of peer-to-peer learning. A crucial aspect of constructivist theory is the role of the MKO – 'more-knowledgeable other' – in knowledge construction. While teachers are traditionally the MKOs in classrooms, the value of knowledgeable student peers must not go unrecognised either."
+     },
+     {
+      "text": "I find it amazing to watch students get over an idea to their peers in ways that I would never think of. They operate with different language tools and different social tools from teachers and, having just learnt it themselves, they possess similar cognitive structures to their struggling classmates. There is also something exciting about passing on skills and knowledge that you yourself have just mastered – a certain pride and zeal, a certain freshness to the interaction between 'teacher' and 'learner' that is often lost by the expert for whom the steps are obvious and the joy of discovery forgotten."
+     },
+     {
+      "text": "Having a variety of different abilities in a collaborative learning environment provides valuable resources for helping students meet their learning needs, not to mention improving their communication and social skills. And today, more than ever, we need the many to flourish – not suffer at the expense of a few bright stars. Once a year, I go on a hike with my class, a mixed bunch of students. It *is* challenging. The fittest students realise they need to encourage the reluctant. There are lookouts who report back, and extra items to carry for others. We make it – together."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R3-1",
+      "type": "choice",
+      "range": [
+       27,
+       30
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B**, **C** or **D**.",
+       "Write the correct letter in boxes 27–30 on your answer sheet."
+      ],
+      "questions": [
+       {
+        "n": 27,
+        "text": "The writer describes the *Romeo and Juliet* lesson in order to demonstrate",
+        "options": [
+         {
+          "key": "A",
+          "text": "how few students are interested in literature."
+         },
+         {
+          "key": "B",
+          "text": "how a teacher handles a range of learning needs."
+         },
+         {
+          "key": "C",
+          "text": "how unsuitable Shakespeare is for most teenagers."
+         },
+         {
+          "key": "D",
+          "text": "how weaker students can disrupt their classmates' learning."
+         }
+        ]
+       },
+       {
+        "n": 28,
+        "text": "What does the writer say about streaming in the third paragraph?",
+        "options": [
+         {
+          "key": "A",
+          "text": "It has a very broad appeal."
+         },
+         {
+          "key": "B",
+          "text": "It favours cleverer students."
+         },
+         {
+          "key": "C",
+          "text": "It is relatively simple to implement."
+         },
+         {
+          "key": "D",
+          "text": "It works better in some schools than others."
+         }
+        ]
+       },
+       {
+        "n": 29,
+        "text": "What idea is suggested by the reference to Mount Qomolangma in the fifth paragraph?",
+        "options": [
+         {
+          "key": "A",
+          "text": "students following unsuitable paths"
+         },
+         {
+          "key": "B",
+          "text": "students attempting interesting tasks"
+         },
+         {
+          "key": "C",
+          "text": "students not achieving their full potential"
+         },
+         {
+          "key": "D",
+          "text": "students not being aware of their limitations"
+         }
+        ]
+       },
+       {
+        "n": 30,
+        "text": "What does the word 'scaffolding' in the sixth paragraph refer to?",
+        "options": [
+         {
+          "key": "A",
+          "text": "the factors which prevent a student from learning effectively"
+         },
+         {
+          "key": "B",
+          "text": "the environment where most of a student's learning takes place"
+         },
+         {
+          "key": "C",
+          "text": "the assistance given to a student in their initial stages of learning"
+         },
+         {
+          "key": "D",
+          "text": "the setting of appropriate learning targets for a student's aptitude"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "R3-2",
+      "type": "completion",
+      "range": [
+       31,
+       35
+      ],
+      "instructions": [
+       "Complete the summary using the list of phrases, **A–I**, below.",
+       "Write the correct letter, **A–I**, in boxes 31–35 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Is streaming effective?"
+       },
+       {
+        "t": "p",
+        "text": "According to Professor John Hattie of the Melbourne Education Research Institute, there is very little indication that streaming leads to {{31}}. He points out that, in schools which use streaming, the most significant impact is on those students placed in the {{32}}, especially where a large proportion of them have {{33}}. Meanwhile, for the {{34}}, there appears to be only minimal advantage. A further issue is that teachers tend to have {{35}} of students in streamed groups."
+       }
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": "wrong classes"
+       },
+       {
+        "key": "B",
+        "text": "lower expectations"
+       },
+       {
+        "key": "C",
+        "text": "average learners"
+       },
+       {
+        "key": "D",
+        "text": "bottom sets"
+       },
+       {
+        "key": "E",
+        "text": "brightest pupils"
+       },
+       {
+        "key": "F",
+        "text": "disadvantaged backgrounds"
+       },
+       {
+        "key": "G",
+        "text": "weaker students"
+       },
+       {
+        "key": "H",
+        "text": "higher achievements"
+       },
+       {
+        "key": "I",
+        "text": "positive impressions"
+       }
+      ]
+     },
+     {
+      "id": "R3-3",
+      "type": "ynng",
+      "range": [
+       36,
+       40
+      ],
+      "instructions": [
+       "Do the following statements agree with the views of the writer in Reading Passage 3?",
+       "In boxes 36–40 on your answer sheet, write",
+       "**YES** if the statement agrees with the views of the writer",
+       "**NO** if the statement contradicts the views of the writer",
+       "**NOT GIVEN** if it is impossible to say what the writer thinks about this"
+      ],
+      "questions": [
+       {
+        "n": 36,
+        "text": "The Vygotsky model of education supports the concept of a mixed-ability class."
+       },
+       {
+        "n": 37,
+        "text": "Some teachers are uncertain about allowing students to take on MKO roles in the classroom."
+       },
+       {
+        "n": 38,
+        "text": "It can be rewarding to teach knowledge which you have only recently acquired."
+       },
+       {
+        "n": 39,
+        "text": "The priority should be to ensure that the highest-achieving students attain their goals."
+       },
+       {
+        "n": 40,
+        "text": "Taking part in collaborative outdoor activities with teachers and classmates can improve student outcomes in the classroom."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "answers": {
+   "1": {
+    "a": [
+     "G"
+    ]
+   },
+   "2": {
+    "a": [
+     "D"
+    ]
+   },
+   "3": {
+    "a": [
+     "C"
+    ]
+   },
+   "4": {
+    "a": [
+     "F"
+    ]
+   },
+   "5": {
+    "a": [
+     "architects"
+    ]
+   },
+   "6": {
+    "a": [
+     "moisture"
+    ]
+   },
+   "7": {
+    "a": [
+     "layers"
+    ]
+   },
+   "8": {
+    "a": [
+     "speed"
+    ]
+   },
+   "9": {
+    "a": [
+     "C"
+    ]
+   },
+   "10": {
+    "a": [
+     "A"
+    ]
+   },
+   "11": {
+    "a": [
+     "B"
+    ]
+   },
+   "12": {
+    "a": [
+     "D"
+    ]
+   },
+   "13": {
+    "a": [
+     "A"
+    ]
+   },
+   "14": {
+    "a": [
+     "iii"
+    ]
+   },
+   "15": {
+    "a": [
+     "viii"
+    ]
+   },
+   "16": {
+    "a": [
+     "vi"
+    ]
+   },
+   "17": {
+    "a": [
+     "v"
+    ]
+   },
+   "18": {
+    "a": [
+     "vii"
+    ]
+   },
+   "19": {
+    "a": [
+     "i"
+    ]
+   },
+   "20": {
+    "a": [
+     "iv"
+    ]
+   },
+   "21": {
+    "a": [
+     "A"
+    ]
+   },
+   "22": {
+    "a": [
+     "C"
+    ]
+   },
+   "23": {
+    "a": [
+     "B"
+    ]
+   },
+   "24": {
+    "a": [
+     "speed"
+    ]
+   },
+   "25": {
+    "a": [
+     "fifty",
+     "50"
+    ],
+    "k": "fifty / 50"
+   },
+   "26": {
+    "a": [
+     "strict"
+    ]
+   },
+   "27": {
+    "a": [
+     "B"
+    ]
+   },
+   "28": {
+    "a": [
+     "A"
+    ]
+   },
+   "29": {
+    "a": [
+     "C"
+    ]
+   },
+   "30": {
+    "a": [
+     "C"
+    ]
+   },
+   "31": {
+    "a": [
+     "H"
+    ]
+   },
+   "32": {
+    "a": [
+     "D"
+    ]
+   },
+   "33": {
+    "a": [
+     "F"
+    ]
+   },
+   "34": {
+    "a": [
+     "E"
+    ]
+   },
+   "35": {
+    "a": [
+     "B"
+    ]
+   },
+   "36": {
+    "a": [
+     "NO"
+    ]
+   },
+   "37": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "38": {
+    "a": [
+     "YES"
+    ]
+   },
+   "39": {
+    "a": [
+     "NO"
+    ]
+   },
+   "40": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   }
+  }
+ },
+ "writing": {
+  "tasks": [
+   {
+    "task": 1,
+    "minutes": 20,
+    "minWords": 150,
+    "pages": [
+     77
+    ],
+    "prompt": [
+     "The diagram below shows the floor plan of a public library 20 years ago and how it looks now.",
+     "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+    ],
+    "image": "images/C18/C18-T3-W1.png",
+    "sample": {
+     "kind": "model",
+     "band": null,
+     "text": "The diagrams show Central Library before and after changes were made to its layout.\n\nClearly, the library has been updated to include dedicated spaces for events and now has an open space in the centre.\n\nTwenty years ago, to the left of the entrance there was a reading room with newspapers and magazines and to the right there was an enquiry desk. Now there's a computer room on the left and a café where the information desk once was. Adult fiction has moved to the right-hand side of the room and all reference books are now on the left. There is a smaller information desk with self-service machines in what once was the adult non-fiction section.\n\nThere was a room at the back left-hand corner that had computer games, CDs and videos that has since been enlarged and houses children's fiction. It has a space with two sofas where storytelling events are held. There is a lecture room in the back right-hand corner where children's books used to be.",
+     "comment": "This response covers the main changes that have occurred over the 20-year period. An overview is presented in the second paragraph which is quite general: it refers to the [*dedicated spaces for events*] but this could be improved by giving a summary of the key changes (dedicated spaces for events, self-service facilities and a café).\n\nIdeas are arranged logically: the changes to the front of the library are presented in the third paragraph and the changes to the back section in the final paragraph. This shows a logical approach to reporting the changes and there is some good cohesion [*once was* | *now on the left* | *has since been*].\n\nThere is a good range of vocabulary. In this kind of task, vocabulary from the floor plan needs to be used to report the changes, but the use of different words shows some flexibility and precision [*been updated* | *dedicated spaces* | *houses*].\n\nIn terms of grammar, there are error-free sentences and some variation in structures used when describing changes [*has been updated* | *what once was* | *has since been enlarged*].\n\nThe response could be improved by extending the overview to include more of a summary of the main changes but overall, this response captures the main changes in a logical way."
+    }
+   },
+   {
+    "task": 2,
+    "minutes": 40,
+    "minWords": 250,
+    "pages": [
+     78
+    ],
+    "prompt": [
+     "Write about the following topic:",
+     "*In many countries around the world, rural people are moving to cities, so the population in the countryside is decreasing.*",
+     "*Do you think this is a positive or a negative development?*",
+     "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+    ],
+    "sample": {
+     "kind": "model",
+     "band": null,
+     "text": "Statistics show that the world's population is increasing rapidly. It is expected that most of us will be living in cities within the next few decades. The question of whether urbanisation is a positive or negative development remains controversial.\n\nA rapid influx of people moving from rural to urban areas is bound to cause problems. Firstly, pressure on resources such as housing and transportation intensifies. It is becoming difficult for many people to afford adequate housing in cities. A by-product of this is the creation of slums causing low-income families to group together in neglected parts of the city. These people often become trapped in a cycle of poverty that is difficult to escape.\n\nAs mentioned above, the growth of urban areas can also lead to severe traffic congestion because more and more vehicles travel into the city from the suburbs. This has many knock-on effects, such as problems with air quality. It also leads many city dwellers to experience mental health issues because travelling across large cities is tiring and stressful.\n\nAll of this being said, I don't believe that urbanisation is a wholly negative development. There are advantages to living in large cities that are well managed. For example, there are more schools which means more education opportunities. Access to higher-quality health care is often better in cities. Some cities have also introduced ride-sharing, e-bikes and park and ride services that reduce environmental problems.\n\nMy opinion is that many of the problems associated with urbanisation are avoidable but dealing with increasing populations in cities is a formidable challenge. How governments, businesses and society respond to this challenge will dramatically affect the future of our world.",
+     "comment": "This response addresses both sides of the question and presents a position, that the movement to cities is not a [*wholly negative development*]. The second and third paragraphs lay out the problems that can be caused by a [*rapid influx*] of people to urban areas [*housing* | *transportation* | *traffic congestion*] and the fourth paragraph presents some of the advantages [*education opportunities* | *higher-quality health care* | *environmental transport initiatives*].\n\nHowever, the part of the question about 'the population in the countryside... decreasing' is not covered. The candidate would need to include it to provide a full answer to this question.\n\nInformation and ideas are logically organised and there is a clear progression, starting with the challenges and ending with a range of advantages.\n\nVocabulary is used with a natural and sophisticated control [*bound to* | *trapped in a cycle of poverty* | *severe traffic congestion* | *knock-on effects*], although rare errors remain [*education opportunities* / educational opportunities]. Grammar is flexible and accurate, with a wide range of structures included. There are some shorter sentences which could be extended and more multi-clause examples could be included to add complexity.\n\nTo improve this response, consideration should be given to the impact of the shrinking population in the countryside."
+    }
+   }
+  ]
+ },
+ "issues": []
+}

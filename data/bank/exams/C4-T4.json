@@ -1,0 +1,1718 @@
+{
+ "schema": "ielts-mock.exam/1",
+ "id": "C4-T4",
+ "source": {
+  "book": 4,
+  "test": 4
+ },
+ "title": "Cambridge IELTS 4 · Test 4",
+ "listening": {
+  "parts": [
+   {
+    "part": 1,
+    "range": [
+     1,
+     10
+    ],
+    "pages": [
+     81
+    ],
+    "groups": [
+     {
+      "id": "L1-1",
+      "type": "completion",
+      "range": [
+       1,
+       10
+      ],
+      "instructions": [
+       "Complete the notes below.",
+       "Write **NO MORE THAN THREE WORDS AND/OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "GOODBYE PARTY FOR JOHN"
+       },
+       {
+        "t": "note",
+        "text": "*Example*"
+       },
+       {
+        "t": "p",
+        "text": "Date: *22nd December*"
+       },
+       {
+        "t": "p",
+        "text": "Venue: {{1}}"
+       },
+       {
+        "t": "sub",
+        "text": "*Invitations (Tony)*"
+       },
+       {
+        "t": "p",
+        "text": "Who to invite:"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "– John and his wife"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "– Director"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "– the {{2}}"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "– all the teachers"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "– all the {{3}}"
+       },
+       {
+        "t": "p",
+        "text": "Date for sending invitations: {{4}}"
+       },
+       {
+        "t": "sub",
+        "text": "*Present (Lisa)*"
+       },
+       {
+        "t": "p",
+        "text": "Collect money during the {{5}}"
+       },
+       {
+        "t": "p",
+        "text": "Suggested amount per person: $ {{6}}"
+       },
+       {
+        "t": "p",
+        "text": "Check prices for:"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "– CD players"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "– {{7}}"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "– coffee maker"
+       },
+       {
+        "t": "p",
+        "text": "Ask guests to bring:"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "– snacks"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "– {{8}}"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "– {{9}}"
+       },
+       {
+        "t": "p",
+        "text": "Ask student representative to prepare a {{10}}"
+       }
+      ]
+     }
+    ],
+    "transcript": "LISA: Hi Tony, thanks ever so much for coming. You know we've been asked to organise something for John's farewell?\nTONY: Yeah, sure, it's about time we started working out details.\nLISA: Exactly. We don't want to leave it so late that it's double the work.\nTONY: Mmm, mm, right, do you want me to take notes?\nLISA: That'd be great, thanks.\nTONY: Right, first thing is, when is the best time to hold it?\nLISA: Well, he leaves on the twenty-fourth of December.\nTONY: So what about the twenty-second?\nLISA: Yeah, I think that's about right. We want it quite near the time, don't we?\nTONY: Sure, and what about a venue? In college? A hotel?\nLISA: I think a hotel will probably work out rather expensive, and I've been looking at the College Dining Room; that seems pretty reasonable. [Q1]\nTONY: Fine, yeah, why not?\nLISA: And then we ought to be thinking about invitations... Who mustn't we forget to invite?\nTONY: Well, obviously John and his wife.\nLISA: Right.\nTONY: And the Director.\nLISA: Ah ha.\nTONY: The office staff. [Q2]\nLISA: Yep, and all the teachers and all the students. [Q3]\nTONY: Anyone else?\nLISA: Faculty Heads?\nTONY: No, better draw the line, I don't think it's necessary.\nLISA: Yeah, you're right.\nTONY: I don't mind writing the invitations. When shall we get them out for?\nLISA: Enough time but not too early. What about the fifteenth of December?\nTONY: Well, there are exams on the sixteenth – better avoid them.\nLISA: Tenth? [Q4]\nTONY: Yeah, that should do it.\nLISA: So what does that leave? Oh yes, a present.\nTONY: Would you mind doing that?\nLISA: No, not at all; we usually go round with an envelope during coffee break, [Q5] don't we?\nTONY: Yeah, coffee break's always the best time, 'cos people have got their money handy.\nLISA: Yeah, exactly. Do we suggest an amount? Or does it seem a bit unfair?\nTONY: No, I think people welcome it. We suggested six dollars last time, is that OK? [Q6]\nLISA: Yeah, plenty I would have thought, which should leave us with about ninety dollars.\nTONY: Have you any ideas for presents?\nLISA: Well, I've been having a little think. I thought, you know, he loves music.\nTONY: Yeah, and books.\nLISA: So, I thought I'd check on prices for, well, perhaps CD players.\nTONY: Yeah, that's a, that's a good idea, and also I thought maybe, you know, a set of [Q7] dictionaries. I heard him say he needed a good one.\nLISA: The other thing he was saying last week was that his computer printer had broken.\nTONY: Umm. No, I'd be really frightened about getting the wrong type.\nLISA: OK, yeah.\nTONY: The other thing is something for the home – Jill suggested a coffee maker.\nLISA: Oh yeah. I'll certainly find out what they cost. OK, have you got all that down?\nTONY: Yes.\nLISA: Now we need to think a little more about the money. I know we've got a set amount from the Social Fund.\nTONY: Right, what does that cover?\nLISA: It's meant to cover the cost of the room.\nTONY: Yeah.\nLISA: And a certain amount for food.\nTONY: And also drinks?\nLISA: Oh yeah, certainly.\nTONY: But will it be enough?\nLISA: What we've done in the past is to ask guests to bring some snacks.\nTONY: Right.\nLISA: We don't ask them to bring more drinks because we figure that's... that should come from the Social Fund.\nTONY: OK. Anything else for the guests to bring?\nLISA: Well, some music, because there'll be a tape deck there in the room, and we can [Q8] have some dancing later on.\nTONY: Anything else?\nLISA: Well, it's just a thought, but a couple of years ago we had a really good party where we set up, you know, some simple games.\nTONY: Yeah, great. Wasn't it based on photos from the students and teachers?\nLISA: That's right.\nTONY: So we should ask the guests to bring photos. OK. I'll put it on the invitations. [Q9]\nLISA: Now the last thing is, who shall we ask to do the speech? [Q10]\nTONY: Don't you think it might be nice to have one of the students?\nLISA: Well then, the Student Leader?\nTONY: Yeah, much better than the Director giving speeches again.\nLISA: OK then, I'll ask her. Lovely! So, is that all?\nTONY: Looks like it.\nLISA: Great. Thanks ever so much... (fade out)"
+   },
+   {
+    "part": 2,
+    "range": [
+     11,
+     20
+    ],
+    "pages": [
+     82,
+     83
+    ],
+    "groups": [
+     {
+      "id": "L2-1",
+      "type": "choice",
+      "range": [
+       11,
+       15
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B** or **C**."
+      ],
+      "questions": [
+       {
+        "n": 11,
+        "text": "To find out how much holidays cost, you should press button",
+        "options": [
+         {
+          "key": "A",
+          "text": "one."
+         },
+         {
+          "key": "B",
+          "text": "two."
+         },
+         {
+          "key": "C",
+          "text": "three."
+         }
+        ]
+       },
+       {
+        "n": 12,
+        "text": "Travelite currently offer walking holidays",
+        "options": [
+         {
+          "key": "A",
+          "text": "only in Western Europe."
+         },
+         {
+          "key": "B",
+          "text": "all over Europe."
+         },
+         {
+          "key": "C",
+          "text": "outside Europe."
+         }
+        ]
+       },
+       {
+        "n": 13,
+        "text": "The walks offered by Travelite",
+        "options": [
+         {
+          "key": "A",
+          "text": "cater for a range of walking abilities."
+         },
+         {
+          "key": "B",
+          "text": "are planned by guides from the local area."
+         },
+         {
+          "key": "C",
+          "text": "are for people with good fitness levels."
+         }
+        ]
+       },
+       {
+        "n": 14,
+        "text": "On Travelite holidays, people holidaying alone pay",
+        "options": [
+         {
+          "key": "A",
+          "text": "the same as other clients."
+         },
+         {
+          "key": "B",
+          "text": "only a little more than other clients."
+         },
+         {
+          "key": "C",
+          "text": "extra only if they stay in a large room."
+         }
+        ]
+       },
+       {
+        "n": 15,
+        "text": "Entertainment is provided",
+        "options": [
+         {
+          "key": "A",
+          "text": "when guests request it."
+         },
+         {
+          "key": "B",
+          "text": "most nights."
+         },
+         {
+          "key": "C",
+          "text": "every night."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L2-2",
+      "type": "completion",
+      "range": [
+       16,
+       20
+      ],
+      "instructions": [
+       "Complete the table below.",
+       "Write **NO MORE THAN THREE WORDS AND/OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "table",
+        "header": 1,
+        "rows": [
+         [
+          "Length of holiday",
+          "Cost per person (including all accommodation costs)",
+          "Special offers included in price"
+         ],
+         [
+          "3 days",
+          "$ {{16}}",
+          "Pick up from the {{17}}"
+         ],
+         [
+          "7 days",
+          "$350",
+          "As above plus\n• book of {{18}}\n• maps"
+         ],
+         [
+          "14 days",
+          "$ {{19}}",
+          "As above plus membership of a {{20}}"
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    "transcript": "SPEAKER 1: Thank you for calling the free Travelite Travel Agency Information Line. You will not be charged for this call.\nIn order to deal with all calls effectively, we offer you a number of options. Please listen carefully and press your required number at the appropriate time, or dial a new number.\nIf you want to hear about special offers, please press one. If you want to hear our latest price lists, please press two. If you want to make a complaint, [Q11] please press three. If you want information about our new walking holidays, please press four now.\nSPEAKER 2: Thank you for calling our Travelite Walking Holidays Line. We have been offering a wide variety of walking holidays to suit all tastes for just three years, but already we have won two awards for excellence in this field. We offer guided walking tours to suit the discerning traveller in twelve different centres throughout the whole of Western Europe. We are planning to open [Q12] our first centre outside this area in the coming year, so watch out for developments.\nBut the pride of Travelite is the level of guidance and support we offer on our walks. All are planned in detail by our highly trained guides, who all work in a variety of different Travelite locations, so we can guarantee standards. Each day we offer three separate walks catering for all skills and [Q13] fitness levels.\nWe also pride ourselves on our friendly service, particularly important for the increasing numbers of people who choose to holiday alone. Unlike almost all travel operators who happily charge large supplements for single rooms, we guarantee that no single client will pay more, even when only [Q14] double rooms are available for them. And the day doesn't end with the return to base... after our dinner at communal tables designed to make all our guests feel part of a family atmosphere ... Entertainment is laid on nearly every night with tour leaders on hand to organise lectures, games, [Q15] quizzes and respond to any special requests from guests.\nThe following is a summary of costs and special inclusive offers on holidays for the coming summer. We have three lengths of holiday: three-day, seven-day and fourteen-day. The three-day holiday costs one hundred and eighty [Q16] dollars for all accommodation, food and walking, and for the first time this year we are including in that price... the cost of picking you up from the nearest station. The seven-day holiday costs three hundred and fifty dollars [Q17] per person and, as well as including the offers of the three-day holiday, also includes a magnificent book giving the local history. On top of that, we are [Q18] able to include free maps ...for you to better enjoy the walking and even plan in advance, if you wish.\nFor the fourteen-day holiday, our special price is six hundred and ninety [Q19] dollars per person and that includes all the offers for the three- and seven-day holidays plus... membership of a local walking club... so you can [Q20] better enjoy the full flavour of the local life.\nFor further information, please contact your local travel agent. Thank you for calling the Travelite Travel Agency Information Line... (fade out)"
+   },
+   {
+    "part": 3,
+    "range": [
+     21,
+     30
+    ],
+    "pages": [
+     84,
+     85
+    ],
+    "groups": [
+     {
+      "id": "L3-1",
+      "type": "completion",
+      "range": [
+       21,
+       26
+      ],
+      "instructions": [
+       "Complete the table below.",
+       "Write **NO MORE THAN THREE WORDS AND/OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "table",
+        "header": 1,
+        "rows": [
+         [
+          "Experiment number",
+          "Equipment",
+          "Purpose"
+         ],
+         [
+          "**Experiment 1**",
+          "{{21}}\nand a table",
+          "To show how things move on a cushion of air"
+         ],
+         [
+          "**Experiment 2**",
+          "Lots of paperclips",
+          "To show why we need standard\n{{22}}"
+         ],
+         [
+          "**Experiment 3**",
+          "{{23}}\nand a jar of water",
+          "To show how\n{{24}}\ngrow"
+         ],
+         [
+          "**Experiment 4**",
+          "Cardboard, coloured pens and a\n{{25}}",
+          "To teach children about\nhow {{26}}\nis made up"
+         ],
+         [
+          "**Experiment 5**",
+          "A drill, an old record, a pin/needle, paper, a bolt",
+          "To make a record player in order to learn about recording sound"
+         ]
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L3-2",
+      "type": "matching",
+      "range": [
+       27,
+       30
+      ],
+      "instructions": [
+       "What problems do the speakers identify for each experiment?",
+       "Choose your answers from the box and write the letters **A–H** next to questions 27–30.",
+       "Example: Experiment 4 – F"
+      ],
+      "optionsTitle": "Problems",
+      "options": [
+       {
+        "key": "A",
+        "text": "too messy"
+       },
+       {
+        "key": "B",
+        "text": "too boring"
+       },
+       {
+        "key": "C",
+        "text": "too difficult"
+       },
+       {
+        "key": "D",
+        "text": "too much equipment"
+       },
+       {
+        "key": "E",
+        "text": "too long"
+       },
+       {
+        "key": "F",
+        "text": "too easy"
+       },
+       {
+        "key": "G",
+        "text": "too noisy"
+       },
+       {
+        "key": "H",
+        "text": "too dangerous"
+       }
+      ],
+      "questions": [
+       {
+        "n": 27,
+        "text": "Experiment 1:"
+       },
+       {
+        "n": 28,
+        "text": "Experiment 2:"
+       },
+       {
+        "n": 29,
+        "text": "Experiment 3:"
+       },
+       {
+        "n": 30,
+        "text": "Experiment 5:"
+       }
+      ]
+     }
+    ],
+    "transcript": "MIKE: Hi Sue.\nSUE: Hi Mike, so what happened to you last week?\nMIKE: Oh, I was sick with the flu. What's this I hear about a big assignment we've got to do?\nSUE: Well, basically, we've got to find two science experiments to do with a group of eight-year-old children at the local primary school, and we've got to complete it by the end of the week.\nMIKE: Oh, that sounds like hard work. Where are we supposed to get the ideas for these experiments from?\nSUE: Well, I managed to get hold of two books from the library.\nMIKE: Oh, well done!\nSUE: How about if we take a look at the experiments in this book first and see if anything looks suitable? I can make notes as we go, about equipment and the purpose of the experiments.\nMIKE: OK, let's see, um, the first experiment is called 'Make your own hovercraft', which sounds very ambitious! Mind you, you only need twenty balloons and a table – you [Q21] don't need any special engines or anything like that!\nSUE: What do you do with it all?\nMIKE: Er, you blow up the balloons and you balance the table on them, upside down of course, and the kids get to ride around on it. You know, the other kids sort of push them around the room. The main purpose is to show how hovercrafts work, and how things hover around on just a cushion of air.\nSUE: OK, that doesn't sound too bad.\nMIKE: OK, ready for number two?\nSUE: Uh – huh.\nMIKE: Now this one is called 'Unusual Measures of Lengths', and you basically use lots of paperclips. The kids go around the class measuring things – you know, how long the desk is, and that sort of thing, um, and then they all compare their answers. Er, and, basically, because not all paperclips are the same lengths, they should come up with some strange answers. It's supposed to demonstrate the importance of having fixed units of measurement. [Q22]\nSUE: Hmm, yes, that's not bad.\nMIKE: OK, now for number three you need rock salt or copper sulphate. [Q23]\nSUE: Oh, I'm not sure about that!\nMIKE: Well, just put down the rock salt then, um, apart from that you only need a jar of water. Um, and basically you dissolve lots of salt into the water and watch the crystals form, so it basically teaches the kids about growing crystals. [Q24]\nSUE: I suppose it would be nice to grow something. Hmm, let's move on and have a look at number four.\nMIKE: OK, this one is called 'Spinning colour wheel'. It looks like you get some cardboard and draw a circle on it, divide it into six equal segments and colour each one in using different colours, then you thread a piece of string through the [Q25] middle.\nSUE: So we'd need some string as well.\nMIKE: Yes, sorry ... um... and you spin the wheel around and if you can get it spinning fast enough, hopefully the colours all merge and show up as white.\nSUE: Oh, I didn't know that. What's the principle behind it?\nMIKE: Well it's pretty elementary physics, really. It teaches them about how white light or [Q26] ordinary light is made up.\nSUE: Hmm, well that doesn't sound too bad. Now there's only one more left in this book isn't there? What does that one say?\nMIKE: Um, well it's another one where they'd get to make something.\nSUE: Sounds very interesting.\nMIKE: You need quite a lot of equipment actually – a hand drill, an old record, a pin or needle, some paper and a bolt.\n\nSUE: Hmm, go on, what do they have to do?\nMIKE: Well, they basically make a record player. The main idea is to teach them about recording sound, but hopefully they'd also see that you need motion and an amplifier to make the sound heard.\nSUE: OK, well it does sound interesting. Shall we go through all of those again and decide if any of them are going to be suitable?\nMIKE: Right, number one. I thought this one sounded nice: there'd be lots of activity and it doesn't need too much in the way of equipment.\nSUE: Yes, that's true, but don't you think it's a bit risky to get a group of eight-year-olds [Q27] pushing each other around a classroom like that? Someone could get hurt. No, I don't like the sound of that one at all!\nMIKE: Maybe you're right.\nSUE: What about number two, with the paperclips? It sounds tame enough.\nMIKE: Yes, a bit too tame if you ask me. I think it needs to be something a bit more [Q28] active and interesting than that, don't you?\nSUE: Yes, I suppose you're right. We won't get a very good mark if the children don't actually enjoy the experiments, and I suppose we could turn them off science for good! Well, what about the next one, number three?\nMIKE: Now, I quite like the idea of this one.\nSUE: Yes, so do I, but I seem to remember when we did it at high school we had to wait [Q29] up to a fortnight before we saw any halfway decent results.\nMIKE: Oh, yes well, that won't be any good then. We'll only see the kids for one or two hours at the most.\nSUE: Yes, and we have to do the experiments and write up our results within a week, so that one won't do at all.\nMIKE: OK, well, what did you think of number four?\nSUE: I like the idea of it, but do you think it will be a bit elementary for them?\nMIKE: Well they are only eight you know!\nSUE: I know, but you know what I mean. Don't you think the activity itself is a bit babyish?\nMIKE: Hmm, maybe you're right.\nSUE: They might have fun but, I mean, cutting out a circle and colouring it in?\nMIKE: OK, well, what about number five?\nSUE: I thought this one sounded a bit too good to be true – great equipment!\nMIKE: Yeah.\nSUE: But don't you think it's a bit ambitious for this age group? I mean, I don't want to [Q30] start off something and then have to abandon it if they just can't cope with it. I could see us ending up doing just about all of the work for them.\nMIKE: I guess you're right. Oh well, maybe we could store that idea away for later.\nSUE: Yep, let's hope this second book has something better!"
+   },
+   {
+    "part": 4,
+    "range": [
+     31,
+     40
+    ],
+    "pages": [
+     86,
+     87
+    ],
+    "groups": [
+     {
+      "id": "L4-1",
+      "type": "completion",
+      "range": [
+       31,
+       34
+      ],
+      "instructions": [
+       "Complete the notes below.",
+       "Write **NO MORE THAN THREE WORDS AND/OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Sharks in Australia"
+       },
+       {
+        "t": "table",
+        "header": 0,
+        "rows": [
+         [
+          "**Length**",
+          "largest caught: 16 metres"
+         ],
+         [
+          "**Weight**",
+          "heaviest: {{31}} kg"
+         ],
+         [
+          "**Skeleton**",
+          "cartilage"
+         ],
+         [
+          "**Skin texture**",
+          "rough barbs"
+         ],
+         [
+          "**Swimming aids**",
+          "fins and {{32}}"
+         ],
+         [
+          "**Food**",
+          "gathered from the ocean {{33}}\nsharks locate food by using their {{34}}"
+         ]
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L4-2",
+      "type": "choice",
+      "range": [
+       35,
+       38
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B** or **C**."
+      ],
+      "questions": [
+       {
+        "n": 35,
+        "text": "Shark meshing uses nets laid",
+        "options": [
+         {
+          "key": "A",
+          "text": "along the coastline."
+         },
+         {
+          "key": "B",
+          "text": "at an angle to the beach."
+         },
+         {
+          "key": "C",
+          "text": "from the beach to the sea."
+         }
+        ]
+       },
+       {
+        "n": 36,
+        "text": "Other places that have taken up shark meshing include",
+        "options": [
+         {
+          "key": "A",
+          "text": "South Africa."
+         },
+         {
+          "key": "B",
+          "text": "New Zealand."
+         },
+         {
+          "key": "C",
+          "text": "Tahiti."
+         }
+        ]
+       },
+       {
+        "n": 37,
+        "text": "The average number of sharks caught in nets each year is",
+        "options": [
+         {
+          "key": "A",
+          "text": "15."
+         },
+         {
+          "key": "B",
+          "text": "150."
+         },
+         {
+          "key": "C",
+          "text": "1,500."
+         }
+        ]
+       },
+       {
+        "n": 38,
+        "text": "Most sharks are caught in",
+        "options": [
+         {
+          "key": "A",
+          "text": "spring."
+         },
+         {
+          "key": "B",
+          "text": "summer."
+         },
+         {
+          "key": "C",
+          "text": "winter."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L4-3",
+      "type": "multi",
+      "range": [
+       39,
+       40
+      ],
+      "n": [
+       39,
+       40
+      ],
+      "select": 2,
+      "instructions": [
+       "Choose **TWO** letters **A–G**."
+      ],
+      "text": "Which **TWO** factors reduce the benefits of shark nets?",
+      "options": [
+       {
+        "key": "A",
+        "text": "nets wrongly positioned"
+       },
+       {
+        "key": "B",
+        "text": "strong waves and currents"
+       },
+       {
+        "key": "C",
+        "text": "too many fish"
+       },
+       {
+        "key": "D",
+        "text": "sharks eat holes in nets"
+       },
+       {
+        "key": "E",
+        "text": "moving sands"
+       },
+       {
+        "key": "F",
+        "text": "nets too short"
+       },
+       {
+        "key": "G",
+        "text": "holes in nets scare sharks"
+       }
+      ]
+     }
+    ],
+    "transcript": "Today we're going to look at one of my favourite fish – the shark. As you know, sharks have a reputation for being very dangerous creatures capable of injuring or killing humans, and I'd like to talk about sharks in Australia.\nSharks are rather large fish, often growing to over ten metres and the longest sharks caught in Australia have reached sixteen metres. Sharks vary in weight with size and breed, of course, but the heaviest shark caught in Australia was a White Pointer – that weighed seven hundred and ninety-five kilograms – quite a size! Sharks have a different structure to [Q31] most fish: instead of a skeleton made of bone, they have a tough elastic skeleton of cartilage. Unlike bone, this firm, pliable material is rather like your nose, and allows the shark to bend easily as it swims. The shark's skin isn't covered with scales, like other fish: instead the skin's covered with barbs, giving it a rough texture like sandpaper. As you know, sharks are very quick swimmers. This is made possible by their fins, one set at the side and another set underneath the body, and the tail also helps the shark move forward quickly. [Q32]\nUnlike other fish, sharks have to keep swimming if they want to stay at a particular depth, and they rarely swim at the surface. Mostly, they swim at the bottom of the ocean, scavenging and picking up food that's lying on the ocean floor. While most other animals, [Q33] including fish, hunt their prey by means of their eyesight, sharks hunt essentially by smell. They have a very acute sense of smell – and can sense the presence of food long before they [Q34] can see it.\nIn Australia, where people spend a lot of time at the beach, the government has realised that it must prevent sharks from swimming near its beaches. As a result, they've introduced a beach-netting program. Beach-netting, or meshing, involves setting large nets parallel to [Q35] the shore; this means that the nets on New South Wales beaches are set on one day, and then lifted and taken out to sea on the next day. When shark-netting first began in 1939, only the Sydney metropolitan beaches were meshed – these beaches were chosen because beaches near the city are usually the most crowded with swimmers. Ten years later, in 1949, systematic meshing was extended to include the beaches to the south of Sydney. As a result of the general success of the program in Sydney, shark-meshing was introduced to the state of Queensland around 1970. The New Zealand authorities also looked at it, but considered meshing uneconomical – as did Tahiti in the Pacific. At around the same time, South Africa [Q36] introduced meshing to some of its most popular swimming beaches.\nWhen meshing began, approximately fifteen hundred sharks were caught in the first year. However, this declined in the years that followed, and since that time, the average annual catch has been only about a hundred and fifty a year. The majority of sharks are caught [Q37] during the warmest months, from November to February, when sharks are most active and [Q38] when both the air and the ocean are at their maximum temperature.\nDespite quite large catches, some people believe that shark meshing is not the best way to catch sharks. It's not that they think sharks are afraid of nets, or because they eat holes in them, because neither of these is true. But meshing does appear to be less effective than some other methods, especially when there are big seas with high rolling waves and strong [Q39] currents and anything that lets the sand move – the sand that's holding the nets down. [Q40] When this moves the nets will also become less effective."
+   }
+  ],
+  "answers": {
+   "1": {
+    "a": [
+     "College Dining Room"
+    ]
+   },
+   "2": {
+    "a": [
+     "office staff"
+    ]
+   },
+   "3": {
+    "a": [
+     "students"
+    ]
+   },
+   "4": {
+    "a": [
+     "10th December"
+    ]
+   },
+   "5": {
+    "a": [
+     "coffee break",
+     "coffee breaks"
+    ],
+    "k": "coffee break / coffee breaks"
+   },
+   "6": {
+    "a": [
+     "6"
+    ]
+   },
+   "7": {
+    "a": [
+     "set of dictionaries",
+     "dictionaries",
+     "a good dictionary"
+    ],
+    "k": "set of dictionaries / dictionaries / a good dictionary"
+   },
+   "8": {
+    "a": [
+     "some music",
+     "music",
+     "some music tapes",
+     "music tapes",
+     "some tapes",
+     "tapes"
+    ],
+    "k": "(some) music / (some) music tapes / (some) tapes"
+   },
+   "9": {
+    "a": [
+     "photos",
+     "photographs"
+    ],
+    "k": "photos / photographs"
+   },
+   "10": {
+    "a": [
+     "speech"
+    ]
+   },
+   "11": {
+    "a": [
+     "B"
+    ]
+   },
+   "12": {
+    "a": [
+     "A"
+    ]
+   },
+   "13": {
+    "a": [
+     "A"
+    ]
+   },
+   "14": {
+    "a": [
+     "A"
+    ]
+   },
+   "15": {
+    "a": [
+     "B"
+    ]
+   },
+   "16": {
+    "a": [
+     "180"
+    ]
+   },
+   "17": {
+    "a": [
+     "nearest station"
+    ]
+   },
+   "18": {
+    "a": [
+     "local history"
+    ]
+   },
+   "19": {
+    "a": [
+     "690"
+    ]
+   },
+   "20": {
+    "a": [
+     "walking club",
+     "local walking club"
+    ],
+    "k": "walking club / local walking club"
+   },
+   "21": {
+    "a": [
+     "20 balloons"
+    ]
+   },
+   "22": {
+    "a": [
+     "units of measurement",
+     "measurements",
+     "measurement units"
+    ],
+    "k": "units of measurement / measurements / measurement units"
+   },
+   "23": {
+    "a": [
+     "rock salt",
+     "salt"
+    ],
+    "k": "rock salt / salt"
+   },
+   "24": {
+    "a": [
+     "crystals"
+    ]
+   },
+   "25": {
+    "a": [
+     "string",
+     "piece of string"
+    ],
+    "k": "string / piece of string"
+   },
+   "26": {
+    "a": [
+     "ordinary white light",
+     "ordinary light",
+     "white light",
+     "light"
+    ],
+    "k": "(ordinary) (white) light"
+   },
+   "27": {
+    "a": [
+     "H"
+    ]
+   },
+   "28": {
+    "a": [
+     "B"
+    ]
+   },
+   "29": {
+    "a": [
+     "E"
+    ]
+   },
+   "30": {
+    "a": [
+     "C"
+    ]
+   },
+   "31": {
+    "a": [
+     "795"
+    ]
+   },
+   "32": {
+    "a": [
+     "tail"
+    ]
+   },
+   "33": {
+    "a": [
+     "floor",
+     "bed",
+     "bottom"
+    ],
+    "k": "floor / bed / bottom"
+   },
+   "34": {
+    "a": [
+     "sense of smell"
+    ]
+   },
+   "35": {
+    "a": [
+     "A"
+    ]
+   },
+   "36": {
+    "a": [
+     "A"
+    ]
+   },
+   "37": {
+    "a": [
+     "B"
+    ]
+   },
+   "38": {
+    "a": [
+     "B"
+    ]
+   },
+   "39": {
+    "a": [
+     "B"
+    ]
+   },
+   "40": {
+    "a": [
+     "E"
+    ]
+   }
+  },
+  "eitherOrder": [
+   [
+    2,
+    3
+   ],
+   [
+    8,
+    9
+   ]
+  ]
+ },
+ "reading": {
+  "passages": [
+   {
+    "passage": 1,
+    "range": [
+     1,
+     13
+    ],
+    "pages": [
+     88,
+     89,
+     90,
+     91
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 1–13** which are based on Reading Passage 1 below.",
+    "title": "How much higher? How much faster?",
+    "subtitle": "*— Limits to human sporting performance are not yet in sight —*",
+    "paragraphs": [
+     {
+      "text": "Since the early years of the twentieth century, when the International Athletic Federation began keeping records, there has been a steady improvement in how fast athletes run, how high they jump and how far they are able to hurl massive objects, themselves included, through space. For the so-called power events – that require a relatively brief, explosive release of energy, like the 100-metre sprint and the long jump – times and distances have improved ten to twenty per cent. In the endurance events the results have been more dramatic. At the 1908 Olympics, John Hayes of the U.S. team ran a marathon in a time of 2:55:18. In 1999, Morocco's Khalid Khannouchi set a new world record of 2:05:42, almost thirty per cent faster."
+     },
+     {
+      "text": "No one theory can explain improvements in performance, but the most important factor has been genetics. 'The athlete must choose his parents carefully,' says Jesus Dapena, a sports scientist at Indiana University, invoking an oft-cited adage. Over the past century, the composition of the human gene pool has not changed appreciably, but with increasing global participation in athletics – and greater rewards to tempt athletes – it is more likely that individuals possessing the unique complement of genes for athletic performance can be identified early. 'Was there someone like [sprinter] Michael Johnson in the 1920s?' Dapena asks. 'I'm sure there was, but his talent was probably never realised.'"
+     },
+     {
+      "text": "Identifying genetically talented individuals is only the first step. Michael Yessis, an emeritus professor of Sports Science at California State University at Fullerton, maintains that 'genetics only determines about one third of what an athlete can do. But with the right training we can go much further with that one third than we've been going.' Yessis believes that U.S. runners, despite their impressive achievements, are 'running on their genetics'. By applying more scientific methods, 'they're going to go much faster'. These methods include strength training that duplicates what they are doing in their running events as well as plyometrics, a technique pioneered in the former Soviet Union."
+     },
+     {
+      "text": "Whereas most exercises are designed to build up strength or endurance, plyometrics focuses on increasing power – the rate at which an athlete can expend energy. When a sprinter runs, Yessis explains, her foot stays in contact with the ground for just under a tenth of a second, half of which is devoted to landing and the other half to pushing off. Plyometric exercises help athletes make the best use of this brief interval."
+     },
+     {
+      "text": "Nutrition is another area that sports trainers have failed to address adequately. 'Many athletes are not getting the best nutrition, even through supplements,' Yessis insists. Each activity has its own nutritional needs. Few coaches, for instance, understand how deficiencies in trace minerals can lead to injuries."
+     },
+     {
+      "text": "Focused training will also play a role in enabling records to be broken. 'If we applied the Russian training model to some of the outstanding runners we have in this country,' Yessis asserts, 'they would be breaking records left and right.' He will not predict by how much, however: 'Exactly what the limits are it's hard to say, but there will be increases even if only by hundredths of a second, as long as our training continues to improve.'"
+     },
+     {
+      "text": "One of the most important new methodologies is biomechanics, the study of the body in motion. A biomechanic films an athlete in action and then digitizes her performance, recording the motion of every joint and limb in three dimensions. By applying Newton's laws to these motions, 'we can say that this athlete's run is not fast enough; that this one is not using his arms strongly enough during take-off,' says Dapena, who uses these methods to help high jumpers. To date, however, biomechanics has made only a small difference to athletic performance."
+     },
+     {
+      "text": "Revolutionary ideas still come from the athletes themselves. For example, during the 1968 Olympics in Mexico City, a relatively unknown high jumper named Dick Fosbury won the gold by going over the bar backwards, in complete contradiction of all the received high-jumping wisdom, a move instantly dubbed the Fosbury flop. Fosbury himself did not know what he was doing. That understanding took the later analysis of biomechanics specialists, who put their minds to comprehending something that was too complex and unorthodox ever to have been invented through their own mathematical simulations. Fosbury also required another element that lies behind many improvements in athletic performance: an innovation in athletic equipment. In Fosbury's case, it was the cushions that jumpers land on. Traditionally, high jumpers would land in pits filled with sawdust. But by Fosbury's time, sawdust pits had been replaced by soft foam cushions, ideal for flopping."
+     },
+     {
+      "text": "In the end, most people who examine human performance are humbled by the resourcefulness of athletes and the powers of the human body. 'Once you study athletics, you learn that it's a vexingly complex issue,' says John S. Raglin, a sports psychologist at Indiana University. 'Core performance is not a simple or mundane thing of higher, faster, longer. So many variables enter into the equation, and our understanding in many cases is fundamental. We've got a long way to go.' For the foreseeable future, records will be made to be broken."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R1-1",
+      "type": "tfng",
+      "range": [
+       1,
+       6
+      ],
+      "instructions": [
+       "Do the following statements agree with the information given in Reading Passage 1?",
+       "In boxes 1–6 on your answer sheet write",
+       "**TRUE** if the statement agrees with the information",
+       "**FALSE** if the statement contradicts the information",
+       "**NOT GIVEN** if there is no information on this"
+      ],
+      "questions": [
+       {
+        "n": 1,
+        "text": "Modern official athletic records date from about 1900."
+       },
+       {
+        "n": 2,
+        "text": "There was little improvement in athletic performance before the twentieth century."
+       },
+       {
+        "n": 3,
+        "text": "Performance has improved most greatly in events requiring an intensive burst of energy."
+       },
+       {
+        "n": 4,
+        "text": "Improvements in athletic performance can be fully explained by genetics."
+       },
+       {
+        "n": 5,
+        "text": "The parents of top athletes have often been successful athletes themselves."
+       },
+       {
+        "n": 6,
+        "text": "The growing international importance of athletics means that gifted athletes can be recognised at a younger age."
+       }
+      ]
+     },
+     {
+      "id": "R1-2",
+      "type": "completion",
+      "range": [
+       7,
+       10
+      ],
+      "instructions": [
+       "Complete the sentences below with words taken from Reading Passage 1.",
+       "Use **ONE WORD** for each answer.",
+       "Write your answers in boxes 7–10 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "p",
+        "text": "According to Professor Yessis, American runners are relying for their current success on {{7}} ."
+       },
+       {
+        "t": "p",
+        "text": "Yessis describes a training approach from the former Soviet Union that aims to develop an athlete's {{8}} ."
+       },
+       {
+        "t": "p",
+        "text": "Yessis links an inadequate diet to {{9}} ."
+       },
+       {
+        "t": "p",
+        "text": "Yessis claims that the key to setting new records is better {{10}} ."
+       }
+      ]
+     },
+     {
+      "id": "R1-3",
+      "type": "choice",
+      "range": [
+       11,
+       13
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B**, **C** or **D**.",
+       "Write your answers in boxes 11–13 on your answer sheet."
+      ],
+      "questions": [
+       {
+        "n": 11,
+        "text": "Biomechanics films are proving particularly useful because they enable trainers to",
+        "options": [
+         {
+          "key": "A",
+          "text": "highlight areas for improvement in athletes."
+         },
+         {
+          "key": "B",
+          "text": "assess the fitness levels of athletes."
+         },
+         {
+          "key": "C",
+          "text": "select top athletes."
+         },
+         {
+          "key": "D",
+          "text": "predict the success of athletes."
+         }
+        ]
+       },
+       {
+        "n": 12,
+        "text": "Biomechanics specialists used theoretical models to",
+        "options": [
+         {
+          "key": "A",
+          "text": "soften the Fosbury flop."
+         },
+         {
+          "key": "B",
+          "text": "create the Fosbury flop."
+         },
+         {
+          "key": "C",
+          "text": "correct the Fosbury flop."
+         },
+         {
+          "key": "D",
+          "text": "explain the Fosbury flop."
+         }
+        ]
+       },
+       {
+        "n": 13,
+        "text": "John S. Raglin believes our current knowledge of athletics is",
+        "options": [
+         {
+          "key": "A",
+          "text": "mistaken."
+         },
+         {
+          "key": "B",
+          "text": "basic."
+         },
+         {
+          "key": "C",
+          "text": "diverse."
+         },
+         {
+          "key": "D",
+          "text": "theoretical."
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "passage": 2,
+    "range": [
+     14,
+     27
+    ],
+    "pages": [
+     92,
+     93,
+     94,
+     95
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 14–27** which are based on Reading Passage 2 below.",
+    "title": "THE NATURE AND AIMS OF ARCHAEOLOGY",
+    "subtitle": null,
+    "paragraphs": [
+     {
+      "text": "Archaeology is partly the discovery of the treasures of the past, partly the careful work of the scientific analyst, partly the exercise of the creative imagination. It is toiling in the sun on an excavation in the Middle East, it is working with living Inuit in the snows of Alaska, and it is investigating the sewers of Roman Britain. But it is also the painstaking task of interpretation, so that we come to understand what these things mean for the human story. And it is the conservation of the world's cultural heritage against looting and careless harm."
+     },
+     {
+      "text": "Archaeology, then, is both a physical activity out in the field, and an intellectual pursuit in the study or laboratory. That is part of its great attraction. The rich mixture of danger and detective work has also made it the perfect vehicle for fiction writers and film-makers, from Agatha Christie with *Murder in Mesopotamia* to Stephen Spielberg with *Indiana Jones*. However far from reality such portrayals are, they capture the essential truth that archaeology is an exciting quest – the quest for knowledge about ourselves and our past."
+     },
+     {
+      "text": "But how does archaeology relate to disciplines such as anthropology and history, that are also concerned with the human story? Is archaeology itself a science? And what are the responsibilities of the archaeologist in today's world?"
+     },
+     {
+      "text": "Anthropology, at its broadest, is the study of humanity – our physical characteristics as animals and our unique non-biological characteristics that we call culture. Culture in this sense includes what the anthropologist, Edward Tylor, summarised in 1871 as 'knowledge, belief, art, morals, custom and any other capabilities and habits acquired by man as a member of society'. Anthropologists also use the term 'culture' in a more restricted sense when they refer to the 'culture' of a particular society, meaning the non-biological characteristics unique to that society, which distinguish it from other societies. Anthropology is thus a broad discipline – so broad that it is generally broken down into three smaller disciplines: physical anthropology, cultural anthropology and archaeology."
+     },
+     {
+      "text": "Physical anthropology, or biological anthropology as it is also called, concerns the study of human biological or physical characteristics and how they evolved. Cultural anthropology – or social anthropology – analyses human culture and society. Two of its branches are ethnography (the study at first hand of individual living cultures) and ethnology (which sets out to compare cultures using ethnographic evidence to derive general principles about human society)."
+     },
+     {
+      "text": "Archaeology is the 'past tense of cultural anthropology'. Whereas cultural anthropologists will often base their conclusions on the experience of living within contemporary communities, archaeologists study past societies primarily through their material remains – the buildings, tools, and other artefacts that constitute what is known as the material culture left over from former societies."
+     },
+     {
+      "text": "Nevertheless, one of the most important tasks for the archaeologist today is to know how to interpret material culture in human terms. How were those pots used? Why are some dwellings round and others square? Here the methods of archaeology and ethnography overlap. Archaeologists in recent decades have developed 'ethnoarchaeology', where, like ethnographers, they live among contemporary communities, but with the specific purpose of learning how such societies use material culture – how they make their tools and weapons, why they build their settlements where they do, and so on. Moreover, archaeology has an active role to play in the field of conservation. Heritage studies constitutes a developing field, where it is realised that the world's cultural heritage is a diminishing resource which holds different meanings for different people."
+     },
+     {
+      "text": "If, then, archaeology deals with the past, in what way does it differ from history? In the broadest sense, just as archaeology is an aspect of anthropology, so too is it a part of history – where we mean the whole history of humankind from its beginnings over three million years ago. Indeed, for more than ninety-nine per cent of that huge span of time, archaeology – the study of past material culture – is the only significant source of information. Conventional historical sources begin only with the introduction of written records around 3000 BC in western Asia, and much later in most other parts of the world."
+     },
+     {
+      "text": "A commonly drawn distinction is between pre-history, i.e. the period before written records – and history in the narrow sense, meaning the study of the past using written evidence. To archaeology, which studies all cultures and periods, whether with or without writing, the distinction between history and pre-history is a convenient dividing line that recognises the importance of the written word, but in no way lessens the importance of the useful information contained in oral histories."
+     },
+     {
+      "text": "Since the aim of archaeology is the understanding of humankind, it is a humanistic study, and since it deals with the human past, it is a historical discipline. But it differs from the study of written history in a fundamental way. The material the archaeologist finds does not tell us directly what to think. Historical records make statements, offer opinions and pass judgements. The objects the archaeologists discover, on the other hand, tell us nothing directly in themselves. In this respect, the practice of the archaeologist is rather like that of the scientist, who collects data, conducts experiments, formulates a hypothesis, tests the hypothesis against more data, and then, in conclusion, devises a model that seems best to summarise the pattern observed in the data. The archaeologist has to develop a picture of the past, just as the scientist has to develop a coherent view of the natural world."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R2-1",
+      "type": "ynng",
+      "range": [
+       14,
+       19
+      ],
+      "instructions": [
+       "Do the following statements agree with the claims of the writer in Reading Passage 2?",
+       "In boxes 14–19 on your answer sheet write",
+       "**YES** if the statement agrees with the claims of the writer",
+       "**NO** if the statement contradicts the claims of the writer",
+       "**NOT GIVEN** if it is impossible to say what the writer thinks about this"
+      ],
+      "questions": [
+       {
+        "n": 14,
+        "text": "Archaeology involves creativity as well as careful investigative work."
+       },
+       {
+        "n": 15,
+        "text": "Archaeologists must be able to translate texts from ancient languages."
+       },
+       {
+        "n": 16,
+        "text": "Movies give a realistic picture of the work of archaeologists."
+       },
+       {
+        "n": 17,
+        "text": "Anthropologists define culture in more than one way."
+       },
+       {
+        "n": 18,
+        "text": "Archaeology is a more demanding field of study than anthropology."
+       },
+       {
+        "n": 19,
+        "text": "The history of Europe has been documented since 3000 BC."
+       }
+      ]
+     },
+     {
+      "id": "R2-2",
+      "type": "multi",
+      "range": [
+       20,
+       21
+      ],
+      "n": [
+       20,
+       21
+      ],
+      "select": 2,
+      "instructions": [
+       "Choose **TWO** letters **A–E**.",
+       "Write your answers in boxes 20 and 21 on your answer sheet.",
+       "The list below gives some statements about anthropology."
+      ],
+      "text": "Which **TWO** statements are mentioned by the writer of the text?",
+      "options": [
+       {
+        "key": "A",
+        "text": "It is important for government planners."
+       },
+       {
+        "key": "B",
+        "text": "It is a continually growing field of study."
+       },
+       {
+        "key": "C",
+        "text": "It often involves long periods of fieldwork."
+       },
+       {
+        "key": "D",
+        "text": "It is subdivided for study purposes."
+       },
+       {
+        "key": "E",
+        "text": "It studies human evolutionary patterns."
+       }
+      ]
+     },
+     {
+      "id": "R2-3",
+      "type": "multi",
+      "range": [
+       22,
+       23
+      ],
+      "n": [
+       22,
+       23
+      ],
+      "select": 2,
+      "instructions": [
+       "Choose **TWO** letters **A–E**.",
+       "Write your answers in boxes 22 and 23 on your answer sheet.",
+       "The list below gives some of the tasks of an archaeologist."
+      ],
+      "text": "Which **TWO** of these tasks are mentioned by the writer of the text?",
+      "options": [
+       {
+        "key": "A",
+        "text": "examining ancient waste sites to investigate diet"
+       },
+       {
+        "key": "B",
+        "text": "studying cave art to determine its significance"
+       },
+       {
+        "key": "C",
+        "text": "deducing reasons for the shape of domestic buildings"
+       },
+       {
+        "key": "D",
+        "text": "investigating the way different cultures make and use objects"
+       },
+       {
+        "key": "E",
+        "text": "examining evidence for past climate changes"
+       }
+      ]
+     },
+     {
+      "id": "R2-4",
+      "type": "completion",
+      "range": [
+       24,
+       27
+      ],
+      "instructions": [
+       "Complete the summary of the last two paragraphs of Reading Passage 2.",
+       "Choose **NO MORE THAN TWO WORDS** from the passage for each answer.",
+       "Write your answers in boxes 24–27 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "p",
+        "text": "Much of the work of archaeologists can be done using written records but they find {{24}} equally valuable. The writer describes archaeology as both a {{25}} and a {{26}} . However, as archaeologists do not try to influence human behaviour, the writer compares their style of working to that of a {{27}} ."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "passage": 3,
+    "range": [
+     28,
+     40
+    ],
+    "pages": [
+     96,
+     97,
+     98,
+     99
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 28–40** which are based on Reading Passage 3 on the following pages.",
+    "title": "The Problem of Scarce Resources",
+    "subtitle": null,
+    "paragraphs": [
+     {
+      "label": "A",
+      "text": "The problem of how health-care resources should be allocated or apportioned, so that they are distributed in both the most just and most efficient way, is not a new one. Every health system in an economically developed society is faced with the need to decide (either formally or informally) what proportion of the community's total resources should be spent on health-care; how resources are to be apportioned; what diseases and disabilities and which forms of treatment are to be given priority; which members of the community are to be given special consideration in respect of their health needs; and which forms of treatment are the most cost-effective."
+     },
+     {
+      "label": "B",
+      "text": "What is new is that, from the 1950s onwards, there have been certain general changes in outlook about the finitude of resources as a whole and of health-care resources in particular, as well as more specific changes regarding the clientele of health-care resources and the cost to the community of those resources. Thus, in the 1950s and 1960s, there emerged an awareness in Western societies that resources for the provision of fossil fuel energy were finite and exhaustible and that the capacity of nature or the environment to sustain economic development and population was also finite. In other words, we became aware of the obvious fact that there were 'limits to growth'. The new consciousness that there were also severe limits to health-care resources was part of this general revelation of the obvious. Looking back, it now seems quite incredible that in the national health systems that emerged in many countries in the years immediately after the 1939–45 World War, it was assumed without question that all the basic health needs of any community could be satisfied, at least in principle; the 'invisible hand' of economic progress would provide."
+     },
+     {
+      "label": "C",
+      "text": "However, at exactly the same time as this new realisation of the finite character of health-care resources was sinking in, an awareness of a contrary kind was developing in Western societies: that people have a basic right to health-care as a necessary condition of a proper human life. Like education, political and legal processes and institutions, public order, communication, transport and money supply, health-care came to be seen as one of the fundamental social facilities necessary for people to exercise their other rights as autonomous human beings. People are not in a position to exercise personal liberty and to be self-determining if they are poverty-stricken, or deprived of basic education, or do not live within a context of law and order. In the same way, basic health-care is a condition of the exercise of autonomy."
+     },
+     {
+      "label": "D",
+      "text": "Although the language of 'rights' sometimes leads to confusion, by the late 1970s it was recognised in most societies that people have a right to health-care (though there has been considerable resistance in the United States to the idea that there is a formal right to health-care). It is also accepted that this right generates an obligation or duty for the state to ensure that adequate health-care resources are provided out of the public purse. The state has no obligation to provide a health-care system itself, but to ensure that such a system is provided. Put another way, basic health-care is now recognised as a 'public good', rather than a 'private good' that one is expected to buy for oneself. As the 1976 declaration of the World Health Organisation put it: 'The enjoyment of the highest attainable standard of health is one of the fundamental rights of every human being without distinction of race, religion, political belief, economic or social condition.' As has just been remarked, in a liberal society basic health is seen as one of the indispensable conditions for the exercise of personal autonomy."
+     },
+     {
+      "label": "E",
+      "text": "Just at the time when it became obvious that health-care resources could not possibly meet the demands being made upon them, people were demanding that their fundamental right to health-care be satisfied by the state. The second set of more specific changes that have led to the present concern about the distribution of health-care resources stems from the dramatic rise in health costs in most OECD¹ countries, accompanied by large-scale demographic and social changes which have meant, to take one example, that elderly people are now major (and relatively very expensive) consumers of health-care resources. Thus in OECD countries as a whole, health costs increased from 3.8% of GDP² in 1960 to 7% of GDP in 1980, and it has been predicted that the proportion of health costs to GDP will continue to increase. (In the US the current figure is about 12% of GDP, and in Australia about 7.8% of GDP.)"
+     },
+     {
+      "text": "As a consequence, during the 1980s a kind of doomsday scenario (analogous to similar doomsday extrapolations about energy needs and fossil fuels or about population increases) was projected by health administrators, economists and politicians. In this scenario, ever-rising health costs were matched against static or declining resources."
+     },
+     {
+      "kind": "note",
+      "text": "¹ Organisation for Economic Cooperation and Development"
+     },
+     {
+      "kind": "note",
+      "text": "² Gross Domestic Product"
+     }
+    ],
+    "groups": [
+     {
+      "id": "R3-1",
+      "type": "matching",
+      "range": [
+       28,
+       31
+      ],
+      "instructions": [
+       "Reading Passage 3 has five sections **A–E**.",
+       "Choose the correct heading for sections **A** and **C–E** from the list of headings below.",
+       "Write the correct number **i–viii** in boxes 28–31 on your answer sheet.",
+       "Example: Section B – viii"
+      ],
+      "optionsTitle": "List of Headings",
+      "options": [
+       {
+        "key": "i",
+        "text": "The connection between health-care and other human rights"
+       },
+       {
+        "key": "ii",
+        "text": "The development of market-based health systems"
+       },
+       {
+        "key": "iii",
+        "text": "The role of the state in health-care"
+       },
+       {
+        "key": "iv",
+        "text": "A problem shared by every economically developed country"
+       },
+       {
+        "key": "v",
+        "text": "The impact of recent change"
+       },
+       {
+        "key": "vi",
+        "text": "The views of the medical establishment"
+       },
+       {
+        "key": "vii",
+        "text": "The end of an illusion"
+       },
+       {
+        "key": "viii",
+        "text": "Sustainable economic development"
+       }
+      ],
+      "questions": [
+       {
+        "n": 28,
+        "text": "Section A"
+       },
+       {
+        "n": 29,
+        "text": "Section C"
+       },
+       {
+        "n": 30,
+        "text": "Section D"
+       },
+       {
+        "n": 31,
+        "text": "Section E"
+       }
+      ]
+     },
+     {
+      "id": "R3-2",
+      "type": "matching",
+      "range": [
+       32,
+       35
+      ],
+      "instructions": [
+       "Classify the following as first occurring",
+       "Write the correct letter **A**, **B** or **C** in boxes 32–35 on your answer sheet."
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": "between 1945 and 1950"
+       },
+       {
+        "key": "B",
+        "text": "between 1950 and 1980"
+       },
+       {
+        "key": "C",
+        "text": "after 1980"
+       }
+      ],
+      "questions": [
+       {
+        "n": 32,
+        "text": "the realisation that the resources of the national health systems were limited"
+       },
+       {
+        "n": 33,
+        "text": "a sharp rise in the cost of health-care"
+       },
+       {
+        "n": 34,
+        "text": "a belief that all the health-care resources the community needed would be produced by economic growth"
+       },
+       {
+        "n": 35,
+        "text": "an acceptance of the role of the state in guaranteeing the provision of health-care"
+       }
+      ]
+     },
+     {
+      "id": "R3-3",
+      "type": "ynng",
+      "range": [
+       36,
+       40
+      ],
+      "instructions": [
+       "Do the following statements agree with the views of the writer in Reading Passage 3?",
+       "In boxes 36–40 on your answer sheet write",
+       "**YES** if the statement agrees with the views of the writer",
+       "**NO** if the statement contradicts the views of the writer",
+       "**NOT GIVEN** if it is impossible to say what the writer thinks about this"
+      ],
+      "questions": [
+       {
+        "n": 36,
+        "text": "Personal liberty and independence have never been regarded as directly linked to health-care."
+       },
+       {
+        "n": 37,
+        "text": "Health-care came to be seen as a right at about the same time that the limits of health-care resources became evident."
+       },
+       {
+        "n": 38,
+        "text": "In OECD countries population changes have had an impact on health-care costs in recent years."
+       },
+       {
+        "n": 39,
+        "text": "OECD governments have consistently underestimated the level of health-care provision needed."
+       },
+       {
+        "n": 40,
+        "text": "In most economically developed countries the elderly will have to make special provision for their health-care in the future."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "answers": {
+   "1": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "2": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "3": {
+    "a": [
+     "FALSE"
+    ]
+   },
+   "4": {
+    "a": [
+     "FALSE"
+    ]
+   },
+   "5": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "6": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "7": {
+    "a": [
+     "genetics"
+    ]
+   },
+   "8": {
+    "a": [
+     "power"
+    ]
+   },
+   "9": {
+    "a": [
+     "injuries"
+    ]
+   },
+   "10": {
+    "a": [
+     "training"
+    ]
+   },
+   "11": {
+    "a": [
+     "A"
+    ]
+   },
+   "12": {
+    "a": [
+     "D"
+    ]
+   },
+   "13": {
+    "a": [
+     "B"
+    ]
+   },
+   "14": {
+    "a": [
+     "YES"
+    ]
+   },
+   "15": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "16": {
+    "a": [
+     "NO"
+    ]
+   },
+   "17": {
+    "a": [
+     "YES"
+    ]
+   },
+   "18": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "19": {
+    "a": [
+     "NO"
+    ]
+   },
+   "20": {
+    "a": [
+     "D"
+    ]
+   },
+   "21": {
+    "a": [
+     "E"
+    ]
+   },
+   "22": {
+    "a": [
+     "C"
+    ]
+   },
+   "23": {
+    "a": [
+     "D"
+    ]
+   },
+   "24": {
+    "a": [
+     "oral histories"
+    ]
+   },
+   "25": {
+    "a": [
+     "humanistic study"
+    ]
+   },
+   "26": {
+    "a": [
+     "historical discipline"
+    ]
+   },
+   "27": {
+    "a": [
+     "scientist"
+    ]
+   },
+   "28": {
+    "a": [
+     "iv"
+    ]
+   },
+   "29": {
+    "a": [
+     "i"
+    ]
+   },
+   "30": {
+    "a": [
+     "iii"
+    ]
+   },
+   "31": {
+    "a": [
+     "v"
+    ]
+   },
+   "32": {
+    "a": [
+     "B"
+    ]
+   },
+   "33": {
+    "a": [
+     "B"
+    ]
+   },
+   "34": {
+    "a": [
+     "A"
+    ]
+   },
+   "35": {
+    "a": [
+     "B"
+    ]
+   },
+   "36": {
+    "a": [
+     "NO"
+    ]
+   },
+   "37": {
+    "a": [
+     "YES"
+    ]
+   },
+   "38": {
+    "a": [
+     "YES"
+    ]
+   },
+   "39": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "40": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   }
+  },
+  "eitherOrder": [
+   [
+    25,
+    26
+   ]
+  ]
+ },
+ "writing": {
+  "tasks": [
+   {
+    "task": 1,
+    "minutes": 20,
+    "minWords": 150,
+    "pages": [
+     100
+    ],
+    "prompt": [
+     "The charts below give information about travel to and from the UK, and about the most popular countries for UK residents to visit.",
+     "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+    ],
+    "image": "images/C4/C4-T4-W1.png",
+    "sample": {
+     "kind": "candidate",
+     "band": "5",
+     "text": "The graphs reveal an information about overseas residents travel to UK and UK residents travel to other countries, and where they visited more.\n\nAccording to the chart of visits to and from UK, UK residents had visited abroad more than overseas residents visited UK. UK residents traveling were increased slightly till 1986, after that, there was a dramatic rise from &dollar;20 millions to &dollar;54 millions till 1999. In contrast, overseas residents were increased gradually in traveling to UK from &dollar;10 million to &dollar;28 millions between 1979 and 1999.\n\nFrom the information shown, we can see that France was the most popular country visited by UK residents, accounting for &dollar;11 millions. And the others countries visited by UK residents were Turkey, Greece and USA, which were &dollar;3, &dollar;4 and &dollar;5 millions.",
+     "comment": "The response is under-length (138 words). The candidate reports the key information in the first graph i.e. that visits to and from the UK increased and that the increase in visits from the UK was more marked than that of visits to the country. In the bar chart the information is also reported accurately. However, the references to &dollar are confusing, suggesting that the candidate has not fully understood the information given, and there is little attempt to relate the two diagrams or to make comparisons across the information given.\nThere is a brief introduction to the topic, with an attempt to paraphrase the rubric; the overall structure of the writing is clear, with some use of basic discourse markers. There is very little use of reference, however, resulting in a considerable amount of repetition of key vocabulary.\nThere is a fairly narrow range of sentence types and errors occur in verb formation and in the use of tenses."
+    }
+   },
+   {
+    "task": 2,
+    "minutes": 40,
+    "minWords": 250,
+    "pages": [
+     101
+    ],
+    "prompt": [
+     "Write about the following topic:",
+     "*In many countries schools have severe problems with student behaviour.*",
+     "*What do you think are the causes of this?*",
+     "*What solutions can you suggest?*",
+     "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+    ],
+    "sample": {
+     "kind": "model",
+     "band": null,
+     "text": "Poor student behaviour seems to be an increasingly widespread problem and I think that modern lifestyles are probably responsible for this.\n\nIn many countries, the birth rate is decreasing so that families are smaller with fewer children. These children are often spoilt, not in terms of love and attention because working parents do not have the time for this, but in more material ways. They are allowed to have whatever they want, regardless of price, and to behave as they please. This means that the children grow up without consideration for others and without any understanding of where their standard of living comes from.\n\nWhen they get to school age they have not learnt any self control or discipline. They have less respect for their teachers and refuse to obey school rules in the way that their parents did.\n\nTeachers continually complain about this problem and measures should be taken to combat the situation. But I think the solution to the problem lies with the families, who need to be more aware of the future consequences of spoiling their children. If they could raise them to be considerate of others and to be social, responsible individuals, the whole community would benefit.\n\nPerhaps parenting classes are needed to help them to do this, and high quality nursery schools could be established that would support families more in terms of raising the next generation. The government should fund this kind of parental support, because this is no longer a problem for individual families, but for society as a whole.",
+     "comment": null
+    }
+   }
+  ]
+ },
+ "issues": [
+  "Writing Task 1 sample answer and examiner comment: the book prints the unrendered entity '&dollar;' / '&dollar' (presumably intended as '$') before the figures; reproduced as printed."
+ ]
+}

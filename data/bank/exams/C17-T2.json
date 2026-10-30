@@ -1,0 +1,1684 @@
+{
+ "schema": "ielts-mock.exam/1",
+ "id": "C17-T2",
+ "source": {
+  "book": 17,
+  "test": 2
+ },
+ "title": "Cambridge IELTS 17 · Test 2",
+ "listening": {
+  "parts": [
+   {
+    "part": 1,
+    "range": [
+     1,
+     10
+    ],
+    "pages": [
+     24
+    ],
+    "groups": [
+     {
+      "id": "L1-1",
+      "type": "completion",
+      "range": [
+       1,
+       7
+      ],
+      "instructions": [
+       "Complete the notes below.",
+       "Write **ONE WORD ONLY** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Opportunities for voluntary work in Southoe village"
+       },
+       {
+        "t": "sub",
+        "text": "Library"
+       },
+       {
+        "t": "li",
+        "text": "Help with {{1}} books (times to be arranged)"
+       },
+       {
+        "t": "li",
+        "text": "Help needed to keep {{2}} of books up to date"
+       },
+       {
+        "t": "li",
+        "text": "Library is in the {{3}} Room in the village hall"
+       },
+       {
+        "t": "sub",
+        "text": "Lunch club"
+       },
+       {
+        "t": "li",
+        "text": "Help by providing {{4}}"
+       },
+       {
+        "t": "li",
+        "text": "Help with hobbies such as {{5}}"
+       },
+       {
+        "t": "sub",
+        "text": "Help for individuals needed next week"
+       },
+       {
+        "t": "li",
+        "text": "Taking Mrs Carroll to {{6}}"
+       },
+       {
+        "t": "li",
+        "text": "Work in the {{7}} at Mr Selsbury's house"
+       }
+      ]
+     },
+     {
+      "id": "L1-2",
+      "type": "completion",
+      "range": [
+       8,
+       10
+      ],
+      "instructions": [
+       "Complete the table below.",
+       "Write **ONE WORD ONLY** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Village social events"
+       },
+       {
+        "t": "table",
+        "header": 1,
+        "rows": [
+         [
+          "Date",
+          "Event",
+          "Location",
+          "Help needed"
+         ],
+         [
+          "19 Oct",
+          "{{8}}",
+          "Village hall",
+          "providing refreshments"
+         ],
+         [
+          "18 Nov",
+          "dance",
+          "Village hall",
+          "checking {{9}}"
+         ],
+         [
+          "31 Dec",
+          "New Year's Eve party",
+          "Mountfort Hotel",
+          "designing the {{10}}"
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    "transcript": "JANE: Hello, Jane Fairbanks speaking.\nFRANK: Oh, good morning. My name's Frank Pritchard. I've just retired and moved to Southoe. I'd like to become a volunteer, and I gather you co-ordinate voluntary work in the village.\nJANE: That's right.\nFRANK: What sort of thing could I do?\nJANE: Well, we need help with the village library. We borrow books from the town library, and individuals also donate them. So, one thing you could do is get involved in collecting them – if you've got a car, that is. [Q1]\nFRANK: Yes, that's no problem.\nJANE: The times are pretty flexible so we can arrange it to suit you. Another thing is the records that we keep of the books we're given, and those we borrow and need to [Q2] return to the town library. It would be very useful to have another person to help keep them up to date.\nFRANK: Right. I'm used to working on a computer – I presume they're computerised?\nJANE: Oh yes.\nFRANK: Is the library purpose-built? I haven't noticed it when I've walked round the village.\nJANE: No, we simply have the use of a room in the village hall, the West Room. It's on [Q3] the left as you go in.\nFRANK: I must go and have a look inside the hall.\nJANE: Yes, it's a nice building.\nFRANK: Do you run a lunch club in the village for elderly people? I know a lot of places do.\nJANE: Yes, we have a very successful club.\nFRANK: I could help with transport, if that's of any use. [Q4]\nJANE: Ooo definitely. People come to the club from neighbouring villages, and we're always in need of more drivers.\nFRANK: And does the club have groups that focus on a particular hobby, too? I could get involved in one or two, particularly if there are any art groups. [Q5]\nJANE: Excellent. I'll find out where we need help and get back to you.\nFRANK: Fine. What about help for individual residents. Do you arrange that at all?\nJANE: Yes, we do it as a one-off. In fact, there's Mrs Carroll. She needs a lift to the hospital next week, and we're struggling to find someone. [Q6]\nFRANK: When's her appointment?\nJANE: On Tuesday. It would take the whole morning.\nFRANK: I could do that.\nJANE: Oh, that would be great. Thank you. And also, next week, we're arranging to have some work done to Mr Selsbury's house before he moves, as he isn't healthy enough to do it himself. We've got some people to decorate his kitchen, but if you could do some weeding in his garden, that would be wonderful. [Q7]\nFRANK: OK. I'd enjoy that. And presumably the day and time are flexible.\nJANE: Oh yes. Just say when would suit you best, and we'll let Mr Selsbury know.\nFRANK: Good.\nJANE: The volunteers group also organises monthly social events, which is a great way to meet other people, of course.\nFRANK: Uhuh.\nJANE: So next month, on the 19th of October, we're holding a quiz – a couple of [Q8] residents are great at planning unusual ones, and we always fill the village hall.\nFRANK: That sounds like fun. Can I do anything to help?\nJANE: Well, because of the number of people, we need plenty of refreshments for halfway through. So, if you could provide any, we'd be grateful.\nFRANK: I'm sure I could. I'll think about what to make, and let you know.\nJANE: Thank you. Then on November the 18th, we're holding a dance, also in the village hall. We've booked a band that specialises in music of the 1930s – they've been before, and we've had a lot of requests to bring them back.\nFRANK: I'm not really a dancer, but I'd like to do something to help.\nJANE: Well, we sell tickets in advance, and having an extra person to check them at the [Q9] door, as people arrive, would be good – it can be quite a bottleneck if everyone arrives at once!\nFRANK: OK, I'm happy with that.\nJANE: We're also arranging a New Year's Eve party. We're expecting that to be a really big event, so instead of the village hall, it'll be held in the Mountfort Hotel.\nFRANK: The ...?\nJANE: Mountfort. M-O-U-N-T-F-O-R-T Hotel. It isn't in Southoe itself, but it's only a couple of miles away. The hotel will be providing dinner and we've booked a band. The one thing we haven't got yet is a poster. That isn't something you [Q10] could do, by any chance, is it?\nFRANK: Well actually, yes. Before I retired I was a graphic designer, so that's right up my street.\nJANE: Oh perfect! I'll give you the details, and then perhaps you could send me a draft ...\nFRANK: Of course."
+   },
+   {
+    "part": 2,
+    "range": [
+     11,
+     20
+    ],
+    "pages": [
+     25,
+     26
+    ],
+    "groups": [
+     {
+      "id": "L2-1",
+      "type": "choice",
+      "range": [
+       11,
+       14
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B** or **C**."
+      ],
+      "title": "Oniton Hall",
+      "questions": [
+       {
+        "n": 11,
+        "text": "Many past owners made changes to",
+        "options": [
+         {
+          "key": "A",
+          "text": "the gardens."
+         },
+         {
+          "key": "B",
+          "text": "the house."
+         },
+         {
+          "key": "C",
+          "text": "the farm."
+         }
+        ]
+       },
+       {
+        "n": 12,
+        "text": "Sir Edward Downes built Oniton Hall because he wanted",
+        "options": [
+         {
+          "key": "A",
+          "text": "a place for discussing politics."
+         },
+         {
+          "key": "B",
+          "text": "a place to display his wealth."
+         },
+         {
+          "key": "C",
+          "text": "a place for artists and writers."
+         }
+        ]
+       },
+       {
+        "n": 13,
+        "text": "Visitors can learn about the work of servants in the past from",
+        "options": [
+         {
+          "key": "A",
+          "text": "audio guides."
+         },
+         {
+          "key": "B",
+          "text": "photographs."
+         },
+         {
+          "key": "C",
+          "text": "people in costume."
+         }
+        ]
+       },
+       {
+        "n": 14,
+        "text": "What is new for children at Oniton Hall?",
+        "options": [
+         {
+          "key": "A",
+          "text": "clothes for dressing up"
+         },
+         {
+          "key": "B",
+          "text": "mini tractors"
+         },
+         {
+          "key": "C",
+          "text": "the adventure playground"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L2-2",
+      "type": "matching",
+      "range": [
+       15,
+       20
+      ],
+      "instructions": [
+       "Which activity is offered at each of the following locations on the farm?",
+       "Choose **SIX** answers from the box and write the correct letter, **A–H**, next to Questions 15–20."
+      ],
+      "optionsTitle": "Activities",
+      "options": [
+       {
+        "key": "A",
+        "text": "shopping"
+       },
+       {
+        "key": "B",
+        "text": "watching cows being milked"
+       },
+       {
+        "key": "C",
+        "text": "seeing old farming equipment"
+       },
+       {
+        "key": "D",
+        "text": "eating and drinking"
+       },
+       {
+        "key": "E",
+        "text": "starting a trip"
+       },
+       {
+        "key": "F",
+        "text": "seeing rare breeds of animals"
+       },
+       {
+        "key": "G",
+        "text": "helping to look after animals"
+       },
+       {
+        "key": "H",
+        "text": "using farming tools"
+       }
+      ],
+      "title": "Locations on the farm",
+      "questions": [
+       {
+        "n": 15,
+        "text": "dairy"
+       },
+       {
+        "n": 16,
+        "text": "large barn"
+       },
+       {
+        "n": 17,
+        "text": "small barn"
+       },
+       {
+        "n": 18,
+        "text": "stables"
+       },
+       {
+        "n": 19,
+        "text": "shed"
+       },
+       {
+        "n": 20,
+        "text": "parkland"
+       }
+      ]
+     }
+    ],
+    "transcript": "Good morning, and welcome to Oniton Hall, one of the largest estates in the area. My name's Nick, and I'm one of the guides. I'll give you a brief introduction to the estate while you're sitting down, and then we'll walk round.\nThe estate consists of the house, gardens, parkland and farm, and it dates back to the fourteenth century. The original house was replaced in the late seventeenth century, and of course it has had a large number of owners. Almost all of them have left their mark, generally [Q11] by adding new rooms, like the ballroom and conservatory, or by demolishing others. The farm looks much as it's always done, although the current owner has done a great deal of work to the flower beds.\nIn the seventeenth century, the estate was owned by a very wealthy man called Sir Edward Downes. His intention was to escape from the world of politics, after years as an active politician, and to build a new house worthy of his big collection of books, paintings and sculptures. He broke off contact with his former political allies, and hosted meetings of [Q12] creative and literary people, like painters and poets. Unusually for his time, he didn't care whether his guests were rich or poor, as long as they had talent.\nBig houses like Oniton had dozens of servants until the 1920s or 30s, and we've tried to show what their working lives were like. Photographs of course don't give much of an idea, so instead, as you go round the house, you'll see volunteers dressed up as nineteenth-century [Q13] servants, going about their work. They'll explain what they're doing, and tell you their recipes, or what tools they're using. We've just introduced this feature to replace the audio guide we used to have available.\nI see there are a number of children here with you today. Well, we have several activities specially for children, like dressing up in the sorts of clothes that children wore in the past, and as it's a fine day, some of you will probably want to play in the adventure playground. Our [Q14] latest addition is child-sized tractors, that you can drive around the grounds.\nWe'll also be going into the farm that's part of the estate, where there's plenty to do. Most of the buildings date from the eighteenth century, so you can really step back into an agricultural past.\nUntil recently, the dairy was where milk from the cows was turned into cheese. It's now the [Q15] place to go for lunch, or afternoon tea, or just a cup of coffee and a slice of homemade cake.\nThe big stone building that dominates the farm is the large barn, and in here is our collection [Q16] of agricultural tools. These were used in the past to plough the earth, sow seeds, make gates, and much more. There's a small barn, also made of stone, where you can groom the donkeys and horses, to [Q17] keep their coats clean. They really seem to enjoy having it done, and children love grooming them. The horses no longer live in the stables, which instead is the place to go to buy gifts, books, [Q18] our own jams and pickles, and clothes and blankets made of wool from our sheep.\nOutside the shed, which is the only brick building, you can climb into a horse-drawn carriage for [Q19] a lovely, relaxing tour of the park and farm. The carriages are well over a hundred years old.\nAnd finally, the parkland, which was laid out in the eighteenth century, with a lake and trees that are now well established. You'll see types of cattle and sheep that are hardly ever found [Q20] on farms these days. We're helping to preserve them, to stop their numbers falling further.\nOK, well if you'd like to come with me ..."
+   },
+   {
+    "part": 3,
+    "range": [
+     21,
+     30
+    ],
+    "pages": [
+     27,
+     28
+    ],
+    "groups": [
+     {
+      "id": "L3-1",
+      "type": "multi",
+      "range": [
+       21,
+       22
+      ],
+      "n": [
+       21,
+       22
+      ],
+      "select": 2,
+      "instructions": [
+       "Choose **TWO** letters, **A–E**."
+      ],
+      "text": "Which **TWO** things do the students agree they need to include in their reviews of *Romeo and Juliet*?",
+      "options": [
+       {
+        "key": "A",
+        "text": "analysis of the text"
+       },
+       {
+        "key": "B",
+        "text": "a summary of the plot"
+       },
+       {
+        "key": "C",
+        "text": "a description of the theatre"
+       },
+       {
+        "key": "D",
+        "text": "a personal reaction"
+       },
+       {
+        "key": "E",
+        "text": "a reference to particular scenes"
+       }
+      ]
+     },
+     {
+      "id": "L3-2",
+      "type": "matching",
+      "range": [
+       23,
+       27
+      ],
+      "instructions": [
+       "Which opinion do the speakers give about each of the following aspects of The Emporium's production of *Romeo and Juliet*?",
+       "Choose **FIVE** answers from the box and write the correct letter, **A–G**, next to Questions 23–27."
+      ],
+      "optionsTitle": "Opinions",
+      "options": [
+       {
+        "key": "A",
+        "text": "They both expected this to be more traditional."
+       },
+       {
+        "key": "B",
+        "text": "They both thought this was original."
+       },
+       {
+        "key": "C",
+        "text": "They agree this created the right atmosphere."
+       },
+       {
+        "key": "D",
+        "text": "They agree this was a major strength."
+       },
+       {
+        "key": "E",
+        "text": "They were both disappointed by this."
+       },
+       {
+        "key": "F",
+        "text": "They disagree about why this was an issue."
+       },
+       {
+        "key": "G",
+        "text": "They disagree about how this could be improved."
+       }
+      ],
+      "title": "Aspects of the production",
+      "questions": [
+       {
+        "n": 23,
+        "text": "the set"
+       },
+       {
+        "n": 24,
+        "text": "the lighting"
+       },
+       {
+        "n": 25,
+        "text": "the costume design"
+       },
+       {
+        "n": 26,
+        "text": "the music"
+       },
+       {
+        "n": 27,
+        "text": "the actors' delivery"
+       }
+      ]
+     },
+     {
+      "id": "L3-3",
+      "type": "choice",
+      "range": [
+       28,
+       30
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B** or **C**."
+      ],
+      "questions": [
+       {
+        "n": 28,
+        "text": "The students think the story of *Romeo and Juliet* is still relevant for young people today because",
+        "options": [
+         {
+          "key": "A",
+          "text": "it illustrates how easily conflict can start."
+         },
+         {
+          "key": "B",
+          "text": "it deals with problems that families experience."
+         },
+         {
+          "key": "C",
+          "text": "it teaches them about relationships."
+         }
+        ]
+       },
+       {
+        "n": 29,
+        "text": "The students found watching *Romeo and Juliet* in another language",
+        "options": [
+         {
+          "key": "A",
+          "text": "frustrating."
+         },
+         {
+          "key": "B",
+          "text": "demanding."
+         },
+         {
+          "key": "C",
+          "text": "moving."
+         }
+        ]
+       },
+       {
+        "n": 30,
+        "text": "Why do the students think Shakespeare's plays have such international appeal?",
+        "options": [
+         {
+          "key": "A",
+          "text": "The stories are exciting."
+         },
+         {
+          "key": "B",
+          "text": "There are recognisable characters."
+         },
+         {
+          "key": "C",
+          "text": "They can be interpreted in many ways."
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "transcript": "ED: Did you make notes while you were watching the performances of Romeo and Juliet, Gemma?\nGEMMA: Yes, I did. I found it quite hard though. I kept getting too involved in the play.\nED: Me too. I ended up not taking notes. I wrote down my impressions when I got home. Do you mind if I check a few things with you? In case I've missed anything. And I've also got some questions about our assignment.\nGEMMA: No, it's good to talk things through. I may have missed things too.\nED: OK great. So first of all, I'm not sure how much information we should include in our reviews.\nGEMMA: Right. Well, I don't think we need to describe what happens. Especially as Romeo and Juliet is one of Shakespeare's most well-known plays.\nED: Yeah, everyone knows the story. In an essay we'd focus on the poetry and Shakespeare's use of imagery etc., but that isn't really relevant in a review. We're supposed to focus on how effective this particular production is.\nGEMMA: Mmm. We should say what made it a success or a failure.\nED: And part of that means talking about the emotional impact the performance had [Q21/Q22] on us. I think that's important.\nGEMMA: Yes. And we should definitely mention how well the director handled important [Q21/Q22] bits of the play – like when Romeo climbs onto Juliet's balcony.\nED: And the fight between Mercutio and Tybalt.\nGEMMA: Yes. It would also be interesting to mention the theatre space and how the director used it but I don't think we'll have space in 800 words.\nED: No. OK. That all sounds quite straightforward.\nED: So what about The Emporium Theatre's production of the play?\nGEMMA: I thought some things worked really well but there were some problems too.\nED: Yeah. What about the set, for example?\nGEMMA: I think it was visually really stunning. I'd say that was probably the most [Q23] memorable thing about this production.\nED: You're right. The set design was really amazing, but actually I have seen similar ideas used in other productions.\nGEMMA: What about the lighting? Some of the scenes were so dimly lit it was quite hard to see.\nED: I didn't dislike it. It helped to change the mood of the quieter scenes. [Q24]\nGEMMA: That's a good point.\nED: What did you think of the costumes?\nGEMMA: I was a bit surprised by the contemporary dress, I must say. [Q25]\nED: Yeah – I think it worked well, but I had assumed it would be more conventional.\nGEMMA: Me too. I liked the music at the beginning and I thought the musicians were brilliant, but I thought they were wasted because the music didn't have much [Q26] impact in Acts 2 and 3.\nED: Yes – that was a shame.\nGEMMA: One problem with this production was that the actors didn't deliver the lines that well. They were speaking too fast. [Q27]\nED: It was a problem I agree, but I thought it was because they weren't speaking loudly enough – especially at key points in the play.\nGEMMA: I actually didn't have a problem with that.\nED: It's been an interesting experience watching different versions of Romeo and Juliet, hasn't it?\nGEMMA: Definitely. It's made me realise how relevant the play still is.\nED: Right. I mean a lot's changed since Shakespeare's time, but in many ways nothing's changed. There are always disagreements and tension between [Q28] teenagers and their parents.\nGEMMA: Yes, that's something all young people can relate to – more than the violence and the extreme emotions in the play.\nED: How did you find watching it in translation?\nGEMMA: Really interesting. I expected to find it more challenging, but I could follow the story pretty well.\nED: I stopped worrying about not being able to understand all the words and focused on the actors' expressions. The ending was pretty powerful. [Q29]\nGEMMA: Yes. That somehow intensified the emotion for me.\nED: Did you know Shakespeare's been translated into more languages than any other writer?\nGEMMA: What's the reason for his international appeal, do you think?\nED: I was reading that it's because his plays are about basic themes that people everywhere are familiar with.\nGEMMA: Yeah, and they can also be understood on different levels. The characters have [Q30] such depth.\nED: Right – which allows directors to experiment and find new angles.\nGEMMA: That's really important because ..."
+   },
+   {
+    "part": 4,
+    "range": [
+     31,
+     40
+    ],
+    "pages": [
+     29
+    ],
+    "groups": [
+     {
+      "id": "L4-1",
+      "type": "completion",
+      "range": [
+       31,
+       40
+      ],
+      "instructions": [
+       "Complete the notes below.",
+       "Write **ONE WORD AND/OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "The impact of digital technology on the Icelandic language"
+       },
+       {
+        "t": "sub",
+        "text": "The Icelandic language"
+       },
+       {
+        "t": "li",
+        "text": "has approximately {{31}} speakers"
+       },
+       {
+        "t": "li",
+        "text": "has a {{32}} that is still growing"
+       },
+       {
+        "t": "li",
+        "text": "has not changed a lot over the last thousand years"
+       },
+       {
+        "t": "li",
+        "text": "has its own words for computer-based concepts, such as web browser and {{33}}"
+       },
+       {
+        "t": "sub",
+        "text": "Young speakers"
+       },
+       {
+        "t": "li",
+        "text": "are big users of digital technology, such as {{34}}"
+       },
+       {
+        "t": "li",
+        "text": "are becoming {{35}} very quickly"
+       },
+       {
+        "t": "li",
+        "text": "are having discussions using only English while they are in the {{36}} at school"
+       },
+       {
+        "t": "li",
+        "text": "are better able to identify the content of a {{37}} in English than Icelandic"
+       },
+       {
+        "t": "sub",
+        "text": "Technology and internet companies"
+       },
+       {
+        "t": "li",
+        "text": "write very little in Icelandic because of the small number of speakers and because of how complicated its {{38}} is"
+       },
+       {
+        "t": "sub",
+        "text": "The Icelandic government"
+       },
+       {
+        "t": "li",
+        "text": "has set up a fund to support the production of more digital content in the language"
+       },
+       {
+        "t": "li",
+        "text": "believes that Icelandic has a secure future"
+       },
+       {
+        "t": "li",
+        "text": "is worried that young Icelanders may lose their {{39}} as Icelanders"
+       },
+       {
+        "t": "li",
+        "text": "is worried about the consequences of children not being {{40}} in either Icelandic or English"
+       }
+      ]
+     }
+    ],
+    "transcript": "Right, everyone, let's make a start. Over the past few sessions, we've been considering the reasons why some world languages are in decline, and today I'm going to introduce another factor that affects languages, and the speakers of those languages, and that's technology and, in particular, digital technology. In order to illustrate its effect, I'm going to focus on the Icelandic language, which is spoken by around 321,000 people, most of whom live in Iceland [Q31] – an island in the North Atlantic Ocean.\nThe problem for this language is not the number of speakers – even though this number is small. Nor is it about losing words to other languages, such as English. In fact, the [Q32] vocabulary of Icelandic is continually increasing because when speakers need a new word for something, they tend to create one, rather than borrowing from another language. All this makes Icelandic quite a special language – it's changed very little in the past millennium, yet it can handle twenty-first-century concepts related to the use of computers and digital technology. Take, for example, the word for web browser ... this is *vafri* in Icelandic, which comes from the verb 'to wander'. I can't think of a more appropriate term because that's exactly what you do mentally when you browse the internet. Then there's an Icelandic word [Q33] for podcast – which is too hard to pronounce! And so on.\nIcelandic, then, is alive and growing, but – and it's a big but – young Icelanders spend a great deal of time in the digital world and this world is predominantly English. Think about [Q34] smartphones. They didn't even exist until comparatively recently, but today young people use them all the time to read books, watch TV or films, play games, listen to music, and so on. Obviously, this is a good thing in many respects because it promotes their bilingual skills, but [Q35] the extent of the influence of English in the virtual world is staggering and it's all happening really fast.\nFor their parents and grandparents, the change is less concerning because they already have their native-speaker skills in Icelandic. But for young speakers – well, the outcome is a little troubling. For example, teachers have found that playground conversations in Icelandic [Q36] secondary schools can be conducted entirely in English, while teachers of much younger children have reported situations where their classes find it easier to say what is in a picture [Q37] using English, rather than Icelandic. The very real and worrying consequence of all this is that the young generation in Iceland is at risk of losing its mother tongue.\nOf course, this is happening to other European languages too, but while internet companies might be willing to offer, say, French options in their systems, it's much harder for them to justify the expense of doing the same for a language that has a population the size of a French town, such as Nice. The other drawback of Icelandic is the grammar, which is [Q38] significantly more complex than in most languages. At the moment, the tech giants are simply not interested in tackling this.\nSo, what is the Icelandic government doing about this? Well, large sums of money are being allocated to a language technology fund that it is hoped will lead to the development of Icelandic sourced apps and other social media and digital systems, but clearly this is going to be an uphill struggle.\nOn the positive side, they know that Icelandic is still the official language of education and government. It has survived for well over a thousand years and the experts predict that its future in this nation state is sound and will continue to be so. However, there's no doubt that it's becoming an inevitable second choice in young people's lives.\nThis raises important questions. When you consider how much of the past is tied up in a language, will young Icelanders lose their sense of their own identity? Another issue [Q39] that concerns the government of Iceland is this. If children are learning two languages [Q40] through different routes, neither of which they are fully fluent in, will they be able to express themselves properly?"
+   }
+  ],
+  "answers": {
+   "1": {
+    "a": [
+     "collecting"
+    ]
+   },
+   "2": {
+    "a": [
+     "records"
+    ]
+   },
+   "3": {
+    "a": [
+     "West"
+    ]
+   },
+   "4": {
+    "a": [
+     "transport"
+    ]
+   },
+   "5": {
+    "a": [
+     "art"
+    ]
+   },
+   "6": {
+    "a": [
+     "hospital"
+    ]
+   },
+   "7": {
+    "a": [
+     "garden"
+    ]
+   },
+   "8": {
+    "a": [
+     "quiz"
+    ]
+   },
+   "9": {
+    "a": [
+     "tickets"
+    ]
+   },
+   "10": {
+    "a": [
+     "poster"
+    ]
+   },
+   "11": {
+    "a": [
+     "B"
+    ]
+   },
+   "12": {
+    "a": [
+     "C"
+    ]
+   },
+   "13": {
+    "a": [
+     "C"
+    ]
+   },
+   "14": {
+    "a": [
+     "B"
+    ]
+   },
+   "15": {
+    "a": [
+     "D"
+    ]
+   },
+   "16": {
+    "a": [
+     "C"
+    ]
+   },
+   "17": {
+    "a": [
+     "G"
+    ]
+   },
+   "18": {
+    "a": [
+     "A"
+    ]
+   },
+   "19": {
+    "a": [
+     "E"
+    ]
+   },
+   "20": {
+    "a": [
+     "F"
+    ]
+   },
+   "21": {
+    "a": [
+     "D"
+    ]
+   },
+   "22": {
+    "a": [
+     "E"
+    ]
+   },
+   "23": {
+    "a": [
+     "D"
+    ]
+   },
+   "24": {
+    "a": [
+     "C"
+    ]
+   },
+   "25": {
+    "a": [
+     "A"
+    ]
+   },
+   "26": {
+    "a": [
+     "E"
+    ]
+   },
+   "27": {
+    "a": [
+     "F"
+    ]
+   },
+   "28": {
+    "a": [
+     "B"
+    ]
+   },
+   "29": {
+    "a": [
+     "C"
+    ]
+   },
+   "30": {
+    "a": [
+     "C"
+    ]
+   },
+   "31": {
+    "a": [
+     "321,000",
+     "321000"
+    ]
+   },
+   "32": {
+    "a": [
+     "vocabulary"
+    ]
+   },
+   "33": {
+    "a": [
+     "podcast"
+    ]
+   },
+   "34": {
+    "a": [
+     "smartphones"
+    ]
+   },
+   "35": {
+    "a": [
+     "bilingual"
+    ]
+   },
+   "36": {
+    "a": [
+     "playground"
+    ]
+   },
+   "37": {
+    "a": [
+     "picture"
+    ]
+   },
+   "38": {
+    "a": [
+     "grammar"
+    ]
+   },
+   "39": {
+    "a": [
+     "identity"
+    ]
+   },
+   "40": {
+    "a": [
+     "fluent"
+    ]
+   }
+  }
+ },
+ "reading": {
+  "passages": [
+   {
+    "passage": 1,
+    "range": [
+     1,
+     13
+    ],
+    "pages": [
+     30,
+     31,
+     32,
+     33
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 1–13**, which are based on Reading Passage 1 below.",
+    "title": "The Dead Sea Scrolls",
+    "subtitle": null,
+    "paragraphs": [
+     {
+      "text": "In late 1946 or early 1947, three Bedouin teenagers were tending their goats and sheep near the ancient settlement of Qumran, located on the northwest shore of the Dead Sea in what is now known as the West Bank. One of these young shepherds tossed a rock into an opening on the side of a cliff and was surprised to hear a shattering sound. He and his companions later entered the cave and stumbled across a collection of large clay jars, seven of which contained scrolls with writing on them. The teenagers took the seven scrolls to a nearby town where they were sold for a small sum to a local antiquities dealer. Word of the find spread, and Bedouins and archaeologists eventually unearthed tens of thousands of additional scroll fragments from 10 nearby caves; together they make up between 800 and 900 manuscripts. It soon became clear that this was one of the greatest archaeological discoveries ever made."
+     },
+     {
+      "text": "The origin of the Dead Sea Scrolls, which were written around 2,000 years ago between 150 BCE and 70 CE, is still the subject of scholarly debate even today. According to the prevailing theory, they are the work of a population that inhabited the area until Roman troops destroyed the settlement around 70 CE. The area was known as Judea at that time, and the people are thought to have belonged to a group called the Essenes, a devout Jewish sect."
+     },
+     {
+      "text": "The majority of the texts on the Dead Sea Scrolls are in Hebrew, with some fragments written in an ancient version of its alphabet thought to have fallen out of use in the fifth century BCE. But there are other languages as well. Some scrolls are in Aramaic, the language spoken by many inhabitants of the region from the sixth century BCE to the siege of Jerusalem in 70 CE. In addition, several texts feature translations of the Hebrew Bible into Greek."
+     },
+     {
+      "text": "The Dead Sea Scrolls include fragments from every book of the Old Testament of the Bible except for the Book of Esther. The only entire book of the Hebrew Bible preserved among the manuscripts from Qumran is Isaiah; this copy, dated to the first century BCE, is considered the earliest biblical manuscript still in existence. Along with biblical texts, the scrolls include documents about sectarian regulations and religious writings that do not appear in the Old Testament."
+     },
+     {
+      "text": "The writing on the Dead Sea Scrolls is mostly in black or occasionally red ink, and the scrolls themselves are nearly all made of either parchment (animal skin) or an early form of paper called 'papyrus'. The only exception is the scroll numbered 3Q15, which was created out of a combination of copper and tin. Known as the Copper Scroll, this curious document features letters chiselled onto metal – perhaps, as some have theorized, to better withstand the passage of time. One of the most intriguing manuscripts from Qumran, this is a sort of ancient treasure map that lists dozens of gold and silver caches. Using an unconventional vocabulary and odd spelling, it describes 64 underground hiding places that supposedly contain riches buried for safekeeping. None of these hoards have been recovered, possibly because the Romans pillaged Judea during the first century CE. According to various hypotheses, the treasure belonged to local people, or was rescued from the Second Temple before its destruction or never existed to begin with."
+     },
+     {
+      "text": "Some of the Dead Sea Scrolls have been on interesting journeys. In 1948, a Syrian Orthodox archbishop known as Mar Samuel acquired four of the original seven scrolls from a Jerusalem shoemaker and part-time antiquity dealer, paying less than $100 for them. He then travelled to the United States and unsuccessfully offered them to a number of universities, including Yale. Finally, in 1954, he placed an advertisement in the business newspaper *The Wall Street Journal* – under the category 'Miscellaneous Items for Sale' – that read: 'Biblical Manuscripts dating back to at least 200 B.C. are for sale. This would be an ideal gift to an educational or religious institution by an individual or group.' Fortunately, Israeli archaeologist and statesman Yigael Yadin negotiated their purchase and brought the scrolls back to Jerusalem, where they remain to this day."
+     },
+     {
+      "text": "In 2017, researchers from the University of Haifa restored and deciphered one of the last untranslated scrolls. The university's Eshbal Ratson and Jonathan Ben-Dov spent one year reassembling the 60 fragments that make up the scroll. Deciphered from a band of coded text on parchment, the find provides insight into the community of people who wrote it and the 364-day calendar they would have used. The scroll names celebrations that indicate shifts in seasons and details two yearly religious events known from another Dead Sea Scroll. Only one more known scroll remains untranslated."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R1-1",
+      "type": "completion",
+      "range": [
+       1,
+       5
+      ],
+      "instructions": [
+       "Complete the notes below.",
+       "Choose **ONE WORD ONLY** from the passage for each answer.",
+       "Write your answers in boxes 1–5 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "The Dead Sea Scrolls"
+       },
+       {
+        "t": "sub",
+        "text": "Discovery"
+       },
+       {
+        "t": "p",
+        "text": "Qumran, 1946/7"
+       },
+       {
+        "t": "li",
+        "text": "three Bedouin shepherds in their teens were near an opening on side of cliff"
+       },
+       {
+        "t": "li",
+        "text": "heard a noise of breaking when one teenager threw a {{1}}"
+       },
+       {
+        "t": "li",
+        "text": "teenagers went into the {{2}} and found a number of containers made of {{3}}"
+       },
+       {
+        "t": "sub",
+        "text": "The scrolls"
+       },
+       {
+        "t": "li",
+        "text": "date from between 150 BCE and 70 CE"
+       },
+       {
+        "t": "li",
+        "text": "thought to have been written by group of people known as the {{4}}"
+       },
+       {
+        "t": "li",
+        "text": "written mainly in the {{5}} language"
+       },
+       {
+        "t": "li",
+        "text": "most are on religious topics, written using ink on parchment or papyrus"
+       }
+      ]
+     },
+     {
+      "id": "R1-2",
+      "type": "tfng",
+      "range": [
+       6,
+       13
+      ],
+      "instructions": [
+       "Do the following statements agree with the information given in Reading Passage 1?",
+       "In boxes 6–13 on your answer sheet, write",
+       "**TRUE** if the statement agrees with the information",
+       "**FALSE** if the statement contradicts the information",
+       "**NOT GIVEN** if there is no information on this"
+      ],
+      "questions": [
+       {
+        "n": 6,
+        "text": "The Bedouin teenagers who found the scrolls were disappointed by how little money they received for them."
+       },
+       {
+        "n": 7,
+        "text": "There is agreement among academics about the origin of the Dead Sea Scrolls."
+       },
+       {
+        "n": 8,
+        "text": "Most of the books of the Bible written on the scrolls are incomplete."
+       },
+       {
+        "n": 9,
+        "text": "The information on the Copper Scroll is written in an unusual way."
+       },
+       {
+        "n": 10,
+        "text": "Mar Samuel was given some of the scrolls as a gift."
+       },
+       {
+        "n": 11,
+        "text": "In the early 1950s, a number of educational establishments in the US were keen to buy scrolls from Mar Samuel."
+       },
+       {
+        "n": 12,
+        "text": "The scroll that was pieced together in 2017 contains information about annual occasions in the Qumran area 2,000 years ago."
+       },
+       {
+        "n": 13,
+        "text": "Academics at the University of Haifa are currently researching how to decipher the final scroll."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "passage": 2,
+    "range": [
+     14,
+     26
+    ],
+    "pages": [
+     34,
+     35,
+     36,
+     37
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 14–26**, which are based on Reading Passage 2 below.",
+    "title": "A second attempt at domesticating the tomato",
+    "subtitle": null,
+    "paragraphs": [
+     {
+      "label": "A",
+      "text": "It took at least 3,000 years for humans to learn how to domesticate the wild tomato and cultivate it for food. Now two separate teams in Brazil and China have done it all over again in less than three years. And they have done it better in some ways, as the re-domesticated tomatoes are more nutritious than the ones we eat at present."
+     },
+     {
+      "text": "This approach relies on the revolutionary CRISPR genome editing technique, in which changes are deliberately made to the DNA of a living cell, allowing genetic material to be added, removed or altered. The technique could not only improve existing crops, but could also be used to turn thousands of wild plants into useful and appealing foods. In fact, a third team in the US has already begun to do this with a relative of the tomato called the groundcherry."
+     },
+     {
+      "text": "This fast-track domestication could help make the world's food supply healthier and far more resistant to diseases, such as the rust fungus devastating wheat crops."
+     },
+     {
+      "text": "'This could transform what we eat,' says Jorg Kudla at the University of Munster in Germany, a member of the Brazilian team. 'There are 50,000 edible plants in the world, but 90 percent of our energy comes from just 15 crops.'"
+     },
+     {
+      "text": "'We can now mimic the known domestication course of major crops like rice, maize, sorghum or others,' says Caixia Gao of the Chinese Academy of Sciences in Beijing. 'Then we might try to domesticate plants that have never been domesticated.'"
+     },
+     {
+      "label": "B",
+      "text": "Wild tomatoes, which are native to the Andes region in South America, produce pea-sized fruits. Over many generations, peoples such as the Aztecs and Incas transformed the plant by selecting and breeding plants with mutations* in their genetic structure, which resulted in desirable traits such as larger fruit."
+     },
+     {
+      "text": "But every time a single plant with a mutation is taken from a larger population for breeding, much genetic diversity is lost. And sometimes the desirable mutations come with less desirable traits. For instance, the tomato strains grown for supermarkets have lost much of their flavour."
+     },
+     {
+      "text": "By comparing the genomes of modern plants to those of their wild relatives, biologists have been working out what genetic changes occurred as plants were domesticated. The teams in Brazil and China have now used this knowledge to reintroduce these changes from scratch while maintaining or even enhancing the desirable traits of wild strains."
+     },
+     {
+      "label": "C",
+      "text": "Kudla's team made six changes altogether. For instance, they tripled the size of fruit by editing a gene called FRUIT WEIGHT, and increased the number of tomatoes per truss by editing another called MULTIFLORA."
+     },
+     {
+      "text": "While the historical domestication of tomatoes reduced levels of the red pigment lycopene – thought to have potential health benefits – the team in Brazil managed to boost it instead. The wild tomato has twice as much lycopene as cultivated ones; the newly domesticated one has five times as much."
+     },
+     {
+      "text": "'They are quite tasty,' says Kudla. 'A little bit strong. And very aromatic.'"
+     },
+     {
+      "text": "The team in China re-domesticated several strains of wild tomatoes with desirable traits lost in domesticated tomatoes. In this way they managed to create a strain resistant to a common disease called bacterial spot race, which can devastate yields. They also created another strain that is more salt tolerant – and has higher levels of vitamin C."
+     },
+     {
+      "label": "D",
+      "text": "Meanwhile, Joyce Van Eck at the Boyce Thompson Institute in New York state decided to use the same approach to domesticate the groundcherry or goldenberry (*Physalis pruinosa*) for the first time. This fruit looks similar to the closely related Cape gooseberry (*Physalis peruviana*)."
+     },
+     {
+      "text": "Groundcherries are already sold to a limited extent in the US but they are hard to produce because the plant has a sprawling growth habit and the small fruits fall off the branches when ripe. Van Eck's team has edited the plants to increase fruit size, make their growth more compact and to stop fruits dropping. 'There's potential for this to be a commercial crop,' says Van Eck. But she adds that taking the work further would be expensive because of the need to pay for a licence for the CRISPR technology and get regulatory approval."
+     },
+     {
+      "label": "E",
+      "text": "This approach could boost the use of many obscure plants, says Jonathan Jones of the Sainsbury Lab in the UK. But it will be hard for new foods to grow so popular with farmers and consumers that they become new staple crops, he thinks."
+     },
+     {
+      "text": "The three teams already have their eye on other plants that could be 'catapulted into the mainstream', including foxtail, oat-grass and cowpea. By choosing wild plants that are drought or heat tolerant, says Gao, we could create crops that will thrive even as the planet warms."
+     },
+     {
+      "text": "But Kudla didn't want to reveal which species were in his team's sights, because CRISPR has made the process so easy. 'Any one with the right skills could go to their lab and do this.'"
+     },
+     {
+      "kind": "note",
+      "text": "* mutations: changes in an organism's genetic structure that can be passed down to later generations"
+     }
+    ],
+    "groups": [
+     {
+      "id": "R2-1",
+      "type": "matching",
+      "range": [
+       14,
+       18
+      ],
+      "instructions": [
+       "Reading Passage 2 has five sections, **A–E**.",
+       "Which section contains the following information?",
+       "Write the correct letter, **A–E**, in boxes 14–18 on your answer sheet.",
+       "**NB** You may use any letter more than once."
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": ""
+       },
+       {
+        "key": "B",
+        "text": ""
+       },
+       {
+        "key": "C",
+        "text": ""
+       },
+       {
+        "key": "D",
+        "text": ""
+       },
+       {
+        "key": "E",
+        "text": ""
+       }
+      ],
+      "reuse": true,
+      "questions": [
+       {
+        "n": 14,
+        "text": "a reference to a type of tomato that can resist a dangerous infection"
+       },
+       {
+        "n": 15,
+        "text": "an explanation of how problems can arise from focusing only on a certain type of tomato plant."
+       },
+       {
+        "n": 16,
+        "text": "a number of examples of plants that are not cultivated at present but could be useful as food sources"
+       },
+       {
+        "n": 17,
+        "text": "a comparison between the early domestication of the tomato and more recent research"
+       },
+       {
+        "n": 18,
+        "text": "a personal reaction to the flavour of a tomato that has been genetically edited"
+       }
+      ]
+     },
+     {
+      "id": "R2-2",
+      "type": "matching",
+      "range": [
+       19,
+       23
+      ],
+      "instructions": [
+       "Look at the following statements (Questions 19–23) and the list of researchers below.",
+       "Match each statement with the correct researcher, **A–D**.",
+       "Write the correct letter, **A–D**, in boxes 19–23 on your answer sheet.",
+       "**NB** You may use any letter more than once."
+      ],
+      "optionsTitle": "List of Researchers",
+      "options": [
+       {
+        "key": "A",
+        "text": "Jorg Kudla"
+       },
+       {
+        "key": "B",
+        "text": "Caixia Gao"
+       },
+       {
+        "key": "C",
+        "text": "Joyce Van Eck"
+       },
+       {
+        "key": "D",
+        "text": "Jonathan Jones"
+       }
+      ],
+      "reuse": true,
+      "questions": [
+       {
+        "n": 19,
+        "text": "Domestication of certain plants could allow them to adapt to future environmental challenges."
+       },
+       {
+        "n": 20,
+        "text": "The idea of growing and eating unusual plants may not be accepted on a large scale."
+       },
+       {
+        "n": 21,
+        "text": "It is not advisable for the future direction of certain research to be made public."
+       },
+       {
+        "n": 22,
+        "text": "Present efforts to domesticate one wild fruit are limited by the costs involved."
+       },
+       {
+        "n": 23,
+        "text": "Humans only make use of a small proportion of the plant food available on Earth."
+       }
+      ]
+     },
+     {
+      "id": "R2-3",
+      "type": "completion",
+      "range": [
+       24,
+       26
+      ],
+      "instructions": [
+       "Complete the sentences below.",
+       "Choose **ONE WORD ONLY** from the passage for each answer.",
+       "Write your answers in boxes 24–26 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "p",
+        "text": "An undesirable trait such as loss of {{24}} may be caused by a mutation in a tomato gene."
+       },
+       {
+        "t": "p",
+        "text": "By modifying one gene in a tomato plant, researchers made the tomato three times its original {{25}}."
+       },
+       {
+        "t": "p",
+        "text": "A type of tomato which was not badly affected by {{26}}, and was rich in vitamin C, was produced by a team of researchers in China."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "passage": 3,
+    "range": [
+     27,
+     40
+    ],
+    "pages": [
+     38,
+     39,
+     40,
+     41,
+     42
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 27–40**, which are based on Reading Passage 3 below.",
+    "title": "Insight or evolution?",
+    "subtitle": "Two scientists consider the origins of discoveries and other innovative behavior",
+    "paragraphs": [
+     {
+      "text": "Scientific discovery is popularly believed to result from the sheer genius of such intellectual stars as naturalist Charles Darwin and theoretical physicist Albert Einstein. Our view of such unique contributions to science often disregards the person's prior experience and the efforts of their lesser-known predecessors. Conventional wisdom also places great weight on insight in promoting breakthrough scientific achievements, as if ideas spontaneously pop into someone's head – fully formed and functional."
+     },
+     {
+      "text": "There may be some limited truth to this view. However, we believe that it largely misrepresents the real nature of scientific discovery, as well as that of creativity and innovation in many other realms of human endeavor."
+     },
+     {
+      "text": "Setting aside such greats as Darwin and Einstein – whose monumental contributions are duly celebrated – we suggest that innovation is more a process of trial and error, where two steps forward may sometimes come with one step back, as well as one or more steps to the right or left. This evolutionary view of human innovation undermines the notion of creative genius and recognizes the cumulative nature of scientific progress."
+     },
+     {
+      "text": "Consider one unheralded scientist: John Nicholson, a mathematical physicist working in the 1910s who postulated the existence of 'proto-elements' in outer space. By combining different numbers of weights of these proto-elements' atoms, Nicholson could recover the weights of all the elements in the then-known periodic table. These successes are all the more noteworthy given the fact that Nicholson was wrong about the presence of proto-elements: they do not actually exist. Yet, amid his often fanciful theories and wild speculations, Nicholson also proposed a novel theory about the structure of atoms. Niels Bohr, the Nobel prize-winning father of modern atomic theory, jumped off from this interesting idea to conceive his now-famous model of the atom."
+     },
+     {
+      "text": "What are we to make of this story? One might simply conclude that science is a collective and cumulative enterprise. That may be true, but there may be a deeper insight to be gleaned. We propose that science is constantly evolving, much as species of animals do. In biological systems, organisms may display new characteristics that result from random genetic mutations. In the same way, random, arbitrary or accidental mutations of ideas may help pave the way for advances in science. If mutations prove beneficial, then the animal or the scientific theory will continue to thrive and perhaps reproduce."
+     },
+     {
+      "text": "Support for this evolutionary view of behavioral innovation comes from many domains. Consider one example of an influential innovation in US horseracing. The so-called 'acey-deucy' stirrup placement, in which the rider's foot in his left stirrup is placed as much as 25 centimeters lower than the right, is believed to confer important speed advantages when turning on oval tracks. It was developed by a relatively unknown jockey named Jackie Westrope. Had Westrope conducted methodical investigations or examined extensive film records in a shrewd plan to outrun his rivals? Had he foreseen the speed advantage that would be conferred by riding acey-deucy? No. He suffered a leg injury, which left him unable to fully bend his left knee. His modification just happened to coincide with enhanced left-hand turning performance. This led to the rapid and widespread adoption of riding acey-deucy by many riders, a racing style which continues in today's thoroughbred racing."
+     },
+     {
+      "text": "Plenty of other stories show that fresh advances can arise from error, misadventure, and also pure serendipity – a happy accident. For example, in the early 1970s, two employees of the company 3M each had a problem: Spencer Silver had a product – a glue which was only slightly sticky – and no use for it, while his colleague Art Fry was trying to figure out how to affix temporary bookmarks in his hymn book without damaging its pages. The solution to both these problems was the invention of the brilliantly simple yet phenomenally successful Post-It note. Such examples give lie to the claim that ingenious, designing minds are responsible for human creativity and invention. Far more banal and mechanical forces may be at work; forces that are fundamentally connected to the laws of science."
+     },
+     {
+      "text": "The notions of insight, creativity and genius are often invoked, but they remain vague and of doubtful scientific utility, especially when one considers the diverse and enduring contributions of individuals such as Plato, Leonardo da Vinci, Shakespeare, Beethoven, Galileo, Newton, Kepler, Curie, Pasteur and Edison. These notions merely label rather than explain the evolution of human innovations. We need another approach, and there is a promising candidate."
+     },
+     {
+      "text": "The Law of Effect was advanced by psychologist Edward Thorndike in 1898, some 40 years after Charles Darwin published his groundbreaking work on biological evolution, *On the Origin of Species*. This simple law holds that organisms tend to repeat successful behaviors and to refrain from performing unsuccessful ones. Just like Darwin's Law of Natural Selection, the Law of Effect involves an entirely mechanical process of variation and selection, without any end objective in sight."
+     },
+     {
+      "text": "Of course, the origin of human innovation demands much further study. In particular, the provenance of the raw material on which the Law of Effect operates is not as clearly known as that of the genetic mutations on which the Law of Natural Selection operates. The generation of novel ideas and behaviors may not be entirely random, but constrained by prior successes and failures – of the current individual (such as Bohr) or of predecessors (such as Nicholson)."
+     },
+     {
+      "text": "The time seems right for abandoning the naive notions of intelligent design and genius, and for scientifically exploring the true origins of creative behavior."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R3-1",
+      "type": "choice",
+      "range": [
+       27,
+       31
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B**, **C** or **D**.",
+       "Write the correct letter in boxes 27–31 on your answer sheet."
+      ],
+      "questions": [
+       {
+        "n": 27,
+        "text": "The purpose of the first paragraph is to",
+        "options": [
+         {
+          "key": "A",
+          "text": "defend particular ideas."
+         },
+         {
+          "key": "B",
+          "text": "compare certain beliefs."
+         },
+         {
+          "key": "C",
+          "text": "disprove a widely held view."
+         },
+         {
+          "key": "D",
+          "text": "outline a common assumption."
+         }
+        ]
+       },
+       {
+        "n": 28,
+        "text": "What are the writers doing in the second paragraph?",
+        "options": [
+         {
+          "key": "A",
+          "text": "criticising an opinion"
+         },
+         {
+          "key": "B",
+          "text": "justifying a standpoint"
+         },
+         {
+          "key": "C",
+          "text": "explaining an approach"
+         },
+         {
+          "key": "D",
+          "text": "supporting an argument"
+         }
+        ]
+       },
+       {
+        "n": 29,
+        "text": "In the third paragraph, what do the writers suggest about Darwin and Einstein?",
+        "options": [
+         {
+          "key": "A",
+          "text": "They represent an exception to a general rule."
+         },
+         {
+          "key": "B",
+          "text": "Their way of working has been misunderstood."
+         },
+         {
+          "key": "C",
+          "text": "They are an ideal which others should aspire to."
+         },
+         {
+          "key": "D",
+          "text": "Their achievements deserve greater recognition."
+         }
+        ]
+       },
+       {
+        "n": 30,
+        "text": "John Nicholson is an example of a person whose idea",
+        "options": [
+         {
+          "key": "A",
+          "text": "established his reputation as an influential scientist."
+         },
+         {
+          "key": "B",
+          "text": "was only fully understood at a later point in history."
+         },
+         {
+          "key": "C",
+          "text": "laid the foundations for someone else's breakthrough."
+         },
+         {
+          "key": "D",
+          "text": "initially met with scepticism from the scientific community."
+         }
+        ]
+       },
+       {
+        "n": 31,
+        "text": "What is the key point of interest about the 'acey-deucy' stirrup placement?",
+        "options": [
+         {
+          "key": "A",
+          "text": "the simple reason why it was invented"
+         },
+         {
+          "key": "B",
+          "text": "the enthusiasm with which it was adopted"
+         },
+         {
+          "key": "C",
+          "text": "the research that went into its development"
+         },
+         {
+          "key": "D",
+          "text": "the cleverness of the person who first used it"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "R3-2",
+      "type": "ynng",
+      "range": [
+       32,
+       36
+      ],
+      "instructions": [
+       "Do the following statements agree with the claims of the writer in Reading Passage 3?",
+       "In boxes 32–36 on your answer sheet, write",
+       "**YES** if the statement agrees with the claims of the writer",
+       "**NO** if the statement contradicts the claims of the writer",
+       "**NOT GIVEN** if it is impossible to say what the writer thinks about this"
+      ],
+      "questions": [
+       {
+        "n": 32,
+        "text": "Acknowledging people such as Plato or da Vinci as geniuses will help us understand the process by which great minds create new ideas."
+       },
+       {
+        "n": 33,
+        "text": "The Law of Effect was discovered at a time when psychologists were seeking a scientific reason why creativity occurs."
+       },
+       {
+        "n": 34,
+        "text": "The Law of Effect states that no planning is involved in the behaviour of organisms."
+       },
+       {
+        "n": 35,
+        "text": "The Law of Effect sets out clear explanations about the sources of new ideas and behaviours."
+       },
+       {
+        "n": 36,
+        "text": "Many scientists are now turning away from the notion of intelligent design and genius."
+       }
+      ]
+     },
+     {
+      "id": "R3-3",
+      "type": "completion",
+      "range": [
+       37,
+       40
+      ],
+      "instructions": [
+       "Complete the summary using the list of words, **A–G**, below.",
+       "Write the correct letter, **A–G**, in boxes 37–40 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "The origins of creative behaviour"
+       },
+       {
+        "t": "p",
+        "text": "The traditional view of scientific discovery is that breakthroughs happen when a single great mind has sudden {{37}}. Although this can occur, it is not often the case. Advances are more likely to be the result of a longer process. In some cases, this process involves {{38}}, such as Nicholson's theory about proto-elements. In others, simple necessity may provoke innovation, as with Westrope's decision to modify the position of his riding stirrups. There is also often an element of {{39}}, for example, the coincidence of ideas that led to the invention of the Post-It note. With both the Law of Natural Selection and the Law of Effect, there may be no clear {{40}} involved, but merely a process of variation and selection."
+       }
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": "invention"
+       },
+       {
+        "key": "B",
+        "text": "goals"
+       },
+       {
+        "key": "C",
+        "text": "compromise"
+       },
+       {
+        "key": "D",
+        "text": "mistakes"
+       },
+       {
+        "key": "E",
+        "text": "luck"
+       },
+       {
+        "key": "F",
+        "text": "inspiration"
+       },
+       {
+        "key": "G",
+        "text": "experiments"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "answers": {
+   "1": {
+    "a": [
+     "rock"
+    ]
+   },
+   "2": {
+    "a": [
+     "cave"
+    ]
+   },
+   "3": {
+    "a": [
+     "clay"
+    ]
+   },
+   "4": {
+    "a": [
+     "Essenes"
+    ]
+   },
+   "5": {
+    "a": [
+     "Hebrew"
+    ]
+   },
+   "6": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "7": {
+    "a": [
+     "FALSE"
+    ]
+   },
+   "8": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "9": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "10": {
+    "a": [
+     "FALSE"
+    ]
+   },
+   "11": {
+    "a": [
+     "FALSE"
+    ]
+   },
+   "12": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "13": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "14": {
+    "a": [
+     "C"
+    ]
+   },
+   "15": {
+    "a": [
+     "B"
+    ]
+   },
+   "16": {
+    "a": [
+     "E"
+    ]
+   },
+   "17": {
+    "a": [
+     "A"
+    ]
+   },
+   "18": {
+    "a": [
+     "C"
+    ]
+   },
+   "19": {
+    "a": [
+     "B"
+    ]
+   },
+   "20": {
+    "a": [
+     "D"
+    ]
+   },
+   "21": {
+    "a": [
+     "A"
+    ]
+   },
+   "22": {
+    "a": [
+     "C"
+    ]
+   },
+   "23": {
+    "a": [
+     "A"
+    ]
+   },
+   "24": {
+    "a": [
+     "flavour",
+     "flavor"
+    ],
+    "k": "flavour / flavor"
+   },
+   "25": {
+    "a": [
+     "size"
+    ]
+   },
+   "26": {
+    "a": [
+     "salt"
+    ]
+   },
+   "27": {
+    "a": [
+     "D"
+    ]
+   },
+   "28": {
+    "a": [
+     "A"
+    ]
+   },
+   "29": {
+    "a": [
+     "A"
+    ]
+   },
+   "30": {
+    "a": [
+     "C"
+    ]
+   },
+   "31": {
+    "a": [
+     "A"
+    ]
+   },
+   "32": {
+    "a": [
+     "NO"
+    ]
+   },
+   "33": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "34": {
+    "a": [
+     "YES"
+    ]
+   },
+   "35": {
+    "a": [
+     "NO"
+    ]
+   },
+   "36": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "37": {
+    "a": [
+     "F"
+    ]
+   },
+   "38": {
+    "a": [
+     "D"
+    ]
+   },
+   "39": {
+    "a": [
+     "E"
+    ]
+   },
+   "40": {
+    "a": [
+     "B"
+    ]
+   }
+  }
+ },
+ "writing": {
+  "tasks": [
+   {
+    "task": 1,
+    "minutes": 20,
+    "minWords": 150,
+    "pages": [
+     43
+    ],
+    "prompt": [
+     "The table and charts below give information on the police budget for 2017 and 2018 in one area of Britain. The table shows where the money came from and the charts show how it was distributed.",
+     "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+    ],
+    "image": "images/C17/C17-T2-W1.png",
+    "sample": {
+     "kind": "candidate",
+     "band": "7.5",
+     "text": "The table illustrates the data on the police budget in which the money came from and the two pie charts describe the distribution of the amount of money in the two of year 2017 and 2018 in an area of Britain. Overall, there was an upward trend in all three different sources while the money spent on salaries was always the majority of contribution.\n\nLooking into more details, the highest amount of money on the police budget belonged to 'National Government', 175.5 million pounds in 2017 and it kept rising to 177.8 million pounds. Thus was followed by 'Local Taxes', at 91.2 million pounds in 2017, after one year, it increase significantly to 102.3 million pounds.\n\nIn term of the how the money was spent, the majority of police budget goes to salaries which was for officers and staff, dropping slightly from 75% in 2017 to 69% in 2018. Meanwhile, the proportion of 'Buildings and transport' remained constantly, at 17% each year. An opposite pattern can be seen in the category of technology, its figure rose sharply from 8% in 2017 to 14% in 2018, which was always the lowest rate during the given period.",
+     "comment": "This is a strong response. The candidate provides a clear overview at the end of the first paragraph which highlights the consistently increasing trend from the table and identifies the largest category from the pie charts. Full details are given for the first two sources of the budget but, to achieve a higher rating, key features in the table could be more fully extended.\n\nInformation is presented in the order of the table first and then the charts, in a logical manner. The test taker demonstrates a good range of cohesive devices [*while* | *which was*] and uses three paragraphs appropriately to organise and sequence the required data.\n\nThere is a wide range of vocabulary [*figure rose sharply* | *during the given period*] with accurate spelling, although there are occasional errors in word choice. The range of grammatical structures is wide, including modal [*can*] and continuous forms [*kept rising*] – although there are occasional errors e.g. using present tenses [*goes on*] to describe data from 2017 and 2018.\n\nTo improve this response, the key features presented from the table could be more fully extended. The candidate could also reduce the few errors in sentence structure."
+    }
+   },
+   {
+    "task": 2,
+    "minutes": 40,
+    "minWords": 250,
+    "pages": [
+     44
+    ],
+    "prompt": [
+     "Write about the following topic:",
+     "*Some children spend hours every day on their smartphones.*",
+     "*Why is this the case? Do you think this is a positive or a negative development?*",
+     "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+    ],
+    "sample": {
+     "kind": "candidate",
+     "band": "6.5",
+     "text": "Mobile phones, nowadays, contains essential features with entertainment also. There has been a large growth seen in usage hours of smartphones among youngsters. There are several reasons behind this situation and I find this development more beneficial than negative. Both the reasons and my view is elaborated further.\n\nThe first reason for overusage of smart devices by youngsters is the social benefit they provide. The smart phone connected with internet opens up the large possibilities, from creating new friends to communicating with them over social media. For instance, a child in my neighbourhood chats for hours with his school friends over Facebook (a social media) and also spend time over online video sharing phone application. Moreover, the mobile gaming, specially multiplayer games, is another major reason for the situation. Children plays different kind of games over mobile for the entertainment purpose and they involve themselves in games in such a manner, that they forget about the timing and other work to do.\n\nHowever, I believe that smartphones have also increased the knowledge of pupils. It has developed some important social skills, such as communication skill, team work and many more, by allowing them to work and play in groups, without the restriction of distance. In addition, children can learn through internet by watchin online videos and reading articles, which ultimately helps them in their studies as well as language skills. For example, whenever my niece require to know about something, he searches it over the internet and learns from it. Moreover, multiplayer online gaming improves their multitasking ability and it also gives them a competitive environment\n\nOverall, I agree that overusage of smartphones on regular basis is harmful for them, but if given proper guidance, mobile phones can help them in learning some life-long skills.",
+     "comment": "This response addresses both parts of the question. A range of ideas is expressed and the candidate gives their position in the opening paragraph and then provides evidence and relevant examples.\n\nIdeas are logically organised and there is clear progression throughout the four paragraphs. A range of cohesive devices are used [*The first reason* | *For instance* | *Moreover*] with referencing used appropriately [*they* | *themselves* | *their studies* | *it*].\n\nThe range of vocabulary is good with examples of higher-level items [*social skills* | *restriction of distance* | *ultimately*] and there are few errors [*overusage* / overuse | *niece … he* / niece … she | *watchin* / watching | *require to know* / needs to know]. Similarly, the range of grammatical structures is reasonable, but the level of error means the Band Score cannot be higher than 6.5."
+    }
+   }
+  ]
+ },
+ "issues": []
+}

@@ -1,0 +1,1608 @@
+{
+ "schema": "ielts-mock.exam/1",
+ "id": "C5-T1",
+ "source": {
+  "book": 5,
+  "test": 1
+ },
+ "title": "Cambridge IELTS 5 · Test 1",
+ "listening": {
+  "parts": [
+   {
+    "part": 1,
+    "range": [
+     1,
+     10
+    ],
+    "pages": [
+     11,
+     12
+    ],
+    "groups": [
+     {
+      "id": "L1-1",
+      "type": "completion",
+      "range": [
+       1,
+       4
+      ],
+      "instructions": [
+       "Complete the notes below.",
+       "Write **NO MORE THAN TWO WORDS AND/OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Dreamtime travel agency"
+       },
+       {
+        "t": "sub",
+        "text": "Tour information"
+       },
+       {
+        "t": "note",
+        "text": "*Example* Holiday name: *Whale Watch* Experience"
+       },
+       {
+        "t": "table",
+        "header": 0,
+        "rows": [
+         [
+          "Holiday length",
+          "2 days"
+         ],
+         [
+          "Type of transportation",
+          "{{1}}"
+         ],
+         [
+          "Maximum group size",
+          "{{2}}"
+         ],
+         [
+          "Next tour date",
+          "{{3}}"
+         ],
+         [
+          "Hotel name",
+          "The {{4}}"
+         ]
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L1-2",
+      "type": "multi",
+      "range": [
+       5,
+       6
+      ],
+      "n": [
+       5,
+       6
+      ],
+      "select": 2,
+      "instructions": [
+       "Choose **TWO** letters **A–E**."
+      ],
+      "text": "Which **TWO** things are included in the price of the tour?",
+      "options": [
+       {
+        "key": "A",
+        "text": "fishing trip"
+       },
+       {
+        "key": "B",
+        "text": "guided bushwalk"
+       },
+       {
+        "key": "C",
+        "text": "reptile park entry"
+       },
+       {
+        "key": "D",
+        "text": "table tennis"
+       },
+       {
+        "key": "E",
+        "text": "tennis"
+       }
+      ]
+     },
+     {
+      "id": "L1-3",
+      "type": "completion",
+      "range": [
+       7,
+       10
+      ],
+      "instructions": [
+       "Complete the sentences below.",
+       "Write **NO MORE THAN THREE WORDS AND/OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "p",
+        "text": "The tour costs ${{7}}."
+       },
+       {
+        "t": "p",
+        "text": "Bookings must be made no later than {{8}} days in advance."
+       },
+       {
+        "t": "p",
+        "text": "A {{9}} deposit is required."
+       },
+       {
+        "t": "p",
+        "text": "The customer's reference number is {{10}}."
+       }
+      ]
+     }
+    ],
+    "transcript": "RECEPTIONIST: Good afternoon, Dreamtime Travel. How can I help you?\nCUSTOMER: Oh hello. I'm interested in the holidays you offer along the coast near here.\nRECEPTIONIST: Yes. We operate several tours up the coast. Where in particular did you want to go?\nCUSTOMER: Well, I like the sound of the holiday that mentioned whales. Was it 'Whale Watching'?\nRECEPTIONIST: Oh, that's our Whale Watch Experience. It's very popular and it's based in a lovely little town with nice beaches.\nCUSTOMER: Oh right, and how long does it last?\nRECEPTIONIST: It's two days – that includes four hours' travel time each way from here.\nCUSTOMER: Good, I don't want to be away any longer than that. So is that by coach?\nRECEPTIONIST: Actually it's by minibus. We like to keep those tours small and [Q1] personal so we don't take a whole coachload of people. In fact, we only take up to fifteen people on this tour, although we do run it [Q2] with just twelve or thirteen.\nCUSTOMER: Oh, right. So do you run these tours often?\nRECEPTIONIST: Well it depends on the time of year. Of course in peak times like the summer holidays we do them every weekend, but at the moment it's usually once a month at most.\nCUSTOMER: And when is the next one going?\nRECEPTIONIST: Mmm, let me see. Um, there's one in three weeks' time which is April the 18th, and then we don't have another one until June the 2nd. [Q3]\nCUSTOMER: All right, and is April a good time to go?\nRECEPTIONIST: Pretty good. Though the really good time is later in the year. I have to say though that the whale sighting is only one of the many things offered.\nCUSTOMER: Really?\nRECEPTIONIST: Yes. The hotel itself where you stay has great facilities. It's called The Pallisades.\nCUSTOMER: The Paris what?\nRECEPTIONIST: No, it's actually The Pallisades, P-A-L-L-I-S-A-D-E-S. It's right on [Q4] the main beach there\nCUSTOMER: Oh, I see.\nRECEPTIONIST: All of the rooms have nice views and the food is really good there too.\nCUSTOMER: Oh right.\nCUSTOMER: And what about the other things? You know, that are included in the price.\nRECEPTIONIST: Oh, there are lots of things. If you don't want to do the whale watch cruise, your guide will take anyone who is interested either on a bushwalk through the national park near the hotel, and there's no [Q5/Q6] extra charge for that, or on a fishing trip. That's an extra $12 I think. And there's also a reptile park in town – that costs more or less the same.\nCUSTOMER: No, I think I'd prefer whales to snakes.\nRECEPTIONIST: Yeah. And if you just want to relax you are free to sit by the hotel pool or go down the beach. Oh, and they also have tennis courts at the hotel, but you have to pay for those by the hour. But there are table tennis tables downstairs and they're part of the [Q5/Q6] accommodation package. Just speak to your guide.\nCUSTOMER: Well that sounds good. So how much is the basic tour price?\nRECEPTIONIST: At this time of year it's usually around $300 but let me check. Er...oh, it's actually $280. [Q7]\nCUSTOMER: And the next tour, are there any places on that one?\nRECEPTIONIST: How many people is it for?\nCUSTOMER: There are two of us.\nRECEPTIONIST: Yes, that should be fine. Can I just mention that we require all bookings to be made at least fourteen days before you travel to [Q8] avoid cancellations of tours. And if you cancel within seven days of departure you will have to pay 50% of your total booking.\nCUSTOMER: OK.\nRECEPTIONIST: And you also need to pay a 20% deposit at the time of booking. [Q9]\nCUSTOMER: Can I pay that by credit card?\nRECEPTIONIST: Yes, you can.\nCUSTOMER: All right, what I'll do is I'll talk to my partner and get back to you.\nRECEPTIONIST: Fine. So I'll make a provisional booking, shall I? – two for the Whale Watch Experience. Let me issue you with a customer reference number for when you call back. Do you have a pen?\nCUSTOMER: Yes.\nRECEPTIONIST: OK, it's three nine seven, four five, T. That's T for tango. When [Q10] you call back, ask to speak to the Tour Manager, that's me, Tracy.\nCUSTOMER: Fine. I will."
+   },
+   {
+    "part": 2,
+    "range": [
+     11,
+     20
+    ],
+    "pages": [
+     13
+    ],
+    "groups": [
+     {
+      "id": "L2-1",
+      "type": "completion",
+      "range": [
+       11,
+       19
+      ],
+      "instructions": [
+       "Complete the table below.",
+       "Write **NO MORE THAN THREE WORDS** for each answer."
+      ],
+      "content": [
+       {
+        "t": "table",
+        "header": 1,
+        "rows": [
+         [
+          "Brand of Cot",
+          "Good Points",
+          "Problems",
+          "Verdict"
+         ],
+         [
+          "*Baby Safe*",
+          "Easy to {{11}}",
+          "• Did not have any {{12}}\n• Babies could trap their {{13}} in the side bar",
+          "{{14}}"
+         ],
+         [
+          "*Choice Cots*",
+          "Easy to {{15}}",
+          "• Side did not drop down\n• Spaces between the bars were {{16}}",
+          "{{17}}"
+         ],
+         [
+          "*Mother's Choice*",
+          "Base of cot could be moved",
+          "• Did not have any {{18}}\n• Pictures could be removed easily",
+          "{{19}}"
+         ]
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L2-2",
+      "type": "completion",
+      "range": [
+       20,
+       20
+      ],
+      "instructions": [
+       "Complete the notes below.",
+       "Write **ONE WORD ONLY** for the answer."
+      ],
+      "content": [
+       {
+        "t": "li",
+        "text": "Metal should not be rusted or bent"
+       },
+       {
+        "t": "li",
+        "text": "Edges of cot should not be {{20}}"
+       }
+      ]
+     }
+    ],
+    "transcript": "Hello and welcome to today's 'Buyer Beware' programme, where we give you some tips on how to spend your money wisely. Now, in today's show we're looking at beds for children and babies. Let's start by looking at baby cots, that's for children of up to three years old. We tested three different cots all in the budget price range and, as usual, we will feature the good points, the problems and our verdict.\nThe first cot we looked at was by Baby Safe and it had several good points to recommend it. Our testers liked the fact that it had four wheels, so it was easy to move around. The only [Q11] slight problems with this cot were that it had no brakes, but they didn't think that mattered [Q12] too much. At first they were a bit concerned about the side bar, because they felt babies [Q13] could trap their fingers in it, but our testers felt that this was unlikely to happen so they have given this one a verdict of 'satisfactory'. [Q14]\nThe next cot was by Choice Cots and this time our testers were pleased to find a cot which is simple to put together – unlike others we looked at. On the minus side, our testers did [Q15] not like the fact that the side of the cot did not drop down, making it difficult to pick up newborn babies. However, the real problem with this cot was the space between the bars: our testers found they were too wide and a baby could easily trap his head. We felt this [Q16] was a real safety hazard and so we have labelled this one dangerous, I'm afraid. [Q17]\nAnd finally better news for the Mother's Choice cot. This cot was slightly different in that, although the side bar did not drop down, the base could be raised or lowered into two different positions making it safe as well as convenient. The negatives for this one were quite minor: the only niggle everyone had was the fact that it has no wheels and the only [Q18] other problem anyone could find, was that there were pictures which were simply stuck on and so could easily become detached. The makers have now promised to discontinue this practice. As this cot will then be safe in every way, we have made the Mother's Choice cot our best buy. Congratulations Mother's Choice! [Q19]\nSo, what features should you look for in a baby's cot? Well obviously safety is a very important factor as well as comfort and convenience. We recommend that, if you are buying a cot, do make sure that any metal present is not rusted or bent in any way. You should ensure your cot has only rounded or smooth edging without any sharp edges, [Q20] this is especially important for wooden cots.\nAnd now on to beds for toddlers..."
+   },
+   {
+    "part": 3,
+    "range": [
+     21,
+     30
+    ],
+    "pages": [
+     14,
+     15
+    ],
+    "groups": [
+     {
+      "id": "L3-1",
+      "type": "choice",
+      "range": [
+       21,
+       23
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B** or **C**."
+      ],
+      "questions": [
+       {
+        "n": 21,
+        "text": "Andrew has worked at the hospital for",
+        "options": [
+         {
+          "key": "A",
+          "text": "two years."
+         },
+         {
+          "key": "B",
+          "text": "three years."
+         },
+         {
+          "key": "C",
+          "text": "five years."
+         }
+        ]
+       },
+       {
+        "n": 22,
+        "text": "During the course Andrew's employers will pay",
+        "options": [
+         {
+          "key": "A",
+          "text": "his fees."
+         },
+         {
+          "key": "B",
+          "text": "his living costs."
+         },
+         {
+          "key": "C",
+          "text": "his salary."
+         }
+        ]
+       },
+       {
+        "n": 23,
+        "text": "The part-time course lasts for",
+        "options": [
+         {
+          "key": "A",
+          "text": "one whole year."
+         },
+         {
+          "key": "B",
+          "text": "18 months."
+         },
+         {
+          "key": "C",
+          "text": "two years."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L3-2",
+      "type": "multi",
+      "range": [
+       24,
+       25
+      ],
+      "n": [
+       24,
+       25
+      ],
+      "select": 2,
+      "instructions": [
+       "Choose **TWO** letters **A–E**."
+      ],
+      "text": "What **TWO** types of coursework are required **each month** on the part-time course?",
+      "options": [
+       {
+        "key": "A",
+        "text": "a case study"
+       },
+       {
+        "key": "B",
+        "text": "an essay"
+       },
+       {
+        "key": "C",
+        "text": "a survey"
+       },
+       {
+        "key": "D",
+        "text": "a short report"
+       },
+       {
+        "key": "E",
+        "text": "a study diary"
+       }
+      ]
+     },
+     {
+      "id": "L3-3",
+      "type": "completion",
+      "range": [
+       26,
+       30
+      ],
+      "instructions": [
+       "Complete the summary below.",
+       "Write **NO MORE THAN THREE WORDS AND/OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Modular Courses"
+       },
+       {
+        "t": "p",
+        "text": "Students study {{26}} during each module. A module takes {{27}} and the work is very {{28}}. To get a Diploma each student has to study {{29}} and then work on {{30}} in depth."
+       }
+      ]
+     }
+    ],
+    "transcript": "ANDREW: Excuse me. I was told to come here for advice about, erm. Management Diploma courses?\nMONICA: You've certainly come to the right place. Hi, my name is Monica.\nANDREW: Nice to meet you. My name is Andrew, Andrew Harris.\nMONICA: So, Andrew, have you seen our diploma course prospectus yet?\nANDREW: Yes, I've already looked at it. In fact, I thought the information on course content was really useful, but I'm afraid I'm a bit confused by all the different ways you can do the course: full-time intensive, part-time and so on.\nMONICA: Well, let's see if I can help. I think each course type has its advantages and disadvantages, so it really depends on you – your own study habits, and your financial circumstances, of course. Are you working at the moment?\nANDREW: Yes, I've been working in the administration section of the local hospital for the last three years. And before that I worked in the office of a computer [Q21] engineering company for two years. So, I've got about five years of relevant work experience. And what I'm hoping to focus on is Personnel Management.\nMONICA: I see. And are you planning to leave your current job to study, or are you thinking about just taking a year off?\nANDREW: I want to know what my options are, really. I don't want to quit my job or anything and my employers are keen for me to get some more qualifications but obviously, it would be better if I could do a course without taking too much time away from work.\nMONICA: Right, so you don't really want to do the full-time course, then?\nANDREW: No, not really. It's also a question of finances. You see, my office have agreed to pay the cost of the course itself, but I would have to take unpaid leave if [Q22] I want to study full-time and, well, I don't think I could afford to support myself with no salary for a whole year.\nMONICA: OK. Well, you have two other possibilities: you could either do the part-time course – that would be over two years and you wouldn't have to take any time [Q23] off work – or you could do what we call a 'modular' course. You could do that in eighteen months if you wanted – or longer, it's quite flexible and it would be up to you.\nANDREW: Mmm. So what does the part-time course involve?\nMONICA: For that you would join an evening class and have a lecture twice a week. Then, you'd have to attend a seminar or discussion workshop one weekend a month.\nANDREW: What kind of coursework would I have to do?\nMONICA: Well, it's a mixture. You'd be expected to write an essay each month, which [Q24/Q25] counts towards your final assessment. You have a case study to do by the end of the course, which might involve doing a survey or something like that, and also you need to hand in a short report every four weeks. [Q24/Q25]\nANDREW: So, that's quite a lot of work, then, on top of working every day. It sounds like a lot of studying – and really tiring.\nMONICA: Yes, you certainly wouldn't have much free time!\nANDREW: What about the 'modular' course? What would I have to do for that?\nMONICA: That's where you get the opportunity to study full-time for short periods. [Q26] That way you can cover a lot of coursework and attend lectures and seminars during the day. And each module lasts for one term, say, about twelve weeks [Q27] at a time. There are obvious advantages in this – the main one being that you can study in a much more intensive way, which suits some people much better. [Q28]\nANDREW: And how many of these 'modules' would I have to do to get the diploma?\nMONICA: The current programme is two modules – and then you have to choose [Q29] a topic to work in more depth – but you can base that on your job, and so [Q30] you don't need to be away from the office, and how long it takes is up to you. The important thing is that you don't have to study and work. You can focus on one thing at a time.\nANDREW: Yes, I can see that. It certainly sounds attractive! It would be more expensive, though. I mean, I'd have to support myself without pay for each module.\nMONICA: That's true, so that might be a problem for you. Look, why don't you talk this over with your employers and ..."
+   },
+   {
+    "part": 4,
+    "range": [
+     31,
+     40
+    ],
+    "pages": [
+     16
+    ],
+    "groups": [
+     {
+      "id": "L4-1",
+      "type": "completion",
+      "range": [
+       31,
+       35
+      ],
+      "instructions": [
+       "Complete the sentences below.",
+       "Write **NO MORE THAN THREE WORDS** for each answer."
+      ],
+      "content": [
+       {
+        "t": "p",
+        "text": "According to George Bernard Shaw, men are supposed to understand {{31}}, economics and finance."
+       },
+       {
+        "t": "p",
+        "text": "However, women are more prepared to {{32}} about them."
+       },
+       {
+        "t": "p",
+        "text": "Women tend to save for {{33}} and a house."
+       },
+       {
+        "t": "p",
+        "text": "Men tend to save for {{34}} and for retirement."
+       },
+       {
+        "t": "p",
+        "text": "Women who are left alone may have to pay for {{35}} when they are old."
+       }
+      ]
+     },
+     {
+      "id": "L4-2",
+      "type": "completion",
+      "range": [
+       36,
+       40
+      ],
+      "instructions": [
+       "Complete the summary below.",
+       "Write **NO MORE THAN THREE WORDS AND/OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Saving for the future"
+       },
+       {
+        "t": "p",
+        "text": "Research indicates that many women only think about their financial future when a {{36}} occurs. This is the worst time to make decisions. It is best for women to start thinking about pensions when they are in their {{37}}. A good way for women to develop their {{38}} in dealing with financial affairs would be to attend classes in {{39}}. When investing in stocks and shares, it is suggested that women should put a high proportion of their savings in {{40}}. In such ways, women can have a comfortable, independent retirement."
+       }
+      ]
+     }
+    ],
+    "transcript": "OK, so we've been looking at the attitudes of various social and cultural groups towards the management of their personal finances – how important they feel it is to save money, and what they save their money for. One aspect that we haven't yet considered is gender. So if we consider gender issues we're basically asking whether men and women have different attitudes towards saving money, and whether they save money for different things.\nBack in 1928 the British writer George Bernard Shaw wrote in his *Intelligent Women's Guide to Socialism and Capitalism* that 'A man is supposed to understand politics. [Q31] economics and finance and is therefore unwilling to accept essential instruction.' He also said, 'A woman, having fewer pretensions, is far more willing to learn'. Now, though these [Q32] days people might question a lot of the assumptions contained in those statements, recent research does suggest that there are some quite fundamental differences between men and women in their attitudes to economic matters.\nLet's look at what men and women actually save for. Research studies of women in North America have found that women are far more likely to save for their children's [Q33] education and they are also more likely to save up in order to buy a house one day. The same studies have found that men, on the other hand, tend to save for a car, which [Q34] by the way takes a surprisingly large amount of the household budget in North America. But the other main priority for men when saving money is their retirement. When they're earning, they're far more likely to put money aside for their old age than women are.\nNow this is rather disturbing, because in fact the need for women to save for their old age is far greater than for men. Let's consider this for a moment. To start with, it is a fact that throughout the world, women are likely to live many years longer than men, so they need money to support them during this time. Since women are likely to be the ones left without a partner in old age, they may therefore have to pay for nursing care, because [Q35] they don't have a spouse to look after them. Furthermore the high divorce rates in North America are creating a poverty cycle for women. It is the divorced women who will most often have to look after the children and thus they need more money to look after not just themselves but others.\nSo what can be done about this situation? The population in North America is likely to contain an increasing number of elderly women. The research indicates that at present for women it takes a crisis to make them think about their future financial situation. [Q36] But of course this is the very worst time for anyone to make important decisions. Women today need to look ahead, think ahead – not wait until they're under pressure. Even women in their early twenties need to think about pensions, for example, and with [Q37] increasing numbers of women in professional positions there are signs that this is beginning to happen. Then research also suggests that women avoid dealing effectively with their economic situation because of a lack of confidence. The best way for them to [Q38] overcome this is by getting themselves properly informed so they are less dependent on other people's advice. A number of initiatives have been set up to help them do this. This College, for example, is one of the educational institutions which offers night classes in Money Management, and increasing numbers of women are enrolling on such courses. [Q39] Here, they can be given advice on different ways of saving. Many women are unwilling to invest in stocks and shares, for instance, but these can be extremely profitable. It is usually advised that at least 70% of a person's savings should be in low-risk investments but for [Q40] the rest, financial advisors often advise taking some well-informed risks. Initiatives such as this can give women the economic skills and knowledge they need for a comfortable, independent retirement.\nThe increasing proportion of elderly women in the population is likely to have other economic consequences ..."
+   }
+  ],
+  "answers": {
+   "1": {
+    "a": [
+     "by minibus",
+     "a minibus"
+    ],
+    "k": "by minibus / a minibus"
+   },
+   "2": {
+    "a": [
+     "15",
+     "15 people"
+    ],
+    "k": "15 / 15 people"
+   },
+   "3": {
+    "a": [
+     "April 18th",
+     "April the 18th"
+    ],
+    "k": "April (the) 18th"
+   },
+   "4": {
+    "a": [
+     "Pallisades"
+    ]
+   },
+   "5": {
+    "a": [
+     "B"
+    ]
+   },
+   "6": {
+    "a": [
+     "D"
+    ]
+   },
+   "7": {
+    "a": [
+     "280"
+    ]
+   },
+   "8": {
+    "a": [
+     "14"
+    ]
+   },
+   "9": {
+    "a": [
+     "20%"
+    ]
+   },
+   "10": {
+    "a": [
+     "39745T"
+    ]
+   },
+   "11": {
+    "a": [
+     "move around",
+     "move about"
+    ],
+    "k": "move around / move about"
+   },
+   "12": {
+    "a": [
+     "brakes"
+    ]
+   },
+   "13": {
+    "a": [
+     "fingers"
+    ]
+   },
+   "14": {
+    "a": [
+     "satisfactory"
+    ]
+   },
+   "15": {
+    "a": [
+     "put together",
+     "put it together"
+    ],
+    "k": "put (it) together"
+   },
+   "16": {
+    "a": [
+     "too wide"
+    ]
+   },
+   "17": {
+    "a": [
+     "dangerous"
+    ]
+   },
+   "18": {
+    "a": [
+     "wheels"
+    ]
+   },
+   "19": {
+    "a": [
+     "best",
+     "the best",
+     "best buy",
+     "the best buy",
+     "safe"
+    ],
+    "k": "(the) best / (the) best buy / safe"
+   },
+   "20": {
+    "a": [
+     "sharp"
+    ]
+   },
+   "21": {
+    "a": [
+     "B"
+    ]
+   },
+   "22": {
+    "a": [
+     "A"
+    ]
+   },
+   "23": {
+    "a": [
+     "C"
+    ]
+   },
+   "24": {
+    "a": [
+     "B"
+    ]
+   },
+   "25": {
+    "a": [
+     "D"
+    ]
+   },
+   "26": {
+    "a": [
+     "full-time"
+    ]
+   },
+   "27": {
+    "a": [
+     "a term",
+     "one term"
+    ],
+    "k": "a term / one term"
+   },
+   "28": {
+    "a": [
+     "intensive"
+    ]
+   },
+   "29": {
+    "a": [
+     "two modules",
+     "two terms",
+     "for two terms"
+    ],
+    "k": "two modules / (for) two terms"
+   },
+   "30": {
+    "a": [
+     "a topic",
+     "one topic"
+    ],
+    "k": "a topic / one topic"
+   },
+   "31": {
+    "a": [
+     "politics"
+    ]
+   },
+   "32": {
+    "a": [
+     "learn"
+    ]
+   },
+   "33": {
+    "a": [
+     "children's education",
+     "their children's education"
+    ],
+    "k": "children's education / their children's education"
+   },
+   "34": {
+    "a": [
+     "a car"
+    ]
+   },
+   "35": {
+    "a": [
+     "nursing care"
+    ]
+   },
+   "36": {
+    "a": [
+     "crisis"
+    ]
+   },
+   "37": {
+    "a": [
+     "early twenties"
+    ]
+   },
+   "38": {
+    "a": [
+     "confidence"
+    ]
+   },
+   "39": {
+    "a": [
+     "money management"
+    ]
+   },
+   "40": {
+    "a": [
+     "low-risk investments"
+    ]
+   }
+  }
+ },
+ "reading": {
+  "passages": [
+   {
+    "passage": 1,
+    "range": [
+     1,
+     13
+    ],
+    "pages": [
+     17,
+     18,
+     19,
+     20
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 1–13**, which are based on Reading Passage 1 below.",
+    "title": "Johnson's Dictionary",
+    "subtitle": null,
+    "paragraphs": [
+     {
+      "text": "For the century before Johnson's *Dictionary* was published in 1775, there had been concern about the state of the English language. There was no standard way of speaking or writing and no agreement as to the best way of bringing some order to the chaos of English spelling. Dr Johnson provided the solution."
+     },
+     {
+      "text": "There had, of course, been dictionaries in the past, the first of these being a little book of some 120 pages, compiled by a certain Robert Cawdray, published in 1604 under the title *A Table Alphabeticall* 'of hard usuall English wordes'. Like the various dictionaries that came after it during the seventeenth century, Cawdray's tended to concentrate on 'scholarly' words; one function of the dictionary was to enable its student to convey an impression of fine learning."
+     },
+     {
+      "text": "Beyond the practical need to make order out of chaos, the rise of dictionaries is associated with the rise of the English middle class, who were anxious to define and circumscribe the various worlds to conquer – lexical as well as social and commercial. It is highly appropriate that Dr Samuel Johnson, the very model of an eighteenth-century literary man, as famous in his own time as in ours, should have published his *Dictionary* at the very beginning of the heyday of the middle class."
+     },
+     {
+      "text": "Johnson was a poet and critic who raised common sense to the heights of genius. His approach to the problems that had worried writers throughout the late seventeenth and early eighteenth centuries was intensely practical. Up until his time, the task of producing a dictionary on such a large scale had seemed impossible without the establishment of an academy to make decisions about right and wrong usage. Johnson decided he did not need an academy to settle arguments about language; he would write a dictionary himself; and he would do it single-handed. Johnson signed the contract for the *Dictionary* with the bookseller Robert Dosley at a breakfast held at the Golden Anchor Inn near Holborn Bar on 18 June 1764. He was to be paid £1,575 in instalments, and from this he took money to rent 17 Gough Square, in which he set up his 'dictionary workshop'."
+     },
+     {
+      "text": "James Boswell, his biographer, described the garret where Johnson worked as 'fitted up like a counting house' with a long desk running down the middle at which the copying clerks would work standing up. Johnson himself was stationed on a rickety chair at an 'old crazy deal table' surrounded by a chaos of borrowed books. He was also helped by six assistants, two of whom died whilst the *Dictionary* was still in preparation."
+     },
+     {
+      "text": "The work was immense; filling about eighty large notebooks (and without a library to hand), Johnson wrote the definitions of over 40,000 words, and illustrated their many meanings with some 114,000 quotations drawn from English writing on every subject, from the Elizabethans to his own time. He did not expect to achieve complete originality. Working to a deadline, he had to draw on the best of all previous dictionaries, and to make his work one of heroic synthesis. In fact, it was very much more. Unlike his predecessors, Johnson treated English very practically, as a living language, with many different shades of meaning. He adopted his definitions on the principle of English common law – according to precedent. After its publication, his *Dictionary* was not seriously rivalled for over a century."
+     },
+     {
+      "text": "After many vicissitudes the *Dictionary* was finally published on 15 April 1775. It was instantly recognised as a landmark throughout Europe. 'This very noble work,' wrote the leading Italian lexicographer, 'will be a perpetual monument of Fame to the Author, an Honour to his own Country in particular, and a general Benefit to the republic of Letters throughout Europe.' The fact that Johnson had taken on the Academies of Europe and matched them (everyone knew that forty French academics had taken forty years to produce the first French national dictionary) was cause for much English celebration."
+     },
+     {
+      "text": "Johnson had worked for nine years, 'with little assistance of the learned, and without any patronage of the great; not in the soft obscurities of retirement, or under the shelter of academic bowers, but amidst inconvenience and distraction, in sickness and in sorrow'. For all its faults and eccentricities his two-volume work is a masterpiece and a landmark, in his own words, 'setting the orthography, displaying the analogy, regulating the structures, and ascertaining the significations of English words'. It is the cornerstone of Standard English, an achievement which, in James Boswell's words, 'conferred stability on the language of his country'."
+     },
+     {
+      "text": "The *Dictionary*, together with his other writing, made Johnson famous and so well esteemed that his friends were able to prevail upon King George III to offer him a pension. From then on, he was to become the Johnson of folklore."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R1-1",
+      "type": "multi",
+      "range": [
+       1,
+       3
+      ],
+      "n": [
+       1,
+       2,
+       3
+      ],
+      "select": 3,
+      "instructions": [
+       "Choose **THREE** letters **A–H**.",
+       "Write your answers in boxes 1–3 on your answer sheet.",
+       "**NB** Your answers may be given in any order."
+      ],
+      "text": "Which **THREE** of the following statements are true of Johnson's *Dictionary*?",
+      "options": [
+       {
+        "key": "A",
+        "text": "It avoided all scholarly words."
+       },
+       {
+        "key": "B",
+        "text": "It was the only English dictionary in general use for 200 years."
+       },
+       {
+        "key": "C",
+        "text": "It was famous because of the large number of people involved."
+       },
+       {
+        "key": "D",
+        "text": "It focused mainly on language from contemporary texts."
+       },
+       {
+        "key": "E",
+        "text": "There was a time limit for its completion."
+       },
+       {
+        "key": "F",
+        "text": "It ignored work done by previous dictionary writers."
+       },
+       {
+        "key": "G",
+        "text": "It took into account subtleties of meaning."
+       },
+       {
+        "key": "H",
+        "text": "Its definitions were famous for their originality."
+       }
+      ]
+     },
+     {
+      "id": "R1-2",
+      "type": "completion",
+      "range": [
+       4,
+       7
+      ],
+      "instructions": [
+       "Complete the summary.",
+       "Choose **NO MORE THAN TWO WORDS** from the passage for each answer.",
+       "Write your answers in boxes 4–7 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "p",
+        "text": "In 1764 Dr Johnson accepted the contract to produce a dictionary. Having rented a garret, he took on a number of {{4}}, who stood at a long central desk. Johnson did not have a {{5}} available to him, but eventually produced definitions of in excess of 40,000 words written down in 80 large notebooks. On publication, the *Dictionary* was immediately hailed in many European countries as a landmark. According to his biographer, James Boswell, Johnson's principal achievement was to bring {{6}} to the English language. As a reward for his hard work, he was granted a {{7}} by the king."
+       }
+      ]
+     },
+     {
+      "id": "R1-3",
+      "type": "tfng",
+      "range": [
+       8,
+       13
+      ],
+      "instructions": [
+       "Do the following statements agree with the information given in Reading Passage 1?",
+       "In boxes 8–13 on your answer sheet, write",
+       "**TRUE** if the statement agrees with the information",
+       "**FALSE** if the statement contradicts the information",
+       "**NOT GIVEN** if there is no information on this"
+      ],
+      "questions": [
+       {
+        "n": 8,
+        "text": "The growing importance of the middle classes led to an increased demand for dictionaries."
+       },
+       {
+        "n": 9,
+        "text": "Johnson has become more well known since his death."
+       },
+       {
+        "n": 10,
+        "text": "Johnson had been planning to write a dictionary for several years."
+       },
+       {
+        "n": 11,
+        "text": "Johnson set up an academy to help with the writing of his *Dictionary*."
+       },
+       {
+        "n": 12,
+        "text": "Johnson only received payment for his *Dictionary* on its completion."
+       },
+       {
+        "n": 13,
+        "text": "Not all of the assistants survived to see the publication of the *Dictionary*."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "passage": 2,
+    "range": [
+     14,
+     26
+    ],
+    "pages": [
+     21,
+     22,
+     23,
+     24
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 14–26**, which are based on Reading Passage 2 below.",
+    "title": "Nature or Nurture?",
+    "subtitle": null,
+    "paragraphs": [
+     {
+      "label": "A",
+      "text": "A few years ago, in one of the most fascinating and disturbing experiments in behavioural psychology, Stanley Milgram of Yale University tested 40 subjects from all walks of life for their willingness to obey instructions given by a 'leader' in a situation in which the subjects might feel a personal distaste for the actions they were called upon to perform. Specifically, Milgram told each volunteer 'teacher-subject' that the experiment was in the noble cause of education, and was designed to test whether or not punishing pupils for their mistakes would have a positive effect on the pupils' ability to learn."
+     },
+     {
+      "label": "B",
+      "text": "Milgram's experimental set-up involved placing the teacher-subject before a panel of thirty switches with labels ranging from '15 volts of electricity (slight shock)' to '450 volts (danger – severe shock)' in steps of 15 volts each. The teacher-subject was told that whenever the pupil gave the wrong answer to a question, a shock was to be administered, beginning at the lowest level and increasing in severity with each successive wrong answer. The supposed 'pupil' was in reality an actor hired by Milgram to simulate receiving the shocks by emitting a spectrum of groans, screams and writhings together with an assortment of statements and expletives denouncing both the experiment and the experimenter. Milgram told the teacher-subject to ignore the reactions of the pupil, and to administer whatever level of shock was called for, as per the rule governing the experimental situation of the moment."
+     },
+     {
+      "label": "C",
+      "text": "As the experiment unfolded, the pupil would deliberately give the wrong answers to questions posed by the teacher, thereby bringing on various electrical punishments, even up to the danger level of 300 volts and beyond. Many of the teacher-subjects balked at administering the higher levels of punishment, and turned to Milgram with questioning looks and/or complaints about continuing the experiment. In these situations, Milgram calmly explained that the teacher-subject was to ignore the pupil's cries for mercy and carry on with the experiment. If the subject was still reluctant to proceed, Milgram said that it was important for the sake of the experiment that the procedure be followed through to the end. His final argument was, 'You have no other choice. You must go on.' What Milgram was trying to discover was the number of teacher-subjects who would be willing to administer the highest levels of shock, even in the face of strong personal and moral revulsion against the rules and conditions of the experiment."
+     },
+     {
+      "label": "D",
+      "text": "Prior to carrying out the experiment, Milgram explained his idea to a group of 39 psychiatrists and asked them to predict the average percentage of people in an ordinary population who would be willing to administer the highest shock level of 450 volts. The overwhelming consensus was that virtually all the teacher-subjects would refuse to obey the experimenter. The psychiatrists felt that 'most subjects would not go beyond 150 volts' and they further anticipated that only four per cent would go up to 300 volts. Furthermore, they thought that only a lunatic fringe of about one in 1,000 would give the highest shock of 450 volts."
+     },
+     {
+      "label": "E",
+      "text": "What were the actual results? Well, over 60 per cent of the teacher-subjects continued to obey Milgram up to the 450-volt limit! In repetitions of the experiment in other countries, the percentage of obedient teacher-subjects was even higher, reaching 85 per cent in one country. How can we possibly account for this vast discrepancy between what calm, rational, knowledgeable people predict in the comfort of their study and what pressured, flustered, but cooperative 'teachers' actually do in the laboratory of real life?"
+     },
+     {
+      "label": "F",
+      "text": "One's first inclination might be to argue that there must be some sort of built-in animal aggression instinct that was activated by the experiment, and that Milgram's teacher-subjects were just following a genetic need to discharge this pent-up primal urge onto the pupil by administering the electrical shock. A modern hard-core sociobiologist might even go so far as to claim that this aggressive instinct evolved as an advantageous trait, having been of survival value to our ancestors in their struggle against the hardships of life on the plains and in the caves, ultimately finding its way into our genetic make-up as a remnant of our ancient animal ways."
+     },
+     {
+      "label": "G",
+      "text": "An alternative to this notion of genetic programming is to see the teacher-subjects' actions as a result of the social environment under which the experiment was carried out. As Milgram himself pointed out, 'Most subjects in the experiment see their behaviour in a larger context that is benevolent and useful to society – the pursuit of scientific truth. The psychological laboratory has a strong claim to legitimacy and evokes trust and confidence in those who perform there. An action such as shocking a victim, which in isolation appears evil, acquires a completely different meaning when placed in this setting.'"
+     },
+     {
+      "label": "H",
+      "text": "Thus, in this explanation the subject merges his unique personality and personal and moral code with that of larger institutional structures, surrendering individual properties like loyalty, self-sacrifice and discipline to the service of malevolent systems of authority."
+     },
+     {
+      "label": "I",
+      "text": "Here we have two radically different explanations for why so many teacher-subjects were willing to forgo their sense of personal responsibility for the sake of an institutional authority figure. The problem for biologists, psychologists and anthropologists is to sort out which of these two polar explanations is more plausible. This, in essence, is the problem of modern sociobiology – to discover the degree to which hard-wired genetic programming dictates, or at least strongly biases, the interaction of animals and humans with their environment, that is, their behaviour. Put another way, sociobiology is concerned with elucidating the biological basis of all behaviour."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R2-1",
+      "type": "matching",
+      "range": [
+       14,
+       19
+      ],
+      "instructions": [
+       "Reading Passage 2 has nine paragraphs, **A–I**.",
+       "Which paragraph contains the following information?",
+       "Write the correct letter **A–I** in boxes 14–19 on your answer sheet."
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": ""
+       },
+       {
+        "key": "B",
+        "text": ""
+       },
+       {
+        "key": "C",
+        "text": ""
+       },
+       {
+        "key": "D",
+        "text": ""
+       },
+       {
+        "key": "E",
+        "text": ""
+       },
+       {
+        "key": "F",
+        "text": ""
+       },
+       {
+        "key": "G",
+        "text": ""
+       },
+       {
+        "key": "H",
+        "text": ""
+       },
+       {
+        "key": "I",
+        "text": ""
+       }
+      ],
+      "questions": [
+       {
+        "n": 14,
+        "text": "a biological explanation of the teacher-subjects' behaviour"
+       },
+       {
+        "n": 15,
+        "text": "the explanation Milgram gave the teacher-subjects for the experiment"
+       },
+       {
+        "n": 16,
+        "text": "the identity of the pupils"
+       },
+       {
+        "n": 17,
+        "text": "the expected statistical outcome"
+       },
+       {
+        "n": 18,
+        "text": "the general aim of sociobiological study"
+       },
+       {
+        "n": 19,
+        "text": "the way Milgram persuaded the teacher-subjects to continue"
+       }
+      ]
+     },
+     {
+      "id": "R2-2",
+      "type": "choice",
+      "range": [
+       20,
+       22
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B**, **C** or **D**.",
+       "Write your answers in boxes 20–22 on your answer sheet."
+      ],
+      "questions": [
+       {
+        "n": 20,
+        "text": "The teacher-subjects were told that they were testing whether",
+        "options": [
+         {
+          "key": "A",
+          "text": "a 450-volt shock was dangerous."
+         },
+         {
+          "key": "B",
+          "text": "punishment helps learning."
+         },
+         {
+          "key": "C",
+          "text": "the pupils were honest."
+         },
+         {
+          "key": "D",
+          "text": "they were suited to teaching."
+         }
+        ]
+       },
+       {
+        "n": 21,
+        "text": "The teacher-subjects were instructed to",
+        "options": [
+         {
+          "key": "A",
+          "text": "stop when a pupil asked them to."
+         },
+         {
+          "key": "B",
+          "text": "denounce pupils who made mistakes."
+         },
+         {
+          "key": "C",
+          "text": "reduce the shock level after a correct answer."
+         },
+         {
+          "key": "D",
+          "text": "give punishment according to a rule."
+         }
+        ]
+       },
+       {
+        "n": 22,
+        "text": "Before the experiment took place the psychiatrists",
+        "options": [
+         {
+          "key": "A",
+          "text": "believed that a shock of 150 volts was too dangerous."
+         },
+         {
+          "key": "B",
+          "text": "failed to agree on how the teacher-subjects would respond to instructions."
+         },
+         {
+          "key": "C",
+          "text": "underestimated the teacher-subjects' willingness to comply with experimental procedure."
+         },
+         {
+          "key": "D",
+          "text": "thought that many of the teacher-subjects would administer a shock of 450 volts."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "R2-3",
+      "type": "tfng",
+      "range": [
+       23,
+       26
+      ],
+      "instructions": [
+       "Do the following statements agree with the information given in Reading Passage 2?",
+       "In boxes 23–26 on your answer sheet, write",
+       "**TRUE** if the statement agrees with the information",
+       "**FALSE** if the statement contradicts the information",
+       "**NOT GIVEN** if there is no information on this"
+      ],
+      "questions": [
+       {
+        "n": 23,
+        "text": "Several of the subjects were psychology students at Yale University."
+       },
+       {
+        "n": 24,
+        "text": "Some people may believe that the teacher-subjects' behaviour could be explained as a positive survival mechanism."
+       },
+       {
+        "n": 25,
+        "text": "In a sociological explanation, personal values are more powerful than authority."
+       },
+       {
+        "n": 26,
+        "text": "Milgram's experiment solves an important question in sociobiology."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "passage": 3,
+    "range": [
+     27,
+     40
+    ],
+    "pages": [
+     25,
+     26,
+     27,
+     28,
+     29
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 27–40**, which are based on Reading Passage 3 below.",
+    "title": "The Truth about the Environment",
+    "subtitle": null,
+    "paragraphs": [
+     {
+      "text": "For many environmentalists, the world seems to be getting worse. They have developed a hit-list of our main fears: that natural resources are running out; that the population is ever growing, leaving less and less to eat; that species are becoming extinct in vast numbers, and that the planet's air and water are becoming ever more polluted."
+     },
+     {
+      "text": "But a quick look at the facts shows a different picture. First, energy and other natural resources have become more abundant, not less so, since the book 'The Limits to Growth' was published in 1972 by a group of scientists. Second, more food is now produced per head of the world's population than at any time in history. Fewer people are starving. Third, although species are indeed becoming extinct, only about 0.7% of them are expected to disappear in the next 50 years, not 25–50%, as has so often been predicted. And finally, most forms of environmental pollution either appear to have been exaggerated, or are transient – associated with the early phases of industrialisation and therefore best cured not by restricting economic growth, but by accelerating it. One form of pollution – the release of greenhouse gases that causes global warming – does appear to be a phenomenon that is going to extend well into our future, but its total impact is unlikely to pose a devastating problem. A bigger problem may well turn out to be an inappropriate response to it."
+     },
+     {
+      "text": "Yet opinion polls suggest that many people nurture the belief that environmental standards are declining and four factors seem to cause this disjunction between perception and reality."
+     },
+     {
+      "text": "One is the lopsidedness built into scientific research. Scientific funding goes mainly to areas with many problems. That may be wise policy, but it will also create an impression that many more potential problems exist than is the case."
+     },
+     {
+      "text": "Secondly, environmental groups need to be noticed by the mass media. They also need to keep the money rolling in. Understandably, perhaps, they sometimes overstate their arguments. In 1997, for example, the World Wide Fund for Nature issued a press release entitled: 'Two thirds of the world's forests lost forever'. The truth turns out to be nearer 20%."
+     },
+     {
+      "text": "Though these groups are run overwhelmingly by selfless folk, they nevertheless share many of the characteristics of other lobby groups. That would matter less if people applied the same degree of scepticism to environmental lobbying as they do to lobby groups in other fields. A trade organisation arguing for, say, weaker pollution controls is instantly seen as self-interested. Yet a green organisation opposing such a weakening is seen as altruistic, even if an impartial view of the controls in question might suggest they are doing more harm than good."
+     },
+     {
+      "text": "A third source of confusion is the attitude of the media. People are clearly more curious about bad news than good. Newspapers and broadcasters are there to provide what the public wants. That, however, can lead to significant distortions of perception. An example was America's encounter with El Niño in 1997 and 1998. This climatic phenomenon was accused of wrecking tourism, causing allergies, melting the ski-slopes and causing 22 deaths. However, according to an article in the *Bulletin of the American Meteorological Society*, the damage it did was estimated at US$4 billion but the benefits amounted to some US$19 billion. These came from higher winter temperatures (which saved an estimated 850 lives, reduced heating costs and diminished spring floods caused by meltwaters)."
+     },
+     {
+      "text": "The fourth factor is poor individual perception. People worry that the endless rise in the amount of stuff everyone throws away will cause the world to run out of places to dispose of waste. Yet, even if America's trash output continues to rise as it has done in the past, and even if the American population doubles by 2100, all the rubbish America produces through the entire 21st century will still take up only one-12,000th of the area of the entire United States."
+     },
+     {
+      "text": "So what of global warming? As we know, carbon dioxide emissions are causing the planet to warm. The best estimates are that the temperatures will rise by 2–3°C in this century, causing considerable problems, at a total cost of US$5,000 billion."
+     },
+     {
+      "text": "Despite the intuition that something drastic needs to be done about such a costly problem, economic analyses clearly show it will be far more expensive to cut carbon dioxide emissions radically than to pay the costs of adaptation to the increased temperatures. A model by one of the main authors of the United Nations Climate Change Panel shows how an expected temperature increase of 2.1 degrees in 2100 would only be diminished to an increase of 1.9 degrees. Or to put it another way, the temperature increase that the planet would have experienced in 2094 would be postponed to 2100."
+     },
+     {
+      "text": "So this does not prevent global warming, but merely buys the world six years. Yet the cost of reducing carbon dioxide emissions, for the United States alone, will be higher than the cost of solving the world's single, most pressing health problem: providing universal access to clean drinking water and sanitation. Such measures would avoid 2 million deaths every year, and prevent half a billion people from becoming seriously ill."
+     },
+     {
+      "text": "It is crucial that we look at the facts if we want to make the best possible decisions for the future. It may be costly to be overly optimistic – but more costly still to be too pessimistic."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R3-1",
+      "type": "ynng",
+      "range": [
+       27,
+       32
+      ],
+      "instructions": [
+       "Do the following statements agree with the claims of the writer in Reading Passage 3?",
+       "In boxes 27–32 on your answer sheet, write",
+       "**YES** if the statement agrees with the writer's claims",
+       "**NO** if the statement contradicts the writer's claims",
+       "**NOT GIVEN** if it is impossible to say what the writer thinks about this"
+      ],
+      "questions": [
+       {
+        "n": 27,
+        "text": "Environmentalists take a pessimistic view of the world for a number of reasons."
+       },
+       {
+        "n": 28,
+        "text": "Data on the Earth's natural resources has only been collected since 1972."
+       },
+       {
+        "n": 29,
+        "text": "The number of starving people in the world has increased in recent years."
+       },
+       {
+        "n": 30,
+        "text": "Extinct species are being replaced by new species."
+       },
+       {
+        "n": 31,
+        "text": "Some pollution problems have been correctly linked to industrialisation."
+       },
+       {
+        "n": 32,
+        "text": "It would be best to attempt to slow down economic growth."
+       }
+      ]
+     },
+     {
+      "id": "R3-2",
+      "type": "choice",
+      "range": [
+       33,
+       37
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B**, **C** or **D**.",
+       "Write your answers in boxes 33–37 on your answer sheet."
+      ],
+      "questions": [
+       {
+        "n": 33,
+        "text": "What aspect of scientific research does the writer express concern about in paragraph 4?",
+        "options": [
+         {
+          "key": "A",
+          "text": "the need to produce results"
+         },
+         {
+          "key": "B",
+          "text": "the lack of financial support"
+         },
+         {
+          "key": "C",
+          "text": "the selection of areas to research"
+         },
+         {
+          "key": "D",
+          "text": "the desire to solve every research problem"
+         }
+        ]
+       },
+       {
+        "n": 34,
+        "text": "The writer quotes from the Worldwide Fund for Nature to illustrate how",
+        "options": [
+         {
+          "key": "A",
+          "text": "influential the mass media can be."
+         },
+         {
+          "key": "B",
+          "text": "effective environmental groups can be."
+         },
+         {
+          "key": "C",
+          "text": "the mass media can help groups raise funds."
+         },
+         {
+          "key": "D",
+          "text": "environmental groups can exaggerate their claims."
+         }
+        ]
+       },
+       {
+        "n": 35,
+        "text": "What is the writer's main point about lobby groups in paragraph 6?",
+        "options": [
+         {
+          "key": "A",
+          "text": "Some are more active than others."
+         },
+         {
+          "key": "B",
+          "text": "Some are better organised than others."
+         },
+         {
+          "key": "C",
+          "text": "Some receive more criticism than others."
+         },
+         {
+          "key": "D",
+          "text": "Some support more important issues than others."
+         }
+        ]
+       },
+       {
+        "n": 36,
+        "text": "The writer suggests that newspapers print items that are intended to",
+        "options": [
+         {
+          "key": "A",
+          "text": "educate readers."
+         },
+         {
+          "key": "B",
+          "text": "meet their readers' expectations."
+         },
+         {
+          "key": "C",
+          "text": "encourage feedback from readers."
+         },
+         {
+          "key": "D",
+          "text": "mislead readers."
+         }
+        ]
+       },
+       {
+        "n": 37,
+        "text": "What does the writer say about America's waste problem?",
+        "options": [
+         {
+          "key": "A",
+          "text": "It will increase in line with population growth."
+         },
+         {
+          "key": "B",
+          "text": "It is not as important as we have been led to believe."
+         },
+         {
+          "key": "C",
+          "text": "It has been reduced through public awareness of the issues."
+         },
+         {
+          "key": "D",
+          "text": "It is only significant in certain areas of the country."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "R3-3",
+      "type": "completion",
+      "range": [
+       38,
+       40
+      ],
+      "instructions": [
+       "Complete the summary with the list of words **A–I** below.",
+       "Write the correct letter **A–I** in boxes 38–40 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "GLOBAL WARMING"
+       },
+       {
+        "t": "p",
+        "text": "The writer admits that global warming is a {{38}} challenge, but says that it will not have a catastrophic impact on our future, if we deal with it in the {{39}} way. If we try to reduce the levels of greenhouse gases, he believes that it would only have a minimal impact on rising temperatures. He feels it would be better to spend money on the more {{40}} health problem of providing the world's population with clean drinking water."
+       }
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": "unrealistic"
+       },
+       {
+        "key": "B",
+        "text": "agreed"
+       },
+       {
+        "key": "C",
+        "text": "expensive"
+       },
+       {
+        "key": "D",
+        "text": "right"
+       },
+       {
+        "key": "E",
+        "text": "long-term"
+       },
+       {
+        "key": "F",
+        "text": "usual"
+       },
+       {
+        "key": "G",
+        "text": "surprising"
+       },
+       {
+        "key": "H",
+        "text": "personal"
+       },
+       {
+        "key": "I",
+        "text": "urgent"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "answers": {
+   "1": {
+    "a": [
+     "D"
+    ]
+   },
+   "2": {
+    "a": [
+     "E"
+    ]
+   },
+   "3": {
+    "a": [
+     "G"
+    ]
+   },
+   "4": {
+    "a": [
+     "clerks",
+     "copying clerks"
+    ],
+    "k": "clerks / copying clerks"
+   },
+   "5": {
+    "a": [
+     "library"
+    ]
+   },
+   "6": {
+    "a": [
+     "stability"
+    ]
+   },
+   "7": {
+    "a": [
+     "pension"
+    ]
+   },
+   "8": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "9": {
+    "a": [
+     "FALSE"
+    ]
+   },
+   "10": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "11": {
+    "a": [
+     "FALSE"
+    ]
+   },
+   "12": {
+    "a": [
+     "FALSE"
+    ]
+   },
+   "13": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "14": {
+    "a": [
+     "F"
+    ]
+   },
+   "15": {
+    "a": [
+     "A"
+    ]
+   },
+   "16": {
+    "a": [
+     "B"
+    ]
+   },
+   "17": {
+    "a": [
+     "D"
+    ]
+   },
+   "18": {
+    "a": [
+     "I"
+    ]
+   },
+   "19": {
+    "a": [
+     "C"
+    ]
+   },
+   "20": {
+    "a": [
+     "B"
+    ]
+   },
+   "21": {
+    "a": [
+     "D"
+    ]
+   },
+   "22": {
+    "a": [
+     "C"
+    ]
+   },
+   "23": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "24": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "25": {
+    "a": [
+     "FALSE"
+    ]
+   },
+   "26": {
+    "a": [
+     "FALSE"
+    ]
+   },
+   "27": {
+    "a": [
+     "YES"
+    ]
+   },
+   "28": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "29": {
+    "a": [
+     "NO"
+    ]
+   },
+   "30": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "31": {
+    "a": [
+     "YES"
+    ]
+   },
+   "32": {
+    "a": [
+     "NO"
+    ]
+   },
+   "33": {
+    "a": [
+     "C"
+    ]
+   },
+   "34": {
+    "a": [
+     "D"
+    ]
+   },
+   "35": {
+    "a": [
+     "C"
+    ]
+   },
+   "36": {
+    "a": [
+     "B"
+    ]
+   },
+   "37": {
+    "a": [
+     "B"
+    ]
+   },
+   "38": {
+    "a": [
+     "E"
+    ]
+   },
+   "39": {
+    "a": [
+     "D"
+    ]
+   },
+   "40": {
+    "a": [
+     "I"
+    ]
+   }
+  }
+ },
+ "writing": {
+  "tasks": [
+   {
+    "task": 1,
+    "minutes": 20,
+    "minWords": 150,
+    "pages": [
+     30
+    ],
+    "prompt": [
+     "The graph below shows the proportion of the population aged 65 and over between 1940 and 2040 in three different countries.",
+     "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+    ],
+    "image": "images/C5/C5-T1-W1.png",
+    "sample": {
+     "kind": "model",
+     "band": null,
+     "comment": null,
+     "text": "The graph shows the increase in the ageing population in Japan, Sweden and the USA. It indicates that the percentage of elderly people in all three countries is expected to increase to almost 25% of the respective populations by the year 2040.\n\nIn 1940 the proportion of people aged 65 or more stood at only 5% in Japan, approximately 7% in Sweden and 9% in the US. However, while the figures for the Western countries grew to about 15% in around 1990, the figure for Japan dipped to only 2.5% for much of this period, before rising to almost 5% again at the present time.\n\nIn spite of some fluctuation in the expected percentages, the proportion of older people will probably continue to increase in the next two decades in the three countries. A more dramatic rise is predicted between 2030 and 2040 in Japan, by which time it is thought that the proportion of elderly people will be similar in the three countries."
+    }
+   },
+   {
+    "task": 2,
+    "minutes": 40,
+    "minWords": 250,
+    "pages": [
+     31
+    ],
+    "prompt": [
+     "Write about the following topic:",
+     "*Universities should accept equal numbers of male and female students in every subject.*",
+     "*To what extent do you agree or disagree?*",
+     "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+    ],
+    "sample": {
+     "kind": "candidate",
+     "band": "4",
+     "comment": "It is difficult to find the main arguments in this answer. There are long, formulaic introductions, not many ideas that deal with the actual issues and the writer's point of view is not consistent. The prompt is copied directly three times in the response and the remainder is underlength at 181 words, so marks are lost for this.\n\nThe response is organised into sections, but the relationship between ideas is not always clear and the linking expressions are sometimes inaccurate, as in the opening paragraph, or used in a mechanical way, as in the second paragraph.\n\nThe dependence on formulaic language and the input material indicates a limited range of vocabulary and there is a lot of repetition and inaccuracy. A range of structures is attempted, but control is weak. Errors in grammar and punctuation are frequent and cause problems for the reader.",
+     "text": "According to universities should accept equal numbers of male and female students in every subject. Therefore, this essay will show some reasons of argument for and argument against.\n\nFirstly, I will discuss about two reasons of argument for to begin with universities should accept equal numbers of male and female students in every subject because it will be balance of idea while studying. In general, there usually are different ideas between man and woman. These lead to, new ideas from different vision will happen. Another reason is it display that have equal of society not eccept in each side. In addition, nowadays, the most societies become to accept ability of both in any way.\n\nSecondly, I will discuss about one reason of argument against that is some subjects not suitable for each other. For example, some subject of sports such as weight putting. It is not suitable for female because there are different of body between male and female.\n\nIn conclusion, I agree with universities should accept equal numbers of male and female students in every subject. Moreover, it depen on what the subjects that the students want to study, they can choose by themselve because I believe that if the students like to study their subjects, they will do it well so that I strongly agree with this topic."
+    }
+   }
+  ]
+ },
+ "issues": [
+  "Listening Section 1: the book prints the sub-heading 'Questions 1–6' above the notes, but the notes contain only gaps 1–4 and Questions 5 and 6 follow as a separate 'Choose TWO letters' task (answer key: 5–6 IN EITHER ORDER B, D); the notes group is therefore given the range 1–4.",
+  "Reading Passage 1: dates are reproduced as printed in the book ('published in 1775', contract signed '18 June 1764', 'finally published on 15 April 1775'; historically 1755 and 1746) and the bookseller's name as printed ('Robert Dosley')."
+ ]
+}

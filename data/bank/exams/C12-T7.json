@@ -1,0 +1,1649 @@
+{
+ "schema": "ielts-mock.exam/1",
+ "id": "C12-T7",
+ "source": {
+  "book": 12,
+  "test": 7
+ },
+ "title": "Cambridge IELTS 12 · Test 7",
+ "listening": {
+  "parts": [
+   {
+    "part": 1,
+    "range": [
+     1,
+     10
+    ],
+    "pages": [
+     53
+    ],
+    "groups": [
+     {
+      "id": "L1-1",
+      "type": "completion",
+      "range": [
+       1,
+       10
+      ],
+      "instructions": [
+       "Complete the notes below.",
+       "Write **ONE WORD ONLY** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "PUBLIC LIBRARY"
+       },
+       {
+        "t": "note",
+        "text": "*Example*"
+       },
+       {
+        "t": "p",
+        "text": "The library re-opened last *month*"
+       },
+       {
+        "t": "sub",
+        "text": "The library now has"
+       },
+       {
+        "t": "li",
+        "text": "a seating area with magazines"
+       },
+       {
+        "t": "li",
+        "text": "an expanded section for books on {{1}}"
+       },
+       {
+        "t": "li",
+        "text": "a new section on local {{2}}"
+       },
+       {
+        "t": "li",
+        "text": "a community room for meetings (also possible to {{3}} there)"
+       },
+       {
+        "t": "li",
+        "text": "a new section of books for {{4}}"
+       },
+       {
+        "t": "sub",
+        "text": "For younger children"
+       },
+       {
+        "t": "li",
+        "text": "the next Science Club meeting: experiments using things from your {{5}}"
+       },
+       {
+        "t": "li",
+        "text": "Reading Challenge: read six books during the holidays"
+       },
+       {
+        "t": "sub",
+        "text": "For adults"
+       },
+       {
+        "t": "li",
+        "text": "this Friday: a local author talks about a novel based on a real {{6}}"
+       },
+       {
+        "t": "li",
+        "text": "IT support is available on Tuesdays – no {{7}} is necessary"
+       },
+       {
+        "t": "li",
+        "text": "free check of blood {{8}} and cholesterol levels (over 60s only)"
+       },
+       {
+        "t": "sub",
+        "text": "Other information"
+       },
+       {
+        "t": "li",
+        "text": "the library shop sells wall-charts, cards and {{9}}"
+       },
+       {
+        "t": "li",
+        "text": "evenings and weekends: free {{10}} is available"
+       }
+      ]
+     }
+    ],
+    "transcript": "SUSIE: Hello?\nPAUL: Hi, Susie, it's Paul here. How are you? Enjoying your new job? You're working at the library, aren't you?\nSUSIE: Yes. I started when the library re-opened a month ago. It's great.\nPAUL: Actually Carol and I have been meaning to join for a while.\nSUSIE: Oh, you should. It doesn't cost anything, and the new library has all sorts of facilities. It's not just a place where you borrow books. For instance, there's an area with comfortable seats where you can sit and read the magazines they have there. Some people spend the whole morning there.\nPAUL: Mmm. Wish I had that amount of time to spend!\nSUSIE: Yes, you must be pretty busy at present, with the children and everything?\nPAUL: We are, yes. But we're hoping to get away this summer. We're thinking of going to Greece.\nSUSIE: Well, we've got a much larger section of the library devoted to travel books now, so [Q1] you should come and have a look. I can't remember if there's anything specifically on Greece, but I should think so.\nPAUL: OK. Now Carol's organising a project for the history class she teaches at school – it's about life in the town a hundred years ago. Do you have anything that might be useful?\nSUSIE: Yes, actually we've now got a new section with materials on the history of the town [Q2] and surrounding region.\nPAUL: Right. I'll tell her. You can't always find that sort of thing on the internet. Now in the old library there used to be a separate room with reference books. It was a really nice quiet room.\nSUSIE: Yes. We've put those books in the main part of the library now, but we do have [Q3] a room called the community room. It can be hired out for meetings, but at other times people can use it to study.\nPAUL: I might use that. It's hard to find anywhere quiet at home sometimes.\nSUSIE: I can't remember how old your son and daughter are ... we've introduced a special [Q4] section of fiction written specially for teenagers, but they might be a bit young for that?\nPAUL: Yes, they would be.\nSUSIE: Well, we do have lots of activities for younger children.\nPAUL: Yes?\nSUSIE: For example we have a Science Club. At the next meeting, they're going to be [Q5] doing experiments with stuff that everyone has in the kitchen – sugar and flour and so on.\nPAUL: They might be interested, yes.\nSUSIE: And we have a competition for children called Reading Challenge. That doesn't begin until after the end of term. They have to read six books, and they get a certificate if they manage it.\nPAUL: So that gives them something to do while they're on holiday, instead of getting bored.\nSUSIE: That's the idea. And there's special activities for adults too. On Friday we have a [Q6] local author called Tanya Streep who's going to be talking about her new novel. It's called 'Catch the Mouse' and she based the story on a crime that actually took place here years ago.\nPAUL: Right. We're not free on Friday, but I'll look out for the book.\nSUSIE: Now this probably isn't for you, but we do have IT support available for members. [Q7] We get quite a few older people coming along who are wanting to get up to speed with computer technology. It's on Tuesday mornings – they don't need to make an appointment or anything, they just turn up.\nPAUL: Well, my mother might be interested, I'll let her know.\nSUSIE: OK. And there's another service which you wouldn't expect from a library, which is [Q8] a free medical check-up. The hospital arranges for someone to come along and measure the level of sugar in your blood, and they check cholesterol levels at the same time.\nPAUL: Really?\nSUSIE: Yes, but that's only for the over-60s, so you wouldn't qualify.\nPAUL: OK. Well, I'll tell my mother, she might be interested.\nSUSIE: What other information ... well, we do have a little shop with things like wallcharts [Q9] and greetings cards, and also stamps so you can post the cards straightaway, which is really useful.\nPAUL: Yeah. Well, I'll bring the children round at the weekend and we'll join. Oh, one more thing – I'll be bringing the car, is there parking available? [Q10]\nSUSIE: Yes, and it's free in the evening and at weekends.\nPAUL: Perfect. Well, thanks, Susie see you ..."
+   },
+   {
+    "part": 2,
+    "range": [
+     11,
+     20
+    ],
+    "pages": [
+     54,
+     55
+    ],
+    "groups": [
+     {
+      "id": "L2-1",
+      "type": "multi",
+      "range": [
+       11,
+       12
+      ],
+      "n": [
+       11,
+       12
+      ],
+      "select": 2,
+      "instructions": [
+       "Choose **TWO** letters, **A–E**."
+      ],
+      "text": "Which **TWO** age groups are taking increasing numbers of holidays with BC Travel?",
+      "options": [
+       {
+        "key": "A",
+        "text": "16–30 years"
+       },
+       {
+        "key": "B",
+        "text": "31–42 years"
+       },
+       {
+        "key": "C",
+        "text": "43–54 years"
+       },
+       {
+        "key": "D",
+        "text": "55–64 years"
+       },
+       {
+        "key": "E",
+        "text": "over 65 years"
+       }
+      ]
+     },
+     {
+      "id": "L2-2",
+      "type": "multi",
+      "range": [
+       13,
+       14
+      ],
+      "n": [
+       13,
+       14
+      ],
+      "select": 2,
+      "instructions": [
+       "Choose **TWO** letters, **A–E**."
+      ],
+      "text": "Which **TWO** are the main reasons given for the popularity of activity holidays?",
+      "options": [
+       {
+        "key": "A",
+        "text": "Clients make new friends."
+       },
+       {
+        "key": "B",
+        "text": "Clients learn a useful skill."
+       },
+       {
+        "key": "C",
+        "text": "Clients learn about a different culture."
+       },
+       {
+        "key": "D",
+        "text": "Clients are excited by the risk involved."
+       },
+       {
+        "key": "E",
+        "text": "Clients find them good value for money."
+       }
+      ]
+     },
+     {
+      "id": "L2-3",
+      "type": "choice",
+      "range": [
+       15,
+       17
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B** or **C**."
+      ],
+      "questions": [
+       {
+        "n": 15,
+        "text": "How does BC Travel plan to expand the painting holidays?",
+        "options": [
+         {
+          "key": "A",
+          "text": "by adding to the number of locations"
+         },
+         {
+          "key": "B",
+          "text": "by increasing the range of levels"
+         },
+         {
+          "key": "C",
+          "text": "by employing more teachers"
+         }
+        ]
+       },
+       {
+        "n": 16,
+        "text": "Why are BC Travel's cooking holidays unusual?",
+        "options": [
+         {
+          "key": "A",
+          "text": "They only use organic foods."
+         },
+         {
+          "key": "B",
+          "text": "They have an international focus."
+         },
+         {
+          "key": "C",
+          "text": "They mainly involve vegetarian dishes."
+         }
+        ]
+       },
+       {
+        "n": 17,
+        "text": "What does the speaker say about the photography holidays?",
+        "options": [
+         {
+          "key": "A",
+          "text": "Clients receive individual tuition."
+         },
+         {
+          "key": "B",
+          "text": "The tutors are also trained guides."
+         },
+         {
+          "key": "C",
+          "text": "Advice is given on selling photographs."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L2-4",
+      "type": "completion",
+      "range": [
+       18,
+       20
+      ],
+      "instructions": [
+       "Complete the table below.",
+       "Write **ONE WORD ONLY** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Fitness Holidays"
+       },
+       {
+        "t": "table",
+        "header": 1,
+        "rows": [
+         [
+          "Location",
+          "Main focus",
+          "Other comments"
+         ],
+         [
+          "Ireland and Italy",
+          "general fitness",
+          "• personally designed programme\n• also reduces {{18}}"
+         ],
+         [
+          "Greece",
+          "{{19}} control",
+          "• includes exercise on the beach"
+         ],
+         [
+          "Morocco",
+          "mountain biking",
+          "• wide variety of levels\n• one holiday that is specially designed for {{20}}"
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    "transcript": "In this session in your training day we're going to look at some of the more specialised holidays we offer at BC Travel. Now, the travel business is very competitive and it's important to be aware of how the market's changing and developing. In terms of age groups, the over-65s are an important market, and one that's increasing steadily year on year. The fewest holidays are [Q11 & Q12] taken by the 31 to 42-year-olds, and that figure shows no sign of rising. The biggest market at present is still the youngest group, the 16 to 30s, but this group's also seen the biggest drop over the last few years, whereas there's a noticeable growth in the number of holidays taken by the 55 to 64-year-olds. As far as the 43 to 54-year-olds are concerned, bookings there are [Q11 & Q12] steady, but I have to say we haven't seen the increase we expected.\nOne trend we're noticing with nearly all age groups is the growing popularity of holidays in which clients do some kind of specialised activity. I'm not talking here about adventure holidays, where clients take part in high-risk activities like white water rafting just for the thrill of it. Activity holidays usually involve rather less high-risk sports, or things like art and music. They're not necessarily cheaper than ordinary holidays, often the opposite, in fact. But they do often take place outside the main tourist centres, which gives an opportunity for clients [Q13 & Q14] to find out more about the local people and customs, and many say this is one of the most positive features of these holidays. Of course, they offer the chance to develop a new skill or talent, but clients often say that more than this, it's the chance to create lasting relationships with other like-minded people that's the main draw. [Q13 & Q14]\nLet me give you some examples of BC Travel activity holidays. Our painting holidays take place in four different centres in France and Italy and they're very popular with clients of all abilities from beginners onwards. We've got an excellent team of artists to lead the classes – [Q15] some of them have been with us from the start, and five additional ones will be joining us this year so that we can offer a greater number of classes in each centre.\nAs far as cooking holidays are concerned, I know a lot of agents offer holidays where clients [Q16] cook recipes related to one particular country, usually the one they're staying in, but we focus on dishes from a great many different ones. Apart from that you'll find the usual emphasis on good quality, organic ingredients – that's more or less a given nowadays – and there are generally some meat-free recipes included.\nOur photography holidays take place in a wide range of countries from Iceland to Vietnam, and clients have the opportunity to see some stunning scenery. Groups are small, no more than eight, so clients can have one-on-one tuition during the holiday, and excursions are [Q17] arranged with fully-trained guides. At the end of each holiday an exhibition is held of the photographs taken so that clients can see one another's work and receive valuable feedback from the tutor.\nFinally, let me tell you about our fitness holidays. In Ireland and Italy we run one-week general fitness classes for all ages and levels of fitness. Clients start the course with a consultation with a trainer, and together they draw up an individual programme. As well as improving general fitness, clients find that they end up losing much of the stress they've built [Q18] up in their daily lives.\nIn Greece, we have a two-week holiday for clients who want to do something about their [Q19] weight. This has all the features you'd expect, like a personalised diet programme, but one of its most popular features is that the exercise classes are all held on the beach. People say it's far preferable to being in a gym.\nFinally, we offer several holidays in Morocco. One very popular one is the mountain biking holiday. Bikes are provided and there are different routes according to people's ability. We [Q20] offer one which is tailored to the needs of families, which is particularly popular.\nOK, so that's about all the time I have today, so thank you very much ..."
+   },
+   {
+    "part": 3,
+    "range": [
+     21,
+     30
+    ],
+    "pages": [
+     56,
+     57
+    ],
+    "groups": [
+     {
+      "id": "L3-1",
+      "type": "completion",
+      "range": [
+       21,
+       26
+      ],
+      "instructions": [
+       "Complete the flow-chart below.",
+       "Choose **SIX** answers from the box and write the correct letter, **A–H**, next to Questions 21–26."
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": "patterns"
+       },
+       {
+        "key": "B",
+        "text": "names"
+       },
+       {
+        "key": "C",
+        "text": "sources"
+       },
+       {
+        "key": "D",
+        "text": "questions"
+       },
+       {
+        "key": "E",
+        "text": "employees"
+       },
+       {
+        "key": "F",
+        "text": "solutions"
+       },
+       {
+        "key": "G",
+        "text": "headings"
+       },
+       {
+        "key": "H",
+        "text": "officials"
+       }
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "STAGES IN DOING A TOURISM CASE STUDY"
+       },
+       {
+        "t": "flow",
+        "steps": [
+         "**RESEARCH**\nLocate and read relevant articles, noting key information and also {{21}}\nIdentify a problem or need\nSelect interviewees – these may be site {{22}}, visitors or city {{23}}\nPrepare and carry out interviews. If possible, collect statistics.\nCheck whether {{24}} of interviewees can be used",
+         "**ANALYSIS**\nSelect relevant information and try to identify {{25}}\nDecide on the best form of visuals",
+         "**WRITING THE CASE STUDY**\nGive some background before writing the main sections\nDo NOT end with {{26}}"
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L3-2",
+      "type": "choice",
+      "range": [
+       27,
+       30
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B** or **C**."
+      ],
+      "title": "The Horton Castle site",
+      "questions": [
+       {
+        "n": 27,
+        "text": "Natalie and Dave agree one reason why so few people visit Horton Castle is that",
+        "options": [
+         {
+          "key": "A",
+          "text": "the publicity is poor."
+         },
+         {
+          "key": "B",
+          "text": "it is difficult to get to."
+         },
+         {
+          "key": "C",
+          "text": "there is little there of interest."
+         }
+        ]
+       },
+       {
+        "n": 28,
+        "text": "Natalie and Dave agree that the greatest problem with a visitor centre could be",
+        "options": [
+         {
+          "key": "A",
+          "text": "covering the investment costs."
+         },
+         {
+          "key": "B",
+          "text": "finding a big enough space for it."
+         },
+         {
+          "key": "C",
+          "text": "dealing with planning restrictions."
+         }
+        ]
+       },
+       {
+        "n": 29,
+        "text": "What does Dave say about conditions in the town of Horton?",
+        "options": [
+         {
+          "key": "A",
+          "text": "There is a lot of unemployment."
+         },
+         {
+          "key": "B",
+          "text": "There are few people of working age."
+         },
+         {
+          "key": "C",
+          "text": "There are opportunities for skilled workers."
+         }
+        ]
+       },
+       {
+        "n": 30,
+        "text": "According to Natalie, one way to prevent damage to the castle site would be to",
+        "options": [
+         {
+          "key": "A",
+          "text": "insist visitors have a guide."
+         },
+         {
+          "key": "B",
+          "text": "make visitors keep to the paths."
+         },
+         {
+          "key": "C",
+          "text": "limit visitor numbers."
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "transcript": "NATALIE: Dave, I'm worried about our case study. I've done a bit of reading, but I'm not sure what's involved in actually writing a case study – I missed the lecture where Dr Baker talked us through it.\nDAVE: OK, well it's quite straightforward. We've got our focus – that's tourism at the Horton Castle site. And you said you'd done some reading about it.\nNATALIE: Yes, I found some articles and made notes of the main points.\nDAVE: Did you remember to keep a record of where you got the information from? [Q21]\nNATALIE: Sure. I know what a pain it is when you forget that.\nDAVE: OK, so we can compare what we've read. Then we have to decide on a particular problem or need at our site. And then think about who we're going to interview to get more information.\nNATALIE: OK. So who'd that be? The people who work there? And presumably some of the [Q22] tourists too?\nDAVE: Yes, both those groups. So we'll have to go to the site to do that, I suppose. But we might also do some of our interviewing away from the site – we could even contact [Q23] some people here in the city, like administrators involved in overseeing tourism.\nNATALIE: OK. So we'll need to think about our interview questions and fix times and places for the meetings. It's all going to take a lot of time.\nDAVE: Mmm. And if we can, we should ask our interviewees if they can bring along some numerical data that we can add to support our findings.\nNATALIE: And photographs?\nDAVE: I think we have plenty of those already. But Dr Baker also said we have to establish [Q24] with our interviewees whether we can identify them in our case study, or whether they want to be anonymous.\nNATALIE: Oh, I wouldn't have thought of that. OK, once we've got all this information, I suppose we have to analyse it.\nDAVE: Yes, put it all together and choose what's relevant to the problem we're focusing on, and analyse that carefully to find out if we can identify any trends or regularities [Q25] there. That's the main thing at this stage, rather than concentrating on details or lots of facts.\nNATALIE: OK. And then once we've analysed that, what next?\nDAVE: Well, then we need to think about what we do with the data we've selected to make it as clear as possible to our readers. Things like graphs, or tables, or charts...\nNATALIE: Right.\nDAVE: Then the case study itself is mostly quite standard; we begin by presenting the problem, and giving some background, then go through the main sections, but the thing that surprised me is that in a normal report we'd end with some suggestions [Q26] to deal with the problem or need we identified, but in a case study we end up with a question or a series of questions to our readers, and they decide what ought to be done.\nNATALIE: Oh, I hadn't realised that.\nNATALIE: So basically, the problem we're addressing in our case study of the Horton Castle site is why so few tourists are visiting it. And we'll find out more from our interviews, but I did find one report on the internet that suggested that one reason might be because as far as transport goes, access is difficult.\nDAVE: I read that too, but that report was actually written ten years ago, when the road there was really bad, but that's been improved now. And I think there's plenty of [Q27] fascinating stuff there for a really good day out, but you'd never realise it from the castle website – maybe that's the problem.\nNATALIE: Yes, it's really dry and boring.\nDAVE: I read somewhere a suggestion that what the castle needs is a visitor centre. So we could have a look for some information about that on the internet. What would we need to know?\nNATALIE: Well, who'd use it for a start. It'd be good to know what categories the visitors fell into too, like school parties or retired people, but I think we'd have to talk to staff to get that information.\nDAVE: OK. And as we're thinking of suggesting a visitor centre we'd also have to look at potential problems. I mean, obviously it wouldn't be cheap to set up.\nNATALIE: No, but it could be a really good investment. And as it's on a historical site it'd need [Q28] to get special planning permission, I expect. That might be hard.\nDAVE: Right, especially as the only possible place for it would be at the entrance, and that's right in front of the castle.\nNATALIE: Mmm.\nDAVE: But it could be a good thing for the town of Horton. At present it's a bit of a ghost town. Once they've left school and got any skills or qualifications, the young people [Q29] all get out as fast as they can to get jobs in the city, and the only people left are children and those who've retired.\nNATALIE: Right. Something else we could investigate would be the potential damage that tourists might cause to the castle site, I mean their environmental impact. At present the tourists can just wander round wherever they want, but if numbers increase, [Q30] there might have to be some restrictions, like sticking to marked ways. And there'd need to be guides and wardens around to make sure these were enforced.\nDAVE: Yes, we could look at that too. OK, well ..."
+   },
+   {
+    "part": 4,
+    "range": [
+     31,
+     40
+    ],
+    "pages": [
+     58
+    ],
+    "groups": [
+     {
+      "id": "L4-1",
+      "type": "completion",
+      "range": [
+       31,
+       40
+      ],
+      "instructions": [
+       "Complete the notes below.",
+       "Write **ONE WORD ONLY** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "The effects of environmental change on birds"
+       },
+       {
+        "t": "sub",
+        "text": "Mercury (Hg)"
+       },
+       {
+        "t": "li",
+        "text": "Highly toxic"
+       },
+       {
+        "t": "li",
+        "text": "Released into the atmosphere from coal"
+       },
+       {
+        "t": "li",
+        "text": "In water it may be consumed by fish"
+       },
+       {
+        "t": "li",
+        "text": "It has also recently been found to affect birds which feed on {{31}}"
+       },
+       {
+        "t": "sub",
+        "text": "Research on effects of mercury on birds"
+       },
+       {
+        "t": "li",
+        "text": "Claire Varian-Ramos is investigating:"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "– the effects on birds' {{32}} or mental processes, e.g. memory"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "– the effects on bird song (usually learned from a bird's {{33}} )"
+       },
+       {
+        "t": "li",
+        "text": "Findings:"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "– songs learned by birds exposed to mercury are less {{34}}"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "– this may have a negative effect on birds' {{35}}"
+       },
+       {
+        "t": "li",
+        "text": "Lab-based studies:"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "– allow more {{36}} for the experimenter"
+       },
+       {
+        "t": "sub",
+        "text": "Implications for humans"
+       },
+       {
+        "t": "li",
+        "text": "Migrating birds such as {{37}} containing mercury may be eaten by humans"
+       },
+       {
+        "t": "li",
+        "text": "Mercury also causes problems in learning {{38}}"
+       },
+       {
+        "t": "li",
+        "text": "Mercury in a mother's body from {{39}} may affect the unborn child"
+       },
+       {
+        "t": "li",
+        "text": "New regulations for mercury emissions will affect everyone's energy {{40}}"
+       }
+      ]
+     }
+    ],
+    "transcript": "OK, so we've been looking at how man-made changes in our environment can affect wildlife. Now I'll discuss a particular example. Let's take a look at mercury. Mercury's one of the 120 or so elements that make up all matter, and it has the symbol Hg. It's a shiny, silvery substance. You may have seen it in old-fashioned thermometers, but it's not used much for domestic purposes now because it's highly toxic.\nBut the problem is that the amount of mercury in the environment's increasing. The main reason for this is the power plants used to produce electricity. The main source of energy that most of them use is still coal, and when it's burned it releases mercury into the atmosphere. Some of this gets deposited into lakes and rivers, and if it's ingested by a fish it's not excreted, it stays in the fish's body and it enters the food chain. So it's been known for some time that birds which eat fish may be affected, but what wasn't known until quite recently is [Q31] that those that eat insects can also be affected.\nSo a woman called Claire Varian-Ramos is doing some research on how this is affecting birds.\nAnd rather than looking at how many birds are actually killed by mercury poisoning, she's looking for more subtle sub-effects. And these may be to do with the behaviour of the birds, [Q32] or with the effect of mercury on the way their brain works, so whether it leads to problems with memory, for example. And she's particularly focusing on the effects of mercury on bird song. Now, the process of song learning happens at a particular stage in the birds' [Q33] development, and what you may not know is that a young bird seems to acquire this skill by listening to the songs produced by its father, rather than by any other bird.\nAnd Varian-Ramos has already found in her research that if young male birds are exposed to [Q34] mercury, if they eat food contaminated with mercury, then the songs they produce aren't as complex as those produced by other birds. So quite low-level exposure to mercury is likely to have an impact on male birds in a natural situation, because it can mean that they're less attractive to female birds, and so it can affect their chances of reproduction. [Q35]\nNow the way she's carrying out this research is worth thinking about. She's using a mixture of studies using birds kept in laboratories, and studies carried out outdoors in the wild. The [Q36] lab-based studies have the advantage that you don't get all the variables you would in a natural setting, so the experimenter has a much higher level of control, and that means they can be more confident about their results in some ways. And of course they don't have to worry about going out and finding the birds in order to observe them.\nSo what are the implications here for humans? Well, because many birds are migratory, they [Q37] may be transporting mercury far from contaminated sites. For example, it's been found that ducks who'd been feeding at a contaminated site were later shot by hunters over a thousand kilometres away, and presumably eaten. But these birds likely had mercury levels high enough to warrant concern for human consumption.\nIn addition, going back to song learning by birds, we saw that this may be affected by mercury contamination. Well, we also know that in humans, mercury causes developmental [Q38] delays in the acquisition of language, and in fact this process is very similar in the brain regions it involves and even the genes that are involved. But mercury contamination has other important implications for humans as well. It's now known that an unborn child can be [Q39] affected if the food eaten by its mother contains high levels of mercury, and these effects can be quite substantial.\nIn the end, it comes down to whether more value is placed on human economic wellbeing or environmental wellbeing. It's true there are new regulations for mercury emissions from [Q40] power plants, but these will need billions of dollars to implement, and increase costs for everyone. Some argue that's too much to pay to protect wildlife. But as we've seen, the issues go beyond that, and I think it's an issue we need to consider very carefully."
+   }
+  ],
+  "answers": {
+   "1": {
+    "a": [
+     "travel",
+     "travelling",
+     "traveling"
+    ],
+    "k": "travel/travel(l)ing"
+   },
+   "2": {
+    "a": [
+     "history"
+    ]
+   },
+   "3": {
+    "a": [
+     "study"
+    ]
+   },
+   "4": {
+    "a": [
+     "teenagers"
+    ]
+   },
+   "5": {
+    "a": [
+     "kitchen"
+    ]
+   },
+   "6": {
+    "a": [
+     "crime"
+    ]
+   },
+   "7": {
+    "a": [
+     "appointment",
+     "booking"
+    ],
+    "k": "appointment/booking"
+   },
+   "8": {
+    "a": [
+     "sugar"
+    ]
+   },
+   "9": {
+    "a": [
+     "stamps"
+    ]
+   },
+   "10": {
+    "a": [
+     "parking"
+    ]
+   },
+   "11": {
+    "a": [
+     "D"
+    ]
+   },
+   "12": {
+    "a": [
+     "E"
+    ]
+   },
+   "13": {
+    "a": [
+     "A"
+    ]
+   },
+   "14": {
+    "a": [
+     "C"
+    ]
+   },
+   "15": {
+    "a": [
+     "C"
+    ]
+   },
+   "16": {
+    "a": [
+     "B"
+    ]
+   },
+   "17": {
+    "a": [
+     "A"
+    ]
+   },
+   "18": {
+    "a": [
+     "stress"
+    ]
+   },
+   "19": {
+    "a": [
+     "weight"
+    ]
+   },
+   "20": {
+    "a": [
+     "families"
+    ]
+   },
+   "21": {
+    "a": [
+     "C"
+    ]
+   },
+   "22": {
+    "a": [
+     "E"
+    ]
+   },
+   "23": {
+    "a": [
+     "H"
+    ]
+   },
+   "24": {
+    "a": [
+     "B"
+    ]
+   },
+   "25": {
+    "a": [
+     "A"
+    ]
+   },
+   "26": {
+    "a": [
+     "F"
+    ]
+   },
+   "27": {
+    "a": [
+     "A"
+    ]
+   },
+   "28": {
+    "a": [
+     "C"
+    ]
+   },
+   "29": {
+    "a": [
+     "B"
+    ]
+   },
+   "30": {
+    "a": [
+     "B"
+    ]
+   },
+   "31": {
+    "a": [
+     "insects"
+    ]
+   },
+   "33": {
+    "a": [
+     "father"
+    ]
+   },
+   "36": {
+    "a": [
+     "control"
+    ]
+   },
+   "38": {
+    "a": [
+     "language"
+    ]
+   },
+   "39": {
+    "a": [
+     "food"
+    ]
+   },
+   "32": {
+    "a": [
+     "behaviour",
+     "behavior"
+    ],
+    "k": "behaviour/behavior"
+   },
+   "34": {
+    "a": [
+     "complex",
+     "complicated"
+    ],
+    "k": "complex/complicated"
+   },
+   "35": {
+    "a": [
+     "reproduction",
+     "breeding"
+    ],
+    "k": "reproduction/breeding"
+   },
+   "37": {
+    "a": [
+     "duck",
+     "ducks"
+    ],
+    "k": "duck(s)"
+   },
+   "40": {
+    "a": [
+     "cost",
+     "costs",
+     "price",
+     "prices",
+     "bill",
+     "bills"
+    ],
+    "k": "cost(s)/price(s)/bill(s)"
+   }
+  }
+ },
+ "reading": {
+  "passages": [
+   {
+    "passage": 1,
+    "range": [
+     1,
+     13
+    ],
+    "pages": [
+     59,
+     60,
+     61,
+     62
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 1–13**, which are based on Reading Passage 1.",
+    "title": "Flying tortoises",
+    "subtitle": "*An airborne reintroduction programme has helped conservationists take significant steps to protect the endangered Galápagos tortoise.*",
+    "paragraphs": [
+     {
+      "label": "A",
+      "text": "Forests of spiny cacti cover much of the uneven lava plains that separate the interior of the Galápagos island of Isabela from the Pacific Ocean. With its five distinct volcanoes, the island resembles a lunar landscape. Only the thick vegetation at the skirt of the often cloud-covered peak of Sierra Negra offers respite from the barren terrain below. This inhospitable environment is home to the giant Galápagos tortoise. Some time after the Galápagos's birth, around five million years ago, the islands were colonised by one or more tortoises from mainland South America. As these ancestral tortoises settled on the individual islands, the different populations adapted to their unique environments, giving rise to at least 14 different subspecies. Island life agreed with them. In the absence of significant predators, they grew to become the largest and longest-living tortoises on the planet, weighing more than 400 kilograms, occasionally exceeding 1.8 metres in length and living for more than a century."
+     },
+     {
+      "label": "B",
+      "text": "Before human arrival, the archipelago's tortoises numbered in the hundreds of thousands. From the 17th century onwards, pirates took a few on board for food, but the arrival of whaling ships in the 1790s saw this exploitation grow exponentially. Relatively immobile and capable of surviving for months without food or water, the tortoises were taken on board these ships to act as food supplies during long ocean passages. Sometimes, their bodies were processed into high-grade oil. In total, an estimated 200,000 animals were taken from the archipelago before the 20th century. This historical exploitation was then exacerbated when settlers came to the islands. They hunted the tortoises and destroyed their habitat to clear land for agriculture. They also introduced alien species – ranging from cattle, pigs, goats, rats and dogs to plants and ants – that either prey on the eggs and young tortoises or damage or destroy their habitat."
+     },
+     {
+      "label": "C",
+      "text": "Today, only 11 of the original subspecies survive and of these, several are highly endangered. In 1989, work began on a tortoise-breeding centre just outside the town of Puerto Villamil on Isabela, dedicated to protecting the island's tortoise populations. The centre's captive-breeding programme proved to be extremely successful, and it eventually had to deal with an overpopulation problem."
+     },
+     {
+      "label": "D",
+      "text": "The problem was also a pressing one. Captive-bred tortoises can't be reintroduced into the wild until they're at least five years old and weigh at least 4.5 kilograms, at which point their size and weight – and their hardened shells – are sufficient to protect them from predators. But if people wait too long after that point, the tortoises eventually become too large to transport."
+     },
+     {
+      "label": "E",
+      "text": "For years, repatriation efforts were carried out in small numbers, with the tortoises carried on the backs of men over weeks of long, treacherous hikes along narrow trails. But in November 2010, the environmentalist and Galápagos National Park liaison officer Godfrey Merlin, a visiting private motor yacht captain and a helicopter pilot gathered around a table in a small café in Puerto Ayora on the island of Santa Cruz to work out more ambitious reintroduction. The aim was to use a helicopter to move 300 of the breeding centre's tortoises to various locations close to Sierra Negra."
+     },
+     {
+      "label": "F",
+      "text": "This unprecedented effort was made possible by the owners of the 67-metre yacht *White Cloud*, who provided the Galápagos National Park with free use of their helicopter and its experienced pilot, as well as the logistical support of the yacht, its captain and crew. Originally an air ambulance, the yacht's helicopter has a rear double door and a large internal space that's well suited for cargo, so a custom crate was designed to hold up to 33 tortoises with a total weight of about 150 kilograms. This weight, together with that of the fuel, pilot and four crew, approached the helicopter's maximum payload, and there were times when it was clearly right on the edge of the helicopter's capabilities. During a period of three days, a group of volunteers from the breeding centre worked around the clock to prepare the young tortoises for transport. Meanwhile, park wardens, dropped off ahead of time in remote locations, cleared landing sites within the thick brush, cacti and lava rocks."
+     },
+     {
+      "label": "G",
+      "text": "Upon their release, the juvenile tortoises quickly spread out over their ancestral territory, investigating their new surroundings and feeding on the vegetation. Eventually, one tiny tortoise came across a fully grown giant who had been lumbering around the island for around a hundred years. The two stood side by side, a powerful symbol of the regeneration of an ancient species."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R1-1",
+      "type": "matching",
+      "range": [
+       1,
+       7
+      ],
+      "instructions": [
+       "Reading Passage 1 has seven paragraphs, **A–G**.",
+       "Choose the correct heading for each paragraph from the list of headings below.",
+       "Write the correct number, **i–viii**, in boxes 1–7 on your answer sheet."
+      ],
+      "optionsTitle": "List of Headings",
+      "options": [
+       {
+        "key": "i",
+        "text": "The importance of getting the timing right"
+       },
+       {
+        "key": "ii",
+        "text": "Young meets old"
+       },
+       {
+        "key": "iii",
+        "text": "Developments to the disadvantage of tortoise populations"
+       },
+       {
+        "key": "iv",
+        "text": "Planning a bigger idea"
+       },
+       {
+        "key": "v",
+        "text": "Tortoises populate the islands"
+       },
+       {
+        "key": "vi",
+        "text": "Carrying out a carefully prepared operation"
+       },
+       {
+        "key": "vii",
+        "text": "Looking for a home for the islands' tortoises"
+       },
+       {
+        "key": "viii",
+        "text": "The start of the conservation project"
+       }
+      ],
+      "questions": [
+       {
+        "n": 1,
+        "text": "Paragraph A"
+       },
+       {
+        "n": 2,
+        "text": "Paragraph B"
+       },
+       {
+        "n": 3,
+        "text": "Paragraph C"
+       },
+       {
+        "n": 4,
+        "text": "Paragraph D"
+       },
+       {
+        "n": 5,
+        "text": "Paragraph E"
+       },
+       {
+        "n": 6,
+        "text": "Paragraph F"
+       },
+       {
+        "n": 7,
+        "text": "Paragraph G"
+       }
+      ]
+     },
+     {
+      "id": "R1-2",
+      "type": "completion",
+      "range": [
+       8,
+       13
+      ],
+      "instructions": [
+       "Complete the notes below.",
+       "Choose **ONE WORD ONLY** from the passage for each answer.",
+       "Write your answers in boxes 8–13 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "The decline of the Galápagos tortoise"
+       },
+       {
+        "t": "li",
+        "text": "Originally from mainland South America"
+       },
+       {
+        "t": "li",
+        "text": "Numbers on Galápagos islands increased, due to lack of predators"
+       },
+       {
+        "t": "li",
+        "text": "17th century: small numbers taken onto ships used by {{8}}"
+       },
+       {
+        "t": "li",
+        "text": "1790s: very large numbers taken onto whaling ships, kept for {{9}}, and also used to produce {{10}}"
+       },
+       {
+        "t": "li",
+        "text": "Hunted by {{11}} on the islands"
+       },
+       {
+        "t": "li",
+        "text": "Habitat destruction: for the establishment of agriculture and by various {{12}} not native to the islands, which also fed on baby tortoises and tortoises' {{13}}"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "passage": 2,
+    "range": [
+     14,
+     26
+    ],
+    "pages": [
+     63,
+     64,
+     65
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 14–26**, which are based on Reading Passage 2.",
+    "title": "The Intersection of Health Sciences and Geography",
+    "subtitle": null,
+    "paragraphs": [
+     {
+      "label": "A",
+      "text": "While many diseases that affect humans have been eradicated due to improvements in vaccinations and the availability of healthcare, there are still areas around the world where certain health issues are more prevalent. In a world that is far more globalised than ever before, people come into contact with one another through travel and living closer and closer to each other. As a result, super-viruses and other infections resistant to antibiotics are becoming more and more common."
+     },
+     {
+      "label": "B",
+      "text": "Geography can often play a very large role in the health concerns of certain populations. For instance, depending on where you live, you will not have the same health concerns as someone who lives in a different geographical region. Perhaps one of the most obvious examples of this idea is malaria-prone areas, which are usually tropical regions that foster a warm and damp environment in which the mosquitos that can give people this disease can grow. Malaria is much less of a problem in high-altitude deserts, for instance."
+     },
+     {
+      "label": "C",
+      "text": "In some countries, geographical factors influence the health and well-being of the population in very obvious ways. In many large cities, the wind is not strong enough to clear the air of the massive amounts of smog and pollution that cause asthma, lung problems, eyesight issues and more in the people who live there. Part of the problem is, of course, the massive number of cars being driven, in addition to factories that run on coal power. The rapid industrialisation of some countries in recent years has also led to the cutting down of forests to allow for the expansion of big cities, which makes it even harder to fight the pollution with the fresh air that is produced by plants."
+     },
+     {
+      "label": "D",
+      "text": "It is in situations like these that the field of health geography comes into its own. It is an increasingly important area of study in a world where diseases like polio are re-emerging, respiratory diseases continue to spread, and malaria-prone areas are still fighting to find a better cure. Health geography is the combination of, on the one hand, knowledge regarding geography and methods used to analyse and interpret geographical information, and on the other, the study of health, diseases and healthcare practices around the world. The aim of this hybrid science is to create solutions for common geography-based health problems. While people will always be prone to illness, the study of how geography affects our health could lead to the eradication of certain illnesses, and the prevention of others in the future. By understanding why and how we get sick, we can change the way we treat illness and disease specific to certain geographical locations."
+     },
+     {
+      "label": "E",
+      "text": "The geography of disease and ill health analyses the frequency with which certain diseases appear in different parts of the world, and overlays the data with the geography of the region, to see if there could be a correlation between the two. Health geographers also study factors that could make certain individuals or a population more likely to be taken ill with a specific health concern or disease, as compared with the population of another area. Health geographers in this field are usually trained as healthcare workers, and have an understanding of basic epidemiology as it relates to the spread of diseases among the population."
+     },
+     {
+      "label": "F",
+      "text": "Researchers study the interactions between humans and their environment that could lead to illness (such as asthma in places with high levels of pollution) and work to create a clear way of categorising illnesses, diseases and epidemics into local and global scales. Health geographers can map the spread of illnesses and attempt to identify the reasons behind an increase or decrease in illnesses, as they work to find a way to halt the further spread or re-emergence of diseases in vulnerable populations."
+     },
+     {
+      "label": "G",
+      "text": "The second subcategory of health geography is the geography of healthcare provision. This group studies the availability (or lack thereof) of healthcare resources to individuals and populations around the world. In both developed and developing nations there is often a very large discrepancy between the options available to people in different social classes, income brackets, and levels of education. Individuals working in the area of the geography of healthcare provision attempt to assess the levels of healthcare in the area (for instance, it may be very difficult for people to get medical attention because there is a mountain between their village and the nearest hospital). These researchers are on the frontline of making recommendations regarding policy to international organisations, local government bodies and others."
+     },
+     {
+      "label": "H",
+      "text": "The field of health geography is often overlooked, but it constitutes a huge area of need in the fields of geography and healthcare. If we can understand how geography affects our health no matter where in the world we are located, we can better treat disease, prevent illness, and keep people safe and well."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R2-1",
+      "type": "matching",
+      "range": [
+       14,
+       19
+      ],
+      "instructions": [
+       "Reading Passage 2 has eight sections, **A–H**.",
+       "Which paragraph contains the following information?",
+       "Write the correct letter, **A–H**, in boxes 14–19 on your answer sheet.",
+       "**NB** You may use any letter more than once."
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": ""
+       },
+       {
+        "key": "B",
+        "text": ""
+       },
+       {
+        "key": "C",
+        "text": ""
+       },
+       {
+        "key": "D",
+        "text": ""
+       },
+       {
+        "key": "E",
+        "text": ""
+       },
+       {
+        "key": "F",
+        "text": ""
+       },
+       {
+        "key": "G",
+        "text": ""
+       },
+       {
+        "key": "H",
+        "text": ""
+       }
+      ],
+      "reuse": true,
+      "questions": [
+       {
+        "n": 14,
+        "text": "an acceptance that not all diseases can be totally eliminated"
+       },
+       {
+        "n": 15,
+        "text": "examples of physical conditions caused by human behaviour"
+       },
+       {
+        "n": 16,
+        "text": "a reference to classifying diseases on the basis of how far they extend geographically"
+       },
+       {
+        "n": 17,
+        "text": "reasons why the level of access to healthcare can vary within a country"
+       },
+       {
+        "n": 18,
+        "text": "a description of health geography as a mixture of different academic fields"
+       },
+       {
+        "n": 19,
+        "text": "a description of the type of area where a particular illness is rare"
+       }
+      ]
+     },
+     {
+      "id": "R2-2",
+      "type": "completion",
+      "range": [
+       20,
+       26
+      ],
+      "instructions": [
+       "Complete the sentences below.",
+       "Choose **ONE WORD ONLY** from the passage for each answer."
+      ],
+      "content": [
+       {
+        "t": "p",
+        "text": "Certain diseases have disappeared, thanks to better {{20}} and healthcare."
+       },
+       {
+        "t": "p",
+        "text": "Because there is more contact between people, {{21}} are losing their usefulness."
+       },
+       {
+        "t": "p",
+        "text": "Disease-causing {{22}} are most likely to be found in hot, damp regions."
+       },
+       {
+        "t": "p",
+        "text": "One cause of pollution is {{23}} that burn a particular fuel."
+       },
+       {
+        "t": "p",
+        "text": "The growth of cities often has an impact on nearby {{24}} ."
+       },
+       {
+        "t": "p",
+        "text": "{{25}} is one disease that is growing after having been eradicated."
+       },
+       {
+        "t": "p",
+        "text": "A physical barrier such as a {{26}} can prevent people from reaching a hospital."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "passage": 3,
+    "range": [
+     27,
+     40
+    ],
+    "pages": [
+     66,
+     67,
+     68,
+     69,
+     70
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 27–40**, which are based on Reading Passage 3.",
+    "title": "Music and the emotions",
+    "subtitle": "*Neuroscientist Jonah Lehrer considers the emotional power of music*",
+    "paragraphs": [
+     {
+      "text": "Why does music make us feel? On the one hand, music is a purely abstract art form, devoid of language or explicit ideas. And yet, even though music says little, it still manages to touch us deeply. When listening to our favourite songs, our body betrays all the symptoms of emotional arousal. The pupils in our eyes dilate, our pulse and blood pressure rise, the electrical conductance of our skin is lowered, and the cerebellum, a brain region associated with bodily movement, becomes strangely active. Blood is even re-directed to the muscles in our legs. In other words, sound stirs us at our biological roots."
+     },
+     {
+      "text": "A recent paper in *Nature Neuroscience* by a research team in Montreal, Canada, marks an important step in revealing the precise underpinnings of 'the potent pleasurable stimulus' that is music. Although the study involves plenty of fancy technology, including functional magnetic resonance imaging (fMRI) and ligand-based positron emission tomography (PET) scanning, the experiment itself was rather straightforward. After screening 217 individuals who responded to advertisements requesting people who experience 'chills' to instrumental music, the scientists narrowed down the subject pool to ten. They then asked the subjects to bring in their playlist of favourite songs – virtually every genre was represented, from techno to tango – and played them the music while their brain activity was monitored. Because the scientists were combining methodologies (PET and fMRI), they were able to obtain an impressively exact and detailed portrait of music in the brain. The first thing they discovered is that music triggers the production of dopamine – a chemical with a key role in setting people's moods – by the neurons (nerve cells) in both the dorsal and ventral regions of the brain. As these two regions have long been linked with the experience of pleasure, this finding isn't particularly surprising."
+     },
+     {
+      "text": "What is rather more significant is the finding that the dopamine neurons in the caudate – a region of the brain involved in learning stimulus-response associations, and in anticipating food and other 'reward' stimuli – were at their most active around 15 seconds before the participants' favourite moments in the music. The researchers call this the 'anticipatory phase' and argue that the purpose of this activity is to help us predict the arrival of our favourite part. The question, of course, is what all these dopamine neurons are up to. Why are they so active in the period preceding the acoustic climax? After all, we typically associate surges of dopamine with pleasure, with the processing of actual rewards. And yet, this cluster of cells is most active when the 'chills' have yet to arrive, when the melodic pattern is still unresolved."
+     },
+     {
+      "text": "One way to answer the question is to look at the music and not the neurons. While music can often seem (at least to the outsider) like a labyrinth of intricate patterns, it turns out that the most important part of every song or symphony is when the patterns break down, when the sound becomes unpredictable. If the music is too obvious, it is annoyingly boring, like an alarm clock. Numerous studies, after all, have demonstrated that dopamine neurons quickly adapt to predictable rewards. If we know what's going to happen next, then we don't get excited. This is why composers often introduce a key note in the beginning of a song, spend most of the rest of the piece in the studious avoidance of the pattern, and then finally repeat it only at the end. The longer we are denied the pattern we expect, the greater the emotional release when the pattern returns, safe and sound."
+     },
+     {
+      "text": "To demonstrate this psychological principle, the musicologist Leonard Meyer, in his classic book *Emotion and Meaning in Music* (1956), analysed the 5th movement of Beethoven's String Quartet in C-sharp minor, Op. 131. Meyer wanted to show how music is defined by its flirtation with – but not submission to – our expectations of order. Meyer dissected 50 measures (bars) of the masterpiece, showing how Beethoven begins with the clear statement of a rhythmic and harmonic pattern and then, in an ingenious tonal dance, carefully holds off repeating it. What Beethoven does instead is suggest variations of the pattern. He wants to preserve an element of uncertainty in his music, making our brains beg for the one chord he refuses to give us. Beethoven saves that chord for the end."
+     },
+     {
+      "text": "According to Meyer, it is the suspenseful tension of music, arising out of our unfulfilled expectations, that is the source of the music's feeling. While earlier theories of music focused on the way a sound can refer to the real world of images and experiences – its 'connotative' meaning – Meyer argued that the emotions we find in music come from the unfolding events of the music itself. This 'embodied meaning' arises from the patterns the symphony invokes and then ignores. It is this uncertainty that triggers the surge of dopamine in the caudate, as we struggle to figure out what will happen next. We can predict some of the notes, but we can't predict them all, and that is what keeps us listening, waiting expectantly for our reward, for the pattern to be completed."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R3-1",
+      "type": "completion",
+      "range": [
+       27,
+       31
+      ],
+      "instructions": [
+       "Complete the summary below.",
+       "Choose **NO MORE THAN TWO WORDS** from the passage for each answer.",
+       "Write your answers in boxes 27–31 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "The Montreal Study"
+       },
+       {
+        "t": "p",
+        "text": "Participants, who were recruited for the study through advertisements, had their brain activity monitored while listening to their favourite music. It was noted that the music stimulated the brain's neurons to release a substance called {{27}} in two of the parts of the brain which are associated with feeling {{28}} ."
+       },
+       {
+        "t": "p",
+        "text": "Researchers also observed that the neurons in the area of the brain called the {{29}} were particularly active just before the participants' favourite moments in the music – the period known as the {{30}} . Activity in this part of the brain is associated with the expectation of 'reward' stimuli such as {{31}} ."
+       }
+      ]
+     },
+     {
+      "id": "R3-2",
+      "type": "choice",
+      "range": [
+       32,
+       36
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B**, **C** or **D**.",
+       "Write the correct letter in boxes 32–36 on your answer sheet."
+      ],
+      "questions": [
+       {
+        "n": 32,
+        "text": "What point does the writer emphasise in the first paragraph?",
+        "options": [
+         {
+          "key": "A",
+          "text": "how dramatically our reactions to music can vary"
+         },
+         {
+          "key": "B",
+          "text": "how intense our physical responses to music can be"
+         },
+         {
+          "key": "C",
+          "text": "how little we know about the way that music affects us"
+         },
+         {
+          "key": "D",
+          "text": "how much music can tell us about how our brains operate"
+         }
+        ]
+       },
+       {
+        "n": 33,
+        "text": "What view of the Montreal study does the writer express in the second paragraph?",
+        "options": [
+         {
+          "key": "A",
+          "text": "Its aims were innovative."
+         },
+         {
+          "key": "B",
+          "text": "The approach was too simplistic."
+         },
+         {
+          "key": "C",
+          "text": "It produced some remarkably precise data."
+         },
+         {
+          "key": "D",
+          "text": "The technology used was unnecessarily complex."
+         }
+        ]
+       },
+       {
+        "n": 34,
+        "text": "What does the writer find interesting about the results of the Montreal study?",
+        "options": [
+         {
+          "key": "A",
+          "text": "the timing of participants' neural responses to the music"
+         },
+         {
+          "key": "B",
+          "text": "the impact of the music on participants' emotional state"
+         },
+         {
+          "key": "C",
+          "text": "the section of participants' brains which was activated by the music"
+         },
+         {
+          "key": "D",
+          "text": "the type of music which had the strongest effect on participants' brains"
+         }
+        ]
+       },
+       {
+        "n": 35,
+        "text": "Why does the writer refer to Meyer's work on music and emotion?",
+        "options": [
+         {
+          "key": "A",
+          "text": "to propose an original theory about the subject"
+         },
+         {
+          "key": "B",
+          "text": "to offer support for the findings of the Montreal study"
+         },
+         {
+          "key": "C",
+          "text": "to recommend the need for further research into the subject"
+         },
+         {
+          "key": "D",
+          "text": "to present a view which opposes that of the Montreal researchers"
+         }
+        ]
+       },
+       {
+        "n": 36,
+        "text": "According to Leonard Meyer, what causes the listener's emotional response to music?",
+        "options": [
+         {
+          "key": "A",
+          "text": "the way that the music evokes poignant memories in the listener"
+         },
+         {
+          "key": "B",
+          "text": "the association of certain musical chords with certain feelings"
+         },
+         {
+          "key": "C",
+          "text": "the listener's sympathy with the composer's intentions"
+         },
+         {
+          "key": "D",
+          "text": "the internal structure of the musical composition"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "R3-3",
+      "type": "matching",
+      "range": [
+       37,
+       40
+      ],
+      "instructions": [
+       "Complete each sentence with the correct ending, **A–F**, below.",
+       "Write the correct letter, **A–F**, in boxes 37–40 on your answer sheet."
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": "our response to music depends on our initial emotional state."
+       },
+       {
+        "key": "B",
+        "text": "neuron activity decreases if outcomes become predictable."
+       },
+       {
+        "key": "C",
+        "text": "emotive music can bring to mind actual pictures and events."
+       },
+       {
+        "key": "D",
+        "text": "experiences in our past can influence our emotional reaction to music."
+       },
+       {
+        "key": "E",
+        "text": "emotive music delays giving listeners what they expect to hear."
+       },
+       {
+        "key": "F",
+        "text": "neuron activity increases prior to key points in a musical piece."
+       }
+      ],
+      "questions": [
+       {
+        "n": 37,
+        "text": "The Montreal researchers discovered that"
+       },
+       {
+        "n": 38,
+        "text": "Many studies have demonstrated that"
+       },
+       {
+        "n": 39,
+        "text": "Meyer's analysis of Beethoven's music shows that"
+       },
+       {
+        "n": 40,
+        "text": "Earlier theories of music suggested that"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "answers": {
+   "1": {
+    "a": [
+     "v"
+    ]
+   },
+   "2": {
+    "a": [
+     "iii"
+    ]
+   },
+   "3": {
+    "a": [
+     "viii"
+    ]
+   },
+   "4": {
+    "a": [
+     "i"
+    ]
+   },
+   "5": {
+    "a": [
+     "iv"
+    ]
+   },
+   "6": {
+    "a": [
+     "vi"
+    ]
+   },
+   "7": {
+    "a": [
+     "ii"
+    ]
+   },
+   "8": {
+    "a": [
+     "pirates"
+    ]
+   },
+   "9": {
+    "a": [
+     "food"
+    ]
+   },
+   "10": {
+    "a": [
+     "oil"
+    ]
+   },
+   "11": {
+    "a": [
+     "settlers"
+    ]
+   },
+   "12": {
+    "a": [
+     "species"
+    ]
+   },
+   "13": {
+    "a": [
+     "eggs"
+    ]
+   },
+   "14": {
+    "a": [
+     "D"
+    ]
+   },
+   "15": {
+    "a": [
+     "C"
+    ]
+   },
+   "16": {
+    "a": [
+     "F"
+    ]
+   },
+   "17": {
+    "a": [
+     "G"
+    ]
+   },
+   "18": {
+    "a": [
+     "D"
+    ]
+   },
+   "19": {
+    "a": [
+     "B"
+    ]
+   },
+   "20": {
+    "a": [
+     "vaccinations"
+    ]
+   },
+   "21": {
+    "a": [
+     "antibiotics"
+    ]
+   },
+   "22": {
+    "a": [
+     "mosquitos",
+     "mosquitoes"
+    ],
+    "k": "mosquito(e)s"
+   },
+   "23": {
+    "a": [
+     "factories"
+    ]
+   },
+   "24": {
+    "a": [
+     "forests"
+    ]
+   },
+   "25": {
+    "a": [
+     "Polio"
+    ]
+   },
+   "26": {
+    "a": [
+     "mountain"
+    ]
+   },
+   "27": {
+    "a": [
+     "dopamine"
+    ]
+   },
+   "28": {
+    "a": [
+     "pleasure"
+    ]
+   },
+   "29": {
+    "a": [
+     "caudate"
+    ]
+   },
+   "30": {
+    "a": [
+     "anticipatory phase"
+    ]
+   },
+   "31": {
+    "a": [
+     "food"
+    ]
+   },
+   "32": {
+    "a": [
+     "B"
+    ]
+   },
+   "33": {
+    "a": [
+     "C"
+    ]
+   },
+   "34": {
+    "a": [
+     "A"
+    ]
+   },
+   "35": {
+    "a": [
+     "B"
+    ]
+   },
+   "36": {
+    "a": [
+     "D"
+    ]
+   },
+   "37": {
+    "a": [
+     "F"
+    ]
+   },
+   "38": {
+    "a": [
+     "B"
+    ]
+   },
+   "39": {
+    "a": [
+     "E"
+    ]
+   },
+   "40": {
+    "a": [
+     "C"
+    ]
+   }
+  }
+ },
+ "writing": {
+  "tasks": [
+   {
+    "task": 1,
+    "minutes": 20,
+    "minWords": 150,
+    "pages": [
+     71
+    ],
+    "prompt": [
+     "The chart below shows how frequently people in the USA ate in fast food restaurants between 2003 and 2013.",
+     "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+    ],
+    "image": "images/C12/C12-T7-W1.png",
+    "sample": {
+     "kind": "candidate",
+     "band": "6.5",
+     "text": "The chart visualises how often the US citizens be at fast-food restaurants in the years 2003, 2006 and 2013.\n\nFrom 2003 to 2006 the percentage of people who have never eaten at a fast food restaurant has fallen by 1%, but on the other hand during the same period the number of clients who eat fast food everyday has also fallen to about 3% of the population. Since 2006, no other changes have occurred in these segments of the chart.\n\nThe major changes can be seen in the groups, who eat in a fast-food restaurant on a weekly basis (once or several times a week) and in the groups in which people visit the fast-food restaurants once or twice a month or once a few months. While in 2006 most of the US citizens ate at such facilities at least once a week, in 2013 most of the population did so only once or twice a month. It's clear that the fast-food restaurants were most popular in 2006 and least popular in 2013. However the number of people who eat in such restaurants only a few times every year didn't change.\n\nAs a whole, with the exception of people who rarely or never eat fast food and in addition, the small part of the population who eat every day, the peak of going to fast-food restaurants was reached in 2006 in contrast with 2013 when most of the population spent time in them only once or twice a month.",
+     "comment": "The candidate organises the information well and describes the trends in the various groups, but the lack of data to support the descriptions is a significant omission. There is a clear progression throughout the response, with good management of cohesive devices [*percentage of people who* | *during the same period* | *in these segments of the chart* | *the groups in which* | *such facilities*]. Lexis shows some flexibility and precision [*on a weekly basis*] and there is evidence of less common items [*segments* | *major changes* | *most of the population* | *most/least popular* | *with the exception of*], with few errors in word choice [*visualises* | *be* | *clients*]. There is a variety of complex structures used with flexibility and accuracy, but there are also a few errors in grammatical control and in punctuation."
+    }
+   },
+   {
+    "task": 2,
+    "minutes": 40,
+    "minWords": 250,
+    "pages": [
+     72
+    ],
+    "prompt": [
+     "Write about the following topic:",
+     "*In a number of countries, some people think it is necessary to spend large sums of money on constructing new railway lines for very fast trains between cities. Others believe the money should be spent on improving existing public transport.*",
+     "*Discuss both these views and give your own opinion.*",
+     "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+    ],
+    "sample": {
+     "kind": "candidate",
+     "band": "7.5",
+     "text": "For many people around the world, the preferred method of transportation is high-speed rail. Communters travelling to and from work rely on the safety and efficiency, whill tourists appreciate the convenience and novelty that trains provide. Others believe that highways, busses and regular trains should be improved before new, high-speed lines are added.\n\nSafety is cheif among concerns for those who travel to work or school on a regular basis. If one drives a car, they have to concentrate on the road not only to avoid accidents but also to prevent other drivers from causing a problem on the road. High-speed rail allows the communter to leave the driving to the professional controlling the train, allowing them to get some work done while getting to work safely.\n\nIn addition, people tend to move further and further away from city centres, where land and houses are more affordable. High-speed rail allows these commuters to travel greater distances in a shorter ammount of time. There is a flow-on effect here, because if we can reduce the number of cars on the road, we can also cut down on traffic jams and road delays.\n\nOn the other hand, high-speed trains are expensive, and some believe this money could be spend on repairing motorways which are used by cars, busses and motorcycles. Another possibility would be to use this money to build more regular communter trains and busses to service the ever-expanding urban populations. Moreover, boats and ferries could benefit from a budget which focuses more on existing forms of transport.\n\nIn the end, public transport is an issue which affects us all. The taxes which we pay should be spent on the type of transport which will have the most benefit to all citizens. In addition, we need to take into account how much the environment is damaged by fossil fuels and pollution. therefore, I believe in order to move forward, we need to embrace the idea of high-speed rail so that future generations can continue to live safely and efficiently.",
+     "comment": "This is a good response which would achieve an even higher score if there was more focus on ***large sums of money*** and on ***between cities***. The writing is well organised and there is a clear progression throughout, although the use of some cohesive devices could be more flexible. There is a wide range of vocabulary, used appropriately and naturally, [*preferred method of transportation* | *leave the driving to the professional* | *more affordable* | *ever-expanding urban populations* | *embrace the idea of*], but some spelling errors are noted [*Communters* | *whill* | *cheif* | *ammount* | *busses*]. There is a wide range of structures and again, these are used flexibly, however there are occasional errors in punctuation."
+    }
+   }
+  ]
+ },
+ "issues": [
+  "Book prints the heading for Questions 8–13 as 'The decline of the Galápagos tertoise' (misprint, 'tertoise' partially overprinted in scan); reproduced as 'tortoise'."
+ ]
+}

@@ -1,0 +1,794 @@
+{
+ "parts": [
+  {
+   "part": 1,
+   "range": [
+    1,
+    10
+   ],
+   "pages": [
+    10
+   ],
+   "groups": [
+    {
+     "id": "L1-1",
+     "type": "completion",
+     "range": [
+      1,
+      10
+     ],
+     "instructions": [
+      "Complete the form below.",
+      "Write **ONE WORD AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "CRIME REPORT FORM"
+      },
+      {
+       "t": "table",
+       "header": 0,
+       "rows": [
+        [
+         "Type of crime:",
+         "theft"
+        ],
+        [
+         "**Personal information**",
+         ""
+        ],
+        [
+         "*Example*",
+         ""
+        ],
+        [
+         "Name",
+         "Louise *Taylor*"
+        ],
+        [
+         "Nationality",
+         "{{1}}"
+        ],
+        [
+         "Date of birth",
+         "14 December 1977"
+        ],
+        [
+         "Occupation",
+         "interior designer"
+        ],
+        [
+         "Reason for visit",
+         "business (to buy antique {{2}})"
+        ],
+        [
+         "Length of stay",
+         "two months"
+        ],
+        [
+         "Current address",
+         "{{3}} Apartments (No 15)"
+        ],
+        [
+         "**Details of theft**",
+         ""
+        ],
+        [
+         "Items stolen",
+         "– a wallet containing approximately £{{4}}\n– a {{5}}"
+        ],
+        [
+         "Date of theft",
+         "{{6}}"
+        ],
+        [
+         "**Possible time and place of theft**",
+         ""
+        ],
+        [
+         "Location",
+         "outside the {{7}} at about 4 pm"
+        ],
+        [
+         "Details of suspect",
+         "– some boys asked for the {{8}} then ran off\n– one had a T-shirt with a picture of a tiger\n– he was about 12, slim build with {{9}} hair"
+        ],
+        [
+         "**Crime reference number allocated**",
+         ""
+        ],
+        [
+         "",
+         "{{10}}"
+        ]
+       ]
+      }
+     ]
+    }
+   ],
+   "transcript": "OFFICER: Good morning. What can I do for you?\nLOUISE: I want to report a theft. I had some things stolen out of my bag yesterday.\nOFFICER: I'm sorry to hear that. Right, so I'll need to take a few details. Can I start with your name?\nLOUISE: Louise Taylor.\nOFFICER: OK, thank you. And are you resident in the UK?\nLOUISE: No, I'm actually Canadian, though my mother was British. [Q1]\nOFFICER: And your date of birth?\nLOUISE: December 14th, 1977.\nOFFICER: So you're just visiting this country?\nLOUISE: That's right. I come over most summers on business. I'm an interior designer and I come over to buy old furniture, antiques you know. There are some really lovely [Q2] things around here, but you need to get out to the small towns. I've had a really good trip this year, until this happened.\nOFFICER: OK. So you've been here quite a while?\nLOUISE: Yes, I'm here for two months. I go back next week.\nOFFICER: So may I ask where you're staying now?\nLOUISE: Well at present I've got a place at Park Apartments, that's on King Street. I was [Q3] staying at the Riverside Apartments on the same street, but the apartment there was only available for six weeks so I had to find another one.\nOFFICER: OK. And the apartment number?\nLOUISE: Fifteen.\nLOUISE: Right.\nOFFICER: Now, I need to take some details of the theft. So you said you had some things stolen out of your bag?\nLOUISE: That's right.\nOFFICER: And were you actually carrying the bag when the theft took place?\nLOUISE: Yes. I really can't understand it. I had my backpack on. And I went into a supermarket to buy a few things and when I opened it up my wallet wasn't there.\nOFFICER: And what did your wallet have in it?\nLOUISE: Well, fortunately I don't keep my credit cards in that wallet – I keep them with my passport in an inside compartment in my backpack. But there was quite a bit of cash there ... about £250 sterling, I should think. I withdrew £300 from my [Q4] account yesterday, but I did a bit of shopping, so I must have already spent about £50 of that.\nOFFICER: OK.\nLOUISE: At first I thought, oh I must have left the wallet back in the apartment, but then I realised my phone had gone as well. It was only a week old, and that's when [Q5] I realised I'd been robbed. Anyway at least they didn't take the keys to my rental car.\nOFFICER: Yes. So you say the theft occurred yesterday?\nLOUISE: Yes.\nOFFICER: So that was September the tenth. And do you have any idea at all of where or [Q6] when the things might possibly have been stolen?\nLOUISE: Well at first I couldn't believe it because the bag had been on my back ever since I left the apartment after lunch. It's just a small backpack, but I generally use it when I'm travelling because it seems safer than a handbag. Anyway, I met up with a friend, and we spent a couple of hours in the museum. But I do remember that as [Q7] we were leaving there, at about 4 o'clock, a group of young boys ran up to us, and they were really crowding round us, and they were asking us what time it was, then [Q8] all of a sudden they ran off.\nOFFICER: Can you remember anything about them?\nLOUISE: The one who did most of the talking was wearing a T-shirt with a picture of something ... let's see ... a tiger.\nOFFICER: Right. Any idea of how old he might have been?\nLOUISE: Around twelve years old?\nOFFICER: And can you remember anything else about his appearance?\nLOUISE: Not much. He was quite thin ...\nOFFICER: Colour of hair?\nLOUISE: I do remember that – he was blond. All the others were dark-haired. [Q9]\nOFFICER: And any details of the others?\nLOUISE: Not really. They came and went so quickly.\nOFFICER: Right. So what I'm going to do now is give you a crime reference number so you can contact your insurance company. So this is ten digits: 87954 82361. [Q10]\nLOUISE: Thank you. So should I ..."
+  },
+  {
+   "part": 2,
+   "range": [
+    11,
+    20
+   ],
+   "pages": [
+    11,
+    12
+   ],
+   "groups": [
+    {
+     "id": "L2-1",
+     "type": "multi",
+     "range": [
+      11,
+      12
+     ],
+     "n": [
+      11,
+      12
+     ],
+     "select": 2,
+     "instructions": [
+      "Choose **TWO** letters, **A–E**."
+     ],
+     "title": "Induction talk for new apprentices",
+     "text": "Which **TWO** pieces of advice for the first week of an apprenticeship does the manager give?",
+     "options": [
+      {
+       "key": "A",
+       "text": "get to know colleagues"
+      },
+      {
+       "key": "B",
+       "text": "learn from any mistakes"
+      },
+      {
+       "key": "C",
+       "text": "ask lots of questions"
+      },
+      {
+       "key": "D",
+       "text": "react positively to feedback"
+      },
+      {
+       "key": "E",
+       "text": "enjoy new challenges"
+      }
+     ]
+    },
+    {
+     "id": "L2-2",
+     "type": "multi",
+     "range": [
+      13,
+      14
+     ],
+     "n": [
+      13,
+      14
+     ],
+     "select": 2,
+     "instructions": [
+      "Choose **TWO** letters, **A–E**."
+     ],
+     "text": "Which **TWO** things does the manager say mentors can help with?",
+     "options": [
+      {
+       "key": "A",
+       "text": "confidence-building"
+      },
+      {
+       "key": "B",
+       "text": "making career plans"
+      },
+      {
+       "key": "C",
+       "text": "completing difficult tasks"
+      },
+      {
+       "key": "D",
+       "text": "making a weekly timetable"
+      },
+      {
+       "key": "E",
+       "text": "reviewing progress"
+      }
+     ]
+    },
+    {
+     "id": "L2-3",
+     "type": "matching",
+     "range": [
+      15,
+      20
+     ],
+     "instructions": [
+      "What does the manager say about each of the following aspects of the company policy for apprentices?",
+      "Write the correct letter, **A**, **B** or **C**, next to Questions 15–20."
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "It is encouraged."
+      },
+      {
+       "key": "B",
+       "text": "There are some restrictions."
+      },
+      {
+       "key": "C",
+       "text": "It is against the rules."
+      }
+     ],
+     "title": "Company policy for apprentices",
+     "questions": [
+      {
+       "n": 15,
+       "text": "Using the internet"
+      },
+      {
+       "n": 16,
+       "text": "Flexible working"
+      },
+      {
+       "n": 17,
+       "text": "Booking holidays"
+      },
+      {
+       "n": 18,
+       "text": "Working overtime"
+      },
+      {
+       "n": 19,
+       "text": "Wearing trainers"
+      },
+      {
+       "n": 20,
+       "text": "Bringing food to work"
+      }
+     ]
+    }
+   ],
+   "transcript": "Good morning everyone. My name's Janet Parker and I'm the human resources manager. We're very happy to welcome you to your new apprenticeship. I hope that the next six months will be a positive and enjoyable experience for you.\nI'd like to start with some general advice about being an apprentice. Most of you have very little or no experience of working for a big organisation and the first week or so may be quite challenging. There will be a lot of new information to take in but don't worry too much about trying to remember everything. The important thing is to check with someone if you're not sure what to [Q11] do – you'll find your supervisor is very approachable and won't mind explaining things or helping you out. You're here to learn so make the most of that opportunity. You'll be spending time in different departments during your first week so make an effort to talk to as many people as [Q12] possible about their work – you'll make some new friends and find out lots of useful information.\nAs well as having a supervisor, you'll each be assigned a mentor. This person will be someone who's recently completed an apprenticeship and you'll meet with them on a weekly basis. Their role is to provide help and support throughout your apprenticeship. Of course, this doesn't mean they'll actually do any of your work for you – instead they'll be asking you about what [Q13] goals you've achieved so far, as well as helping you to identify any areas for improvement. You can also discuss your more long-term ambitions with them as well. [Q14]\nNow I just want to run through a few company policies for our apprenticeship scheme with you... Most importantly, the internet. As part of your job you'll be doing some research online so obviously you'll have unlimited access for that but please don't use it for personal use – [Q15] you'll have your own phones for that.\nSome of you have already asked me about flexible working. After your probationary three-month period – some of you will be eligible for this – but it will depend on which department [Q16] you're in and what your personal circumstances are. So please don't assume you'll automatically be permitted to do this.\nI want to make sure there's no confusion about our holiday policy. Apart from any statutory public holidays we ask that you don't book any holidays until after your six-month [Q17] apprenticeship has finished. Time off should only be taken if you are unwell. Please speak to your supervisor if this is going to be a problem.\nYou'll be expected to work a 40-hour week but there may be opportunities to do overtime during busy periods. Although you're not required to do this, it can be a valuable experience [Q18] – so we advise you to take it up if possible. Obviously, we understand that people do have commitments outside work, so don't worry if there are times when you are unavailable.\nAs you know, we don't have a formal dress code here – you may wear casual clothes as long as they're practical – and the only restriction for shoes we have is on high heels for health and safety reasons. Comfortable shoes like trainers are preferable. [Q19]\nThere's a heavily subsidised canteen on site where you can get hot meals or salads cheaply. Snacks and drinks are also provided – so we've decided to introduce a no packed lunch [Q20] policy. This is partly to encourage healthy eating at work and partly to stop people from eating at their workstation, which is unhygienic.\nOK moving on to ..."
+  },
+  {
+   "part": 3,
+   "range": [
+    21,
+    30
+   ],
+   "pages": [
+    13,
+    14
+   ],
+   "groups": [
+    {
+     "id": "L3-1",
+     "type": "choice",
+     "range": [
+      21,
+      25
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "title": "Cities built by the sea",
+     "questions": [
+      {
+       "n": 21,
+       "text": "Carla and Rob were surprised to learn that coastal cities",
+       "options": [
+        {
+         "key": "A",
+         "text": "contain nearly half the world's population."
+        },
+        {
+         "key": "B",
+         "text": "include most of the world's largest cities."
+        },
+        {
+         "key": "C",
+         "text": "are growing twice as fast as other cities."
+        }
+       ]
+      },
+      {
+       "n": 22,
+       "text": "According to Rob, building coastal cities near to rivers",
+       "options": [
+        {
+         "key": "A",
+         "text": "may bring pollution to the cities."
+        },
+        {
+         "key": "B",
+         "text": "may reduce the land available for agriculture."
+        },
+        {
+         "key": "C",
+         "text": "may mean the countryside is spoiled by industry."
+        }
+       ]
+      },
+      {
+       "n": 23,
+       "text": "What mistake was made when building water drainage channels in Miami in the 1950s?",
+       "options": [
+        {
+         "key": "A",
+         "text": "There were not enough of them."
+        },
+        {
+         "key": "B",
+         "text": "They were made of unsuitable materials."
+        },
+        {
+         "key": "C",
+         "text": "They did not allow for the effects of climate change."
+        }
+       ]
+      },
+      {
+       "n": 24,
+       "text": "What do Rob and Carla think that the authorities in Miami should do immediately?",
+       "options": [
+        {
+         "key": "A",
+         "text": "take measures to restore ecosystems"
+        },
+        {
+         "key": "B",
+         "text": "pay for a new flood prevention system"
+        },
+        {
+         "key": "C",
+         "text": "stop disposing of waste materials into the ocean"
+        }
+       ]
+      },
+      {
+       "n": 25,
+       "text": "What do they agree should be the priority for international action?",
+       "options": [
+        {
+         "key": "A",
+         "text": "greater coordination of activities"
+        },
+        {
+         "key": "B",
+         "text": "more sharing of information"
+        },
+        {
+         "key": "C",
+         "text": "agreement on shared policies"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L3-2",
+     "type": "matching",
+     "range": [
+      26,
+      30
+     ],
+     "instructions": [
+      "What decision do the students make about each of the following parts of their presentation?",
+      "Choose **FIVE** answers from the box and write the correct letter, **A–G**, next to Questions 26–30."
+     ],
+     "optionsTitle": "Decisions",
+     "options": [
+      {
+       "key": "A",
+       "text": "use visuals"
+      },
+      {
+       "key": "B",
+       "text": "keep it short"
+      },
+      {
+       "key": "C",
+       "text": "involve other students"
+      },
+      {
+       "key": "D",
+       "text": "check the information is accurate"
+      },
+      {
+       "key": "E",
+       "text": "provide a handout"
+      },
+      {
+       "key": "F",
+       "text": "focus on one example"
+      },
+      {
+       "key": "G",
+       "text": "do online research"
+      }
+     ],
+     "title": "Parts of the presentation",
+     "questions": [
+      {
+       "n": 26,
+       "text": "Historical background"
+      },
+      {
+       "n": 27,
+       "text": "Geographical factors"
+      },
+      {
+       "n": 28,
+       "text": "Past mistakes"
+      },
+      {
+       "n": 29,
+       "text": "Future risks"
+      },
+      {
+       "n": 30,
+       "text": "International implications"
+      }
+     ]
+    }
+   ],
+   "transcript": "TUTOR: OK, so what I'd like you to do now is to talk to your partner about your presentations on urban planning. You should have done most of the reading now, so I'd like you to share your ideas, and talk about the structure of your presentation and what you need to do next.\nCARLA: OK Rob. I'm glad we chose quite a specific topic – cities built next to the sea. It made it much easier to find relevant information.\nROB: Yeah. And cities are growing so quickly – I mean, we know that more than half the world's population lives in cities now.\nCARLA: Yeah, though that's all cities, not just ones on the coast. But most of the biggest [Q21] cities are actually built by the sea. I'd not realised that before.\nROB: Nor me. And what's more, a lot of them are built at places where rivers come out into the sea. But apparently this can be a problem.\nCARLA: Why?\nROB: Well, as the city expands, agriculture and industry tend to spread further inland along the rivers, and so agriculture moves even further inland up the river. That's not necessarily a problem, except it means more and more pollutants are [Q22] discharged into the rivers.\nCARLA: So these are brought downstream to the cities?\nROB: Right. Hmm. Did you read that article about Miami, on the east coast of the USA?\nCARLA: No.\nROB: Well, apparently back in the 1950s they built channels to drain away the water in case of flooding.\nCARLA: Sounds sensible.\nROB: Yeah, they spent quite a lot of money on them. But what they didn't take into account [Q23] was global warming. So they built the drainage channels too close to sea level, and now sea levels are rising, they're more or less useless. If there's a lot of rain, the water can't run away, there's nowhere for it to go. The whole design was faulty.\nCARLA: So what are the authorities doing about it now?\nROB: I don't know. I did read that they're aiming to stop disposing of waste water into the ocean over the next ten years.\nCARLA: But that won't help with flood prevention now, will it?\nROB: No. Really they just need to find the money for something to replace the drainage [Q24] channels in order to protect against flooding now. But in the long term they need to consider the whole ecosystem.\nCARLA: Right. Really, though, coastal cities can't deal with their problems on their own, can they? I mean, they've got to start acting together at an international level instead of just doing their own thing.\nROB: Absolutely. The thing is, everyone knows what the problems are and environmentalists have a pretty good idea of what we should be doing about them, so they should be able to work together to some extent. But it's going to [Q25] be a long time before countries come to a decision on what principles they're prepared to abide by.\nCARLA: Yes, if they ever do.\nCARLA: So I think we've probably got enough for our presentation. It's only fifteen minutes.\nROB: OK. So I suppose we'll begin with some general historical background about why coastal cities were established. But we don't want to spend too long on that, the [Q26] other students will already know a bit about it. It's all to do with communications and so on.\nCARLA: Yes. We should mention some geographical factors, things like wetlands and river estuaries and coastal erosion and so on. We could have some maps of different cities with these features marked.\nROB: On a handout you mean? Or some slides everyone can see? [Q27]\nCARLA: Yeah, that'd be better.\nROB: It'd be good to go into past mistakes in a bit more detail. Did you read that case study of the problems there were in New Orleans with flooding a few years ago?\nCARLA: Yes. We could use that as the basis for that part of the talk. I don't think the other [Q28] students will have read it, but they'll remember hearing about the flooding at the time.\nROB: OK. So that's probably enough background.\nCARLA: So then we'll go on to talk about what action's being taken to deal with the problems of coastal cities.\nROB: OK. What else do we need to talk about? Maybe something on future risks, looking more at the long term, if populations continue to grow.\nCARLA: Yeah. We'll need to do a bit of work there, I haven't got much information, have you?\nROB: No. We'll need to look at some websites. Shouldn't take too long. [Q29]\nCARLA: OK. And I think we should end by talking about international implications. Maybe we could ask people in the audience. We've got people from quite a lot of [Q30] different places.\nROB: That'd be interesting, if we have time, yes. So now shall we ..."
+  },
+  {
+   "part": 4,
+   "range": [
+    31,
+    40
+   ],
+   "pages": [
+    15
+   ],
+   "groups": [
+    {
+     "id": "L4-1",
+     "type": "completion",
+     "range": [
+      31,
+      40
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **ONE WORD ONLY** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Marine renewable energy (ocean energy)"
+      },
+      {
+       "t": "sub",
+       "text": "Introduction"
+      },
+      {
+       "t": "p",
+       "text": "More energy required because of growth in population and {{31}}"
+      },
+      {
+       "t": "p",
+       "text": "What's needed:"
+      },
+      {
+       "t": "li",
+       "text": "renewable energy sources"
+      },
+      {
+       "t": "li",
+       "text": "methods that won't create pollution"
+      },
+      {
+       "t": "sub",
+       "text": "Wave energy"
+      },
+      {
+       "t": "p",
+       "text": "Advantage: waves provide a {{32}} source of renewable energy"
+      },
+      {
+       "t": "p",
+       "text": "Electricity can be generated using offshore or onshore systems"
+      },
+      {
+       "t": "p",
+       "text": "Onshore systems may use a reservoir"
+      },
+      {
+       "t": "p",
+       "text": "Problems:"
+      },
+      {
+       "t": "li",
+       "text": "waves can move in any {{33}}"
+      },
+      {
+       "t": "li",
+       "text": "movement of sand, etc. on the {{34}} of the ocean may be affected"
+      },
+      {
+       "t": "sub",
+       "text": "Tidal energy"
+      },
+      {
+       "t": "p",
+       "text": "Tides are more {{35}} than waves"
+      },
+      {
+       "t": "p",
+       "text": "Planned tidal lagoon in Wales:"
+      },
+      {
+       "t": "li",
+       "text": "will be created in a {{36}} at Swansea"
+      },
+      {
+       "t": "li",
+       "text": "breakwater (dam) containing 16 turbines"
+      },
+      {
+       "t": "li",
+       "text": "rising tide forces water through turbines, generating electricity"
+      },
+      {
+       "t": "li",
+       "text": "stored water is released through {{37}}, driving the turbines in the reverse direction"
+      },
+      {
+       "t": "p",
+       "text": "Advantages:"
+      },
+      {
+       "t": "li",
+       "text": "not dependent on weather"
+      },
+      {
+       "t": "li",
+       "text": "no {{38}} is required to make it work"
+      },
+      {
+       "t": "li",
+       "text": "likely to create a number of {{39}}"
+      },
+      {
+       "t": "p",
+       "text": "Problem:"
+      },
+      {
+       "t": "li",
+       "text": "may harm fish and birds, e.g. by affecting {{40}} and building up silt"
+      },
+      {
+       "t": "sub",
+       "text": "Ocean thermal energy conversion"
+      },
+      {
+       "t": "p",
+       "text": "Uses a difference in temperature between the surface and lower levels"
+      },
+      {
+       "t": "p",
+       "text": "Water brought to the surface in a pipe"
+      }
+     ]
+    }
+   ],
+   "transcript": "Producing enough energy to meet our needs has become a serious problem. Demand is rising rapidly, because of the world's increasing population and expanding industry. Burning fossil [Q31] fuels, like gas, coal and oil, seriously damages the environment and they'll eventually run out. For a number of years now, scientists have been working out how we can derive energy from renewable sources, such as the sun and wind, without causing pollution. Today I'll outline marine renewable energy – also called ocean energy – which harnesses the movement of the oceans.\nMarine renewable energy can be divided into three main categories: wave energy, tidal energy and ocean thermal energy conversion, and I'll say a few words about each one.\nFirst, wave energy. Numerous devices have been invented to harvest wave energy, with names such as Wave Dragon, the Penguin and Mighty Whale, and research is going on to try and come up with a really efficient method. This form of energy has plenty of potential, as the source is constant, and there's no danger of waves coming to a standstill. Electricity can be generated [Q32] using onshore systems, using a reservoir, or offshore systems. But the problem with ocean waves is that they're erratic, with the wind making them travel in every direction. This adds to [Q33] the difficulty of creating efficient technology: ideally all the waves would travel smoothly and regularly along the same straight line. Another drawback is that sand and other sediment on the ocean floor might be stopped from flowing normally, which can lead to environmental problems. [Q34]\nThe second category of marine energy that I'll mention is tidal energy. One major advantage of using the tide, rather than waves, as a source of energy is that it's predictable: we know [Q35] the exact times of high and low tides for years to come.\nFor tidal energy to be effective, the difference between high and low tides needs to be at least five metres, and this occurs naturally in only about forty places on Earth. But the right conditions can be created by constructing a tidal lagoon, an area of sea water separated from the sea.\nOne current plan is to create a tidal lagoon on the coast of Wales. This will be an area of water within a bay at Swansea, sheltered by a U-shaped breakwater, or dam, built out from the [Q36] coast. The breakwater will contain sixteen hydro turbines, and as the tide rises, water rushes through the breakwater, activating the turbines, which turn a generator to produce electricity. Then, for three hours as the tide goes out, the water is held back within the breakwater, increasing the difference in water level, until it's several metres higher within the lagoon than in the open sea. Then, in order to release the stored water, gates in the breakwater are opened. [Q37] It pours powerfully out of the lagoon, driving the turbines in the breakwater in the opposite direction and again generating thousands of megawatts of electricity. As there are two high tides a day, this lagoon scheme would generate electricity four times a day, every day, for a total of around 14 hours in every 24 – and enough electricity for over 150,000 homes.\nThis system has quite a lot in its favour: unlike solar and wind energy it doesn't depend on the weather; the turbines are operated without the need for fuel, so it doesn't create [Q38] any greenhouse gas emissions; and very little maintenance is needed. It's estimated that electricity generated in this way will be relatively cheap, and that manufacturing the components would create more than 2,000 jobs, a big boost to the local economy. [Q39]\nOn the other hand, there are fears that lagoons might harm both fish and birds, for example by disturbing migration patterns, and causing a build-up of silt, affecting local ecosystems. [Q40]\nThere are other forms of tidal energy, but I'll go on to the third category of marine energy: ocean thermal energy conversion. This depends on there being a big difference in temperature between surface water and the water a couple of kilometres below the surface, and this occurs in tropical coastal areas. The idea is to bring cold water up to the surface using a submerged pipe. The concept dates back to 1881, when ..."
+  }
+ ],
+ "answers": {
+  "1": {
+   "a": [
+    "Canadian"
+   ]
+  },
+  "2": {
+   "a": [
+    "furniture"
+   ]
+  },
+  "3": {
+   "a": [
+    "Park"
+   ]
+  },
+  "4": {
+   "a": [
+    "250",
+    "250 sterling"
+   ],
+   "k": "250 (sterling)"
+  },
+  "5": {
+   "a": [
+    "phone"
+   ]
+  },
+  "6": {
+   "a": [
+    "10 September",
+    "10th September"
+   ],
+   "k": "10(th) September"
+  },
+  "7": {
+   "a": [
+    "museum"
+   ]
+  },
+  "8": {
+   "a": [
+    "time"
+   ]
+  },
+  "9": {
+   "a": [
+    "blond",
+    "blonde"
+   ],
+   "k": "blond(e)"
+  },
+  "10": {
+   "a": [
+    "87954 82361"
+   ]
+  },
+  "11": {
+   "a": [
+    "A"
+   ]
+  },
+  "12": {
+   "a": [
+    "C"
+   ]
+  },
+  "13": {
+   "a": [
+    "B"
+   ]
+  },
+  "14": {
+   "a": [
+    "E"
+   ]
+  },
+  "15": {
+   "a": [
+    "B"
+   ]
+  },
+  "16": {
+   "a": [
+    "B"
+   ]
+  },
+  "17": {
+   "a": [
+    "C"
+   ]
+  },
+  "18": {
+   "a": [
+    "A"
+   ]
+  },
+  "19": {
+   "a": [
+    "A"
+   ]
+  },
+  "20": {
+   "a": [
+    "C"
+   ]
+  },
+  "21": {
+   "a": [
+    "B"
+   ]
+  },
+  "22": {
+   "a": [
+    "A"
+   ]
+  },
+  "23": {
+   "a": [
+    "C"
+   ]
+  },
+  "24": {
+   "a": [
+    "B"
+   ]
+  },
+  "25": {
+   "a": [
+    "A"
+   ]
+  },
+  "26": {
+   "a": [
+    "B"
+   ]
+  },
+  "27": {
+   "a": [
+    "A"
+   ]
+  },
+  "28": {
+   "a": [
+    "F"
+   ]
+  },
+  "29": {
+   "a": [
+    "G"
+   ]
+  },
+  "30": {
+   "a": [
+    "C"
+   ]
+  },
+  "31": {
+   "a": [
+    "industry"
+   ]
+  },
+  "32": {
+   "a": [
+    "constant"
+   ]
+  },
+  "33": {
+   "a": [
+    "direction"
+   ]
+  },
+  "34": {
+   "a": [
+    "floor"
+   ]
+  },
+  "35": {
+   "a": [
+    "predictable"
+   ]
+  },
+  "36": {
+   "a": [
+    "bay"
+   ]
+  },
+  "37": {
+   "a": [
+    "gates"
+   ]
+  },
+  "38": {
+   "a": [
+    "fuel"
+   ]
+  },
+  "39": {
+   "a": [
+    "jobs"
+   ]
+  },
+  "40": {
+   "a": [
+    "migration"
+   ]
+  }
+ }
+}

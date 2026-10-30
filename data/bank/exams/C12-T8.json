@@ -1,0 +1,1571 @@
+{
+ "schema": "ielts-mock.exam/1",
+ "id": "C12-T8",
+ "source": {
+  "book": 12,
+  "test": 8
+ },
+ "title": "Cambridge IELTS 12 · Test 8",
+ "listening": {
+  "parts": [
+   {
+    "part": 1,
+    "range": [
+     1,
+     10
+    ],
+    "pages": [
+     74
+    ],
+    "groups": [
+     {
+      "id": "L1-1",
+      "type": "completion",
+      "range": [
+       1,
+       10
+      ],
+      "instructions": [
+       "Complete the notes below.",
+       "Write **ONE WORD AND/OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Cycle tour leader: Applicant enquiry"
+       },
+       {
+        "t": "note",
+        "text": "*Example*"
+       },
+       {
+        "t": "p",
+        "text": "Name: Margaret *Smith*"
+       },
+       {
+        "t": "sub",
+        "text": "About the applicant:"
+       },
+       {
+        "t": "li",
+        "text": "wants a {{1}} job"
+       },
+       {
+        "t": "li",
+        "text": "will soon start work as a {{2}}"
+       },
+       {
+        "t": "li",
+        "text": "has led cycle trips in {{3}}"
+       },
+       {
+        "t": "li",
+        "text": "interested in being a leader of a cycling trip for families"
+       },
+       {
+        "t": "li",
+        "text": "is currently doing voluntary work with members of a {{4}} club"
+       },
+       {
+        "t": "li",
+        "text": "available for five months from the 1st of {{5}}"
+       },
+       {
+        "t": "li",
+        "text": "can't eat {{6}}"
+       },
+       {
+        "t": "sub",
+        "text": "Contact details:"
+       },
+       {
+        "t": "li",
+        "text": "address: 27 {{7}} Place, Dumfries"
+       },
+       {
+        "t": "li",
+        "text": "postcode: {{8}}"
+       },
+       {
+        "t": "sub",
+        "text": "Interview:"
+       },
+       {
+        "t": "li",
+        "text": "interview at 2.30 pm on {{9}}"
+       },
+       {
+        "t": "li",
+        "text": "will plan a short {{10}} about being a tour guide"
+       }
+      ]
+     }
+    ],
+    "transcript": "BOB: Hello, Pembroke Cycling Holidays, Bob speaking.\nMARGARET: Oh hello. I've seen your advert for people to lead cycle trips. Are you the right person to speak to?\nBOB: Yes, I am. Could I have your name, please?\nMARGARET: It's Margaret Smith.\nBOB: Are you looking for a permanent job, Margaret? [Q1]\nMARGARET: No, temporary. I've got a permanent job starting in a few months' time, and I want to do something else until then.\nBOB: What work do you do?\nMARGARET: This will probably sound crazy – I used to be a lawyer, and then I made a complete career change and I'm going to be a doctor. I've just finished my [Q2] training.\nBOB: Right. And have you had any experience of leading cycle trips?\nMARGARET: Yes, I've led several bike tours in Africa. The trip to India that I had arranged to [Q3] lead next month has now been cancelled, so when I saw you were advertising for tour leaders, I decided to apply.\nBOB: OK. Now we normally have two or three leaders on a trip, depending on the size of the group. Some tours are for very experienced cyclists, but we've got a tour coming up soon in Spain, which is proving so popular we need an additional leader. It's a cycling holiday for families. Would that suit you?\nMARGARET: It certainly would. I enjoy working with children, and I probably need some more experience before I go on a really challenging trip.\nBOB: That tour includes several teenagers: have you worked with that age group before?\nMARGARET: Yes, I'm a volunteer worker in a youth club, where I help people to improve their [Q4] cycling skills. Before that I helped out in a cycling club where I taught beginners.\nBOB: Well that's great. Now the trip I mentioned is just for a fortnight, but there might be the possibility of leading other tours after that. Would that fit in with your plans?\nMARGARET: That'd be fine. I'll be free for five months. My job is due to start on October the [Q5] 2nd, and I'm available from May the 1st until late September.\nBOB: Good. Now is there anything I need to know about the food you eat? We usually have one or two people in the group who don't eat meat, or have some sort of food allergy, so we're always very careful about that.\nMARGARET: Yes, I'm allergic to cheese. Would that be a problem? [Q6]\nBOB: No, as long as we have enough notice, we can deal with that.\nMARGARET: That's great.\nMARGARET: It sounds really interesting – would you like me to fill in an application form?\nBOB: Yes, please. Where should I post it to?\nMARGARET: Could you send it to 27 Arbuthnot Place – A-R-B-U-T-H-N-O-T – Place, Dumfries. [Q7]\nBOB: And what's the postcode, please? [Q8]\nMARGARET: DG7 4PH.\nBOB: Was that P Papa or B Bravo?\nMARGARET: P Papa.\nBOB: Got that. If you could return the application form by Friday this week, we can [Q9] interview you on Tuesday next week. Say half past two. Would that be possible for you?\nMARGARET: Yes, it's fine. You're quite a long way from where I live, so I'll drive over on Monday. Should I bring anything to the interview?\nBOB: We'll have your application form, of course, but we'll need to see any certificates you've got that are relevant, in cycling, first aid, or whatever.\nMARGARET: OK.\nBOB: And at the interview we'd like to find out about your experience of being a tour [Q10] guide, so could you prepare a ten-minute talk about that, please? You don't need slides or any complicated equipment – just some notes.\nMARGARET: Right. I'll start thinking about that straightaway!\nBOB: Good. Well, we'll look forward to receiving your application form, and we'll contact you to confirm the interview.\nMARGARET: Thanks very much.\nBOB: Thank you, Margaret. Goodbye.\nMARGARET: Bye."
+   },
+   {
+    "part": 2,
+    "range": [
+     11,
+     20
+    ],
+    "pages": [
+     75,
+     76
+    ],
+    "groups": [
+     {
+      "id": "L2-1",
+      "type": "choice",
+      "range": [
+       11,
+       14
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B** or **C**."
+      ],
+      "title": "Visiting the Sheepmarket area",
+      "questions": [
+       {
+        "n": 11,
+        "text": "Which is the most rapidly-growing group of residents in the Sheepmarket area?",
+        "options": [
+         {
+          "key": "A",
+          "text": "young professional people"
+         },
+         {
+          "key": "B",
+          "text": "students from the university"
+         },
+         {
+          "key": "C",
+          "text": "employees in the local market"
+         }
+        ]
+       },
+       {
+        "n": 12,
+        "text": "The speaker recommends the side streets in the Sheepmarket for their",
+        "options": [
+         {
+          "key": "A",
+          "text": "international restaurants."
+         },
+         {
+          "key": "B",
+          "text": "historical buildings."
+         },
+         {
+          "key": "C",
+          "text": "arts and crafts."
+         }
+        ]
+       },
+       {
+        "n": 13,
+        "text": "Clothes designed by entrants for the Young Fashion competition must",
+        "options": [
+         {
+          "key": "A",
+          "text": "be modelled by the designers themselves."
+         },
+         {
+          "key": "B",
+          "text": "be inspired by aspects of contemporary culture."
+         },
+         {
+          "key": "C",
+          "text": "be made from locally produced materials."
+         }
+        ]
+       },
+       {
+        "n": 14,
+        "text": "Car parking is free in some car parks if you",
+        "options": [
+         {
+          "key": "A",
+          "text": "stay for less than an hour."
+         },
+         {
+          "key": "B",
+          "text": "buy something in the shops."
+         },
+         {
+          "key": "C",
+          "text": "park in the evenings or at weekends."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L2-2",
+      "type": "matching",
+      "range": [
+       15,
+       20
+      ],
+      "instructions": [
+       "Label the map below.",
+       "Write the correct letter, **A–I**, next to Questions 15–20."
+      ],
+      "image": "images/C12/C12-T8-L2-map.png",
+      "options": [
+       {
+        "key": "A",
+        "text": ""
+       },
+       {
+        "key": "B",
+        "text": ""
+       },
+       {
+        "key": "C",
+        "text": ""
+       },
+       {
+        "key": "D",
+        "text": ""
+       },
+       {
+        "key": "E",
+        "text": ""
+       },
+       {
+        "key": "F",
+        "text": ""
+       },
+       {
+        "key": "G",
+        "text": ""
+       },
+       {
+        "key": "H",
+        "text": ""
+       },
+       {
+        "key": "I",
+        "text": ""
+       }
+      ],
+      "questions": [
+       {
+        "n": 15,
+        "text": "The Reynolds House"
+       },
+       {
+        "n": 16,
+        "text": "The Thumb"
+       },
+       {
+        "n": 17,
+        "text": "The Museum"
+       },
+       {
+        "n": 18,
+        "text": "The Contemporary Art Gallery"
+       },
+       {
+        "n": 19,
+        "text": "The Warner Gallery"
+       },
+       {
+        "n": 20,
+        "text": "Nucleus"
+       }
+      ]
+     }
+    ],
+    "transcript": "Welcome to this podcast about the Sheepmarket, which is one of the oldest parts of the city. As its name suggests, there was originally a market here where farmers brought their sheep, but now it's been redeveloped into a buzzing, vibrant area of the city, which is also home to one of the city's fastest-growing communities. The nearby university has always meant the area's popular with students, who come in to enjoy the lively nightlife, but now graduates [Q11] embarking on careers in the worlds of fashion and design are buying up the new apartments recently built here to replace the small houses where the market workers used to live.\nThe narrow old side streets are great places for finding original pictures, jewellery and [Q12] ceramics which won't break the bank, as well as local produce like fruit and vegetables. There's also lots of pavement cafes where you can have a coffee and watch tourists from all over the world go by. The oldest buildings in the area are on the main streets, including the city's first department store, built in the 1880s, which is still open today.\nThe Sheepmarket is a centre for fashion, and there's a policy of encouraging new young designers. The Young Fashion competition is open to local young people who are passionate about fashion. This year they've been asked to design an outfit based on ideas from the music and technology that's part of their everyday life, using both natural and man-made fibres. The garments will be judged by a panel of experts and fashion designers, and the winning entries will be modelled at a special gala evening.\nParking at the Sheepmarket is easy. There are plenty of pay and display car parking spaces on the roadsides which are fine if you just want to stay for an hour or two, but if you want to spend the day there it's better to park in one of the four underground car parks. It's not expensive and if you can present a receipt from one of the local stores, you'll not be charged [Q14] at all. After six pm many of the car parks have a flat rate which varies but it is usually very reasonable.\nThe Sheepmarket is one of the main centres for art and history in the whole of the country. If you look at our map, you'll see some of the main attractions there. Most visitors start from Crawley Road, at the bottom of the map. The Reynolds House is one of the oldest houses in [Q15] the city, and is open to the public. It's on the north side of Crawley Road, next to the footpath that leads to the public gardens.\nThe area's particularly interesting for its unusual sculptures. 'The Thumb' is just what its name [Q16] suggests, but it's about 10 metres high. You'll see it on Hill Road, across the road from the Bank.\nThe Museum's got a particularly fine collection of New Zealand landscapes. It's on the east [Q17] side of the Sheepmarket, on City Road. It's on the other side of the road from the public gardens, immediately facing the junction with Hill Road.\nThe Contemporary Art Gallery is on a little road that leads off Station Square, not far from the [Q18] public gardens. The road ends at the gallery – it doesn't go anywhere else. That's open every day except Mondays.\nThe Warner Gallery specialises in 19th-century art. It's on City Road, near the junction with [Q19] Crawley Road, on the same side of the road as the public gardens. It's open on weekdays from 9 to 5, and entry is free.\nFinally, if you're interested in purchasing high quality artwork, the place to go is Nucleus. You [Q20] need to go from Crawley Road up through Station Square and east along Hill Road until you get to a small winding road turning off. Go up there and it's on your right – if you get to City Road you've gone too far."
+   },
+   {
+    "part": 3,
+    "range": [
+     21,
+     30
+    ],
+    "pages": [
+     77,
+     78
+    ],
+    "groups": [
+     {
+      "id": "L3-1",
+      "type": "completion",
+      "range": [
+       21,
+       24
+      ],
+      "instructions": [
+       "Complete the table below.",
+       "Write **ONE WORD ONLY** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Presentation on film adaptations of Shakespeare's plays"
+       },
+       {
+        "t": "table",
+        "header": 1,
+        "rows": [
+         [
+          "Stages of presentation",
+          "Work still to be done"
+         ],
+         [
+          "Introduce Giannetti's book containing a {{21}} of adaptations",
+          "Organise notes"
+         ],
+         [
+          "Ask class to suggest the {{22}} adaptations",
+          "No further work needed"
+         ],
+         [
+          "Present Rachel Malchow's ideas",
+          "Prepare some {{23}}"
+         ],
+         [
+          "Discuss relationship between adaptations and {{24}} at the time of making the film",
+          "No further work needed"
+         ]
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L3-2",
+      "type": "matching",
+      "range": [
+       25,
+       30
+      ],
+      "instructions": [
+       "What do the speakers say about each of the following films?",
+       "Choose **SIX** answers from the box and write the correct letter, **A–G**, next to questions 25–30."
+      ],
+      "optionsTitle": "Comments",
+      "title": "Films",
+      "options": [
+       {
+        "key": "A",
+        "text": "clearly shows the historical period"
+       },
+       {
+        "key": "B",
+        "text": "contains only parts of the play"
+       },
+       {
+        "key": "C",
+        "text": "is too similar to another kind of film"
+       },
+       {
+        "key": "D",
+        "text": "turned out to be unpopular with audiences"
+       },
+       {
+        "key": "E",
+        "text": "presents the play in a different period from the original"
+       },
+       {
+        "key": "F",
+        "text": "sets the original in a different country"
+       },
+       {
+        "key": "G",
+        "text": "incorporates a variety of art forms"
+       }
+      ],
+      "questions": [
+       {
+        "n": 25,
+        "text": "*Ran*"
+       },
+       {
+        "n": 26,
+        "text": "*Much Ado About Nothing*"
+       },
+       {
+        "n": 27,
+        "text": "*Romeo & Juliet*"
+       },
+       {
+        "n": 28,
+        "text": "*Hamlet*"
+       },
+       {
+        "n": 29,
+        "text": "*Prospero's Books*"
+       },
+       {
+        "n": 30,
+        "text": "*Looking for Richard*"
+       }
+      ]
+     }
+    ],
+    "transcript": "KATIE: Joe, you know I'm giving a presentation in our film studies class next week?\nJOE: Yes.\nKATIE: Well, could we discuss it? I could do with getting someone else's opinion.\nJOE: Of course, Katie. What are you going to talk about?\nKATIE: It's about film adaptations of Shakespeare's plays. I've got very interested in all the different approaches that film directors take.\nJOE: Uhuh.\nKATIE: So I thought I'd start with Giannetti, who's a professor of film and literature, and in one [Q21] of his books he came up with a straightforward classification of film adaptations based on how faithful they are to the original plays and novels.\nJOE: Right.\nKATIE: I've already made some notes on that, so I just need to sort those out before the presentation. I thought that next I'd ask the class to come up with the worst examples [Q22] of Shakespeare adaptations that they've seen, and to say why. That should be more fun than having their favourite versions.\nJOE: Yes, I can certainly think of a couple!\nKATIE: Right. Next I want to talk about Rachel Malchow. I came across something on the internet about her work on film adaptations, and I was thinking of showing some film clips to illustrate her ideas.\nJOE: Will you have enough time, though? Both to prepare and during the presentation? After all, I doubt if you'll be able to find all the clips you want.\nKATIE: Hmm. Perhaps you're right. OK, well, I'd better do some slides instead, saying how [Q23] various films relate to what she says. That should encourage discussion.\nJOE: Mmm.\nKATIE: Next I want to say something about how plays may be chosen for adaptation because [Q24] they're concerned with issues of the time when the film is made.\nJOE: You mean things like patriotism, or the role of governments?\nKATIE: Exactly. It's quite tricky, but I've got a few ideas I'd like to discuss.\nKATIE: And finally I want to talk about a few adaptations that I think illustrate a range of approaches, and make some comments on them. Do you know the Japanese film *Ran*?\nJOE: I haven't seen it. It was based on Shakespeare's *King Lear*, wasn't it?\nKATIE: That's right. It was a very loose adaptation, using the same situation and story, but [Q25] moving it to 16th century Japan instead of 16th century Britain. So for example the king's daughters become sons, because in Japanese culture at that time, women couldn't succeed to the throne.\nJOE: OK. I hope you're going to talk about the1993 film of *Much Ado About Nothing*. I think that's one of the best Shakespeare films. It really brings the play to life, doesn't it?\nKATIE: Yes, I agree. And I think filming it in Italy, where the play is set, makes you see what [Q26] life was like at the time of the play.\nJOE: Absolutely. Right, what's next?\nKATIE: Er, next, I thought *Romeo & Juliet*, the 1996 film, which moves the action into the [Q27] present day.\nJOE: Yes, it worked really well, I thought – changing the two feuding families in the original to two competing business empires, even though they're speaking in the English of the original play.\nKATIE: You'd expect it would sound really bizarre, but I found I soon got used to it.\nJOE: Me too.\nKATIE: Then I thought I'd include a real Hollywood film, one that's intended to appeal to a mass commercial audience.\nJOE: There must be quite a number of those.\nKATIE: Yes, but I've picked the 1996 film of *Hamlet*. It included every line of the text, but [Q28] it's more like a typical action hero movie – there are loads of special effects, but no unifying interpretation of the play.\nJOE: All show and no substance.\nKATIE: Exactly. Then there's *Prospero's Books*, based on *The Tempest*. That was really [Q29] innovative. from a stylistic point of view.\nJOE: Didn't it include dance and singing and animation, as well as live actors?\nKATIE: Yes, it did. I also want to mention *Looking for Richard*. Did you ever see it? [Q30]\nJOE: No, but I've read about it. It was a blend of a documentary with a few scenes from *Richard III*, wasn't it?\nKATIE: That's right. It's more a way of looking into how people nowadays connect with the playwright – the play is really just the starting point. And that'll be where I finish.\nJOE: Well, it sounds as though it'll be very interesting."
+   },
+   {
+    "part": 4,
+    "range": [
+     31,
+     40
+    ],
+    "pages": [
+     79
+    ],
+    "groups": [
+     {
+      "id": "L4-1",
+      "type": "completion",
+      "range": [
+       31,
+       40
+      ],
+      "instructions": [
+       "Complete the notes below.",
+       "Write **ONE WORD ONLY** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Noise in Cities"
+       },
+       {
+        "t": "p",
+        "text": "Past research focused on noise level (measured in decibels) and people's responses."
+       },
+       {
+        "t": "sub",
+        "text": "Noise 'maps'"
+       },
+       {
+        "t": "li",
+        "text": "show that the highest noise levels are usually found on roads"
+       },
+       {
+        "t": "li",
+        "text": "do not show other sources of noise, e.g. when windows are open or people's neighbours are in their {{31}}"
+       },
+       {
+        "t": "li",
+        "text": "ignore variations in people's perceptions of noise"
+       },
+       {
+        "t": "li",
+        "text": "have made people realize that the noise is a {{32}} issue that must be dealt with"
+       },
+       {
+        "t": "sub",
+        "text": "Problems caused by noise"
+       },
+       {
+        "t": "li",
+        "text": "sleep disturbance"
+       },
+       {
+        "t": "li",
+        "text": "increase in amount of stress"
+       },
+       {
+        "t": "li",
+        "text": "effect on the {{33}} of schoolchildren"
+       },
+       {
+        "t": "sub",
+        "text": "Different types of noise"
+       },
+       {
+        "t": "p",
+        "text": "Some noises can be considered pleasant e.g. the sound of a {{34}} in a town"
+       },
+       {
+        "t": "p",
+        "text": "To investigate this, researchers may use methods from {{35}} sciences e.g. questionnaires"
+       },
+       {
+        "t": "sub",
+        "text": "What people want"
+       },
+       {
+        "t": "p",
+        "text": "Plenty of activity in urban environments which are {{36}}, but also allow people to relax"
+       },
+       {
+        "t": "p",
+        "text": "But architects and town planners"
+       },
+       {
+        "t": "li",
+        "text": "do not get much {{37}} in acoustics"
+       },
+       {
+        "t": "li",
+        "text": "regard sound as the responsibility of engineers"
+       },
+       {
+        "t": "sub",
+        "text": "Understanding sound as an art form"
+       },
+       {
+        "t": "p",
+        "text": "We need to know"
+       },
+       {
+        "t": "li",
+        "text": "how sound relates to {{38}}"
+       },
+       {
+        "t": "li",
+        "text": "what can be learnt from psychology about the effects of sound"
+       },
+       {
+        "t": "li",
+        "text": "whether physics can help us understand the {{39}} of sound"
+       },
+       {
+        "t": "p",
+        "text": "Virtual reality programs"
+       },
+       {
+        "t": "li",
+        "text": "advantage: predict the effect of buildings"
+       },
+       {
+        "t": "li",
+        "text": "current disadvantage: they are {{40}}"
+       }
+      ]
+     }
+    ],
+    "transcript": "This lecture will be about the science of acoustics, the study of sound, in relation to urban environments such as cities. As an acoustic engineer myself, I think this is an area where we're likely to see great changes. In the past, researching urban soundscapes was simple. We measured levels of sound in decibels, so I used to take my sound meter and I measured the noise somewhere, and then I might ask a sample of people to say at what level the sound became annoying.\nWith data like this, acoustic engineers have been able to build up what we call noise maps, maps of the sound environment. But actually these aren't a lot of use. What they do show is that the highest noise levels are generally on roads – well, that's not really very surprising. But there's quite a lot going on that these maps don't show, because they can't capture the complex way that sound varies over time. So they ignore important issues such as the [Q31] noise someone might hear from the open windows or gardens of their neighbours, and this sort of noise can be quite significant in summer. We don't have any databases on this sort of information. As well as that, these records of sound levels take no account of the fact that people vary in their perceptions of noise – so someone like me with years of working in acoustics might be very different from you in that regard.\nBut anyway, even though these noise maps are fairly crude, they've been useful in providing [Q32] information and raising awareness that noise matters, we need to deal with it and so it's a political matter. And that's important – we need rules and regulations because noise can cause all sorts of problems.\nThose of you who are city-dwellers know that things go on 24 hours a day, so city-dwellers often suffer from interrupted sleep. It's also known that noise can lead to a rise in levels of stress, due to physical changes in the body affecting the composition of the blood. And there are other problems as well, for instance if schoolchildren don't have a quiet place to study. [Q33] their work will suffer.\nNow, one problem with decibel measurement is that it doesn't differentiate between different types of noise. Some types of sounds that most people would probably think of as nice and [Q34] relaxing might well score quite highly in decibel levels – think of the sound made by a fountain in a town square, for example. That's not necessarily something that we'd want to control or reduce. So maybe researchers should consider these sorts of sounds in urban design. This is going to be tricky because just measuring decibel levels isn't going to help us here. Instead, [Q35] many researchers are using social science techniques, studying people's emotional response to sound by using questionnaires and so on.\nSo what exactly do people want to hear in an urban environment? Some recent interdisciplinary research has come out with results that at first sight seem contradictory – a [Q36] city needs to have a sense of activity, so it needs to be lively, with sounds like the clack of high heels on a pavement or the hiss of a coffee machine, but these mustn't be too intrusive. because at the same time we need to be able to relax.\nOne of the major problems in achieving this will be getting architects and town planners to [Q37] use the research. Apart from studying the basics of acoustics, these people receive very little training in this area. But in fact they should be regarding sound as an opportunity to add to the experience of urban living, whereas at present they tend to see it as something to be avoided or reduced as far as possible, or something that's just a job for engineers like the street drainage system.\nWhat's needed is for noise in cities to be regarded as an aesthetic quality, as something that has the qualities of an art form. If we acknowledge this, then we urgently need to know what governs it and how designers can work with it. We need to develop a complex [Q38] understanding of many factors. What is the relationship between sound and culture? What can we learn from disciplines such as psychology about the way that sound interacts with human development and social relationships, and the way that sound affects our thought and feelings? Can we learn anything from physics about the nature of sound itself? [Q39]\nToday's powerful technologies can also help us. To show us their ideas and help us to imagine the effect their buildings will have, architects and town planners already use virtual [Q40] reality – but these programs are silent. In the future such programs could use realistic sounds, meaning that soundscapes could be explored before being built. So hopefully, using the best technology we can lay our hands on, the city of the future will be a pleasure to the ears as well as the eyes."
+   }
+  ],
+  "answers": {
+   "1": {
+    "a": [
+     "temporary"
+    ]
+   },
+   "2": {
+    "a": [
+     "doctor"
+    ]
+   },
+   "3": {
+    "a": [
+     "Africa"
+    ]
+   },
+   "4": {
+    "a": [
+     "youth"
+    ]
+   },
+   "5": {
+    "a": [
+     "May"
+    ]
+   },
+   "6": {
+    "a": [
+     "cheese"
+    ]
+   },
+   "7": {
+    "a": [
+     "Arbuthnot"
+    ]
+   },
+   "8": {
+    "a": [
+     "DG7 4PH"
+    ]
+   },
+   "9": {
+    "a": [
+     "Tuesday"
+    ]
+   },
+   "10": {
+    "a": [
+     "talk",
+     "presentation"
+    ],
+    "k": "talk/presentation"
+   },
+   "11": {
+    "a": [
+     "A"
+    ]
+   },
+   "12": {
+    "a": [
+     "C"
+    ]
+   },
+   "13": {
+    "a": [
+     "B"
+    ]
+   },
+   "14": {
+    "a": [
+     "B"
+    ]
+   },
+   "15": {
+    "a": [
+     "H"
+    ]
+   },
+   "16": {
+    "a": [
+     "C"
+    ]
+   },
+   "17": {
+    "a": [
+     "F"
+    ]
+   },
+   "18": {
+    "a": [
+     "G"
+    ]
+   },
+   "19": {
+    "a": [
+     "I"
+    ]
+   },
+   "20": {
+    "a": [
+     "B"
+    ]
+   },
+   "21": {
+    "a": [
+     "classification"
+    ]
+   },
+   "22": {
+    "a": [
+     "worst"
+    ]
+   },
+   "23": {
+    "a": [
+     "slides"
+    ]
+   },
+   "24": {
+    "a": [
+     "issues"
+    ]
+   },
+   "25": {
+    "a": [
+     "F"
+    ]
+   },
+   "26": {
+    "a": [
+     "A"
+    ]
+   },
+   "27": {
+    "a": [
+     "E"
+    ]
+   },
+   "28": {
+    "a": [
+     "C"
+    ]
+   },
+   "29": {
+    "a": [
+     "G"
+    ]
+   },
+   "30": {
+    "a": [
+     "B"
+    ]
+   },
+   "31": {
+    "a": [
+     "garden",
+     "gardens"
+    ],
+    "k": "garden(s)"
+   },
+   "32": {
+    "a": [
+     "political"
+    ]
+   },
+   "33": {
+    "a": [
+     "work",
+     "study"
+    ],
+    "k": "work/study"
+   },
+   "34": {
+    "a": [
+     "fountain"
+    ]
+   },
+   "35": {
+    "a": [
+     "social"
+    ]
+   },
+   "36": {
+    "a": [
+     "lively"
+    ]
+   },
+   "37": {
+    "a": [
+     "training"
+    ]
+   },
+   "38": {
+    "a": [
+     "culture"
+    ]
+   },
+   "39": {
+    "a": [
+     "nature"
+    ]
+   },
+   "40": {
+    "a": [
+     "silent"
+    ]
+   }
+  }
+ },
+ "reading": {
+  "passages": [
+   {
+    "passage": 1,
+    "range": [
+     1,
+     13
+    ],
+    "pages": [
+     80,
+     81,
+     82
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 1–13**, which are based on Reading Passage 1 below.",
+    "title": "The History of Glass",
+    "subtitle": null,
+    "paragraphs": [
+     {
+      "text": "From our earliest origins, man has been making use of glass. Historians have discovered that a type of natural glass – obsidian – formed in places such as the mouth of a volcano as a result of the intense heat of an eruption melting sand – was first used as tips for spears. Archaeologists have even found evidence of man-made glass which dates back to 4000 BC; this took the form of glazes used for coating stone beads. It was not until 1500 BC, however, that the first hollow glass container was made by covering a sand core with a layer of molten glass."
+     },
+     {
+      "text": "Glass blowing became the most common way to make glass containers from the first century BC. The glass made during this time was highly coloured due to the impurities of the raw material. In the first century AD, methods of creating colourless glass were developed, which was then tinted by the addition of colouring materials. The secret of glass making was taken across Europe by the Romans during this century. However, they guarded the skills and technology required to make glass very closely, and it was not until their empire collapsed in 476 AD that glass-making knowledge became widespread throughout Europe and the Middle East. From the 10th century onwards, the Venetians gained a reputation for technical skill and artistic ability in the making of glass bottles, and many of the city's craftsmen left Italy to set up glassworks throughout Europe."
+     },
+     {
+      "text": "A major milestone in the history of glass occurred with the invention of lead crystal glass by the English glass manufacturer George Ravenscroft (1632–1683). He attempted to counter the effect of clouding that sometimes occurred in blown glass by introducing lead to the raw materials used in the process. The new glass he created was softer and easier to decorate, and had a higher refractive index, adding to its brilliance and beauty, and it proved invaluable to the optical industry. It is thanks to Ravenscroft's invention that optical lenses, astronomical telescopes, microscopes and the like became possible."
+     },
+     {
+      "text": "In Britain, the modern glass industry only really started to develop after the repeal of the Excise Act in 1845. Before that time, heavy taxes had been placed on the amount of glass melted in a glasshouse, and were levied continuously from 1745 to 1845. Joseph Paxton's Crystal Palace at London's Great Exhibition of 1851 marked the beginning of glass as a material used in the building industry. This revolutionary new building encouraged the use of glass in public, domestic and horticultural architecture. Glass manufacturing techniques also improved with the advancement of science and the development of better technology."
+     },
+     {
+      "text": "From 1887 onwards, glass making developed from traditional mouth-blowing to a semi-automatic process, after factory-owner HM Ashley introduced a machine capable of producing 200 bottles per hour in Castleford, Yorkshire, England – more than three times quicker than any previous production method. Then in 1907, the first fully automated machine was developed in the USA by Michael Owens – founder of the Owens Bottle Machine Company (later the major manufacturers Owens-Illinois) – and installed in its factory. Owens' invention could produce an impressive 2,500 bottles per hour. Other developments followed rapidly, but it was not until the First World War, when Britain became cut off from essential glass suppliers, that glass became part of the scientific sector. Previous to this, glass had been seen as a craft rather than a precise science."
+     },
+     {
+      "text": "Today, glass making is big business. It has become a modern, hi-tech industry operating in a fiercely competitive global market where quality, design and service levels are critical to maintaining market share. Modern glass plants are capable of making millions of glass containers a day in many different colours, with green, brown and clear remaining the most popular. Few of us can imagine modern life without glass. It features in almost every aspect of our lives – in our homes, our cars and whenever we sit down to eat or drink. Glass packaging is used for many products, many beverages are sold in glass, as are numerous foodstuffs, as well as medicines and cosmetics."
+     },
+     {
+      "text": "Glass is an ideal material for recycling, and with growing consumer concern for green issues, glass bottles and jars are becoming ever more popular. Glass recycling is good news for the environment. It saves used glass containers being sent to landfill. As less energy is needed to melt recycled glass than to melt down raw materials, this also saves fuel and production costs. Recycling also reduces the need for raw materials to be quarried, thus saving precious resources."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R1-1",
+      "type": "completion",
+      "range": [
+       1,
+       8
+      ],
+      "instructions": [
+       "Complete the notes below.",
+       "Choose **ONE WORD ONLY** from the passage for each answer.",
+       "Write your answers in boxes 1–8 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "The History of Glass"
+       },
+       {
+        "t": "li",
+        "text": "Early humans used a material called {{1}} to make the sharp points of their {{2}}."
+       },
+       {
+        "t": "li",
+        "text": "4000 BC: {{3}} made of stone were covered in a coating of man-made glass."
+       },
+       {
+        "t": "li",
+        "text": "First century BC: glass was coloured because of the {{4}} in the material."
+       },
+       {
+        "t": "li",
+        "text": "Until 476 AD: Only the {{5}} knew how to make glass."
+       },
+       {
+        "t": "li",
+        "text": "From 10th century: Venetians became famous for making bottles out of glass."
+       },
+       {
+        "t": "li",
+        "text": "17th century: George Ravenscroft developed a process using {{6}} to avoid the occurrence of {{7}} in blown glass."
+       },
+       {
+        "t": "li",
+        "text": "Mid-19th century: British glass production developed after changes to laws concerning {{8}}."
+       }
+      ]
+     },
+     {
+      "id": "R1-2",
+      "type": "tfng",
+      "range": [
+       9,
+       13
+      ],
+      "instructions": [
+       "In boxes 9–13 on your answer sheet, write",
+       "**TRUE** if the statement agrees with the information",
+       "**FALSE** if the statement contradicts the information",
+       "**NOT GIVEN** if there is no information on this"
+      ],
+      "questions": [
+       {
+        "n": 9,
+        "text": "In 1887, HM Ashley had the fastest bottle-producing machine that existed at the time."
+       },
+       {
+        "n": 10,
+        "text": "Michael Owens was hired by a large US company to design a fully-automated bottle manufacturing machine for them."
+       },
+       {
+        "n": 11,
+        "text": "Nowadays, most glass is produced by large international manufacturers."
+       },
+       {
+        "n": 12,
+        "text": "Concern for the environment is leading to an increased demand for glass containers."
+       },
+       {
+        "n": 13,
+        "text": "It is more expensive to produce recycled glass than to manufacture new glass."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "passage": 2,
+    "range": [
+     14,
+     26
+    ],
+    "pages": [
+     83,
+     84,
+     85,
+     86,
+     87
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 14–26**, which are based on Reading Passage 2 below.",
+    "title": "Bring back the big cats",
+    "subtitle": "*It's time to start returning vanished native animals to Britain, says John Vesty*",
+    "paragraphs": [
+     {
+      "text": "There is a poem, written around 598 AD, which describes hunting a mystery animal called a *llewyn*. But what was it? Nothing seemed to fit, until 2006, when an animal bone, dating from around the same period, was found in the Kinsey Cave in northern England. Until this discovery, the lynx – a large spotted cat with tasselled ears – was presumed to have died out in Britain at least 6,000 years ago, before the inhabitants of these islands took up farming. But the 2006 find, together with three others in Yorkshire and Scotland, is compelling evidence that the lynx and the mysterious *llewyn* were in fact one and the same animal. If this is so, it would bring forward the tassel-eared cat's estimated extinction date by roughly 5,000 years."
+     },
+     {
+      "text": "However, this is not quite the last glimpse of the animal in British culture. A 9th-century stone cross from the Isle of Eigg shows, alongside the deer, boar and aurochs pursued by a mounted hunter, a speckled cat with tasselled ears. Were it not for the animal's backside having worn away with time, we could have been certain, as the lynx's stubby tail is unmistakable. But even without this key feature, it's hard to see what else the creature could have been. The lynx is now becoming the totemic animal of a movement that is transforming British environmentalism: rewilding."
+     },
+     {
+      "text": "Rewilding means the mass restoration of damaged ecosystems. It involves letting trees return to places that have been denuded, allowing parts of the seabed to recover from trawling and dredging, permitting rivers to flow freely again. Above all, it means bringing back missing species. One of the most striking findings of modern ecology is that ecosystems without large predators behave in completely different ways from those that retain them. Some of them drive dynamic processes that resonate through the whole food chain, creating niches for hundreds of species that might otherwise struggle to survive. The killers turn out to be bringers of life."
+     },
+     {
+      "text": "Such findings present a big challenge to British conservation, which has often selected arbitrary assemblages of plants and animals and sought, at great effort and expense, to prevent them from changing. It has tried to preserve the living world as if it were a jar of pickles, letting nothing in and nothing out, keeping nature in a state of arrested development. But ecosystems are not merely collections of species; they are also the dynamic and ever-shifting relationships between them. And this dynamism often depends on large predators."
+     },
+     {
+      "text": "At sea the potential is even greater: by protecting large areas from commercial fishing, we could once more see what 18th-century literature describes: vast shoals of fish being chased by fin and sperm whales, within sight of the English shore. This policy would also greatly boost catches in the surrounding seas; the fishing industry's insistence on scouring every inch of seabed, leaving no breeding reserves, could not be more damaging to its own interests."
+     },
+     {
+      "text": "Rewilding is a rare example of an environmental movement in which campaigners articulate what they are for rather than only what they are against. One of the reasons why the enthusiasm for rewilding is spreading so quickly in Britain is that it helps to create a more inspiring vision than the green movement's usual promise of 'Follow us and the world will be slightly less awful than it would otherwise have been.'"
+     },
+     {
+      "text": "The lynx presents no threat to human beings: there is no known instance of one preying on people. It is a specialist predator Large-scale rewilding is happening almost of roe deer, a species that has exploded in Britain in recent decades, holding back, by intensive browsing, attempts to re-establish forests. It will also winkle out sika deer: an exotic species that is almost impossible for human beings to control, as it hides in impenetrable plantations of young trees. The attempt to reintroduce this predator marries well with the aim of bringing forests back to parts of our bare and barren uplands. The lynx requires deep cover, and as such presents little risk to sheep and other livestock, which are supposed, as a condition of farm subsidies, to be kept out of the woods."
+     },
+     {
+      "text": "On a recent trip to the Cairngorm Mountains, I heard several conservationists suggest that the lynx could be reintroduced there within 20 years. If trees return to the bare hills elsewhere in Britain, the big cats could soon follow. There is nothing extraordinary about these proposals, seen from the perspective of anywhere else in Europe. The lynx has now been reintroduced to the Jura Mountains, the Alps, the Vosges in eastern France and the Harz mountains in Germany, and has re-established itself in many more places. The European population has tripled since 1970 to roughly 10,000. As with wolves, bears, beavers, boar, bison, moose and many other species, the lynx has been able to spread as farming has left the hills and people discover that it is more lucrative to protect charismatic wildlife than to hunt it, as tourists will pay for the chance to see it. everywhere – except Britain."
+     },
+     {
+      "text": "Here, attitudes are just beginning to change. Conservationists are starting to accept that the old preservation-jar model is failing, even on its own terms. Already, projects such as Trees for Life in the Highlands provide a hint of what might be coming. An organisation is being set up that will seek to catalyse the rewilding of land and sea across Britain, its aim being to reintroduce that rarest of species to British ecosystems: hope."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R2-1",
+      "type": "choice",
+      "range": [
+       14,
+       18
+      ],
+      "instructions": [
+       "Write the correct letter, **A**, **B**, **C** or **D**, in boxes 14–18 on your answer sheet."
+      ],
+      "questions": [
+       {
+        "n": 14,
+        "text": "What did the 2006 discovery of the animal bone reveal about the lynx?",
+        "options": [
+         {
+          "key": "A",
+          "text": "Its physical appearance was very distinctive."
+         },
+         {
+          "key": "B",
+          "text": "Its extinction was linked to the spread of farming."
+         },
+         {
+          "key": "C",
+          "text": "It vanished from Britain several thousand years ago."
+         },
+         {
+          "key": "D",
+          "text": "It survived in Britain longer than was previously thought."
+         }
+        ]
+       },
+       {
+        "n": 15,
+        "text": "What point does the writer make about large predators in the third paragraph?",
+        "options": [
+         {
+          "key": "A",
+          "text": "Their presence can increase biodiversity."
+         },
+         {
+          "key": "B",
+          "text": "They may cause damage to local ecosystems."
+         },
+         {
+          "key": "C",
+          "text": "Their behaviour can alter according to the environment."
+         },
+         {
+          "key": "D",
+          "text": "They should be reintroduced only to areas where they were native."
+         }
+        ]
+       },
+       {
+        "n": 16,
+        "text": "What does the writer suggest about British conservation in the fourth paragraph?",
+        "options": [
+         {
+          "key": "A",
+          "text": "It has failed to achieve its aims."
+         },
+         {
+          "key": "B",
+          "text": "It is beginning to change direction."
+         },
+         {
+          "key": "C",
+          "text": "It has taken a misguided approach."
+         },
+         {
+          "key": "D",
+          "text": "It has focused on the most widespread species."
+         }
+        ]
+       },
+       {
+        "n": 17,
+        "text": "Protecting large areas of the sea from commercial fishing would result in",
+        "options": [
+         {
+          "key": "A",
+          "text": "practical benefits for the fishing industry."
+         },
+         {
+          "key": "B",
+          "text": "some short-term losses to the fishing industry."
+         },
+         {
+          "key": "C",
+          "text": "widespread opposition from the fishing industry."
+         },
+         {
+          "key": "D",
+          "text": "certain changes to techniques within the fishing industry."
+         }
+        ]
+       },
+       {
+        "n": 18,
+        "text": "According to the author, what distinguishes rewilding from other environmental campaigns?",
+        "options": [
+         {
+          "key": "A",
+          "text": "Its objective is more achievable."
+         },
+         {
+          "key": "B",
+          "text": "Its supporters are more articulate."
+         },
+         {
+          "key": "C",
+          "text": "Its positive message is more appealing."
+         },
+         {
+          "key": "D",
+          "text": "It is based on sounder scientific principles."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "R2-2",
+      "type": "completion",
+      "range": [
+       19,
+       22
+      ],
+      "instructions": [
+       "Complete the summary using the list of words and phrases **A–F** below.",
+       "Write the correct letter, **A–F**, in boxes 19–22 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Reintroducing the lynx to Britain"
+       },
+       {
+        "t": "p",
+        "text": "There would be many advantages to reintroducing the lynx to Britain. While there is no evidence that the lynx has ever put {{19}} in danger, it would reduce the numbers of certain {{20}} whose populations have increased enormously in recent decades. It would present only a minimal threat to {{21}}, provided these were kept away from lynx habitats. Furthermore, the reintroduction programme would also link efficiently with initiatives to return native {{22}} to certain areas of the country."
+       }
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": "trees"
+       },
+       {
+        "key": "B",
+        "text": "endangered species"
+       },
+       {
+        "key": "C",
+        "text": "hillsides"
+       },
+       {
+        "key": "D",
+        "text": "wild animals"
+       },
+       {
+        "key": "E",
+        "text": "humans"
+       },
+       {
+        "key": "F",
+        "text": "farm animals"
+       }
+      ]
+     },
+     {
+      "id": "R2-3",
+      "type": "ynng",
+      "range": [
+       23,
+       26
+      ],
+      "instructions": [
+       "Do the following statements agree with the claims of the writer in Reading Passage 2?",
+       "In boxes 23–26 on your answer sheet, write",
+       "**YES** if the statement agrees with the claims of the writer",
+       "**NO** if the statement contradicts the claims of the writer",
+       "**NOT GIVEN** if it is impossible to say what the writer thinks about this"
+      ],
+      "questions": [
+       {
+        "n": 23,
+        "text": "Britain could become the first European country to reintroduce the lynx."
+       },
+       {
+        "n": 24,
+        "text": "The large growth in the European lynx population since 1970 has exceeded conservationists' expectations."
+       },
+       {
+        "n": 25,
+        "text": "Changes in agricultural practices have extended the habitat of the lynx in Europe."
+       },
+       {
+        "n": 26,
+        "text": "It has become apparent that species reintroduction has commercial advantages."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "passage": 3,
+    "range": [
+     27,
+     40
+    ],
+    "pages": [
+     88,
+     89,
+     90,
+     91
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 27–40**, which are based on Reading Passage 3 on pages 89 and 90.",
+    "title": "UK companies need more effective boards of directors",
+    "subtitle": null,
+    "paragraphs": [
+     {
+      "label": "A",
+      "text": "After a number of serious failures of governance (that is, how they are managed at the highest level), companies in Britain, as well as elsewhere, should consider radical changes to their directors' roles. It is clear that the role of a board director today is not an easy one. Following the 2008 financial meltdown, which resulted in a deeper and more prolonged period of economic downturn than anyone expected, the search for explanations in the many post-mortems of the crisis has meant blame has been spread far and wide. Governments, regulators, central banks and auditors have all been in the frame. The role of bank directors and management and their widely publicised failures have been extensively picked over and examined in reports, inquiries and commentaries."
+     },
+     {
+      "label": "B",
+      "text": "The knock-on effect of this scrutiny has been to make the governance of companies in general an issue of intense public debate and has significantly increased the pressures on, and the responsibilities of, directors. At the simplest and most practical level, the time involved in fulfilling the demands of a board directorship has increased significantly, calling into question the effectiveness of the classic model of corporate governance by part-time, independent non-executive directors. Where once a board schedule may have consisted of between eight and ten meetings a year, in many companies the number of events requiring board input and decisions has dramatically risen. Furthermore, the amount of reading and preparation required for each meeting is increasing. Agendas can become overloaded and this can mean the time for constructive debate must necessarily be restricted in favour of getting through the business."
+     },
+     {
+      "label": "C",
+      "text": "Often, board business is devolved to committees in order to cope with the workload, which may be more efficient but can mean that the board as a whole is less involved in fully addressing some of the most important issues. It is not uncommon for the audit committee meeting to last longer than the main board meeting itself. Process may take the place of discussion and be at the expense of real collaboration, so that boxes are ticked rather than issues tackled."
+     },
+     {
+      "label": "D",
+      "text": "A radical solution, which may work for some very large companies whose businesses are extensive and complex, is the professional board, whose members would work up to three or four days a week, supported by their own dedicated staff and advisers. There are obvious risks to this and it would be important to establish clear guidelines for such a board to ensure that it did not step on the toes of management by becoming too engaged in the day-to-day running of the company. Problems of recruitment, remuneration and independence could also arise and this structure would not be appropriate for all companies. However, more professional and better-informed boards would have been particularly appropriate for banks where the executives had access to information that part-time non-executive directors lacked, leaving the latter unable to comprehend or anticipate the 2008 crash."
+     },
+     {
+      "label": "E",
+      "text": "One of the main criticisms of boards and their directors is that they do not focus sufficiently on longer-term matters of strategy, sustainability and governance, but instead concentrate too much on short-term financial metrics. Regulatory requirements and the structure of the market encourage this behaviour. The tyranny of quarterly reporting can distort board decision-making, as directors have to 'make the numbers' every four months to meet the insatiable appetite of the market for more data. This serves to encourage the trading methodology of a certain kind of investor who moves in and out of a stock without engaging in constructive dialogue with the company about strategy or performance, and is simply seeking a shortterm financial gain. This effect has been made worse by the changing profile of investors due to the globalisation of capital and the increasing use of automated trading systems. Corporate culture adapts and management teams are largely incentivised to meet financial goals."
+     },
+     {
+      "label": "F",
+      "text": "Compensation for chief executives has become a combat zone where pitched battles between investors, management and board members are fought, often behind closed doors but increasingly frequently in the full glare of press attention. Many would argue that this is in the interest of transparency and good governance as shareholders use their muscle in the area of pay to pressure boards to remove underperforming chief executives. Their powers to vote down executive remuneration policies increased when binding votes came into force. The chair of the remuneration committee can be an exposed and lonely role, as Alison Carnwath, chair of Barclays Bank's remuneration committee, found when she had to resign, having been roundly criticised for trying to defend the enormous bonus to be paid to the chief executive; the irony being that she was widely understood to have spoken out against it in the privacy of the committee."
+     },
+     {
+      "label": "G",
+      "text": "The financial crisis stimulated a debate about the role and purpose of the company and a heightened awareness of corporate ethics. Trust in the corporation has been eroded and academics such as Michael Sandel, in his thoughtful and bestselling book What Money Can't Buy, are questioning the morality of capitalism and the market economy. Boards of companies in all sectors will need to widen their perspective to encompass these issues and this may involve a realignment of corporate goals. We live in challenging times."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R3-1",
+      "type": "matching",
+      "range": [
+       27,
+       33
+      ],
+      "instructions": [
+       "Reading Passage 3 has seven paragraphs, **A–G**.",
+       "Choose the correct heading for each paragraph from the list of headings below.",
+       "Write the correct number, **i–viii**, in boxes 27–33 on your answer sheet."
+      ],
+      "optionsTitle": "List of Headings",
+      "options": [
+       {
+        "key": "i",
+        "text": "Disputes over financial arrangements regarding senior managers"
+       },
+       {
+        "key": "ii",
+        "text": "The impact on companies of being subjected to close examination"
+       },
+       {
+        "key": "iii",
+        "text": "The possible need for fundamental change in every area of business"
+       },
+       {
+        "key": "iv",
+        "text": "Many external bodies being held responsible for problems"
+       },
+       {
+        "key": "v",
+        "text": "The falling number of board members with broad enough experience"
+       },
+       {
+        "key": "vi",
+        "text": "A risk that not all directors take part in solving major problems"
+       },
+       {
+        "key": "vii",
+        "text": "Boards not looking far enough ahead"
+       },
+       {
+        "key": "viii",
+        "text": "A proposal to change the way the board operates"
+       }
+      ],
+      "questions": [
+       {
+        "n": 27,
+        "text": "Paragraph A"
+       },
+       {
+        "n": 28,
+        "text": "Paragraph B"
+       },
+       {
+        "n": 29,
+        "text": "Paragraph C"
+       },
+       {
+        "n": 30,
+        "text": "Paragraph D"
+       },
+       {
+        "n": 31,
+        "text": "Paragraph E"
+       },
+       {
+        "n": 32,
+        "text": "Paragraph F"
+       },
+       {
+        "n": 33,
+        "text": "Paragraph G"
+       }
+      ]
+     },
+     {
+      "id": "R3-2",
+      "type": "ynng",
+      "range": [
+       34,
+       37
+      ],
+      "instructions": [
+       "Do the following statements agree with the claims of the writer in Reading Passage 3?",
+       "In boxes 34–37 on your answer sheet, write",
+       "**YES** if the statement agrees with the claims of the writer",
+       "**NO** if the statement contradicts the claims of the writer",
+       "**NOT GIVEN** if it is impossible to say what the writer thinks about this"
+      ],
+      "questions": [
+       {
+        "n": 34,
+        "text": "Close scrutiny of the behaviour of boards has increased since the economic downturn."
+       },
+       {
+        "n": 35,
+        "text": "Banks have been mismanaged to a greater extent than other businesses."
+       },
+       {
+        "n": 36,
+        "text": "Board meetings normally continue for as long as necessary to debate matters in full."
+       },
+       {
+        "n": 37,
+        "text": "Using a committee structure would ensure that board members are fully informed about significant issues."
+       }
+      ]
+     },
+     {
+      "id": "R3-3",
+      "type": "completion",
+      "range": [
+       38,
+       40
+      ],
+      "instructions": [
+       "Complete the sentences below.",
+       "Choose **ONE WORD ONLY** from the passage for each answer.",
+       "Write your answers in boxes 38–40 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "p",
+        "text": "Before 2008, non-executive directors were at a disadvantage because of their lack of {{38}}."
+       },
+       {
+        "t": "p",
+        "text": "Boards tend to place too much emphasis on {{39}} considerations that are only of short-term relevance."
+       },
+       {
+        "t": "p",
+        "text": "On certain matters, such as pay, the board may have to accept the views of {{40}}."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "answers": {
+   "1": {
+    "a": [
+     "obsidian"
+    ]
+   },
+   "2": {
+    "a": [
+     "spears"
+    ]
+   },
+   "3": {
+    "a": [
+     "beads"
+    ]
+   },
+   "4": {
+    "a": [
+     "impurities"
+    ]
+   },
+   "5": {
+    "a": [
+     "Romans"
+    ]
+   },
+   "6": {
+    "a": [
+     "lead"
+    ]
+   },
+   "7": {
+    "a": [
+     "clouding"
+    ]
+   },
+   "8": {
+    "a": [
+     "taxes"
+    ]
+   },
+   "9": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "10": {
+    "a": [
+     "FALSE"
+    ]
+   },
+   "11": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "12": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "13": {
+    "a": [
+     "FALSE"
+    ]
+   },
+   "14": {
+    "a": [
+     "D"
+    ]
+   },
+   "15": {
+    "a": [
+     "A"
+    ]
+   },
+   "16": {
+    "a": [
+     "C"
+    ]
+   },
+   "17": {
+    "a": [
+     "A"
+    ]
+   },
+   "18": {
+    "a": [
+     "C"
+    ]
+   },
+   "19": {
+    "a": [
+     "E"
+    ]
+   },
+   "20": {
+    "a": [
+     "D"
+    ]
+   },
+   "21": {
+    "a": [
+     "F"
+    ]
+   },
+   "22": {
+    "a": [
+     "A"
+    ]
+   },
+   "23": {
+    "a": [
+     "NO"
+    ]
+   },
+   "24": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "25": {
+    "a": [
+     "YES"
+    ]
+   },
+   "26": {
+    "a": [
+     "YES"
+    ]
+   },
+   "27": {
+    "a": [
+     "iv"
+    ]
+   },
+   "28": {
+    "a": [
+     "ii"
+    ]
+   },
+   "29": {
+    "a": [
+     "vi"
+    ]
+   },
+   "30": {
+    "a": [
+     "viii"
+    ]
+   },
+   "31": {
+    "a": [
+     "vii"
+    ]
+   },
+   "32": {
+    "a": [
+     "i"
+    ]
+   },
+   "33": {
+    "a": [
+     "iii"
+    ]
+   },
+   "34": {
+    "a": [
+     "YES"
+    ]
+   },
+   "35": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "36": {
+    "a": [
+     "NO"
+    ]
+   },
+   "37": {
+    "a": [
+     "NO"
+    ]
+   },
+   "38": {
+    "a": [
+     "information"
+    ]
+   },
+   "39": {
+    "a": [
+     "financial"
+    ]
+   },
+   "40": {
+    "a": [
+     "shareholders",
+     "investors"
+    ],
+    "k": "shareholders/investors"
+   }
+  }
+ },
+ "writing": {
+  "tasks": [
+   {
+    "task": 1,
+    "minutes": 20,
+    "minWords": 150,
+    "pages": [
+     92
+    ],
+    "prompt": [
+     "The diagram below shows how geothermal energy is used to produce electricity.",
+     "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+    ],
+    "image": "images/C12/C12-T8-W1.png",
+    "sample": {
+     "kind": "candidate",
+     "band": "6.0",
+     "text": "The diagram shows how electricity is produced by geothermal energy. There are five general steps in this process. First, in a big box connected undergrownd, cold water is accumulated in order to be pumped down about 4.5 Km.\n\nAfter that, water is heated passing trough hot rocks called Geothermal zone and it is pumped up in order to be condensered in a big conteiner. At this point, water is in a gas state and it is put in a turbine which moves it in a circle movements. Then, the final step is to use a generator in order to water be powered and energy can be produced. Finally energy is trasladated to a energy tower.\n\nIn sumary, the geothermal power plant is used to create energy in some steps: heating cold water by a geothermal zone and condensering it in order to put it in a generator turbine which is who produces the energy to be used.",
+     "comment": "The candidate has provided a clear introduction and an overview of the key stages of the process. Each stage is identified and described, although there are some minor errors in the reporting of stage 5. There is room for expansion of the description of each stage, which could help to achieve a higher score. There is a clear overall progression, with each stage being signalled by appropriate markers [*First* | *in order to* | *After that* | *At this point* | *Then, the final step* | *Finally*]. These markers are adequate, but a higher score might be achieved by varying their position in each sentence, rather than always placing them at the beginning. The range of vocabulary is adequate for the task and there are attempts to use more variety here [*five general steps* | *connected* | *accumulated*], though there are some examples of error in word choice [*box* / tank | *a circle movements* / a circular movement], in spelling [*undergrownd* | *trough* | *conteiner* | *sumary*] and in word formation [*condensered* / condensed | *gas* / gaseous | *trasladated* / transferred? | *condensering* / condensing]. There is a mix of simple and complex sentence forms, including accurate use of passive forms. There are some errors [*a* / an | *who* / what], but otherwise the level of accuracy is good. The same level of accuracy, over a wider range of sentence forms, would increase the score on Grammatical Range and Accuracy."
+    }
+   },
+   {
+    "task": 2,
+    "minutes": 40,
+    "minWords": 250,
+    "pages": [
+     93
+    ],
+    "prompt": [
+     "Write about the following topic:",
+     "*Some people believe that allowing children to make their own choices on everyday matters (such as food, clothes and entertainment) is likely to result in a society of individuals who only think about their own wishes. Other people believe that it is important for children to make decisions about matters that affect them.*",
+     "*Discuss both these views and give your own opinion.*",
+     "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+    ],
+    "sample": {
+     "kind": "candidate",
+     "band": "5.0",
+     "text": "it is good to show children living a freedom evironment, becouse it could help children to grow stronger and confident. But it depends on the age of the child, forexample a little children can not choose clothes and they also like to eat sweets all the time.\n\nWhen the children is free to their choices they could make mistakes so parents should not dictate children what want, but guide to the right path. forexample most parents in western world teach their children arguing rather than smagging when they do something wrong. When children are tought to do their own choice could easily manage their affairs, when grow up.\n\nchildren may sometimes give a good opinion, so that it is good to understand rather than upsetting them. Many parents In Africa do not believe of listen children, that is cause many African children become vandals and aggressors toward the community.\n\nif we teach our youngers to determine their own choices, they will show respect to their ad community in is general because they never felt oppressed and they would not bother to any when they get older.\n\nover all, when we listen our children that we make their future personality better. parents should respect children. Same like adults. When the parents try to refuse children something they should justify to them why they refused explain to them the reasons.",
+     "comment": "This is an attempt to address the prompt and some main ideas are put forward, but there is no discussion of ***is likely to result in a society of individuals who only think about their own wishes***. This omission, and the fact that the response is underlength, limit the Band score rating. Organisation is evident, however the answer lacks contextualisation, and cohesion within sentences is sometimes faulty [*that is cause many African children to …* | *they will show respect to their ad community in is general*]. Vocabulary is the strongest aspect of the response [*confident* | *make mistakes* | *dictate* | *the right path* | *do something wrong* | *manage their affairs* | *vandals and aggressors* | *determine their own choices* | *show respect* | *oppressed* | *respect children* | *justify*] and although spelling errors occur, they do not generally prevent meaning from coming through [*becouse* | *tought* | *smagging*]. Grammatical control is variable: some complex structures are produced accurately while other, simpler, forms contain errors. Punctuation and capitalisation are also sometimes faulty."
+    }
+   }
+  ]
+ },
+ "issues": [
+  "Questions 9–13: the book omits the usual line 'Do the following statements agree with the information given in Reading Passage 1?'; instructions reproduced as printed."
+ ]
+}

@@ -1,0 +1,8 @@
+### C16 listening
+audioscript pages: 100-122
+0 lines not found in listening text
+### C16 reading
+3 lines not found in reading text
+p46 y~0.36  (22%)  the aviss haindivniual has emot mic obial cells than human ones.
+p48 y~0.90  (0%)  46 → 0 p. 124
+p94 y~0.12  (40%)  aware of instances where Al goes wrong. Embarrassing Al failures receive a

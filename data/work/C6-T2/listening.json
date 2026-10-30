@@ -1,0 +1,729 @@
+{
+ "parts": [
+  {
+   "part": 1,
+   "range": [
+    1,
+    10
+   ],
+   "pages": [
+    34,
+    35
+   ],
+   "groups": [
+    {
+     "id": "L1-1",
+     "type": "completion",
+     "range": [
+      1,
+      5
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **NO MORE THAN TWO WORDS AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "CHILDREN'S ART AND CRAFT WORKSHOPS"
+      },
+      {
+       "t": "note",
+       "text": "*Example*"
+      },
+      {
+       "t": "p",
+       "text": "Workshops organised every: *Saturday*"
+      },
+      {
+       "t": "li",
+       "text": "Adults must accompany children under {{1}}"
+      },
+      {
+       "t": "li",
+       "text": "Cost: £2.50"
+      },
+      {
+       "t": "li",
+       "text": "Workshops held in: Winter House, {{2}} Street"
+      },
+      {
+       "t": "li",
+       "text": "Security device: must push the {{3}} to open door"
+      },
+      {
+       "t": "li",
+       "text": "Should leave car behind the {{4}}"
+      },
+      {
+       "t": "li",
+       "text": "Book workshops by phoning the {{5}} (on 200765)"
+      }
+     ]
+    },
+    {
+     "id": "L1-2",
+     "type": "completion",
+     "range": [
+      6,
+      10
+     ],
+     "instructions": [
+      "Complete the table below.",
+      "Write **NO MORE THAN TWO WORDS** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Next two workshops"
+      },
+      {
+       "t": "table",
+       "header": 1,
+       "rows": [
+        [
+         "Date",
+         "Workshop title",
+         "Children should wear",
+         "Please bring (if possible)"
+        ],
+        [
+         "16/11",
+         "'Building {{6}}'",
+         "{{7}}",
+         "{{8}}"
+        ],
+        [
+         "23/11",
+         "'{{9}}'",
+         "(Nothing special)",
+         "{{10}}"
+        ]
+       ]
+      }
+     ]
+    }
+   ],
+   "transcript": "MAN: Good morning, Synmouth Museum. Can I help you?\nWOMAN: Oh yes. Good morning. I'm interested in the children's workshops and I'd like a little more information, please.\nMAN: Do you mean the Art and Craft workshops?\nWOMAN: Yes. A friend of a friend mentioned them – the children do painting and make models and so forth.\nMAN: Yes, of course. Um, where to begin? First of all, as you probably know, they run every Saturday.\nWOMAN: Fine. And what about ages?\nMAN: Well, all ages from five upwards are welcome, though we do ask that children below eight years of age are accompanied by an adult. [Q1]\nWOMAN: Fine. That wouldn't be a problem. What about cost?\nMAN: Well, I think you'll find them very reasonable. It's £2.50 a child, with 80 pence off for two or more children from the same family.\nWOMAN: Oh yes, very reasonable. And are they held in the main museum?\nMAN: Not exactly. They're nearby.\nWOMAN: Could you give me the full address? I don't know the area very well.\nMAN: Yes, it's Winter House.\nWOMAN: Right.\nMAN: And that's in Tamer Street.\nWOMAN: Could you spell that please?\nMAN: Yes, T-A-M-E-R Street. [Q2]\nWOMAN: Lovely.\nMAN: And I do need to tell you that there's a security entrance, so you need to press the green button for someone to let you in. Don't press the red [Q3] button please, but don't worry, it's all clearly labelled.\nWOMAN: OK. And one more question – is parking available nearby? We're driving in from out of town.\nMAN: Your best bet is to leave your car at the back of the library – on a [Q4] Saturday morning there are plenty of spaces there. It's right next door to the museum.\nWOMAN: And can I ask about booking places?\nMAN: Yes, and I must tell you, you really should book by calling the education department here. [Q5]\nWOMAN: Oh, I'm sorry, should I have rung them instead of the main museum number?\nMAN: No, that's fine this time, please don't worry. But for future reference, I'll give you the direct number. It's two hundred-seven-six-five.\nWOMAN: Great, I've got that.\nMAN: But I'm very happy to give you information about the next two workshops. On Saturday the 16th there's Building Castles. [Q6]\nWOMAN: Oh, sounds great!\nMAN: This involves quite a bit of glue, so just make sure the kids are in old [Q7] clothes.\nWOMAN: I know, ones I don't mind getting mucky.\nMAN: Exactly. And if possible, could you bring along bottle tops which the [Q8] children might be able to use in the models, you know, as decoration?\nWOMAN: We'll certainly try to find some for you.\nMAN: Then the following week . . .\nWOMAN: That'll be the 23rd, won't it?\nMAN: Yes, that's right. On that day, it's what we call Undersea Worlds. This is [Q9] where they make scenes with fishes, underground caverns and so on.\nWOMAN: Is that likely to get very dirty? Lots of paint splashes?\nMAN: Not really, so we don't recommend any special clothes for that one. But if you could search out some silver paper to bring along to use in [Q10] the sessions, you know, it's shiny – it looks like water, that'd be great.\nWOMAN: Yes, of course. We'll see what we can come up with. Well, thank you ever so much for all your help. The sessions sound really good and I'll certainly book up for the next two.\nMAN: Lovely. Thanks very much for ringing.\nWOMAN: Bye.\nMAN: Bye-bye."
+  },
+  {
+   "part": 2,
+   "range": [
+    11,
+    20
+   ],
+   "pages": [
+    36,
+    37
+   ],
+   "groups": [
+    {
+     "id": "L2-1",
+     "type": "completion",
+     "range": [
+      11,
+      14
+     ],
+     "instructions": [
+      "Complete the sentences below.",
+      "Write **NO MORE THAN TWO WORDS AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "TRAIN INFORMATION"
+      },
+      {
+       "t": "p",
+       "text": "Local services depart from {{11}} railway station."
+      },
+      {
+       "t": "p",
+       "text": "National services depart from the {{12}} railway station."
+      },
+      {
+       "t": "p",
+       "text": "Trains for London depart every {{13}} each day during the week."
+      },
+      {
+       "t": "p",
+       "text": "The price of a first class ticket includes {{14}}."
+      }
+     ]
+    },
+    {
+     "id": "L2-2",
+     "type": "completion",
+     "range": [
+      15,
+      17
+     ],
+     "instructions": [
+      "Complete the table below.",
+      "Write **NO MORE THAN TWO WORDS AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "table",
+       "header": 1,
+       "rows": [
+        [
+         "Type of ticket",
+         "Details"
+        ],
+        [
+         "Standard open",
+         "no restrictions"
+        ],
+        [
+         "Supersave",
+         "travel after 8.45"
+        ],
+        [
+         "Special",
+         "travel after {{15}} and at weekends"
+        ],
+        [
+         "{{16}}",
+         "buy at least six days ahead\nlimited numbers\n{{17}} essential"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L2-3",
+     "type": "multi",
+     "range": [
+      18,
+      20
+     ],
+     "n": [
+      18,
+      19,
+      20
+     ],
+     "select": 3,
+     "instructions": [
+      "Choose **THREE** letters, **A–G**."
+     ],
+     "text": "Which **THREE** attractions can you visit at present by train from Trebirch?",
+     "options": [
+      {
+       "key": "A",
+       "text": "a science museum"
+      },
+      {
+       "key": "B",
+       "text": "a theme park"
+      },
+      {
+       "key": "C",
+       "text": "a climbing wall"
+      },
+      {
+       "key": "D",
+       "text": "a mining museum"
+      },
+      {
+       "key": "E",
+       "text": "an aquarium"
+      },
+      {
+       "key": "F",
+       "text": "a castle"
+      },
+      {
+       "key": "G",
+       "text": "a zoo"
+      }
+     ]
+    }
+   ],
+   "transcript": "CUSTOMER: Hello. Um my family and I are staying here in Trebirch for a week or two and we wanted to know about the train services. We're hoping to do a few local trips.\nRAILPERSON: OK. Well, I can give you lots of details about all the trains going from Trebirch in the South West. This leaflet will be very helpful but I can tell you some of the main things. We've got two main train stations in the town. King Street is for local commuter lines and regional services. [Q11]\nCUSTOMER: What about trains to London? I'll need to go there on business for one day.\nRAILPERSON: Then you need to go to Central Station – that's for all the national [Q12] services. There are regular trains to London. They leave Trebirch every half hour on weekdays and every hour at weekends. It takes about two [Q13] hours, a bit longer on Sundays. You've got a choice of first and second class and there's a buffet car – though refreshments are included in the [Q14] cost of a first class ticket.\nCUSTOMER: Ah right. Um, and have you got any information on different ticket types?\nRAILPERSON: Yes. There's a range of ticket prices depending on when you travel and when you buy your ticket. There's a standard open ticket which doesn't have any restrictions. This can be bought in advance or on the day. You can also get various discounted tickets. A popular one is called the Supersave and, er, this is OK for travel after 8.45. Then there is the Special ticket, which is valid for travel after 10.15. The Special tickets [Q15] are also valid for travel at weekends. The cheapest tickets are called Advance and you have to buy them at least six days ahead. Only a certain [Q16] number are available and you have to make seat reservations for these. [Q17]\nCUSTOMER: Thanks. And are there lots of places to go to around here?\nRAILPERSON: Oh yes. You can enjoy many days out. Um there's the Merthyr Mining [Q18/19/20] Museum, which is only half an hour from Trebirch by train. Your children will find it just as fascinating as any theme park and they can ride in the original miners' lifts and on the coal trains. There are special excursion tickets which include entrance fees. Mainline trains also offer direct services to Bristol, where you can visit the docks or spend a [Q18/19/20] great day out with the children in the zoo, which is set in the parkland that used to surround the old castle. Er, special family awayday fares are available for this service now during the school holidays. Er, alternatively, you can be in Birmingham in only an hour and a half, where there's lots to see and do including the new and internationally-acclaimed climbing wall built on the site of the old aquarium. We will [Q18/19/20] also be running a special service to Newport when the new science museum opens next year, as we anticipate a lot of visitors in the opening weeks. I'd advise you to call early to book your tickets. Is that OK?\nCUSTOMER: Yes, thanks."
+  },
+  {
+   "part": 3,
+   "range": [
+    21,
+    30
+   ],
+   "pages": [
+    38
+   ],
+   "groups": [
+    {
+     "id": "L3-1",
+     "type": "completion",
+     "range": [
+      21,
+      30
+     ],
+     "instructions": [
+      "Complete the tables below.",
+      "Write **NO MORE THAN THREE WORDS AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Dissertation Tutorial Record (Education)"
+      },
+      {
+       "t": "p",
+       "text": "**Name:** Sandy Gibbons"
+      },
+      {
+       "t": "table",
+       "header": 1,
+       "rows": [
+        [
+         "Targets previously agreed",
+         "Work completed",
+         "Further action suggested"
+        ],
+        [
+         "Investigate suitable data analysis software",
+         "– Read IT {{21}}\n– Spoken to Jane Prince, Head of the {{22}}",
+         "Sign up for some software practice sessions"
+        ],
+        [
+         "Prepare a {{23}} for survey",
+         "– Completed and sent for review",
+         "Add questions in section three on {{24}}"
+        ],
+        [
+         "Further reading about discipline",
+         "– Read Banerjee\n– N.B. Couldn't find Ericsson's essays on managing the {{25}}",
+         "Obtain from library through special loans service"
+        ]
+       ]
+      },
+      {
+       "t": "table",
+       "header": 1,
+       "rows": [
+        [
+         "New Targets",
+         "Specific suggestions",
+         "Timing"
+        ],
+        [
+         "Do further work on Chapter 1\n(Give the title: *Context* {{26}} )",
+         "– Add statistics on the {{27}} in various zones\n– Include more references to works dated after {{28}}",
+         "By the {{29}}"
+        ],
+        [
+         "Prepare list of main sections for Chapter 2",
+         "– Use index cards to help in organisation",
+         "Before starting the {{30}}"
+        ]
+       ]
+      }
+     ]
+    }
+   ],
+   "transcript": "TUTOR: Hello, Sandy. How have you been getting on with your dissertation?\nSANDY: Fine, and I've been working hard on the various action points we agreed on our last tutorial.\nTUTOR: Do you want to talk me through what you've done?\nSANDY: Yeah, sure. Well, we agreed on three main targets for me to aim for. The first one was to find out about suitable data analysis software.\nTUTOR: Yes.\nSANDY: And what I decided to do was to look through catalogues specialising [Q21] in IT.\nTUTOR: That's a good idea. What did you come up with?\nSANDY: I found the names of two promising ones.\nTUTOR: Right.\nSANDY: But I also thought it'd be worthwhile talking to a lecturer.\nTUTOR: Oh right. Who did you see?\nSANDY: Jane Prince. Do you know her? She's in the Computer Centre. [Q22]\nTUTOR: Yes, of course, she's the new Head.\nSANDY: Yes. Well, she was very helpful.\nTUTOR: Oh, that's good. Did she suggest anything in particular?\nSANDY: Yeah. She recommended software called Vivat and said I should book up for a couple of practice sessions using Vivat.\nTUTOR: Great. I'm sure you'll find them useful.\nSANDY: And, of course, the second target was to draw up a survey checklist [Q23] which I . . .\nTUTOR: Yes, you emailed me it last week.\nSANDY: Have you had a chance to look . . . ?\nTUTOR: Of course, um I think it's good. Very much on the right lines. I'd say your first two sections are spot on. I wouldn't suggest that you change anything there, but in section three you really do need to have questions on teaching experience. [Q24]\nSANDY: Yeah. I was thinking that section looked a bit short.\nTUTOR: Right.\nSANDY: And my third target was, do further reading on discipline.\nTUTOR: Oh yes. I mentioned a couple of writers, didn't I?\nSANDY: Yes, well I got hold of the Banerjee and I thought that was excellent. But I'm afraid I didn't manage to get hold of the essays about classroom management – you know, the ones by Simon Ericsson. The [Q25] bookshop said it was out of print and the library doesn't have a copy.\nTUTOR: Oh right, and I'm afraid I've lent my copy to another student. What I suggest you do is try the library again – this time apply for it through the service called special loans. Have you done that before? You're entitled to six books a year.\nSANDY: Yes. No problem. That's what I'll do.\nTUTOR: So, lots of useful work done.\nTUTOR: So, let's look at some new targets. We'll start by having a chat about your Chapter One. I very much enjoyed reading it. Your written style is very clear and you've included lots of interesting descriptions of education in your target area. I've just got a couple of suggestions for some additional work.\nSANDY: Of course. Could I just ask – what do you think I should call it?\nTUTOR: Well, I'd go for something like *Context Review*. What do you think? [Q26]\nSANDY: Well, short and to the point.\nTUTOR: Exactly. Now, as regards specific areas to work on, I'd be quite interested to have a few more statistics about the schools in the [Q27] different zones.\nSANDY: Oh, that wouldn't be a problem. I can get them from the Internet.\nTUTOR: Great, and although you did make a reference to quite a few different writers, I think you should aim to cite more works written later than 2000. [Q28]\nSANDY: OK. That's more difficult, but I can try. When do you want that done by?\nTUTOR: Oh, it's not urgent. Um I should aim for the end of term. But in the [Q29] meantime, I think you should also be thinking about Chapter Two.\nSANDY: Should I be drafting it already?\nTUTOR: No, but I think you should note down its main sections.\nSANDY: Yes. You know, I always find that the hardest part.\nTUTOR: I always find it helpful to put some ideas on index cards.\nSANDY: Yeah.\nTUTOR: Um . . . and then you can sort them, and even lay them out on the floor. It's a real help.\nSANDY: Well, I'll certainly try it! When would the deadline be for that?\nTUTOR: My advice would be to get it done before you embark upon the research. You can always change it later if you need to. [Q30]\nSANDY: OK. I'll get going on that then."
+  },
+  {
+   "part": 4,
+   "range": [
+    31,
+    40
+   ],
+   "pages": [
+    39,
+    40
+   ],
+   "groups": [
+    {
+     "id": "L4-1",
+     "type": "choice",
+     "range": [
+      31,
+      37
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "title": "The history of moving pictures",
+     "questions": [
+      {
+       "n": 31,
+       "text": "Some photographs of a horse running showed",
+       "options": [
+        {
+         "key": "A",
+         "text": "all feet off the ground."
+        },
+        {
+         "key": "B",
+         "text": "at least one foot on the ground."
+        },
+        {
+         "key": "C",
+         "text": "two feet off the ground."
+        }
+       ]
+      },
+      {
+       "n": 32,
+       "text": "The Scotsman employed by Edison",
+       "options": [
+        {
+         "key": "A",
+         "text": "designed a system to use the technology Edison had invented."
+        },
+        {
+         "key": "B",
+         "text": "used available technology to make a new system."
+        },
+        {
+         "key": "C",
+         "text": "was already an expert in motion picture technology."
+        }
+       ]
+      },
+      {
+       "n": 33,
+       "text": "One major problem with the first system was that",
+       "options": [
+        {
+         "key": "A",
+         "text": "only one person could be filmed."
+        },
+        {
+         "key": "B",
+         "text": "people could only see very short films."
+        },
+        {
+         "key": "C",
+         "text": "the camera was very heavy."
+        }
+       ]
+      },
+      {
+       "n": 34,
+       "text": "Rival systems started to appear in Europe after people had",
+       "options": [
+        {
+         "key": "A",
+         "text": "been told about the American system."
+        },
+        {
+         "key": "B",
+         "text": "seen the American system."
+        },
+        {
+         "key": "C",
+         "text": "used the American system."
+        }
+       ]
+      },
+      {
+       "n": 35,
+       "text": "In 1895, a famous new system was developed by",
+       "options": [
+        {
+         "key": "A",
+         "text": "a French team working alone."
+        },
+        {
+         "key": "B",
+         "text": "a French and German team working together."
+        },
+        {
+         "key": "C",
+         "text": "a German team who invented the word 'cinema'."
+        }
+       ]
+      },
+      {
+       "n": 36,
+       "text": "Longer films were not made at the time because of problems involving",
+       "options": [
+        {
+         "key": "A",
+         "text": "the subject matter."
+        },
+        {
+         "key": "B",
+         "text": "the camera."
+        },
+        {
+         "key": "C",
+         "text": "the film projector."
+        }
+       ]
+      },
+      {
+       "n": 37,
+       "text": "The 'Lantham Loop' invention relied on",
+       "options": [
+        {
+         "key": "A",
+         "text": "removing tension between the film reels."
+        },
+        {
+         "key": "B",
+         "text": "adding three more film reels to the system."
+        },
+        {
+         "key": "C",
+         "text": "making one of the film reels more effective."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L4-2",
+     "type": "completion",
+     "range": [
+      38,
+      40
+     ],
+     "instructions": [
+      "Complete the sentences below.",
+      "Write **NO MORE THAN THREE WORDS** for each answer."
+     ],
+     "content": [
+      {
+       "t": "p",
+       "text": "The first motion picture was called *The* {{38}}"
+      },
+      {
+       "t": "p",
+       "text": "{{39}} were used for the first time on film in 1926."
+      },
+      {
+       "t": "p",
+       "text": "Subtitles were added to *The Lights of New York* because of its {{40}}."
+      }
+     ]
+    }
+   ],
+   "transcript": "Many believe that the story first began in America in 1877, when two friends were arguing over whether a horse ever had all four feet or hooves off the ground when it galloped. To settle the bet, a photographer was asked to photograph a horse galloping and the bet was settled because you could see that all the hooves were off the ground in some of the photos. [Q31] What was even more interesting was that if the photos were shown in quick succession the horse looked like it was running – in other words 'moving pictures'.\nThe person who became interested in taking the moving pictures to its next step was the famous American inventor Thomas Edison. Actually, he didn't do the work himself but rather asked a young Scotsman in his employ to design a system, which he did. Now this young fellow was clever because the first thing he did was study other systems – primitive as they were – of moving pictures and then put all the existing technologies together to make [Q32] the first entire motion picture system. He designed a camera, a projection device and the film. The system was first shown in New York in 1894 and was really very popular. Apparently people lined up around the block to see the wonderful new invention. There were, however, a couple of problems with the system. The camera weighed over 200 kilograms and only [Q33] one person at a time could see the film.\nWell now, news of the new system in America travelled fast and a number of rival European [Q34] systems started to appear once people had heard about it. The single problem with all the systems was they couldn't really project the film onto a screen – you know, so more than one person could see it. Then in 1895; three systems were all developed, more or less at the same [Q35] time and independently of each other. I guess the most famous of these was by the Lumière Brothers from France, and they called their system the *cinematographe* which of course is where the word cinema comes from. There were also two brothers in Germany who developed a successful system and they called it a *bioskop*.\nWell now, once the problem of projection had been solved, the next challenge for the inventors was to make the films longer and more interesting. A continuing problem at the time was that the films had a tendency to break when they were being played – a problem [Q36] which was caused by the tension between the two wheels, or 'reels' as they are called, which hold the film. Now this problem was solved by two American brothers. They developed the 'Lantham Loop', which was the simple addition of a third reel between the two main reels, and this took all the tension away with the result that the film stopped snapping. [Q37]\nSo now there was a real possibility of having films of more than two or three minutes, and this led to the making of *The Great Train Robbery* – the very first *movie* made. It only [Q38] lasted 11 minutes but was an absolute sensation, and there were cases of people watching the movie and actually fainting when the character fired a gun at the camera! Almost overnight movies became a craze, and by 1905 people in America were lining up to see movies in 'store theatres', as they were called then.\nI guess the next big step in terms of development of technology was to have people actually talking on the film, and the first step towards this was in 1926 when sound effects were first [Q39] used on a film. It wasn't until the following year however that the first 'talkie', as they were called then, was made. This film featured actors speaking only during parts of the film and was called *The Jazz Singer*, and it wasn't until 1928 that the first all-talking film was produced, and this was called *The Lights of New York*. Unfortunately, the sound on this early film was not very good and I believe they put subtitles on the film – that is, they printed the dialogue along the bottom of the film to compensate for this poor sound [Q40] quality. Now, with the addition of sound, moving pictures became far more difficult to make . . ."
+  }
+ ],
+ "answers": {
+  "1": {
+   "a": [
+    "8",
+    "eight"
+   ],
+   "k": "8"
+  },
+  "2": {
+   "a": [
+    "Tamer",
+    "in Tamer",
+    "on Tamer"
+   ],
+   "k": "(in/on) Tamer"
+  },
+  "3": {
+   "a": [
+    "green button"
+   ]
+  },
+  "4": {
+   "a": [
+    "library"
+   ]
+  },
+  "5": {
+   "a": [
+    "education department"
+   ]
+  },
+  "6": {
+   "a": [
+    "castles"
+   ]
+  },
+  "7": {
+   "a": [
+    "old clothes"
+   ]
+  },
+  "8": {
+   "a": [
+    "bottle tops"
+   ]
+  },
+  "9": {
+   "a": [
+    "Undersea Worlds"
+   ]
+  },
+  "10": {
+   "a": [
+    "silver paper"
+   ]
+  },
+  "11": {
+   "a": [
+    "King Street"
+   ]
+  },
+  "12": {
+   "a": [
+    "central"
+   ]
+  },
+  "13": {
+   "a": [
+    "half hour",
+    "30 minutes"
+   ],
+   "k": "half hour/30 minutes"
+  },
+  "14": {
+   "a": [
+    "refreshments"
+   ]
+  },
+  "15": {
+   "a": [
+    "10.15"
+   ]
+  },
+  "16": {
+   "a": [
+    "Advance"
+   ]
+  },
+  "17": {
+   "a": [
+    "seat reservations",
+    "reservations"
+   ],
+   "k": "(seat) reservations"
+  },
+  "18": {
+   "a": [
+    "C"
+   ]
+  },
+  "19": {
+   "a": [
+    "D"
+   ]
+  },
+  "20": {
+   "a": [
+    "G"
+   ]
+  },
+  "21": {
+   "a": [
+    "catalogues",
+    "catalogs"
+   ],
+   "k": "catalog(ue)s"
+  },
+  "22": {
+   "a": [
+    "computer centre",
+    "computer center"
+   ],
+   "k": "computer centre/center"
+  },
+  "23": {
+   "a": [
+    "checklist"
+   ]
+  },
+  "24": {
+   "a": [
+    "teaching experience"
+   ]
+  },
+  "25": {
+   "a": [
+    "classroom"
+   ]
+  },
+  "26": {
+   "a": [
+    "review"
+   ]
+  },
+  "27": {
+   "a": [
+    "schools"
+   ]
+  },
+  "28": {
+   "a": [
+    "the year 2000",
+    "year 2000",
+    "2000"
+   ],
+   "k": "((the) year) 2000"
+  },
+  "29": {
+   "a": [
+    "end of term"
+   ]
+  },
+  "30": {
+   "a": [
+    "research"
+   ]
+  },
+  "31": {
+   "a": [
+    "A"
+   ]
+  },
+  "32": {
+   "a": [
+    "B"
+   ]
+  },
+  "33": {
+   "a": [
+    "C"
+   ]
+  },
+  "34": {
+   "a": [
+    "A"
+   ]
+  },
+  "35": {
+   "a": [
+    "A"
+   ]
+  },
+  "36": {
+   "a": [
+    "C"
+   ]
+  },
+  "37": {
+   "a": [
+    "A"
+   ]
+  },
+  "38": {
+   "a": [
+    "Great Train Robbery"
+   ]
+  },
+  "39": {
+   "a": [
+    "Sound effects"
+   ]
+  },
+  "40": {
+   "a": [
+    "poor sound quality"
+   ]
+  }
+ },
+ "issues": [
+  "Section 1 Q6–10 table: the column headings are printed white-on-black over a coarse halftone and are barely legible in the scan; read as 'Date', 'Workshop title', 'Children should wear', 'Please bring (if possible)' (consistent with the tapescript)."
+ ]
+}

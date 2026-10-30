@@ -1,0 +1,1691 @@
+{
+ "schema": "ielts-mock.exam/1",
+ "id": "C5-T3",
+ "source": {
+  "book": 5,
+  "test": 3
+ },
+ "title": "Cambridge IELTS 5 · Test 3",
+ "listening": {
+  "parts": [
+   {
+    "part": 1,
+    "range": [
+     1,
+     10
+    ],
+    "pages": [
+     56,
+     57
+    ],
+    "groups": [
+     {
+      "id": "L1-1",
+      "type": "completion",
+      "range": [
+       1,
+       10
+      ],
+      "instructions": [
+       "Complete the form below.",
+       "Write **NO MORE THAN THREE WORDS AND/OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "MINTONS CAR MART"
+       },
+       {
+        "t": "sub",
+        "text": "Customer Enquiry"
+       },
+       {
+        "t": "note",
+        "text": "*Example*"
+       },
+       {
+        "t": "p",
+        "text": "**Make:** *Lida*"
+       },
+       {
+        "t": "p",
+        "text": "**Engine size:** {{1}}"
+       },
+       {
+        "t": "p",
+        "text": "**Model:** *Max*"
+       },
+       {
+        "t": "p",
+        "text": "**Type of gears:** {{2}}"
+       },
+       {
+        "t": "p",
+        "text": "**Preferred colour:** {{3}} *blue*"
+       },
+       {
+        "t": "sub",
+        "text": "FINANCE"
+       },
+       {
+        "t": "p",
+        "text": "**Customer wishes to arrange** {{4}}"
+       },
+       {
+        "t": "p",
+        "text": "**Part exchange?** *yes*"
+       },
+       {
+        "t": "sub",
+        "text": "PERSONAL DETAILS"
+       },
+       {
+        "t": "p",
+        "text": "**Name:** *Wendy* {{5}}"
+       },
+       {
+        "t": "p",
+        "text": "**Title:** {{6}}"
+       },
+       {
+        "t": "p",
+        "text": "**Address:** *20, Green Banks*"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "{{7}}"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "*Hampshire*"
+       },
+       {
+        "t": "p",
+        "text": "**Postcode:** *GU8 9EW*"
+       },
+       {
+        "t": "p",
+        "text": "**Contact number:** (for {{8}} only) *0798 257643*"
+       },
+       {
+        "t": "sub",
+        "text": "CURRENT CAR"
+       },
+       {
+        "t": "p",
+        "text": "**Make:** *Conti*"
+       },
+       {
+        "t": "p",
+        "text": "**Model:** **Name:** {{9}}"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "**Year:** *1994*"
+       },
+       {
+        "t": "p",
+        "text": "**Mileage:** *maximum 70,000*"
+       },
+       {
+        "t": "p",
+        "text": "**Colour:** *metallic grey*"
+       },
+       {
+        "t": "p",
+        "text": "**Condition:** {{10}}"
+       }
+      ]
+     }
+    ],
+    "transcript": "MAN: Good morning, please take a seat. How can I help you?\nWOMAN: Well, I'm thinking of buying a new car and I'd like some advice.\nMAN: Sure, yes. Had you got any particular make in mind?\nWOMAN: I'm interested in a Lida I've had one before and liked it. But I haven't really made up my mind.\nMAN: Sure. We've got various models. Umm, right. What about the engine size? Any ideas?\nWOMAN: The one I've got at the moment's a 1.2 litre engine but I find it a bit slow on long journeys. I'd like a bit more power this time ... a 1.4 should do. [Q1] I don't think I need a 1.6 or anything.\nMAN: Right. Well I think the model you're looking at is the Max. Here's a picture.\nWOMAN: Oh, yes ... have you got one in?\nMAN: Yes. I'll take you to have a look at it in a minute. I'll just get a few more details. Er ... Is there anything else to do with the engine? What kind of gear change do you want? I presume you'd want a manual?\nWOMAN: I'd want automatic I've never driven a car with manual gears. [Q2]\nMAN: Right. Well now, here's the colour chart for the Max. Have you given that any thought? This blue's very popular at the moment.\nWOMAN: Yes, it is nice, I like blue. What's it called? 'Royal'?\nMAN: Yes.\nWOMAN: But actually, I think I prefer this lighter shade here – 'Sky'. [Q3]\nMAN: Yes, that's popular too.\nWOMAN: I think I'll go for that.\nMAN: You might have to wait a week or so for that colour, but I assume that'd be OK?\nWOMAN: Oh yes, fine.\nMAN: Well, we can go outside and you can have a good look at one, and perhaps take it out. But first, can I just ask you about finance? The cash price is going to be somewhere in the region of seven and a half thousand. How would you like to pay? Are you in a position to pay cash, or would you need credit?\nWOMAN: I'd like credit provided the terms are reasonable. [Q4]\nMAN: Well you can discuss that with my colleague in a moment; we have various arrangements. And would you be interested in us taking your present car as part exchange?\nWOMAN: Yes.\nMAN: OK, fine. So I'll just need some details from you and then we can do a valuation ... Is that OK?\nWOMAN: Fine, yes.\nMAN: Could I have your full name?\nWOMAN: Wendy Harries, that's H-A-double R-I-E-S. [Q5]\nMAN: And is that Mrs ... Miss ... Ms ...?\nWOMAN: It's Doctor, actually. [Q6]\nMAN: Oh, right. And your address?\nWOMAN: 20 Green Banks.\nMAN: Is that 'Green' spelled as in the colour?\nWOMAN: Yes, that's right.\nMAN: OK.\nWOMAN: Alton.\nMAN: Is that O-L-T-O-N?\nWOMAN: Not quite, it begins with an A, not an O. [Q7]\nMAN: Oh yes, that's in Hampshire isn't it?\nWOMAN: That's right.\nMAN: And do you know your postcode?\nWOMAN: Yes. It's GU8 9EW.\nMAN: Do you have a daytime phone number?\nWOMAN: Well, I work at the hospital but it's a bit difficult to get hold of me. I can give you a number just for messages, and then I'll get back to you when I can. [Q8] Is that OK?\nMAN: That's fine.\nWOMAN: It's 0-7-9-8-2-5-7-6-4-3.\nMAN: Fine. And about the car you have now, what make is it?\nWOMAN: It's a Conti.\nMAN: Do you know the year or the model name?\nWOMAN: I think it's 1996, and it's called a Lion – like the animal. [Q9]\nMAN: Then it must be 1994, because they brought out the Fox after that.\nWOMAN: Oh right, yes.\nMAN: Mileage? Roughly?\nWOMAN: I'm not sure. I know it's less than seventy thousand.\nMAN: OK. What colour is it?\nWOMAN: It's grey, metallic grey.\nMAN: Right, and one last thing – what sort of condition would you say it's in?\nWOMAN: I'd probably describe it as reasonable. Do you need to see it? It's parked outside. [Q10]\nMAN: Not at the moment, no. Perhaps you could call in one day next week ..."
+   },
+   {
+    "part": 2,
+    "range": [
+     11,
+     20
+    ],
+    "pages": [
+     58,
+     59
+    ],
+    "groups": [
+     {
+      "id": "L2-1",
+      "type": "multi",
+      "range": [
+       11,
+       12
+      ],
+      "n": [
+       11,
+       12
+      ],
+      "select": 2,
+      "instructions": [
+       "Choose **TWO** letters **A–E**."
+      ],
+      "text": "What **TWO** advantages does the speaker say Rexford University has for the students he is speaking to?",
+      "options": [
+       {
+        "key": "A",
+        "text": "higher than average results in examinations"
+       },
+       {
+        "key": "B",
+        "text": "good transport links with central London"
+       },
+       {
+        "key": "C",
+        "text": "near London Airport"
+       },
+       {
+        "key": "D",
+        "text": "special government funding"
+       },
+       {
+        "key": "E",
+        "text": "good links with local industry"
+       }
+      ]
+     },
+     {
+      "id": "L2-2",
+      "type": "completion",
+      "range": [
+       13,
+       15
+      ],
+      "instructions": [
+       "Complete the notes below.",
+       "Write **NO MORE THAN ONE WORD** for each answer."
+      ],
+      "content": [
+       {
+        "t": "li",
+        "text": "When application is received, confirmation will be sent"
+       },
+       {
+        "t": "li",
+        "text": "Application processing may be slowed down by"
+       },
+       {
+        "t": "li",
+        "level": 2,
+        "text": "– postal problems"
+       },
+       {
+        "t": "li",
+        "level": 2,
+        "text": "– delays in sending {{13}}"
+       },
+       {
+        "t": "li",
+        "text": "University tries to put international applicants in touch with a student from the same {{14}} who can give information and advice on"
+       },
+       {
+        "t": "li",
+        "level": 2,
+        "text": "– academic atmosphere"
+       },
+       {
+        "t": "li",
+        "level": 2,
+        "text": "– leisure facilities"
+       },
+       {
+        "t": "li",
+        "level": 2,
+        "text": "– English {{15}} and food"
+       },
+       {
+        "t": "li",
+        "level": 2,
+        "text": "– what to pack"
+       }
+      ]
+     },
+     {
+      "id": "L2-3",
+      "type": "choice",
+      "range": [
+       16,
+       20
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B** or **C**."
+      ],
+      "questions": [
+       {
+        "n": 16,
+        "text": "The speaker says international students at UK universities will be",
+        "options": [
+         {
+          "key": "A",
+          "text": "offered accommodation with local families."
+         },
+         {
+          "key": "B",
+          "text": "given special help by their lecturers."
+         },
+         {
+          "key": "C",
+          "text": "expected to work independently."
+         }
+        ]
+       },
+       {
+        "n": 17,
+        "text": "What does the speaker say about university accommodation on campus?",
+        "options": [
+         {
+          "key": "A",
+          "text": "Most places are given to undergraduates."
+         },
+         {
+          "key": "B",
+          "text": "No places are available for postgraduates with families."
+         },
+         {
+          "key": "C",
+          "text": "A limited number of places are available for new postgraduates."
+         }
+        ]
+       },
+       {
+        "n": 18,
+        "text": "Students wishing to live off-campus should apply",
+        "options": [
+         {
+          "key": "A",
+          "text": "several months in advance."
+         },
+         {
+          "key": "B",
+          "text": "two or three weeks in advance."
+         },
+         {
+          "key": "C",
+          "text": "at the beginning of term."
+         }
+        ]
+       },
+       {
+        "n": 19,
+        "text": "The university accommodation officer will",
+        "options": [
+         {
+          "key": "A",
+          "text": "send a list of agents for students to contact."
+         },
+         {
+          "key": "B",
+          "text": "contact accommodation agencies for students."
+         },
+         {
+          "key": "C",
+          "text": "ensure that students have suitable accommodation."
+         }
+        ]
+       },
+       {
+        "n": 20,
+        "text": "With regard to their English, the speaker advises the students to",
+        "options": [
+         {
+          "key": "A",
+          "text": "tell their lecturers if they have problems understanding."
+         },
+         {
+          "key": "B",
+          "text": "have private English lessons when they arrive."
+         },
+         {
+          "key": "C",
+          "text": "practise their spoken English before they arrive."
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "transcript": "MAN: As I said earlier, there is I think at Rexford an excellent combination of physical and geographical advantages – as well as having a rural setting and still being close to central London, something that will certainly be of interest to you is that Rexford is just 35 minutes from London Airport. [Q11/Q12] At Rexford we have a strong research capability. We came 7th out of 101 universities in last year's research assessment, carried out by a government body and did particularly well in your particular subjects, engineering and science. Actually we got a top research grade of five for engineering, geography and computer sciences. One further point – and I know from talking to you individually that a number of you may be looking for some experience in industry after the course – is that all our science and engineering research departments have unusually close relationships with industry in the area. [Q11/Q12] Anyway that's enough sales talk from me ... I'll just take a sip of this coffee that's just arrived, thank you, and then I'll say something about what actually happens when you apply.\nRight ... Now if you do decide to make an application, what you do is send it directly to me in my department. I will then immediately send confirmation and the application process begins. Er ... I'd like to say at this point that you shouldn't worry if this process doesn't work all that quickly – I mean occasionally there are postal problems, but most often the hold-up is caused by references – the people you give as referees, shall we say, take their time to reply. [Q13] Anyway, it's absolutely normal for this process to take three to four months. What I do in this period is keep in touch with you and reassure you that things are moving along.\nOne of the ways we've devised to help you decide about applying as well as later when you've been accepted ... hopefully ... is to put you in contact with, if possible, a student from your own country who is at present studying with us. [Q14] What you can do is phone them up – we will, of course, liaise between you – and discuss your concerns with them. That way you can get an objective opinion of what you can expect if you come to live and study at Rexford – not only the academic atmosphere but important details like what the leisure facilities are like and whether the English weather and food are really as awful as everybody says! [Q15]\nIf you decide you can face it, the contact can also help you just before you leave, with tips on what to pack and that sort of thing. At the moment I think we've got two second-year students and one postgraduate from this country.\nNow to move on to the other concerns you expressed earlier. At a UK university – as I'm sure you know – you will be in an environment where independent learning is the norm, which takes most students a while to adjust to, [Q16] and at a time when you will be separated from your normal surroundings and, in most cases, your family. This can be a difficult time. But remember that something like 25% of our student body are international students like yourselves, and that there are several organisations in the university and city whose main purpose is to offer help and ensure that your time with us is enjoyable and useful.\nOne or two of you touched on the subject of accommodation earlier. So I'll just add a few points: it is the University's policy to give priority in the allocation of residence places to three categories, and those are: visiting students, exchange students and new postgraduate students. [Q17] However, demand exceeds supply, so there is still a need to put your name down early for campus accommodation, particularly if your family is accompanying you. This means that the earlier you decide whether you want to study with us ... and so get the procedure moving, the better it will be for everybody. Yes?\nWOMAN: What if you would prefer to live outside the university?\nMAN: If you're planning to live off-campus, you've got to sort things out even earlier. As with everything in short supply, the good accommodation gets snapped up months before the beginning of term – in other words if you're starting in October you need to be thinking about it in June or at the very latest July. [Q18] So you do need to think very carefully about what you need, how much you can afford to pay, well in advance. What you can't do is leave it until a few days before the start of term. The agencies in town are pretty good – it's just a matter of contacting them in good time. Of course, we have a full-time accommodation officer available to help all students. She'll get in touch with you when you're accepted – she's got plenty of contacts in the town and will deal with the agencies on your behalf. [Q19]\nOne or two of you asked me earlier about your level of spoken English. Obviously most of you have already achieved a lot – I wish I could speak your language half as well. Having said that though, I'm afraid the lecturers will make little or no allowance for the presence of non-native speakers in the audience. So anything you can do to improve your spoken English – even beyond the pretty high levels most of you have already reached – will help make your stay with us that bit more fun for you. Some extra practice before you arrive is worth more than ... for example private lessons afterwards, when you won't really have time. [Q20] Oh ... and one last thing before I invite further questions: it's very important that you ..."
+   },
+   {
+    "part": 3,
+    "range": [
+     21,
+     30
+    ],
+    "pages": [
+     60
+    ],
+    "groups": [
+     {
+      "id": "L3-1",
+      "type": "completion",
+      "range": [
+       21,
+       30
+      ],
+      "instructions": [
+       "Complete the form below.",
+       "Write **NO MORE THAN THREE WORDS AND/OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Feedback Form"
+       },
+       {
+        "t": "p",
+        "text": "Course: *Communication in Business*"
+       },
+       {
+        "t": "p",
+        "text": "Course code: *CB162*"
+       },
+       {
+        "t": "p",
+        "text": "Dates: *From* {{21}} *to* {{22}}"
+       },
+       {
+        "t": "p",
+        "text": "Please give your comments on the following aspects of the course:"
+       },
+       {
+        "t": "table",
+        "header": 1,
+        "rows": [
+         [
+          "",
+          "Good Points",
+          "Suggestions for Improvement"
+         ],
+         [
+          "Course organisation",
+          "• {{23}}\n• *useful to have* {{24}} *at beginning of course*",
+          "• *too much work in* {{25}} *of the course – could be more evenly balanced*"
+         ],
+         [
+          "Course delivery",
+          "• *good* {{26}}",
+          "• *some* {{27}} *sessions went on too long*"
+         ],
+         [
+          "Materials and equipment",
+          "• *good* {{28}}",
+          "• *not enough copies of key texts available*\n• *need more computers*"
+         ],
+         [
+          "Testing and evaluation",
+          "• *quick feedback from oral presentations*\n• *marking criteria for oral presentations known in advance*",
+          "• *too much* {{29}}\n• *can we know criteria for marking final exams?*"
+         ],
+         [
+          "Other comments",
+          "• *excellent* {{30}}",
+          ""
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    "transcript": "ANNIE: Oh Ben – I just remembered I never filled in that form for Nick – did you do it?\nBEN: The course feedback form?\nANNIE: Yes. If you want, we can do it together. I've got mine here.\nBEN: Is that OK?\nANNIE: Yeah.\nBEN: OK, let's have a look then. What do we have to do?\nANNIE: Let's fill in the top first, let's see. Course, Course code ...\nBEN: Er, it's Communication in Business.\nANNIE: OK, Communication ... in ... Business, I do know that, but what's the code?\nBEN: CB16 something, CB162, isn't it?\nANNIE: Mmm, that's it, OK and dates, when did we start? I remember, my birthday's on May 4th and it was the day after, it must have been May 5th. [Q21]\nBEN: Gosh, doesn't seem that long ago, does it?\nANNIE: No, and we finish at the end of this week, on Friday, so that's July 15th?\nBEN: Er 16th, Monday was the 12th. [Q22] Right, that was the easy bit, now let's have a look – \"Please give your comments on the following aspects of the course\", OK, what's the first one? Oh, course organisation. What do you think?\nANNIE: Er, clear? It was, wasn't it?\nBEN: Yes, I think the organisation was clear. [Q23] OK, anything else for course organisation?\nANNIE: It was a good thing he gave us the course outline at the beginning, in the first session, [Q24] that was useful, so I'll put that down, shall I? Now, going on to suggestions for improvement, one thing that wasn't so good, I think we could have done a bit more work at the beginning. I mean at the beginning it seemed dead easy.\nBEN: Yeah.\nANNIE: I thought it was going to be really easy and then all of a sudden in the second half of the course [Q25] we got a whole load of work, reading to do and essays and things.\nBEN: Yes, it'd be better if it was more even. OK, now course delivery, does that mean teaching?\nANNIE: Yeah, I suppose so. Well, what I thought was really good on this course was the standard of teaching. [Q26] Actually – I mean some of the teachers were better than others – but the standard generally was fine. Much better than other courses I've been on.\nBEN: Yeah, I agree. Let's put that then. What about suggestions for improvement?\nANNIE: I ... I didn't think it was all that wonderful when we had great long group discussion sessions [Q27] that went on for hours and hours. I don't mean we shouldn't have group discussions, just that they shouldn't go on too long.\nANNIE: Now, on to materials and equipment.\nBEN: Oh, now what was good about some sessions was the handouts. [Q28]\nANNIE: Yes, I thought all the handouts were good actually, and some were great, with website addresses and everything.\nBEN: One problem though with materials was the key texts.\nANNIE: Yes! There just weren't enough copies on reserve in the library. And if you can't get the key texts before the session, how are you supposed to do the reading? And not enough computers. You have to wait ages to get one.\nBEN: OK, testing and evaluation – well, I don't know, it's hard to say until we've got our written assignments back.\nANNIE: Don't talk about it, I only got mine in yesterday, it was a real struggle. I hate to think what mark I'll get.\nBEN: Yes, but at least we've done the oral presentation – I thought that was good, the way I got my feedback really quickly.\nANNIE: Yes, it was. And I liked the way we knew what we'd be evaluated on, we knew the criteria, so we knew we had to think about clarity, organisation, and so on.\nBEN: Yeah, but I'm not so sure about the written work. [Q29] One thing I think is that there's just too much, it's really stressful.\nANNIE: Yes, I'd agree and I don't see why they can't let us know the criteria they use for marking.\nBEN: The written assignments? But he told us.\nANNIE: No, for the final exams. What are they looking for – what are the criteria? What makes a pass or a fail?\nBEN: Yeah, I never thought of that. It'd be really useful.\nANNIE: OK, any other comments?\nBEN: I thought student support was excellent. [Q30]\nANNIE: Yeah, me too. OK, excellent. Other comments?\nBEN: No, I can't think of anything else.\nANNIE: Nor me. OK, so that's done. Thanks, Ben.\nBEN: No, thank you."
+   },
+   {
+    "part": 4,
+    "range": [
+     31,
+     40
+    ],
+    "pages": [
+     61,
+     62
+    ],
+    "groups": [
+     {
+      "id": "L4-1",
+      "type": "completion",
+      "range": [
+       31,
+       35
+      ],
+      "instructions": [
+       "Complete the sentences below.",
+       "Write **NO MORE THAN TWO WORDS AND/OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "HOUSEHOLD WASTE RECYCLING"
+       },
+       {
+        "t": "p",
+        "text": "By 2008, carbon dioxide emissions need to be {{31}} lower than in 1990."
+       },
+       {
+        "t": "p",
+        "text": "Recycling saves energy and reduces emissions from landfill sites and {{32}} ."
+       },
+       {
+        "t": "p",
+        "text": "People say that one problem is a lack of '{{33}}' sites for household waste."
+       },
+       {
+        "t": "li",
+        "text": "At the 'bring banks', household waste is sorted and unsuitable items removed."
+       },
+       {
+        "t": "p",
+        "text": "Glass designed to be utilised for {{34}} cannot be recycled with other types of glass."
+       },
+       {
+        "t": "p",
+        "text": "In the UK, {{35}} tons of glass is recycled each year."
+       }
+      ]
+     },
+     {
+      "id": "L4-2",
+      "type": "completion",
+      "range": [
+       36,
+       40
+      ],
+      "instructions": [
+       "Complete the table below.",
+       "Write **NO MORE THAN TWO WORDS** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Companies working with recycled materials"
+       },
+       {
+        "t": "table",
+        "header": 1,
+        "rows": [
+         [
+          "Material",
+          "Company",
+          "Product that the company manufactures"
+         ],
+         [
+          "glass",
+          "CLF Aggregates",
+          "*material used for making* {{36}}"
+         ],
+         [
+          "paper",
+          "Martin's",
+          "*office stationery*"
+         ],
+         [
+          "",
+          "Papersave",
+          "{{37}} *for use on farms*"
+         ],
+         [
+          "plastic",
+          "Pacrite",
+          "{{38}} *for collecting waste*"
+         ],
+         [
+          "",
+          "Waterford",
+          "{{39}}"
+         ],
+         [
+          "",
+          "Johnson & Jones",
+          "{{40}}"
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    "transcript": "STUDENT: Well, my group has been doing a project on how household waste is recycled in Britain.\nWe were quite shocked to discover that only 9% of people here in the UK make an effort to recycle their household waste. This is a lower figure than in most other European countries, and needs to increase dramatically in the next few years if the government is going to meet its recycling targets.\nThe agreed targets for the UK mean that by 2008 we must reduce our carbon dioxide emissions by 12.5%, compared with 1990. [Q31] And recycling can help to achieve that goal, in two main ways: the production of recycled glass and paper uses much less energy than producing them from virgin materials, and also recycling reduces greenhouse gas emissions from landfill sites and incineration plants. [Q32]\nAs part of our project, we carried out a survey of people in the street, and the thing that came up over and over again is that people don't think it's easy enough to recycle their waste. One problem is that there aren't enough 'drop-off' sites, that is, the places where the public are supposed to take their waste. [Q33]\nWe also discovered that waste that's collected from householders is taken to places called 'bring banks', for sorting and baling into loads. One problem here is taking out everything that shouldn't have been placed in the recycling containers: people put all sorts of things into bottle banks, like plastic bags and even broken umbrellas. All this has to be removed by hand. Another difficulty is that toughened glass used for cooking doesn't fully melt at the temperature required for other glass, and so that also has to be picked out by hand. [Q34]\nGlass is easy to recycle because it can be reused over and over again without becoming weaker. Two million tons of glass is thrown away each year, that is, seven billion bottles and jars; but only 500,000 tons of that is collected and recycled. [Q35]\nOddly enough, half the glass that's collected is green, and a lot of that is imported, so more green glass is recycled than the UK needs. As a result, new uses are being developed for recycled glass, particularly green glass, for example in fibreglass manufacture and water filtration. A company called CLF Aggregates makes a product for roads, and 30% of the material is crushed glass. [Q36]\nFor recycling paper, Britain comes second in Europe with 40%, behind Germany's amazing 70%.\nWhen recycling started, there were quality problems, so it was difficult to use recycled paper in office printers. But these problems have now been solved, and Martin's, based in South London, produces a range of office stationery which is 100% recycled, costs the same as normal paper and is of equally high quality.\nBut this high quality comes at a cost in terms of the waste produced during the process. Over a third of the waste paper that comes in can't be used in the recycled paper, leaving the question of what to do with it. One firm, Papersave, currently sells this to farmers as a soil conditioner, [Q37] though this practice will soon be banned because of transport costs and the smell, and the company is looking into the possibility of alternative uses.\nPlastic causes problems, because there are so many different types of plastic in use today, and each one has to be dealt with differently. Pacrite recycles all sorts of things, from bottles to car bumpers, and one of its most successful activities is recycling plastic bottles to make containers which are used all over the country to collect waste. [Q38]\nThe Save-a-Cup scheme was set up by the vending and plastics industries to recycle as many as possible of the three-and-a-half billion polystyrene cups used each year. At the moment 500 million polycups are collected, processed and sold on to other businesses, such as Waterford, which turns the cups into pencils, [Q39] and Johnson & Jones, a Welsh-based firm, which has developed a wide variety of items, including business cards. [Q40]\nWell, to sum up, there seems to be plenty of research going on into how to re-use materials, but the biggest problem is getting people to think about recycling instead of throwing things away. At least doing the research made us much more careful."
+   }
+  ],
+  "answers": {
+   "1": {
+    "a": [
+     "1.4 litres",
+     "1.4 liters"
+    ],
+    "k": "1.4 litres / 1.4 liters"
+   },
+   "2": {
+    "a": [
+     "automatic"
+    ]
+   },
+   "3": {
+    "a": [
+     "light",
+     "sky"
+    ],
+    "k": "light / sky"
+   },
+   "4": {
+    "a": [
+     "credit"
+    ]
+   },
+   "5": {
+    "a": [
+     "Harries"
+    ]
+   },
+   "6": {
+    "a": [
+     "Dr",
+     "Doctor"
+    ],
+    "k": "Dr / Doctor"
+   },
+   "7": {
+    "a": [
+     "Alton"
+    ]
+   },
+   "8": {
+    "a": [
+     "messages"
+    ]
+   },
+   "9": {
+    "a": [
+     "Lion"
+    ]
+   },
+   "10": {
+    "a": [
+     "reasonable"
+    ]
+   },
+   "11": {
+    "a": [
+     "C"
+    ]
+   },
+   "12": {
+    "a": [
+     "E"
+    ]
+   },
+   "13": {
+    "a": [
+     "references"
+    ]
+   },
+   "14": {
+    "a": [
+     "country"
+    ]
+   },
+   "15": {
+    "a": [
+     "weather"
+    ]
+   },
+   "16": {
+    "a": [
+     "C"
+    ]
+   },
+   "17": {
+    "a": [
+     "C"
+    ]
+   },
+   "18": {
+    "a": [
+     "A"
+    ]
+   },
+   "19": {
+    "a": [
+     "B"
+    ]
+   },
+   "20": {
+    "a": [
+     "C"
+    ]
+   },
+   "21": {
+    "a": [
+     "5th May"
+    ]
+   },
+   "22": {
+    "a": [
+     "16th July",
+     "Friday 16th July"
+    ],
+    "k": "16th July / Friday 16th July"
+   },
+   "23": {
+    "a": [
+     "clear",
+     "was clear"
+    ],
+    "k": "clear / was clear"
+   },
+   "24": {
+    "a": [
+     "outline",
+     "an outline",
+     "the outline",
+     "course outline",
+     "a course outline",
+     "the course outline"
+    ],
+    "k": "(an/the) outline / (a/the) course outline"
+   },
+   "25": {
+    "a": [
+     "2nd half",
+     "the 2nd half"
+    ],
+    "k": "(the) 2nd half"
+   },
+   "26": {
+    "a": [
+     "teaching",
+     "standard of teaching",
+     "teachers",
+     "standard of teachers"
+    ],
+    "k": "(standard of) teaching / (standard of) teachers"
+   },
+   "27": {
+    "a": [
+     "discussion",
+     "group discussion"
+    ],
+    "k": "discussion / group discussion"
+   },
+   "28": {
+    "a": [
+     "handouts"
+    ]
+   },
+   "29": {
+    "a": [
+     "written work"
+    ]
+   },
+   "30": {
+    "a": [
+     "student support",
+     "support for students"
+    ],
+    "k": "student support / support for students"
+   },
+   "31": {
+    "a": [
+     "12.5%",
+     "12.5 %"
+    ],
+    "k": "12.5 %"
+   },
+   "32": {
+    "a": [
+     "incineration plants"
+    ]
+   },
+   "33": {
+    "a": [
+     "drop-off"
+    ]
+   },
+   "34": {
+    "a": [
+     "cooking"
+    ]
+   },
+   "35": {
+    "a": [
+     "500,000",
+     "500000"
+    ],
+    "k": "500,000"
+   },
+   "36": {
+    "a": [
+     "roads"
+    ]
+   },
+   "37": {
+    "a": [
+     "soil conditioner"
+    ]
+   },
+   "38": {
+    "a": [
+     "containers"
+    ]
+   },
+   "39": {
+    "a": [
+     "pencils"
+    ]
+   },
+   "40": {
+    "a": [
+     "business cards"
+    ]
+   }
+  }
+ },
+ "reading": {
+  "passages": [
+   {
+    "passage": 1,
+    "range": [
+     1,
+     13
+    ],
+    "pages": [
+     63,
+     64,
+     65,
+     66
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 1–13**, which are based on Reading Passage 1 below.",
+    "title": "Early Childhood Education",
+    "subtitle": "*New Zealand's National Party spokesman on education, Dr Lockwood Smith, recently visited the US and Britain. Here he reports on the findings of his trip and what they could mean for New Zealand's education policy*",
+    "paragraphs": [
+     {
+      "label": "A",
+      "text": "'Education To Be More' was published last August. It was the report of the New Zealand Government's Early Childhood Care and Education Working Group. The report argued for enhanced equity of access and better funding for childcare and early childhood education institutions. Unquestionably, that's a real need; but since parents don't normally send children to pre-schools until the age of three, are we missing out on the most important years of all?"
+     },
+     {
+      "label": "B",
+      "text": "A 13-year study of early childhood development at Harvard University has shown that, by the age of three, most children have the potential to understand about 1000 words – most of the language they will use in ordinary conversation for the rest of their lives."
+     },
+     {
+      "text": "Furthermore, research has shown that while every child is born with a natural curiosity, it can be suppressed dramatically during the second and third years of life. Researchers claim that the human personality is formed during the first two years of life, and during the first three years children learn the basic skills they will use in all their later learning both at home and at school. Once over the age of three, children continue to expand on existing knowledge of the world."
+     },
+     {
+      "label": "C",
+      "text": "It is generally acknowledged that young people from poorer socio-economic backgrounds tend to do less well in our education system. That's observed not just in New Zealand, but also in Australia, Britain and America. In an attempt to overcome that educational under-achievement, a nationwide programme called 'Headstart' was launched in the United States in 1965. A lot of money was poured into it. It took children into pre-school institutions at the age of three and was supposed to help the children of poorer families succeed in school."
+     },
+     {
+      "text": "Despite substantial funding, results have been disappointing. It is thought that there are two explanations for this. First, the programme began too late. Many children who entered it at the age of three were already behind their peers in language and measurable intelligence. Second, the parents were not involved. At the end of each day, 'Headstart' children returned to the same disadvantaged home environment."
+     },
+     {
+      "label": "D",
+      "text": "As a result of the growing research evidence of the importance of the first three years of a child's life and the disappointing results from 'Headstart', a pilot programme was launched in Missouri in the US that focused on parents as the child's first teachers. The 'Missouri' programme was predicated on research showing that working with the family, rather than bypassing the parents, is the most effective way of helping children get off to the best possible start in life. The four-year pilot study included 380 families who were about to have their first child and who represented a cross-section of socio-economic status, age and family configurations. They included single-parent and two-parent families, families in which both parents worked, and families with either the mother or father at home."
+     },
+     {
+      "text": "The programme involved trained parent-educators visiting the parents' home and working with the parent, or parents, and the child. Information on child development, and guidance on things to look for and expect as the child grows were provided, plus guidance in fostering the child's intellectual, language, social and motor-skill development. Periodic check-ups of the child's educational and sensory development (hearing and vision) were made to detect possible handicaps that interfere with growth and development. Medical problems were referred to professionals."
+     },
+     {
+      "text": "Parent-educators made personal visits to homes and monthly group meetings were held with other new parents to share experience and discuss topics of interest. Parent resource centres, located in school buildings, offered learning materials for families and facilitators for child care."
+     },
+     {
+      "label": "E",
+      "text": "At the age of three, the children who had been involved in the 'Missouri' programme were evaluated alongside a cross-section of children selected from the same range of socio-economic backgrounds and family situations, and also a random sample of children that age. The results were phenomenal. By the age of three, the children in the programme were significantly more advanced in language development than their peers, had made greater strides in problem solving and other intellectual skills, and were further along in social development. In fact, the average child on the programme was performing at the level of the top 15 to 20 per cent of their peers in such things as auditory comprehension, verbal ability and language ability."
+     },
+     {
+      "text": "Most important of all, the traditional measures of 'risk', such as parents' age and education, or whether they were a single parent, bore little or no relationship to the measures of achievement and language development. Children in the programme performed equally well regardless of socio-economic disadvantages. Child abuse was virtually eliminated. The one factor that was found to affect the child's development was family stress leading to a poor quality of parent–child interaction. That interaction was not necessarily bad in poorer families."
+     },
+     {
+      "label": "F",
+      "text": "These research findings are exciting. There is growing evidence in New Zealand that children from poorer socio-economic backgrounds are arriving at school less well developed and that our school system tends to perpetuate that disadvantage. The initiative outlined above could break that cycle of disadvantage. The concept of working with parents in their homes, or at their place of work, contrasts quite markedly with the report of the Early Childhood Care and Education Working Group. Their focus is on getting children and mothers access to childcare and institutionalised early childhood education. Education from the age of three to five is undoubtedly vital, but without a similar focus on parent education and on the vital importance of the first three years, some evidence indicates that it will not be enough to overcome educational inequity."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R1-1",
+      "type": "matching",
+      "range": [
+       1,
+       4
+      ],
+      "instructions": [
+       "Reading Passage 1 has six sections, **A–F**.",
+       "Which paragraph contains the following information?",
+       "*Write the correct letter* ***A–F*** *in boxes 1–4 on your answer sheet.*"
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": ""
+       },
+       {
+        "key": "B",
+        "text": ""
+       },
+       {
+        "key": "C",
+        "text": ""
+       },
+       {
+        "key": "D",
+        "text": ""
+       },
+       {
+        "key": "E",
+        "text": ""
+       },
+       {
+        "key": "F",
+        "text": ""
+       }
+      ],
+      "questions": [
+       {
+        "n": 1,
+        "text": "details of the range of family types involved in an education programme"
+       },
+       {
+        "n": 2,
+        "text": "reasons why a child's early years are so important"
+       },
+       {
+        "n": 3,
+        "text": "reasons why an education programme failed"
+       },
+       {
+        "n": 4,
+        "text": "a description of the positive outcomes of an education programme"
+       }
+      ]
+     },
+     {
+      "id": "R1-2",
+      "type": "matching",
+      "range": [
+       5,
+       10
+      ],
+      "instructions": [
+       "*Classify the following features as characterising*",
+       "*Write the correct letter* ***A, B, C*** *or* ***D*** *in boxes 5–10 on your answer sheet.*"
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": "*the 'Headstart' programme*"
+       },
+       {
+        "key": "B",
+        "text": "*the 'Missouri' programme*"
+       },
+       {
+        "key": "C",
+        "text": "*both the 'Headstart' and the 'Missouri' programmes*"
+       },
+       {
+        "key": "D",
+        "text": "*neither the 'Headstart' nor the 'Missouri' programme*"
+       }
+      ],
+      "questions": [
+       {
+        "n": 5,
+        "text": "was administered to a variety of poor and wealthy families"
+       },
+       {
+        "n": 6,
+        "text": "continued with follow-up assistance in elementary schools"
+       },
+       {
+        "n": 7,
+        "text": "did not succeed in its aim"
+       },
+       {
+        "n": 8,
+        "text": "supplied many forms of support and training to parents"
+       },
+       {
+        "n": 9,
+        "text": "received insufficient funding"
+       },
+       {
+        "n": 10,
+        "text": "was designed to improve pre-schoolers' educational development"
+       }
+      ]
+     },
+     {
+      "id": "R1-3",
+      "type": "tfng",
+      "range": [
+       11,
+       13
+      ],
+      "instructions": [
+       "Do the following statements agree with the information given in Reading Passage 1?",
+       "*In boxes 11–13 on your answer sheet, write*",
+       "**TRUE** *if the statement agrees with the information*",
+       "**FALSE** *if the statement contradicts the information*",
+       "**NOT GIVEN** *if there is no information on this*"
+      ],
+      "questions": [
+       {
+        "n": 11,
+        "text": "Most 'Missouri' programme three-year-olds scored highly in areas such as listening, speaking, reasoning and interacting with others."
+       },
+       {
+        "n": 12,
+        "text": "'Missouri' programme children of young, uneducated, single parents scored less highly on the tests."
+       },
+       {
+        "n": 13,
+        "text": "The richer families in the 'Missouri' programme had higher stress levels."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "passage": 2,
+    "range": [
+     14,
+     26
+    ],
+    "pages": [
+     67,
+     68,
+     69,
+     70,
+     71
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 14–26**, which are based on Reading Passage 2 on the following pages.",
+    "title": "Disappearing Delta",
+    "subtitle": null,
+    "paragraphs": [
+     {
+      "label": "A",
+      "text": "The fertile land of the Nile delta is being eroded along Egypt's Mediterranean coast at an astounding rate, in some parts estimated at 100 metres per year. In the past, land scoured away from the coastline by the currents of the Mediterranean Sea used to be replaced by sediment brought down to the delta by the River Nile, but this is no longer happening."
+     },
+     {
+      "label": "B",
+      "text": "Up to now, people have blamed this loss of delta land on the two large dams at Aswan in the south of Egypt, which hold back virtually all of the sediment that used to flow down the river. Before the dams were built, the Nile flowed freely, carrying huge quantities of sediment north from Africa's interior to be deposited on the Nile delta. This continued for 7,000 years, eventually covering a region of over 22,000 square kilometres with layers of fertile silt. Annual flooding brought in new, nutrient-rich soil to the delta region, replacing what had been washed away by the sea, and dispensing with the need for fertilizers in Egypt's richest food-growing area. But when the Aswan dams were constructed in the 20th century to provide electricity and irrigation, and to protect the huge population centre of Cairo and its surrounding areas from annual flooding and drought, most of the sediment with its natural fertilizer accumulated up above the dam in the southern, upstream half of Lake Nasser, instead of passing down to the delta."
+     },
+     {
+      "label": "C",
+      "text": "Now, however, there turns out to be more to the story. It appears that the sediment-free water emerging from the Aswan dams picks up silt and sand as it erodes the river bed and banks on the 800-kilometre trip to Cairo. Daniel Jean Stanley of the Smithsonian Institute noticed that water samples taken in Cairo, just before the river enters the delta, indicated that the river sometimes carries more than 850 grams of sediment per cubic metre of water – almost half of what it carried before the dams were built. 'I'm ashamed to say that the significance of this didn't strike me until after I had read 50 or 60 studies,' says Stanley in *Marine Geology*. 'There is still a lot of sediment coming into the delta, but virtually no sediment comes out into the Mediterranean to replenish the coastline. So this sediment must be trapped on the delta itself.'"
+     },
+     {
+      "label": "D",
+      "text": "Once north of Cairo, most of the Nile water is diverted into more than 10,000 kilometres of irrigation canals and only a small proportion reaches the sea directly through the rivers in the delta. The water in the irrigation canals is still or very slow-moving and thus cannot carry sediment, Stanley explains. The sediment sinks to the bottom of the canals and then is added to fields by farmers or pumped with the water into the four large freshwater lagoons that are located near the outer edges of the delta. So very little of it actually reaches the coastline to replace what is being washed away by the Mediterranean currents."
+     },
+     {
+      "label": "E",
+      "text": "The farms on the delta plains and fishing and aquaculture in the lagoons account for much of Egypt's food supply. But by the time the sediment has come to rest in the fields and lagoons it is laden with municipal, industrial and agricultural waste from the Cairo region, which is home to more than 40 million people. 'Pollutants are building up faster and faster,' says Stanley."
+     },
+     {
+      "kind": "img",
+      "src": "images/C5/C5-T3-R2-map.png",
+      "text": ""
+     },
+     {
+      "text": "Based on his investigations of sediment from the delta lagoons, Frederic Siegel of George Washington University concurs. 'In Manzalah Lagoon, for example, the increase in mercury, lead, copper and zinc coincided with the building of the High Dam at Aswan, the availability of cheap electricity, and the development of major power-based industries,' he says. Since that time the concentration of mercury has increased significantly. Lead from engines that use leaded fuels and from other industrial sources has also increased dramatically. These poisons can easily enter the food chain, affecting the productivity of fishing and farming. Another problem is that agricultural wastes include fertilizers which stimulate increases in plant growth in the lagoons and upset the ecology of the area, with serious effects on the fishing industry."
+     },
+     {
+      "label": "F",
+      "text": "According to Siegel, international environmental organisations are beginning to pay closer attention to the region, partly because of the problems of erosion and pollution of the Nile delta, but principally because they fear the impact this situation could have on the whole Mediterranean coastal ecosystem. But there are no easy solutions. In the immediate future, Stanley believes that one solution would be to make artificial floods to flush out the delta waterways, in the same way that natural floods did before the construction of the dams. He says, however, that in the long term an alternative process such as desalination may have to be used to increase the amount of water available. 'In my view, Egypt must devise a way to have more water running through the river and the delta,' says Stanley. Easier said than done in a desert region with a rapidly growing population."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R2-1",
+      "type": "matching",
+      "range": [
+       14,
+       17
+      ],
+      "instructions": [
+       "Reading Passage 2 has six paragraphs, **A–F**.",
+       "*Choose the correct heading for paragraphs* ***B*** *and* ***D–F*** *from the list of headings below.*",
+       "*Write the correct number* ***i–viii*** *in boxes 14–17 on your answer sheet.*",
+       "Example: Paragraph A – vii",
+       "Example: Paragraph C – vi"
+      ],
+      "optionsTitle": "List of Headings",
+      "options": [
+       {
+        "key": "i",
+        "text": "Effects of irrigation on sedimentation"
+       },
+       {
+        "key": "ii",
+        "text": "The danger of flooding the Cairo area"
+       },
+       {
+        "key": "iii",
+        "text": "Causing pollution in the Mediterranean"
+       },
+       {
+        "key": "iv",
+        "text": "Interrupting a natural process"
+       },
+       {
+        "key": "v",
+        "text": "The threat to food production"
+       },
+       {
+        "key": "vi",
+        "text": "Less valuable sediment than before"
+       },
+       {
+        "key": "vii",
+        "text": "Egypt's disappearing coastline"
+       },
+       {
+        "key": "viii",
+        "text": "Looking at the long-term impact"
+       }
+      ],
+      "questions": [
+       {
+        "n": 14,
+        "text": "Paragraph B"
+       },
+       {
+        "n": 15,
+        "text": "Paragraph D"
+       },
+       {
+        "n": 16,
+        "text": "Paragraph E"
+       },
+       {
+        "n": 17,
+        "text": "Paragraph F"
+       }
+      ]
+     },
+     {
+      "id": "R2-2",
+      "type": "ynng",
+      "range": [
+       18,
+       23
+      ],
+      "instructions": [
+       "Do the following statements reflect the claims of the writer in Reading Passage 2?",
+       "*In boxes 18–23 on your answer sheet, write*",
+       "***YES*** *if the statement reflects the claims of the writer*",
+       "***NO*** *if the statement contradicts the claims of the writer*",
+       "***NOT GIVEN*** *if it is impossible to say what the writer thinks about this*"
+      ],
+      "questions": [
+       {
+        "n": 18,
+        "text": "Coastal erosion occurred along Egypt's Mediterranean coast before the building of the Aswan dams."
+       },
+       {
+        "n": 19,
+        "text": "Some people predicted that the Aswan dams would cause land loss before they were built."
+       },
+       {
+        "n": 20,
+        "text": "The Aswan dams were built to increase the fertility of the Nile delta."
+       },
+       {
+        "n": 21,
+        "text": "Stanley found that the levels of sediment in the river water in Cairo were relatively high."
+       },
+       {
+        "n": 22,
+        "text": "Sediment in the irrigation canals on the Nile delta causes flooding."
+       },
+       {
+        "n": 23,
+        "text": "Water is pumped from the irrigation canals into the lagoons."
+       }
+      ]
+     },
+     {
+      "id": "R2-3",
+      "type": "completion",
+      "range": [
+       24,
+       26
+      ],
+      "instructions": [
+       "*Complete the summary of paragraphs E and F with the list of words* ***A–H*** *below.*",
+       "*Write the correct letter* ***A–H*** *in boxes 24–26 on your answer sheet.*"
+      ],
+      "content": [
+       {
+        "t": "p",
+        "text": "In addition to the problem of coastal erosion, there has been a marked increase in the level of {{24}} contained in the silt deposited in the Nile delta. To deal with this, Stanley suggests the use of {{25}} in the short term, and increasing the amount of water available through {{26}} in the longer term."
+       }
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": "artificial floods"
+       },
+       {
+        "key": "B",
+        "text": "desalination"
+       },
+       {
+        "key": "C",
+        "text": "delta waterways"
+       },
+       {
+        "key": "D",
+        "text": "natural floods"
+       },
+       {
+        "key": "E",
+        "text": "nutrients"
+       },
+       {
+        "key": "F",
+        "text": "pollutants"
+       },
+       {
+        "key": "G",
+        "text": "population control"
+       },
+       {
+        "key": "H",
+        "text": "sediment"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "passage": 3,
+    "range": [
+     27,
+     40
+    ],
+    "pages": [
+     72,
+     73,
+     74,
+     75
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 27–40**, which are based on Reading Passage 3 below.",
+    "title": "The Return of Artificial Intelligence",
+    "subtitle": "*It is becoming acceptable again to talk of computers performing human tasks such as problem-solving and pattern-recognition*",
+    "paragraphs": [
+     {
+      "label": "A",
+      "text": "After years in the wilderness, the term 'artificial intelligence' (AI) seems poised to make a comeback. AI was big in the 1980s but vanished in the 1990s. It re-entered public consciousness with the release of *AI*, a movie about a robot boy. This has ignited public debate about AI, but the term is also being used once more within the computer industry. Researchers, executives and marketing people are now using the expression without irony or inverted commas. And it is not always hype. The term is being applied, with some justification, to products that depend on technology that was originally developed by AI researchers. Admittedly, the rehabilitation of the term has a long way to go, and some firms still prefer to avoid using it. But the fact that others are starting to use it again suggests that AI has moved on from being seen as an over-ambitious and under-achieving field of research."
+     },
+     {
+      "label": "B",
+      "text": "The field was launched, and the term 'artificial intelligence' coined, at a conference in 1956, by a group of researchers that included Marvin Minsky, John McCarthy, Herbert Simon and Alan Newell, all of whom went on to become leading figures in the field. The expression provided an attractive but informative name for a research programme that encompassed such previously disparate fields as operations research, cybernetics, logic and computer science. The goal they shared was an attempt to capture or mimic human abilities using machines. That said, different groups of researchers attacked different problems, from speech recognition to chess playing, in different ways; AI unified the field in name only. But it was a term that captured the public imagination."
+     },
+     {
+      "label": "C",
+      "text": "Most researchers agree that AI peaked around 1985. A public reared on science-fiction movies and excited by the growing power of computers had high expectations. For years, AI researchers had implied that a breakthrough was just around the corner. Marvin Minsky said in 1967 that within a generation the problem of creating 'artificial intelligence' would be substantially solved. Prototypes of medical-diagnosis programs and speech recognition software appeared to be making progress. It proved to be a false dawn. Thinking computers and household robots failed to materialise, and a backlash ensued. 'There was undue optimism in the early 1980s,' says David Leake, a researcher at Indiana University. 'Then when people realised these were hard problems, there was retrenchment. By the late 1980s, the term AI was being avoided by many researchers, who opted instead to align themselves with specific sub-disciplines such as neural networks, agent technology, case-based reasoning, and so on.'"
+     },
+     {
+      "label": "D",
+      "text": "Ironically, in some ways AI was a victim of its own success. Whenever an apparently mundane problem was solved, such as building a system that could land an aircraft unattended, the problem was deemed not to have been AI in the first place. 'If it works, it can't be AI,' as Dr Leake characterises it. The effect of repeatedly moving the goal-posts in this way was that AI came to refer to 'blue-sky' research that was still years away from commercialisation. Researchers joked that AI stood for 'almost implemented'. Meanwhile, the technologies that made it onto the market, such as speech recognition, language translation and decision-support software, were no longer regarded as AI. Yet all three once fell well within the umbrella of AI research."
+     },
+     {
+      "label": "E",
+      "text": "But the tide may now be turning, according to Dr Leake. HNC Software of San Diego, backed by a government agency, reckon that their new approach to artificial intelligence is the most powerful and promising approach ever discovered. HNC claim that their system, based on a cluster of 30 processors, could be used to spot camouflaged vehicles on a battlefield or extract a voice signal from a noisy background – tasks humans can do well, but computers cannot. 'Whether or not their technology lives up to the claims made for it, the fact that HNC are emphasising the use of AI is itself an interesting development,' says Dr Leake."
+     },
+     {
+      "label": "F",
+      "text": "Another factor that may boost the prospects for AI in the near future is that investors are now looking for firms using clever technology, rather than just a clever business model, to differentiate themselves. In particular, the problem of information overload, exacerbated by the growth of e-mail and the explosion in the number of web pages, means there are plenty of opportunities for new technologies to help filter and categorise information – classic AI problems. That may mean that more artificial intelligence companies will start to emerge to meet this challenge."
+     },
+     {
+      "label": "G",
+      "text": "The 1969 film, *2001:A Space Odyssey*, featured an intelligent computer called HAL 9000. As well as understanding and speaking English, HAL could play chess and even learned to lipread. HAL thus encapsulated the optimism of the 1960s that intelligent computers would be widespread by 2001. But 2001 has been and gone, and there is still no sign of a HAL-like computer. Individual systems can play chess or transcribe speech, but a general theory of machine intelligence still remains elusive. It may be, however, that the comparison with HAL no longer seems quite so important, and AI can now be judged by what it can do, rather than by how well it matches up to a 30-year-old science-fiction film. 'People are beginning to realise that there are impressive things that these systems can do,' says Dr Leake hopefully."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R3-1",
+      "type": "matching",
+      "range": [
+       27,
+       31
+      ],
+      "instructions": [
+       "*Reading Passage 3 has seven paragraphs,* ***A–G***.",
+       "Which paragraph contains the following information?",
+       "*Write the correct letter* ***A–G*** *in boxes 27–31 on your answer sheet.*",
+       "**NB** *You may use any letter more than once.*"
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": ""
+       },
+       {
+        "key": "B",
+        "text": ""
+       },
+       {
+        "key": "C",
+        "text": ""
+       },
+       {
+        "key": "D",
+        "text": ""
+       },
+       {
+        "key": "E",
+        "text": ""
+       },
+       {
+        "key": "F",
+        "text": ""
+       },
+       {
+        "key": "G",
+        "text": ""
+       }
+      ],
+      "reuse": true,
+      "questions": [
+       {
+        "n": 27,
+        "text": "how AI might have a military impact"
+       },
+       {
+        "n": 28,
+        "text": "the fact that AI brings together a range of separate research areas"
+       },
+       {
+        "n": 29,
+        "text": "the reason why AI has become a common topic of conversation again"
+       },
+       {
+        "n": 30,
+        "text": "how AI could help deal with difficulties related to the amount of information available electronically"
+       },
+       {
+        "n": 31,
+        "text": "where the expression AI was first used"
+       }
+      ]
+     },
+     {
+      "id": "R3-2",
+      "type": "tfng",
+      "range": [
+       32,
+       37
+      ],
+      "instructions": [
+       "Do the following statements agree with the information given in Reading Passage 3?",
+       "*In boxes 32–37 on your answer sheet, write*",
+       "**TRUE** *if the statement agrees with the information*",
+       "**FALSE** *if the statement contradicts the information*",
+       "**NOT GIVEN** *if there is no information about this*"
+      ],
+      "questions": [
+       {
+        "n": 32,
+        "text": "The researchers who launched the field of AI had worked together on other projects in the past."
+       },
+       {
+        "n": 33,
+        "text": "In 1985, AI was at its lowest point."
+       },
+       {
+        "n": 34,
+        "text": "Research into agent technology was more costly than research into neural networks."
+       },
+       {
+        "n": 35,
+        "text": "Applications of AI have already had a degree of success."
+       },
+       {
+        "n": 36,
+        "text": "The problems waiting to be solved by AI have not changed since 1967."
+       },
+       {
+        "n": 37,
+        "text": "The film *2001: A Space Odyssey* reflected contemporary ideas about the potential of AI computers."
+       }
+      ]
+     },
+     {
+      "id": "R3-3",
+      "type": "choice",
+      "range": [
+       38,
+       40
+      ],
+      "instructions": [
+       "*Choose the correct letter* ***A, B, C*** *or* ***D***.",
+       "*Write your answers in boxes 38–40 on your answer sheet.*"
+      ],
+      "questions": [
+       {
+        "n": 38,
+        "text": "According to researchers, in the late 1980s there was a feeling that",
+        "options": [
+         {
+          "key": "A",
+          "text": "a general theory of AI would never be developed."
+         },
+         {
+          "key": "B",
+          "text": "original expectations of AI may not have been justified."
+         },
+         {
+          "key": "C",
+          "text": "a wide range of applications was close to fruition."
+         },
+         {
+          "key": "D",
+          "text": "more powerful computers were the key to further progress."
+         }
+        ]
+       },
+       {
+        "n": 39,
+        "text": "In Dr Leake's opinion, the reputation of AI suffered as a result of",
+        "options": [
+         {
+          "key": "A",
+          "text": "changing perceptions."
+         },
+         {
+          "key": "B",
+          "text": "premature implementation."
+         },
+         {
+          "key": "C",
+          "text": "poorly planned projects."
+         },
+         {
+          "key": "D",
+          "text": "commercial pressures."
+         }
+        ]
+       },
+       {
+        "n": 40,
+        "text": "The prospects for AI may benefit from",
+        "options": [
+         {
+          "key": "A",
+          "text": "existing AI applications."
+         },
+         {
+          "key": "B",
+          "text": "new business models."
+         },
+         {
+          "key": "C",
+          "text": "orders from internet-only companies."
+         },
+         {
+          "key": "D",
+          "text": "new investment priorities."
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "answers": {
+   "1": {
+    "a": [
+     "D"
+    ]
+   },
+   "2": {
+    "a": [
+     "B"
+    ]
+   },
+   "3": {
+    "a": [
+     "C"
+    ]
+   },
+   "4": {
+    "a": [
+     "E"
+    ]
+   },
+   "5": {
+    "a": [
+     "B"
+    ]
+   },
+   "6": {
+    "a": [
+     "D"
+    ]
+   },
+   "7": {
+    "a": [
+     "A"
+    ]
+   },
+   "8": {
+    "a": [
+     "B"
+    ]
+   },
+   "9": {
+    "a": [
+     "D"
+    ]
+   },
+   "10": {
+    "a": [
+     "C"
+    ]
+   },
+   "11": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "12": {
+    "a": [
+     "FALSE"
+    ]
+   },
+   "13": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "14": {
+    "a": [
+     "iv"
+    ]
+   },
+   "15": {
+    "a": [
+     "i"
+    ]
+   },
+   "16": {
+    "a": [
+     "v"
+    ]
+   },
+   "17": {
+    "a": [
+     "viii"
+    ]
+   },
+   "18": {
+    "a": [
+     "YES"
+    ]
+   },
+   "19": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "20": {
+    "a": [
+     "NO"
+    ]
+   },
+   "21": {
+    "a": [
+     "YES"
+    ]
+   },
+   "22": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "23": {
+    "a": [
+     "YES"
+    ]
+   },
+   "24": {
+    "a": [
+     "F"
+    ]
+   },
+   "25": {
+    "a": [
+     "A"
+    ]
+   },
+   "26": {
+    "a": [
+     "B"
+    ]
+   },
+   "27": {
+    "a": [
+     "E"
+    ]
+   },
+   "28": {
+    "a": [
+     "B"
+    ]
+   },
+   "29": {
+    "a": [
+     "A"
+    ]
+   },
+   "30": {
+    "a": [
+     "F"
+    ]
+   },
+   "31": {
+    "a": [
+     "B"
+    ]
+   },
+   "32": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "33": {
+    "a": [
+     "FALSE"
+    ]
+   },
+   "34": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "35": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "36": {
+    "a": [
+     "FALSE"
+    ]
+   },
+   "37": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "38": {
+    "a": [
+     "B"
+    ]
+   },
+   "39": {
+    "a": [
+     "A"
+    ]
+   },
+   "40": {
+    "a": [
+     "D"
+    ]
+   }
+  }
+ },
+ "writing": {
+  "tasks": [
+   {
+    "task": 1,
+    "minutes": 20,
+    "minWords": 150,
+    "pages": [
+     76
+    ],
+    "prompt": [
+     "The map below is of the town of Garlsdon. A new supermarket (S) is planned for the town. The map shows two possible sites for the supermarket.",
+     "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+    ],
+    "image": "images/C5/C5-T3-W1.png",
+    "sample": {
+     "kind": "model",
+     "band": null,
+     "text": "The map shows two proposed locations for a new supermarket for the town of Garlsdon.\n\nThe first potential location (S1) is outside the town itself, and is sited just off the main road to the town of Hindon, lying 12 kms to the north-west. This site is in the countryside and so would be able to accommodate a lot of car parking. This would make it accessible to shoppers from both Hindon and Garlsdon who could travel by car. As it is also close to the railway line linking the two towns to Cransdon (25 km to the south-east), a potentially large number of shoppers would also be able to travel by train.\n\nIn contrast, the suggested location, S2, is right in the town centre, which would be good for local residents. Theoretically the store could be accessed by road or rail from the surrounding towns, including Bransdon, but as the central area is a no-traffic zone, cars would be unable to park and access would be difficult.\n\nOverall, neither site is appropriate for all the towns, but for customers in Cransdon, Hindon and Garlsdon, the out-of-town site (S1) would probably offer more advantages.",
+     "comment": null
+    }
+   },
+   {
+    "task": 2,
+    "minutes": 40,
+    "minWords": 250,
+    "pages": [
+     77
+    ],
+    "prompt": [
+     "Write about the following topic:",
+     "*Some people think that a sense of competition in children should be encouraged. Others believe that children who are taught to co-operate rather than compete become more useful adults.*",
+     "*Discuss both these views and give your own opinion.*",
+     "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+    ],
+    "sample": {
+     "kind": "candidate",
+     "band": "6",
+     "text": "Nowadays, purpose of education being changed in Korea. There are some people who think that competition in children should be made, also others believe that children who are taught to co-operate as well as become more useful adults. There are advantages and disadvantages for both of the arguements.\n\nTo begin with, what is good if a sense of competition in children is made? They could develope themselves more and more as they learn and study a lot to win from the competition. To prove this, in Korea, it is popular – even common now – to have a tutor who come to student's house to teach extra pieces of study with paying a lot of money. They learn faster than what they learn at school. Furthermore, during the vacations, students study abroad to learn English for a month instead of revise school work. If they have experiments such as study abroad, it is one of the greatest plus point to go to the famous well-known high-school. Moreover, there are four big school exam and two national examinations to test students' level of studies. Generally, only the highest 40% can go to the good quality highschools and colleges. Children learn as much as they can, to win the competition to obtain good quality schools.\n\nOn the other hand, as they are busy to enter the schools and study individually with their own tutors, there are problems. They become selfish. They become careless and don't help others alot if it is about studies. There will be no co-operations for them. Then, why are there companies for many people to work in? Each of them are clever, however, there are weak parts and strong parts for each person. To co-operate is to improve this part. People talk and listen to what others thinking of and learn. That could also be a great opportunity to learn instead of learning alone with one teacher.\n\nIn conclusion, I strongly agree with that children should be taught to co-operate rather than compete. Nobody' is perfect. People learn together, work together to develop each other. Therefore, I want parents and teachers to educate children concentrating on co-operation, not compete and ranking them.",
+     "comment": "Although the answer considers the main issues in the question, it deals much more with the aspect of 'competition' than it does with 'co-operation'. Some of the supporting examples are overdeveloped and divert the reader away from the argument. However, the main points are relevant and the writer's point of view is generally clear.\n\nThe argument has a logical progression and there is some good use of linking expressions, though the use of rhetorical questions to signal topic changes is not very skilful. There are also examples of overusing markers, and of errors in referencing.\n\nThe candidate tries to use a range of language, but there are regular errors in word choice and word form, and this occasionally causes problems for the reader. Similarly, a range of structures is attempted, but not always with good control of punctuation or grammar. However, the meaning is generally clear."
+    }
+   }
+  ]
+ },
+ "issues": []
+}

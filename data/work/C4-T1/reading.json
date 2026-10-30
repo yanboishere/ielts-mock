@@ -1,0 +1,940 @@
+{
+ "passages": [
+  {
+   "passage": 1,
+   "range": [
+    1,
+    14
+   ],
+   "pages": [
+    18,
+    19,
+    20,
+    21,
+    22
+   ],
+   "intro": "You should spend about 20 minutes on **Questions 1–14** which are based on Reading Passage 1 below.",
+   "title": "Reading Passage 1",
+   "subtitle": null,
+   "paragraphs": [
+    {
+     "text": "Adults and children are frequently confronted with statements about the alarming rate of loss of tropical rainforests. For example, one graphic illustration to which children might readily relate is the estimate that rainforests are being destroyed at a rate equivalent to one thousand football fields every forty minutes – about the duration of a normal classroom period. In the face of the frequent and often vivid media coverage, it is likely that children will have formed ideas about rainforests – what and where they are, why they are important, what endangers them – independent of any formal tuition. It is also possible that some of these ideas will be mistaken."
+    },
+    {
+     "text": "Many studies have shown that children harbour misconceptions about 'pure', curriculum science. These misconceptions do not remain isolated but become incorporated into a multifaceted, but organised, conceptual framework, making it and the component ideas, some of which are erroneous, more robust but also accessible to modification. These ideas may be developed by children absorbing ideas through the popular media. Sometimes this information may be erroneous. It seems schools may not be providing an opportunity for children to re-express their ideas and so have them tested and refined by teachers and their peers."
+    },
+    {
+     "text": "Despite the extensive coverage in the popular media of the destruction of rainforests, little formal information is available about children's ideas in this area. The aim of the present study is to start to provide such information, to help teachers design their educational strategies to build upon correct ideas and to displace misconceptions and to plan programmes in environmental studies in their schools."
+    },
+    {
+     "text": "The study surveys children's scientific knowledge and attitudes to rainforests. Secondary school children were asked to complete a questionnaire containing five open-form questions. The most frequent responses to the first question were descriptions which are self-evident from the term 'rainforest'. Some children described them as damp, wet or hot. The second question concerned the geographical location of rainforests. The commonest responses were continents or countries: Africa (given by 43% of children), South America (30%), Brazil (25%). Some children also gave more general locations, such as being near the Equator."
+    },
+    {
+     "text": "Responses to question three concerned the importance of rainforests. The dominant idea, raised by 64% of the pupils, was that rainforests provide animals with habitats. Fewer students responded that rainforests provide plant habitats, and even fewer mentioned the indigenous populations of rainforests. More girls (70%) than boys (60%) raised the idea of rainforest as animal habitats."
+    },
+    {
+     "text": "Similarly, but at a lower level, more girls (13%) than boys (5%) said that rainforests provided human habitats. These observations are generally consistent with our previous studies of pupils' views about the use and conservation of rainforests, in which girls were shown to be more sympathetic to animals and expressed views which seem to place an intrinsic value on non-human animal life."
+    },
+    {
+     "text": "The fourth question concerned the causes of the destruction of rainforests. Perhaps encouragingly, more than half of the pupils (59%) identified that it is human activities which are destroying rainforests, some personalising the responsibility by the use of terms such as 'we are'. About 18% of the pupils referred specifically to logging activity."
+    },
+    {
+     "text": "One misconception, expressed by some 10% of the pupils, was that acid rain is responsible for rainforest destruction; a similar proportion said that pollution is destroying rainforests. Here, children are confusing rainforest destruction with damage to the forests of Western Europe by these factors. While two fifths of the students provided the information that the rainforests provide oxygen, in some cases this response also embraced the misconception that rainforest destruction would reduce atmospheric oxygen, making the atmosphere incompatible with human life on Earth."
+    },
+    {
+     "text": "In answer to the final question about the importance of rainforest conservation, the majority of children simply said that we need rainforests to survive. Only a few of the pupils (6%) mentioned that rainforest destruction may contribute to global warming. This is surprising considering the high level of media coverage on this issue. Some children expressed the idea that the conservation of rainforests is not important."
+    },
+    {
+     "text": "The results of this study suggest that certain ideas predominate in the thinking of children about rainforests. Pupils' responses indicate some misconceptions in basic scientific knowledge of rainforests' ecosystems such as their ideas about rainforests as habitats for animals, plants and humans and the relationship between climatic change and destruction of rainforests."
+    },
+    {
+     "text": "Pupils did not volunteer ideas that suggested that they appreciated the complexity of causes of rainforest destruction. In other words, they gave no indication of an appreciation of either the range of ways in which rainforests are important or the complex social, economic and political factors which drive the activities which are destroying the rainforests. One encouragement is that the results of similar studies about other environmental issues suggest that older children seem to acquire the ability to appreciate, value and evaluate conflicting views. Environmental education offers an arena in which these skills can be developed, which is essential for these children as future decision-makers."
+    }
+   ],
+   "groups": [
+    {
+     "id": "R1-1",
+     "type": "tfng",
+     "range": [
+      1,
+      8
+     ],
+     "instructions": [
+      "Do the following statements agree with the information given in Reading Passage 1?",
+      "*In boxes 1–8 on your answer sheet write*",
+      "**TRUE** if the statement agrees with the information",
+      "**FALSE** if the statement contradicts the information",
+      "**NOT GIVEN** if there is no information on this"
+     ],
+     "questions": [
+      {
+       "n": 1,
+       "text": "The plight of the rainforests has largely been ignored by the media."
+      },
+      {
+       "n": 2,
+       "text": "Children only accept opinions on rainforests that they encounter in their classrooms."
+      },
+      {
+       "n": 3,
+       "text": "It has been suggested that children hold mistaken views about the 'pure' science that they study at school."
+      },
+      {
+       "n": 4,
+       "text": "The fact that children's ideas about science form part of a larger framework of ideas means that it is easier to change them."
+      },
+      {
+       "n": 5,
+       "text": "The study involved asking children a number of yes/no questions such as 'Are there any rainforests in Africa?'"
+      },
+      {
+       "n": 6,
+       "text": "Girls are more likely than boys to hold mistaken views about the rainforests' destruction."
+      },
+      {
+       "n": 7,
+       "text": "The study reported here follows on from a series of studies that have looked at children's understanding of rainforests."
+      },
+      {
+       "n": 8,
+       "text": "A second study has been planned to investigate primary school children's ideas about rainforests."
+      }
+     ]
+    },
+    {
+     "id": "R1-2",
+     "type": "matching",
+     "range": [
+      9,
+      13
+     ],
+     "instructions": [
+      "The box below gives a list of responses **A–P** to the questionnaire discussed in Reading Passage 1.",
+      "Answer the following questions by choosing the correct responses **A–P**.",
+      "Write your answers in boxes 9–13 on your answer sheet."
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "There is a complicated combination of reasons for the loss of the rainforests."
+      },
+      {
+       "key": "B",
+       "text": "The rainforests are being destroyed by the same things that are destroying the forests of Western Europe."
+      },
+      {
+       "key": "C",
+       "text": "Rainforests are located near the Equator."
+      },
+      {
+       "key": "D",
+       "text": "Brazil is home to the rainforests."
+      },
+      {
+       "key": "E",
+       "text": "Without rainforests some animals would have nowhere to live."
+      },
+      {
+       "key": "F",
+       "text": "Rainforests are important habitats for a lot of plants."
+      },
+      {
+       "key": "G",
+       "text": "People are responsible for the loss of the rainforests."
+      },
+      {
+       "key": "H",
+       "text": "The rainforests are a source of oxygen."
+      },
+      {
+       "key": "I",
+       "text": "Rainforests are of consequence for a number of different reasons."
+      },
+      {
+       "key": "J",
+       "text": "As the rainforests are destroyed, the world gets warmer."
+      },
+      {
+       "key": "K",
+       "text": "Without rainforests there would not be enough oxygen in the air."
+      },
+      {
+       "key": "L",
+       "text": "There are people for whom the rainforests are home."
+      },
+      {
+       "key": "M",
+       "text": "Rainforests are found in Africa."
+      },
+      {
+       "key": "N",
+       "text": "Rainforests are not really important to human life."
+      },
+      {
+       "key": "O",
+       "text": "The destruction of the rainforests is the direct result of logging activity."
+      },
+      {
+       "key": "P",
+       "text": "Humans depend on the rainforests for their continuing existence."
+      }
+     ],
+     "questions": [
+      {
+       "n": 9,
+       "text": "What was the children's most frequent response when asked where the rainforests were?"
+      },
+      {
+       "n": 10,
+       "text": "What was the most common response to the question about the importance of the rainforests?"
+      },
+      {
+       "n": 11,
+       "text": "What did most children give as the reason for the loss of the rainforests?"
+      },
+      {
+       "n": 12,
+       "text": "Why did most children think it important for the rainforests to be protected?"
+      },
+      {
+       "n": 13,
+       "text": "Which of the responses is cited as unexpectedly uncommon, given the amount of time spent on the issue by the newspapers and television?"
+      }
+     ]
+    },
+    {
+     "id": "R1-3",
+     "type": "choice",
+     "range": [
+      14,
+      14
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B**, **C**, **D** or **E**.",
+      "Write your answer in box 14 on your answer sheet."
+     ],
+     "questions": [
+      {
+       "n": 14,
+       "text": "Which of the following is the most suitable title for Reading Passage 1?",
+       "options": [
+        {
+         "key": "A",
+         "text": "The development of a programme in environmental studies within a science curriculum"
+        },
+        {
+         "key": "B",
+         "text": "Children's ideas about the rainforests and the implications for course design"
+        },
+        {
+         "key": "C",
+         "text": "The extent to which children have been misled by the media concerning the rainforests"
+        },
+        {
+         "key": "D",
+         "text": "How to collect, collate and describe the ideas of secondary school children"
+        },
+        {
+         "key": "E",
+         "text": "The importance of the rainforests and the reasons for their destruction"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "passage": 2,
+   "range": [
+    15,
+    26
+   ],
+   "pages": [
+    23,
+    24,
+    25,
+    26
+   ],
+   "intro": "You should spend about 20 minutes on **Questions 15–26** which are based on Reading Passage 2 below.",
+   "title": "What Do Whales Feel?",
+   "subtitle": "An examination of the functioning of the senses in cetaceans, the group of mammals comprising whales, dolphins and porpoises",
+   "paragraphs": [
+    {
+     "text": "Some of the senses that we and other terrestrial mammals take for granted are either reduced or absent in cetaceans or fail to function well in water. For example, it appears from their brain structure that toothed species are unable to smell. Baleen species, on the other hand, appear to have some related brain structures but it is not known whether these are functional. It has been speculated that, as the blowholes evolved and migrated to the top of the head, the neural pathways serving sense of smell may have been nearly all sacrificed. Similarly, although at least some cetaceans have taste buds, the nerves serving these have degenerated or are rudimentary."
+    },
+    {
+     "text": "The sense of touch has sometimes been described as weak too, but this view is probably mistaken. Trainers of captive dolphins and small whales often remark on their animals' responsiveness to being touched or rubbed, and both captive and free-ranging cetacean individuals of all species (particularly adults and calves, or members of the same subgroup) appear to make frequent contact. This contact may help to maintain order within a group, and stroking or touching are part of the courtship ritual in most species. The area around the blowhole is also particularly sensitive and captive animals often object strongly to being touched there."
+    },
+    {
+     "text": "The sense of vision is developed to different degrees in different species. Baleen species studied at close quarters underwater – specifically a grey whale calf in captivity for a year, and free ranging right whales and humpback whales studied and filmed off Argentina and Hawaii – have obviously tracked objects with vision underwater, and they can apparently see moderately well both in water and in air. However, the position of the eyes so restricts the field of vision in baleen whales that they probably do not have stereoscopic vision."
+    },
+    {
+     "text": "On the other hand, the position of the eyes in most dolphins and porpoises suggests that they have stereoscopic vision forward and downward. Eye position in freshwater dolphins, which often swim on their side or upside down while feeding, suggests that what vision they have is stereoscopic forward and upward. By comparison, the bottlenose dolphin has extremely keen vision in water. Judging from the way it watches and tracks airborne flying fish, it can apparently see fairly well through the air–water interface as well. And although preliminary experimental evidence suggests that their in-air vision is poor, the accuracy with which dolphins leap high to take small fish out of a trainer's hand provides anecdotal evidence to the contrary."
+    },
+    {
+     "text": "Such variation can no doubt be explained with reference to the habitats in which individual species have developed. For example, vision is obviously more useful to species inhabiting clear open waters than to those living in turbid rivers and flooded plains. The South American boutu and Chinese beiji, for instance, appear to have very limited vision, and the Indian susus are blind, their eyes reduced to slits that probably allow them to sense only the direction and intensity of light."
+    },
+    {
+     "text": "Although the senses of taste and smell appear to have deteriorated, and vision in water appears to be uncertain, such weaknesses are more than compensated for by cetaceans' well-developed acoustic sense. Most species are highly vocal, although they vary in the range of sounds they produce, and many forage for food using echolocation¹. Large baleen whales primarily use the lower frequencies and are often limited in their repertoire. Notable exceptions are the nearly song-like choruses of bowhead whales in summer and the complex, haunting utterances of the humpback whales. Toothed species in general employ more of the frequency spectrum, and produce a wider variety of sounds, than baleen species (though the sperm whale apparently produces a monotonous series of high-energy clicks and little else). Some of the more complicated sounds are clearly communicative, although what role they may play in the social life and 'culture' of cetaceans has been more the subject of wild speculation than of solid science."
+    },
+    {
+     "kind": "note",
+     "text": "1. echolocation: the perception of objects by means of sound wave echoes."
+    }
+   ],
+   "groups": [
+    {
+     "id": "R2-1",
+     "type": "completion",
+     "range": [
+      15,
+      21
+     ],
+     "instructions": [
+      "Complete the table below.",
+      "Choose **NO MORE THAN THREE WORDS** from Reading Passage 2 for each answer.",
+      "Write your answers in boxes 15–21 on your answer sheet."
+     ],
+     "content": [
+      {
+       "t": "table",
+       "header": 1,
+       "rows": [
+        [
+         "SENSE",
+         "SPECIES",
+         "ABILITY",
+         "COMMENTS"
+        ],
+        [
+         "**Smell**",
+         "toothed",
+         "no",
+         "evidence from brain structure"
+        ],
+        [
+         "",
+         "baleen",
+         "not certain",
+         "related brain structures are present"
+        ],
+        [
+         "**Taste**",
+         "some types",
+         "poor",
+         "nerves linked to their {{15}} are underdeveloped"
+        ],
+        [
+         "**Touch**",
+         "all",
+         "yes",
+         "region around the blowhole very sensitive"
+        ],
+        [
+         "**Vision**",
+         "{{16}}",
+         "yes",
+         "probably do not have stereoscopic vision"
+        ],
+        [
+         "",
+         "dolphins, porpoises",
+         "yes",
+         "probably have stereoscopic vision {{17}}"
+        ],
+        [
+         "",
+         "{{18}}",
+         "yes",
+         "probably have stereoscopic vision forward and upward"
+        ],
+        [
+         "",
+         "bottlenose dolphins",
+         "yes",
+         "exceptional in {{19}} and good in air–water interface"
+        ],
+        [
+         "",
+         "boutu and beiji",
+         "poor",
+         "have limited vision"
+        ],
+        [
+         "",
+         "Indian susus",
+         "no",
+         "probably only sense direction and intensity of light"
+        ],
+        [
+         "**Hearing**",
+         "most large baleen",
+         "yes",
+         "usually use {{20}}; repertoire limited"
+        ],
+        [
+         "",
+         "{{21}} whales",
+         "yes",
+         "song-like"
+        ],
+        [
+         "",
+         "toothed",
+         "yes",
+         "use more of frequency spectrum; have wider repertoire"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "id": "R2-2",
+     "type": "completion",
+     "range": [
+      22,
+      26
+     ],
+     "instructions": [
+      "Answer the questions below using **NO MORE THAN THREE WORDS** from the passage for each answer.",
+      "Write your answers in boxes 22–26 on your answer sheet."
+     ],
+     "content": [
+      {
+       "t": "p",
+       "text": "Which of the senses is described here as being involved in mating? {{22}}"
+      },
+      {
+       "t": "p",
+       "text": "Which species swims upside down while eating? {{23}}"
+      },
+      {
+       "t": "p",
+       "text": "What can bottlenose dolphins follow from under the water? {{24}}"
+      },
+      {
+       "t": "p",
+       "text": "Which type of habitat is related to good visual ability? {{25}}"
+      },
+      {
+       "t": "p",
+       "text": "Which of the senses is best developed in cetaceans? {{26}}"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "passage": 3,
+   "range": [
+    27,
+    40
+   ],
+   "pages": [
+    27,
+    28,
+    29,
+    30
+   ],
+   "intro": "You should spend about 20 minutes on **Questions 27–40** which are based on Reading Passage 3 below.",
+   "title": "Visual Symbols and the Blind",
+   "subtitle": null,
+   "paragraphs": [
+    {
+     "kind": "heading",
+     "text": "Part 1"
+    },
+    {
+     "text": "From a number of recent studies, it has become clear that blind people can appreciate the use of outlines and perspectives to describe the arrangement of objects and other surfaces in space. But pictures are more than literal representations. This fact was drawn to my attention dramatically when a blind woman in one of my investigations decided on her own initiative to draw a wheel as it was spinning. To show this motion, she traced a curve inside the circle (*Fig. 1*). I was taken aback. Lines of motion, such as the one she used, are a very recent invention in the history of illustration. Indeed, as art scholar David Kunzle notes, Wilhelm Busch, a trend-setting nineteenth-century cartoonist, used virtually no motion lines in his popular figures until about 1877."
+    },
+    {
+     "kind": "img",
+     "src": "images/C4/C4-T1-R3-fig1.png",
+     "text": "Fig. 1"
+    },
+    {
+     "text": "When I asked several other blind study subjects to draw a spinning wheel, one particularly clever rendition appeared repeatedly: several subjects showed the wheel's spokes as curved lines. When asked about these curves, they all described them as metaphorical ways of suggesting motion. Majority rule would argue that this device somehow indicated motion very well. But was it a better indicator than, say, broken or wavy lines – or any other kind of line, for that matter? The answer was not clear. So I decided to test whether various lines of motion were apt ways of showing movement or if they were merely idiosyncratic marks. Moreover, I wanted to discover whether there were differences in how the blind and the sighted interpreted lines of motion."
+    },
+    {
+     "text": "To search out these answers, I created raised-line drawings of five different wheels, depicting spokes with lines that curved, bent, waved, dashed and extended beyond the perimeter of the wheel. I then asked eighteen blind volunteers to feel the wheels and assign one of the following motions to each wheel: wobbling, spinning fast, spinning steadily, jerking or braking. My control group consisted of eighteen sighted undergraduates from the University of Toronto."
+    },
+    {
+     "text": "All but one of the blind subjects assigned distinctive motions to each wheel. Most guessed that the curved spokes indicated that the wheel was spinning steadily; the wavy spokes, they thought, suggested that the wheel was wobbling; and the bent spokes were taken as a sign that the wheel was jerking. Subjects assumed that spokes extending beyond the wheel's perimeter signified that the wheel had its brakes on and that dashed spokes indicated the wheel was spinning quickly."
+    },
+    {
+     "text": "In addition, the favoured description for the sighted was the favoured description for the blind in every instance. What is more, the consensus among the sighted was barely higher than that among the blind. Because motion devices are unfamiliar to the blind, the task I gave them involved some problem solving. Evidently, however, the blind not only figured out meanings for each line of motion, but as a group they generally came up with the same meaning at least as frequently as did sighted subjects."
+    },
+    {
+     "kind": "heading",
+     "text": "Part 2"
+    },
+    {
+     "text": "We have found that the blind understand other kinds of visual metaphors as well. One blind woman drew a picture of a child inside a heart – choosing that symbol, she said, to show that love surrounded the child. With Chang Hong Liu, a doctoral student from China, I have begun exploring how well blind people understand the symbolism behind shapes such as hearts that do not directly represent their meaning."
+    },
+    {
+     "text": "We gave a list of twenty pairs of words to sighted subjects and asked them to pick from each pair the term that best related to a circle and the term that best related to a square. For example, we asked: What goes with soft? A circle or a square? Which shape goes with hard?"
+    },
+    {
+     "kind": "img",
+     "src": "images/C4/C4-T1-R3-fig2.png",
+     "text": "Fig. 2 Subjects were asked which word in each pair fits best with a circle and which with a square. These percentages show the level of consensus among sighted subjects."
+    },
+    {
+     "text": "All our subjects deemed the circle soft and the square hard. A full 94% ascribed happy to the circle, instead of sad. But other pairs revealed less agreement: 79% matched fast to slow and weak to strong, respectively. And only 51% linked deep to circle and shallow to square. (See *Fig. 2*.) When we tested four totally blind volunteers using the same list, we found that their choices closely resembled those made by the sighted subjects. One man, who had been blind since birth, scored extremely well. He made only one match differing from the consensus, assigning 'far' to square and 'near' to circle. In fact, only a small majority of sighted subjects – 53% – had paired far and near to the opposite partners. Thus, we concluded that the blind interpret abstract shapes as sighted people do."
+    }
+   ],
+   "groups": [
+    {
+     "id": "R3-1",
+     "type": "choice",
+     "range": [
+      27,
+      29
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B**, **C** or **D**.",
+      "Write your answers in boxes 27–29 on your answer sheet."
+     ],
+     "questions": [
+      {
+       "n": 27,
+       "text": "In the first paragraph the writer makes the point that blind people",
+       "options": [
+        {
+         "key": "A",
+         "text": "may be interested in studying art."
+        },
+        {
+         "key": "B",
+         "text": "can draw outlines of different objects and surfaces."
+        },
+        {
+         "key": "C",
+         "text": "can recognise conventions such as perspective."
+        },
+        {
+         "key": "D",
+         "text": "can draw accurately."
+        }
+       ]
+      },
+      {
+       "n": 28,
+       "text": "The writer was surprised because the blind woman",
+       "options": [
+        {
+         "key": "A",
+         "text": "drew a circle on her own initiative."
+        },
+        {
+         "key": "B",
+         "text": "did not understand what a wheel looked like."
+        },
+        {
+         "key": "C",
+         "text": "included a symbol representing movement."
+        },
+        {
+         "key": "D",
+         "text": "was the first person to use lines of motion."
+        }
+       ]
+      },
+      {
+       "n": 29,
+       "text": "From the experiment described in Part 1, the writer found that the blind subjects",
+       "options": [
+        {
+         "key": "A",
+         "text": "had good understanding of symbols representing movement."
+        },
+        {
+         "key": "B",
+         "text": "could control the movement of wheels very accurately."
+        },
+        {
+         "key": "C",
+         "text": "worked together well as a group in solving problems."
+        },
+        {
+         "key": "D",
+         "text": "got better results than the sighted undergraduates."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "R3-2",
+     "type": "matching",
+     "range": [
+      30,
+      32
+     ],
+     "instructions": [
+      "Look at the following diagrams (Questions 30–32), and the list of types of movement below.",
+      "Match each diagram to the type of movement **A–E** generally assigned to it in the experiment.",
+      "Choose the correct letter **A–E** and write them in boxes 30–32 on your answer sheet."
+     ],
+     "image": "images/C4/C4-T1-R3-diagram.png",
+     "options": [
+      {
+       "key": "A",
+       "text": "steady spinning"
+      },
+      {
+       "key": "B",
+       "text": "jerky movement"
+      },
+      {
+       "key": "C",
+       "text": "rapid spinning"
+      },
+      {
+       "key": "D",
+       "text": "wobbling movement"
+      },
+      {
+       "key": "E",
+       "text": "use of brakes"
+      }
+     ],
+     "questions": [
+      {
+       "n": 30,
+       "text": "Diagram 30"
+      },
+      {
+       "n": 31,
+       "text": "Diagram 31"
+      },
+      {
+       "n": 32,
+       "text": "Diagram 32"
+      }
+     ]
+    },
+    {
+     "id": "R3-3",
+     "type": "completion",
+     "range": [
+      33,
+      39
+     ],
+     "instructions": [
+      "Complete the summary below using words from the box.",
+      "Write your answers in boxes 33–39 on your answer sheet.",
+      "**NB** *You may use any word more than once.*"
+     ],
+     "content": [
+      {
+       "t": "p",
+       "text": "In the experiment described in Part 2, a set of word {{33}} was used to investigate whether blind and sighted people perceived the symbolism in abstract {{34}} in the same way. Subjects were asked which word fitted best with a circle and which with a square. From the {{35}} volunteers, everyone thought a circle fitted 'soft' while a square fitted 'hard'. However, only 51% of the {{36}} volunteers assigned a circle to {{37}}. When the test was later repeated with {{38}} volunteers, it was found that they made {{39}} choices."
+      },
+      {
+       "t": "table",
+       "header": 0,
+       "rows": [
+        [
+         "associations",
+         "blind",
+         "deep",
+         "hard"
+        ],
+        [
+         "hundred",
+         "identical",
+         "pairs",
+         "shapes"
+        ],
+        [
+         "sighted",
+         "similar",
+         "shallow",
+         "soft"
+        ],
+        [
+         "words",
+         "",
+         "",
+         ""
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "id": "R3-4",
+     "type": "choice",
+     "range": [
+      40,
+      40
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B**, **C** or **D**.",
+      "Write your answer in box 40 on your answer sheet."
+     ],
+     "questions": [
+      {
+       "n": 40,
+       "text": "Which of the following statements best summarises the writer's general conclusion?",
+       "options": [
+        {
+         "key": "A",
+         "text": "The blind represent some aspects of reality differently from sighted people."
+        },
+        {
+         "key": "B",
+         "text": "The blind comprehend visual metaphors in similar ways to sighted people."
+        },
+        {
+         "key": "C",
+         "text": "The blind may create unusual and effective symbols to represent reality."
+        },
+        {
+         "key": "D",
+         "text": "The blind may be successful artists if given the right training."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "answers": {
+  "1": {
+   "a": [
+    "FALSE"
+   ]
+  },
+  "2": {
+   "a": [
+    "FALSE"
+   ]
+  },
+  "3": {
+   "a": [
+    "TRUE"
+   ]
+  },
+  "4": {
+   "a": [
+    "TRUE"
+   ]
+  },
+  "5": {
+   "a": [
+    "FALSE"
+   ]
+  },
+  "6": {
+   "a": [
+    "NOT GIVEN"
+   ]
+  },
+  "7": {
+   "a": [
+    "TRUE"
+   ]
+  },
+  "8": {
+   "a": [
+    "NOT GIVEN"
+   ]
+  },
+  "9": {
+   "a": [
+    "M"
+   ]
+  },
+  "10": {
+   "a": [
+    "E"
+   ]
+  },
+  "11": {
+   "a": [
+    "G"
+   ]
+  },
+  "12": {
+   "a": [
+    "P"
+   ]
+  },
+  "13": {
+   "a": [
+    "J"
+   ]
+  },
+  "14": {
+   "a": [
+    "B"
+   ]
+  },
+  "15": {
+   "a": [
+    "taste buds"
+   ]
+  },
+  "16": {
+   "a": [
+    "baleen",
+    "the baleen whales"
+   ],
+   "k": "baleen / the baleen whales"
+  },
+  "17": {
+   "a": [
+    "forward and downward",
+    "downward and forward"
+   ],
+   "k": "IN EITHER ORDER, BOTH REQUIRED FOR ONE MARK forward downward"
+  },
+  "18": {
+   "a": [
+    "freshwater dolphin",
+    "freshwater dolphins",
+    "the freshwater dolphin",
+    "the freshwater dolphins"
+   ],
+   "k": "freshwater dolphin(s) / the freshwater dolphin(s)"
+  },
+  "19": {
+   "a": [
+    "water",
+    "the water"
+   ],
+   "k": "water / the water"
+  },
+  "20": {
+   "a": [
+    "lower frequencies",
+    "the lower frequencies"
+   ],
+   "k": "lower frequencies / the lower frequencies"
+  },
+  "21": {
+   "a": [
+    "bowhead and humpback",
+    "humpback and bowhead"
+   ],
+   "k": "IN EITHER ORDER, BOTH REQUIRED FOR ONE MARK bowhead humpback"
+  },
+  "22": {
+   "a": [
+    "touch",
+    "sense of touch"
+   ],
+   "k": "touch / sense of touch"
+  },
+  "23": {
+   "a": [
+    "freshwater dolphin",
+    "freshwater dolphins",
+    "the freshwater dolphin",
+    "the freshwater dolphins"
+   ],
+   "k": "freshwater dolphin(s) / the freshwater dolphin(s)"
+  },
+  "24": {
+   "a": [
+    "airborne flying fish"
+   ]
+  },
+  "25": {
+   "a": [
+    "clear water",
+    "clear waters",
+    "clear open water",
+    "clear open waters"
+   ],
+   "k": "clear water(s) / clear open water(s)"
+  },
+  "26": {
+   "a": [
+    "acoustic sense",
+    "the acoustic sense"
+   ],
+   "k": "acoustic sense / the acoustic sense"
+  },
+  "27": {
+   "a": [
+    "C"
+   ]
+  },
+  "28": {
+   "a": [
+    "C"
+   ]
+  },
+  "29": {
+   "a": [
+    "A"
+   ]
+  },
+  "30": {
+   "a": [
+    "E"
+   ]
+  },
+  "31": {
+   "a": [
+    "C"
+   ]
+  },
+  "32": {
+   "a": [
+    "A"
+   ]
+  },
+  "33": {
+   "a": [
+    "pairs"
+   ]
+  },
+  "34": {
+   "a": [
+    "shapes"
+   ]
+  },
+  "35": {
+   "a": [
+    "sighted"
+   ]
+  },
+  "36": {
+   "a": [
+    "sighted"
+   ]
+  },
+  "37": {
+   "a": [
+    "deep"
+   ]
+  },
+  "38": {
+   "a": [
+    "blind"
+   ]
+  },
+  "39": {
+   "a": [
+    "similar"
+   ]
+  },
+  "40": {
+   "a": [
+    "B"
+   ]
+  }
+ },
+ "issues": [
+  "Reading Passage 1 has no printed title (Question 14 asks for the most suitable title); the placeholder 'Reading Passage 1' is used.",
+  "Reading Q17 and Q21: the table prints two blanks for one question ('17 ...... and ......', '21 ...... whales and ...... whales'); the key requires both words (IN EITHER ORDER, BOTH REQUIRED FOR ONE MARK), so each is rendered as a single gap ({{17}}, '{{21}} whales') accepting e.g. 'forward and downward' / 'bowhead and humpback'.",
+  "Reading Q30–32: the questions are the three printed wheel diagrams (group image); question texts 'Diagram 30/31/32' are labels added for the app.",
+  "Reading Q33–39: the summary uses a box of words (not lettered), so answers are the words themselves; the word box is reproduced as a table."
+ ]
+}

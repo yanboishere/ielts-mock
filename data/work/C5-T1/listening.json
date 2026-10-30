@@ -1,0 +1,658 @@
+{
+ "parts": [
+  {
+   "part": 1,
+   "range": [
+    1,
+    10
+   ],
+   "pages": [
+    11,
+    12
+   ],
+   "groups": [
+    {
+     "id": "L1-1",
+     "type": "completion",
+     "range": [
+      1,
+      4
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **NO MORE THAN TWO WORDS AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Dreamtime travel agency"
+      },
+      {
+       "t": "sub",
+       "text": "Tour information"
+      },
+      {
+       "t": "note",
+       "text": "*Example* Holiday name: *Whale Watch* Experience"
+      },
+      {
+       "t": "table",
+       "header": 0,
+       "rows": [
+        [
+         "Holiday length",
+         "2 days"
+        ],
+        [
+         "Type of transportation",
+         "{{1}}"
+        ],
+        [
+         "Maximum group size",
+         "{{2}}"
+        ],
+        [
+         "Next tour date",
+         "{{3}}"
+        ],
+        [
+         "Hotel name",
+         "The {{4}}"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L1-2",
+     "type": "multi",
+     "range": [
+      5,
+      6
+     ],
+     "n": [
+      5,
+      6
+     ],
+     "select": 2,
+     "instructions": [
+      "Choose **TWO** letters **A–E**."
+     ],
+     "text": "Which **TWO** things are included in the price of the tour?",
+     "options": [
+      {
+       "key": "A",
+       "text": "fishing trip"
+      },
+      {
+       "key": "B",
+       "text": "guided bushwalk"
+      },
+      {
+       "key": "C",
+       "text": "reptile park entry"
+      },
+      {
+       "key": "D",
+       "text": "table tennis"
+      },
+      {
+       "key": "E",
+       "text": "tennis"
+      }
+     ]
+    },
+    {
+     "id": "L1-3",
+     "type": "completion",
+     "range": [
+      7,
+      10
+     ],
+     "instructions": [
+      "Complete the sentences below.",
+      "Write **NO MORE THAN THREE WORDS AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "p",
+       "text": "The tour costs ${{7}}."
+      },
+      {
+       "t": "p",
+       "text": "Bookings must be made no later than {{8}} days in advance."
+      },
+      {
+       "t": "p",
+       "text": "A {{9}} deposit is required."
+      },
+      {
+       "t": "p",
+       "text": "The customer's reference number is {{10}}."
+      }
+     ]
+    }
+   ],
+   "transcript": "RECEPTIONIST: Good afternoon, Dreamtime Travel. How can I help you?\nCUSTOMER: Oh hello. I'm interested in the holidays you offer along the coast near here.\nRECEPTIONIST: Yes. We operate several tours up the coast. Where in particular did you want to go?\nCUSTOMER: Well, I like the sound of the holiday that mentioned whales. Was it 'Whale Watching'?\nRECEPTIONIST: Oh, that's our Whale Watch Experience. It's very popular and it's based in a lovely little town with nice beaches.\nCUSTOMER: Oh right, and how long does it last?\nRECEPTIONIST: It's two days – that includes four hours' travel time each way from here.\nCUSTOMER: Good, I don't want to be away any longer than that. So is that by coach?\nRECEPTIONIST: Actually it's by minibus. We like to keep those tours small and [Q1] personal so we don't take a whole coachload of people. In fact, we only take up to fifteen people on this tour, although we do run it [Q2] with just twelve or thirteen.\nCUSTOMER: Oh, right. So do you run these tours often?\nRECEPTIONIST: Well it depends on the time of year. Of course in peak times like the summer holidays we do them every weekend, but at the moment it's usually once a month at most.\nCUSTOMER: And when is the next one going?\nRECEPTIONIST: Mmm, let me see. Um, there's one in three weeks' time which is April the 18th, and then we don't have another one until June the 2nd. [Q3]\nCUSTOMER: All right, and is April a good time to go?\nRECEPTIONIST: Pretty good. Though the really good time is later in the year. I have to say though that the whale sighting is only one of the many things offered.\nCUSTOMER: Really?\nRECEPTIONIST: Yes. The hotel itself where you stay has great facilities. It's called The Pallisades.\nCUSTOMER: The Paris what?\nRECEPTIONIST: No, it's actually The Pallisades, P-A-L-L-I-S-A-D-E-S. It's right on [Q4] the main beach there\nCUSTOMER: Oh, I see.\nRECEPTIONIST: All of the rooms have nice views and the food is really good there too.\nCUSTOMER: Oh right.\nCUSTOMER: And what about the other things? You know, that are included in the price.\nRECEPTIONIST: Oh, there are lots of things. If you don't want to do the whale watch cruise, your guide will take anyone who is interested either on a bushwalk through the national park near the hotel, and there's no [Q5/Q6] extra charge for that, or on a fishing trip. That's an extra $12 I think. And there's also a reptile park in town – that costs more or less the same.\nCUSTOMER: No, I think I'd prefer whales to snakes.\nRECEPTIONIST: Yeah. And if you just want to relax you are free to sit by the hotel pool or go down the beach. Oh, and they also have tennis courts at the hotel, but you have to pay for those by the hour. But there are table tennis tables downstairs and they're part of the [Q5/Q6] accommodation package. Just speak to your guide.\nCUSTOMER: Well that sounds good. So how much is the basic tour price?\nRECEPTIONIST: At this time of year it's usually around $300 but let me check. Er...oh, it's actually $280. [Q7]\nCUSTOMER: And the next tour, are there any places on that one?\nRECEPTIONIST: How many people is it for?\nCUSTOMER: There are two of us.\nRECEPTIONIST: Yes, that should be fine. Can I just mention that we require all bookings to be made at least fourteen days before you travel to [Q8] avoid cancellations of tours. And if you cancel within seven days of departure you will have to pay 50% of your total booking.\nCUSTOMER: OK.\nRECEPTIONIST: And you also need to pay a 20% deposit at the time of booking. [Q9]\nCUSTOMER: Can I pay that by credit card?\nRECEPTIONIST: Yes, you can.\nCUSTOMER: All right, what I'll do is I'll talk to my partner and get back to you.\nRECEPTIONIST: Fine. So I'll make a provisional booking, shall I? – two for the Whale Watch Experience. Let me issue you with a customer reference number for when you call back. Do you have a pen?\nCUSTOMER: Yes.\nRECEPTIONIST: OK, it's three nine seven, four five, T. That's T for tango. When [Q10] you call back, ask to speak to the Tour Manager, that's me, Tracy.\nCUSTOMER: Fine. I will."
+  },
+  {
+   "part": 2,
+   "range": [
+    11,
+    20
+   ],
+   "pages": [
+    13
+   ],
+   "groups": [
+    {
+     "id": "L2-1",
+     "type": "completion",
+     "range": [
+      11,
+      19
+     ],
+     "instructions": [
+      "Complete the table below.",
+      "Write **NO MORE THAN THREE WORDS** for each answer."
+     ],
+     "content": [
+      {
+       "t": "table",
+       "header": 1,
+       "rows": [
+        [
+         "Brand of Cot",
+         "Good Points",
+         "Problems",
+         "Verdict"
+        ],
+        [
+         "*Baby Safe*",
+         "Easy to {{11}}",
+         "• Did not have any {{12}}\n• Babies could trap their {{13}} in the side bar",
+         "{{14}}"
+        ],
+        [
+         "*Choice Cots*",
+         "Easy to {{15}}",
+         "• Side did not drop down\n• Spaces between the bars were {{16}}",
+         "{{17}}"
+        ],
+        [
+         "*Mother's Choice*",
+         "Base of cot could be moved",
+         "• Did not have any {{18}}\n• Pictures could be removed easily",
+         "{{19}}"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L2-2",
+     "type": "completion",
+     "range": [
+      20,
+      20
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **ONE WORD ONLY** for the answer."
+     ],
+     "content": [
+      {
+       "t": "li",
+       "text": "Metal should not be rusted or bent"
+      },
+      {
+       "t": "li",
+       "text": "Edges of cot should not be {{20}}"
+      }
+     ]
+    }
+   ],
+   "transcript": "Hello and welcome to today's 'Buyer Beware' programme, where we give you some tips on how to spend your money wisely. Now, in today's show we're looking at beds for children and babies. Let's start by looking at baby cots, that's for children of up to three years old. We tested three different cots all in the budget price range and, as usual, we will feature the good points, the problems and our verdict.\nThe first cot we looked at was by Baby Safe and it had several good points to recommend it. Our testers liked the fact that it had four wheels, so it was easy to move around. The only [Q11] slight problems with this cot were that it had no brakes, but they didn't think that mattered [Q12] too much. At first they were a bit concerned about the side bar, because they felt babies [Q13] could trap their fingers in it, but our testers felt that this was unlikely to happen so they have given this one a verdict of 'satisfactory'. [Q14]\nThe next cot was by Choice Cots and this time our testers were pleased to find a cot which is simple to put together – unlike others we looked at. On the minus side, our testers did [Q15] not like the fact that the side of the cot did not drop down, making it difficult to pick up newborn babies. However, the real problem with this cot was the space between the bars: our testers found they were too wide and a baby could easily trap his head. We felt this [Q16] was a real safety hazard and so we have labelled this one dangerous, I'm afraid. [Q17]\nAnd finally better news for the Mother's Choice cot. This cot was slightly different in that, although the side bar did not drop down, the base could be raised or lowered into two different positions making it safe as well as convenient. The negatives for this one were quite minor: the only niggle everyone had was the fact that it has no wheels and the only [Q18] other problem anyone could find, was that there were pictures which were simply stuck on and so could easily become detached. The makers have now promised to discontinue this practice. As this cot will then be safe in every way, we have made the Mother's Choice cot our best buy. Congratulations Mother's Choice! [Q19]\nSo, what features should you look for in a baby's cot? Well obviously safety is a very important factor as well as comfort and convenience. We recommend that, if you are buying a cot, do make sure that any metal present is not rusted or bent in any way. You should ensure your cot has only rounded or smooth edging without any sharp edges, [Q20] this is especially important for wooden cots.\nAnd now on to beds for toddlers..."
+  },
+  {
+   "part": 3,
+   "range": [
+    21,
+    30
+   ],
+   "pages": [
+    14,
+    15
+   ],
+   "groups": [
+    {
+     "id": "L3-1",
+     "type": "choice",
+     "range": [
+      21,
+      23
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "questions": [
+      {
+       "n": 21,
+       "text": "Andrew has worked at the hospital for",
+       "options": [
+        {
+         "key": "A",
+         "text": "two years."
+        },
+        {
+         "key": "B",
+         "text": "three years."
+        },
+        {
+         "key": "C",
+         "text": "five years."
+        }
+       ]
+      },
+      {
+       "n": 22,
+       "text": "During the course Andrew's employers will pay",
+       "options": [
+        {
+         "key": "A",
+         "text": "his fees."
+        },
+        {
+         "key": "B",
+         "text": "his living costs."
+        },
+        {
+         "key": "C",
+         "text": "his salary."
+        }
+       ]
+      },
+      {
+       "n": 23,
+       "text": "The part-time course lasts for",
+       "options": [
+        {
+         "key": "A",
+         "text": "one whole year."
+        },
+        {
+         "key": "B",
+         "text": "18 months."
+        },
+        {
+         "key": "C",
+         "text": "two years."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L3-2",
+     "type": "multi",
+     "range": [
+      24,
+      25
+     ],
+     "n": [
+      24,
+      25
+     ],
+     "select": 2,
+     "instructions": [
+      "Choose **TWO** letters **A–E**."
+     ],
+     "text": "What **TWO** types of coursework are required **each month** on the part-time course?",
+     "options": [
+      {
+       "key": "A",
+       "text": "a case study"
+      },
+      {
+       "key": "B",
+       "text": "an essay"
+      },
+      {
+       "key": "C",
+       "text": "a survey"
+      },
+      {
+       "key": "D",
+       "text": "a short report"
+      },
+      {
+       "key": "E",
+       "text": "a study diary"
+      }
+     ]
+    },
+    {
+     "id": "L3-3",
+     "type": "completion",
+     "range": [
+      26,
+      30
+     ],
+     "instructions": [
+      "Complete the summary below.",
+      "Write **NO MORE THAN THREE WORDS AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Modular Courses"
+      },
+      {
+       "t": "p",
+       "text": "Students study {{26}} during each module. A module takes {{27}} and the work is very {{28}}. To get a Diploma each student has to study {{29}} and then work on {{30}} in depth."
+      }
+     ]
+    }
+   ],
+   "transcript": "ANDREW: Excuse me. I was told to come here for advice about, erm. Management Diploma courses?\nMONICA: You've certainly come to the right place. Hi, my name is Monica.\nANDREW: Nice to meet you. My name is Andrew, Andrew Harris.\nMONICA: So, Andrew, have you seen our diploma course prospectus yet?\nANDREW: Yes, I've already looked at it. In fact, I thought the information on course content was really useful, but I'm afraid I'm a bit confused by all the different ways you can do the course: full-time intensive, part-time and so on.\nMONICA: Well, let's see if I can help. I think each course type has its advantages and disadvantages, so it really depends on you – your own study habits, and your financial circumstances, of course. Are you working at the moment?\nANDREW: Yes, I've been working in the administration section of the local hospital for the last three years. And before that I worked in the office of a computer [Q21] engineering company for two years. So, I've got about five years of relevant work experience. And what I'm hoping to focus on is Personnel Management.\nMONICA: I see. And are you planning to leave your current job to study, or are you thinking about just taking a year off?\nANDREW: I want to know what my options are, really. I don't want to quit my job or anything and my employers are keen for me to get some more qualifications but obviously, it would be better if I could do a course without taking too much time away from work.\nMONICA: Right, so you don't really want to do the full-time course, then?\nANDREW: No, not really. It's also a question of finances. You see, my office have agreed to pay the cost of the course itself, but I would have to take unpaid leave if [Q22] I want to study full-time and, well, I don't think I could afford to support myself with no salary for a whole year.\nMONICA: OK. Well, you have two other possibilities: you could either do the part-time course – that would be over two years and you wouldn't have to take any time [Q23] off work – or you could do what we call a 'modular' course. You could do that in eighteen months if you wanted – or longer, it's quite flexible and it would be up to you.\nANDREW: Mmm. So what does the part-time course involve?\nMONICA: For that you would join an evening class and have a lecture twice a week. Then, you'd have to attend a seminar or discussion workshop one weekend a month.\nANDREW: What kind of coursework would I have to do?\nMONICA: Well, it's a mixture. You'd be expected to write an essay each month, which [Q24/Q25] counts towards your final assessment. You have a case study to do by the end of the course, which might involve doing a survey or something like that, and also you need to hand in a short report every four weeks. [Q24/Q25]\nANDREW: So, that's quite a lot of work, then, on top of working every day. It sounds like a lot of studying – and really tiring.\nMONICA: Yes, you certainly wouldn't have much free time!\nANDREW: What about the 'modular' course? What would I have to do for that?\nMONICA: That's where you get the opportunity to study full-time for short periods. [Q26] That way you can cover a lot of coursework and attend lectures and seminars during the day. And each module lasts for one term, say, about twelve weeks [Q27] at a time. There are obvious advantages in this – the main one being that you can study in a much more intensive way, which suits some people much better. [Q28]\nANDREW: And how many of these 'modules' would I have to do to get the diploma?\nMONICA: The current programme is two modules – and then you have to choose [Q29] a topic to work in more depth – but you can base that on your job, and so [Q30] you don't need to be away from the office, and how long it takes is up to you. The important thing is that you don't have to study and work. You can focus on one thing at a time.\nANDREW: Yes, I can see that. It certainly sounds attractive! It would be more expensive, though. I mean, I'd have to support myself without pay for each module.\nMONICA: That's true, so that might be a problem for you. Look, why don't you talk this over with your employers and ..."
+  },
+  {
+   "part": 4,
+   "range": [
+    31,
+    40
+   ],
+   "pages": [
+    16
+   ],
+   "groups": [
+    {
+     "id": "L4-1",
+     "type": "completion",
+     "range": [
+      31,
+      35
+     ],
+     "instructions": [
+      "Complete the sentences below.",
+      "Write **NO MORE THAN THREE WORDS** for each answer."
+     ],
+     "content": [
+      {
+       "t": "p",
+       "text": "According to George Bernard Shaw, men are supposed to understand {{31}}, economics and finance."
+      },
+      {
+       "t": "p",
+       "text": "However, women are more prepared to {{32}} about them."
+      },
+      {
+       "t": "p",
+       "text": "Women tend to save for {{33}} and a house."
+      },
+      {
+       "t": "p",
+       "text": "Men tend to save for {{34}} and for retirement."
+      },
+      {
+       "t": "p",
+       "text": "Women who are left alone may have to pay for {{35}} when they are old."
+      }
+     ]
+    },
+    {
+     "id": "L4-2",
+     "type": "completion",
+     "range": [
+      36,
+      40
+     ],
+     "instructions": [
+      "Complete the summary below.",
+      "Write **NO MORE THAN THREE WORDS AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Saving for the future"
+      },
+      {
+       "t": "p",
+       "text": "Research indicates that many women only think about their financial future when a {{36}} occurs. This is the worst time to make decisions. It is best for women to start thinking about pensions when they are in their {{37}}. A good way for women to develop their {{38}} in dealing with financial affairs would be to attend classes in {{39}}. When investing in stocks and shares, it is suggested that women should put a high proportion of their savings in {{40}}. In such ways, women can have a comfortable, independent retirement."
+      }
+     ]
+    }
+   ],
+   "transcript": "OK, so we've been looking at the attitudes of various social and cultural groups towards the management of their personal finances – how important they feel it is to save money, and what they save their money for. One aspect that we haven't yet considered is gender. So if we consider gender issues we're basically asking whether men and women have different attitudes towards saving money, and whether they save money for different things.\nBack in 1928 the British writer George Bernard Shaw wrote in his *Intelligent Women's Guide to Socialism and Capitalism* that 'A man is supposed to understand politics. [Q31] economics and finance and is therefore unwilling to accept essential instruction.' He also said, 'A woman, having fewer pretensions, is far more willing to learn'. Now, though these [Q32] days people might question a lot of the assumptions contained in those statements, recent research does suggest that there are some quite fundamental differences between men and women in their attitudes to economic matters.\nLet's look at what men and women actually save for. Research studies of women in North America have found that women are far more likely to save for their children's [Q33] education and they are also more likely to save up in order to buy a house one day. The same studies have found that men, on the other hand, tend to save for a car, which [Q34] by the way takes a surprisingly large amount of the household budget in North America. But the other main priority for men when saving money is their retirement. When they're earning, they're far more likely to put money aside for their old age than women are.\nNow this is rather disturbing, because in fact the need for women to save for their old age is far greater than for men. Let's consider this for a moment. To start with, it is a fact that throughout the world, women are likely to live many years longer than men, so they need money to support them during this time. Since women are likely to be the ones left without a partner in old age, they may therefore have to pay for nursing care, because [Q35] they don't have a spouse to look after them. Furthermore the high divorce rates in North America are creating a poverty cycle for women. It is the divorced women who will most often have to look after the children and thus they need more money to look after not just themselves but others.\nSo what can be done about this situation? The population in North America is likely to contain an increasing number of elderly women. The research indicates that at present for women it takes a crisis to make them think about their future financial situation. [Q36] But of course this is the very worst time for anyone to make important decisions. Women today need to look ahead, think ahead – not wait until they're under pressure. Even women in their early twenties need to think about pensions, for example, and with [Q37] increasing numbers of women in professional positions there are signs that this is beginning to happen. Then research also suggests that women avoid dealing effectively with their economic situation because of a lack of confidence. The best way for them to [Q38] overcome this is by getting themselves properly informed so they are less dependent on other people's advice. A number of initiatives have been set up to help them do this. This College, for example, is one of the educational institutions which offers night classes in Money Management, and increasing numbers of women are enrolling on such courses. [Q39] Here, they can be given advice on different ways of saving. Many women are unwilling to invest in stocks and shares, for instance, but these can be extremely profitable. It is usually advised that at least 70% of a person's savings should be in low-risk investments but for [Q40] the rest, financial advisors often advise taking some well-informed risks. Initiatives such as this can give women the economic skills and knowledge they need for a comfortable, independent retirement.\nThe increasing proportion of elderly women in the population is likely to have other economic consequences ..."
+  }
+ ],
+ "answers": {
+  "1": {
+   "a": [
+    "by minibus",
+    "a minibus"
+   ],
+   "k": "by minibus / a minibus"
+  },
+  "2": {
+   "a": [
+    "15",
+    "15 people"
+   ],
+   "k": "15 / 15 people"
+  },
+  "3": {
+   "a": [
+    "April 18th",
+    "April the 18th"
+   ],
+   "k": "April (the) 18th"
+  },
+  "4": {
+   "a": [
+    "Pallisades"
+   ]
+  },
+  "5": {
+   "a": [
+    "B"
+   ]
+  },
+  "6": {
+   "a": [
+    "D"
+   ]
+  },
+  "7": {
+   "a": [
+    "280"
+   ]
+  },
+  "8": {
+   "a": [
+    "14"
+   ]
+  },
+  "9": {
+   "a": [
+    "20%"
+   ]
+  },
+  "10": {
+   "a": [
+    "39745T"
+   ]
+  },
+  "11": {
+   "a": [
+    "move around",
+    "move about"
+   ],
+   "k": "move around / move about"
+  },
+  "12": {
+   "a": [
+    "brakes"
+   ]
+  },
+  "13": {
+   "a": [
+    "fingers"
+   ]
+  },
+  "14": {
+   "a": [
+    "satisfactory"
+   ]
+  },
+  "15": {
+   "a": [
+    "put together",
+    "put it together"
+   ],
+   "k": "put (it) together"
+  },
+  "16": {
+   "a": [
+    "too wide"
+   ]
+  },
+  "17": {
+   "a": [
+    "dangerous"
+   ]
+  },
+  "18": {
+   "a": [
+    "wheels"
+   ]
+  },
+  "19": {
+   "a": [
+    "best",
+    "the best",
+    "best buy",
+    "the best buy",
+    "safe"
+   ],
+   "k": "(the) best / (the) best buy / safe"
+  },
+  "20": {
+   "a": [
+    "sharp"
+   ]
+  },
+  "21": {
+   "a": [
+    "B"
+   ]
+  },
+  "22": {
+   "a": [
+    "A"
+   ]
+  },
+  "23": {
+   "a": [
+    "C"
+   ]
+  },
+  "24": {
+   "a": [
+    "B"
+   ]
+  },
+  "25": {
+   "a": [
+    "D"
+   ]
+  },
+  "26": {
+   "a": [
+    "full-time"
+   ]
+  },
+  "27": {
+   "a": [
+    "a term",
+    "one term"
+   ],
+   "k": "a term / one term"
+  },
+  "28": {
+   "a": [
+    "intensive"
+   ]
+  },
+  "29": {
+   "a": [
+    "two modules",
+    "two terms",
+    "for two terms"
+   ],
+   "k": "two modules / (for) two terms"
+  },
+  "30": {
+   "a": [
+    "a topic",
+    "one topic"
+   ],
+   "k": "a topic / one topic"
+  },
+  "31": {
+   "a": [
+    "politics"
+   ]
+  },
+  "32": {
+   "a": [
+    "learn"
+   ]
+  },
+  "33": {
+   "a": [
+    "children's education",
+    "their children's education"
+   ],
+   "k": "children's education / their children's education"
+  },
+  "34": {
+   "a": [
+    "a car"
+   ]
+  },
+  "35": {
+   "a": [
+    "nursing care"
+   ]
+  },
+  "36": {
+   "a": [
+    "crisis"
+   ]
+  },
+  "37": {
+   "a": [
+    "early twenties"
+   ]
+  },
+  "38": {
+   "a": [
+    "confidence"
+   ]
+  },
+  "39": {
+   "a": [
+    "money management"
+   ]
+  },
+  "40": {
+   "a": [
+    "low-risk investments"
+   ]
+  }
+ },
+ "issues": [
+  "Listening Section 1: the book prints the sub-heading 'Questions 1–6' above the notes, but the notes contain only gaps 1–4 and Questions 5 and 6 follow as a separate 'Choose TWO letters' task (answer key: 5–6 IN EITHER ORDER B, D); the notes group is therefore given the range 1–4."
+ ]
+}

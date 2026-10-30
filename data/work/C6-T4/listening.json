@@ -1,0 +1,702 @@
+{
+ "parts": [
+  {
+   "part": 1,
+   "range": [
+    1,
+    10
+   ],
+   "pages": [
+    79
+   ],
+   "groups": [
+    {
+     "id": "L1-1",
+     "type": "completion",
+     "range": [
+      1,
+      10
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **NO MORE THAN TWO WORDS AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "note",
+       "text": "*Example*"
+      },
+      {
+       "t": "p",
+       "text": "Title of conference: *Future Directions* in Computing"
+      },
+      {
+       "t": "p",
+       "text": "**Three day cost:** £ {{1}}"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "Payment by {{2}} or on arrival"
+      },
+      {
+       "t": "sub",
+       "text": "Accommodation:"
+      },
+      {
+       "t": "p",
+       "text": "Conference Centre"
+      },
+      {
+       "t": "li",
+       "text": "£ {{3}} per night"
+      },
+      {
+       "t": "li",
+       "text": "near to conference rooms"
+      },
+      {
+       "t": "p",
+       "text": "Guest House"
+      },
+      {
+       "t": "li",
+       "text": "£ {{4}} per night"
+      },
+      {
+       "t": "li",
+       "text": "approximately {{5}} walk from Conference Centre"
+      },
+      {
+       "t": "sub",
+       "text": "Further documents to be sent:"
+      },
+      {
+       "t": "li",
+       "text": "{{6}}"
+      },
+      {
+       "t": "li",
+       "text": "an application form"
+      },
+      {
+       "t": "sub",
+       "text": "Location:"
+      },
+      {
+       "t": "p",
+       "text": "Conference Centre is on {{7}} Park Road, next to the {{8}} ."
+      },
+      {
+       "t": "p",
+       "text": "Taxi costs £ {{9}} or take bus number {{10}} from station."
+      }
+     ]
+    }
+   ],
+   "transcript": "CLERK: Conference Centre Reservations. Good morning.\nWOMAN: Hi. I'm interested in the computing conference next month.\nCLERK: Future Directions in Computing?\nWOMAN: Yes, that's right. Could I ask you a few questions about it?\nCLERK: Of course.\nWOMAN: OK. I know the conference is for three days but actually I want to attend on the Friday and Saturday only. Will that work out to be any cheaper?\nCLERK: Let me have a look. Well, you could register for the two days separately, but that wouldn't actually save you very much as it still costs £35 for each day. In fact, if you could register for the three days, you also get an invitation to a free dinner on the Saturday night, so that's probably the better option.\nWOMAN: Right, I'll do that. How much will the fees be in that case?\nCLERK: It's £75. [Q1]\nWOMAN: All right. I'd like to register for the full three days. Now, can I pay that by credit card?\nCLERK: I'm afraid not. You'll have to send a cheque to us, or you can pay at [Q2] the conference office.\nWOMAN: Fine. So it's probably easiest if I pay by cheque. Now then, what else do I need to arrange? Right. How about accommodation? I guess that's not included in the price?\nCLERK: No, I'm sorry, it's not, but we do have a few rooms available for delegates at the conference centre if you'd like. Those are very cheap but if you're interested you'll need to book soon, because there's always a heavy demand for them. They are only £15 per night, but they are very [Q3] basic and you'd have to get your own breakfast, because they don't provide you with that. But it's very convenient, because it's in the same building as the conference rooms.\nWOMAN: Uhuh.\nCLERK: Or there's a very reasonable guest house which is £25 per night. And I [Q4] think that includes your breakfast.\nWOMAN: Is it close to the conference centre?\nCLERK: It would be about a ten-minute walk away from here. [Q5]\nWOMAN: I see. That sounds quite reasonable.\nCLERK: The details are all in our conference pack, which I'll send you. [Q6]\nWOMAN: Great, thanks. That'll be very useful. Oh, and can you also send me an application form?\nCLERK: Of course. I'll get that in the post to you straight away. Is there anything else?\nWOMAN: Yes, actually. Can you tell me where exactly the conference centre is?\nCLERK: Well, it's on South Park Road and it's right at the end of the road [Q7] next to the library. It's a ten-minute taxi ride from the station and will [Q8] cost you £5. Otherwise, you can take the bus which runs every half an [Q9] hour from the station – that's the 21A – and it brings you straight [Q10] to the conference centre.\nWOMAN: Right, got that."
+  },
+  {
+   "part": 2,
+   "range": [
+    11,
+    20
+   ],
+   "pages": [
+    80,
+    81
+   ],
+   "groups": [
+    {
+     "id": "L2-1",
+     "type": "matching",
+     "range": [
+      11,
+      13
+     ],
+     "instructions": [
+      "Which team will do each of the following jobs?",
+      "Choose **THREE** answers from the box and write the correct letter, **A–D**, next to questions 11–13."
+     ],
+     "optionsTitle": "Teams",
+     "options": [
+      {
+       "key": "A",
+       "text": "the blue team"
+      },
+      {
+       "key": "B",
+       "text": "the yellow team"
+      },
+      {
+       "key": "C",
+       "text": "the green team"
+      },
+      {
+       "key": "D",
+       "text": "the red team"
+      }
+     ],
+     "questions": [
+      {
+       "n": 11,
+       "text": "checking entrance tickets"
+      },
+      {
+       "n": 12,
+       "text": "preparing refreshments"
+      },
+      {
+       "n": 13,
+       "text": "directing car-park traffic"
+      }
+     ]
+    },
+    {
+     "id": "L2-2",
+     "type": "completion",
+     "range": [
+      14,
+      20
+     ],
+     "instructions": [
+      "Complete the table below.",
+      "Write **NO MORE THAN THREE WORDS AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Travel Expo"
+      },
+      {
+       "t": "sub",
+       "text": "Temporary Staff Orientation Programme"
+      },
+      {
+       "t": "table",
+       "header": 1,
+       "rows": [
+        [
+         "Time",
+         "Event",
+         "Details"
+        ],
+        [
+         "9.30 am",
+         "Talk by Anne Smith",
+         "• information about pay\n• will give out the {{14}} forms"
+        ],
+        [
+         "10.00 am",
+         "Talk by Peter Chen",
+         "• will discuss Conference Centre plan\n• will explain about arrangements for {{15}} and fire exits"
+        ],
+        [
+         "10.30 am",
+         "Coffee Break",
+         "• go to Staff Canteen on the {{16}}"
+        ],
+        [
+         "11.00 am",
+         "Video Presentation",
+         "• go to {{17}}\n• video title: {{18}}"
+        ],
+        [
+         "12.00",
+         "Buffet Lunch",
+         "• go to the {{19}} on 1st floor"
+        ],
+        [
+         "1.00 pm",
+         "Meet the {{20}}",
+         ""
+        ],
+        [
+         "3.00 pm",
+         "Finish",
+         ""
+        ]
+       ]
+      }
+     ]
+    }
+   ],
+   "transcript": "Good morning and welcome, everybody. I'm Jenny Stewart and I'm the Staff Manager here at the exhibition centre. We're expecting this year's International Travel Exhibition to attract over 10,000 visitors a day, ladies and gentlemen, and you are among the two hundred extra staff recruited to help look after them. Now, to help things run smoothly, we have divided you into four teams – the blue team, the green team, the red team, and the yellow team. So first I'll explain how the teams are divided up, and then we'll be giving you colour-coded T-shirts so we can identify you more easily. First of all, those who will be looking after the phones and handling all calls regarding the exhibition, you will be on the red team. Now, we've also put the entrance staff on the red team and you'll be stamping the entrance tickets [Q11] and giving out publicity leaflets, OK?\nThose of you involved in distributing entrance tickets will be on the yellow team and we've also put those of you who'll be staffing the information booths around the conference centre on the yellow team, so you'll be getting a yellow T-shirt. Now, most of the hospitality staff have been put in the blue team, so the chefs among you and the kitchen hands will [Q12] all need a blue T-shirt, but, because of the sheer numbers, all waiting staff will be on the yellow team, and this includes the bar staff among you. Those who will be monitoring and [Q13] directing the traffic in the car parks are on the green team, so you'll need to get a green T-shirt. This year we've also employed a considerable number of attendants to direct the human traffic around the conference centre. Now, you'll be working in the exhibition hall at all times, giving directions and generally helping people whenever you can, and you will be in the red team, so please collect a red T-shirt.\nRight, now that everyone knows what team they're in, we'll get on with the orientation and training programme and first I'll run through the rest of today's programme, which you should have in front of you, so that you can get a general idea of what else is in store today. This introduction finishes at 9.30 and then you'll be hearing from Anne Smith. Anne works in the accounts department on level two and she looks after all temporary staff, and so she is the person to see if you have any problems regarding pay. Anne will be explaining when and how you get this. She will also be handing out your tax forms. And I will just [Q14] stress that all tax forms must be completed and returned to Anne before your pay can be processed. Following Anne's talk you'll hear from Peter Chen, our Conference Manager, and he will be going over a plan of the conference centre with you, which will help you to orient yourselves. He will also go through the security arrangements with you and show [Q15] you the fire exits. Then at 10.30, there will be a coffee break in the staff canteen, which is located down on the ground floor. Now, after the break we'll be moving to a different [Q16] location for a video presentation, so instead of coming back here, we'd like you all to go to Lecture Room three-one-one. You'll find it on this same level, just down the hall, and [Q17] there you will be shown a video about important safety issues in the workplace, called Safety at Work. We'll finish off the morning with lunch, which should give everyone a [Q18] chance to meet and get to know each other, and we'll be serving you a buffet lunch in the Main Hall, which is on the first floor, from 12.00 o'clock. After lunch you'll be [Q19] divided up into your teams to meet your team leaders and we're hoping to be all [Q20] finished by 3.00 so I won't delay you any longer, and I'll hand over to ..."
+  },
+  {
+   "part": 3,
+   "range": [
+    21,
+    30
+   ],
+   "pages": [
+    82,
+    83
+   ],
+   "groups": [
+    {
+     "id": "L3-1",
+     "type": "completion",
+     "range": [
+      21,
+      25
+     ],
+     "instructions": [
+      "Complete the summary below.",
+      "Write **ONE WORD ONLY** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "The School of Education Libraries"
+      },
+      {
+       "t": "p",
+       "text": "The libraries on both sites provide internet access and have a variety of {{21}} materials on education."
+      },
+      {
+       "t": "p",
+       "text": "The Castle Road library has books on sociology, together with {{22}} and other resources relevant to the majority of {{23}} school subjects."
+      },
+      {
+       "t": "p",
+       "text": "The Fordham library includes resources for teaching in {{24}} education and special needs."
+      },
+      {
+       "t": "p",
+       "text": "Current issues of periodicals are available at both libraries, although {{25}} issues are only available at Fordham."
+      }
+     ]
+    },
+    {
+     "id": "L3-2",
+     "type": "completion",
+     "range": [
+      26,
+      27
+     ],
+     "instructions": [
+      "Answer the questions below.",
+      "Write **NO MORE THAN TWO WORDS AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "p",
+       "text": "Which books cannot be renewed by telephone or email? {{26}}"
+      },
+      {
+       "t": "p",
+       "text": "How much time is allowed to return recalled books? {{27}}"
+      }
+     ]
+    },
+    {
+     "id": "L3-3",
+     "type": "multi",
+     "range": [
+      28,
+      30
+     ],
+     "n": [
+      28,
+      29,
+      30
+     ],
+     "select": 3,
+     "instructions": [
+      "Choose **THREE** letters, **A–G**."
+     ],
+     "text": "Which **THREE** topics do this term's study skills workshops cover?",
+     "options": [
+      {
+       "key": "A",
+       "text": "An introduction to the Internet"
+      },
+      {
+       "key": "B",
+       "text": "How to carry out research for a dissertation"
+      },
+      {
+       "key": "C",
+       "text": "Making good use of the whole range of library services"
+      },
+      {
+       "key": "D",
+       "text": "Planning a dissertation"
+      },
+      {
+       "key": "E",
+       "text": "Standard requirements when writing a dissertation"
+      },
+      {
+       "key": "F",
+       "text": "Using the Internet when doing research"
+      },
+      {
+       "key": "G",
+       "text": "What books and technical resources are available in the library"
+      }
+     ]
+    }
+   ],
+   "transcript": "LIBRARIAN: Good afternoon. Can I help you?\nSTUDENT: Good afternoon. Yes, I've just transferred to the School of Education, and I'd like information about joining the library.\nLIBRARIAN: Well, the School of Education has libraries on two sites, as I'm sure you know. This one here is the Fordham Site, and the other is on Castle Road.\nSTUDENT: And is there any difference between the two libraries?\nLIBRARIAN: Not in terms of their facilities. Access to online databases and the Internet is available at both sites and each site has a range of reference [Q21] materials on education.\nSTUDENT: Oh yes. I see.\nLIBRARIAN: But the Castle Road site has books on the sociology of education and a collection of textbooks and teaching resources covering most of [Q22] the subjects taught in secondary schools. [Q23]\nSTUDENT: Ah, right, but I'm training to be a primary teacher so I need to look at materials for the five to eleven age group.\nLIBRARIAN: Then you've come to the right place. At Fordham we hold material relating to primary education, as well as special needs, but of [Q24] course you'll need to familiarise yourself with both sites to make the most of our resources.\nSTUDENT: You haven't mentioned periodicals. Are they held at both sites?\nLIBRARIAN: Current issues, yes but if you want to look at back issues you'll [Q25] need to use the CD-ROM databases which are held here at Fordham.\nSTUDENT: I see. Now, about borrowing books. I'm living out of town, so I'm hoping I can borrow quite a few items, and cut down on the number of trips I have to make.\nLIBRARIAN: Right, well, members can borrow two books at a time from each site.\nSTUDENT: Only two books?\nLIBRARIAN: Only two from each site, but that's four altogether.\nSTUDENT: Oh I see, and how long can I hang on to them for?\nLIBRARIAN: The borrowing period is one month, but of course books can be renewed. You can renew any item a maximum of three times.\nSTUDENT: Do I have to come to the library to do that?\nLIBRARIAN: No, you can do it by telephone or email, but you can't renew overdue books this way, only before or on the due date stamped [Q26] in the book. We'll need your full name, your borrower number and the name of the site library you borrowed the items from.\nSTUDENT: So theoretically I can borrow books for up to three months – is that what you're saying?\nLIBRARIAN: Yes, provided they're not recalled.\nSTUDENT: So, what happens then?\nLIBRARIAN: Well, sometimes an item is requested by another borrower, in which case we'd send you a letter, and you'd have to return the book within seven working days. Don't forget we're closed on [Q27] Sundays.\nSTUDENT: OK.\nSTUDENT: I expect it'll take me a while to find what I need. There's such a lot here.\nLIBRARIAN: Yes there is, but if you need help getting started, this term we're running three study skills workshops.\nSTUDENT: Oh? What are they on?\nLIBRARIAN: Er, let me see. The first one's on resources – yes, here it is. How to use the library's resources. That includes everything, not [Q28/29/30] just the print and technical resources.\nSTUDENT: That sounds useful. Is there anything on using the Internet?\nLIBRARIAN: Er, let's see. The one on the Internet for beginners was last term. This [Q28/29/30] term it's finding research materials online.\nSTUDENT: That sounds interesting too, hm, what's the last one?\nLIBRARIAN: It's a workshop on dissertations. [Q28/29/30]\nSTUDENT: What do you mean – how to write one?\nLIBRARIAN: Er, no it's more to do with academic writing conventions, you know – writing a bibliography and how to refer to sources in your text. That sort of thing. Anyway, here's a leaflet with information about all three.\nSTUDENT: Thanks a lot. That'll be very useful.\nLIBRARIAN: You're welcome."
+  },
+  {
+   "part": 4,
+   "range": [
+    31,
+    40
+   ],
+   "pages": [
+    84,
+    85
+   ],
+   "groups": [
+    {
+     "id": "L4-1",
+     "type": "choice",
+     "range": [
+      31,
+      34
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "questions": [
+      {
+       "n": 31,
+       "text": "When did Asiatic lions develop as a separate sub-species?",
+       "options": [
+        {
+         "key": "A",
+         "text": "about 10,000 years ago"
+        },
+        {
+         "key": "B",
+         "text": "about 100,000 years ago"
+        },
+        {
+         "key": "C",
+         "text": "about 1,000,000 years ago"
+        }
+       ]
+      },
+      {
+       "n": 32,
+       "text": "Pictures of Asiatic lions can be seen on ancient coins from",
+       "options": [
+        {
+         "key": "A",
+         "text": "Greece."
+        },
+        {
+         "key": "B",
+         "text": "The Middle East."
+        },
+        {
+         "key": "C",
+         "text": "India."
+        }
+       ]
+      },
+      {
+       "n": 33,
+       "text": "Asiatic lions disappeared from Europe",
+       "options": [
+        {
+         "key": "A",
+         "text": "2,500 years ago."
+        },
+        {
+         "key": "B",
+         "text": "2,000 years ago."
+        },
+        {
+         "key": "C",
+         "text": "1,900 years ago."
+        }
+       ]
+      },
+      {
+       "n": 34,
+       "text": "Very few African lions have",
+       "options": [
+        {
+         "key": "A",
+         "text": "a long mane."
+        },
+        {
+         "key": "B",
+         "text": "a coat with varied colours."
+        },
+        {
+         "key": "C",
+         "text": "a fold of skin on their stomach."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L4-2",
+     "type": "completion",
+     "range": [
+      35,
+      40
+     ],
+     "instructions": [
+      "Complete the sentences below.",
+      "Write **NO MORE THAN TWO WORDS AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "THE GIR SANCTUARY"
+      },
+      {
+       "t": "p",
+       "text": "The sanctuary has an area of approximately {{35}} square kilometres."
+      },
+      {
+       "t": "p",
+       "text": "One threat to the lions in the sanctuary is {{36}} ."
+      },
+      {
+       "t": "p",
+       "text": "The ancestors of the Gir Sanctuary lions were protected by a {{37}} ."
+      },
+      {
+       "t": "p",
+       "text": "A large part of the lions' {{38}} consists of animals belonging to local farmers."
+      },
+      {
+       "t": "p",
+       "text": "The lions sometimes {{39}} , especially when water is short."
+      },
+      {
+       "t": "p",
+       "text": "In ancient India a man would fight a lion as a test of {{40}} ."
+      }
+     ]
+    }
+   ],
+   "transcript": "Well, most people think that lions only come from Africa. And you would be forgiven for thinking this, because in fact most lions do come from Africa. But this hasn't always been the case. If we go back ten thousand years we would find that there were lions roaming vast sections of the globe. But now, unfortunately, only very small sections of the lions' former habitat remain.\nMy particular interest is Asiatic lions, which are a sub-species of African lions. It's almost [Q31] a hundred thousand years since the Asiatic lions split off and developed as a sub-species. At one time the Asiatic lion was living as far west as Greece and they were found from there, in a band that spread east through various countries of the Middle East, all the way to India. In museums, you can now see Greek coins that have clear images of the Asiatic [Q32] lion on them. Most of them are dated at around 500 B.C. However, Europe saw its last [Q33] Asiatic lion roaming free two thousand years ago. Over the next nineteen hundred years the numbers of Asiatic lions in the other areas declined steadily, but it was only in the nineteenth century that they disappeared from everywhere but India.\nSo, how can you tell an Asiatic lion from an African lion, with which you're probably more familiar? Well, in general, Asiatic lions are not as big as African lions. The colour is more or less the same, but the appearance of the mane is different – that's the hair around the lion's face and neck. The Asiatic lion's mane is noticeably shorter than the African lion's. Asiatic lions also have a long fold of skin on their undersides, whereas not many [Q34] African lions have this.\nWell, I'd like to talk to you now about the Gir Sanctuary in India. That's where I've just come back from. The sanctuary was established specifically to protect the Asiatic lion. It's 1,450 square kilometres in area and most of it is forest. There are now around [Q35] three hundred Asiatic lions in India and almost all of them are in this sanctuary.\nBut despite living in a sanctuary, which makes them safe from hunters, they still face a number of problems that threaten their survival. One of these is the ever-present danger of disease. This is what killed more than a third of Africa's Serengeti lions in 1994, and [Q36] people are fearful that something similar could happen in the Gir Sanctuary and kill off many of the Asiatic lions there.\nIndia's lions are particularly vulnerable because they have a limited gene pool. The reason for this is interesting – it's because all of them are descended from a few dozen lions that were saved by a prince who took a particular interest in them. He was very wealthy, and [Q37] he managed to protect them – otherwise they'd probably have died out completely.\nWhen you see the Asiatic lion in India, what you sense is enormous vitality. They're very impressive beasts and you would never guess that they had this vulnerability when you look at them. The Asiatic lions don't have the Gir Sanctuary to themselves, I should add. They actually share it with about two thousand farmers. A significant proportion of the lions' diet is [Q38] made up of the livestock of these farmers – goats, chickens and so on – as much as a third, in fact. And they've even been known to attack humans, especially in times of drought. [Q39]\nOne final piece of interesting information – in ancient India one of the greatest tests of leadership for a man was to fight a lion. Now it seems, in modern India it will be a great [Q40] test to see if the lion can be saved. I'm sure this is something that all of you will share concern for too."
+  }
+ ],
+ "answers": {
+  "1": {
+   "a": [
+    "75"
+   ]
+  },
+  "2": {
+   "a": [
+    "cheque",
+    "check"
+   ],
+   "k": "cheque/check"
+  },
+  "3": {
+   "a": [
+    "15"
+   ]
+  },
+  "4": {
+   "a": [
+    "25"
+   ]
+  },
+  "5": {
+   "a": [
+    "10 minute",
+    "10 minutes",
+    "10 minutes'",
+    "10 min",
+    "10 mins",
+    "10 mins'"
+   ],
+   "k": "10 minute(s')/min(s')"
+  },
+  "6": {
+   "a": [
+    "conference pack"
+   ]
+  },
+  "7": {
+   "a": [
+    "South"
+   ]
+  },
+  "8": {
+   "a": [
+    "library"
+   ]
+  },
+  "9": {
+   "a": [
+    "5"
+   ]
+  },
+  "10": {
+   "a": [
+    "21A"
+   ]
+  },
+  "11": {
+   "a": [
+    "D"
+   ]
+  },
+  "12": {
+   "a": [
+    "A"
+   ]
+  },
+  "13": {
+   "a": [
+    "C"
+   ]
+  },
+  "14": {
+   "a": [
+    "tax"
+   ]
+  },
+  "15": {
+   "a": [
+    "security"
+   ]
+  },
+  "16": {
+   "a": [
+    "ground floor"
+   ]
+  },
+  "17": {
+   "a": [
+    "lecture room 311"
+   ]
+  },
+  "18": {
+   "a": [
+    "Safety at Work"
+   ]
+  },
+  "19": {
+   "a": [
+    "Main Hall"
+   ]
+  },
+  "20": {
+   "a": [
+    "team leaders"
+   ]
+  },
+  "21": {
+   "a": [
+    "reference"
+   ]
+  },
+  "22": {
+   "a": [
+    "textbooks"
+   ]
+  },
+  "23": {
+   "a": [
+    "secondary"
+   ]
+  },
+  "24": {
+   "a": [
+    "primary"
+   ]
+  },
+  "25": {
+   "a": [
+    "back"
+   ]
+  },
+  "26": {
+   "a": [
+    "overdue books",
+    "overdue ones"
+   ],
+   "k": "overdue books/ones"
+  },
+  "27": {
+   "a": [
+    "7 working days"
+   ]
+  },
+  "28": {
+   "a": [
+    "C"
+   ]
+  },
+  "29": {
+   "a": [
+    "E"
+   ]
+  },
+  "30": {
+   "a": [
+    "F"
+   ]
+  },
+  "31": {
+   "a": [
+    "B"
+   ]
+  },
+  "32": {
+   "a": [
+    "A"
+   ]
+  },
+  "33": {
+   "a": [
+    "B"
+   ]
+  },
+  "34": {
+   "a": [
+    "C"
+   ]
+  },
+  "35": {
+   "a": [
+    "1,450",
+    "1450"
+   ],
+   "k": "1,450"
+  },
+  "36": {
+   "a": [
+    "disease"
+   ]
+  },
+  "37": {
+   "a": [
+    "wealthy prince",
+    "prince"
+   ],
+   "k": "(wealthy) prince"
+  },
+  "38": {
+   "a": [
+    "diet"
+   ]
+  },
+  "39": {
+   "a": [
+    "attack humans"
+   ]
+  },
+  "40": {
+   "a": [
+    "leadership"
+   ]
+  }
+ }
+}

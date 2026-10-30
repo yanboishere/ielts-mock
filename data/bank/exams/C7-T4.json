@@ -1,0 +1,1615 @@
+{
+ "schema": "ielts-mock.exam/1",
+ "id": "C7-T4",
+ "source": {
+  "book": 7,
+  "test": 4
+ },
+ "title": "Cambridge IELTS 7 · Test 4",
+ "listening": {
+  "parts": [
+   {
+    "part": 1,
+    "range": [
+     1,
+     10
+    ],
+    "pages": [
+     85,
+     86
+    ],
+    "groups": [
+     {
+      "id": "L1-1",
+      "type": "completion",
+      "range": [
+       1,
+       6
+      ],
+      "instructions": [
+       "Complete the form below.",
+       "Write **NO MORE THAN THREE WORDS AND/OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "HOMESTAY APPLICATION"
+       },
+       {
+        "t": "note",
+        "text": "*Example*"
+       },
+       {
+        "t": "p",
+        "text": "**Surname:** *Yuichini*"
+       },
+       {
+        "t": "p",
+        "text": "**First name:** {{1}}"
+       },
+       {
+        "t": "p",
+        "text": "**Sex:** *female*   **Nationality:** *Japanese*"
+       },
+       {
+        "t": "p",
+        "text": "**Passport number:** {{2}}   **Age:** *28 years*"
+       },
+       {
+        "t": "p",
+        "text": "**Present address:** *Room 21C, Willow College*"
+       },
+       {
+        "t": "p",
+        "text": "**Length of homestay:** *approx* {{3}}"
+       },
+       {
+        "t": "p",
+        "text": "**Course enrolled in:** {{4}}"
+       },
+       {
+        "t": "p",
+        "text": "**Family preferences:** *no* {{5}}"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "*no objection to* {{6}}"
+       }
+      ]
+     },
+     {
+      "id": "L1-2",
+      "type": "completion",
+      "range": [
+       7,
+       10
+      ],
+      "instructions": [
+       "Answer the questions below.",
+       "Write **NO MORE THAN TWO WORDS** for each answer."
+      ],
+      "content": [
+       {
+        "t": "p",
+        "text": "What does the student particularly like to eat? {{7}}"
+       },
+       {
+        "t": "p",
+        "text": "What sport does the student play? {{8}}"
+       },
+       {
+        "t": "p",
+        "text": "What mode of transport does the student prefer? {{9}}"
+       },
+       {
+        "t": "p",
+        "text": "When will the student find out her homestay address? {{10}}"
+       }
+      ]
+     }
+    ],
+    "transcript": "OFFICER: Yes, what can I do for you?\nSTUDENT: My friend is in homestay ... and she really enjoys it ... so I'd like to join a family as well.\nOFFICER: Okay, so let me get some details. What's your name?\nSTUDENT: My name is Keiko Yuichini.\nOFFICER: Could you spell your family name for me?\nSTUDENT: It's ... Yuichini, that's Y-U-I-C-H-I-N-I.\nOFFICER: And your first name?\nSTUDENT: It's Keiko. K-E-I-K-O. [Q1]\nOFFICER: That's Keiko Yuichini ... okay ... and you're female. And your nationality?\nSTUDENT: I'm Japanese.\nOFFICER: Right and could I see your passport, please?\nSTUDENT: Here it is ...\nOFFICER: Okay ... your passport number is JO 6337 ... [Q2] And you're how old?\nSTUDENT: I'm twenty-eight years old.\nOFFICER: Now, you live at one of the colleges ... which one?\nSTUDENT: Willow College, umm ... Room 21C\nOFFICER: Right, 21C Willow College, and how long are you planning on staying with homestay?\nSTUDENT: About four months ... longer if I like it ... [Q3]\nOFFICER: And what course are you enrolled in?\nSTUDENT: Well, I've enrolled for twenty weeks in the ... um ... Advanced English Studies [Q4] because I need help with my writing ... and I'm nearly at the end of my first five-week course.\nOFFICER: Okay ... Do you have any preference for a family with children or without children?\nSTUDENT: I prefer ... I mean I like young children, but I'd like to be with older people [Q5] ... you know ... adults ... someone around my age.\nOFFICER: Okay, and what about pets? [Q6]\nSTUDENT: I am a veterinarian so that's fine ... the more the better.\nOFFICER: All right, now what about you? Are you a vegetarian or do you have any special food requirements?\nSTUDENT: No, I am not a vegetarian ... but I don't eat a lot of meat ... I really like seafood. [Q7]\nOFFICER: And what are your hobbies?\nSTUDENT: I like reading and going to the movies.\nOFFICER: Do you play any sports?\nSTUDENT: Yes, I joined the handball team, but I didn't like that ... so I stopped playing. Now I play tennis on the weekend with my friends ... [Q8]\nOFFICER: All right, let's see, name, age, now the location. Are you familiar with the public transport system?\nSTUDENT: No ... I'm not really because I have been living on campus ... I've been to the city a few times on the bus, but they are always late.\nOFFICER: What about the trains?\nSTUDENT: I like catching the train ... they are much faster ... [Q9]\nOFFICER: Now, let me go check on the computer and see who I've got ... Listen, leave it with me ... I'll check my records and I'll give you details this afternoon. [Q10]\nSTUDENT: Thank you for helping me ...\nOFFICER: It's a pleasure. Bye.\nSTUDENT: Bye."
+   },
+   {
+    "part": 2,
+    "range": [
+     11,
+     20
+    ],
+    "pages": [
+     87,
+     88
+    ],
+    "groups": [
+     {
+      "id": "L2-1",
+      "type": "choice",
+      "range": [
+       11,
+       14
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B** or **C**."
+      ],
+      "questions": [
+       {
+        "n": 11,
+        "text": "What kind of tour is Sally leading?",
+        "options": [
+         {
+          "key": "A",
+          "text": "a bus tour"
+         },
+         {
+          "key": "B",
+          "text": "a train tour"
+         },
+         {
+          "key": "C",
+          "text": "a walking tour"
+         }
+        ]
+       },
+       {
+        "n": 12,
+        "text": "The original buildings on the site were",
+        "options": [
+         {
+          "key": "A",
+          "text": "houses."
+         },
+         {
+          "key": "B",
+          "text": "industrial buildings."
+         },
+         {
+          "key": "C",
+          "text": "shops."
+         }
+        ]
+       },
+       {
+        "n": 13,
+        "text": "The local residents wanted to use the site for",
+        "options": [
+         {
+          "key": "A",
+          "text": "leisure."
+         },
+         {
+          "key": "B",
+          "text": "apartment blocks."
+         },
+         {
+          "key": "C",
+          "text": "a sports centre."
+         }
+        ]
+       },
+       {
+        "n": 14,
+        "text": "The Tower is at the centre of the",
+        "options": [
+         {
+          "key": "A",
+          "text": "nature reserve."
+         },
+         {
+          "key": "B",
+          "text": "formal gardens."
+         },
+         {
+          "key": "C",
+          "text": "Bicentennial Park."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L2-2",
+      "type": "completion",
+      "range": [
+       15,
+       17
+      ],
+      "instructions": [
+       "Label the plan below.",
+       "Write **NO MORE THAN TWO WORDS** for each answer."
+      ],
+      "image": "images/C7/C7-T4-L2-plan.png",
+      "content": [
+       {
+        "t": "p",
+        "text": "{{15}}"
+       },
+       {
+        "t": "p",
+        "text": "{{16}}"
+       },
+       {
+        "t": "p",
+        "text": "{{17}}"
+       }
+      ]
+     },
+     {
+      "id": "L2-3",
+      "type": "completion",
+      "range": [
+       18,
+       20
+      ],
+      "instructions": [
+       "Complete the table below.",
+       "Write **NO MORE THAN TWO WORDS** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Nature Reserve"
+       },
+       {
+        "t": "table",
+        "header": 1,
+        "rows": [
+         [
+          "Area",
+          "Facility",
+          "Activity"
+         ],
+         [
+          "The Mangroves",
+          "boardwalk",
+          "{{18}}"
+         ],
+         [
+          "Frog Pond",
+          "outdoor classroom",
+          "{{19}}"
+         ],
+         [
+          "The Waterbird Refuge",
+          "{{20}}",
+          "bird watching"
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    "transcript": "Welcome to all of you ... can everybody see and hear me? ... Good ... I'm Sally, your guide for this tour of the Bicentennial Park ... I hope that you're all wearing your most comfortable shoes and that you can keep up the pace. [Q11] So let's get under way on our tour around this wonderful park.\nI'll start today with some general background information. There used to be a lot of factories in this area until the 1960s. [Q12] Creating the park required the demolition of lots of derelict buildings on the site, so most of the exciting park space all around you was originally warehouses and storehouses.\nThe idea of building a public park here was first discussed when a property developer proposed a high-rise housing development, but the local community wasn't happy. If the land was to be cleaned up, they wanted to use the site for recreation. [Q13] Residents wanted open space for outdoor activities, rather than housing or even an indoor sports complex.\nNow to the Bicentennial Park itself. It has two areas, a nature reserve and a formal park with man-made features and gardens. The tall blue-and-white building in front of us is called The Tower and is the centre point for the formal gardens. [Q14] It stands twelve metres high, so follow me up the stairs to where we can take advantage of the fantastic views.\nWell, here we are at the top of The Tower, and we're going to look at the view from each direction. Out to the east, the large buildings about a kilometre away are on the Olympic site. There's an indoor arena for gymnastics, a stadium for track and field and a swimming pool for races and synchronised swimming and also diving. If you look carefully down there, you can see the train lines. The Olympic site has its own station to encourage the use of public transport. There is also a car park, but it only holds a limited number of cars. [Q15]\nThe formal park has some specially-created water features. If you look out here to the south, you can see a circular ornamental pond.\nAnd around to the west, you can relax and sit on a bench to smell the flowers in the rose garden, [Q16] and finally up to the north, if you look in front of you now, there's a lake with a small island in the centre, you can hire rowing boats at the boat shed, which you can't see from here, but if you look through the trees, you can see the café, which has lovely views across the water. [Q17] OK, let's climb down now. We will go now and have a look at the nature reserve section of the park, which has opened up natural wetland to the public.\nThe Mangroves have been made more accessible to visitors by the boardwalk built during the park's upgrade. You'd think that people would come here to look at the unusual plant life of the area, but in fact it's more often used for cycling and is very popular with the local clubs. [Q18]\nThis is the far end of the park and over there you can see the Frog Pond, a natural feature here long before the park was designed. Just next to it we have our outdoor classroom, a favourite spot for school parties. The area is now most often used by primary schools for biology lessons. [Q19]\nAnd finally let's pass by the Waterbird Refuge. This area is in a sheltered part of the estuary, that's why the park's viewing shelter is a favourite spot for bird watchers who can use it to spy through binoculars. [Q20] You can watch a variety of water birds, but most visitors expect to see black swans when they come to the shelter. You might spot one yourself right now!\nWell, here we are back at our starting point, the Visitor Centre."
+   },
+   {
+    "part": 3,
+    "range": [
+     21,
+     30
+    ],
+    "pages": [
+     89,
+     90
+    ],
+    "groups": [
+     {
+      "id": "L3-1",
+      "type": "completion",
+      "range": [
+       21,
+       22
+      ],
+      "instructions": [
+       "Complete the sentences below.",
+       "Write **NO MORE THAN ONE WORD AND/OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "p",
+        "text": "The presentation will last 15 minutes."
+       },
+       {
+        "t": "p",
+        "text": "There will be {{21}} minutes for questions."
+       },
+       {
+        "t": "p",
+        "text": "The presentation will not be {{22}}."
+       }
+      ]
+     },
+     {
+      "id": "L3-2",
+      "type": "matching",
+      "range": [
+       23,
+       26
+      ],
+      "instructions": [
+       "What do the students decide about each topic for the geography presentation?",
+       "Write the correct letter, **A**, **B** or **C**, next to questions 23–26."
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": "They will definitely include this topic."
+       },
+       {
+        "key": "B",
+        "text": "They might include this topic."
+       },
+       {
+        "key": "C",
+        "text": "They will not include this topic."
+       }
+      ],
+      "questions": [
+       {
+        "n": 23,
+        "text": "Geographical Location"
+       },
+       {
+        "n": 24,
+        "text": "Economy"
+       },
+       {
+        "n": 25,
+        "text": "Overview of Education System"
+       },
+       {
+        "n": 26,
+        "text": "Role of English Language"
+       }
+      ]
+     },
+     {
+      "id": "L3-3",
+      "type": "completion",
+      "range": [
+       27,
+       30
+      ],
+      "instructions": [
+       "Complete the table below.",
+       "Write **NO MORE THAN TWO WORDS** for each answer."
+      ],
+      "content": [
+       {
+        "t": "table",
+        "header": 1,
+        "rows": [
+         [
+          "Information/visual aid",
+          "Where from?"
+         ],
+         [
+          "Overhead projector",
+          "the {{27}}"
+         ],
+         [
+          "Map of West Africa",
+          "the {{28}}"
+         ],
+         [
+          "Map of the islands",
+          "a tourist brochure"
+         ],
+         [
+          "Literacy figures",
+          "the {{29}}"
+         ],
+         [
+          "{{30}} on school places",
+          "as above"
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    "transcript": "JULIE: Remind me, Trevor ... how long is the presentation?\nTREVOR: Dr White said three per hour.\nJULIE: So about twenty minutes?\nTREVOR: Well ... it'll be fifteen minutes per presentation.\nJULIE: And five minutes for questions. [Q21]\nTREVOR: And is this one going to be assessed? [Q22]\nJULIE: No ... not this time round ... because it's the first one ... you know.\nTREVOR: Good news.\nJULIE: Well, Trevor, what are we going to include?\nTREVOR: Well ... Do you think we ought to give some historical background?\nJULIE: Oh no ... definitely not ... we won't have time!\nTREVOR: OK ... but I think we ought to say something about the geographical location [Q23] ... cos not a lot of people know where the islands are ...\nJULIE: Yes ... OK ... I'll take notes, shall I?\nTREVOR: Yeah, that'll be a help ...\nJULIE: So ... geographical location ...\nTREVOR: Then we ought to give an overview of the whole education system.\nJULIE: Shouldn't we say something about the economy ... you know agricultural produce ... minerals and so forth?\nTREVOR: Well ... Dr White said we shouldn't go into that sort of detail.\nJULIE: But it's pretty important when you think about it ... you know because it does influence the education system ... [Q24]\nTREVOR: Look ... let's think about that one later shall we? Let's see how we're doing for time ...\nJULIE: OK ... so ... general overview of education [Q25]\nTREVOR: Of course ... and then the role of English language ... [Q26]\nJULIE: Nope ... that goes in the Language Policy Seminar ... don't you remember?\nTREVOR: Are you sure?\nJULIE: Positive.\nTREVOR: All right ... so those are the topics we're going to be ... to be covering ...\nJULIE: We need to think about what to prepare ... Dr White said he wanted us to use plenty of visuals and things and we might as well try them out when we're not being assessed ...\nTREVOR: Well, the most important thing is the overhead projector ... [Q27]\nJULIE: No problem ... we'll get that from the media room ... must remember to book it ...\nTREVOR: Well ... we'll need a map of course.\nJULIE: Probably two ... one of the islands ... large scale.\nTREVOR: And one of West Africa.\nJULIE: Well, the West African one is no problem ... There's one in the Resources Room. [Q28]\nTREVOR: Oh yeah, of course, the resources room; the islands are going to be more of a problem.\nJULIE: Tell you what ... there's a very clear map of Santiago in that tourist brochure I showed you last week. Don't you remember it?\nTREVOR: Oh yeah ... that's right; we can just use the tourist brochure.\nJULIE: We also need statistics ... on several different things.\nTREVOR: Literacy rates.\nJULIE: Yes, and school places.\nTREVOR: How about the encyclopaedia?\nJULIE: Nah ... not up-to-date enough!\nTREVOR: Mmm ... why don't we call the embassy? [Q29]\nJULIE: Oh ... someone's enthusiastic!\nTREVOR: Well ... if something's worth doing ...\nJULIE: I know ... it's worth doing well ... OK.\nTREVOR: We can find out statistics on school places from them as well. [Q30]\nJULIE: Might as well.\nTREVOR: Look, Julie, it's almost time for our tutorials ... we can meet again on Monday ... but we need to prepare some stuff before then ..."
+   },
+   {
+    "part": 4,
+    "range": [
+     31,
+     40
+    ],
+    "pages": [
+     91,
+     92
+    ],
+    "groups": [
+     {
+      "id": "L4-1",
+      "type": "choice",
+      "range": [
+       31,
+       33
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B** or **C**."
+      ],
+      "title": "Monosodium Glutamate (MSG)",
+      "questions": [
+       {
+        "n": 31,
+        "text": "The speaker says the main topic of the lecture is",
+        "options": [
+         {
+          "key": "A",
+          "text": "the history of monosodium glutamate."
+         },
+         {
+          "key": "B",
+          "text": "the way monosodium glutamate works."
+         },
+         {
+          "key": "C",
+          "text": "where monosodium glutamate is used."
+         }
+        ]
+       },
+       {
+        "n": 32,
+        "text": "In 1908, scientists in Japan",
+        "options": [
+         {
+          "key": "A",
+          "text": "made monosodium glutamate."
+         },
+         {
+          "key": "B",
+          "text": "began using kombu."
+         },
+         {
+          "key": "C",
+          "text": "identified glutamate."
+         }
+        ]
+       },
+       {
+        "n": 33,
+        "text": "What change occurred in the manufacture of glutamate in 1956?",
+        "options": [
+         {
+          "key": "A",
+          "text": "It began to be manufactured on a large scale."
+         },
+         {
+          "key": "B",
+          "text": "The Japanese began extracting it from natural sources."
+         },
+         {
+          "key": "C",
+          "text": "It became much more expensive to produce."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L4-2",
+      "type": "completion",
+      "range": [
+       34,
+       40
+      ],
+      "instructions": [
+       "Complete the notes below.",
+       "Write **NO MORE THAN TWO WORDS** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Monosodium Glutamate (MSG)"
+       },
+       {
+        "t": "li",
+        "text": "MSG contains"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "– glutamate (78.2%)"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "– sodium (12.2%)"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "– {{34}} (9.6%)"
+       },
+       {
+        "t": "li",
+        "text": "Glutamate is found in foods that contain protein such as {{35}} and {{36}}."
+       },
+       {
+        "t": "li",
+        "text": "MSG is used in foods in many different parts of the world."
+       },
+       {
+        "t": "li",
+        "text": "In 1908 Kikunae Ikeda discovered a {{37}}."
+       },
+       {
+        "t": "li",
+        "text": "Our ability to detect glutamate makes sense because it is so {{38}} naturally."
+       },
+       {
+        "t": "li",
+        "text": "John Prescott suggests that:"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "– sweetness tells us that a food contains carbohydrates."
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "– {{39}} tells us that a food contains toxins."
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "– sourness tells us that a food is spoiled."
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "– saltiness tells us that a food contains {{40}}."
+       }
+      ]
+     }
+    ],
+    "transcript": "In today's lecture, I'm going to talk about Monosodium Glutamate, or MSG, as it's more commonly known. Now, MSG as you probably know, is a flavour enhancer which is used particularly in Chinese and Japanese cooking. Today I am going to explore why it is so popular in these cuisines and, more importantly, how does it enhance the flavour of food? [Q31]\nThe main reason why MSG is more commonly used in Japanese meals is tradition. For many thousands of years the Japanese have incorporated a type of seaweed known as *kombu* in their cooking, as they discovered it had the ability to make food taste better. But it wasn't until 1908 that the ingredient in kombu which was responsible for the improvement in flavour was actually discovered to be glutamate by scientists working there. [Q32]\nFrom 1908 until 1956, glutamate was produced commercially in Japan by a very slow and expensive means of extraction. It was in 1956 that the speed of the process was improved, and industrial production increased dramatically and still continues to increase to this day. [Q33] In fact, hundreds of thousands of tonnes of MSG are produced all over the world today.\nSo what exactly is MSG? Well, Monosodium Glutamate contains seventy-eight point two per cent glutamate, twelve point two per cent sodium and nine point six per cent water. [Q34] Glutamate is an amino acid that can be found naturally in all protein-containing foods, erm, so this includes food such as meat and cheese. [Q35] [Q36]\nIt is widely known that Chinese and Japanese food contains MSG but many people don't seem to be aware that it is also used in foods in other parts of the world. For example it is found in commercially made Italian pizzas, in American fast food and in Britain MSG is used in things like potato crisps.\nSo, how exactly does MSG work? Well, in the Western world, we commonly talk of four 'tastes', and I'm sure you're all familiar with the concepts of sweet, sour, bitter and salt. Well, in 1908, Kikunae Ikeda identified a fifth 'taste'. [Q37] And it is thought that MSG intensifies this naturally occurring 'taste' in some food. It does make perfect evolutionary sense that we should have the ability to detect or taste glutamate because it is the amino acid which is most common in natural foods. [Q38]\nJohn Prescott, an associate professor at the University of Chicago, suggests that this fifth taste serves a purpose just as the other tastes do. He suggests that it signals to us the presence of protein in food, in the same way that sweetness indicates that a food contains energy-giving carbohydrates. Bitterness, he says, alerts us of toxins in the food, [Q39] while sourness warns us of spoilage and saltiness signals the presence of minerals. [Q40]\nSo, what else do we know about this fifth taste ..."
+   }
+  ],
+  "answers": {
+   "1": {
+    "a": [
+     "Keiko"
+    ]
+   },
+   "2": {
+    "a": [
+     "JO6337",
+     "JO 6337"
+    ],
+    "k": "JO6337"
+   },
+   "3": {
+    "a": [
+     "4 months",
+     "four months"
+    ],
+    "k": "4 months"
+   },
+   "4": {
+    "a": [
+     "Advanced English Studies",
+     "Advanced English",
+     "English Studies",
+     "English"
+    ],
+    "k": "(Advanced) English (Studies)"
+   },
+   "5": {
+    "a": [
+     "young children",
+     "children"
+    ],
+    "k": "(young) children"
+   },
+   "6": {
+    "a": [
+     "pets"
+    ]
+   },
+   "7": {
+    "a": [
+     "seafood"
+    ]
+   },
+   "8": {
+    "a": [
+     "tennis"
+    ]
+   },
+   "9": {
+    "a": [
+     "trains",
+     "the train",
+     "train"
+    ],
+    "k": "trains/(the) train"
+   },
+   "10": {
+    "a": [
+     "this afternoon",
+     "that afternoon"
+    ],
+    "k": "this/that afternoon"
+   },
+   "11": {
+    "a": [
+     "C"
+    ]
+   },
+   "12": {
+    "a": [
+     "B"
+    ]
+   },
+   "13": {
+    "a": [
+     "A"
+    ]
+   },
+   "14": {
+    "a": [
+     "B"
+    ]
+   },
+   "15": {
+    "a": [
+     "car park"
+    ]
+   },
+   "16": {
+    "a": [
+     "rose garden"
+    ]
+   },
+   "17": {
+    "a": [
+     "café",
+     "cafe"
+    ],
+    "k": "café"
+   },
+   "18": {
+    "a": [
+     "cycling"
+    ]
+   },
+   "19": {
+    "a": [
+     "biology lesson"
+    ]
+   },
+   "20": {
+    "a": [
+     "viewing shelter"
+    ]
+   },
+   "21": {
+    "a": [
+     "5",
+     "five"
+    ],
+    "k": "5"
+   },
+   "22": {
+    "a": [
+     "assessed"
+    ]
+   },
+   "23": {
+    "a": [
+     "A"
+    ]
+   },
+   "24": {
+    "a": [
+     "B"
+    ]
+   },
+   "25": {
+    "a": [
+     "A"
+    ]
+   },
+   "26": {
+    "a": [
+     "C"
+    ]
+   },
+   "27": {
+    "a": [
+     "media room"
+    ]
+   },
+   "28": {
+    "a": [
+     "resources room"
+    ]
+   },
+   "29": {
+    "a": [
+     "embassy"
+    ]
+   },
+   "30": {
+    "a": [
+     "statistics",
+     "stats"
+    ],
+    "k": "statistics/stats"
+   },
+   "31": {
+    "a": [
+     "B"
+    ]
+   },
+   "32": {
+    "a": [
+     "C"
+    ]
+   },
+   "33": {
+    "a": [
+     "A"
+    ]
+   },
+   "34": {
+    "a": [
+     "water"
+    ]
+   },
+   "35": {
+    "a": [
+     "meat"
+    ]
+   },
+   "36": {
+    "a": [
+     "cheese"
+    ]
+   },
+   "37": {
+    "a": [
+     "5th taste",
+     "new taste",
+     "fifth taste"
+    ],
+    "k": "5th/new taste"
+   },
+   "38": {
+    "a": [
+     "common"
+    ]
+   },
+   "39": {
+    "a": [
+     "bitterness"
+    ]
+   },
+   "40": {
+    "a": [
+     "minerals"
+    ]
+   }
+  },
+  "eitherOrder": [
+   [
+    35,
+    36
+   ]
+  ]
+ },
+ "reading": {
+  "passages": [
+   {
+    "passage": 1,
+    "range": [
+     1,
+     13
+    ],
+    "pages": [
+     93,
+     94,
+     95
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 1–13**, which are based on Reading Passage 1 below.",
+    "title": "Pulling strings to build pyramids",
+    "subtitle": "*No one knows exactly how the pyramids were built. Marcus Chown reckons the answer could be 'hanging in the air'.*",
+    "paragraphs": [
+     {
+      "text": "The pyramids of Egypt were built more than three thousand years ago, and no one knows how. The conventional picture is that tens of thousands of slaves dragged stones on sledges. But there is no evidence to back this up. Now a Californian software consultant called Maureen Clemmons has suggested that kites might have been involved. While perusing a book on the monuments of Egypt, she noticed a hieroglyph that showed a row of men standing in odd postures. They were holding what looked like ropes that led, via some kind of mechanical system, to a giant bird in the sky. She wondered if perhaps the bird was actually a giant kite, and the men were using it to lift a heavy object."
+     },
+     {
+      "text": "Intrigued, Clemmons contacted Morteza Gharib, aeronautics professor at the California Institute of Technology. He was fascinated by the idea. 'Coming from Iran, I have a keen interest in Middle Eastern science,' he says. He too was puzzled by the picture that had sparked Clemmons's interest. The object in the sky apparently had wings far too short and wide for a bird. 'The possibility certainly existed that it was a kite,' he says. And since he needed a summer project for his student Emilio Graff, investigating the possibility of using kites as heavy lifters seemed like a good idea."
+     },
+     {
+      "text": "Gharib and Graff set themselves the task of raising a 4.5-metre stone column from horizontal to vertical, using no source of energy except the wind. Their initial calculations and scale-model wind-tunnel experiments convinced them they wouldn't need a strong wind to lift the 33.5-tonne column. Even a modest force, if sustained over a long time, would do. The key was to use a pulley system that would magnify the applied force. So they rigged up a tent-shaped scaffold directly above the tip of the horizontal column, with pulleys suspended from the scaffold's apex. The idea was that as one end of the column rose, the base would roll across the ground on a trolley."
+     },
+     {
+      "text": "Earlier this year, the team put Clemmons's unlikely theory to the test, using a 40-square-metre rectangular nylon sail. The kite lifted the column clean off the ground. 'We were absolutely stunned,' Gharib says. 'The instant the sail opened into the wind, a huge force was generated and the column was raised to the vertical in a mere 40 seconds.'"
+     },
+     {
+      "text": "The wind was blowing at a gentle 16 to 20 kilometres an hour, little more than half what they thought would be needed. What they had failed to reckon with was what happened when the kite was opened. 'There was a huge initial force – five times larger than the steady state force,' Gharib says. This jerk meant that kites could lift huge weights, Gharib realised. Even a 300-tonne column could have been lifted to the vertical with 40 or so men and four or five sails. So Clemmons was right: the pyramid builders could have used kites to lift massive stones into place. 'Whether they actually did is another matter,' Gharib says. There are no pictures showing the construction of the pyramids, so there is no way to tell what really happened. 'The evidence for using kites to move large stones is no better or worse than the evidence for the brute force method,' Gharib says."
+     },
+     {
+      "text": "Indeed, the experiments have left many specialists unconvinced. 'The evidence for kite-lifting is non-existent,' says Willeke Wendrich, an associate professor of Egyptology at the University of California, Los Angeles."
+     },
+     {
+      "text": "Others feel there is more of a case for the theory. Harnessing the wind would not have been a problem for accomplished sailors like the Egyptians. And they are known to have used wooden pulleys, which could have been made strong enough to bear the weight of massive blocks of stone. In addition, there is some physical evidence that the ancient Egyptians were interested in flight. A wooden artefact found on the step pyramid at Saqqara looks uncannily like a modern glider. Although it dates from several hundred years after the building of the pyramids, its sophistication suggests that the Egyptians might have been developing ideas of flight for a long time. And other ancient civilisations certainly knew about kites; as early as 1250 BC, the Chinese were using them to deliver messages and dump flaming debris on their foes."
+     },
+     {
+      "text": "The experiments might even have practical uses nowadays. There are plenty of places around the globe where people have no access to heavy machinery, but do know how to deal with wind, sailing and basic mechanical principles. Gharib has already been contacted by a civil engineer in Nicaragua, who wants to put up buildings with adobe roofs supported by concrete arches on a site that heavy equipment can't reach. His idea is to build the arches horizontally, then lift them into place using kites. 'We've given him some design hints,' says Gharib. 'We're just waiting for him to report back.' So whether they were actually used to build the pyramids or not, it seems that kites may make sensible construction tools in the 21st century AD."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R1-1",
+      "type": "tfng",
+      "range": [
+       1,
+       7
+      ],
+      "instructions": [
+       "Do the following statements agree with the information given in Reading Passage 1?",
+       "In boxes 1–7 on your answer sheet, write",
+       "**TRUE** if the statement agrees with the information",
+       "**FALSE** if the statement contradicts the information",
+       "**NOT GIVEN** if there is no information on this"
+      ],
+      "questions": [
+       {
+        "n": 1,
+        "text": "It is generally believed that large numbers of people were needed to build the pyramids."
+       },
+       {
+        "n": 2,
+        "text": "Clemmons found a strange hieroglyph on the wall of an Egyptian monument."
+       },
+       {
+        "n": 3,
+        "text": "Gharib had previously done experiments on bird flight."
+       },
+       {
+        "n": 4,
+        "text": "Gharib and Graff tested their theory before applying it."
+       },
+       {
+        "n": 5,
+        "text": "The success of the actual experiment was due to the high speed of the wind."
+       },
+       {
+        "n": 6,
+        "text": "They found that, as the kite flew higher, the wind force got stronger."
+       },
+       {
+        "n": 7,
+        "text": "The team decided that it was possible to use kites to raise very heavy stones."
+       }
+      ]
+     },
+     {
+      "id": "R1-2",
+      "type": "completion",
+      "range": [
+       8,
+       13
+      ],
+      "instructions": [
+       "Complete the summary below.",
+       "Choose **NO MORE THAN TWO WORDS** from the passage for each answer.",
+       "Write your answers in boxes 8–13 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Additional evidence for theory of kite-lifting"
+       },
+       {
+        "t": "p",
+        "text": "The Egyptians had {{8}}, which could lift large pieces of {{9}}, and they knew how to use the energy of the wind from their skill as {{10}}. The discovery on one pyramid of an object which resembled a {{11}} suggests they may have experimented with {{12}}. In addition, over two thousand years ago kites were used in China as weapons, as well as for sending {{13}}."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "passage": 2,
+    "range": [
+     14,
+     26
+    ],
+    "pages": [
+     96,
+     97,
+     98,
+     99
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 14–26**, which are based on Reading Passage 2 below.",
+    "title": "Endless Harvest",
+    "subtitle": null,
+    "paragraphs": [
+     {
+      "text": "More than two hundred years ago, Russian explorers and fur hunters landed on the Aleutian Islands, a volcanic archipelago in the North Pacific, and learned of a land mass that lay farther to the north. The islands' native inhabitants called this land mass Aleyska, the 'Great Land'; today, we know it as Alaska."
+     },
+     {
+      "text": "The forty-ninth state to join the United States of America (in 1959), Alaska is fully one-fifth the size of the mainland 48 states combined. It shares, with Canada, the second longest river system in North America and has over half the coastline of the United States. The rivers feed into the Bering Sea and Gulf of Alaska – cold, nutrient-rich waters which support tens of millions of seabirds, and over 400 species of fish, shellfish, crustaceans, and molluscs. Taking advantage of this rich bounty, Alaska's commercial fisheries have developed into some of the largest in the world."
+     },
+     {
+      "text": "According to the Alaska Department of Fish and Game (ADF&G), Alaska's commercial fisheries landed hundreds of thousands of tonnes of shellfish and herring, and well over a million tonnes of groundfish (cod, sole, perch and pollock) in 2000. The true cultural heart and soul of Alaska's fisheries, however, is salmon. 'Salmon,' notes writer Susan Ewing in The Great Alaska Nature Factbook, 'pump through Alaska like blood through a heart, bringing rhythmic, circulating nourishment to land, animals and people.' The 'predictable abundance of salmon allowed some native cultures to flourish,' and 'dying spawners* feed bears, eagles, other animals, and ultimately the soil itself.' All five species of Pacific salmon – chinook, or king; chum, or dog; coho, or silver; sockeye, or red; and pink, or humpback – spawn** in Alaskan waters, and 90% of all Pacific salmon commercially caught in North America are produced there. Indeed, if Alaska was an independent nation, it would be the largest producer of wild salmon in the world. During 2000, commercial catches of Pacific salmon in Alaska exceeded 320,000 tonnes, with an ex-vessel value of over $US260 million."
+     },
+     {
+      "text": "Catches have not always been so healthy. Between 1940 and 1959, overfishing led to crashes in salmon populations so severe that in 1953 Alaska was declared a federal disaster area. With the onset of statehood, however, the State of Alaska took over management of its own fisheries, guided by a state constitution which mandates that Alaska's natural resources be managed on a sustainable basis. At that time, statewide harvests totalled around 25 million salmon. Over the next few decades average catches steadily increased as a result of this policy of sustainable management, until, during the 1990s, annual harvests were well in excess of 100 million, and on several occasions over 200 million fish."
+     },
+     {
+      "text": "The primary reason for such increases is what is known as 'In-Season Abundance-Based Management'. There are biologists throughout the state constantly monitoring adult fish as they show up to spawn. The biologists sit in streamside counting towers, study sonar, watch from aeroplanes, and talk to fishermen. The salmon season in Alaska is not pre-set. The fishermen know the approximate time of year when they will be allowed to fish, but on any given day, one or more field biologists in a particular area can put a halt to fishing. Even sport fishing can be brought to a halt. It is this management mechanism that has allowed Alaska salmon stocks – and, accordingly, Alaska salmon fisheries – to prosper, even as salmon populations in the rest of the United States are increasingly considered threatened or even endangered."
+     },
+     {
+      "text": "In 1999, the Marine Stewardship Council (MSC)*** commissioned a review of the Alaska salmon fishery. The Council, which was founded in 1996, certifies fisheries that meet high environmental standards, enabling them to use a label that recognises their environmental responsibility. The MSC has established a set of *criteria* by which commercial fisheries can be judged. Recognising the potential benefits of being identified as environmentally responsible, fisheries approach the Council requesting to undergo the certification process. The MSC then appoints a certification committee, composed of a panel of fisheries experts, which gathers information and opinions from fishermen, biologists, government officials, industry representatives, non-governmental organisations and others."
+     },
+     {
+      "text": "Some observers thought the Alaska salmon fisheries would not have any chance of certification when, in the months leading up to MSC's final decision, salmon runs throughout western Alaska completely collapsed. In the Yukon and Kuskokwim rivers, chinook and chum runs were probably the poorest since statehood; subsistence communities throughout the region, who normally have priority over commercial fishing, were devastated."
+     },
+     {
+      "text": "The crisis was completely unexpected, but researchers believe it had nothing to do with impacts of fisheries. Rather, they contend, it was almost certainly the result of climatic shifts, prompted in part by cumulative effects of the el niño/la niña phenomenon on Pacific Ocean temperatures, culminating in a harsh winter in which huge numbers of salmon eggs were frozen. It could have meant the end as far as the certification process was concerned. However, the state reacted quickly, closing down all fisheries, even those necessary for subsistence purposes."
+     },
+     {
+      "text": "In September 2000, MSC announced that the Alaska salmon fisheries qualified for certification. Seven companies producing Alaska salmon were immediately granted permission to display the MSC logo on their products. Certification is for an initial period of five years, with an annual review to ensure that the fishery is continuing to meet the required standards."
+     },
+     {
+      "kind": "note",
+      "text": "* spawners: fish that have released eggs"
+     },
+     {
+      "kind": "note",
+      "text": "** spawn: release eggs"
+     },
+     {
+      "kind": "note",
+      "text": "*** MSC: a joint venture between WWF (World Wildlife Fund) and Unilever, a Dutch-based multi-national"
+     }
+    ],
+    "groups": [
+     {
+      "id": "R2-1",
+      "type": "tfng",
+      "range": [
+       14,
+       20
+      ],
+      "instructions": [
+       "Do the following statements agree with the information given in Reading Passage 2?",
+       "In boxes 14–20 on your answer sheet, write",
+       "**TRUE** if the statement agrees with the information",
+       "**FALSE** if the statement contradicts the information",
+       "**NOT GIVEN** if there is no information on this"
+      ],
+      "questions": [
+       {
+        "n": 14,
+        "text": "The inhabitants of the Aleutian islands renamed their islands 'Aleyska'."
+       },
+       {
+        "n": 15,
+        "text": "Alaska's fisheries are owned by some of the world's largest companies."
+       },
+       {
+        "n": 16,
+        "text": "Life in Alaska is dependent on salmon."
+       },
+       {
+        "n": 17,
+        "text": "Ninety per cent of all Pacific salmon caught are sockeye or pink salmon."
+       },
+       {
+        "n": 18,
+        "text": "More than 320,000 tonnes of salmon were caught in Alaska in 2000."
+       },
+       {
+        "n": 19,
+        "text": "Between 1940 and 1959, there was a sharp decrease in Alaska's salmon population."
+       },
+       {
+        "n": 20,
+        "text": "During the 1990s, the average number of salmon caught each year was 100 million."
+       }
+      ]
+     },
+     {
+      "id": "R2-2",
+      "type": "matching",
+      "range": [
+       21,
+       26
+      ],
+      "instructions": [
+       "Complete each sentence with the correct ending, **A–K**, below.",
+       "Write the correct letter, **A–K**, in boxes 21–26 on your answer sheet."
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": "to recognise fisheries that care for the environment."
+       },
+       {
+        "key": "B",
+        "text": "to be successful."
+       },
+       {
+        "key": "C",
+        "text": "to stop fish from spawning."
+       },
+       {
+        "key": "D",
+        "text": "to set up environmental protection laws."
+       },
+       {
+        "key": "E",
+        "text": "to stop people fishing for sport."
+       },
+       {
+        "key": "F",
+        "text": "to label their products using the MSC logo."
+       },
+       {
+        "key": "G",
+        "text": "to ensure that fish numbers are sufficient to permit fishing."
+       },
+       {
+        "key": "H",
+        "text": "to assist the subsistence communities in the region."
+       },
+       {
+        "key": "I",
+        "text": "to freeze a huge number of salmon eggs."
+       },
+       {
+        "key": "J",
+        "text": "to deny certification to the Alaska fisheries."
+       },
+       {
+        "key": "K",
+        "text": "to close down all fisheries."
+       }
+      ],
+      "questions": [
+       {
+        "n": 21,
+        "text": "In Alaska, biologists keep a check on adult fish"
+       },
+       {
+        "n": 22,
+        "text": "Biologists have the authority"
+       },
+       {
+        "n": 23,
+        "text": "In-Season Abundance-Based Management has allowed the Alaska salmon fisheries"
+       },
+       {
+        "n": 24,
+        "text": "The Marine Stewardship Council (MSC) was established"
+       },
+       {
+        "n": 25,
+        "text": "As a result of the collapse of the salmon runs in 1999, the state decided"
+       },
+       {
+        "n": 26,
+        "text": "In September 2000, the MSC allowed seven Alaska salmon companies"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "passage": 3,
+    "range": [
+     27,
+     40
+    ],
+    "pages": [
+     100,
+     101,
+     102,
+     103,
+     104
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 27–40**, which are based on Reading Passage 3 below.",
+    "title": "EFFECTS OF NOISE",
+    "subtitle": null,
+    "paragraphs": [
+     {
+      "text": "In general, it is plausible to suppose that we should prefer peace and quiet to noise. And yet most of us have had the experience of having to adjust to sleeping in the mountains or the countryside because it was initially 'too quiet', an experience that suggests that humans are capable of adapting to a wide range of noise levels. Research supports this view. For example, Glass and Singer (1972) exposed people to short bursts of very loud noise and then measured their ability to work out problems and their physiological reactions to the noise. The noise was quite disruptive at first, but after about four minutes the subjects were doing just as well on their tasks as control subjects who were not exposed to noise. Their physiological arousal also declined quickly to the same levels as those of the control subjects."
+     },
+     {
+      "text": "But there are limits to adaptation and loud noise becomes more troublesome if the person is required to concentrate on more than one task. For example, high noise levels interfered with the performance of subjects who were required to monitor three dials at a time, a task not unlike that of an aeroplane pilot or an air-traffic controller (Broadbent, 1957). Similarly, noise did not affect a subject's ability to track a moving line with a steering wheel, but it did interfere with the subject's ability to repeat numbers while tracking (Finkelman and Glass, 1970)."
+     },
+     {
+      "text": "Probably the most significant finding from research on noise is that its predictability is more important than how loud it is. We are much more able to 'tune out' chronic background noise, even if it is quite loud, than to work under circumstances with unexpected intrusions of noise. In the Glass and Singer study, in which subjects were exposed to bursts of noise as they worked on a task, some subjects heard loud bursts and others heard soft bursts. For some subjects, the bursts were spaced exactly one minute apart (predictable noise); others heard the same amount of noise overall, but the bursts occurred at random intervals (unpredictable noise). Subjects reported finding the predictable and unpredictable noise equally annoying, and all subjects performed at about the same level during the noise portion of the experiment. But the different noise conditions had quite different after-effects when the subjects were required to proofread written material under conditions of no noise. As shown in Table 1 the unpredictable noise produced more errors in the later proofreading task than predictable noise; and soft, unpredictable noise actually produced slightly more errors on this task than the loud, predictable noise."
+     },
+     {
+      "kind": "img",
+      "src": "images/C7/C7-T4-R3-table.png",
+      "text": "Table 1: ***Proofreading Errors and Noise***"
+     },
+     {
+      "text": "Apparently, unpredictable noise produces more fatigue than predictable noise, but it takes a while for this fatigue to take its toll on performance."
+     },
+     {
+      "text": "Predictability is not the only variable that reduces or eliminates the negative effects of noise. Another is control. If the individual knows that he or she can control the noise, this seems to eliminate both its negative effects at the time and its after-effects. This is true even if the individual never actually exercises his or her option to turn the noise off (Glass and Singer, 1972). Just the knowledge that one has control is sufficient."
+     },
+     {
+      "text": "The studies discussed so far exposed people to noise for only short periods and only transient effects were studied. But the major worry about noisy environments is that living day after day with chronic noise may produce serious, lasting effects. One study, suggesting that this worry is a realistic one, compared elementary school pupils who attended schools near Los Angeles's busiest airport with students who attended schools in quiet neighbourhoods (Cohen et al., 1980). It was found that children from the noisy schools had higher blood pressure and were more easily distracted than those who attended the quiet schools. Moreover, there was no evidence of adaptability to the noise. In fact, the longer the children had attended the noisy schools, the more distractible they became. The effects also seem to be long lasting. A follow-up study showed that children who were moved to less noisy classrooms still showed greater distractibility one year later than students who had always been in the quiet schools (Cohen et al, 1981). It should be noted that the two groups of children had been carefully matched by the investigators so that they were comparable in age, ethnicity, race, and social class."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R3-1",
+      "type": "choice",
+      "range": [
+       27,
+       29
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B**, **C** or **D**.",
+       "Write the correct letter in boxes 27–29 on your answer sheet."
+      ],
+      "questions": [
+       {
+        "n": 27,
+        "text": "The writer suggests that people may have difficulty sleeping in the mountains because",
+        "options": [
+         {
+          "key": "A",
+          "text": "humans do not prefer peace and quiet to noise."
+         },
+         {
+          "key": "B",
+          "text": "they may be exposed to short bursts of very strange sounds."
+         },
+         {
+          "key": "C",
+          "text": "humans prefer to hear a certain amount of noise while they sleep."
+         },
+         {
+          "key": "D",
+          "text": "they may have adapted to a higher noise level in the city."
+         }
+        ]
+       },
+       {
+        "n": 28,
+        "text": "In noise experiments, Glass and Singer found that",
+        "options": [
+         {
+          "key": "A",
+          "text": "problem-solving is much easier under quiet conditions."
+         },
+         {
+          "key": "B",
+          "text": "physiological arousal prevents the ability to work."
+         },
+         {
+          "key": "C",
+          "text": "bursts of noise do not seriously disrupt problem-solving in the long term."
+         },
+         {
+          "key": "D",
+          "text": "the physiological arousal of control subjects declined quickly."
+         }
+        ]
+       },
+       {
+        "n": 29,
+        "text": "Researchers discovered that high noise levels are not likely to interfere with the",
+        "options": [
+         {
+          "key": "A",
+          "text": "successful performance of a single task."
+         },
+         {
+          "key": "B",
+          "text": "tasks of pilots or air traffic controllers."
+         },
+         {
+          "key": "C",
+          "text": "ability to repeat numbers while tracking moving lines."
+         },
+         {
+          "key": "D",
+          "text": "ability to monitor three dials at once."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "R3-2",
+      "type": "completion",
+      "range": [
+       30,
+       34
+      ],
+      "instructions": [
+       "Complete the summary using the list of words and phrases, **A–J**, below.",
+       "Write the correct letter, **A–J**, in boxes 30–34 on your answer sheet.",
+       "**NB** You may use any letter more than once."
+      ],
+      "content": [
+       {
+        "t": "p",
+        "text": "Glass and Singer (1972) showed that situations in which there is intense noise have less effect on performance than circumstances in which {{30}} noise occurs. Subjects were divided into groups to perform a task. Some heard loud bursts of noise, others soft. For some subjects, the noise was predictable, while for others its occurrence was random. All groups were exposed to {{31}} noise. The predictable noise group {{32}} the unpredictable noise group on this task."
+       },
+       {
+        "t": "p",
+        "text": "In the second part of the experiment, the four groups were given a proofreading task to complete under conditions of no noise. They were required to check written material for errors. The group which had been exposed to unpredictable noise {{33}} the group which had been exposed to predictable noise. The group which had been exposed to loud predictable noise performed better than those who had heard soft, unpredictable bursts. The results suggest that {{34}} noise produces fatigue but that this manifests itself later."
+       }
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": "no control over"
+       },
+       {
+        "key": "B",
+        "text": "unexpected"
+       },
+       {
+        "key": "C",
+        "text": "intense"
+       },
+       {
+        "key": "D",
+        "text": "the same amount of"
+       },
+       {
+        "key": "E",
+        "text": "performed better than"
+       },
+       {
+        "key": "F",
+        "text": "performed at about the same level as"
+       },
+       {
+        "key": "G",
+        "text": "no"
+       },
+       {
+        "key": "H",
+        "text": "showed more irritation than"
+       },
+       {
+        "key": "I",
+        "text": "made more mistakes than"
+       },
+       {
+        "key": "J",
+        "text": "different types of"
+       }
+      ]
+     },
+     {
+      "id": "R3-3",
+      "type": "matching",
+      "range": [
+       35,
+       40
+      ],
+      "instructions": [
+       "Look at the following statements (Questions 35–40) and the list of researchers below.",
+       "Match each statement with the correct researcher(s), **A–E**.",
+       "Write the correct letter, **A–E**, in boxes 35–40 on your answer sheet.",
+       "**NB** You may use any letter more than once."
+      ],
+      "optionsTitle": "List of Researchers",
+      "reuse": true,
+      "options": [
+       {
+        "key": "A",
+        "text": "Glass and Singer"
+       },
+       {
+        "key": "B",
+        "text": "Broadbent"
+       },
+       {
+        "key": "C",
+        "text": "Finkelman and Glass"
+       },
+       {
+        "key": "D",
+        "text": "Cohen et al."
+       },
+       {
+        "key": "E",
+        "text": "None of the above"
+       }
+      ],
+      "questions": [
+       {
+        "n": 35,
+        "text": "Subjects exposed to noise find it difficult at first to concentrate on problem-solving tasks."
+       },
+       {
+        "n": 36,
+        "text": "Long-term exposure to noise can produce changes in behaviour which can still be observed a year later."
+       },
+       {
+        "n": 37,
+        "text": "The problems associated with exposure to noise do not arise if the subject knows they can make it stop."
+       },
+       {
+        "n": 38,
+        "text": "Exposure to high-pitched noise results in more errors than exposure to low-pitched noise."
+       },
+       {
+        "n": 39,
+        "text": "Subjects find it difficult to perform three tasks at the same time when exposed to noise."
+       },
+       {
+        "n": 40,
+        "text": "Noise affects a subject's capacity to repeat numbers while carrying out another task."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "answers": {
+   "1": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "2": {
+    "a": [
+     "FALSE"
+    ]
+   },
+   "3": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "4": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "5": {
+    "a": [
+     "FALSE"
+    ]
+   },
+   "6": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "7": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "8": {
+    "a": [
+     "wooden pulleys",
+     "pulleys"
+    ],
+    "k": "(wooden) pulleys"
+   },
+   "9": {
+    "a": [
+     "stone"
+    ]
+   },
+   "10": {
+    "a": [
+     "accomplished sailors",
+     "sailors"
+    ],
+    "k": "(accomplished) sailors"
+   },
+   "11": {
+    "a": [
+     "modern glider",
+     "glider"
+    ],
+    "k": "(modern) glider"
+   },
+   "12": {
+    "a": [
+     "flight"
+    ]
+   },
+   "13": {
+    "a": [
+     "messages"
+    ]
+   },
+   "14": {
+    "a": [
+     "FALSE"
+    ]
+   },
+   "15": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "16": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "17": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "18": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "19": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "20": {
+    "a": [
+     "FALSE"
+    ]
+   },
+   "21": {
+    "a": [
+     "G"
+    ]
+   },
+   "22": {
+    "a": [
+     "E"
+    ]
+   },
+   "23": {
+    "a": [
+     "B"
+    ]
+   },
+   "24": {
+    "a": [
+     "A"
+    ]
+   },
+   "25": {
+    "a": [
+     "K"
+    ]
+   },
+   "26": {
+    "a": [
+     "F"
+    ]
+   },
+   "27": {
+    "a": [
+     "D"
+    ]
+   },
+   "28": {
+    "a": [
+     "C"
+    ]
+   },
+   "29": {
+    "a": [
+     "A"
+    ]
+   },
+   "30": {
+    "a": [
+     "B"
+    ]
+   },
+   "31": {
+    "a": [
+     "D"
+    ]
+   },
+   "32": {
+    "a": [
+     "F"
+    ]
+   },
+   "33": {
+    "a": [
+     "I"
+    ]
+   },
+   "34": {
+    "a": [
+     "B"
+    ]
+   },
+   "35": {
+    "a": [
+     "A"
+    ]
+   },
+   "36": {
+    "a": [
+     "D"
+    ]
+   },
+   "37": {
+    "a": [
+     "A"
+    ]
+   },
+   "38": {
+    "a": [
+     "E"
+    ]
+   },
+   "39": {
+    "a": [
+     "B"
+    ]
+   },
+   "40": {
+    "a": [
+     "C"
+    ]
+   }
+  }
+ },
+ "writing": {
+  "tasks": [
+   {
+    "task": 1,
+    "minutes": 20,
+    "minWords": 150,
+    "pages": [
+     105
+    ],
+    "prompt": [
+     "The pie charts below show units of electricity production by fuel source in Australia and France in 1980 and 2000.",
+     "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+    ],
+    "image": "images/C7/C7-T4-W1.png",
+    "sample": {
+     "kind": "model",
+     "band": null,
+     "text": "The charts compare the sources of electricity in Australia and France in the years 1980 and 2000. Between these years electricity production almost doubled, rising from 100 units to 170 in Australia, and from 90 to 180 units in France.\n\nIn 1980 Australia used coal as the main electricity source (50 units) and the remainder was produced from natural gas, hydro power (each producing 20 units) and oil (which produced only 10 units). By 2000, coal had become the fuel for more than 75% of electricity produced and only hydro continued to be another significant source supplying approximately 20%.\n\nIn contrast, France used coal as a source for only 25 units of electricity in 1980, which was matched by natural gas. The remaining 40 units were produced largely from oil and nuclear power, with hydro contributing only 5 units. But by 2000 nuclear power, which was not used at all in Australia, had developed into the main source, producing almost 75% of electricity, at 126 units, while coal and oil together produced only 50 units. Other sources were no longer significant.\n\nOverall, it is clear that by 2000 these two countries relied on different principal fuel sources: Australia relied on coal and France on nuclear power.",
+     "comment": null
+    }
+   },
+   {
+    "task": 2,
+    "minutes": 40,
+    "minWords": 250,
+    "pages": [
+     106
+    ],
+    "prompt": [
+     "Write about the following topic:",
+     "*Some people think that universities should provide graduates with the knowledge and skills needed in the workplace. Others think that the true function of a university should be to give access to knowledge for its own sake, regardless of whether the course is useful to an employer.*",
+     "*What, in your opinion, should be the main function of a university?*",
+     "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+    ],
+    "sample": {
+     "kind": "candidate",
+     "band": "5",
+     "text": "What knowledge and skills should universities provide has been argued for many years. Some people think that the true function of universities provide knowledge for their own purpose, but nowadays, more and more people point out that universities should provide graduates with the knowledge and skills according to the workplace.\n\nThe first reason for universities should provide these knowledge and skill is the students' needs. Obviously, the most of the students go to university purpose of is to get some knowledge and skills which could make them have the ability to get a job. If a university does not provide these knowledge and skills, the students might not get a job and they would be very disappointed. As a result, the university would lose its students.\n\nMoreover, providing knowledge and skills needed in the workplace maks a university progress. The new skills and information always are initiated in the workplace, so focusing on the needs of the workplace the university could get sound strategies to do research and make it more mordenization.\n\nLastly, providing these knowledge and skills could benefit our country which usually gives a financial support to universities. Having these knowledge and skills, students are more easy to get a job, and this can make our countries' economy strong.\n\nIn conclusion, it can be said that providing the knowledge and skills which the workplace needs is every universities' basic function.",
+     "comment": "This answer is less than 250 words and it does not address all parts of the question, so it loses marks. Nevertheless, some relevant ideas and a position on the issue are presented. Ideas are organised and the structure of the answer is clearly signalled. Paragraphing is not always logical, however. There is some good use of linkers, but there is also a lot of repetition due to inadequate use of referencing and substitution. The high level of repetition ['knowledge and skills' is repeated nine times] also indicates limitations in the range of vocabulary although, apart from language given in the rubric, there is just sufficient additional vocabulary for the task. The answer includes attempts at complex sentence forms, but these are generally awkwardly phrased and tend to require some re-reading to understand. Nevertheless, there are examples of accurate complex structures."
+    }
+   }
+  ]
+ },
+ "issues": [
+  "Writing Task 1 figure (p.105) is overprinted in the scan by a blue third-party watermark stamp ('www.luckbar.com' / QQ number) over the Australia 2000 caption and the France 2000 pie; it cannot be removed from the crop. The Australia 2000 total reads 170 units (confirmed by the model answer)."
+ ]
+}

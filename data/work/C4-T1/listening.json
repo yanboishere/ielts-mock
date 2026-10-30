@@ -1,0 +1,793 @@
+{
+ "parts": [
+  {
+   "part": 1,
+   "range": [
+    1,
+    10
+   ],
+   "pages": [
+    10,
+    11
+   ],
+   "groups": [
+    {
+     "id": "L1-1",
+     "type": "completion",
+     "range": [
+      1,
+      4
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **NO MORE THAN THREE WORDS AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "NOTES ON SOCIAL PROGRAMME"
+      },
+      {
+       "t": "note",
+       "text": "*Example*"
+      },
+      {
+       "t": "p",
+       "text": "Number of trips per month: *5*"
+      },
+      {
+       "t": "sub",
+       "text": "Visit places which have:"
+      },
+      {
+       "t": "li",
+       "text": "historical interest"
+      },
+      {
+       "t": "li",
+       "text": "good {{1}}"
+      },
+      {
+       "t": "li",
+       "text": "{{2}}"
+      },
+      {
+       "t": "p",
+       "text": "**Cost:** between £5.00 and £15.00 per person"
+      },
+      {
+       "t": "p",
+       "text": "**Note:** special trips organised for groups of {{3}} people"
+      },
+      {
+       "t": "p",
+       "text": "**Time:** departure – 8.30 a.m."
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "return – 6.00 p.m."
+      },
+      {
+       "t": "p",
+       "text": "**To reserve a seat:** sign name on the {{4}} 3 days in advance"
+      }
+     ]
+    },
+    {
+     "id": "L1-2",
+     "type": "completion",
+     "range": [
+      5,
+      10
+     ],
+     "instructions": [
+      "Complete the table below.",
+      "Write **NO MORE THAN THREE WORDS AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "WEEKEND TRIPS"
+      },
+      {
+       "t": "table",
+       "header": 1,
+       "rows": [
+        [
+         "Place",
+         "Date",
+         "Number of seats",
+         "Optional extra"
+        ],
+        [
+         "St Ives",
+         "{{5}}",
+         "16",
+         "Hepworth Museum"
+        ],
+        [
+         "London",
+         "16th February",
+         "45",
+         "{{6}}"
+        ],
+        [
+         "{{7}}",
+         "3rd March",
+         "18",
+         "S.S. *Great Britain*"
+        ],
+        [
+         "Salisbury",
+         "18th March",
+         "50",
+         "Stonehenge"
+        ],
+        [
+         "Bath",
+         "23rd March",
+         "16",
+         "{{8}}"
+        ]
+       ]
+      },
+      {
+       "t": "sub",
+       "text": "For further information:"
+      },
+      {
+       "t": "p",
+       "text": "Read the {{9}} or see Social Assistant: Jane {{10}}"
+      }
+     ]
+    }
+   ],
+   "transcript": "MAN: Good morning.\nWOMAN: Good morning. How can I help you?\nMAN: I understand that the school organises... umm, trips to different...\nWOMAN: Yes, we run five every month: three during weekends and two Wednesday afternoon trips.\nMAN: What sort of places?\nWOMAN: Well, obviously it varies, but always places of historical interest and also which offer a variety of shopping, because our students always ask about that ... and [Q1] then we go for ones where we know there are guided tours, because this gives a good focus for the visit. [Q2]\nMAN: Do you travel far?\nWOMAN: Well, we're lucky here, obviously, because we're able to say that all our visits are less than three hours drive.\nMAN: How much do they cost?\nWOMAN: Again it varies – between five and fifteen pounds a head, depending on distance.\nMAN: Ah ha...\nWOMAN: Oh, and we do offer to arrange special trips if, you know, there are more than twelve people. [Q3]\nMAN: Oh right, I'll keep that in mind. And what are the times normally?\nWOMAN: We try to keep it pretty fixed so that, that students get to know the pattern. We leave at eight-thirty a.m. and return at six p.m. We figure it's best to keep the day fairly short.\nMAN: Oh yes. And how do we reserve a place?\nWOMAN: You sign your name on the notice board. Do you know where it is? [Q4]\nMAN: Ah ha. I saw it this morning.\nWOMAN: And we do ask that you sign up three days in advance so we know we've got enough people interested to run it, and we can cancel if necessary, with full refund of course.\nMAN: That's fine, thanks.\nMAN: And what visits are planned for this term?\nWOMAN: Right, well I'm afraid the schedule hasn't been printed out yet, but we have confirmed the dates and planned the optional extra visits which you can also book in advance if you want to.\nMAN: Oh that's all right. If you can just give some idea of the weekend ones so I can, you know, work out when to see friends, etcetera.\nWOMAN: Oh sure. Well, the first one is St Ives. That's on the thirteenth of February and we'll have only sixteen places available 'cos we're going by minibus. [Q5] And that's a day in town with the optional extra of visiting the Hepworth Museum.\nMAN: Oh right... yeah ... that sounds good.\nWOMAN: Then there's a London trip on the sixteenth of February and we'll be taking a medium-sized coach so there'll be forty-five places on that, and, let's see, the optional extra is the Tower of London. [Q6]\nMAN: Oh, I've already been there.\nWOMAN: After that there's Bristol on the third of March. [Q7]\nMAN: Where?\nWOMAN: Bristol ... B-R-I-S-T-O-L.\nMAN: OK ...\nWOMAN: That's in a different minibus with eighteen places available, oh, and the optional extra is a visit to the S.S. Great Britain.\nMAN: OK...\nWOMAN: We're going to Salisbury on the eighteenth of March and that's always a popular one because the optional extra is Stonehenge, so we're taking the large coach with fifty seats...\nMAN: Oh good.\nWOMAN: And then the last one is to Bath on the twenty-third of March.\nMAN: Oh yes. Is Bath the Roman city?\nWOMAN: Yes, that's right, and that's in the sixteen-seater minibus.\nMAN: And where's the optional visit?\nWOMAN: It's to the American Museum – well worth a visit. [Q8]\nMAN: OK, well that's great, thanks for all that...\nWOMAN: My pleasure. By the way, if you want more information about any of the trips, have a look in the student newspaper. [Q9]\nMAN: OK.\nWOMAN: Or, have a word with my assistant; her name is Jane Yentob – that's Y-E-N-T-O-B. [Q10]\nMAN: Right, I've got that. Thank you very much for all your help.\nWOMAN: You're very welcome. I hope you enjoy the trips."
+  },
+  {
+   "part": 2,
+   "range": [
+    11,
+    20
+   ],
+   "pages": [
+    12,
+    13
+   ],
+   "groups": [
+    {
+     "id": "L2-1",
+     "type": "completion",
+     "range": [
+      11,
+      13
+     ],
+     "instructions": [
+      "Complete the sentences below.",
+      "Write **NO MORE THAN THREE WORDS AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "RIVERSIDE INDUSTRIAL VILLAGE"
+      },
+      {
+       "t": "p",
+       "text": "Riverside Village was a good place to start an industry because it had water, raw materials and fuels such as {{11}}."
+      },
+      {
+       "t": "p",
+       "text": "The metal industry was established at Riverside Village by {{12}} who lived in the area."
+      },
+      {
+       "t": "p",
+       "text": "There were over {{13}} water-powered mills in the area in the eighteenth century."
+      }
+     ]
+    },
+    {
+     "id": "L2-2",
+     "type": "completion",
+     "range": [
+      14,
+      20
+     ],
+     "instructions": [
+      "Label the plan below.",
+      "Write **NO MORE THAN TWO WORDS** for each answer."
+     ],
+     "image": "images/C4/C4-T1-L2-plan.png",
+     "content": [
+      {
+       "t": "p",
+       "text": "{{14}} Road"
+      },
+      {
+       "t": "p",
+       "text": "The {{15}}"
+      },
+      {
+       "t": "p",
+       "text": "The {{16}}"
+      },
+      {
+       "t": "p",
+       "text": "The {{17}}"
+      },
+      {
+       "t": "p",
+       "text": "The {{18}}"
+      },
+      {
+       "t": "p",
+       "text": "The {{19}}"
+      },
+      {
+       "t": "p",
+       "text": "The {{20}} for the workers"
+      }
+     ]
+    }
+   ],
+   "transcript": "Good afternoon everybody and welcome to Riverside Industrial Village. To start your visit I'm just going to give you a brief account of the history of the museum before letting you roam about on your own. I won't keep you long. OK?\nNow, from where we're standing you've got a good view of the river over there. And it was because of this fast-flowing water that this site was a natural place for manufacturing works. The water and the availability of raw materials in the area, like minerals and iron ore, and also the abundance of local fuels, like coal and firewood, all made this site suitable for industry from a very early time. [Q11]\nWater was the main source of power for the early industries and some of the water wheels were first established in the twelfth century, would you believe? At that time, local craftsmen first built an iron forge just behind the village here, on the bend in the river. [Q12] By the seventeenth and eighteenth centuries the region's rivers supported more than a hundred and sixty water mills – and many of these continued to operate well into the nineteenth century. [Q13] But then the steam engine was invented and then the railways came and the centres of industry were able to move away from the rivers and the countryside and into the towns. So, industrial villages like this one became very rare.\nSo that's the history for you. If you'd like any more information, you can ask me some questions, or you can read further in our excellent guide book.\nNow I'm going to give you a plan of the site and I'd just like to point out where everything is and then you can take a look at everything for yourself.\nI've already pointed out the river, which is on the left. And of course, running along the bottom is Woodside Road, got it? [Q14] OK. Now we're standing at the entrance, see it at the bottom, and immediately to our right is the Ticket Office. [Q15] You won't need that because you've got your group booking, but just past it are the toilets – always good to know where they are. In front of us is the car park, as you can see, and to the left, by the entry gate is the Gift Shop. That's where you can get copies of the guide, like this one here. [Q16]\nNow, beyond the car park all the buildings are arranged in a half circle with a yard in the middle. The big, stone building at the top is the main Workshop. That's where the furnace is and where all the metal was smelted and the tools were cast, as you'll be able to see. [Q17] Now, in the top right-hand corner, that building with bigger windows is the Showroom, where samples of all the tools that were made through the ages are on display. [Q18] In the top left corner is the Grinding Shop, where the tools were sharpened and finished. And on one side of that you can see the Engine Room and on the other is the Café, which isn't an antique, you'll be pleased to know, though they do serve very nice old-fashioned teas. [Q19]\nThe row of buildings you can see on the left are the cottages. These were built for the [Q20] workers towards the end of the eighteenth century and they're still furnished from that period so you can get a good idea of ordinary people's living conditions. Across the yard from them, you can see the stables where the horses were kept for transporting the products. And the separate building in front of them is the Works Office and that still has some of the old accounts on display.\nRight, if anyone wants a guided tour then I'm starting at the Engine Room. If you'd like to come along, this way please, ladies and gentlemen."
+  },
+  {
+   "part": 3,
+   "range": [
+    21,
+    30
+   ],
+   "pages": [
+    14,
+    15,
+    16
+   ],
+   "groups": [
+    {
+     "id": "L3-1",
+     "type": "choice",
+     "range": [
+      21,
+      22
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**.",
+      "Example: Melanie could not borrow any books from the library because A the librarian was out. B she didn't have time to look. C the books had already been borrowed. (Answer: C)"
+     ],
+     "questions": [
+      {
+       "n": 21,
+       "text": "Melanie says she has not started the assignment because",
+       "options": [
+        {
+         "key": "A",
+         "text": "she was doing work for another course."
+        },
+        {
+         "key": "B",
+         "text": "it was a really big assignment."
+        },
+        {
+         "key": "C",
+         "text": "she hasn't spent time in the library."
+        }
+       ]
+      },
+      {
+       "n": 22,
+       "text": "The lecturer says that reasonable excuses for extensions are",
+       "options": [
+        {
+         "key": "A",
+         "text": "planning problems."
+        },
+        {
+         "key": "B",
+         "text": "problems with assignment deadlines."
+        },
+        {
+         "key": "C",
+         "text": "personal illness or accident."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L3-2",
+     "type": "matching",
+     "range": [
+      23,
+      27
+     ],
+     "instructions": [
+      "What recommendations does Dr Johnson make about the journal articles?",
+      "Choose your answers from the box and write the letters **A–G** next to questions 23–27.",
+      "Example: Anderson and Hawker – A"
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "must read"
+      },
+      {
+       "key": "B",
+       "text": "useful"
+      },
+      {
+       "key": "C",
+       "text": "limited value"
+      },
+      {
+       "key": "D",
+       "text": "read first section"
+      },
+      {
+       "key": "E",
+       "text": "read research methods"
+      },
+      {
+       "key": "F",
+       "text": "read conclusion"
+      },
+      {
+       "key": "G",
+       "text": "don't read"
+      }
+     ],
+     "reuse": false,
+     "questions": [
+      {
+       "n": 23,
+       "text": "Jackson"
+      },
+      {
+       "n": 24,
+       "text": "Roberts"
+      },
+      {
+       "n": 25,
+       "text": "Morris"
+      },
+      {
+       "n": 26,
+       "text": "Cooper"
+      },
+      {
+       "n": 27,
+       "text": "Forster"
+      }
+     ]
+    },
+    {
+     "id": "L3-3",
+     "type": "completion",
+     "range": [
+      28,
+      30
+     ],
+     "instructions": [
+      "Label the chart below.",
+      "Choose your answers from the box below and write the letters **A–H** next to questions 28–30."
+     ],
+     "image": "images/C4/C4-T1-L3-chart.png",
+     "content": [
+      {
+       "t": "p",
+       "text": "{{28}}"
+      },
+      {
+       "t": "p",
+       "text": "{{29}}"
+      },
+      {
+       "t": "p",
+       "text": "{{30}}"
+      }
+     ],
+     "optionsTitle": "Possible reasons",
+     "options": [
+      {
+       "key": "A",
+       "text": "uncooperative landlord"
+      },
+      {
+       "key": "B",
+       "text": "environment"
+      },
+      {
+       "key": "C",
+       "text": "space"
+      },
+      {
+       "key": "D",
+       "text": "noisy neighbours"
+      },
+      {
+       "key": "E",
+       "text": "near city"
+      },
+      {
+       "key": "F",
+       "text": "work location"
+      },
+      {
+       "key": "G",
+       "text": "transport"
+      },
+      {
+       "key": "H",
+       "text": "rent"
+      }
+     ]
+    }
+   ],
+   "transcript": "MELANIE: Excuse me, Dr Johnson. May I speak to you for a minute?\nDR JOHNSON: Sure. Come in.\nMELANIE: I'm Melanie Griffin. I'm taking your course in Population Studies.\nDR JOHNSON: Right. Well, Melanie, how can I help you?\nMELANIE: I'm ... having a bit of trouble with the second assignment, and it's due in twelve days.\nDR JOHNSON: What sort of trouble are you having? Is the assignment question a problem?\nMELANIE: Well, that's part of the problem. I'm also having – been having – trouble getting hold of the books. I've been to the library several times, and all the books are out.\nDR JOHNSON: Sounds like you should have started borrowing books a bit earlier.\nMELANIE: Well, I had a really big assignment due in for another course, and I've been spending all my time on that, and I thought ... [Q21]\nDR JOHNSON: ... You might get an extension of time to finish your assignment for me?\nMELANIE: If that's possible, but I don't know...\nDR JOHNSON: Well, yes, it is possible, but extensions are normally given only for medical or [Q22] compassionate reasons, otherwise it's really a question of organising your study, and we don't like giving extensions to students who simply didn't plan their work properly. What did you get for your first assignment?\nMELANIE: I got eighty-seven per cent.\nDR JOHNSON: Mmm, yes, you did very well indeed, so obviously you can produce good work.\nMELANIE: I don't think I'll need too much extra time, as long as I can get hold of some of the important references.\nDR JOHNSON: Well, since you did so well in your first assignment, I'm prepared to give you an extra two weeks for this one, so that'll mean you'll need to submit it about a month from now.\nMELANIE: Thank you.\nDR JOHNSON: Now, what about the reading materials? Have you checked out the journal articles in the list?\nMELANIE: Umm, no, not yet, there were about twenty of them, and I wasn't sure which ones would be most useful or important.\nDR JOHNSON: Well, they're all useful, but I don't expect anyone to read them all, because a number of them deal with the same issues. Let me give you some suggestions. The article by Anderson and Hawker is really worth reading.\nMELANIE: Right, I'll read that one.\nDR JOHNSON: You should also read the article by Jackson, but just look at the part on the research methodology – how they did it. [Q23]\nMELANIE: OK... Jackson, got that...\nDR JOHNSON: And if you have time, the one by Roberts says very relevant things, although it's not essential.\nMELANIE: So, OK, if it's useful, I'll try and read that one ... [Q24]\nDR JOHNSON: Now, the one by Morris. I wouldn't bother with that at this stage, if I were you.\nMELANIE: OK, I won't bother with Morris. Oh, now, someone told me the article by Cooper is important. [Q25]\nDR JOHNSON: Well, yes, in a way, but just look at the last part, where he discusses the research results. [Q26] And lastly, there's Forster – I can't think why I included that one. It's not bad and could be of some help, but not that much. [Q27]\nDR JOHNSON: Now, let's deal with the assignment question. What's the problem there?\nMELANIE: It's the graph on page two.\nDR JOHNSON: What seems to be the problem? It's just the bar graph showing reasons why people change where they live.\nMELANIE: Well, I've got a photocopy but the reasons at the bottom are missing.\nDR JOHNSON: Ah, OK. Look at the first bar on the graph – now that indicates the number of people who move because they want more space.\nMELANIE: Oh I see ... bar one. OK... Now what about the next bar?\nDR JOHNSON: Bar two is to do with the people living nearby disturbing them, so they chose to move away to somewhere quieter. [Q28] Now let's look at bar number three... another reason people change their place of living is because they want to be closer to the city.\nMELANIE: OK. Proximity to the city is an issue ...\nDR JOHNSON: Now... bar number four refers to problems when the owner of the property won't help fix things that go wrong. In other words, the owner is not helpful and so the tenants move out. [Q29]\nMELANIE: OK... Now what about bar five?\nDR JOHNSON: Bar five is about those people who move because they need a bus or train to get them into the city or to go to work.\nMELANIE: OK ... And bar six?\nDR JOHNSON: Bar number six is interesting. That reason was given quite a lot – people moving because they wanted to be in a more attractive neighbourhood. [Q30]\nMELANIE: Oh, yes, thank you very much."
+  },
+  {
+   "part": 4,
+   "range": [
+    31,
+    40
+   ],
+   "pages": [
+    17
+   ],
+   "groups": [
+    {
+     "id": "L4-1",
+     "type": "completion",
+     "range": [
+      31,
+      40
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **NO MORE THAN TWO WORDS** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "THE URBAN LANDSCAPE"
+      },
+      {
+       "t": "sub",
+       "text": "Two areas of focus:"
+      },
+      {
+       "t": "li",
+       "text": "the effect of vegetation on the urban climate"
+      },
+      {
+       "t": "li",
+       "text": "ways of planning our {{31}} better"
+      },
+      {
+       "t": "sub",
+       "text": "Large-scale impact of trees:"
+      },
+      {
+       "t": "li",
+       "text": "they can make cities more or less {{32}}"
+      },
+      {
+       "t": "li",
+       "text": "in summer they can make cities cooler"
+      },
+      {
+       "t": "li",
+       "text": "they can make inland cities more {{33}}"
+      },
+      {
+       "t": "sub",
+       "text": "Local impact of trees:"
+      },
+      {
+       "t": "li",
+       "text": "they can make local areas"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "– more {{34}}"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "– cooler"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "– more humid"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "– less windy"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "– less {{35}}"
+      },
+      {
+       "t": "sub",
+       "text": "Comparing trees and buildings"
+      },
+      {
+       "t": "sub",
+       "text": "Temperature regulation:"
+      },
+      {
+       "t": "li",
+       "text": "trees evaporate water through their {{36}}"
+      },
+      {
+       "t": "li",
+       "text": "building surfaces may reach high temperatures"
+      },
+      {
+       "t": "sub",
+       "text": "Wind force:"
+      },
+      {
+       "t": "li",
+       "text": "tall buildings cause more wind at {{37}} level"
+      },
+      {
+       "t": "li",
+       "text": "trees {{38}} the wind force"
+      },
+      {
+       "t": "sub",
+       "text": "Noise:"
+      },
+      {
+       "t": "li",
+       "text": "trees have a small effect on traffic noise"
+      },
+      {
+       "t": "li",
+       "text": "{{39}} frequency noise passes through trees"
+      },
+      {
+       "t": "sub",
+       "text": "Important points to consider:"
+      },
+      {
+       "t": "li",
+       "text": "trees require a lot of sunlight, water and {{40}} to grow"
+      }
+     ]
+    }
+   ],
+   "transcript": "Good day, ladies and gentlemen. I have been asked today to talk to you about the urban landscape. There are two major areas that I will focus on in my talk: how vegetation can have a significant effect on urban climate, and how we can better plan our cities using trees to provide a more comfortable environment for us to live in. [Q31]\nTrees can have a significant impact on our cities. They can make a city, as a whole, a bit less windy or a bit more windy, if that's what you want. [Q32] They can make it a bit cooler if it's a hot summer day in an Australian city, or they can make it a bit more humid if it's a dry inland city. [Q33] On the local scale – that is, in particular areas within the city – trees can make the local area more shady, cooler, more humid and much less windy. [Q34] In fact trees and planting of various kinds can be used to make city streets actually less dangerous in particular areas. [Q35] How do trees do all that, you ask?\nWell, the main difference between a tree and a building is a tree has got an internal mechanism to keep the temperature regulated. It evaporates water through its leaves and that means that the temperature of the leaves is never very far from our own body temperature. [Q36] The temperature of a building surface on a hot sunny day can easily be twenty degrees more than our temperature. Trees, on the other hand, remain cooler than buildings because they sweat. This means that they can humidify the air and cool it – a property which can be exploited to improve the local climate.\nTrees can also help break the force of winds. The reason that high buildings make it windier at ground level is that, as the wind goes higher and higher, it goes faster and faster. [Q37] When the wind hits the building, it has to go somewhere. Some of it goes over the top and some goes around the sides of the building, forcing those high level winds down to ground level. That doesn't happen when you have trees. Trees filter the wind and considerably reduce it, [Q38] preventing those very large strong gusts that you so often find around tall buildings.\nAnother problem in built-up areas is that traffic noise is intensified by tall buildings. By planting a belt of trees at the side of the road, you can make things a little quieter, but much of the vehicle noise still goes through the trees. Trees can also help reduce the amount of noise in the surroundings, although the effect is not as large as people like to think. Low-frequency noise, in particular, just goes through the trees as though they aren't there. [Q39]\nAlthough trees can significantly improve the local climate, they do however take up a lot of space. There are root systems to consider and branches blocking windows and so on. It may therefore be difficult to fit trees into the local landscape. There is not a great deal you can do if you have what we call a street canyon – a whole set of high-rises enclosed in a narrow street. Trees need water to grow. They also need some sunlight to grow and you need room to put them. [Q40] If you have the chance of knocking buildings down and replacing them, then suddenly you can start looking at different ways to design the streets and to introduce... (fade out)"
+  }
+ ],
+ "answers": {
+  "1": {
+   "a": [
+    "shopping",
+    "variety of shopping"
+   ],
+   "k": "shopping / variety of shopping"
+  },
+  "2": {
+   "a": [
+    "guided tours"
+   ]
+  },
+  "3": {
+   "a": [
+    "more than 12",
+    "over 12"
+   ],
+   "k": "more than 12 / over 12"
+  },
+  "4": {
+   "a": [
+    "notice board"
+   ]
+  },
+  "5": {
+   "a": [
+    "13th February"
+   ]
+  },
+  "6": {
+   "a": [
+    "Tower of London"
+   ]
+  },
+  "7": {
+   "a": [
+    "Bristol"
+   ]
+  },
+  "8": {
+   "a": [
+    "American Museum"
+   ]
+  },
+  "9": {
+   "a": [
+    "student newspaper"
+   ]
+  },
+  "10": {
+   "a": [
+    "Yentob"
+   ]
+  },
+  "11": {
+   "a": [
+    "coal and firewood",
+    "firewood and coal"
+   ],
+   "k": "IN EITHER ORDER, BOTH REQUIRED FOR ONE MARK coal firewood"
+  },
+  "12": {
+   "a": [
+    "local craftsmen"
+   ]
+  },
+  "13": {
+   "a": [
+    "160"
+   ]
+  },
+  "14": {
+   "a": [
+    "Woodside"
+   ]
+  },
+  "15": {
+   "a": [
+    "Ticket Office"
+   ]
+  },
+  "16": {
+   "a": [
+    "Gift Shop"
+   ]
+  },
+  "17": {
+   "a": [
+    "main Workshop",
+    "Workshop"
+   ],
+   "k": "(main) Workshop"
+  },
+  "18": {
+   "a": [
+    "Showroom"
+   ]
+  },
+  "19": {
+   "a": [
+    "Café"
+   ]
+  },
+  "20": {
+   "a": [
+    "cottages"
+   ]
+  },
+  "21": {
+   "a": [
+    "A"
+   ]
+  },
+  "22": {
+   "a": [
+    "C"
+   ]
+  },
+  "23": {
+   "a": [
+    "E"
+   ]
+  },
+  "24": {
+   "a": [
+    "B"
+   ]
+  },
+  "25": {
+   "a": [
+    "G"
+   ]
+  },
+  "26": {
+   "a": [
+    "F"
+   ]
+  },
+  "27": {
+   "a": [
+    "C"
+   ]
+  },
+  "28": {
+   "a": [
+    "D"
+   ]
+  },
+  "29": {
+   "a": [
+    "A"
+   ]
+  },
+  "30": {
+   "a": [
+    "B"
+   ]
+  },
+  "31": {
+   "a": [
+    "cities",
+    "environment"
+   ],
+   "k": "cities / environment"
+  },
+  "32": {
+   "a": [
+    "windy"
+   ]
+  },
+  "33": {
+   "a": [
+    "humid"
+   ]
+  },
+  "34": {
+   "a": [
+    "shady",
+    "shaded"
+   ],
+   "k": "shady / shaded"
+  },
+  "35": {
+   "a": [
+    "dangerous"
+   ]
+  },
+  "36": {
+   "a": [
+    "leaves"
+   ]
+  },
+  "37": {
+   "a": [
+    "ground"
+   ]
+  },
+  "38": {
+   "a": [
+    "considerably reduce",
+    "considerably decrease",
+    "reduce",
+    "decrease",
+    "filter"
+   ],
+   "k": "considerably reduce / decrease / filter"
+  },
+  "39": {
+   "a": [
+    "low"
+   ]
+  },
+  "40": {
+   "a": [
+    "space",
+    "room"
+   ],
+   "k": "space / room"
+  }
+ },
+ "issues": [
+  "Listening Q11: the question paper prints two dotted lines ('such as ...... and ......') for the single question 11; the key requires both words (IN EITHER ORDER, BOTH REQUIRED FOR ONE MARK), so they are rendered as one gap {{11}} whose answer is 'coal and firewood' (either order)."
+ ]
+}

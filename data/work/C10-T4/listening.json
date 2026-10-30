@@ -1,0 +1,810 @@
+{
+ "parts": [
+  {
+   "part": 1,
+   "range": [
+    1,
+    10
+   ],
+   "pages": [
+    72,
+    73
+   ],
+   "groups": [
+    {
+     "id": "L1-1",
+     "type": "completion",
+     "range": [
+      1,
+      6
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **ONE WORD ONLY** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "THORNDYKE'S BUILDERS"
+      },
+      {
+       "t": "note",
+       "text": "*Example*"
+      },
+      {
+       "t": "li",
+       "text": "Customer heard about Thorndyke's from a *friend*"
+      },
+      {
+       "t": "li",
+       "text": "Name: Edith {{1}}"
+      },
+      {
+       "t": "li",
+       "text": "Address: Flat 4,"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "{{2}} Park Flats"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "(Behind the {{3}})"
+      },
+      {
+       "t": "li",
+       "text": "Phone number: 875934"
+      },
+      {
+       "t": "li",
+       "text": "Best time to contact customer: during the {{4}}"
+      },
+      {
+       "t": "li",
+       "text": "Where to park: opposite entrance next to the {{5}}"
+      },
+      {
+       "t": "li",
+       "text": "Needs full quote showing all the jobs and the {{6}}"
+      }
+     ]
+    },
+    {
+     "id": "L1-2",
+     "type": "completion",
+     "range": [
+      7,
+      10
+     ],
+     "instructions": [
+      "Complete the table below.",
+      "Write **ONE WORD ONLY** for each answer."
+     ],
+     "content": [
+      {
+       "t": "table",
+       "header": 1,
+       "rows": [
+        [
+         "Area",
+         "Work to be done",
+         "Notes"
+        ],
+        [
+         "Kitchen",
+         "Replace the {{7}} in the door",
+         "Fix tomorrow"
+        ],
+        [
+         "",
+         "Paint wall above the {{8}}",
+         "Strip paint and plaster approximately one {{9}} in advance"
+        ],
+        [
+         "Garden",
+         "One {{10}} needs replacing (end of garden)",
+         ""
+        ]
+       ]
+      }
+     ]
+    }
+   ],
+   "transcript": "MR THORNDYKE: Thorndyke's.\nEDITH: Good morning. Is that Mr Thorndyke?\nMR THORNDYKE: Speaking. How can I help?\nEDITH: I've got quite a few things which need painting and fixing in the flat and I wonder whether you'd be able to do the work.\nMR THORNDYKE: I'm sure I'd be able to help but let me take down a few details.\nEDITH: Yes, of course.\nMR THORNDYKE: Well, firstly, how did you hear about us?\nEDITH: It was my friend May Hampton ... you did some excellent work for her a couple of years ago. Do you remember?\nMR THORNDYKE: Oh, yes, that was in West Park Flats, lovely lady.\nEDITH: Yes, she is.\nMR THORNDYKE: And what's your name, please?\nEDITH: It's Edith Pargetter. [Q1]\nMR THORNDYKE: Edith... can you spell your surname, please?\nEDITH: It's P-A-R-G-E-double T-E-R.\nMR THORNDYKE: Double T, right. And do you live in West Park Flats as well?\nEDITH: No, actually it's East Park, Flat 4. [Q2]\nMR THORNDYKE: Oh, right, that's over the road, I seem to remember – quite difficult to get to.\nEDITH: Yes, it's at the back of the library. [Q3]\nMR THORNDYKE: Right, I know. And what's your phone number?\nEDITH: 875934 but I'm out a great deal in the afternoons and evenings.\nMR THORNDYKE: So would the best time to ring you be in the morning? [Q4]\nEDITH: Yes.\nMR THORNDYKE: Fine. I've made a note of that. Can I just ask, I'll be in a van and I know parking's rather difficult round your flats. Where would you recommend?\nEDITH: Well, I always tell people in larger vehicles to park by the postbox on the [Q5] other side of the road from the entrance.\nMR THORNDYKE: Good, thanks.\nEDITH: And will you be able to give me a full itemised quote?\nMR THORNDYKE: Oh, yes, I'll list all the jobs separately with individual prices. [Q6]\nEDITH: That'd be a great help.\nMR THORNDYKE: No problem.\nMR THORNDYKE: Now, what would you like me to do?\nEDITH: Firstly and most urgently is in the kitchen. With all the weather damage, the glass in the door has cracked and I'd need that fixing ...\nMR THORNDYKE: I presume you mean replacing? [Q7]\nEDITH: Oh, yes. And as soon as possible...\nMR THORNDYKE: What I'll do is come round tomorrow morning and do that immediately.\nEDITH: Thank you so much. The other things aren't so urgent but ...\nMR THORNDYKE: Now, I'll make a note of everything you want doing.\nEDITH: Well, in the kitchen I'd like some painting doing.\nMR THORNDYKE: All the kitchen walls?\nEDITH: Just the area over the cooker. It's very greasy... [Q8]\nMR THORNDYKE: Right ... it does tend to get that way!\nEDITH: Yes!\nMR THORNDYKE: Well, if you want a proper job done what I'd need to do is strip the old [Q9] paint and plaster it about a week before I paint it.\nEDITH: Of course. Now, May tells me you also do work in the garden.\nMR THORNDYKE: That's right.\nEDITH: Well, I'd like you to replace a fence. [Q10]\nMR THORNDYKE: Just one?\nEDITH: Yes, at the far end.\nMR THORNDYKE: Fine. Shouldn't be a problem.\nEDITH: And that's the lot.\nMR THORNDYKE: Fine. Yeah, as I say I can come round tomorrow morning to look over things with you.\nEDITH: That's great, thank you.\nMR THORNDYKE: So, I'll look forward to seeing you tomorrow at ..."
+  },
+  {
+   "part": 2,
+   "range": [
+    11,
+    20
+   ],
+   "pages": [
+    74,
+    75
+   ],
+   "groups": [
+    {
+     "id": "L2-1",
+     "type": "choice",
+     "range": [
+      11,
+      15
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "title": "MANHAM PORT",
+     "questions": [
+      {
+       "n": 11,
+       "text": "Why did a port originally develop at Manham?",
+       "options": [
+        {
+         "key": "A",
+         "text": "It was safe from enemy attack."
+        },
+        {
+         "key": "B",
+         "text": "It was convenient for river transport."
+        },
+        {
+         "key": "C",
+         "text": "It had a good position on the sea coast."
+        }
+       ]
+      },
+      {
+       "n": 12,
+       "text": "What caused Manham's sudden expansion during the Industrial Revolution?",
+       "options": [
+        {
+         "key": "A",
+         "text": "the improvement in mining techniques"
+        },
+        {
+         "key": "B",
+         "text": "the increase in demand for metals"
+        },
+        {
+         "key": "C",
+         "text": "the discovery of tin in the area"
+        }
+       ]
+      },
+      {
+       "n": 13,
+       "text": "Why did rocks have to be sent away from Manham to be processed?",
+       "options": [
+        {
+         "key": "A",
+         "text": "shortage of fuel"
+        },
+        {
+         "key": "B",
+         "text": "poor transport systems"
+        },
+        {
+         "key": "C",
+         "text": "lack of skills among local people"
+        }
+       ]
+      },
+      {
+       "n": 14,
+       "text": "What happened when the port declined in the twentieth century?",
+       "options": [
+        {
+         "key": "A",
+         "text": "The workers went away."
+        },
+        {
+         "key": "B",
+         "text": "Traditional skills were lost."
+        },
+        {
+         "key": "C",
+         "text": "Buildings were used for new purposes."
+        }
+       ]
+      },
+      {
+       "n": 15,
+       "text": "What did the Manham Trust hope to do?",
+       "options": [
+        {
+         "key": "A",
+         "text": "discover the location of the original port"
+        },
+        {
+         "key": "B",
+         "text": "provide jobs for the unemployed"
+        },
+        {
+         "key": "C",
+         "text": "rebuild the port complex"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L2-2",
+     "type": "completion",
+     "range": [
+      16,
+      20
+     ],
+     "instructions": [
+      "Complete the table below.",
+      "Write **NO MORE THAN TWO WORDS** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Tourist attractions in Manham"
+      },
+      {
+       "t": "table",
+       "header": 1,
+       "rows": [
+        [
+         "Place",
+         "Features and activities",
+         "Advice"
+        ],
+        [
+         "copper mine",
+         "specially adapted miners' {{16}} take visitors into the mountain",
+         "the mine is {{17}} and enclosed – unsuitable for children and animals"
+        ],
+        [
+         "village school",
+         "classrooms and a special exhibition of {{18}}",
+         "a {{19}} is recommended"
+        ],
+        [
+         "'The George'\n(old sailing ship)",
+         "the ship's wheel (was lost but has now been restored)",
+         "children shouldn't use the {{20}}"
+        ]
+       ]
+      }
+     ]
+    }
+   ],
+   "transcript": "Welcome to Manham Port, where a thousand years of history are brought to life. All the family can enjoy a day out at Manham: visit our copper mine, see models of the machinery it used, have your photo taken in nineteenth-century costume, experience at first hand how people lived at different stages throughout history, and especially how children studied, worked and played.\nThe port of Manham is located in beautiful and peaceful countryside, on a bend in the great River Avon, and developed here because it's the highest navigable point of the [Q11] Avon – boats can go no higher up this river – and proved a handy place to load and unload cargo to and from the sea, which is over 23 miles away. A small port was already established here when, about 900 years ago, tin was discovered nearby, though it wasn't [Q12] until the Industrial Revolution, when a tremendous need for metals of all kinds developed, that Manham expanded to become one of the busiest ports in the country'. And because it was already so busy, prospectors began to look for other minerals, and by the end of the nineteenth century, lead, copper, manganese and arsenic were added to the cargos leaving Manham.\nIn the early days, the ores had been smelted – or processed – in the same area they were mined. But, as demand grew, the smelting process required huge factory furnaces or fires to melt the metal from the rock and there was not enough coal in the local area, so the [Q13] rocks containing minerals had to be shipped long distances.\nSadly, in the twentieth century, the great port of Manham declined, and thousands of [Q14] workers were forced to emigrate out of the area. The building at the port fell into disrepair, and the place became almost forgotten. But then, the Manham Trust was formed to conserve the historical resources of the area. It organised scores of local volunteers to remove undergrowth to find the original outlines of the installations. It then brought in paid [Q15] professionals to match installations with maps of the original port complex and to set about reconstructing it. Today you can see the results of this ambitious programme of restoration. The intention, and we believe this will be realised before the end of the year, is to return Manham Port to the condition it reached at its peak as 'the greatest copper port in the country'.\nBut what can you do and see on your visit today? Here are just a few highlights. We suggest you start with the visit to the copper mine. Travel on converted mining trains and [Q16] journey into the depths of the mountain along seams once worked by hundreds of miners. Watch out especially for the great pumping machines which rid the mine of water. But please be warned that, like all mines, ours is very dark and closed in and we do say that [Q17] children under five and also dogs should NOT be taken into the mine.\nThe next recommended visit is to the village school. While looking round the classrooms, [Q18] take a special look at our display of games, which is one of the largest in the world. And it's [Q19] recommended that you time your visit to coincide with a guided tour. This will give you the opportunity to ask lots of questions. Near the school is the beautiful old sailing ketch called 'The George'. You are welcome to board the boat and look round the cabins. Look out for the ship's wheel which was missing until only five years ago when it was dredged out of the silt by a local fisherman. We have no idea how it got there but it's been polished and proudly restored to its original place on the boat. Please take care going down the ladders [Q20] if you wish to visit the lower deck – we don't recommend you allow young children to use them.\nSo we hope you have a memorable visit to Manham Port and will tell your friends all about us."
+  },
+  {
+   "part": 3,
+   "range": [
+    21,
+    30
+   ],
+   "pages": [
+    76,
+    77
+   ],
+   "groups": [
+    {
+     "id": "L3-1",
+     "type": "multi",
+     "range": [
+      21,
+      22
+     ],
+     "n": [
+      21,
+      22
+     ],
+     "select": 2,
+     "instructions": [
+      "Choose **TWO** letters, **A–E**."
+     ],
+     "text": "Which **TWO** skills did Laura improve as a result of her work placement?",
+     "options": [
+      {
+       "key": "A",
+       "text": "communication"
+      },
+      {
+       "key": "B",
+       "text": "design"
+      },
+      {
+       "key": "C",
+       "text": "IT"
+      },
+      {
+       "key": "D",
+       "text": "marketing"
+      },
+      {
+       "key": "E",
+       "text": "organisation"
+      }
+     ]
+    },
+    {
+     "id": "L3-2",
+     "type": "multi",
+     "range": [
+      23,
+      24
+     ],
+     "n": [
+      23,
+      24
+     ],
+     "select": 2,
+     "instructions": [
+      "Choose **TWO** letters, **A–E**."
+     ],
+     "text": "Which **TWO** immediate benefits did the company get from Laura's work placement?",
+     "options": [
+      {
+       "key": "A",
+       "text": "updates for its software"
+      },
+      {
+       "key": "B",
+       "text": "cost savings"
+      },
+      {
+       "key": "C",
+       "text": "an improved image"
+      },
+      {
+       "key": "D",
+       "text": "new clients"
+      },
+      {
+       "key": "E",
+       "text": "a growth in sales"
+      }
+     ]
+    },
+    {
+     "id": "L3-3",
+     "type": "matching",
+     "range": [
+      25,
+      30
+     ],
+     "instructions": [
+      "What source of information should Tim use at each of the following stages of the work placement?",
+      "Choose **SIX** answers from the box and write the correct letter, **A–G**, next to questions 25–30."
+     ],
+     "optionsTitle": "Sources of information",
+     "options": [
+      {
+       "key": "A",
+       "text": "company manager"
+      },
+      {
+       "key": "B",
+       "text": "company's personnel department"
+      },
+      {
+       "key": "C",
+       "text": "personal tutor"
+      },
+      {
+       "key": "D",
+       "text": "psychology department"
+      },
+      {
+       "key": "E",
+       "text": "mentor"
+      },
+      {
+       "key": "F",
+       "text": "university careers officer"
+      },
+      {
+       "key": "G",
+       "text": "internet"
+      }
+     ],
+     "title": "Stages of the work placement procedure",
+     "questions": [
+      {
+       "n": 25,
+       "text": "obtaining booklet"
+      },
+      {
+       "n": 26,
+       "text": "discussing options"
+      },
+      {
+       "n": 27,
+       "text": "getting updates"
+      },
+      {
+       "n": 28,
+       "text": "responding to invitation for interview"
+      },
+      {
+       "n": 29,
+       "text": "informing about outcome of interview"
+      },
+      {
+       "n": 30,
+       "text": "requesting a reference"
+      }
+     ]
+    }
+   ],
+   "transcript": "TIM: Hi, Laura – could you spare a few minutes to talk about the work placement you did last summer? I'm thinking of doing one myself...\nLAURA: Hi, Tim. Sure.\nTIM: Didn't you do yours at an environmental services company?\nLAURA: That's right ... It's only a very small company and they needed someone to produce a company brochure, and I wanted to get some business experience because I'm interested in a career in occupational psychology in a business environment. It was good because I had overall responsibility for the project.\nTIM: What kind of skills do you think you developed on the placement? I mean, apart from the ones you already had ... Did you have to do all the artwork for the brochure, the layout and everything?\nLAURA: We hired the services of a professional photographer for that. I did have to use my IT skills to a certain extent because I cut and pasted text from marketing leaflets, but that didn't involve anything I hadn't done before.\nTIM: Do you think you got any better at managing your time and prioritising [Q21] [Q22] things? You always used to say you had trouble with that ...\nLAURA: Oh, definitely. There was so much pressure to meet the project deadline. And I also got better at explaining things and asserting my opinions, [Q21] [Q22] because I had to have weekly consultations with the marketing manager and give him a progress report.\nTIM: It sounds as if you got a lot out of it then.\nLAURA: Absolutely. It was really worthwhile ... But you know, the company benefited too ...\nTIM: Yes, they must have done. After all, if they'd used a professional advertising agency to produce their brochure instead of doing it in-house, presumably they'd have paid a lot more?\nLAURA: Oh, yes. I worked it out – it would have been 250 per cent more. And I [Q23] [Q24] thought the end result was good, even though we did everything on site. The company has quite a powerful computer and I managed to borrow some scanning software from the university. The new brochure looks really professional; it enhances the image of the company straight away. [Q23] [Q24]\nTIM: So in the long run it should help them to attract clients, and improve their sales figures?\nLAURA: That's the idea. Yeah.\nTIM: Well, all in all it sounds very positive – I think I will go ahead and apply for a placement myself. How do I go about it?\nLAURA: It's easy enough to do, because there's a government agency called STEP – S-T-E-P – that organises placements for students. You should start by getting their booklet with all the details – I expect you can download one from their website.\nTIM: Actually, they've got copies in the psychology department – I've seen [Q25] them there. I'll just go to the office and pick one up.\nLAURA: Right. And then if I were you, after I'd looked at it I'd go over all the options with someone ...\nTIM: I suppose I should ask my tutor's advice. He knows more about me than anyone.\nLAURA: One of the career officers would be better, they've got more knowledge [Q26] about the jobs market than your personal tutor would have.\nTIM: OK ...\nLAURA: And then when you know what you want you can register with STEP – you'll find their address in the booklet. And once you've registered they assign you to a mentor who looks after your application.\nTIM: And then I suppose you just sit back and wait till you hear something?\nLAURA: They told me at the careers office that it's best to be proactive, and get [Q27] updates yourself by checking the website for new placement alerts. Your mentor is supposed to keep you informed, but you can't rely on that.\nTIM: I don't suppose it's a good idea to get in touch with companies directly, is it?\nLAURA: Not really ... But it is the company who notifies you if they want you to go [Q28] for an interview. You get a letter of invitation or an email from personnel departments.\nTIM: And do I reply directly to them?\nLAURA: Yes, you do. STEP only gets involved again once you've been made a job offer.\nTIM: Right ... So, once you've had an interview you should let your mentor [Q29] know what the outcome is? I mean whether you're offered a job, and whether you've decided to accept it?\nLAURA: That's right. They'll inform the careers office once a placement has been agreed, so you don't have to do that.\nTIM: Is that all then?\nLAURA: More or less. Only once you've accepted an offer you'll probably have to supply a reference, because the placement will be conditional on that. And that's something you should ask your own tutor to provide. He knows [Q30] about your academic ability and also about your qualities, like reliability.\nTIM: Well, thanks very much for the information – I'm starting to look forward ..."
+  },
+  {
+   "part": 4,
+   "range": [
+    31,
+    40
+   ],
+   "pages": [
+    78,
+    79
+   ],
+   "groups": [
+    {
+     "id": "L4-1",
+     "type": "choice",
+     "range": [
+      31,
+      33
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "title": "Nanotechnology: technology on a small scale",
+     "questions": [
+      {
+       "n": 31,
+       "text": "The speaker says that one problem with nanotechnology is that",
+       "options": [
+        {
+         "key": "A",
+         "text": "it could threaten our way of life."
+        },
+        {
+         "key": "B",
+         "text": "it could be used to spy on people."
+        },
+        {
+         "key": "C",
+         "text": "it is misunderstood by the public."
+        }
+       ]
+      },
+      {
+       "n": 32,
+       "text": "According to the speaker, some scientists believe that nano-particles",
+       "options": [
+        {
+         "key": "A",
+         "text": "should be restricted to secure environments."
+        },
+        {
+         "key": "B",
+         "text": "should be used with more caution."
+        },
+        {
+         "key": "C",
+         "text": "should only be developed for essential products."
+        }
+       ]
+      },
+      {
+       "n": 33,
+       "text": "In the speaker's opinion, research into nanotechnology",
+       "options": [
+        {
+         "key": "A",
+         "text": "has yet to win popular support."
+        },
+        {
+         "key": "B",
+         "text": "could be seen as unethical."
+        },
+        {
+         "key": "C",
+         "text": "ought to be continued."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L4-2",
+     "type": "completion",
+     "range": [
+      34,
+      40
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **ONE WORD ONLY** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Uses of Nanotechnology"
+      },
+      {
+       "t": "sub",
+       "text": "Transport"
+      },
+      {
+       "t": "li",
+       "text": "Nanotechnology could allow the development of stronger {{34}}."
+      },
+      {
+       "t": "li",
+       "text": "Planes would be much lighter in weight."
+      },
+      {
+       "t": "li",
+       "text": "{{35}} travel will be made available to the masses."
+      },
+      {
+       "t": "sub",
+       "text": "Technology"
+      },
+      {
+       "t": "li",
+       "text": "Computers will be even smaller, faster, and will have a greater {{36}}."
+      },
+      {
+       "t": "li",
+       "text": "{{37}} energy will become more affordable."
+      },
+      {
+       "t": "sub",
+       "text": "The Environment"
+      },
+      {
+       "t": "li",
+       "text": "Nano-robots could rebuild the ozone layer."
+      },
+      {
+       "t": "li",
+       "text": "Pollutants such as {{38}} could be removed from water more easily."
+      },
+      {
+       "t": "li",
+       "text": "There will be no {{39}} from manufacturing."
+      },
+      {
+       "t": "sub",
+       "text": "Health and Medicine"
+      },
+      {
+       "t": "li",
+       "text": "New methods of food production could eradicate famine."
+      },
+      {
+       "t": "li",
+       "text": "Analysis of medical {{40}} will be speeded up."
+      },
+      {
+       "t": "li",
+       "text": "Life expectancy could be increased."
+      }
+     ]
+    }
+   ],
+   "transcript": "Today we're going to look at an important area of science, namely nanotechnology. So what is it? Nano means tiny, so it's science and engineering on the scale of atoms and molecules. The idea is that by controlling and rearranging atoms, you can literally create anything. However, as we'll see, the science of the small has some big implications affecting us in many ways.\nThere's no doubt that nanotechnology promises so much for civilisation. However, all new technologies have their teething problems. And with nanotechnology, society often gets the [Q31] wrong idea about its capabilities. Numerous science-fiction books and movies have raised people's fears about nanotechnology – with scenarios such as inserting little nano-robots into your body that monitor everything you do without you realising it, or self-replicating nano-robots that eventually take over the world.\nSo how do we safeguard such a potentially powerful technology? Some scientists [Q32] recommend that nano-particles be treated as new chemicals with separate safety tests and clear labelling. They believe that greater care should also be taken with nano-particles in laboratories and factories. Others have called for a withdrawal of new nano products such as cosmetics and a temporary halt to many kinds of nanotech research.\nBut as far as I'm concerned there's a need to plough ahead with the discoveries and [Q33] applications of nanotechnology. I really believe that most scientists would welcome a way to guard against unethical uses of such technology. We can't go around thinking that all innovation is bad, all advancement is bad. As with the debate about any new technology, it is how you use it that's important. So let's look at some of its possible uses.\nThanks to nanotechnology, there could be a major breakthrough in the field of transportation with the production of more durable metals. These could be virtually [Q34] unbreakable, lighter and much more pliable leading to planes that are 50 times lighter than at present. Those same improved capabilities will dramatically reduce the cost of travelling [Q35] into space making it more accessible to ordinary people and opening up a totally new holiday destination.\nIn terms of technology, the computer industry will be able to shrink computer parts down to minute sizes. We need nanotechnology in order to create a new generation of computers [Q36] that will work even faster and will have a million times more memory but will be about the size of a sugar cube. Nanotechnology could also revolutionise the way that we generate power. The cost of solar cells will be drastically reduced so harnessing this energy will be [Q37] far more economical than at present.\nBut nanotechnology has much wider applications than this and could have an enormous impact on our environment. For instance, tiny airborne nano-robots could be programmed to actually rebuild the ozone layer, which could lessen the impact of global warming on our planet. That's a pretty amazing thought, isn't it? On a more local scale, this new technology could help with the clean-up of environmental disasters as nanotechnology will [Q38] allow us to remove oil and other contaminants from the water far more effectively. And, if nanotechnology progresses as expected – as a sort of building block set of about 90 atoms – then you could build anything you wanted from the bottom up. In terms of production, this [Q39] means that you only use what you need and so there wouldn't be any waste.\nThe notion that you could create anything at all has major implications for our health. It means that we'll eventually be able to replicate anything. This would have a phenomenal effect on our society. In time it could even lead to the eradication of famine through the introduction of machines that produce food to feed the hungry.\nBut it's in the area of medicine that nanotechnology may have its biggest impact. How we detect disease will change as tiny biosensors are developed to analyse tests in minutes [Q40] rather than days. There's even speculation nano-robots could be used to slow the ageing process, lengthening life expectancy.\nAs you can see, I'm very excited by the implications that could be available to us in the next few decades. Just how long it'll take, I honestly don't know."
+  }
+ ],
+ "answers": {
+  "1": {
+   "a": [
+    "Pargetter"
+   ]
+  },
+  "2": {
+   "a": [
+    "East"
+   ]
+  },
+  "3": {
+   "a": [
+    "library"
+   ]
+  },
+  "4": {
+   "a": [
+    "morning",
+    "mornings"
+   ],
+   "k": "morning/mornings"
+  },
+  "5": {
+   "a": [
+    "postbox"
+   ]
+  },
+  "6": {
+   "a": [
+    "prices"
+   ]
+  },
+  "7": {
+   "a": [
+    "glass"
+   ]
+  },
+  "8": {
+   "a": [
+    "cooker"
+   ]
+  },
+  "9": {
+   "a": [
+    "week"
+   ]
+  },
+  "10": {
+   "a": [
+    "fence"
+   ]
+  },
+  "11": {
+   "a": [
+    "B"
+   ]
+  },
+  "12": {
+   "a": [
+    "B"
+   ]
+  },
+  "13": {
+   "a": [
+    "A"
+   ]
+  },
+  "14": {
+   "a": [
+    "A"
+   ]
+  },
+  "15": {
+   "a": [
+    "C"
+   ]
+  },
+  "16": {
+   "a": [
+    "trains"
+   ]
+  },
+  "17": {
+   "a": [
+    "dark"
+   ]
+  },
+  "18": {
+   "a": [
+    "games"
+   ]
+  },
+  "19": {
+   "a": [
+    "guided tour"
+   ]
+  },
+  "20": {
+   "a": [
+    "ladder",
+    "ladders"
+   ],
+   "k": "ladder/ladders"
+  },
+  "21": {
+   "a": [
+    "A"
+   ]
+  },
+  "22": {
+   "a": [
+    "E"
+   ]
+  },
+  "23": {
+   "a": [
+    "B"
+   ]
+  },
+  "24": {
+   "a": [
+    "C"
+   ]
+  },
+  "25": {
+   "a": [
+    "D"
+   ]
+  },
+  "26": {
+   "a": [
+    "F"
+   ]
+  },
+  "27": {
+   "a": [
+    "G"
+   ]
+  },
+  "28": {
+   "a": [
+    "B"
+   ]
+  },
+  "29": {
+   "a": [
+    "E"
+   ]
+  },
+  "30": {
+   "a": [
+    "C"
+   ]
+  },
+  "31": {
+   "a": [
+    "C"
+   ]
+  },
+  "32": {
+   "a": [
+    "B"
+   ]
+  },
+  "33": {
+   "a": [
+    "C"
+   ]
+  },
+  "34": {
+   "a": [
+    "metal",
+    "metals"
+   ],
+   "k": "metal/metals"
+  },
+  "35": {
+   "a": [
+    "space"
+   ]
+  },
+  "36": {
+   "a": [
+    "memory"
+   ]
+  },
+  "37": {
+   "a": [
+    "solar"
+   ]
+  },
+  "38": {
+   "a": [
+    "oil"
+   ]
+  },
+  "39": {
+   "a": [
+    "waste"
+   ]
+  },
+  "40": {
+   "a": [
+    "tests"
+   ]
+  }
+ }
+}

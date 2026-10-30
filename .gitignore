@@ -1,0 +1,20 @@
+.DS_Store
+app/.build/
+app/build/
+# compiled helpers (tools/build.sh)
+tools/pdfocr
+tools/pdfrender
+tools/pdftext
+tools/pdfinfo
+tools/pdfboxes
+tools/pdfheads
+tools/ocrtest
+tools/montage
+tools/gifframes
+tools/bin/figcrop-bin
+tools/bin/ocrregion-bin
+tools/qa/dewatermark
+# large / regenerable data (bundled in the release DMG)
+data/ocr/
+data/bank/audio/
+data/bank/pages/

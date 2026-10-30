@@ -1,0 +1,1713 @@
+{
+ "schema": "ielts-mock.exam/1",
+ "id": "C18-T4",
+ "source": {
+  "book": 18,
+  "test": 4
+ },
+ "title": "Cambridge IELTS 18 · Test 4",
+ "listening": {
+  "parts": [
+   {
+    "part": 1,
+    "range": [
+     1,
+     10
+    ],
+    "pages": [
+     80
+    ],
+    "groups": [
+     {
+      "id": "L1-1",
+      "type": "completion",
+      "range": [
+       1,
+       10
+      ],
+      "instructions": [
+       "Complete the notes below.",
+       "Write **ONE WORD AND/OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Job details from employment agency"
+       },
+       {
+        "t": "li",
+        "text": "Role: {{1}}"
+       },
+       {
+        "t": "li",
+        "text": "Location: Fordham {{2}} Centre"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "{{3}} Road, Fordham"
+       },
+       {
+        "t": "sub",
+        "text": "Work involves"
+       },
+       {
+        "t": "li",
+        "text": "dealing with enquiries"
+       },
+       {
+        "t": "li",
+        "text": "making {{4}} and reorganising them"
+       },
+       {
+        "t": "li",
+        "text": "maintaining the internal {{5}}"
+       },
+       {
+        "t": "li",
+        "text": "general administration"
+       },
+       {
+        "t": "sub",
+        "text": "Requirements"
+       },
+       {
+        "t": "li",
+        "text": "{{6}} (essential)"
+       },
+       {
+        "t": "li",
+        "text": "a calm and {{7}} manner"
+       },
+       {
+        "t": "li",
+        "text": "good IT skills"
+       },
+       {
+        "t": "sub",
+        "text": "Other information"
+       },
+       {
+        "t": "li",
+        "text": "a {{8}} job – further opportunities may be available"
+       },
+       {
+        "t": "li",
+        "text": "hours: 7.45 a.m. to {{9}} p.m. Monday to Friday"
+       },
+       {
+        "t": "li",
+        "text": "{{10}} is available onsite"
+       }
+      ]
+     }
+    ],
+    "transcript": "JULIE: Hello?\nGREG: Oh, hello. Is that Julie Davison?\nJULIE: Yes.\nGREG: This is Greg Preston from the Employment Agency. We met last week when you came in to enquire about office work.\nJULIE: Oh, that's right.\nGREG: Now we've just had some details come in of a job which might interest you.\nJULIE: OK.\nGREG: So this is a position for a receptionist – I believe you've done that sort of work [Q1] before?\nJULIE: Yes, I have, I worked in a sports centre for a couple of years before I got married and had the children.\nGREG: Right. Well, this job's in Fordham, so not too far away for you, and it's at the [Q2] medical centre there.\nJULIE: OK. So where exactly is that?\nGREG: It's quite near the station, on Chastons Road. [Q3]\nJULIE: Sorry?\nGREG: Chastons Road – that's C-H-A-S-T-O-N-S.\nJULIE: OK, thanks. So what would the work involve? Dealing with enquiries from patients?\nGREG: Yes, and you'd also be involved in making appointments, whether face to face or [Q4] on the phone. And rescheduling them if necessary.\nJULIE: Fine, that shouldn't be a problem.\nGREG: And another of your duties would be keeping the centre's database up-to-date. [Q5] Then you might have other general administrative duties as well, but those would be the main ones.\nJULIE: OK.\nGREG: Now when the details came in, I immediately thought of you because one thing [Q6] they do require is someone with experience, and you did mention your work at the sports centre when you came in to see us.\nJULIE: Yes, in fact I enjoyed that job. Is there anything else they're looking for?\nGREG: Well, they say it's quite a high-pressure environment, they're always very busy, and patients are often under stress, so they want someone who can cope with that and stay calm, and at the same time be confident when interacting with the [Q7] public.\nJULIE: Well, after dealing with three children all under five, I reckon I can cope with that.\nGREG: I'm sure you can.\nGREG: And then another thing they mention is that they're looking for someone with good IT skills ...\nJULIE: Not a problem.\nGREG: So you'd be interested in following this up?\nJULIE: Sure. When would it start?\nGREG: Well, they're looking for someone from the beginning of next month, but I should tell you that this isn't a permanent job, it's temporary, so the contract would [Q8] be just to the end of September. But they do say that there could be further opportunities after that.\nJULIE: OK. And what would the hours be?\nGREG: Well, they want someone who can start at a quarter to eight in the morning – could you manage that?\nJULIE: Yes, my husband would have to get the kids up and off to my mother's – she's going to be looking after them while I'm at work. What time would I finish?\nGREG: One fifteen. [Q9]\nJULIE: That should work out all right. I can pick the kids up on my way home, and then I'll have the afternoon with them. Oh, one thing ... is there parking available for [Q10] staff at the centre?\nGREG: Yes, there is, and it's also on a bus route.\nJULIE: Right. Well, I expect I'll have the car but it's good to know that. OK, so where do I go from here?\nGREG: Well, if you're happy for me to do so, I'll forward your CV and references, and then the best thing would probably be for you to phone them so they can arrange for an interview.\nJULIE: Great. Well thank you very much.\nGREG: You're welcome. Bye now.\nJULIE: Bye."
+   },
+   {
+    "part": 2,
+    "range": [
+     11,
+     20
+    ],
+    "pages": [
+     81,
+     82
+    ],
+    "groups": [
+     {
+      "id": "L2-1",
+      "type": "choice",
+      "range": [
+       11,
+       14
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B** or **C**."
+      ],
+      "questions": [
+       {
+        "n": 11,
+        "text": "The museum building was originally",
+        "options": [
+         {
+          "key": "A",
+          "text": "a factory."
+         },
+         {
+          "key": "B",
+          "text": "a private home."
+         },
+         {
+          "key": "C",
+          "text": "a hall of residence."
+         }
+        ]
+       },
+       {
+        "n": 12,
+        "text": "The university uses part of the museum building as",
+        "options": [
+         {
+          "key": "A",
+          "text": "teaching rooms."
+         },
+         {
+          "key": "B",
+          "text": "a research library."
+         },
+         {
+          "key": "C",
+          "text": "administration offices."
+         }
+        ]
+       },
+       {
+        "n": 13,
+        "text": "What does the guide say about the entrance fee?",
+        "options": [
+         {
+          "key": "A",
+          "text": "Visitors decide whether or not they wish to pay."
+         },
+         {
+          "key": "B",
+          "text": "Only children and students receive a discount."
+         },
+         {
+          "key": "C",
+          "text": "The museum charges extra for special exhibitions."
+         }
+        ]
+       },
+       {
+        "n": 14,
+        "text": "What are visitors advised to leave in the cloakroom?",
+        "options": [
+         {
+          "key": "A",
+          "text": "cameras"
+         },
+         {
+          "key": "B",
+          "text": "coats"
+         },
+         {
+          "key": "C",
+          "text": "bags"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L2-2",
+      "type": "matching",
+      "range": [
+       15,
+       20
+      ],
+      "instructions": [
+       "What information does the speaker give about each of the following areas of the museum?",
+       "Choose **SIX** answers from the box and write the correct letter, **A–H**, next to Questions 15–20."
+      ],
+      "optionsTitle": "Information",
+      "title": "Areas of museum",
+      "options": [
+       {
+        "key": "A",
+        "text": "Parents must supervise their children."
+       },
+       {
+        "key": "B",
+        "text": "There are new things to see."
+       },
+       {
+        "key": "C",
+        "text": "It is closed today."
+       },
+       {
+        "key": "D",
+        "text": "This is only for school groups."
+       },
+       {
+        "key": "E",
+        "text": "There is a quiz for visitors."
+       },
+       {
+        "key": "F",
+        "text": "It features something created by students."
+       },
+       {
+        "key": "G",
+        "text": "An expert is here today."
+       },
+       {
+        "key": "H",
+        "text": "There is a one-way system."
+       }
+      ],
+      "questions": [
+       {
+        "n": 15,
+        "text": "Four Seasons"
+       },
+       {
+        "n": 16,
+        "text": "Farmhouse Kitchen"
+       },
+       {
+        "n": 17,
+        "text": "A Year on the Farm"
+       },
+       {
+        "n": 18,
+        "text": "Wagon Walk"
+       },
+       {
+        "n": 19,
+        "text": "Bees are Magic"
+       },
+       {
+        "n": 20,
+        "text": "The Pond"
+       }
+      ]
+     }
+    ],
+    "transcript": "Good morning everyone, and welcome to the Museum of Farming Life. I understand it's your first visit here, so I'd like to give you some background information about the museum and then explain a little about what you can see during your visit.\nSo, where we're standing at the moment is the entrance to a large building that was constructed in 1880 as the home of a local businessman, Alfred Palmer, of the Palmer biscuit [Q11] factory. It was later sold and became a hall of residence for students in 1911, and a museum in 1951. In 2005, a modern extension was built to accommodate the museum's collections.\nThe museum's owned by the university, and apart from two rooms that are our offices, the university uses the main part of the building. You may see students going into the building [Q12] for lessons, but it's not open to museum visitors, I'm afraid. It's a shame because the interior architectural features are outstanding, especially the room that used to be the library.\nLuckily, we've managed to keep entry to the museum free. This includes access to all the galleries, outdoor areas and the rooms for special exhibitions. We run activities for children and students, such as the museum club, for which there's no charge. We do have a donation [Q13] box just over there so feel free to give whatever amount you consider appropriate.\nWe do have a cloakroom, if you'd like to leave your coats and bags somewhere. Unlike other [Q14] museums, photography is allowed here, so you might like to keep your cameras with you. You might be more comfortable not carrying around heavy rucksacks, though keep your coats and jackets on as it's quite cold in the museum garden today.\nI'd like to tell you about the different areas of the museum.\nJust inside, and outside the main gallery, we have an area called Four Seasons. Here you can watch a four-minute animation of a woodland scene. It was designed especially for the [Q15] museum by a group of young people on a film studies course, and it's beautiful. Children absolutely love it, but then, so do adults.\nThe main gallery's called Town and Country. It includes a photographic collection of prize-winning sheep and shepherds. Leaving Town and Country, you enter Farmhouse Kitchen, which is ... well, self-explanatory. Here we have the oldest collection of equipment for making butter and cheese in the country. And this morning, a specialist cheesemaker will be giving [Q16] demonstrations of how it's produced. You may even get to try some.\nAfter that, you can go in two directions. To the right is a staircase that takes you up to a landing from where you can look down on the galleries. To the left is a room called A Year on the Farm. There's lots of seating here as sometimes we use the room for school visits, so it's a good place to stop for a rest. If you're feeling competitive, you can take our memory test in [Q17] which you answer questions about things you've seen in the museum.\nThe next area's called Wagon Walk. This contains farm carts from nearly every part of the country. It's surprising how much regional variation there was. Beside the carts are display boards with information about each one. The carts are old and fragile, so we ask you to keep [Q18] your children close to you and ensure they don't climb on the carts.\nFrom Wagon Walk, you can either make your way back to reception or go out into the garden – or even go back to take another look in the galleries. In the far corner of the garden is Bees are Magic, but we're redeveloping this area so you can't visit that at the moment. You can still [Q19] buy our honey in the shop, though.\nFinally, there's The Pond, which contains all kinds of interesting wildlife. There are baby [Q20] ducks that are only a few days old, as well as tiny frogs. The Pond isn't deep and there's a fence around it, so it's perfectly safe for children."
+   },
+   {
+    "part": 3,
+    "range": [
+     21,
+     30
+    ],
+    "pages": [
+     83,
+     84
+    ],
+    "groups": [
+     {
+      "id": "L3-1",
+      "type": "multi",
+      "range": [
+       21,
+       22
+      ],
+      "n": [
+       21,
+       22
+      ],
+      "select": 2,
+      "instructions": [
+       "Choose **TWO** letters, **A–E**."
+      ],
+      "text": "Which **TWO** educational skills were shown in the video of children doing origami?",
+      "options": [
+       {
+        "key": "A",
+        "text": "solving problems"
+       },
+       {
+        "key": "B",
+        "text": "following instructions"
+       },
+       {
+        "key": "C",
+        "text": "working cooperatively"
+       },
+       {
+        "key": "D",
+        "text": "learning through play"
+       },
+       {
+        "key": "E",
+        "text": "developing hand-eye coordination"
+       }
+      ]
+     },
+     {
+      "id": "L3-2",
+      "type": "matching",
+      "range": [
+       23,
+       27
+      ],
+      "instructions": [
+       "Which comment do the students make about each of the following children in the video?",
+       "Choose **FIVE** answers from the box and write the correct letter, **A–G**, next to Questions 23–27."
+      ],
+      "optionsTitle": "Comments",
+      "title": "Children",
+      "options": [
+       {
+        "key": "A",
+        "text": "demonstrated independence"
+       },
+       {
+        "key": "B",
+        "text": "asked for teacher support"
+       },
+       {
+        "key": "C",
+        "text": "developed a competitive attitude"
+       },
+       {
+        "key": "D",
+        "text": "seemed to find the activity calming"
+       },
+       {
+        "key": "E",
+        "text": "seemed pleased with the results"
+       },
+       {
+        "key": "F",
+        "text": "seemed confused"
+       },
+       {
+        "key": "G",
+        "text": "seemed to find the activity easy"
+       }
+      ],
+      "questions": [
+       {
+        "n": 23,
+        "text": "Sid"
+       },
+       {
+        "n": 24,
+        "text": "Jack"
+       },
+       {
+        "n": 25,
+        "text": "Naomi"
+       },
+       {
+        "n": 26,
+        "text": "Anya"
+       },
+       {
+        "n": 27,
+        "text": "Zara"
+       }
+      ]
+     },
+     {
+      "id": "L3-3",
+      "type": "choice",
+      "range": [
+       28,
+       30
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B** or **C**."
+      ],
+      "questions": [
+       {
+        "n": 28,
+        "text": "Before starting an origami activity in class, the students think it is important for the teacher to",
+        "options": [
+         {
+          "key": "A",
+          "text": "make models that demonstrate the different stages."
+         },
+         {
+          "key": "B",
+          "text": "check children understand the terminology involved."
+         },
+         {
+          "key": "C",
+          "text": "tell children not to worry if they find the activity difficult."
+         }
+        ]
+       },
+       {
+        "n": 29,
+        "text": "The students agree that some teachers might be unwilling to use origami in class because",
+        "options": [
+         {
+          "key": "A",
+          "text": "they may not think that crafts are important."
+         },
+         {
+          "key": "B",
+          "text": "they may not have the necessary skills."
+         },
+         {
+          "key": "C",
+          "text": "they may worry that it will take up too much time."
+         }
+        ]
+       },
+       {
+        "n": 30,
+        "text": "Why do the students decide to use origami in their maths teaching practice?",
+        "options": [
+         {
+          "key": "A",
+          "text": "to correct a particular misunderstanding"
+         },
+         {
+          "key": "B",
+          "text": "to set a challenge"
+         },
+         {
+          "key": "C",
+          "text": "to introduce a new concept"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "transcript": "TUTOR: So now I want you to discuss the lesson we've just been watching on the video and think about the ways in which origami can be a useful educational tool. Can you all work with the person sitting next to you ...\nSEB: I had no idea that such a simple thing like folding squares of paper to make the shape of something like a bird could be such an amazing tool. It's made me see origami in a whole new light.\nLIA: I know. It was interesting to see the educational skills the children were developing by doing origami. On the video you could see them really listening [Q21/Q22] hard to make sure they did all the steps in the right order to make the bird.\nSEB: That's right. In this lesson they were working individually but it would also be interesting to see if the children could work out how to make something simple without being given any direction. That would help with building teamwork as well.\nLIA: Yes, but much more of a challenge. One thing that really stood out for me was that the children were all having fun while being taught something new. [Q21/Q22]\nSEB: Which is a key aim of any lesson with this age group. And although these kids had no problems with folding the paper, with younger children you could do origami to help practise fine motor skills.\nLIA: Absolutely. Shall we talk about the individual children we saw on the video? I wrote all their names down and took some notes.\nSEB: Yes, I did too.\nLIA: OK, good. Let's start with Sid.\nSEB: He was interesting because before they started doing the origami, he was being quite disruptive.\nLIA: Yes. He really benefited from having to use his hands – it helped him to settle [Q23] down and start concentrating.\nSEB: Yes, I noticed that too. What about Jack? I noticed he seemed to want to work things out for himself.\nLIA: Mmm. You could see him trying out different things rather than asking the teacher [Q24] for help. What did you make of Naomi?\nSEB: She seemed to be losing interest at one point but then she decided she wanted [Q25] her mouse to be the best and that motivated her to try harder.\nLIA: She didn't seem satisfied with hers in the end, though.\nSEB: No.\nLIA: Anya was such a star. She listened so carefully and then produced the perfect [Q26] bird with very little effort.\nSEB: Mmm – I think the teacher could have increased the level of difficulty for her.\nLIA: Maybe. I think it was the first time Zara had come across origami.\nSEB: She looked as if she didn't really get what was going on.\nLIA: She seemed unsure about what she was supposed to do, but in the end hers [Q27] didn't turn out too badly.\nSEB: Yeah. I'm sure it was a positive learning experience for her.\nLIA: Mmm.\nLIA: I think one reason why the origami activity worked so well in this class was that the teacher was well prepared.\nSEB: Right. I think it would have taken me ages to prepare examples, showing each [Q28] of the steps involved in making the bird. But that was a really good idea. The children could see what they were aiming for – and much better for them to be able to hold something, rather than just looking at pictures.\nLIA: Mmm – those physical examples supported her verbal explanations really well.\nSEB: It's strange that origami isn't used more widely. Why do you think that is?\nLIA: Well, teachers may just feel it's not that appealing to children who are used to doing everything on computers, especially boys. Even if they're aware of the benefits.\nSEB: Oh, I don't know. It's no different to any other craft activity. I bet it's because so [Q29] many teachers are clumsy like me.\nLIA: That's true – too much effort required if you're not good with your hands.\nSEB: Well, anyway, I think we should try it out in our maths teaching practice with [Q30] Year 3. I can see using origami is a really engaging way of reinforcing children's knowledge of geometric shapes, like they were doing in the video, but I think it would also work really well for presenting fractions, which is coming up soon.\nLIA: Good idea – that's something most of the kids in that class might struggle with. Origami would also be good practice for using symmetry – but I think they did that last term.\nSEB: OK – well let's try and get some ideas together and plan the lesson next week.\nTUTOR: OK, if you could all stop ..."
+   },
+   {
+    "part": 4,
+    "range": [
+     31,
+     40
+    ],
+    "pages": [
+     85
+    ],
+    "groups": [
+     {
+      "id": "L4-1",
+      "type": "completion",
+      "range": [
+       31,
+       40
+      ],
+      "instructions": [
+       "Complete the notes below.",
+       "Write **ONE WORD ONLY** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Victor Hugo"
+       },
+       {
+        "t": "sub",
+        "text": "His novel, *Les Misérables*"
+       },
+       {
+        "t": "li",
+        "text": "It has been adapted for theatre and cinema."
+       },
+       {
+        "t": "li",
+        "text": "We know more about its overall {{31}} than about its author."
+       },
+       {
+        "t": "sub",
+        "text": "His early career"
+       },
+       {
+        "t": "li",
+        "text": "In Paris, his career was successful and he led the Romantic movement."
+       },
+       {
+        "t": "li",
+        "text": "He spoke publicly about social issues, such as {{32}} and education."
+       },
+       {
+        "t": "li",
+        "text": "Napoleon III disliked his views and exiled him."
+       },
+       {
+        "t": "sub",
+        "text": "His exile from France"
+       },
+       {
+        "t": "li",
+        "text": "Victor Hugo had to live elsewhere in {{33}}."
+       },
+       {
+        "t": "li",
+        "text": "He used his income from the sale of some {{34}} he had written to buy a house on Guernsey."
+       },
+       {
+        "t": "sub",
+        "text": "His house on Guernsey"
+       },
+       {
+        "t": "li",
+        "text": "Victor Hugo lived in this house until the end of the Empire in France."
+       },
+       {
+        "t": "li",
+        "text": "The ground floor contains portraits, {{35}} and tapestries that he valued."
+       },
+       {
+        "t": "li",
+        "text": "He bought cheap {{36}} made of wood and turned this into beautiful wall carvings."
+       },
+       {
+        "t": "li",
+        "text": "The first floor consists of furnished areas with wallpaper and {{37}} that have a Chinese design."
+       },
+       {
+        "t": "li",
+        "text": "The library still contains many of his favourite books."
+       },
+       {
+        "t": "li",
+        "text": "He wrote in a room at the top of the house that had a view of the {{38}}."
+       },
+       {
+        "t": "li",
+        "text": "He entertained other writers as well as poor {{39}} in his house."
+       },
+       {
+        "t": "li",
+        "text": "Victor Hugo's {{40}} gave ownership of the house to the city of Paris in 1927."
+       }
+      ]
+     }
+    ],
+    "transcript": "The person I've chosen to talk about is the French writer Victor Hugo – many people have heard of him because his novel, *Les Misérables*, which he wrote in 1862, is famous around the world. It became a stage musical in the 1980s, and a film version was also released in 2012. So, some of us, I'm sure, have a pretty general idea of the plot, but we know much less [Q31] about the author. Today, I'm going to provide a little more insight into this talented man and I'm going to talk particularly about the home he had on the island of Guernsey in the British Channel Islands.\nBut first, his early career ... as I've said, he was a writer, he was at the height of his career in Paris and he was very highly regarded by his colleagues. As far as literature was concerned, he was the leading figure of the Romantic movement. However, as well as being a literary genius, he also gave many speeches about issues like the level of poverty in his society. He [Q32] felt very strongly about this and about other areas where change was needed, like education. This kind of outspoken criticism was not well liked by the rulers of France and, eventually, the emperor – Napoleon III – told Victor Hugo to leave Paris and not return; in other words, he sent him into exile.\nSo Victor Hugo was forced to reside in other parts of Europe. Guernsey was actually his third [Q33] place of exile and he landed there in 1855. He produced a lot while on Guernsey – including *Les Misérables* – and to do this, he had to spend a great deal of time in the home that he had there. This was a property that he bought using the money he'd made in France from the [Q34] publication of a collection of his poetry. It was the only property he ever owned, and he was very proud of it.\nThe property Victor Hugo bought on Guernsey was a large, five-storey house in the capital town of St Peter Port and he lived there for 15 years, returning to France in 1870 when Napoleon's Empire collapsed. He decorated and furnished each level, or floor, of the house in unique and wonderful ways, and many people consider the inside of the house to be a 'work of art'. Today it's a museum that attracts 200,000 visitors a year.\nHe lived in the house with his family ... and portraits of its members still hang in rooms on the [Q35] ground floor, along with drawings that he did during his travels that he felt were important to him. In other ground-floor rooms, there are huge tapestries that he would have designed and loved. The walls are covered in dark wood panelling that Victor Hugo created himself using [Q36] wooden furniture that he bought in the market. The items were relatively inexpensive, and he used them to create intricate carvings. They gave an atmosphere on the lower level that was shadowy and rather solemn.\nOn the next level of the house there are two impressive lounges, where he entertained his guests. One lounge has entirely red furnishings, such as sofas and wall coverings, and the other blue. There's a strong Chinese influence in these areas in things like the wallpaper [Q37] pattern and the lamps – which he would have made himself by copying original versions.\nHis library, where he left many of his favourite books, forms the hallway to the third floor and was a comfortable area where he could relax and enjoy his afternoons. And then, at the very top of the house, there's a room called the Lookout – called that because it looks out over the [Q38] harbour. In contrast to the rather dark lower levels, it's full of light and was like a glass office where he would write until lunchtime – often at his desk.\nSo, Victor Hugo was a man of many talents, but he was also true to his values. While living in his house on Guernsey, he entertained many other famous writers, but he also invited a large [Q39] group of local children from the deprived areas of the island to dinner once a week. What's more, he served them their food, which was an extraordinary gesture for the time period.\nIn 1927, the house was owned by his relatives, and they decided to donate it to the city of [Q40] Paris. It has since been restored using photographs from the period and, as I mentioned earlier, is now a museum that is open to the public."
+   }
+  ],
+  "answers": {
+   "1": {
+    "a": [
+     "receptionist"
+    ]
+   },
+   "2": {
+    "a": [
+     "Medical"
+    ]
+   },
+   "3": {
+    "a": [
+     "Chastons"
+    ]
+   },
+   "4": {
+    "a": [
+     "appointments"
+    ]
+   },
+   "5": {
+    "a": [
+     "database"
+    ]
+   },
+   "6": {
+    "a": [
+     "experience"
+    ]
+   },
+   "7": {
+    "a": [
+     "confident"
+    ]
+   },
+   "8": {
+    "a": [
+     "temporary"
+    ]
+   },
+   "9": {
+    "a": [
+     "1.15"
+    ]
+   },
+   "10": {
+    "a": [
+     "parking"
+    ]
+   },
+   "11": {
+    "a": [
+     "B"
+    ]
+   },
+   "12": {
+    "a": [
+     "A"
+    ]
+   },
+   "13": {
+    "a": [
+     "A"
+    ]
+   },
+   "14": {
+    "a": [
+     "C"
+    ]
+   },
+   "15": {
+    "a": [
+     "F"
+    ]
+   },
+   "16": {
+    "a": [
+     "G"
+    ]
+   },
+   "17": {
+    "a": [
+     "E"
+    ]
+   },
+   "18": {
+    "a": [
+     "A"
+    ]
+   },
+   "19": {
+    "a": [
+     "C"
+    ]
+   },
+   "20": {
+    "a": [
+     "B"
+    ]
+   },
+   "21": {
+    "a": [
+     "B"
+    ]
+   },
+   "22": {
+    "a": [
+     "D"
+    ]
+   },
+   "23": {
+    "a": [
+     "D"
+    ]
+   },
+   "24": {
+    "a": [
+     "A"
+    ]
+   },
+   "25": {
+    "a": [
+     "C"
+    ]
+   },
+   "26": {
+    "a": [
+     "G"
+    ]
+   },
+   "27": {
+    "a": [
+     "F"
+    ]
+   },
+   "28": {
+    "a": [
+     "A"
+    ]
+   },
+   "29": {
+    "a": [
+     "B"
+    ]
+   },
+   "30": {
+    "a": [
+     "C"
+    ]
+   },
+   "31": {
+    "a": [
+     "plot"
+    ]
+   },
+   "32": {
+    "a": [
+     "poverty"
+    ]
+   },
+   "33": {
+    "a": [
+     "Europe"
+    ]
+   },
+   "34": {
+    "a": [
+     "poetry"
+    ]
+   },
+   "35": {
+    "a": [
+     "drawings"
+    ]
+   },
+   "36": {
+    "a": [
+     "furniture"
+    ]
+   },
+   "37": {
+    "a": [
+     "lamps"
+    ]
+   },
+   "38": {
+    "a": [
+     "harbour",
+     "harbor"
+    ],
+    "k": "harbour / harbor"
+   },
+   "39": {
+    "a": [
+     "children"
+    ]
+   },
+   "40": {
+    "a": [
+     "relatives"
+    ]
+   }
+  }
+ },
+ "reading": {
+  "passages": [
+   {
+    "passage": 1,
+    "range": [
+     1,
+     13
+    ],
+    "pages": [
+     86,
+     87,
+     88,
+     89
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 1–13**, which are based on Reading Passage 1 below.",
+    "title": "Green roofs",
+    "subtitle": null,
+    "paragraphs": [
+     {
+      "label": "A",
+      "text": "Rooftops covered with grass, vegetable gardens and lush foliage are now a common sight in many cities around the world. More and more private companies and city authorities are investing in green roofs, drawn to their wide-ranging benefits. Among the benefits are saving on energy costs, mitigating the risk of floods, making habitats for urban wildlife, tackling air pollution and even growing food. These increasingly radical urban designs can help cities adapt to the monumental problems they face, such as access to resources and a lack of green space due to development. But the involvement of city authorities, businesses and other institutions is crucial to ensuring their success – as is research investigating different options to suit the variety of rooftop spaces found in cities. The UK is relatively new to developing green roofs, and local governments and institutions are playing a major role in spreading the practice. London is home to much of the UK's green roof market, mainly due to forward-thinking policies such as the London Plan, which has paved the way to more than doubling the area of green roofs in the capital."
+     },
+     {
+      "label": "B",
+      "text": "Ongoing research is showcasing how green roofs in cities can integrate with 'living walls': environmentally friendly walls which are partially or completely covered with greenery, including a growing medium, such as soil or water. Research also indicates that green roofs can be integrated with drainage systems on the ground, such as street trees, so that the water is managed better and the built environment is made more sustainable. There is also evidence to demonstrate the social value of green roofs. Doctors are increasingly prescribing time spent gardening outdoors for patients dealing with anxiety and depression. And research has found that access to even the most basic green spaces can provide a better quality of life for dementia sufferers and help people avoid obesity."
+     },
+     {
+      "label": "C",
+      "text": "In North America, green roofs have become mainstream, with a wide array of expansive, accessible and food-producing roofs installed in buildings. Again, city leaders and authorities have helped push the movement forward – only recently, San Francisco, USA, created a policy requiring new buildings to have green roofs. Toronto, Canada, has policies dating from the 1990s, encouraging the development of urban farms on rooftops. These countries also benefit from having newer buildings than in many parts of the world, which makes it easier to install green roofs. Being able to keep enough water at roof height and distribute it right across the rooftop is crucial to maintaining the plants on any green roof – especially on 'edible roofs' where fruit and vegetables are farmed. And it's much easier to do this in newer buildings, which can typically hold greater weight, than to retro-fit old ones. Having a stronger roof also makes it easier to grow a greater variety of plants, since the soil can be deeper."
+     },
+     {
+      "label": "D",
+      "text": "For green roofs to become the norm for new developments, there needs to be support from public authorities and private investors. Those responsible for maintaining buildings may have to acquire new skills, such as landscaping, and in some cases, volunteers may be needed to help out. Other considerations include installing drainage paths, meeting health and safety requirements and perhaps allowing access for the public, as well as planning restrictions and disruption from regular activities in and around the buildings during installation. To convince investors and developers that installing green roofs is worthwhile, economic arguments are still the most important. The term 'natural capital' has been developed to explain the economic value of nature; for example, measuring the money saved by installing natural solutions to protect against flood damage, adapt to climate change or help people lead healthier and happier lives."
+     },
+     {
+      "label": "E",
+      "text": "As the expertise about green roofs grows, official standards have been developed to ensure that they are designed, constructed and maintained properly, and function well. Improvements in the science and technology underpinning green roof development have also led to new variations in the concept. For example, 'blue roofs' enable buildings to hold water over longer periods of time, rather than draining it away quickly – crucial in times of heavier rainfall. There are also combinations of green roofs with solar panels, and 'brown roofs' which are wilder in nature and maximise biodiversity. If the trend continues, it could create new jobs and a more vibrant and sustainable local food economy – alongside many other benefits. There are still barriers to overcome, but the evidence so far indicates that green roofs have the potential to transform cities and help them function sustainably long into the future. The success stories need to be studied and replicated elsewhere, to make green, blue, brown and food-producing roofs the norm in cities around the world."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R1-1",
+      "type": "matching",
+      "range": [
+       1,
+       5
+      ],
+      "instructions": [
+       "Reading Passage 1 has five paragraphs, **A–E**.",
+       "Which paragraph contains the following information?",
+       "Write the correct letter, **A–E**, in boxes 1–5 on your answer sheet.",
+       "**NB** You may use any letter more than once."
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": ""
+       },
+       {
+        "key": "B",
+        "text": ""
+       },
+       {
+        "key": "C",
+        "text": ""
+       },
+       {
+        "key": "D",
+        "text": ""
+       },
+       {
+        "key": "E",
+        "text": ""
+       }
+      ],
+      "reuse": true,
+      "questions": [
+       {
+        "n": 1,
+        "text": "mention of several challenges to be overcome before a green roof can be installed"
+       },
+       {
+        "n": 2,
+        "text": "reference to a city where green roofs have been promoted for many years"
+       },
+       {
+        "n": 3,
+        "text": "a belief that existing green roofs should be used as a model for new ones"
+       },
+       {
+        "n": 4,
+        "text": "examples of how green roofs can work in combination with other green urban initiatives"
+       },
+       {
+        "n": 5,
+        "text": "the need to make a persuasive argument for the financial benefits of green roofs"
+       }
+      ]
+     },
+     {
+      "id": "R1-2",
+      "type": "completion",
+      "range": [
+       6,
+       9
+      ],
+      "instructions": [
+       "Complete the summary below.",
+       "Choose **ONE WORD ONLY** from the passage for each answer.",
+       "Write your answers in boxes 6–9 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Advantages of green roofs"
+       },
+       {
+        "t": "p",
+        "text": "City rooftops covered with greenery have many advantages. These include lessening the likelihood that floods will occur, reducing how much money is spent on {{6}} and creating environments that are suitable for wildlife. In many cases, they can also be used for producing {{7}}."
+       },
+       {
+        "t": "p",
+        "text": "There are also social benefits of green roofs. For example, the medical profession recommends {{8}} as an activity to help people cope with mental health issues. Studies have also shown that the availability of green spaces can prevent physical problems such as {{9}}."
+       }
+      ]
+     },
+     {
+      "id": "R1-3",
+      "type": "multi",
+      "range": [
+       10,
+       11
+      ],
+      "n": [
+       10,
+       11
+      ],
+      "select": 2,
+      "instructions": [
+       "Choose **TWO** letters, **A–E**.",
+       "Write the correct letters in boxes 10 and 11 on your answer sheet."
+      ],
+      "text": "Which **TWO** advantages of using newer buildings for green roofs are mentioned in Paragraph C of the passage?",
+      "options": [
+       {
+        "key": "A",
+        "text": "a longer growing season for edible produce"
+       },
+       {
+        "key": "B",
+        "text": "more economical use of water"
+       },
+       {
+        "key": "C",
+        "text": "greater water-storage capacity"
+       },
+       {
+        "key": "D",
+        "text": "ability to cultivate more plant types"
+       },
+       {
+        "key": "E",
+        "text": "a large surface area for growing plants"
+       }
+      ]
+     },
+     {
+      "id": "R1-4",
+      "type": "multi",
+      "range": [
+       12,
+       13
+      ],
+      "n": [
+       12,
+       13
+      ],
+      "select": 2,
+      "instructions": [
+       "Choose **TWO** letters, **A–E**.",
+       "Write the correct letters in boxes 12 and 13 on your answer sheet."
+      ],
+      "text": "Which **TWO** aims of new variations on the concept of green roofs are mentioned in Paragraph E of the passage?",
+      "options": [
+       {
+        "key": "A",
+        "text": "to provide habitats for a wide range of species"
+       },
+       {
+        "key": "B",
+        "text": "to grow plants successfully even in the wettest climates"
+       },
+       {
+        "key": "C",
+        "text": "to regulate the temperature of the immediate environment"
+       },
+       {
+        "key": "D",
+        "text": "to generate power from a sustainable source"
+       },
+       {
+        "key": "E",
+        "text": "to collect water to supply other buildings"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "passage": 2,
+    "range": [
+     14,
+     26
+    ],
+    "pages": [
+     90,
+     91,
+     92,
+     93
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 14–26**, which are based on Reading Passage 2 below.",
+    "title": "The growth mindset",
+    "subtitle": null,
+    "paragraphs": [
+     {
+      "text": "Over the past century, a powerful idea has taken root in the educational landscape. The concept of intelligence as something innate has been supplanted by the idea that intelligence is not fixed, and that, with the right training, we can be the authors of our own cognitive capabilities. Psychologist Alfred Binet, the developer of the first intelligence tests, was one of many 19th-century scientists who held that earlier view and sought to quantify cognitive ability. Then, in the early 20th century, progressive thinkers revolted against the notion that inherent ability is destiny. Instead, educators such as John Dewey argued that every child's intelligence could be developed, given the right environment."
+     },
+     {
+      "text": "'Growth mindset theory' is a relatively new – and extremely popular – version of this idea. In many schools today you will see hallways covered in motivational posters and hear speeches on the mindset of great sporting heroes who simply *believed* their way to the top. A major focus of the growth mindset in schools is coaxing students away from seeing failure as an indication of their ability, and towards seeing it as a chance to improve that ability. As educationalist Jeff Howard noted several decades ago: 'Smart is not something that you just are, smart is something that you can get.'"
+     },
+     {
+      "text": "The idea of the growth mindset is based on the work of psychologist Carol Dweck in California in the 1990s. In one key experiment, Dweck divided a group of 10- to 12-year-olds into two groups. All were told that they had achieved a high score on a test but the first group were praised for their intelligence in achieving this, while the others were praised for their effort. The second group – those who had been instilled with a 'growth mindset' – were subsequently far more likely to put effort into future tasks. Meanwhile, the former took on only those tasks that would not risk their sense of worth. This group had inferred that success or failure is due to innate ability, and this 'fixed mindset' had led them to fear of failure and lack of effort. Praising ability actually made the students perform worse, while praising effort emphasised that change was possible."
+     },
+     {
+      "text": "One of the greatest impediments to successfully implementing a growth mindset, however, is the education system itself: in many parts of the world, the school climate is obsessed with performance in the form of constant testing, analysing and ranking of students – a key characteristic of the fixed mindset. Nor is it unusual for schools to create a certain cognitive dissonance, when they applaud the benefits of a growth mindset but then hand out fixed target grades in lessons based on performance."
+     },
+     {
+      "text": "Aside from the implementation problem, the original growth mindset research has also received harsh criticism. The statistician Andrew Gelman claims that 'their research designs have enough degrees of freedom that they could take their data to support just about any theory at all'. Professor of Psychology Timothy Bates, who has been trying to replicate Dweck's work, is finding that the results are repeatedly null. He notes that: 'People with a growth mindset don't cope any better with failure ... Kids with the growth mindset aren't getting better grades, either before or after our intervention study.'"
+     },
+     {
+      "text": "Much of this criticism is not lost on Dweck, and she deserves great credit for responding to it and adapting her work accordingly. In fact, she argues that her work has been misunderstood and misapplied in a range of ways. She has also expressed concerns that her theories are being misappropriated in schools by being conflated with the self-esteem movement: 'For me the growth mindset is a tool for learning and improvement. It's not just a vehicle for making children feel good.'"
+     },
+     {
+      "text": "But there is another factor at work here. The failure to translate the growth mindset into the classroom might reflect a misunderstanding of the nature of teaching and learning itself. Growth mindset supporters David Yeager and Gregory Walton claim that interventions should be delivered in a subtle way to maximise their effectiveness. They say that if adolescents perceive a teacher's intervention as conveying that they are in need of help, this could undo its intended effects."
+     },
+     {
+      "text": "A lot of what drives students is their innate beliefs and how they perceive themselves. There is a strong correlation between self-perception and achievement, but there is evidence to suggest that the actual effect of achievement on self-perception is stronger than the other way round. To stand up in a classroom and successfully deliver a good speech is a genuine achievement, and that is likely to be more powerfully motivating than vague notions of 'motivation' itself."
+     },
+     {
+      "text": "Recent evidence would suggest that growth mindset interventions are not the elixir of student learning that its proponents claim it to be. The growth mindset appears to be a viable construct in the lab, which, when administered in the classroom via targeted interventions, doesn't seem to work. It is hard to dispute that having faith in the capacity to change is a good attribute for students. Paradoxically, however, that aspiration is not well served by direct interventions that try to instil it."
+     },
+     {
+      "text": "Motivational posters and talks are often a waste of time, and might well give students a deluded notion of what success actually means. Teaching concrete skills such as how to write an effective introduction to an essay then praising students' effort in getting there is probably a far better way of improving confidence than telling them how unique they are, or indeed how capable they are of changing their own brains. Perhaps growth mindset works best as a philosophy and not an intervention."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R2-1",
+      "type": "choice",
+      "range": [
+       14,
+       16
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B**, **C** or **D**.",
+       "Write the correct letter in boxes 14–16 on your answer sheet."
+      ],
+      "questions": [
+       {
+        "n": 14,
+        "text": "What can we learn from the first paragraph?",
+        "options": [
+         {
+          "key": "A",
+          "text": "where the notion of innate intelligence first began"
+         },
+         {
+          "key": "B",
+          "text": "when ideas about the nature of intelligence began to shift"
+         },
+         {
+          "key": "C",
+          "text": "how scientists have responded to changing views of intelligence"
+         },
+         {
+          "key": "D",
+          "text": "why thinkers turned away from the idea of intelligence being fixed"
+         }
+        ]
+       },
+       {
+        "n": 15,
+        "text": "The second paragraph describes how schools encourage students to",
+        "options": [
+         {
+          "key": "A",
+          "text": "identify their personal ambitions."
+         },
+         {
+          "key": "B",
+          "text": "help each other to realise their goals."
+         },
+         {
+          "key": "C",
+          "text": "have confidence in their potential to succeed."
+         },
+         {
+          "key": "D",
+          "text": "concentrate on where their particular strengths lie."
+         }
+        ]
+       },
+       {
+        "n": 16,
+        "text": "In the third paragraph, the writer suggests that students with a fixed mindset",
+        "options": [
+         {
+          "key": "A",
+          "text": "tend to be less competitive."
+         },
+         {
+          "key": "B",
+          "text": "generally have a low sense of self-esteem."
+         },
+         {
+          "key": "C",
+          "text": "will only work hard if they are given constant encouragement."
+         },
+         {
+          "key": "D",
+          "text": "are afraid to push themselves beyond what they see as their limitations."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "R2-2",
+      "type": "matching",
+      "range": [
+       17,
+       22
+      ],
+      "instructions": [
+       "Look at the following statements (Questions 17–22) and the list of people below.",
+       "Match each statement with the correct person or people, **A–E**.",
+       "Write the correct letter, **A–E**, in boxes 17–22 on your answer sheet.",
+       "**NB** You may use any letter more than once."
+      ],
+      "optionsTitle": "List of People",
+      "reuse": true,
+      "options": [
+       {
+        "key": "A",
+        "text": "Alfred Binet"
+       },
+       {
+        "key": "B",
+        "text": "Carol Dweck"
+       },
+       {
+        "key": "C",
+        "text": "Andrew Gelman"
+       },
+       {
+        "key": "D",
+        "text": "Timothy Bates"
+       },
+       {
+        "key": "E",
+        "text": "David Yeager and Gregory Walton"
+       }
+      ],
+      "questions": [
+       {
+        "n": 17,
+        "text": "The methodology behind the growth mindset studies was not strict enough."
+       },
+       {
+        "n": 18,
+        "text": "The idea of the growth mindset has been incorrectly interpreted."
+       },
+       {
+        "n": 19,
+        "text": "Intellectual ability is an unchangeable feature of each individual."
+       },
+       {
+        "n": 20,
+        "text": "The growth mindset should be promoted without students being aware of it."
+       },
+       {
+        "n": 21,
+        "text": "The growth mindset is not simply about boosting students' morale."
+       },
+       {
+        "n": 22,
+        "text": "Research shows that the growth mindset has no effect on academic achievement."
+       }
+      ]
+     },
+     {
+      "id": "R2-3",
+      "type": "ynng",
+      "range": [
+       23,
+       26
+      ],
+      "instructions": [
+       "Do the following statements agree with the views of the writer in Reading Passage 2?",
+       "In boxes 23–26 on your answer sheet, write",
+       "**YES** if the statement agrees with the views of the writer",
+       "**NO** if the statement contradicts the views of the writer",
+       "**NOT GIVEN** if it is impossible to say what the writer thinks about this"
+      ],
+      "questions": [
+       {
+        "n": 23,
+        "text": "Dweck has handled criticisms of her work in an admirable way."
+       },
+       {
+        "n": 24,
+        "text": "Students' self-perception is a more effective driver of self-confidence than actual achievement is."
+       },
+       {
+        "n": 25,
+        "text": "Recent evidence about growth mindset interventions has attracted unfair coverage in the media."
+       },
+       {
+        "n": 26,
+        "text": "Deliberate attempts to encourage students to strive for high achievement may have a negative effect."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "passage": 3,
+    "range": [
+     27,
+     40
+    ],
+    "pages": [
+     94,
+     95,
+     96,
+     97
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 27–40**, which are based on Reading Passage 3 below.",
+    "title": "Alfred Wegener: science, exploration and the theory of continental drift",
+    "subtitle": "*by Mott T Greene*",
+    "paragraphs": [
+     {
+      "kind": "heading",
+      "text": "Introduction"
+     },
+     {
+      "text": "This is a book about the life and scientific work of Alfred Wegener, whose reputation today rests with his theory of continental displacements, better known as 'continental drift'. Wegener proposed this theory in 1912 and developed it extensively for nearly 20 years. His book on the subject, *The Origin of Continents and Oceans*, went through four editions and was the focus of an international controversy in his lifetime and for some years after his death."
+     },
+     {
+      "text": "Wegener's basic idea was that many mysteries about the Earth's history could be solved if one supposed that the continents moved laterally, rather than supposing that they remained fixed in place. Wegener showed in great detail how such continental movements were plausible and how they worked, using evidence from a large number of sciences including geology, geophysics, paleontology, and climatology. Wegener's idea – that the continents move – is at the heart of the theory that guides Earth sciences today: namely plate tectonics. Plate tectonics is in many respects quite different from Wegener's proposal, in the same way that modern evolutionary theory is very different from the ideas Charles Darwin proposed in the 1850s about biological evolution. Yet plate tectonics is a descendant of Alfred Wegener's theory of continental drift, in quite the same way that modern evolutionary theory is a descendant of Darwin's theory of natural selection."
+     },
+     {
+      "text": "When I started writing about Wegener's life and work, one of the most intriguing things about him for me was that, although he came up with a theory on continental drift, he was not a geologist. He trained as an astronomer and pursued a career in atmospheric physics. When he proposed the theory of continental displacements in 1912, he was a lecturer in physics and astronomy at the University of Marburg, in southern Germany. However, he was not an 'unknown'. In 1906 he had set a world record (with his brother Kurt) for time aloft in a hot-air balloon: 52 hours. Between 1906 and 1908 he had taken part in a highly publicized and extremely dangerous expedition to the coast of northeast Greenland. He had also made a name for himself amongst a small circle of meteorologists and atmospheric physicists in Germany as the author of a textbook, *Thermodynamics of the Atmosphere* (1911), and of a number of interesting scientific papers."
+     },
+     {
+      "text": "As important as Wegener's work on continental drift has turned out to be, it was largely a sideline to his interest in atmospheric physics, geophysics, and paleoclimatology*, and thus I have been at great pains to put Wegener's work on continental drift in the larger context of his other scientific work, and in the even larger context of atmospheric sciences in his lifetime. This is a 'continental drift book' only to the extent that Wegener was interested in that topic and later became famous for it. My treatment of his other scientific work is no less detailed, though I certainly have devoted more attention to the reception of his ideas on continental displacement, as they were much more controversial than his other work."
+     },
+     {
+      "text": "Readers interested in the specific detail of Wegener's career will see that he often stopped pursuing a given line of investigation (sometimes for years on end), only to pick it up later. I have tried to provide guideposts to his rapidly shifting interests by characterizing different phases of his life as careers in different sciences, which is reflected in the titles of the chapters. Thus, the index should be a sufficient guide for those interested in a particular aspect of Wegener's life but perhaps not all of it. My own feeling, however, is that the parts do not make as much sense on their own as do all of his activities taken together. In this respect I urge readers to try to experience Wegener's life as he lived it, with all the interruptions, changes of mind, and renewed efforts this entailed."
+     },
+     {
+      "text": "Wegener left behind a few published works but, as was standard practice, these reported the results of his work – not the journey he took to reach that point. Only a few hundred of the many thousands of letters he wrote and received in his lifetime have survived and he didn't keep notebooks or diaries that recorded his life and activities. He was not active (with a few exceptions) in scientific societies, and did not seek to find influence or advance his ideas through professional contacts and politics, spending most of his time at home in his study reading and writing, or in the field collecting observations."
+     },
+     {
+      "text": "Some famous scientists, such as Newton, Darwin, and Einstein, left mountains of written material behind, hundreds of notebooks and letters numbering in the tens of thousands. Others, like Michael Faraday, left extensive journals of their thoughts and speculations, parallel to their scientific notebooks. The more such material a scientist leaves behind, the better chance a biographer has of forming an accurate picture of how a scientist's ideas took shape and evolved."
+     },
+     {
+      "text": "I am firmly of the opinion that most of us, Wegener included, are not in any real sense the authors of our own lives. We plan, think, and act, often with apparent freedom, but most of the time our lives 'happen to us', and we only retrospectively turn this happenstance into a coherent narrative of fulfilled intentions. This book, therefore, is a story both of the life and scientific work that Alfred Wegener planned and intended and of the life and scientific work that actually 'happened to him'. These are, as I think you will soon see, not always the same thing."
+     },
+     {
+      "kind": "note",
+      "text": "* Paleoclimatology – The study of past climates"
+     }
+    ],
+    "groups": [
+     {
+      "id": "R3-1",
+      "type": "ynng",
+      "range": [
+       27,
+       30
+      ],
+      "instructions": [
+       "Do the following statements agree with the claims of the writer in Reading Passage 3?",
+       "In boxes 27–30 on your answer sheet, write",
+       "**YES** if the statement agrees with the claims of the writer",
+       "**NO** if the statement contradicts the claims of the writer",
+       "**NOT GIVEN** if it is impossible to say what the writer thinks about this"
+      ],
+      "questions": [
+       {
+        "n": 27,
+        "text": "Wegener's ideas about continental drift were widely disputed while he was alive."
+       },
+       {
+        "n": 28,
+        "text": "The idea that the continents remained fixed in place was defended in a number of respected scientific publications."
+       },
+       {
+        "n": 29,
+        "text": "Wegener relied on a limited range of scientific fields to support his theory of continental drift."
+       },
+       {
+        "n": 30,
+        "text": "The similarities between Wegener's theory of continental drift and modern-day plate tectonics are enormous."
+       }
+      ]
+     },
+     {
+      "id": "R3-2",
+      "type": "completion",
+      "range": [
+       31,
+       36
+      ],
+      "instructions": [
+       "Complete the summary using the list of phrases, **A–J**, below.",
+       "Write the correct letter, **A–J**, in boxes 31–36 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Wegener's life and work"
+       },
+       {
+        "t": "p",
+        "text": "One of the remarkable things about Wegener from a {{31}} is that although he proposed a theory of continental drift, he was not a geologist. His {{32}} were limited to atmospheric physics. However, at the time he proposed his theory of continental drift in 1912, he was already a person of {{33}}. Six years previously, there had been his {{34}} of 52 hours in a hot-air balloon, followed by his well-publicised but {{35}} of Greenland's coast. With the publication of his textbook on thermodynamics, he had also come to the attention of a {{36}} of German scientists."
+       }
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": "modest fame"
+       },
+       {
+        "key": "B",
+        "text": "vast range"
+       },
+       {
+        "key": "C",
+        "text": "record-breaking achievement"
+       },
+       {
+        "key": "D",
+        "text": "research methods"
+       },
+       {
+        "key": "E",
+        "text": "select group"
+       },
+       {
+        "key": "F",
+        "text": "professional interests"
+       },
+       {
+        "key": "G",
+        "text": "scientific debate"
+       },
+       {
+        "key": "H",
+        "text": "hazardous exploration"
+       },
+       {
+        "key": "I",
+        "text": "biographer's perspective"
+       },
+       {
+        "key": "J",
+        "text": "narrow investigation"
+       }
+      ]
+     },
+     {
+      "id": "R3-3",
+      "type": "choice",
+      "range": [
+       37,
+       40
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B**, **C** or **D**.",
+       "Write the correct letter in boxes 37–40 on your answer sheet."
+      ],
+      "questions": [
+       {
+        "n": 37,
+        "text": "What is Mott T Greene doing in the fifth paragraph?",
+        "options": [
+         {
+          "key": "A",
+          "text": "describing what motivated him to write the book"
+         },
+         {
+          "key": "B",
+          "text": "explaining why it is desirable to read the whole book"
+         },
+         {
+          "key": "C",
+          "text": "suggesting why Wegener pursued so many different careers"
+         },
+         {
+          "key": "D",
+          "text": "indicating what aspects of Wegener's life interested him most"
+         }
+        ]
+       },
+       {
+        "n": 38,
+        "text": "What is said about Wegener in the sixth paragraph?",
+        "options": [
+         {
+          "key": "A",
+          "text": "He was not a particularly ambitious person."
+         },
+         {
+          "key": "B",
+          "text": "He kept a record of all his scientific observations."
+         },
+         {
+          "key": "C",
+          "text": "He did not adopt many of the scientific practices of the time."
+         },
+         {
+          "key": "D",
+          "text": "He enjoyed discussing new discoveries with other scientists."
+         }
+        ]
+       },
+       {
+        "n": 39,
+        "text": "What does Greene say about some other famous scientists?",
+        "options": [
+         {
+          "key": "A",
+          "text": "Their published works had a greater impact than Wegener's did."
+         },
+         {
+          "key": "B",
+          "text": "They had fewer doubts about their scientific ideas than Wegener did."
+         },
+         {
+          "key": "C",
+          "text": "Their scientific ideas were more controversial than Wegener's."
+         },
+         {
+          "key": "D",
+          "text": "They are easier subjects to write about than Wegener."
+         }
+        ]
+       },
+       {
+        "n": 40,
+        "text": "What is Greene's main point in the final paragraph?",
+        "options": [
+         {
+          "key": "A",
+          "text": "It is not enough in life to have good intentions."
+         },
+         {
+          "key": "B",
+          "text": "People need to plan carefully if they want to succeed."
+         },
+         {
+          "key": "C",
+          "text": "People have little control over many aspects of their lives."
+         },
+         {
+          "key": "D",
+          "text": "It is important that people ensure they have the freedom to act."
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "answers": {
+   "1": {
+    "a": [
+     "D"
+    ]
+   },
+   "2": {
+    "a": [
+     "C"
+    ]
+   },
+   "3": {
+    "a": [
+     "E"
+    ]
+   },
+   "4": {
+    "a": [
+     "B"
+    ]
+   },
+   "5": {
+    "a": [
+     "D"
+    ]
+   },
+   "6": {
+    "a": [
+     "energy"
+    ]
+   },
+   "7": {
+    "a": [
+     "food"
+    ]
+   },
+   "8": {
+    "a": [
+     "gardening"
+    ]
+   },
+   "9": {
+    "a": [
+     "obesity"
+    ]
+   },
+   "10": {
+    "a": [
+     "C"
+    ]
+   },
+   "11": {
+    "a": [
+     "D"
+    ]
+   },
+   "12": {
+    "a": [
+     "A"
+    ]
+   },
+   "13": {
+    "a": [
+     "D"
+    ]
+   },
+   "14": {
+    "a": [
+     "B"
+    ]
+   },
+   "15": {
+    "a": [
+     "C"
+    ]
+   },
+   "16": {
+    "a": [
+     "D"
+    ]
+   },
+   "17": {
+    "a": [
+     "C"
+    ]
+   },
+   "18": {
+    "a": [
+     "B"
+    ]
+   },
+   "19": {
+    "a": [
+     "A"
+    ]
+   },
+   "20": {
+    "a": [
+     "E"
+    ]
+   },
+   "21": {
+    "a": [
+     "B"
+    ]
+   },
+   "22": {
+    "a": [
+     "D"
+    ]
+   },
+   "23": {
+    "a": [
+     "YES"
+    ]
+   },
+   "24": {
+    "a": [
+     "NO"
+    ]
+   },
+   "25": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "26": {
+    "a": [
+     "YES"
+    ]
+   },
+   "27": {
+    "a": [
+     "YES"
+    ]
+   },
+   "28": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "29": {
+    "a": [
+     "NO"
+    ]
+   },
+   "30": {
+    "a": [
+     "NO"
+    ]
+   },
+   "31": {
+    "a": [
+     "I"
+    ]
+   },
+   "32": {
+    "a": [
+     "F"
+    ]
+   },
+   "33": {
+    "a": [
+     "A"
+    ]
+   },
+   "34": {
+    "a": [
+     "C"
+    ]
+   },
+   "35": {
+    "a": [
+     "H"
+    ]
+   },
+   "36": {
+    "a": [
+     "E"
+    ]
+   },
+   "37": {
+    "a": [
+     "B"
+    ]
+   },
+   "38": {
+    "a": [
+     "A"
+    ]
+   },
+   "39": {
+    "a": [
+     "D"
+    ]
+   },
+   "40": {
+    "a": [
+     "C"
+    ]
+   }
+  }
+ },
+ "writing": {
+  "tasks": [
+   {
+    "task": 1,
+    "minutes": 20,
+    "minWords": 150,
+    "pages": [
+     98
+    ],
+    "prompt": [
+     "The graph below shows the average monthly change in the prices of three metals during 2014.",
+     "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+    ],
+    "image": "images/C18/C18-T4-W1.png",
+    "sample": {
+     "kind": "model",
+     "band": null,
+     "text": "From the line graph, we can see the average monthly rise or fall in how much copper, nickel and zinc cost throughout 2014.\n\nOverall, nickel started with the highest percentage change of the three but ended with the lowest. Zinc started with the smallest change and ended with the highest, and copper prices fluctuated. Prices for all three metals dipped in June.\n\nIn January the price of nickel was up six per cent, but this dropped to negative three percent in June, ending the year with a one percent increase in both November and December. Copper began the year with an increase of two percent and by May, the price was dropping (by slightly less than one per cent). It rose again, increasing by a percentage point in July, August and September. Zinc saw its most dramatic increase in February, with three per cent and the price fell in June (a one percent decrease). The change was negative until October/November when it began to rise.",
+     "comment": "This response reports the main data for each of the three metals. There is an introduction in the first paragraph and an overview in the second, followed by the presentation of the main trends of all three categories in the third. Some details are missing (copper after September and no percentage changes for any metal from July to September).\n\nThe candidate identifies the 'dip' for all three in June, but to score more highly, they could also have mentioned that overall, percentage changes fell at the beginning of the year, remained static from July to September and rose after October to the end of the year.\n\nInformation is arranged coherently; each metal is taken in turn for data reporting. There is good use of cohesive devices [*Overall* | *but* | *with* | *when*], but there could be more.\n\nVocabulary is adequate with some attempts to use less common items [*fluctuated* | *dramatic increase*] and attempts to use synonyms [*ended with the lowest* | *dipped* | *dropped*].\n\nThere is a lack of complex structures, as most sentences are simple or compound. However, there is some variety in structures, including comparatives [*highest* | *smallest* | *most dramatic*] and continuous tenses [*was dropping*].\n\nTo improve the response, the candidate could extend the overview to reflect some common trends and should include some of the missing details."
+    }
+   },
+   {
+    "task": 2,
+    "minutes": 40,
+    "minWords": 250,
+    "pages": [
+     99
+    ],
+    "prompt": [
+     "Write about the following topic:",
+     "*In many countries, people are now living longer than ever before. Some people say an ageing population creates problems for governments. Other people think there are benefits if society has more elderly people.*",
+     "*To what extent do the advantages of having an ageing population outweigh the disadvantages?*",
+     "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+    ],
+    "sample": {
+     "kind": "model",
+     "band": null,
+     "text": "The population in most parts of the world is ageing; people are living longer and there are fewer younger people in many places as birth rates fall. This phenomenon has pros and cons, but this essay will contend that, on balance, the advantages of having an older population outweigh the negatives.\n\nThe first issue that occurs to many people when considering the ageing population is the expense. If people live longer, they may have more than 30 years of retirement and may need to be supported financially by the government or their families. If they experience age-related illness, this impacts the health system and takes up resources needed by other people in society. What's more, when older people are financially independent, it might be hard for younger people if they have to compete to get a foot in the door of the housing market or gain employment.\n\nThat being said, older people have a lot to contribute in terms of wisdom, experience and skills. Many people are active and productive for longer than their counterparts were 50 years ago and are an asset to the economy and society well into their old age. They are able to work for longer and after retirement they contribute in many ways too, such as by doing charitable work, spending money as consumers and supporting their families. Grandparents often care for their young grandchildren, making it easier for both parents to work.\n\nWhile it is true that an ageing population poses challenges for governments, it is clear that these are outweighed by the significant benefits that elderly people bring to society.",
+     "comment": "This is a good response to the task. Both sides of the argument are presented, with the ideas extended for both. The candidate makes their position clear from the beginning, that there are more advantages than disadvantages.\n\nThe second paragraph addresses the expense of looking after the elderly, the health system and the cost for governments. It also captures the challenge that older people take up houses and jobs so younger people cannot progress.\n\nThe third paragraph presents the advantages of the [*wisdom, experience and skills*] older people can bring: that they are more active and remain productive for longer, not only working, but also [*doing charitable work, spending money as consumers, supporting their families* and even *grandchildren* for the working parents].\n\nThis means that the conclusion is relevant and justified.\n\nIdeas are organised and cohesion has good progression.\n\nVocabulary is skilfully used, with some high-level terms [*phenomenon* | *age-related illness* | *impacts the health system*] and some sophisticated examples [*get a foot in the door* | *counterparts*].\n\nThere are a range of complex grammatical structures, including several conditional structures [*if*]. The conditionals are used to emphasise the challenges presented and are without errors.\n\nThis is a high-level, fully developed response with ideas that are well supported, extended and engaging."
+    }
+   }
+  ]
+ },
+ "issues": []
+}

@@ -1,0 +1,839 @@
+{
+ "parts": [
+  {
+   "part": 1,
+   "range": [
+    1,
+    10
+   ],
+   "pages": [
+    8,
+    9
+   ],
+   "groups": [
+    {
+     "id": "L1-1",
+     "type": "completion",
+     "range": [
+      1,
+      10
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **ONE WORD AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "HIRING A PUBLIC ROOM"
+      },
+      {
+       "t": "note",
+       "text": "*Example*"
+      },
+      {
+       "t": "li",
+       "text": "the Main Hall – seats *200*"
+      },
+      {
+       "t": "sub",
+       "text": "Room and cost"
+      },
+      {
+       "t": "li",
+       "text": "the {{1}} Room – seats 100"
+      },
+      {
+       "t": "li",
+       "text": "Cost of Main Hall for Saturday evening: £{{2}}"
+      },
+      {
+       "t": "p",
+       "text": "+ £250 deposit ({{3}} payment is required)",
+       "level": 2
+      },
+      {
+       "t": "li",
+       "text": "Cost includes use of tables and chairs and also {{4}}"
+      },
+      {
+       "t": "li",
+       "text": "Additional charge for use of the kitchen: £25"
+      },
+      {
+       "t": "sub",
+       "text": "Before the event"
+      },
+      {
+       "t": "li",
+       "text": "Will need a {{5}} licence"
+      },
+      {
+       "t": "li",
+       "text": "Need to contact caretaker (Mr Evans) in advance to arrange {{6}}"
+      },
+      {
+       "t": "sub",
+       "text": "During the event"
+      },
+      {
+       "t": "li",
+       "text": "The building is no smoking"
+      },
+      {
+       "t": "li",
+       "text": "The band should use the {{7}} door at the back"
+      },
+      {
+       "t": "li",
+       "text": "Don't touch the system that controls the volume"
+      },
+      {
+       "t": "li",
+       "text": "For microphones, contact the caretaker"
+      },
+      {
+       "t": "sub",
+       "text": "After the event"
+      },
+      {
+       "t": "li",
+       "text": "Need to know the {{8}} for the cleaning cupboard"
+      },
+      {
+       "t": "li",
+       "text": "The {{9}} must be washed and rubbish placed in black bags"
+      },
+      {
+       "t": "li",
+       "text": "All {{10}} must be taken down"
+      },
+      {
+       "t": "li",
+       "text": "Chairs and tables must be piled up"
+      }
+     ]
+    }
+   ],
+   "transcript": "OFFICIAL: Hello?\nWOMAN: Oh, hello. I wanted to enquire about hiring a room in the Village Hall, for the evening of September the first.\nOFFICIAL: Let me just see ... Yes, we have both rooms available that evening. There's our Main Hall – that's got seating for 200 people. Or there's the Charlton Room ...\nWOMAN: Sorry?\nOFFICIAL: The Charlton Room – C-H-A-R L-T-O-N. That's got seating for up to one [Q1] hundred.\nWOMAN: Well, we're organising a dinner to raise money for a charity, and we're hoping for at least 150 people, so I think we'll go for the Main Hall. How much would that cost?\nOFFICIAL: Let's see. You wanted it for the evening of September 1st?\nWOMAN: Yes, that's a Saturday.\nOFFICIAL: So from six pm to midnight that'd be £115 – that's the weekend price, it's £75 on [Q2] weekdays.\nWOMAN: That's all right.\nOFFICIAL: And I have to tell you there's also a deposit of £250, which is returnable of course as long as there's no damage. But we do insist that this is paid in cash, we don't [Q3] take cards for that. You can pay the actual rent of the room however you like though – cash, credit card, cheque ...\nWOMAN: Oh, well I suppose that's OK. So does the charge include use of tables and chairs and so on?\nOFFICIAL: Oh, yes.\nWOMAN: And what about parking?\nOFFICIAL: Yeah, that's all included. The only thing that isn't included is ... you said you were [Q4] organising a dinner?\nWOMAN: Yeah.\nOFFICIAL: Well, you'll have to pay extra for the kitchen if you want to use that. It's £25. It's got very good facilities – good quality cookers and fridges and so on.\nWOMAN: OK, well I suppose that's all right. We can cover the cost in our entry charges.\nOFFICIAL: Right. So I'll make a note of that. Now there are just one or two things you need to think about before the event. For example, you'll have to see about getting a [Q5] licence if you're planning to have any music during the meal.\nWOMAN: Oh, really?\nOFFICIAL: It's quite straightforward, I'll give you the details later on. And about a week or ten days before your event you'll need to contact the caretaker, that's Mr Evans, to [Q6] make the arrangements for entry – he'll sort that out with you.\nWOMAN: And do I give him the payment as well?\nOFFICIAL: No, you do that directly with me.\nWOMAN: Right. Now is there anything I need to know about what happens during the event?\nOFFICIAL: Well, as you'll be aware, of course the building is no smoking throughout.\nWOMAN: Of course.\nOFFICIAL: Now, are you having a band?\nWOMAN: Yes.\nOFFICIAL: Well, they'll have a lot of equipment, so rather than using the front door they should park their van round the back and use the stage door there. You can open that [Q7] from inside but don't forget to lock it at the end.\nWOMAN: OK.\nOFFICIAL: And talking of bands, I'm sure I don't need to tell you this, but you must make sure that no one fiddles about with the black box by the fire door – that's a system that cuts in when the volume reaches a certain level. It's a legal requirement.\nWOMAN: Sure. Anyway, we want people to be able to talk to one another so we don't want anything too loud. Oh, that reminds me, we'll be having speeches – are there any microphones available?\nOFFICIAL: Yeah. Just let the caretaker know, he'll get those for you. Right, now when the event is over we do ask that the premises are left in good condition. So there's a [Q8] locked cupboard and you'll be informed of the code you need to open that. It's got all the cleaning equipment, brushes and detergent and so on.\nWOMAN: Right. So what do we need to do after everyone's gone? Sweep the floors I suppose?\nOFFICIAL: Well, actually they have to be washed, not just swept. Then you'll be provided [Q9] with black plastic bags, so all the rubbish must be collected up and left outside the door.\nWOMAN: Of course. We'll make sure everything's left tidy. Oh, and I forgot to ask, I presume we can have decorations in the room?\nOFFICIAL: Yes, but you must take them down afterwards. [Q10]\nWOMAN: Sure.\nOFFICIAL: And the chairs and tables should be stacked up neatly at the back of the room\nWOMAN: I'll make sure I've got a few people to help me."
+  },
+  {
+   "part": 2,
+   "range": [
+    11,
+    20
+   ],
+   "pages": [
+    10,
+    11
+   ],
+   "groups": [
+    {
+     "id": "L2-1",
+     "type": "completion",
+     "range": [
+      11,
+      14
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **ONE WORD** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Fiddy Working Heritage Farm"
+      },
+      {
+       "t": "sub",
+       "text": "Advice about visiting the farm"
+      },
+      {
+       "t": "p",
+       "text": "Visitors should"
+      },
+      {
+       "t": "li",
+       "text": "take care not to harm any {{11}}"
+      },
+      {
+       "t": "li",
+       "text": "not touch any {{12}}"
+      },
+      {
+       "t": "li",
+       "text": "wear {{13}}"
+      },
+      {
+       "t": "li",
+       "text": "not bring {{14}} into the farm, with certain exceptions"
+      }
+     ]
+    },
+    {
+     "id": "L2-2",
+     "type": "matching",
+     "range": [
+      15,
+      20
+     ],
+     "instructions": [
+      "Label the map below.",
+      "Write the correct letter **A–I**, next to Questions 15–20."
+     ],
+     "image": "images/C11/C11-T1-L2-map.png",
+     "options": [
+      {
+       "key": "A",
+       "text": ""
+      },
+      {
+       "key": "B",
+       "text": ""
+      },
+      {
+       "key": "C",
+       "text": ""
+      },
+      {
+       "key": "D",
+       "text": ""
+      },
+      {
+       "key": "E",
+       "text": ""
+      },
+      {
+       "key": "F",
+       "text": ""
+      },
+      {
+       "key": "G",
+       "text": ""
+      },
+      {
+       "key": "H",
+       "text": ""
+      },
+      {
+       "key": "I",
+       "text": ""
+      }
+     ],
+     "questions": [
+      {
+       "n": 15,
+       "text": "Scarecrow"
+      },
+      {
+       "n": 16,
+       "text": "Maze"
+      },
+      {
+       "n": 17,
+       "text": "Café"
+      },
+      {
+       "n": 18,
+       "text": "Black Barn"
+      },
+      {
+       "n": 19,
+       "text": "Covered picnic area"
+      },
+      {
+       "n": 20,
+       "text": "Fiddy House"
+      }
+     ]
+    }
+   ],
+   "transcript": "Welcome to the Fiddy Working Heritage Farm. This open-air museum gives you the experience of agriculture and rural life in the English countryside at the end of the nineteenth century. So you'll see a typical farm of that period, and like me, all the staff are dressed in clothes of that time.\nI must give you some advice and safety tips before we go any further. As it's a *working farm*, please don't frighten or injure the animals. We have a lot here, and many of them are breeds [Q11] that are now quite rare.\nAnd do stay at a safe distance from the tools: some of them have sharp points which can be [Q12] pretty dangerous, so please don't touch them. We don't want any accidents, do we?\nThe ground is very uneven, and you might slip if you're wearing sandals so I'm glad to see [Q13] you're all wearing shoes – we always advise people to do that.\nNow, children of all ages are very welcome here, and usually even very young children love the ducks and lambs, so do bring them along next time you come.\nI don't think any of you have brought dogs with you, but in case you have, I'm afraid they'll [Q14] have to stay in the car park, unless they're guide dogs. I'm sure you'll understand that they could cause a lot of problems on a farm.\nNow let me give you some idea of the layout of the farm. The building where you bought your tickets is the New Barn, immediately to your right, and we're now at the beginning of the main path to the farmland – and of course the car park is on your left. The scarecrow you can see [Q15] in the car park in the corner, beside the main path, is a traditional figure for keeping the birds away from crops, but our scarecrow is a permanent sculpture. It's taller than a human being, so you can see it from quite a distance.\nIf you look ahead of you, you'll see a maze. It's opposite the New Barn, beside the side path [Q16] that branches off to the right just over there. The maze is made out of hedges which are too tall for young children to see over them, but it's quite small, so you can't get lost in it!\nNow, can you see the bridge crossing the fish pool further up the main path? If you want to go [Q17] to the café, go towards the bridge and turn right just before it. Walk along the side path and the café's on the first bend you come to. The building was originally the schoolhouse, and it's well over a hundred years old.\nAs you may know, we run skills workshops here, where you can learn traditional crafts like woodwork and basket-making. You can see examples of the work, and talk to someone about the courses, in the Black Barn. If you take the side path to the right, here, just by the New [Q18] Barn, you'll come to the Black Barn just where the path first bends.\nNow I mustn't forget to tell you about picnicking, as I can see some of you have brought your lunch with you. You can picnic in the field, though do clear up behind you, of course. Or if [Q19] you'd prefer a covered picnic area, there's one near the farmyard: just after you cross the bridge, there's a covered picnic spot on the right.\nAnd the last thing to mention is Fiddy House itself. From here you can cross the bridge then [Q20] walk along the footpath through the field to the left of the farmyard. That goes to the house, and it'll give you a lovely view of it. It's certainly worth a few photographs, but as it's a private home, I'm afraid you can't go inside.\nRight. Well, if you're all ready, we'll set off on our tour of the farm."
+  },
+  {
+   "part": 3,
+   "range": [
+    21,
+    30
+   ],
+   "pages": [
+    12,
+    13
+   ],
+   "groups": [
+    {
+     "id": "L3-1",
+     "type": "choice",
+     "range": [
+      21,
+      30
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "title": "Study on Gender in Physics",
+     "questions": [
+      {
+       "n": 21,
+       "text": "The students in Akira Miyake's study were all majoring in",
+       "options": [
+        {
+         "key": "A",
+         "text": "physics."
+        },
+        {
+         "key": "B",
+         "text": "psychology or physics."
+        },
+        {
+         "key": "C",
+         "text": "science, technology, engineering or mathematics."
+        }
+       ]
+      },
+      {
+       "n": 22,
+       "text": "The aim of Miyake's study was to investigate",
+       "options": [
+        {
+         "key": "A",
+         "text": "what kind of women choose to study physics."
+        },
+        {
+         "key": "B",
+         "text": "a way of improving women's performance in physics."
+        },
+        {
+         "key": "C",
+         "text": "whether fewer women than men study physics at college."
+        }
+       ]
+      },
+      {
+       "n": 23,
+       "text": "The female physics students were wrong to believe that",
+       "options": [
+        {
+         "key": "A",
+         "text": "the teachers marked them in an unfair way."
+        },
+        {
+         "key": "B",
+         "text": "the male students expected them to do badly."
+        },
+        {
+         "key": "C",
+         "text": "their test results were lower than the male students'."
+        }
+       ]
+      },
+      {
+       "n": 24,
+       "text": "Miyake's team asked the students to write about",
+       "options": [
+        {
+         "key": "A",
+         "text": "what they enjoyed about studying physics."
+        },
+        {
+         "key": "B",
+         "text": "the successful experiences of other people."
+        },
+        {
+         "key": "C",
+         "text": "something that was important to them personally."
+        }
+       ]
+      },
+      {
+       "n": 25,
+       "text": "What was the aim of the writing exercise done by the subjects?",
+       "options": [
+        {
+         "key": "A",
+         "text": "to reduce stress"
+        },
+        {
+         "key": "B",
+         "text": "to strengthen verbal ability"
+        },
+        {
+         "key": "C",
+         "text": "to encourage logical thinking"
+        }
+       ]
+      },
+      {
+       "n": 26,
+       "text": "What surprised the researchers about the study?",
+       "options": [
+        {
+         "key": "A",
+         "text": "how few students managed to get A grades"
+        },
+        {
+         "key": "B",
+         "text": "the positive impact it had on physics results for women"
+        },
+        {
+         "key": "C",
+         "text": "the difference between male and female performance"
+        }
+       ]
+      },
+      {
+       "n": 27,
+       "text": "Greg and Lisa think Miyake's results could have been affected by",
+       "options": [
+        {
+         "key": "A",
+         "text": "the length of the writing task."
+        },
+        {
+         "key": "B",
+         "text": "the number of students who took part."
+        },
+        {
+         "key": "C",
+         "text": "the information the students were given."
+        }
+       ]
+      },
+      {
+       "n": 28,
+       "text": "Greg and Lisa decide that in their own project, they will compare the effects of",
+       "options": [
+        {
+         "key": "A",
+         "text": "two different writing tasks."
+        },
+        {
+         "key": "B",
+         "text": "a writing task with an oral task."
+        },
+        {
+         "key": "C",
+         "text": "two different oral tasks."
+        }
+       ]
+      },
+      {
+       "n": 29,
+       "text": "The main finding of Smolinsky's research was that class teamwork activities",
+       "options": [
+        {
+         "key": "A",
+         "text": "were most effective when done by all-women groups."
+        },
+        {
+         "key": "B",
+         "text": "had no effect on the performance of men or women."
+        },
+        {
+         "key": "C",
+         "text": "improved the results of men more than of women."
+        }
+       ]
+      },
+      {
+       "n": 30,
+       "text": "What will Lisa and Greg do next?",
+       "options": [
+        {
+         "key": "A",
+         "text": "talk to a professor"
+        },
+        {
+         "key": "B",
+         "text": "observe a science class"
+        },
+        {
+         "key": "C",
+         "text": "look at the science timetable"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "transcript": "LISA: OK, Greg, so I finally managed to read the article you mentioned – the one about the study on gender in physics.\nGREG: About the study of college students done by Akira Miyake and his team? Yeah. I was interested that the researchers were actually a mix of psychologists and physicists. That's an unusual combination.\nLISA: Yeah. I got a little confused at first about which students the study was based on. They weren't actually majoring in physics – they were majoring in what's known as the [Q21] STEM disciplines. That's science, technology, engineering and ...\nGREG: ... and math. Yes, but they were all doing physics courses as part of their studies.\nLISA: That's correct. So as I understood it, Miyake and co started from the fact that women are underrepresented in introductory physics courses at college, and also that on average, the women who do enrol on these courses perform more poorly than the men. No one really knows why this is the case.\nGREG: Yeah. But what the researchers wanted to find out was basically what they could do [Q22] about the relatively low level of the women's results. But in order to find a solution they needed to find out more about the nature of the problem.\nLISA: Right – now let's see if I can remember ... it was that in the physics class, the female students thought the male students all assumed that women weren't any good at physics ... was that it? And they thought that the men expected them to get poor results in their tests.\nGREG: That's what the women thought, and that made them nervous, so they did get poor results. But actually they were wrong ... No one was making any assumptions about [Q23] the female students at all.\nLISA: Anyway, what Miyake's team did was quite simple – getting the students to do some writing before they went into the physics class. What did they call it?\nGREG: Values-affirmation – they had to write an essay focusing on things that were significant [Q24] to them, not particularly to do with the subject they were studying, but more general things like music, or people who mattered to them.\nLISA: Right. So the idea of doing the writing is that this gets the students thinking in a positive way.\nGREG: And putting these thoughts into words can relax them and help them overcome the [Q25] psychological factors that lead to poor performance. Yeah. But what the researchers [Q26] in the study hadn't expected was that this one activity raised the women's physics grades from the C to the B range.\nLISA: A huge change. Pity it wasn't to an A, but still! No, but it does suggest that the women were seriously underperforming beforehand, in comparison with the men.\nGREG: Yes. Mind you, Miyake's article left out a lot of details. Like, did the students do the writing just once, or several times? And had they been told why they were doing the [Q27] writing? That might have affected the results.\nLISA: You mean, if they know the researchers thought it might help them to improve, then they'd just try to fulfil that expectation?\nGREG: Exactly.\nGREG: So anyway, I thought for our project we could do a similar study, but investigate whether it really was the writing activity that had that result.\nLISA: OK. So we could ask them to do a writing task about something completely different ... something more factual? Like a general knowledge topic.\nGREG: Maybe ... or we could have half the students doing a writing task and half doing something else, like an oral task.\nLISA: Or even, half do the same writing task as in the original research and half do a [Q28] factual writing task. Then we'd see if it really is the topic that made the difference, or something else.\nGREG: That's it. Good. So at our meeting with the supervisor on Monday we can tell him we've decided on our project. We should have our aims ready by then. I suppose we need to read the original study – the article's just a summary.\nLISA: And there was another article I read, by Smolinsky. It was about her research on how women and men perform in mixed teams in class, compared with single-sex teams and on their own.\nGREG: Let me guess ... the women were better at teamwork.\nLISA: That's what I expected, but actually the men and the women got the same results [Q29] whether they were working in teams or on their own. But I guess it's not that relevant to us.\nGREG: What worries me anyway is how we're going to get everything done in the time.\nLISA: We'll be OK now we know what we're doing. Though I'm not clear how we assess whether the students in our experiment actually make any progress or not ...\nGREG: No. We may need some advice on that. The main thing's to make sure we have the right size sample, not too big or too small.\nLISA: That shouldn't be difficult. Right, what do we need to do next? We could have a look at the timetable for the science classes... or perhaps we should just make an [Q30] appointment to see one of the science professors. That'd be better.\nGREG: Great. And we could even get to observe one of the classes.\nLISA: What for?\nGREG: Well ... OK maybe let's just go with your idea. Right, well ..."
+  },
+  {
+   "part": 4,
+   "range": [
+    31,
+    40
+   ],
+   "pages": [
+    14,
+    15
+   ],
+   "groups": [
+    {
+     "id": "L4-1",
+     "type": "completion",
+     "range": [
+      31,
+      40
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **ONE WORD ONLY** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Ocean Biodiversity"
+      },
+      {
+       "t": "sub",
+       "text": "Biodiversity hotspots"
+      },
+      {
+       "t": "li",
+       "text": "areas containing many different species"
+      },
+      {
+       "t": "li",
+       "text": "important for locating targets for {{31}}"
+      },
+      {
+       "t": "li",
+       "text": "at first only identified on land"
+      },
+      {
+       "t": "sub",
+       "text": "Boris Worm, 2005"
+      },
+      {
+       "t": "li",
+       "text": "identified hotspots for large ocean predators, e.g. sharks"
+      },
+      {
+       "t": "li",
+       "text": "found that ocean hotspots:"
+      },
+      {
+       "t": "p",
+       "text": "– were not always rich in {{32}}",
+       "level": 2
+      },
+      {
+       "t": "p",
+       "text": "– had higher temperatures at the {{33}}",
+       "level": 2
+      },
+      {
+       "t": "p",
+       "text": "– had sufficient {{34}} in the water",
+       "level": 2
+      },
+      {
+       "t": "sub",
+       "text": "Lisa Ballance, 2007"
+      },
+      {
+       "t": "li",
+       "text": "looked for hotspots for marine {{35}}"
+      },
+      {
+       "t": "li",
+       "text": "found these were all located where ocean currents meet"
+      },
+      {
+       "t": "sub",
+       "text": "Census of Marine Life"
+      },
+      {
+       "t": "li",
+       "text": "found new ocean species living:"
+      },
+      {
+       "t": "p",
+       "text": "– under the {{36}}",
+       "level": 2
+      },
+      {
+       "t": "p",
+       "text": "– near volcanoes on the ocean floor",
+       "level": 2
+      },
+      {
+       "t": "sub",
+       "text": "Global Marine Species Assessment"
+      },
+      {
+       "t": "li",
+       "text": "want to list endangered ocean species, considering:"
+      },
+      {
+       "t": "p",
+       "text": "– population size",
+       "level": 2
+      },
+      {
+       "t": "p",
+       "text": "– geographical distribution",
+       "level": 2
+      },
+      {
+       "t": "p",
+       "text": "– rate of {{37}}",
+       "level": 2
+      },
+      {
+       "t": "li",
+       "text": "Aim: to assess 20,000 species and make a distribution {{38}} for each one"
+      },
+      {
+       "t": "sub",
+       "text": "Recommendations to retain ocean biodiversity"
+      },
+      {
+       "t": "li",
+       "text": "increase the number of ocean reserves"
+      },
+      {
+       "t": "li",
+       "text": "establish {{39}} corridors (e.g. for turtles)"
+      },
+      {
+       "t": "li",
+       "text": "reduce fishing quotas"
+      },
+      {
+       "t": "li",
+       "text": "catch fish only for the purpose of {{40}}"
+      }
+     ]
+    }
+   ],
+   "transcript": "I've been looking at ocean biodiversity, that's the diversity of species that live in the world's oceans. About 20 years ago biologists developed the idea of what they called 'biodiversity hotspots'. These are the areas which have the greatest mixture of species, so one example is Madagascar. These hotspots are significant because they allow us to locate key areas for [Q31] focusing efforts at conservation. Biologists can identify hotspots on land, fairly easily, but until recently, very little was known about species distribution and diversity in the oceans, and no one even knew if hotspots existed there.\nThen a Canadian biologist called Boris Worm did some research in 2005 on data on ocean species that he got from the fishing industry. Worm located five hotspots for large ocean predators like sharks, and looked at what they had in common. The main thing he'd expected [Q32] to find was that they had very high concentrations of food, but to his surprise that was only true for four of the hotspots – the remaining hotspot was quite badly off in that regard. But what he did find was that in all cases, the water at the surface of the ocean had relatively [Q33] high temperatures, even when it was cool at greater depths, so this seemed to be a factor in supporting a diverse range of these large predators. However, this wasn't enough on its own, because he also found that the water needed to have enough oxygen in it – so these two [Q34] factors seemed necessary to support the high metabolic rate of these large fish.\nA couple of years later, in 2007, a researcher called Lisa Ballance, who was working in California, also started looking for ocean hotspots, but not for fish – what she was interested [Q35] in was marine mammals, things like seals. And she found three places in the oceans which were hotspots, and what these had in common was that these hotspots were all located at boundaries between ocean currents, and this seems to be the sort of place that has lots of the plankton that some of these species feed on.\nSo now people who want to protect the species that are endangered need to get as much information as possible. For example, there's an international project called the Census of Marine Life. They've been surveying oceans all over the world, including the Arctic. One [Q36] thing they found there which stunned other researchers was that there were large numbers of species which live below the ice – sometimes under a layer up to 20 metres thick. Some of these species had never been seen before. They've even found species of octopus living in these conditions. And other scientists working on the same project, but researching very different habitats on the ocean floor, have found large numbers of species congregating around volcanoes, attracted to them by the warmth and nutrients there.\nHowever, biologists still don't know how serious the threat to their survival is for each individual species. So a body called the Global Marine Species Assessment is now creating a list of endangered species on land, so they consider things like the size of the population – how many members of one species there are in a particular place – and then they look at their distribution in geographical terms, although this is quite difficult when you're looking at fish, because they're so mobile, and then thirdly they calculate the rate at which the decline of [Q37] the species is happening.\nSo far only 1,500 species have been assessed, but they want to increase this figure to 20,000. For each one they assess, they use the data they collect on that species to produce [Q38] a map showing its distribution. Ultimately they will be able to use these to figure out not only where most species are located but also where they are most threatened.\nSo finally, what can be done to retain the diversity of species in the world's oceans? Firstly, we need to set up more reserves in our oceans, places where marine species are protected. We have some, but not enough. In addition, to preserve species such as leatherback turtles, which live out in the high seas but have their nesting sites on the American coast, we need [Q39] to create corridors for migration, so they can get from one area to another safely. As well as this, action needs to be taken to lower the levels of fishing quotas to prevent overfishing of endangered species. And finally, there's the problem of 'by-catch'. This refers to the catching of unwanted fish by fishing boats – they're returned to the sea, but they're often dead or dying. If these commercial fishing boats used equipment which was more selective, so that [Q40] only the fish wanted for consumption were caught, this problem could be overcome.\nOK. So does anyone have any ..."
+  }
+ ],
+ "answers": {
+  "1": {
+   "a": [
+    "Charlton"
+   ]
+  },
+  "2": {
+   "a": [
+    "115",
+    "£115",
+    "a hundred and fifteen",
+    "one hundred and fifteen",
+    "a hundred fifteen",
+    "one hundred fifteen"
+   ],
+   "k": "(£)115 / a/one hundred (and) fifteen"
+  },
+  "3": {
+   "a": [
+    "cash"
+   ]
+  },
+  "4": {
+   "a": [
+    "parking"
+   ]
+  },
+  "5": {
+   "a": [
+    "music"
+   ]
+  },
+  "6": {
+   "a": [
+    "entry"
+   ]
+  },
+  "7": {
+   "a": [
+    "stage"
+   ]
+  },
+  "8": {
+   "a": [
+    "code"
+   ]
+  },
+  "9": {
+   "a": [
+    "floor",
+    "floors"
+   ],
+   "k": "floor/floors"
+  },
+  "10": {
+   "a": [
+    "decoration",
+    "decorations"
+   ],
+   "k": "decoration/decorations"
+  },
+  "11": {
+   "a": [
+    "animal",
+    "animals"
+   ],
+   "k": "animal/animals"
+  },
+  "12": {
+   "a": [
+    "tool",
+    "tools"
+   ],
+   "k": "tool/tools"
+  },
+  "13": {
+   "a": [
+    "shoes"
+   ]
+  },
+  "14": {
+   "a": [
+    "dog",
+    "dogs"
+   ],
+   "k": "dog/dogs"
+  },
+  "15": {
+   "a": [
+    "F"
+   ]
+  },
+  "16": {
+   "a": [
+    "G"
+   ]
+  },
+  "17": {
+   "a": [
+    "D"
+   ]
+  },
+  "18": {
+   "a": [
+    "H"
+   ]
+  },
+  "19": {
+   "a": [
+    "C"
+   ]
+  },
+  "20": {
+   "a": [
+    "A"
+   ]
+  },
+  "21": {
+   "a": [
+    "C"
+   ]
+  },
+  "22": {
+   "a": [
+    "B"
+   ]
+  },
+  "23": {
+   "a": [
+    "B"
+   ]
+  },
+  "24": {
+   "a": [
+    "C"
+   ]
+  },
+  "25": {
+   "a": [
+    "A"
+   ]
+  },
+  "26": {
+   "a": [
+    "B"
+   ]
+  },
+  "27": {
+   "a": [
+    "C"
+   ]
+  },
+  "28": {
+   "a": [
+    "A"
+   ]
+  },
+  "29": {
+   "a": [
+    "B"
+   ]
+  },
+  "30": {
+   "a": [
+    "A"
+   ]
+  },
+  "31": {
+   "a": [
+    "conservation"
+   ]
+  },
+  "32": {
+   "a": [
+    "food",
+    "foods"
+   ],
+   "k": "food/foods"
+  },
+  "33": {
+   "a": [
+    "surface"
+   ]
+  },
+  "34": {
+   "a": [
+    "oxygen",
+    "O2"
+   ],
+   "k": "oxygen/O2"
+  },
+  "35": {
+   "a": [
+    "mammals"
+   ]
+  },
+  "36": {
+   "a": [
+    "ice"
+   ]
+  },
+  "37": {
+   "a": [
+    "decline",
+    "declining",
+    "decrease"
+   ],
+   "k": "decline/declining/decrease"
+  },
+  "38": {
+   "a": [
+    "map"
+   ]
+  },
+  "39": {
+   "a": [
+    "migration"
+   ]
+  },
+  "40": {
+   "a": [
+    "consumption"
+   ]
+  }
+ }
+}

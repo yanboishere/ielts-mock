@@ -1,0 +1,1831 @@
+{
+ "schema": "ielts-mock.exam/1",
+ "id": "C7-T2",
+ "source": {
+  "book": 7,
+  "test": 2
+ },
+ "title": "Cambridge IELTS 7 · Test 2",
+ "listening": {
+  "parts": [
+   {
+    "part": 1,
+    "range": [
+     1,
+     10
+    ],
+    "pages": [
+     37
+    ],
+    "groups": [
+     {
+      "id": "L1-1",
+      "type": "completion",
+      "range": [
+       1,
+       10
+      ],
+      "instructions": [
+       "Complete the form below.",
+       "Write **NO MORE THAN THREE WORDS AND/OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "CAR INSURANCE"
+       },
+       {
+        "t": "note",
+        "text": "*Example*"
+       },
+       {
+        "t": "p",
+        "text": "**Name:** *Patrick Jones*"
+       },
+       {
+        "t": "p",
+        "text": "**Address:** {{1}}, *Greendale*"
+       },
+       {
+        "t": "p",
+        "text": "**Contact number:** *730453*"
+       },
+       {
+        "t": "p",
+        "text": "**Occupation:** {{2}}"
+       },
+       {
+        "t": "p",
+        "text": "**Size of car engine:** *1200cc*"
+       },
+       {
+        "t": "sub",
+        "text": "Type of car:"
+       },
+       {
+        "t": "li",
+        "text": "**Manufacturer:** *Hewton*"
+       },
+       {
+        "t": "li",
+        "text": "**Model:** {{3}}"
+       },
+       {
+        "t": "li",
+        "text": "**Year:** *1997*"
+       },
+       {
+        "t": "sub",
+        "text": "Previous insurance company:"
+       },
+       {
+        "t": "p",
+        "text": "{{4}}"
+       },
+       {
+        "t": "sub",
+        "text": "Any insurance claims in the last five years?"
+       },
+       {
+        "t": "p",
+        "text": "*Yes* ✓   *No* ☐"
+       },
+       {
+        "t": "sub",
+        "text": "If yes, give brief details:"
+       },
+       {
+        "t": "p",
+        "text": "*Car was* {{5}} *in 1999*"
+       },
+       {
+        "t": "sub",
+        "text": "Name(s) of other driver(s):"
+       },
+       {
+        "t": "p",
+        "text": "*Simon* {{6}}"
+       },
+       {
+        "t": "sub",
+        "text": "Relationship to main driver:"
+       },
+       {
+        "t": "p",
+        "text": "{{7}}"
+       },
+       {
+        "t": "sub",
+        "text": "Uses of car:"
+       },
+       {
+        "t": "li",
+        "text": "– *social*"
+       },
+       {
+        "t": "li",
+        "text": "– {{8}}"
+       },
+       {
+        "t": "p",
+        "text": "**Start date:** *31 January*"
+       },
+       {
+        "t": "sub",
+        "text": "Recommended Insurance arrangement"
+       },
+       {
+        "t": "p",
+        "text": "**Name of company:** {{9}}"
+       },
+       {
+        "t": "p",
+        "text": "**Annual cost:** $ {{10}}"
+       }
+      ]
+     }
+    ],
+    "transcript": "WOMAN: Hello ... motor insurance department ...\nMAN: Oh hello ... I'd like to ask about insurance for my car.\nWOMAN: Yes, of course. I'll just take a few details. What's your name?\nMAN: Patrick Jones.\nWOMAN: And your address?\nMAN: It's 27 Bank Road. [Q1]\nWOMAN: 27 Bank Road. Is that in Greendale?\nMAN: Yes.\nWOMAN: And what's your daytime phone number?\nMAN: My work number is 730453.\nWOMAN: And could I ask what your occupation is?\nMAN: Dentist. [Q2]\nWOMAN: OK ... now a few details about your car ... What size is the engine?\nMAN: It's 1200 ccs.\nWOMAN: Thank you ... and the make and model?\nMAN: It's a Hewton Sable.\nWOMAN: Could you spell the model name please?\nMAN: Yes ... S-A-B-L-E. [Q3]\nWOMAN: Ah yes ... thanks. And when was it made?\nMAN: 1997.\nWOMAN: Lovely ... right ... I presume you've had a previous insurer?\nMAN: Yes.\nWOMAN: Right ... we need to know the name of the company.\nMAN: Yes ... it was Northern Star. [Q4]\nWOMAN: Thank you, and have you made any insurance claims in the last five years?\nMAN: Yes ... one in 1999.\nWOMAN: And what was the problem?\nMAN: It was stolen ... but ... [Q5]\nWOMAN: That's fine, Mr Jones ... that's all we need to know at the moment ...\nWOMAN: And will there be any other named drivers?\nMAN: Just the one ...\nWOMAN: And his name?\nMAN: Simon Paynter.\nWOMAN: Could you spell the surname please?\nMAN: P-A-Y-N-T-E-R. [Q6]\nWOMAN: OK thank you ... And what relationship is he to you?\nMAN: He's my brother-in-law. [Q7]\nWOMAN: And what will you or Mr Paynter be using the car for?\nMAN: Well ... mainly for social use ...\nWOMAN: Social use *(murmuring)*. Will you be using it to travel to work? [Q8]\nMAN: Yes ... sometimes.\nWOMAN: ... Anything else?\nMAN: No. That's it ...\nWOMAN: And finally ... when would you like to start the insurance?\nMAN: I'll need it from the 31st of January.\nWOMAN: Right ... Mr Jones ... I'm getting a couple of quotes coming up on the computer now ... and the best bet looks like being with a company called Red Flag. [Q9]\nMAN: Yeah.\nWOMAN: And that comes out at $450 per year ... [Q10]\nMAN: Well ... that seems OK ... it's quite a bit lower than I've been paying up to now ...\nWOMAN: Great ... so would you like me to go ahead with that?\nMAN: Sure ... why not?\nWOMAN: How would you like to pay?"
+   },
+   {
+    "part": 2,
+    "range": [
+     11,
+     20
+    ],
+    "pages": [
+     38,
+     39
+    ],
+    "groups": [
+     {
+      "id": "L2-1",
+      "type": "completion",
+      "range": [
+       11,
+       12
+      ],
+      "instructions": [
+       "Label the map below.",
+       "Write **NO MORE THAN TWO WORDS** for each answer."
+      ],
+      "image": "images/C7/C7-T2-L2-map.png",
+      "content": [
+       {
+        "t": "h",
+        "text": "Boat Trip"
+       },
+       {
+        "t": "p",
+        "text": "STOP B: {{11}}"
+       },
+       {
+        "t": "p",
+        "text": "STOP D: {{12}}"
+       }
+      ]
+     },
+     {
+      "id": "L2-2",
+      "type": "completion",
+      "range": [
+       13,
+       18
+      ],
+      "instructions": [
+       "Complete the table below.",
+       "Write **NO MORE THAN TWO WORDS AND/OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "table",
+        "header": 1,
+        "rows": [
+         [
+          "",
+          "Attraction",
+          "Further Information"
+         ],
+         [
+          "**STOP A:**\nMain Booking Office:\nFirst boat:  8 a.m.\nLast boat:\n{{13}} p.m.",
+          "Palace",
+          "• has lovely {{14}}"
+         ],
+         [
+          "**STOP B:**",
+          "{{15}}",
+          "• has good {{16}} of city centre"
+         ],
+         [
+          "**STOP C:**",
+          "Museum",
+          "• bookshop specialising in the {{17}} of the local area"
+         ],
+         [
+          "**STOP D:**",
+          "Entertainment Complex",
+          "• {{18}} cinema\n• bowling alley\n• video games arcade"
+         ]
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L2-3",
+      "type": "completion",
+      "range": [
+       19,
+       20
+      ],
+      "instructions": [
+       "Write **NO MORE THAN THREE WORDS AND/OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "p",
+        "text": "How often do the Top Bus Company tours run? {{19}}"
+       },
+       {
+        "t": "p",
+        "text": "Where can you catch a Number One Sightseeing Tour from? {{20}}"
+       }
+      ]
+     }
+    ],
+    "transcript": "Thank you for calling the Tourist Line. There are many different ways of getting round the city and we'd like to suggest some you may not have thought of.\nHow about a city trip by boat? There are four main stopping points – from west to east: stop A Green Banks, stop B City Bridge, stop C Roman Landing and stop D Newtown. [Q11] [Q12]\nYou can find the main booking office at stop A.\nThe first boat leaves at 8 a.m. and the last one at 6.30 p.m. [Q13] There are also many attractions you can visit along the river. At Stop A, if you have time, you can visit the fine 16th century palace here built for the king with its beautiful formal gardens. [Q14] It's very near the booking office. Now *you* can enjoy every corner of this superb residence.\nStop B Why don't you visit Tower Restaurant with its wide range of refreshments? [Q15] This is a place where you can sit and enjoy the wonderful views over the old commercial and banking centre of the city. [Q16]\nStop C is the area where, in the first century AD, invading soldiers crossed the river; this was much shallower than it is now. That's why this area is called Roman Landing. There's an interactive Museum to visit here with a large shop which has a good range of local history books. [Q17]\nAt the furthest point of the trip, stop D, the most exciting place to visit is the new Entertainment Complex with seven-screen cinema, bowling alley and video games arcade. [Q18]\nBesides the boat tours, there are city buses. Two companies offer special services:\nThe Top Bus Company runs all its tours with a live commentary in English. Tours leave from 8.30 a.m. every 20 minutes. [Q19] There are departures from Central Station, Castle Hill and Long Walk. This is a hop-on hop-off service and tickets are valid for 24 hours. For further details call Top Bus on 0208 9447810.\nThe Number One Sightseeing Tour is available with a commentary in eight languages. Buses depart from Central Station every five to six minutes from about 9 a.m. with the last bus at around 7 p.m. [Q20] There are also Number One services with an English-speaking ..."
+   },
+   {
+    "part": 3,
+    "range": [
+     21,
+     30
+    ],
+    "pages": [
+     40,
+     41
+    ],
+    "groups": [
+     {
+      "id": "L3-1",
+      "type": "choice",
+      "range": [
+       21,
+       26
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B** or **C**."
+      ],
+      "questions": [
+       {
+        "n": 21,
+        "text": "The Antarctic Centre was established in Christchurch because",
+        "options": [
+         {
+          "key": "A",
+          "text": "New Zealand is a member of the Antarctic Treaty."
+         },
+         {
+          "key": "B",
+          "text": "Christchurch is geographically well positioned."
+         },
+         {
+          "key": "C",
+          "text": "the climate of Christchurch is suitable."
+         }
+        ]
+       },
+       {
+        "n": 22,
+        "text": "One role of the Antarctic Centre is to",
+        "options": [
+         {
+          "key": "A",
+          "text": "provide expeditions with suitable equipment."
+         },
+         {
+          "key": "B",
+          "text": "provide researchers with financial assistance."
+         },
+         {
+          "key": "C",
+          "text": "ensure that research is internationally relevant."
+         }
+        ]
+       },
+       {
+        "n": 23,
+        "text": "The purpose of the Visitors' Centre is to",
+        "options": [
+         {
+          "key": "A",
+          "text": "provide accommodation."
+         },
+         {
+          "key": "B",
+          "text": "run training sessions."
+         },
+         {
+          "key": "C",
+          "text": "show people what Antarctica is like."
+         }
+        ]
+       },
+       {
+        "n": 24,
+        "text": "Dr Merrywhether says that Antarctica is",
+        "options": [
+         {
+          "key": "A",
+          "text": "unlike any other country."
+         },
+         {
+          "key": "B",
+          "text": "extremely beautiful."
+         },
+         {
+          "key": "C",
+          "text": "too cold for tourists."
+         }
+        ]
+       },
+       {
+        "n": 25,
+        "text": "According to Dr Merrywhether, Antarctica is very cold because",
+        "options": [
+         {
+          "key": "A",
+          "text": "of the shape of the continent."
+         },
+         {
+          "key": "B",
+          "text": "it is surrounded by a frozen sea."
+         },
+         {
+          "key": "C",
+          "text": "it is an extremely dry continent."
+         }
+        ]
+       },
+       {
+        "n": 26,
+        "text": "Dr Merrywhether thinks Antarctica was part of another continent because",
+        "options": [
+         {
+          "key": "A",
+          "text": "he has done his own research in the area."
+         },
+         {
+          "key": "B",
+          "text": "there is geological evidence of this."
+         },
+         {
+          "key": "C",
+          "text": "it is very close to South America."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L3-2",
+      "type": "completion",
+      "range": [
+       27,
+       28
+      ],
+      "instructions": [
+       "Complete the table below.",
+       "Write **ONE WORD AND/OR TWO NUMBERS** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "ANTARCTIC TREATY"
+       },
+       {
+        "t": "table",
+        "header": 1,
+        "rows": [
+         [
+          "Date",
+          "Event"
+         ],
+         [
+          "1870",
+          "*Polar Research meeting*"
+         ],
+         [
+          "{{27}}",
+          "*1st International Polar Year*"
+         ],
+         [
+          "1957",
+          "*Antarctic Treaty was proposed*"
+         ],
+         [
+          "1959",
+          "*Antarctic Treaty was* {{28}}"
+         ]
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L3-3",
+      "type": "multi",
+      "range": [
+       29,
+       30
+      ],
+      "n": [
+       29,
+       30
+      ],
+      "select": 2,
+      "instructions": [
+       "Choose **TWO** letters, **A–E**."
+      ],
+      "text": "Which **TWO** achievements of the Antarctic Treaty are mentioned by the speakers?",
+      "options": [
+       {
+        "key": "A",
+        "text": "no military use"
+       },
+       {
+        "key": "B",
+        "text": "animals protected"
+       },
+       {
+        "key": "C",
+        "text": "historic sites preserved"
+       },
+       {
+        "key": "D",
+        "text": "no nuclear testing"
+       },
+       {
+        "key": "E",
+        "text": "fishing rights protected"
+       }
+      ]
+     }
+    ],
+    "transcript": "INTERVIEWER: We're pleased to welcome Dr Martin Merrywhether of the Antarctic Centre in Christchurch, New Zealand who has come along to talk to us today about the role of the Centre and the Antarctic Treaty.\nINTERVIEWER: Now my first question is about the choice of location for the centre. Why Christchurch? Was it because of the climate?\nDOCTOR: Well actually New Zealand is the second closest country to Antarctica and Christchurch is often used on Antarctic expeditions. [Q21]\nINTERVIEWER: Right, so it's because of where we are ... coupled with our historical role. So tell us – what is the main purpose of the centre?\nDOCTOR: Well ... we have two complementary roles. One is as a scientific base for expeditions and research and the other is as an information centre.\nINTERVIEWER: Tell us something about the role as a scientific base.\nDOCTOR: We're able to provide information about what scientists should take with them to the South Pole – for example, the centre contains a clothing warehouse where expeditions are supplied with suitable clothing for the extreme conditions. [Q22]\nINTERVIEWER: I suppose you need a bit more than your normal winter coat!\nDOCTOR: Yes, exactly and then there's also the specialist library and mapping services.\nINTERVIEWER: Right. And which countries are actually located at the centre?\nDOCTOR: Well ... the centre houses research programmes for New Zealand, for The United States as well as for Italy ... there's even a US post office at the American airforce base here.\nINTERVIEWER: Really? And what does the visitor's centre offer?\nDOCTOR: Well, since very few people will ever experience the Antarctic first hand, the visitors' centre aims to recreate the atmosphere of Antarctica. [Q23] There's a mock camp site where you can see inside an Antarctic tent and imagine yourself sleeping there. And the centre also acts as a showcase for the unique international co-operation which exists in Antarctica today.\nINTERVIEWER: What is it actually like at the South Pole? I know you've been there on a number of occasions.\nDOCTOR: Yes, I have and each time I'm struck by the awesome beauty of the place. [Q24] It's magnificent but you can really only visit it in the summer months.\nINTERVIEWER: October to March.\nDOCTOR: Yes, because it's completely dark for four months of the year *(pause)* ... and in addition it has to be the coldest place on earth.\nINTERVIEWER: Colder than the North Pole? Why's that?\nDOCTOR: Well, unlike the North Pole, which is actually a frozen sea, Antarctica is a land mass shaped like a dome, with the result that the winds blow down the slopes at speeds of up to 150 km an hour and that's what makes it so cold. [Q25] And one other interesting thing is that Antarctica is the driest continent on earth, surprisingly, and so you have to drink large amounts of water when you're there.\nINTERVIEWER: How old is Antarctica?\nDOCTOR: We're pretty sure it was part of a larger land mass but it broke away from the rest of the continent 170 million years ago.\nINTERVIEWER: How can you be certain of this?\nDOCTOR: ... because fossils and rocks have been discovered in Antarctica which are the same as those found in places such as Africa and Australia. [Q26]\nINTERVIEWER: Amazing ... To think that it was once attached to Africa ...\nINTERVIEWER: Now let's just have a look at the Antarctic Treaty. How far back does the idea of an international treaty go?\nDOCTOR: Well, as far back as the 19th century, when eleven nations organised an international event.\nINTERVIEWER: When was that exactly?\nDOCTOR: In 1870. And it was called the Polar Research Meeting. And then, not long after that, they organised something called the First International Polar Year.\nINTERVIEWER: And that took place when exactly?\nDOCTOR: Over two years from 1882 to 1883. [Q27] But it wasn't until the 1950s that the idea of an international treaty was proposed. And in 1959 the Treaty was actually signed. [Q28]\nINTERVIEWER: What do you see as the main achievements of the treaty?\nDOCTOR: Well, firstly it means that the continent is reserved for peaceful use. [Q29] [Q30]\nINTERVIEWER: That's Article 1, isn't it?\nDOCTOR: Yes ...\nINTERVIEWER: That's important since the territory belongs to everyone.\nDOCTOR: Yes but not as important as Article 5, which prohibits any nuclear explosions or waste disposal. [Q29] [Q30]\nINTERVIEWER: Which is marvellous. Well, I'm afraid we're going to have to stop there because I'm afraid we've run out of time. Thanks for coming along today and telling us all about the centre and its work."
+   },
+   {
+    "part": 4,
+    "range": [
+     31,
+     40
+    ],
+    "pages": [
+     42,
+     43
+    ],
+    "groups": [
+     {
+      "id": "L4-1",
+      "type": "choice",
+      "range": [
+       31,
+       35
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B** or **C**."
+      ],
+      "title": "Left and Right Handedness in Sport",
+      "questions": [
+       {
+        "n": 31,
+        "text": "Anita first felt the Matthews article was of value when she realised",
+        "options": [
+         {
+          "key": "A",
+          "text": "how it would help her difficulties with left-handedness."
+         },
+         {
+          "key": "B",
+          "text": "the relevance of connections he made with music."
+         },
+         {
+          "key": "C",
+          "text": "the impressive size of his research project."
+         }
+        ]
+       },
+       {
+        "n": 32,
+        "text": "Anita feels that the findings on handedness will be of value in",
+        "options": [
+         {
+          "key": "A",
+          "text": "helping sportspeople identify their weaknesses."
+         },
+         {
+          "key": "B",
+          "text": "aiding sportspeople as they plan tactics for each game."
+         },
+         {
+          "key": "C",
+          "text": "developing suitable training programmes for sportspeople."
+         }
+        ]
+       },
+       {
+        "n": 33,
+        "text": "Anita feels that most sports coaches",
+        "options": [
+         {
+          "key": "A",
+          "text": "know nothing about the influence of handedness."
+         },
+         {
+          "key": "B",
+          "text": "focus on the wrong aspects of performance."
+         },
+         {
+          "key": "C",
+          "text": "underestimate what science has to offer sport."
+         }
+        ]
+       },
+       {
+        "n": 34,
+        "text": "A German study showed there was greater 'mixed handedness' in musicians who",
+        "options": [
+         {
+          "key": "A",
+          "text": "started playing instruments in early youth."
+         },
+         {
+          "key": "B",
+          "text": "play a string instrument such as the violin."
+         },
+         {
+          "key": "C",
+          "text": "practise a great deal on their instrument."
+         }
+        ]
+       },
+       {
+        "n": 35,
+        "text": "Studies on ape behaviour show that",
+        "options": [
+         {
+          "key": "A",
+          "text": "apes which always use the same hand to get food are most successful."
+         },
+         {
+          "key": "B",
+          "text": "apes have the same proportion of left- and right-handers as humans."
+         },
+         {
+          "key": "C",
+          "text": "more apes are left-handed than right-handed."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L4-2",
+      "type": "completion",
+      "range": [
+       36,
+       40
+      ],
+      "instructions": [
+       "Complete the table below.",
+       "Write **ONE WORD AND/OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "table",
+        "header": 1,
+        "rows": [
+         [
+          "Sport",
+          "Best laterality",
+          "Comments"
+         ],
+         [
+          "**Hockey**",
+          "mixed laterality",
+          "• hockey stick has to be used in {{36}}\n• mixed-handed players found to be much more {{37}} than others"
+         ],
+         [
+          "**Tennis**",
+          "single laterality",
+          "• gives a larger relevant field of {{38}}\n• cross-lateral players make {{39}} too late"
+         ],
+         [
+          "**Gymnastics**",
+          "cross laterality",
+          "• gymnasts' {{40}} is important for performances"
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    "transcript": "My topic is handedness – whether in different sports it is better to be left- or right-sided or whether a more balanced approach is more successful. I'm left-handed myself and I actually didn't see any relevance to my own life when I happened to start reading an article by a sports psychologist called Peter Matthews. He spent the first part of the article talking about handedness in music instead of sport, which I have to say almost put me off from reading further. But what I soon became struck by was the sheer volume of both observation and investigation he had done in many different sports and I felt persuaded that what he had to say would be of real interest. [Q31] I think Matthews' findings will be beneficial, not so much in helping sportspeople to work on their weaker side, but more that they can help them identify the most suitable strategies to use in a given game. [Q32] Although most trainers know how important handedness is, at present they are rather reluctant to make use of the insights scientists like Matthews can give, [Q33] which I think is rather short-sighted because focusing on individual flexibility is only part of the story.\nAnyway, back to the article.\nMatthews found a German study which looked at what he called 'mixed-handedness', that is, the capacity to use both left and right hands equally. It looked at mixed-handedness in 40 musicians on a variety of instruments. Researchers examined a number of variables, e.g. type of instrument played, regularity of practice undertaken and length of time playing instrument ... and found the following: keyboard players had high levels of mixed-handedness, whereas string players like cellists and violinists strongly favoured one hand. Also those who started younger were more mixed-handed. [Q34]\nMatthews also reports studies of handedness in apes. Apes get a large proportion of their food by 'fishing' ants from ant hills. The studies show that apes, like humans, show handedness – though for them right- and left-handedness is about equal, whereas about 85% of humans are right-handed. Studies showed that apes consistently using the same hand fished out 30% more ants than those varying between the two. [Q35]\nMatthews started researching several different sports and found different types of handedness in each. By the way, he uses 'handedness' to refer to the dominant side for feet and eyes as well as hands. Anyway, his team measured the hand, feet and eyes of 2,611 players and found that there were really three main types of laterality: mixed – you work equally well on both sides – both hand and eye; single – you tend to favour one side but both hand and eye favour the same side; and cross-laterality – a player's hands and eyes favour only one side but they are opposite sides. Let's start with hockey. Matthews found that it was best to be mixed-handed – this is because a hockey stick must be deployed in two directions [Q36] – it would be a drawback to have hand or eye favouring one side. An interesting finding is that mixed-handed hockey players were significantly more confident than their single-handed counterparts. [Q37] Things are slightly different in racket sports like tennis. Here the important thing is to have the dominant hand and eye on the one side. This means that there is a bigger area of vision on the side where most of the action occurs. [Q38] If a player is cross lateral the racket is invisible from the dominant eye for much of the swing. It means that they can only make corrections much later [Q39] ... and often the damage has been done by then.\nAnd moving to a rather different type of sport which involves large but precise movements – gymnastics. It's been found that cross hand-eye favouring is best. The predominant reason for this is because it aids balance [Q40] – which is of course absolutely central to performance in this sport."
+   }
+  ],
+  "answers": {
+   "1": {
+    "a": [
+     "27 Bank Road"
+    ]
+   },
+   "2": {
+    "a": [
+     "dentist",
+     "a dentist"
+    ],
+    "k": "(a) dentist"
+   },
+   "3": {
+    "a": [
+     "Sable"
+    ]
+   },
+   "4": {
+    "a": [
+     "Northern Star"
+    ]
+   },
+   "5": {
+    "a": [
+     "stolen"
+    ]
+   },
+   "6": {
+    "a": [
+     "Paynter"
+    ]
+   },
+   "7": {
+    "a": [
+     "brother-in-law"
+    ]
+   },
+   "8": {
+    "a": [
+     "travel to work",
+     "travel work",
+     "travelling to work",
+     "travelling work",
+     "traveling to work",
+     "traveling work",
+     "to work",
+     "work"
+    ],
+    "k": "(travel(ling/ing)) (to) work"
+   },
+   "9": {
+    "a": [
+     "Red Flag"
+    ]
+   },
+   "10": {
+    "a": [
+     "450"
+    ]
+   },
+   "11": {
+    "a": [
+     "City Bridge"
+    ]
+   },
+   "12": {
+    "a": [
+     "Newtown"
+    ]
+   },
+   "13": {
+    "a": [
+     "6.30"
+    ]
+   },
+   "14": {
+    "a": [
+     "formal garden",
+     "garden"
+    ],
+    "k": "(formal) garden"
+   },
+   "15": {
+    "a": [
+     "Tower Restaurant",
+     "Restaurant"
+    ],
+    "k": "(Tower) Restaurant"
+   },
+   "16": {
+    "a": [
+     "view",
+     "views"
+    ],
+    "k": "view(s)"
+   },
+   "17": {
+    "a": [
+     "history"
+    ]
+   },
+   "18": {
+    "a": [
+     "7 screen",
+     "7-screen",
+     "seven screen",
+     "seven-screen"
+    ],
+    "k": "7 screen"
+   },
+   "19": {
+    "a": [
+     "every 20 minutes"
+    ]
+   },
+   "20": {
+    "a": [
+     "Central Station",
+     "from Central Station",
+     "the Central Station",
+     "from the Central Station"
+    ],
+    "k": "(from/the) Central Station"
+   },
+   "21": {
+    "a": [
+     "B"
+    ]
+   },
+   "22": {
+    "a": [
+     "A"
+    ]
+   },
+   "23": {
+    "a": [
+     "C"
+    ]
+   },
+   "24": {
+    "a": [
+     "B"
+    ]
+   },
+   "25": {
+    "a": [
+     "A"
+    ]
+   },
+   "26": {
+    "a": [
+     "B"
+    ]
+   },
+   "27": {
+    "a": [
+     "1882 to 1883",
+     "1882-1883",
+     "1882 1883",
+     "1882 to 83",
+     "1882-83",
+     "1882 83"
+    ],
+    "k": "1882 (to/-) (18)83"
+   },
+   "28": {
+    "a": [
+     "signed"
+    ]
+   },
+   "29": {
+    "a": [
+     "A"
+    ]
+   },
+   "30": {
+    "a": [
+     "D"
+    ]
+   },
+   "31": {
+    "a": [
+     "C"
+    ]
+   },
+   "32": {
+    "a": [
+     "B"
+    ]
+   },
+   "33": {
+    "a": [
+     "C"
+    ]
+   },
+   "34": {
+    "a": [
+     "A"
+    ]
+   },
+   "35": {
+    "a": [
+     "A"
+    ]
+   },
+   "36": {
+    "a": [
+     "2 directions",
+     "two directions"
+    ],
+    "k": "2 directions"
+   },
+   "37": {
+    "a": [
+     "confident"
+    ]
+   },
+   "38": {
+    "a": [
+     "vision"
+    ]
+   },
+   "39": {
+    "a": [
+     "corrections"
+    ]
+   },
+   "40": {
+    "a": [
+     "balance"
+    ]
+   }
+  }
+ },
+ "reading": {
+  "passages": [
+   {
+    "passage": 1,
+    "range": [
+     1,
+     13
+    ],
+    "pages": [
+     44,
+     45,
+     46,
+     47
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 1–13**, which are based on Reading Passage 1 below.",
+    "title": "Why pagodas don't fall down",
+    "subtitle": null,
+    "paragraphs": [
+     {
+      "text": "In a land swept by typhoons and shaken by earthquakes, how have Japan's tallest and seemingly flimsiest old buildings – 500 or so wooden pagodas – remained standing for centuries? Records show that only two have collapsed during the past 1400 years. Those that have disappeared were destroyed by fire as a result of lightning or civil war. The disastrous Hanshin earthquake in 1995 killed 6,400 people, toppled elevated highways, flattened office blocks and devastated the port area of Kobe. Yet it left the magnificent five-storey pagoda at the Toji temple in nearby Kyoto unscathed, though it levelled a number of buildings in the neighbourhood."
+     },
+     {
+      "text": "Japanese scholars have been mystified for ages about why these tall, slender buildings are so stable. It was only thirty years ago that the building industry felt confident enough to erect office blocks of steel and reinforced concrete that had more than a dozen floors. With its special shock absorbers to dampen the effect of sudden sideways movements from an earthquake, the thirty-six-storey Kasumigaseki building in central Tokyo – Japan's first skyscraper – was considered a masterpiece of modern engineering when it was built in 1968."
+     },
+     {
+      "text": "Yet in 826, with only pegs and wedges to keep his wooden structure upright, the master builder Kobodaishi had no hesitation in sending his majestic Toji pagoda soaring fifty-five metres into the sky – nearly half as high as the Kasumigaseki skyscraper built some eleven centuries later. Clearly, Japanese carpenters of the day knew a few tricks about allowing a building to sway and settle itself rather than fight nature's forces. But what sort of tricks?"
+     },
+     {
+      "text": "The multi-storey pagoda came to Japan from China in the sixth century. As in China, they were first introduced with Buddhism and were attached to important temples. The Chinese built their pagodas in brick or stone, with inner staircases, and used them in later centuries mainly as watchtowers. When the pagoda reached Japan, however, its architecture was freely adapted to local conditions – they were built less high, typically five rather than nine storeys, made mainly of wood and the staircase was dispensed with because the Japanese pagoda did not have any practical use but became more of an art object. Because of the typhoons that batter Japan in the summer, Japanese builders learned to extend the eaves of buildings further beyond the walls. This prevents rainwater gushing down the walls. Pagodas in China and Korea have nothing like the overhang that is found on pagodas in Japan."
+     },
+     {
+      "text": "The roof of a Japanese temple building can be made to overhang the sides of the structure by fifty per cent or more of the building's overall width. For the same reason, the builders of Japanese pagodas seem to have further increased their weight by choosing to cover these extended eaves not with the porcelain tiles of many Chinese pagodas but with much heavier earthenware tiles."
+     },
+     {
+      "text": "But this does not totally explain the great resilience of Japanese pagodas. Is the answer that, like a tall pine tree, the Japanese pagoda – with its massive trunk-like central pillar known as *shinbashira* – simply flexes and sways during a typhoon or earthquake? For centuries, many thought so. But the answer is not so simple because the startling thing is that the *shinbashira* actually carries no load at all. In fact, in some pagoda designs, it does not even rest on the ground, but is suspended from the top of the pagoda – hanging loosely down through the middle of the building. The weight of the building is supported entirely by twelve outer and four inner columns."
+     },
+     {
+      "text": "And what is the role of the *shinbashira*, the central pillar? The best way to understand the *shinbashira's* role is to watch a video made by Shuzo Ishida, a structural engineer at Kyoto Institute of Technology. Mr Ishida, known to his students as 'Professor Pagoda' because of his passion to understand the pagoda, has built a series of models and tested them on a 'shake-table' in his laboratory. In short, the *shinbashira* was acting like an enormous stationary pendulum. The ancient craftsmen, apparently without the assistance of very advanced mathematics, seemed to grasp the principles that were, more than a thousand years later, applied in the construction of Japan's first skyscraper. What those early craftsmen had found by trial and error was that under pressure a pagoda's loose stack of floors could be made to slither to and fro independent of one another. Viewed from the side, the pagoda seemed to be doing a snake dance – with each consecutive floor moving in the opposite direction to its neighbours above and below. The *shinbashira*, running up through a hole in the centre of the building, constrained individual storeys from moving too far because, after moving a certain distance, they banged into it, transmitting energy away along the column."
+     },
+     {
+      "text": "Another strange feature of the Japanese pagoda is that, because the building tapers, with each successive floor plan being smaller than the one below, none of the vertical pillars that carry the weight of the building is connected to its corresponding pillar above. In other words, a five-storey pagoda contains not even one pillar that travels right up through the building to carry the structural loads from the top to the bottom. More surprising is the fact that the individual storeys of a Japanese pagoda, unlike their counterparts elsewhere, are not actually connected to each other. They are simply stacked one on top of another like a pile of hats. Interestingly, such a design would not be permitted under current Japanese building regulations."
+     },
+     {
+      "text": "And the extra-wide eaves? Think of them as a tightrope walker's balancing pole. The bigger the mass at each end of the pole, the easier it is for the tightrope walker to maintain his or her balance. The same holds true for a pagoda. 'With the eaves extending out on all sides like balancing poles,' says Mr Ishida, 'the building responds to even the most powerful jolt of an earthquake with a graceful swaying, never an abrupt shaking.' Here again, Japanese master builders of a thousand years ago anticipated concepts of modern structural engineering."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R1-1",
+      "type": "ynng",
+      "range": [
+       1,
+       4
+      ],
+      "instructions": [
+       "Do the following statements agree with the claims of the writer in Reading Passage 1?",
+       "In boxes 1–4 on your answer sheet, write",
+       "**YES** if the statement agrees with the claims of the writer",
+       "**NO** if the statement contradicts the claims of the writer",
+       "**NOT GIVEN** if it is impossible to say what the writer thinks about this"
+      ],
+      "questions": [
+       {
+        "n": 1,
+        "text": "Only two Japanese pagodas have collapsed in 1400 years."
+       },
+       {
+        "n": 2,
+        "text": "The Hanshin earthquake of 1995 destroyed the pagoda at the Toji temple."
+       },
+       {
+        "n": 3,
+        "text": "The other buildings near the Toji pagoda had been built in the last 30 years."
+       },
+       {
+        "n": 4,
+        "text": "The builders of pagodas knew how to absorb some of the power produced by severe weather conditions."
+       }
+      ]
+     },
+     {
+      "id": "R1-2",
+      "type": "matching",
+      "range": [
+       5,
+       10
+      ],
+      "instructions": [
+       "Classify the following as typical of",
+       "Write the correct letter, **A**, **B** or **C**, in boxes 5–10 on your answer sheet."
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": "both Chinese and Japanese pagodas"
+       },
+       {
+        "key": "B",
+        "text": "only Chinese pagodas"
+       },
+       {
+        "key": "C",
+        "text": "only Japanese pagodas"
+       }
+      ],
+      "reuse": true,
+      "questions": [
+       {
+        "n": 5,
+        "text": "easy interior access to top"
+       },
+       {
+        "n": 6,
+        "text": "tiles on eaves"
+       },
+       {
+        "n": 7,
+        "text": "use as observation post"
+       },
+       {
+        "n": 8,
+        "text": "size of eaves up to half the width of the building"
+       },
+       {
+        "n": 9,
+        "text": "original religious purpose"
+       },
+       {
+        "n": 10,
+        "text": "floors fitting loosely over each other"
+       }
+      ]
+     },
+     {
+      "id": "R1-3",
+      "type": "choice",
+      "range": [
+       11,
+       13
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B**, **C** or **D**.",
+       "Write the correct letter in boxes 11–13 on your answer sheet."
+      ],
+      "questions": [
+       {
+        "n": 11,
+        "text": "In a Japanese pagoda, the *shinbashira*",
+        "options": [
+         {
+          "key": "A",
+          "text": "bears the full weight of the building."
+         },
+         {
+          "key": "B",
+          "text": "bends under pressure like a tree."
+         },
+         {
+          "key": "C",
+          "text": "connects the floors with the foundations."
+         },
+         {
+          "key": "D",
+          "text": "stops the floors moving too far."
+         }
+        ]
+       },
+       {
+        "n": 12,
+        "text": "Shuzo Ishida performs experiments in order to",
+        "options": [
+         {
+          "key": "A",
+          "text": "improve skyscraper design."
+         },
+         {
+          "key": "B",
+          "text": "be able to build new pagodas."
+         },
+         {
+          "key": "C",
+          "text": "learn about the dynamics of pagodas."
+         },
+         {
+          "key": "D",
+          "text": "understand ancient mathematics."
+         }
+        ]
+       },
+       {
+        "n": 13,
+        "text": "The storeys of a Japanese pagoda are",
+        "options": [
+         {
+          "key": "A",
+          "text": "linked only by wood."
+         },
+         {
+          "key": "B",
+          "text": "fastened only to the central pillar."
+         },
+         {
+          "key": "C",
+          "text": "fitted loosely on top of each other."
+         },
+         {
+          "key": "D",
+          "text": "joined by special weights."
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "passage": 2,
+    "range": [
+     14,
+     26
+    ],
+    "pages": [
+     48,
+     49,
+     50,
+     51
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 14–26**, which are based on Reading Passage 2 below.",
+    "title": "The True Cost of Food",
+    "subtitle": null,
+    "paragraphs": [
+     {
+      "label": "A",
+      "text": "For more than forty years the cost of food has been rising. It has now reached a point where a growing number of people believe that it is far too high, and that bringing it down will be one of the great challenges of the twenty first century. That cost, however, is not in immediate cash. In the West at least, most food is now far cheaper to buy in relative terms than it was in 1960. The cost is in the collateral damage of the very methods of food production that have made the food cheaper: in the pollution of water, the enervation of soil, the destruction of wildlife, the harm to animal welfare and the threat to human health caused by modern industrial agriculture."
+     },
+     {
+      "label": "B",
+      "text": "First mechanisation, then mass use of chemical fertilisers and pesticides, then monocultures, then battery rearing of livestock, and now genetic engineering – the onward march of intensive farming has seemed unstoppable in the last half-century, as the yields of produce have soared. But the damage it has caused has been colossal. In Britain, for example, many of our best-loved farmland birds, such as the skylark, the grey partridge, the lapwing and the corn bunting, have vanished from huge stretches of countryside, as have even more wild flowers and insects. This is a direct result of the way we have produced our food in the last four decades. Thousands of miles of hedgerows, thousands of ponds, have disappeared from the landscape. The faecal filth of salmon farming has driven wild salmon from many of the sea lochs and rivers of Scotland. Natural soil fertility is dropping in many areas because of continuous industrial fertiliser and pesticide use, while the growth of algae is increasing in lakes because of the fertiliser run-off."
+     },
+     {
+      "label": "C",
+      "text": "Put it all together and it looks like a battlefield, but consumers rarely make the connection at the dinner table. That is mainly because the costs of all this damage are what economists refer to as externalities: they are outside the main transaction, which is for example producing and selling a field of wheat, and are borne directly by neither producers nor consumers. To many, the costs may not even appear to be financial at all, but merely aesthetic – a terrible shame, but nothing to do with money. And anyway they, as consumers of food, certainly aren't paying for it, are they?"
+     },
+     {
+      "label": "D",
+      "text": "But the costs to society can actually be quantified and, when added up, can amount to staggering sums. A remarkable exercise in doing this has been carried out by one of the world's leading thinkers on the future of agriculture, Professor Jules Pretty, Director of the Centre for Environment and Society at the University of Essex. Professor Pretty and his colleagues calculated the externalities of British agriculture for one particular year. They added up the costs of repairing the damage it caused, and came up with a total figure of £2,343m. This is equivalent to £208 for every hectare of arable land and permanent pasture, almost as much again as the total government and EU spend on British farming in that year. And according to Professor Pretty, it was a conservative estimate."
+     },
+     {
+      "label": "E",
+      "text": "The costs included: £120m for removal of pesticides; £16m for removal of nitrates; £55m for removal of phosphates and soil; £23m for the removal of the bug cryptosporidium from drinking water by water companies; £125m for damage to wildlife habitats, hedgerows and dry stone walls; £1,113m from emissions of gases likely to contribute to climate change; £106m from soil erosion and organic carbon losses; £169m from food poisoning; and £607m from cattle disease. Professor Pretty draws a simple but memorable conclusion from all this: our food bills are actually threefold. We are paying for our supposedly cheaper food in three separate ways: once over the counter, secondly through our taxes, which provide the enormous subsidies propping up modern intensive farming, and thirdly to clean up the mess that modern farming leaves behind."
+     },
+     {
+      "label": "F",
+      "text": "So can the true cost of food be brought down? Breaking away from industrial agriculture as the solution to hunger may be very hard for some countries, but in Britain, where the immediate need to supply food is less urgent, and the costs and the damage of intensive farming have been clearly seen, it may be more feasible. The government needs to create sustainable, competitive and diverse farming and food sectors, which will contribute to a thriving and sustainable rural economy, and advance environmental, economic, health, and animal welfare goals."
+     },
+     {
+      "label": "G",
+      "text": "But if industrial agriculture is to be replaced, what is a viable alternative? Professor Pretty feels that organic farming would be too big a jump in thinking and in practices for many farmers. Furthermore, the price premium would put the produce out of reach of many poorer consumers. He is recommending the immediate introduction of a 'Greener Food Standard', which would push the market towards more sustainable environmental practices than the current norm, while not requiring the full commitment to organic production. Such a standard would comprise agreed practices for different kinds of farming, covering agrochemical use, soil health, land management, water and energy use, food safety and animal health. It could go a long way, he says, to shifting consumers as well as farmers towards a more sustainable system of agriculture."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R2-1",
+      "type": "matching",
+      "range": [
+       14,
+       17
+      ],
+      "instructions": [
+       "Reading Passage 2 has seven paragraphs, **A–G**.",
+       "Which paragraph contains the following information?",
+       "Write the correct letter, **A–G**, in boxes 14–17 on your answer sheet.",
+       "**NB** You may use any letter more than once."
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": ""
+       },
+       {
+        "key": "B",
+        "text": ""
+       },
+       {
+        "key": "C",
+        "text": ""
+       },
+       {
+        "key": "D",
+        "text": ""
+       },
+       {
+        "key": "E",
+        "text": ""
+       },
+       {
+        "key": "F",
+        "text": ""
+       },
+       {
+        "key": "G",
+        "text": ""
+       }
+      ],
+      "reuse": true,
+      "questions": [
+       {
+        "n": 14,
+        "text": "a cost involved in purifying domestic water"
+       },
+       {
+        "n": 15,
+        "text": "the stages in the development of the farming industry"
+       },
+       {
+        "n": 16,
+        "text": "the term used to describe hidden costs"
+       },
+       {
+        "n": 17,
+        "text": "one effect of chemicals on water sources"
+       }
+      ]
+     },
+     {
+      "id": "R2-2",
+      "type": "ynng",
+      "range": [
+       18,
+       21
+      ],
+      "instructions": [
+       "Do the following statements agree with the claims of the writer in Reading Passage 2?",
+       "In boxes 18–21 on your answer sheet, write",
+       "**YES** if the statement agrees with the claims of the writer",
+       "**NO** if the statement contradicts the claims of the writer",
+       "**NOT GIVEN** if it is impossible to say what the writer thinks about this"
+      ],
+      "questions": [
+       {
+        "n": 18,
+        "text": "Several species of wildlife in the British countryside are declining."
+       },
+       {
+        "n": 19,
+        "text": "The taste of food has deteriorated in recent years."
+       },
+       {
+        "n": 20,
+        "text": "The financial costs of environmental damage are widely recognised."
+       },
+       {
+        "n": 21,
+        "text": "One of the costs calculated by Professor Pretty was illness caused by food."
+       }
+      ]
+     },
+     {
+      "id": "R2-3",
+      "type": "completion",
+      "range": [
+       22,
+       26
+      ],
+      "instructions": [
+       "Complete the summary below.",
+       "Choose **NO MORE THAN THREE WORDS** from the passage for each answer.",
+       "Write your answers in boxes 22–26 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "p",
+        "text": "Professor Pretty concludes that our {{22}} are higher than most people realise, because we make three different types of payment. He feels it is realistic to suggest that Britain should reduce its reliance on {{23}} . Although most farmers would be unable to adapt to {{24}}, Professor Pretty wants the government to initiate change by establishing what he refers to as a {{25}} . He feels this would help to change the attitudes of both {{26}} ."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "passage": 3,
+    "range": [
+     27,
+     40
+    ],
+    "pages": [
+     52,
+     53,
+     54,
+     55,
+     56
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 27–40**, which are based on Reading Passage 3 on the following pages.",
+    "title": "Makete Integrated Rural Transport Project",
+    "subtitle": null,
+    "paragraphs": [
+     {
+      "kind": "heading",
+      "text": "Section A"
+     },
+     {
+      "text": "The disappointing results of many conventional road transport projects in Africa led some experts to rethink the strategy by which rural transport problems were to be tackled at the beginning of the 1980s. A request for help in improving the availability of transport within the remote Makete District of south-western Tanzania presented the opportunity to try a new approach."
+     },
+     {
+      "text": "The concept of 'integrated rural transport' was adopted in the task of examining the transport needs of the rural households in the district. The objective was to reduce the time and effort needed to obtain access to essential goods and services through an improved rural transport system. The underlying assumption was that the time saved would be used instead for activities that would improve the social and economic development of the communities. The Makete Integrated Rural Transport Project (MIRTP) started in 1985 with financial support from the Swiss Development Corporation and was co-ordinated with the help of the Tanzanian government."
+     },
+     {
+      "kind": "heading",
+      "text": "Section B"
+     },
+     {
+      "text": "When the project began, Makete District was virtually totally isolated during the rainy season. The regional road was in such bad shape that access to the main towns was impossible for about three months of the year. Road traffic was extremely rare within the district, and alternative means of transport were restricted to donkeys in the north of the district. People relied primarily on the paths, which were slippery and dangerous during the rains."
+     },
+     {
+      "text": "Before solutions could be proposed, the problems had to be understood. Little was known about the transport demands of the rural households, so Phase I, between December 1985 and December 1987, focused on research. The socio-economic survey of more than 400 households in the district indicated that a household in Makete spent, on average, seven hours a day on transporting themselves and their goods, a figure which seemed extreme but which has also been obtained in surveys in other rural areas in Africa. Interesting facts regarding transport were found: 95% was on foot; 80% was within the locality; and 70% was related to the collection of water and firewood and travelling to grinding mills."
+     },
+     {
+      "kind": "heading",
+      "text": "Section C"
+     },
+     {
+      "text": "Having determined the main transport needs, possible solutions were identified which might reduce the time and burden. During Phase II, from January to February 1991, a number of approaches were implemented in an effort to improve mobility and access to transport."
+     },
+     {
+      "text": "An improvement of the road network was considered necessary to ensure the import and export of goods to the district. These improvements were carried out using methods that were heavily dependent on labour. In addition to the improvement of roads, these methods provided training in the operation of a mechanical workshop and bus and truck services. However, the difference from the conventional approach was that this time consideration was given to local transport needs outside the road network."
+     },
+     {
+      "text": "Most goods were transported along the paths that provide short-cuts up and down the hillsides, but the paths were a real safety risk and made the journey on foot even more arduous. It made sense to improve the paths by building steps, handrails and footbridges."
+     },
+     {
+      "text": "It was uncommon to find means of transport that were more efficient than walking but less technologically advanced than motor vehicles. The use of bicycles was constrained by their high cost and the lack of available spare parts. Oxen were not used at all but donkeys were used by a few households in the northern part of the district. MIRTP focused on what would be most appropriate for the inhabitants of Makete in terms of what was available, how much they could afford and what they were willing to accept."
+     },
+     {
+      "text": "After careful consideration, the project chose the promotion of donkeys – a donkey costs less than a bicycle – and the introduction of a locally manufacturable wheelbarrow."
+     },
+     {
+      "kind": "heading",
+      "text": "Section D"
+     },
+     {
+      "text": "At the end of Phase II, it was clear that the selected approaches to Makete's transport problems had had different degrees of success. Phase III, from March 1991 to March 1993, focused on the refinement and institutionalisation of these activities."
+     },
+     {
+      "text": "The road improvements and accompanying maintenance system had helped make the district centre accessible throughout the year. Essential goods from outside the district had become more readily available at the market, and prices did not fluctuate as much as they had done before."
+     },
+     {
+      "text": "Paths and secondary roads were improved only at the request of communities who were willing to participate in construction and maintenance. However, the improved paths impressed the inhabitants, and requests for assistance greatly increased soon after only a few improvements had been completed."
+     },
+     {
+      "text": "The efforts to improve the efficiency of the existing transport services were not very successful because most of the motorised vehicles in the district broke down and there were no resources to repair them. Even the introduction of low-cost means of transport was difficult because of the general poverty of the district. The locally manufactured wheelbarrows were still too expensive for all but a few of the households. Modifications to the original design by local carpenters cut production time and costs. Other local carpenters have been trained in the new design so that they can respond to requests. Nevertheless, a locally produced wooden wheelbarrow which costs around 5000 Tanzanian shillings (less than US$20) in Makete, and is about one quarter the cost of a metal wheelbarrow, is still too expensive for most people."
+     },
+     {
+      "text": "Donkeys, which were imported to the district, have become more common and contribute, in particular, to the transportation of crops and goods to market. Those who have bought donkeys are mainly from richer households but, with an increased supply through local breeding, donkeys should become more affordable. Meanwhile, local initiatives are promoting the renting out of the existing donkeys."
+     },
+     {
+      "text": "It should be noted, however, that a donkey, which at 20,000 Tanzanian shillings costs less than a bicycle, is still an investment equal to an average household's income over half a year. This clearly illustrates the need for supplementary measures if one wants to assist the rural poor."
+     },
+     {
+      "kind": "heading",
+      "text": "Section E"
+     },
+     {
+      "text": "It would have been easy to criticise the MIRTP for using in the early phases a 'top-down' approach, in which decisions were made by experts and officials before being handed down to communities, but it was necessary to start the process from the level of the governmental authorities of the district. It would have been difficult to respond to the requests of villagers and other rural inhabitants without the support and understanding of district authorities."
+     },
+     {
+      "kind": "heading",
+      "text": "Section F"
+     },
+     {
+      "text": "Today, nobody in the district argues about the importance of improved paths and inexpensive means of transport. But this is the result of dedicated work over a long period, particularly from the officers in charge of community development. They played an essential role in raising awareness and interest among the rural communities."
+     },
+     {
+      "text": "The concept of integrated rural transport is now well established in Tanzania, where a major program of rural transport is just about to start. The experiences from Makete will help in this initiative, and Makete District will act as a reference for future work."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R3-1",
+      "type": "matching",
+      "range": [
+       27,
+       30
+      ],
+      "instructions": [
+       "Reading Passage 3 has six sections, **A–F**.",
+       "Choose the correct heading for sections **B**, **C**, **E** and **F** from the list of headings below.",
+       "Write the correct number, ***i–xi***, in boxes 27–30 on your answer sheet.",
+       "Example: Section A – vi",
+       "Example: Section D – ix"
+      ],
+      "optionsTitle": "List of Headings",
+      "options": [
+       {
+        "key": "i",
+        "text": "MIRTP as a future model"
+       },
+       {
+        "key": "ii",
+        "text": "Identifying the main transport problems"
+       },
+       {
+        "key": "iii",
+        "text": "Preference for motorised vehicles"
+       },
+       {
+        "key": "iv",
+        "text": "Government authorities' instructions"
+       },
+       {
+        "key": "v",
+        "text": "Initial improvements in mobility and transport modes"
+       },
+       {
+        "key": "vi",
+        "text": "Request for improved transport in Makete"
+       },
+       {
+        "key": "vii",
+        "text": "Transport improvements in the northern part of the district"
+       },
+       {
+        "key": "viii",
+        "text": "Improvements in the rail network"
+       },
+       {
+        "key": "ix",
+        "text": "Effects of initial MIRTP measures"
+       },
+       {
+        "key": "x",
+        "text": "Co-operation of district officials"
+       },
+       {
+        "key": "xi",
+        "text": "Role of wheelbarrows and donkeys"
+       }
+      ],
+      "questions": [
+       {
+        "n": 27,
+        "text": "Section B"
+       },
+       {
+        "n": 28,
+        "text": "Section C"
+       },
+       {
+        "n": 29,
+        "text": "Section E"
+       },
+       {
+        "n": 30,
+        "text": "Section F"
+       }
+      ]
+     },
+     {
+      "id": "R3-2",
+      "type": "ynng",
+      "range": [
+       31,
+       35
+      ],
+      "instructions": [
+       "Do the following statements agree with the claims of the writer in Reading Passage 3?",
+       "In boxes 31–35 on your answer sheet, write",
+       "**YES** if the statement agrees with the claims of the writer",
+       "**NO** if the statement contradicts the claims of the writer",
+       "**NOT GIVEN** if it is impossible to say what the writer thinks about this"
+      ],
+      "questions": [
+       {
+        "n": 31,
+        "text": "MIRTP was divided into five phases."
+       },
+       {
+        "n": 32,
+        "text": "Prior to the start of MIRTP the Makete district was almost inaccessible during the rainy season."
+       },
+       {
+        "n": 33,
+        "text": "Phase I of MIRTP consisted of a survey of household expenditure on transport."
+       },
+       {
+        "n": 34,
+        "text": "The survey concluded that one-fifth or 20% of the household transport requirement as outside the local area."
+       },
+       {
+        "n": 35,
+        "text": "MIRTP hoped to improve the movement of goods from Makete district to the country's capital."
+       }
+      ]
+     },
+     {
+      "id": "R3-3",
+      "type": "matching",
+      "range": [
+       36,
+       39
+      ],
+      "instructions": [
+       "Complete each sentence with the correct ending, **A–J**, below.",
+       "Write the correct letter, **A–J**, in boxes 36–39 on your answer sheet."
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": "provided the people of Makete with experience in running bus and truck services."
+       },
+       {
+        "key": "B",
+        "text": "was especially successful in the northern part of the district."
+       },
+       {
+        "key": "C",
+        "text": "differed from earlier phases in that the community became less actively involved."
+       },
+       {
+        "key": "D",
+        "text": "improved paths used for transport up and down hillsides."
+       },
+       {
+        "key": "E",
+        "text": "was no longer a problem once the roads had been improved."
+       },
+       {
+        "key": "F",
+        "text": "cost less than locally made wheelbarrows."
+       },
+       {
+        "key": "G",
+        "text": "was done only at the request of local people who were willing to lend a hand."
+       },
+       {
+        "key": "H",
+        "text": "was at first considered by MIRTP to be affordable for the people of the district."
+       },
+       {
+        "key": "I",
+        "text": "hindered attempts to make the existing transport services more efficient."
+       },
+       {
+        "key": "J",
+        "text": "was thought to be the most important objective of Phase III."
+       }
+      ],
+      "questions": [
+       {
+        "n": 36,
+        "text": "Construction of footbridges, steps and handrails"
+       },
+       {
+        "n": 37,
+        "text": "Frequent breakdown of buses and trucks in Makete"
+       },
+       {
+        "n": 38,
+        "text": "The improvement of secondary roads and paths"
+       },
+       {
+        "n": 39,
+        "text": "The isolation of Makete for part of the year"
+       }
+      ]
+     },
+     {
+      "id": "R3-4",
+      "type": "choice",
+      "range": [
+       40,
+       40
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B**, **C** or **D**.",
+       "Write the correct letter in box 40 on your answer sheet."
+      ],
+      "questions": [
+       {
+        "n": 40,
+        "text": "Which of the following phrases best describes the main aim of Reading Passage 3?",
+        "options": [
+         {
+          "key": "A",
+          "text": "to suggest that projects such as MIRTP are needed in other countries"
+         },
+         {
+          "key": "B",
+          "text": "to describe how MIRTP was implemented and how successful it was"
+         },
+         {
+          "key": "C",
+          "text": "to examine how MIRTP promoted the use of donkeys"
+         },
+         {
+          "key": "D",
+          "text": "to warn that projects such as MIRTP are likely to have serious problems"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "answers": {
+   "1": {
+    "a": [
+     "YES"
+    ]
+   },
+   "2": {
+    "a": [
+     "NO"
+    ]
+   },
+   "3": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "4": {
+    "a": [
+     "YES"
+    ]
+   },
+   "5": {
+    "a": [
+     "B"
+    ]
+   },
+   "6": {
+    "a": [
+     "A"
+    ]
+   },
+   "7": {
+    "a": [
+     "B"
+    ]
+   },
+   "8": {
+    "a": [
+     "C"
+    ]
+   },
+   "9": {
+    "a": [
+     "A"
+    ]
+   },
+   "10": {
+    "a": [
+     "C"
+    ]
+   },
+   "11": {
+    "a": [
+     "D"
+    ]
+   },
+   "12": {
+    "a": [
+     "C"
+    ]
+   },
+   "13": {
+    "a": [
+     "C"
+    ]
+   },
+   "14": {
+    "a": [
+     "E"
+    ]
+   },
+   "15": {
+    "a": [
+     "B"
+    ]
+   },
+   "16": {
+    "a": [
+     "C"
+    ]
+   },
+   "17": {
+    "a": [
+     "B"
+    ]
+   },
+   "18": {
+    "a": [
+     "YES"
+    ]
+   },
+   "19": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "20": {
+    "a": [
+     "NO"
+    ]
+   },
+   "21": {
+    "a": [
+     "YES"
+    ]
+   },
+   "22": {
+    "a": [
+     "food bills",
+     "food costs"
+    ],
+    "k": "food bills/costs"
+   },
+   "23": {
+    "a": [
+     "modern intensive farming",
+     "intensive farming"
+    ],
+    "k": "(modern) intensive farming"
+   },
+   "24": {
+    "a": [
+     "organic farming"
+    ]
+   },
+   "25": {
+    "a": [
+     "Greener Food Standard"
+    ]
+   },
+   "26": {
+    "a": [
+     "farmers and consumers",
+     "consumers and farmers",
+     "farmers consumers",
+     "consumers farmers"
+    ],
+    "k": "IN EITHER ORDER farmers (and) consumers"
+   },
+   "27": {
+    "a": [
+     "ii"
+    ]
+   },
+   "28": {
+    "a": [
+     "v"
+    ]
+   },
+   "29": {
+    "a": [
+     "x"
+    ]
+   },
+   "30": {
+    "a": [
+     "i"
+    ]
+   },
+   "31": {
+    "a": [
+     "NO"
+    ]
+   },
+   "32": {
+    "a": [
+     "YES"
+    ]
+   },
+   "33": {
+    "a": [
+     "NO"
+    ]
+   },
+   "34": {
+    "a": [
+     "YES"
+    ]
+   },
+   "35": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "36": {
+    "a": [
+     "D"
+    ]
+   },
+   "37": {
+    "a": [
+     "I"
+    ]
+   },
+   "38": {
+    "a": [
+     "G"
+    ]
+   },
+   "39": {
+    "a": [
+     "E"
+    ]
+   },
+   "40": {
+    "a": [
+     "B"
+    ]
+   }
+  }
+ },
+ "writing": {
+  "tasks": [
+   {
+    "task": 1,
+    "minutes": 20,
+    "minWords": 150,
+    "pages": [
+     57
+    ],
+    "prompt": [
+     "The graph below shows the consumption of fish and some different kinds of meat in a European country between 1979 and 2004.",
+     "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+    ],
+    "image": "images/C7/C7-T2-W1.png",
+    "sample": {
+     "kind": "model",
+     "band": null,
+     "text": "The graph illustrates changes in the amounts of beef, lamb, chicken and fish consumed in a particular European country between 1979 and 2004.\n\nIn 1979 beef was by far the most popular of these foods, with about 225 grams consumed per person per week. Lamb and chicken were eaten in similar quantities (around 150 grams), while much less fish was consumed (just over 50 grams).\n\nHowever, during this 25-year period the consumption of beef and lamb fell dramatically to approximately 100 grams and 55 grams respectively. The consumption of fish also declined, but much less significantly to just below 50 grams, so although it remained the least popular food, consumption levels were the most stable.\n\nThe consumption of chicken, on the other hand, showed an upward trend, overtaking that of lamb in 1980 and that of beef in 1989. By 2004 it had soared to almost 250 grams per person per week.\n\nOverall, the graph shows how the consumption of chicken increased dramatically while the popularity of these other foods decreased over the period.",
+     "comment": null
+    }
+   },
+   {
+    "task": 2,
+    "minutes": 40,
+    "minWords": 250,
+    "pages": [
+     58
+    ],
+    "prompt": [
+     "Write about the following topic:",
+     "*Some people believe that there should be fixed punishments for each type of crime. Others, however, argue that the circumstances of an individual crime, and the motivation for committing it, should always be taken into account when deciding on the punishment.*",
+     "*Discuss both these views and give your own opinion.*",
+     "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+    ],
+    "sample": {
+     "kind": "candidate",
+     "band": "7.5",
+     "text": "Fixing punishments for each type of crime has been a debateable issue. There are many arguments supporting both views, those for and those against fixed punishments.\n\nOn the one hand, fixed punishments will have a deterring effect on society. Individuals knowing that they will be subject to a certain punishment if they are convicted with a given crime, will reconsider committing this act in the first place.\n\nThis deterring effect also leads to social stability and security, through minimising the number of crimes committed.\n\nIf people knew they would be able to convince the court or the jury of a reason for having committed the crime they are accused of, penal decisions would be largely arbitrary. This would result into criminals getting away with their crimes and into a high level of injustice caused by the subjective approach of different courts.\n\nOn the other hand, taking the circumstances of a crime and its motivation into consideration is a prerequisite for establishing and ensuring justice and equity.\n\nA person killing in self-defense cannot be compared to a serial killer, moving from one victim to the next. In my opinion an intermediary position between both solutions is the perfect way to establish and ensure justice and equity.\n\nThere have to be fixed punishments for all crimes. However, criminal laws have to provide for a minimum and a maximum for the punishment and the laws also have to foresee certain cases of exemptions.\n\nAn example for setting minimum and maximum penalties is Competition Law where a person being held liable of a crime under this law will be convicted to pay a fine, according to the harm caused by the violation and the profit gained by the violator through committing the crime.\n\nAs for the exemptions, in some countries the law exempts thiefs stealing food during a period of famine taking into consideration the distress and hunger.\n\nAlso, a person killing in self-defense will be exempted from punishment.",
+     "comment": "This is a thoughtful and well-argued response to the task. The candidate examines the opposing views of the topic and gives a clear opinion that is well developed and supported. To reach the highest band a more clearly-signalled conclusion would be needed. The argument is well organised and linking is well managed throughout. The development of the answer is not helped, however, by poor control of paragraphing which sometimes confuses the links across different sections. This is a weak feature of the script which limits the overall rating. In contrast, an excellent range of vocabulary is used with a sophisticated level of control and only rare slips. The range of structures is also wide and most sentences are accurate and precise, but there are some errors and omissions. These, however, are only minor and do not affect communication."
+    }
+   }
+  ]
+ },
+ "issues": [
+  "Q26: the summary prints two gaps for question 26 ('both 26 ........ and ........ .'), answered as one item (key: 'IN EITHER ORDER farmers (and) consumers'); reproduced as a single gap {{26}} accepting both orders.",
+  "Q34 printed as '... transport requirement as outside the local area' (book typo for 'was'); reproduced as printed.",
+  "Reading Passage 3 sections are printed as headings 'Section A'–'Section F' with several paragraphs each; reproduced as heading blocks rather than paragraph labels."
+ ]
+}

@@ -1,0 +1,772 @@
+{
+ "parts": [
+  {
+   "part": 1,
+   "range": [
+    1,
+    10
+   ],
+   "pages": [
+    34,
+    35
+   ],
+   "groups": [
+    {
+     "id": "L1-1",
+     "type": "completion",
+     "range": [
+      1,
+      5
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **ONE WORD ONLY** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Working at Milo's Restaurants"
+      },
+      {
+       "t": "sub",
+       "text": "Benefits"
+      },
+      {
+       "t": "li",
+       "text": "{{1}} provided for all staff"
+      },
+      {
+       "t": "li",
+       "text": "{{2}} during weekdays at all Milo's Restaurants"
+      },
+      {
+       "t": "li",
+       "text": "{{3}} provided after midnight"
+      },
+      {
+       "t": "sub",
+       "text": "Person specification"
+      },
+      {
+       "t": "li",
+       "text": "must be prepared to work well in a team"
+      },
+      {
+       "t": "li",
+       "text": "must care about maintaining a high standard of {{4}}"
+      },
+      {
+       "t": "li",
+       "text": "must have a qualification in {{5}}"
+      }
+     ]
+    },
+    {
+     "id": "L1-2",
+     "type": "completion",
+     "range": [
+      6,
+      10
+     ],
+     "instructions": [
+      "Complete the table below.",
+      "Write **ONE WORD AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "table",
+       "header": 1,
+       "rows": [
+        [
+         "Location",
+         "Job title",
+         "Responsibilities include",
+         "Pay and conditions"
+        ],
+        [
+         "{{6}} Street",
+         "Breakfast supervisor",
+         "Checking portions, etc. are correct\n\nMaking sure {{7}} is clean",
+         "Starting salary £{{8}} per hour\n\nStart work at 5.30 a.m."
+        ],
+        [
+         "City Road",
+         "Junior chef",
+         "Supporting senior chefs\n\nMaintaining stock and organising {{9}}",
+         "Annual salary £23,000\n\nNo work on a {{10}} once a month"
+        ]
+       ]
+      }
+     ]
+    }
+   ],
+   "transcript": "WOMAN: So, I understand you're interested in restaurant work?\nMAN: Yes. I've got a bit of experience and I can provide references.\nWOMAN: That's good. I can check all that later. Now, Milo's Restaurants have some vacancies at the moment. They're a really good company to work for. Lots of benefits.\nMAN: Oh right.\nWOMAN: Yes. They've got a very good reputation for looking after staff. For example, all employees get training – even temporary staff. [Q1]\nMAN: Oh really? That's quite unusual, isn't it?\nWOMAN: Certainly is.\nMAN: And do staff get free uniforms too?\nWOMAN: Um... you just need to wear a white T-shirt and black trousers, it says here. So I guess not ... But another benefit of working for a big company like this is that you can get a discount at any of their restaurants. [Q2]\nMAN: Even at weekends?\nWOMAN: No, but you'll be working then anyway.\nMAN: Oh yes. I suppose so. Most of their restaurants are in the city centre, aren't they? So, easy to get to by bus?\nWOMAN: Yes. That's right. But if you have to do a late shift and finish work after midnight, [Q3] the company will pay for you to get a taxi home.\nMAN: I probably won't need one. I think I'd use my bike.\nWOMAN: OK. Now, they do have some quite specific requirements for the kind of person they're looking for. Milo's is a young, dynamic company and they're really keen on creating a strong team. It's really important that you can fit in and get on well with everyone.\nMAN: Yeah. I've got no problem with that. It sounds good, actually. The last place I worked for was quite demanding too. We had to make sure we gave a really high [Q4] level of service.\nWOMAN: That's good to hear because that will be equally important at Milo's. I know they want people who have an eye for detail.\nMAN: That's fine. I'm very used to working in that kind of environment.\nWOMAN: Perfect. So the only other thing that's required is good communication skills, so you'll need to have a certificate in English. [Q5]\nMAN: Sure.\nWOMAN: OK. Let's have a look at the current job vacancies at Milo's. The first one is in Wivenhoe Street. [Q6]\nMAN: Sorry, where?\nWOMAN: Wivenhoe. W-I-V-E-N-H-O-E. It's quite central, just off Cork Street.\nMAN: Oh right.\nWOMAN: They're looking for a breakfast supervisor.\nMAN: That would be OK.\nWOMAN: So you're probably familiar with the kind of responsibilities involved. Obviously checking that all the portions are correct, etc., and then things like checking all [Q7] the procedures for cleaning the equipment are being followed.\nMAN: OK. And what about the salary? In my last job I was getting £9.50 per hour. I was hoping to get a bit more than that.\nWOMAN: Well, to begin with, you'd be getting £9.75 but that goes up to £11.25 after three [Q8] months.\nMAN: That's not too bad. And I suppose it's a very early start?\nWOMAN: Mmm. That's the only unattractive thing about this job. But then you have the afternoons and evenings free. So the restaurant starts serving breakfast from 7 a.m. And you'd have to be there at 5.30 to set everything up. But you'd be finished at 12.30.\nMAN: Mmm. Well, as you say, there are advantages to that.\nWOMAN: Now, you might also be interested in the job at the City Road branch. That's for a junior chef, so again a position of responsibility.\nMAN: I might prefer that, actually.\nWOMAN: Right, well obviously this role would involve supporting the sous chef and other senior staff. And you'd be responsible for making sure there's enough stock each week – and sorting out all the deliveries. [Q9]\nMAN: I've never done that before, but I imagine it's fairly straightforward, once you get the hang of it.\nWOMAN: Yes, and you'd be working alongside more experienced staff to begin with, so I'm sure it wouldn't be a problem. The salary's slightly higher here. It's an annual salary of £23,000.\nMAN: Right.\nWOMAN: I know that if they like you, it's likely you'll be promoted quite quickly. So that's worth thinking about.\nMAN: Yes. It does sound interesting. What are the hours like?\nWOMAN: The usual, I think. There's a lot of evening and weekend work, but they're closed on Mondays. But you do get one Sunday off every four weeks. So would you like [Q10] me to send off your ..."
+  },
+  {
+   "part": 2,
+   "range": [
+    11,
+    20
+   ],
+   "pages": [
+    36,
+    37
+   ],
+   "groups": [
+    {
+     "id": "L2-1",
+     "type": "multi",
+     "range": [
+      11,
+      12
+     ],
+     "n": [
+      11,
+      12
+     ],
+     "select": 2,
+     "instructions": [
+      "Choose **TWO** letters, **A–E**."
+     ],
+     "text": "What are the **TWO** main reasons why this site has been chosen for the housing development?",
+     "options": [
+      {
+       "key": "A",
+       "text": "It has suitable geographical features."
+      },
+      {
+       "key": "B",
+       "text": "There is easy access to local facilities."
+      },
+      {
+       "key": "C",
+       "text": "It has good connections with the airport."
+      },
+      {
+       "key": "D",
+       "text": "The land is of little agricultural value."
+      },
+      {
+       "key": "E",
+       "text": "It will be convenient for workers."
+      }
+     ]
+    },
+    {
+     "id": "L2-2",
+     "type": "multi",
+     "range": [
+      13,
+      14
+     ],
+     "n": [
+      13,
+      14
+     ],
+     "select": 2,
+     "instructions": [
+      "Choose **TWO** letters, **A–E**."
+     ],
+     "text": "Which **TWO** aspects of the planned housing development have people given positive feedback about?",
+     "options": [
+      {
+       "key": "A",
+       "text": "the facilities for cyclists"
+      },
+      {
+       "key": "B",
+       "text": "the impact on the environment"
+      },
+      {
+       "key": "C",
+       "text": "the encouragement of good relations between residents"
+      },
+      {
+       "key": "D",
+       "text": "the low cost of all the accommodation"
+      },
+      {
+       "key": "E",
+       "text": "the rural location"
+      }
+     ]
+    },
+    {
+     "id": "L2-3",
+     "type": "matching",
+     "range": [
+      15,
+      20
+     ],
+     "instructions": [
+      "Label the map below.",
+      "Write the correct letter, **A–I**, next to Questions 15–20."
+     ],
+     "image": "images/C18/C18-T2-L2-map.png",
+     "options": [
+      {
+       "key": "A",
+       "text": ""
+      },
+      {
+       "key": "B",
+       "text": ""
+      },
+      {
+       "key": "C",
+       "text": ""
+      },
+      {
+       "key": "D",
+       "text": ""
+      },
+      {
+       "key": "E",
+       "text": ""
+      },
+      {
+       "key": "F",
+       "text": ""
+      },
+      {
+       "key": "G",
+       "text": ""
+      },
+      {
+       "key": "H",
+       "text": ""
+      },
+      {
+       "key": "I",
+       "text": ""
+      }
+     ],
+     "questions": [
+      {
+       "n": 15,
+       "text": "School"
+      },
+      {
+       "n": 16,
+       "text": "Sports centre"
+      },
+      {
+       "n": 17,
+       "text": "Clinic"
+      },
+      {
+       "n": 18,
+       "text": "Community centre"
+      },
+      {
+       "n": 19,
+       "text": "Supermarket"
+      },
+      {
+       "n": 20,
+       "text": "Playground"
+      }
+     ]
+    }
+   ],
+   "transcript": "Hello everyone. It's good to see that so many members of the public have shown up for our presentation on the new housing development planned on the outskirts of Nunston. I'm Mark Reynolds and I'm Communications Manager at the development.\nI'll start by giving you a brief overview of our plans for the development. So one thing I'm sure you'll want to know is why we've selected this particular site for a housing development. At present it's being used for farming, like much of the land around Nunston. But because of the new industrial centre in Nunston, there's a lot of demand for housing for employees in [Q11/Q12] the region, as many employees are having to commute long distances at present. Of course, there's also the fact that we have an international airport just 20 minutes' drive away, but although that's certainly convenient, it wasn't one of our major criteria for choosing the site. We were more interested in the fact that there's an excellent hospital just 15 kilometres away, [Q11/Q12] and a large secondary school even closer than that. One drawback to the site is that it's on quite a steep slope, but we've taken account of that in our planning so it shouldn't be a major problem.\nWe've had a lot of positive feedback about the plans. People like the wide variety of accommodation types and prices, and the fact that it's only a short drive to get out into the countryside from the development. We were particularly pleased that so many people liked the designs for the layout of the development, with the majority of people saying it generally made a good impression and blended in well with the natural features of the landscape, with [Q13/Q14] provision made for protecting trees and wildlife on the site. Some people have mentioned that they'd like to see more facilities for cyclists, and we'll look at that, but the overall feedback has been that the design and facilities of the development make it seem a place where [Q13/Q14] people of all ages can live together happily.\nOK. So I'll put a map of the proposed development up on the screen. You'll see it's bounded on the south side by the main road, which then goes on to Nunston. Another boundary is formed by London Road, on the western side of the development. Inside the development there'll be about 400 houses and 3 apartment blocks.\nThere'll also be a school for children up to 11 years old. If you look at the South Entrance at the bottom of the map, there's a road from there that goes right up through the development. [Q15] The school will be on that road, at the corner of the second turning to the left.\nA large sports centre is planned with facilities for indoor and outdoor activities. This will [Q16] be on the western side of the development, just below the road that branches off from London Road.\nThere'll be a clinic where residents can go if they have any health problems. Can you see the lake towards the top of the map? The clinic will be just below this, to the right of a street [Q17] of houses.\nThere'll also be a community centre for people of all ages. On the northeast side of the [Q18] development, there'll be a row of specially designed houses specifically for residents over 65, and the community centre will be adjoining this.\nWe haven't forgotten about shopping. There'll be a supermarket between the two entrances [Q19] to the development. We're planning to leave the three large trees near London Road, and it'll be just to the south of these.\nIt's planned to have a playground for younger children. If you look at the road that goes up [Q20] from the South Entrance, you'll see it curves round to the left at the top, and the playground will be in that curve, with nice views of the lake.\nOK, so now does anyone ..."
+  },
+  {
+   "part": 3,
+   "range": [
+    21,
+    30
+   ],
+   "pages": [
+    38,
+    39
+   ],
+   "groups": [
+    {
+     "id": "L3-1",
+     "type": "choice",
+     "range": [
+      21,
+      24
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "questions": [
+      {
+       "n": 21,
+       "text": "Why do the students think the Laki eruption of 1783 is so important?",
+       "options": [
+        {
+         "key": "A",
+         "text": "It was the most severe eruption in modern times."
+        },
+        {
+         "key": "B",
+         "text": "It led to the formal study of volcanoes."
+        },
+        {
+         "key": "C",
+         "text": "It had a profound effect on society."
+        }
+       ]
+      },
+      {
+       "n": 22,
+       "text": "What surprised Adam about observations made at the time?",
+       "options": [
+        {
+         "key": "A",
+         "text": "the number of places producing them"
+        },
+        {
+         "key": "B",
+         "text": "the contradictions in them"
+        },
+        {
+         "key": "C",
+         "text": "the lack of scientific data to support them"
+        }
+       ]
+      },
+      {
+       "n": 23,
+       "text": "According to Michelle, what did the contemporary sources say about the Laki haze?",
+       "options": [
+        {
+         "key": "A",
+         "text": "People thought it was similar to ordinary fog."
+        },
+        {
+         "key": "B",
+         "text": "It was associated with health issues."
+        },
+        {
+         "key": "C",
+         "text": "It completely blocked out the sun for weeks."
+        }
+       ]
+      },
+      {
+       "n": 24,
+       "text": "Adam corrects Michelle when she claims that Benjamin Franklin",
+       "options": [
+        {
+         "key": "A",
+         "text": "came to the wrong conclusion about the cause of the haze."
+        },
+        {
+         "key": "B",
+         "text": "was the first to identify the reason for the haze."
+        },
+        {
+         "key": "C",
+         "text": "supported the opinions of other observers about the haze."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L3-2",
+     "type": "multi",
+     "range": [
+      25,
+      26
+     ],
+     "n": [
+      25,
+      26
+     ],
+     "select": 2,
+     "instructions": [
+      "Choose **TWO** letters, **A–E**."
+     ],
+     "text": "Which **TWO** issues following the Laki eruption surprised the students?",
+     "options": [
+      {
+       "key": "A",
+       "text": "how widespread the effects were"
+      },
+      {
+       "key": "B",
+       "text": "how long-lasting the effects were"
+      },
+      {
+       "key": "C",
+       "text": "the number of deaths it caused"
+      },
+      {
+       "key": "D",
+       "text": "the speed at which the volcanic ash cloud spread"
+      },
+      {
+       "key": "E",
+       "text": "how people ignored the warning signs"
+      }
+     ]
+    },
+    {
+     "id": "L3-3",
+     "type": "matching",
+     "range": [
+      27,
+      30
+     ],
+     "instructions": [
+      "What comment do the students make about the impact of the Laki eruption on the following countries?",
+      "Choose **FOUR** answers from the box and write the correct letter, **A–F**, next to Questions 27–30."
+     ],
+     "optionsTitle": "Comments",
+     "options": [
+      {
+       "key": "A",
+       "text": "This country suffered the most severe loss of life."
+      },
+      {
+       "key": "B",
+       "text": "The impact on agriculture was predictable."
+      },
+      {
+       "key": "C",
+       "text": "There was a significant increase in deaths of young people."
+      },
+      {
+       "key": "D",
+       "text": "Animals suffered from a sickness."
+      },
+      {
+       "key": "E",
+       "text": "This country saw the highest rise in food prices in the world."
+      },
+      {
+       "key": "F",
+       "text": "It caused a particularly harsh winter."
+      }
+     ],
+     "title": "Countries",
+     "questions": [
+      {
+       "n": 27,
+       "text": "Iceland"
+      },
+      {
+       "n": 28,
+       "text": "Egypt"
+      },
+      {
+       "n": 29,
+       "text": "UK"
+      },
+      {
+       "n": 30,
+       "text": "USA"
+      }
+     ]
+    }
+   ],
+   "transcript": "ADAM: So, Michelle, shall we make a start on our presentation? We haven't got that much time left.\nMICHELLE: No, Adam. But at least we've done all the background reading. I found it really interesting – I'd never even heard of the Laki eruption before this.\nADAM: Me neither. I suppose 1783 is a long time ago.\nMICHELLE: But it was a huge eruption and it had such devastating consequences.\nADAM: I know. It was great there were so many primary sources to look at. It really gives you a sense of how catastrophic the volcano was. People were really trying to make sense of the science for the first time.\nMICHELLE: That's right. But what I found more significant was how it impacted directly and [Q21] indirectly on political events, as well as having massive social and economic consequences.\nADAM: I know. That should be the main focus of our presentation.\nMICHELLE: The observations made by people at the time were interesting, weren't they? I mean, they all gave a pretty consistent account of what happened, even if they didn't always use the same terminology.\nADAM: Yeah. I was surprised there were so many weather stations established by that [Q22] time – so, you know, you can see how the weather changed, often by the hour.\nMICHELLE: Right. Writers at the time talked about the Laki haze to describe the volcanic fog that spread across Europe. They all realised that this wasn't the sort of fog they were used to – and of course this was in pre-industrial times – so they hadn't experienced sulphur-smelling fog before.\nADAM: No, that's true.\nMICHELLE: Reports from the period blamed the haze for an increase in headaches, [Q23] respiratory issues and asthma attacks. And they all describe how it covered the sun and made it look a strange red colour.\nADAM: Must have been very weird.\nMICHELLE: It's interesting that Benjamin Franklin wrote about the haze. Did you read that? He was the American ambassador in Paris at the time.\nADAM: Yeah. At first no one realised that the haze was caused by the volcanic eruption in Iceland.\nMICHELLE: It was Benjamin Franklin who realised that before anyone else. [Q24]\nADAM: He's often credited with that, apparently. But a French naturalist beat him to it – I can't remember his name. I'd have to look it up. Then other naturalists had the same idea – all independently of each other.\nMICHELLE: Oh right. We should talk about the immediate impact of the eruption, which was obviously enormous – especially in Iceland, where so many people died.\nADAM: Mmm. You'd expect that – and the fact that the volcanic ash drifted so swiftly – but not that the effects would go on for so long. Or that two years after the [Q25/Q26] eruption, strange weather events were being reported as far away as North [Q25/Q26] America and North Africa.\nMICHELLE: No. I found all that hard to believe too. It must have been terrible – and there was nothing anyone could do about it, even if they knew the ash cloud was coming in their direction.\nMICHELLE: We should run through some of the terrible consequences of the eruption experienced in different countries. There's quite a varied range.\nADAM: Starting with Iceland, where the impact on farming was devastating.\nMICHELLE: Mmm. One of the most dramatic things there was the effect on livestock as they [Q27] grazed in the fields. They were poisoned because they ate vegetation that had been contaminated with fluorine as a result of the volcanic fallout.\nADAM: That was horrible. In Egypt, the bizarre weather patterns led to a severe drought and as a result the Nile didn't flood, which meant the crops all failed.\nMICHELLE: It's so far from where the eruption happened and yet the famine there led to more [Q28] people dying than any other country. It was worse than the plague.\nADAM: OK. Then in the UK the mortality rate went up a lot – presumably from respiratory [Q29] illnesses. According to one report it was about double the usual number and included an unusually high percentage of people under the age of 25.\nMICHELLE: Mmm. I think people will be surprised to hear that the weather in the USA was badly affected too. George Washington even makes a note in his diary that they were snowbound until March in Virginia. That was before he became president.\nADAM: Yes, and there was ice floating down the Mississippi, which was unprecedented. [Q30]\nMICHELLE: Astonishing, really. Anyway, what do you think ..."
+  },
+  {
+   "part": 4,
+   "range": [
+    31,
+    40
+   ],
+   "pages": [
+    40
+   ],
+   "groups": [
+    {
+     "id": "L4-1",
+     "type": "completion",
+     "range": [
+      31,
+      40
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **ONE WORD ONLY** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Pockets"
+      },
+      {
+       "t": "sub",
+       "text": "Reason for choice of subject"
+      },
+      {
+       "t": "li",
+       "text": "They are {{31}} but can be overlooked by consumers and designers."
+      },
+      {
+       "t": "sub",
+       "text": "Pockets in men's clothes"
+      },
+      {
+       "t": "li",
+       "text": "Men started to wear {{32}} in the 18th century."
+      },
+      {
+       "t": "li",
+       "text": "A {{33}} sewed pockets into the lining of the garments."
+      },
+      {
+       "t": "li",
+       "text": "The wearer could use the pockets for small items."
+      },
+      {
+       "t": "li",
+       "text": "Bigger pockets might be made for men who belonged to a certain type of {{34}}."
+      },
+      {
+       "t": "sub",
+       "text": "Pockets in women's clothes"
+      },
+      {
+       "t": "li",
+       "text": "Women's pockets were less {{35}} than men's."
+      },
+      {
+       "t": "li",
+       "text": "Women were very concerned about pickpockets."
+      },
+      {
+       "t": "li",
+       "text": "Pockets were produced in pairs using {{36}} to link them together."
+      },
+      {
+       "t": "li",
+       "text": "Pockets hung from the women's {{37}} under skirts and petticoats."
+      },
+      {
+       "t": "li",
+       "text": "Items such as {{38}} could be reached through a gap in the material."
+      },
+      {
+       "t": "li",
+       "text": "Pockets, of various sizes, stayed inside clothing for many decades."
+      },
+      {
+       "t": "li",
+       "text": "When dresses changed shape, hidden pockets had a negative effect on the {{39}} of women."
+      },
+      {
+       "t": "li",
+       "text": "Bags called 'pouches' became popular, before women carried a {{40}}."
+      }
+     ]
+    }
+   ],
+   "transcript": "Good morning. Now, we've been asked to choose an aspect of European clothing or fashion and to talk about its development over time.\nI decided to focus on a rather small area of clothing and that's pockets. I chose pockets for two reasons, really. We all have them – in jeans, jackets, coats, for example – and even though we often carry bags or briefcases as well, nothing is quite as convenient as being able [Q31] to pop your phone or credit card into your pocket. Yet, I suspect that, other than that, people don't really think about pockets too much and they're rather overlooked as a fashion item.\nIt's certainly very interesting to go back in time and see how pockets developed for men and women. In the 18th century, fashions were quite different from the way they are now, and [Q32] pockets were too. If we think about male fashion first ... that was the time when suits became popular. Trousers were knee-length only and referred to as 'breeches', the waistcoats were short and the jackets were long, but all three garments were lined with material and pockets [Q33] were sewn into this cloth by whichever tailor the customer used. The wearer could then carry small objects such as pencils or coins on their person and reach them through a gap in the lining. Coat pockets became increasingly decorative on the outside for men who wanted to look stylish, but they were often larger but plainer if the wearer was someone with a [Q34] profession who needed to carry medical instruments – a doctor or physician, for example.\nThe development of women's pockets was a little different. For one thing, they weren't nearly [Q35] as visible or as easy to reach as men's. In the 18th and 19th centuries, women carried numerous possessions on their person and some of these could be worth a lot of money. Women were more vulnerable to theft and wealthy women, in particular, worried constantly about pickpockets. So – what they did was to have a pair of pockets made that were tied [Q36] together with string. The pockets were made of fabric, which might be recycled cloth if the wearer had little money or something more expensive, such as linen, sometimes featuring very delicate embroidery. Women tied the pockets around their waist so that they hung [Q37] beneath their clothes. Remember, skirts were long then and there was plenty of room to hide a whole range of small possessions between the layers of petticoats that were commonly worn. They would have an opening in the folds of their skirts through which they could reach [Q38] whatever they needed, like their perfume. Working women, of course, also needed to carry around items that they might use for whatever job or trade they were involved in, but their pairs of pockets still remained on the inside of their clothing, they just got bigger or longer – sometimes reaching down to their knees!\nSo the tie-on pockets went well into the 19th century and only changed when fashion altered towards the end of that period. That's when dresses became tighter and less bulky, and [Q39] the pairs of pockets became very noticeable – they stood out too much and detracted from the woman's image. Women who had been used to carrying around a range of personal possessions – and still wanted to – needed somewhere to carry these items about their person. That was when small bags, or pouches as they were known, came into fashion and, of course, they inevitably led on to the handbag of more modern times, particularly when [Q40] fashion removed pockets altogether."
+  }
+ ],
+ "answers": {
+  "1": {
+   "a": [
+    "training"
+   ]
+  },
+  "2": {
+   "a": [
+    "discount"
+   ]
+  },
+  "3": {
+   "a": [
+    "taxi"
+   ]
+  },
+  "4": {
+   "a": [
+    "service"
+   ]
+  },
+  "5": {
+   "a": [
+    "English"
+   ]
+  },
+  "6": {
+   "a": [
+    "Wivenhoe"
+   ]
+  },
+  "7": {
+   "a": [
+    "equipment"
+   ]
+  },
+  "8": {
+   "a": [
+    "9.75"
+   ]
+  },
+  "9": {
+   "a": [
+    "deliveries"
+   ]
+  },
+  "10": {
+   "a": [
+    "Sunday"
+   ]
+  },
+  "11": {
+   "a": [
+    "B"
+   ]
+  },
+  "12": {
+   "a": [
+    "E"
+   ]
+  },
+  "13": {
+   "a": [
+    "B"
+   ]
+  },
+  "14": {
+   "a": [
+    "C"
+   ]
+  },
+  "15": {
+   "a": [
+    "G"
+   ]
+  },
+  "16": {
+   "a": [
+    "C"
+   ]
+  },
+  "17": {
+   "a": [
+    "D"
+   ]
+  },
+  "18": {
+   "a": [
+    "B"
+   ]
+  },
+  "19": {
+   "a": [
+    "H"
+   ]
+  },
+  "20": {
+   "a": [
+    "A"
+   ]
+  },
+  "21": {
+   "a": [
+    "C"
+   ]
+  },
+  "22": {
+   "a": [
+    "A"
+   ]
+  },
+  "23": {
+   "a": [
+    "B"
+   ]
+  },
+  "24": {
+   "a": [
+    "B"
+   ]
+  },
+  "25": {
+   "a": [
+    "A"
+   ]
+  },
+  "26": {
+   "a": [
+    "B"
+   ]
+  },
+  "27": {
+   "a": [
+    "D"
+   ]
+  },
+  "28": {
+   "a": [
+    "A"
+   ]
+  },
+  "29": {
+   "a": [
+    "C"
+   ]
+  },
+  "30": {
+   "a": [
+    "F"
+   ]
+  },
+  "31": {
+   "a": [
+    "convenient"
+   ]
+  },
+  "32": {
+   "a": [
+    "suits"
+   ]
+  },
+  "33": {
+   "a": [
+    "tailor"
+   ]
+  },
+  "34": {
+   "a": [
+    "profession"
+   ]
+  },
+  "35": {
+   "a": [
+    "visible"
+   ]
+  },
+  "36": {
+   "a": [
+    "string",
+    "strings"
+   ],
+   "k": "string(s)"
+  },
+  "37": {
+   "a": [
+    "waist",
+    "waists"
+   ],
+   "k": "waist(s)"
+  },
+  "38": {
+   "a": [
+    "perfume"
+   ]
+  },
+  "39": {
+   "a": [
+    "image"
+   ]
+  },
+  "40": {
+   "a": [
+    "handbag"
+   ]
+  }
+ }
+}

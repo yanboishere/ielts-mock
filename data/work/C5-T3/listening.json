@@ -1,0 +1,781 @@
+{
+ "parts": [
+  {
+   "part": 1,
+   "range": [
+    1,
+    10
+   ],
+   "pages": [
+    56,
+    57
+   ],
+   "groups": [
+    {
+     "id": "L1-1",
+     "type": "completion",
+     "range": [
+      1,
+      10
+     ],
+     "instructions": [
+      "Complete the form below.",
+      "Write **NO MORE THAN THREE WORDS AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "MINTONS CAR MART"
+      },
+      {
+       "t": "sub",
+       "text": "Customer Enquiry"
+      },
+      {
+       "t": "note",
+       "text": "*Example*"
+      },
+      {
+       "t": "p",
+       "text": "**Make:** *Lida*"
+      },
+      {
+       "t": "p",
+       "text": "**Engine size:** {{1}}"
+      },
+      {
+       "t": "p",
+       "text": "**Model:** *Max*"
+      },
+      {
+       "t": "p",
+       "text": "**Type of gears:** {{2}}"
+      },
+      {
+       "t": "p",
+       "text": "**Preferred colour:** {{3}} *blue*"
+      },
+      {
+       "t": "sub",
+       "text": "FINANCE"
+      },
+      {
+       "t": "p",
+       "text": "**Customer wishes to arrange** {{4}}"
+      },
+      {
+       "t": "p",
+       "text": "**Part exchange?** *yes*"
+      },
+      {
+       "t": "sub",
+       "text": "PERSONAL DETAILS"
+      },
+      {
+       "t": "p",
+       "text": "**Name:** *Wendy* {{5}}"
+      },
+      {
+       "t": "p",
+       "text": "**Title:** {{6}}"
+      },
+      {
+       "t": "p",
+       "text": "**Address:** *20, Green Banks*"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "{{7}}"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "*Hampshire*"
+      },
+      {
+       "t": "p",
+       "text": "**Postcode:** *GU8 9EW*"
+      },
+      {
+       "t": "p",
+       "text": "**Contact number:** (for {{8}} only) *0798 257643*"
+      },
+      {
+       "t": "sub",
+       "text": "CURRENT CAR"
+      },
+      {
+       "t": "p",
+       "text": "**Make:** *Conti*"
+      },
+      {
+       "t": "p",
+       "text": "**Model:** **Name:** {{9}}"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "**Year:** *1994*"
+      },
+      {
+       "t": "p",
+       "text": "**Mileage:** *maximum 70,000*"
+      },
+      {
+       "t": "p",
+       "text": "**Colour:** *metallic grey*"
+      },
+      {
+       "t": "p",
+       "text": "**Condition:** {{10}}"
+      }
+     ]
+    }
+   ],
+   "transcript": "MAN: Good morning, please take a seat. How can I help you?\nWOMAN: Well, I'm thinking of buying a new car and I'd like some advice.\nMAN: Sure, yes. Had you got any particular make in mind?\nWOMAN: I'm interested in a Lida I've had one before and liked it. But I haven't really made up my mind.\nMAN: Sure. We've got various models. Umm, right. What about the engine size? Any ideas?\nWOMAN: The one I've got at the moment's a 1.2 litre engine but I find it a bit slow on long journeys. I'd like a bit more power this time ... a 1.4 should do. [Q1] I don't think I need a 1.6 or anything.\nMAN: Right. Well I think the model you're looking at is the Max. Here's a picture.\nWOMAN: Oh, yes ... have you got one in?\nMAN: Yes. I'll take you to have a look at it in a minute. I'll just get a few more details. Er ... Is there anything else to do with the engine? What kind of gear change do you want? I presume you'd want a manual?\nWOMAN: I'd want automatic I've never driven a car with manual gears. [Q2]\nMAN: Right. Well now, here's the colour chart for the Max. Have you given that any thought? This blue's very popular at the moment.\nWOMAN: Yes, it is nice, I like blue. What's it called? 'Royal'?\nMAN: Yes.\nWOMAN: But actually, I think I prefer this lighter shade here – 'Sky'. [Q3]\nMAN: Yes, that's popular too.\nWOMAN: I think I'll go for that.\nMAN: You might have to wait a week or so for that colour, but I assume that'd be OK?\nWOMAN: Oh yes, fine.\nMAN: Well, we can go outside and you can have a good look at one, and perhaps take it out. But first, can I just ask you about finance? The cash price is going to be somewhere in the region of seven and a half thousand. How would you like to pay? Are you in a position to pay cash, or would you need credit?\nWOMAN: I'd like credit provided the terms are reasonable. [Q4]\nMAN: Well you can discuss that with my colleague in a moment; we have various arrangements. And would you be interested in us taking your present car as part exchange?\nWOMAN: Yes.\nMAN: OK, fine. So I'll just need some details from you and then we can do a valuation ... Is that OK?\nWOMAN: Fine, yes.\nMAN: Could I have your full name?\nWOMAN: Wendy Harries, that's H-A-double R-I-E-S. [Q5]\nMAN: And is that Mrs ... Miss ... Ms ...?\nWOMAN: It's Doctor, actually. [Q6]\nMAN: Oh, right. And your address?\nWOMAN: 20 Green Banks.\nMAN: Is that 'Green' spelled as in the colour?\nWOMAN: Yes, that's right.\nMAN: OK.\nWOMAN: Alton.\nMAN: Is that O-L-T-O-N?\nWOMAN: Not quite, it begins with an A, not an O. [Q7]\nMAN: Oh yes, that's in Hampshire isn't it?\nWOMAN: That's right.\nMAN: And do you know your postcode?\nWOMAN: Yes. It's GU8 9EW.\nMAN: Do you have a daytime phone number?\nWOMAN: Well, I work at the hospital but it's a bit difficult to get hold of me. I can give you a number just for messages, and then I'll get back to you when I can. [Q8] Is that OK?\nMAN: That's fine.\nWOMAN: It's 0-7-9-8-2-5-7-6-4-3.\nMAN: Fine. And about the car you have now, what make is it?\nWOMAN: It's a Conti.\nMAN: Do you know the year or the model name?\nWOMAN: I think it's 1996, and it's called a Lion – like the animal. [Q9]\nMAN: Then it must be 1994, because they brought out the Fox after that.\nWOMAN: Oh right, yes.\nMAN: Mileage? Roughly?\nWOMAN: I'm not sure. I know it's less than seventy thousand.\nMAN: OK. What colour is it?\nWOMAN: It's grey, metallic grey.\nMAN: Right, and one last thing – what sort of condition would you say it's in?\nWOMAN: I'd probably describe it as reasonable. Do you need to see it? It's parked outside. [Q10]\nMAN: Not at the moment, no. Perhaps you could call in one day next week ..."
+  },
+  {
+   "part": 2,
+   "range": [
+    11,
+    20
+   ],
+   "pages": [
+    58,
+    59
+   ],
+   "groups": [
+    {
+     "id": "L2-1",
+     "type": "multi",
+     "range": [
+      11,
+      12
+     ],
+     "n": [
+      11,
+      12
+     ],
+     "select": 2,
+     "instructions": [
+      "Choose **TWO** letters **A–E**."
+     ],
+     "text": "What **TWO** advantages does the speaker say Rexford University has for the students he is speaking to?",
+     "options": [
+      {
+       "key": "A",
+       "text": "higher than average results in examinations"
+      },
+      {
+       "key": "B",
+       "text": "good transport links with central London"
+      },
+      {
+       "key": "C",
+       "text": "near London Airport"
+      },
+      {
+       "key": "D",
+       "text": "special government funding"
+      },
+      {
+       "key": "E",
+       "text": "good links with local industry"
+      }
+     ]
+    },
+    {
+     "id": "L2-2",
+     "type": "completion",
+     "range": [
+      13,
+      15
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **NO MORE THAN ONE WORD** for each answer."
+     ],
+     "content": [
+      {
+       "t": "li",
+       "text": "When application is received, confirmation will be sent"
+      },
+      {
+       "t": "li",
+       "text": "Application processing may be slowed down by"
+      },
+      {
+       "t": "li",
+       "level": 2,
+       "text": "– postal problems"
+      },
+      {
+       "t": "li",
+       "level": 2,
+       "text": "– delays in sending {{13}}"
+      },
+      {
+       "t": "li",
+       "text": "University tries to put international applicants in touch with a student from the same {{14}} who can give information and advice on"
+      },
+      {
+       "t": "li",
+       "level": 2,
+       "text": "– academic atmosphere"
+      },
+      {
+       "t": "li",
+       "level": 2,
+       "text": "– leisure facilities"
+      },
+      {
+       "t": "li",
+       "level": 2,
+       "text": "– English {{15}} and food"
+      },
+      {
+       "t": "li",
+       "level": 2,
+       "text": "– what to pack"
+      }
+     ]
+    },
+    {
+     "id": "L2-3",
+     "type": "choice",
+     "range": [
+      16,
+      20
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "questions": [
+      {
+       "n": 16,
+       "text": "The speaker says international students at UK universities will be",
+       "options": [
+        {
+         "key": "A",
+         "text": "offered accommodation with local families."
+        },
+        {
+         "key": "B",
+         "text": "given special help by their lecturers."
+        },
+        {
+         "key": "C",
+         "text": "expected to work independently."
+        }
+       ]
+      },
+      {
+       "n": 17,
+       "text": "What does the speaker say about university accommodation on campus?",
+       "options": [
+        {
+         "key": "A",
+         "text": "Most places are given to undergraduates."
+        },
+        {
+         "key": "B",
+         "text": "No places are available for postgraduates with families."
+        },
+        {
+         "key": "C",
+         "text": "A limited number of places are available for new postgraduates."
+        }
+       ]
+      },
+      {
+       "n": 18,
+       "text": "Students wishing to live off-campus should apply",
+       "options": [
+        {
+         "key": "A",
+         "text": "several months in advance."
+        },
+        {
+         "key": "B",
+         "text": "two or three weeks in advance."
+        },
+        {
+         "key": "C",
+         "text": "at the beginning of term."
+        }
+       ]
+      },
+      {
+       "n": 19,
+       "text": "The university accommodation officer will",
+       "options": [
+        {
+         "key": "A",
+         "text": "send a list of agents for students to contact."
+        },
+        {
+         "key": "B",
+         "text": "contact accommodation agencies for students."
+        },
+        {
+         "key": "C",
+         "text": "ensure that students have suitable accommodation."
+        }
+       ]
+      },
+      {
+       "n": 20,
+       "text": "With regard to their English, the speaker advises the students to",
+       "options": [
+        {
+         "key": "A",
+         "text": "tell their lecturers if they have problems understanding."
+        },
+        {
+         "key": "B",
+         "text": "have private English lessons when they arrive."
+        },
+        {
+         "key": "C",
+         "text": "practise their spoken English before they arrive."
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "transcript": "MAN: As I said earlier, there is I think at Rexford an excellent combination of physical and geographical advantages – as well as having a rural setting and still being close to central London, something that will certainly be of interest to you is that Rexford is just 35 minutes from London Airport. [Q11/Q12] At Rexford we have a strong research capability. We came 7th out of 101 universities in last year's research assessment, carried out by a government body and did particularly well in your particular subjects, engineering and science. Actually we got a top research grade of five for engineering, geography and computer sciences. One further point – and I know from talking to you individually that a number of you may be looking for some experience in industry after the course – is that all our science and engineering research departments have unusually close relationships with industry in the area. [Q11/Q12] Anyway that's enough sales talk from me ... I'll just take a sip of this coffee that's just arrived, thank you, and then I'll say something about what actually happens when you apply.\nRight ... Now if you do decide to make an application, what you do is send it directly to me in my department. I will then immediately send confirmation and the application process begins. Er ... I'd like to say at this point that you shouldn't worry if this process doesn't work all that quickly – I mean occasionally there are postal problems, but most often the hold-up is caused by references – the people you give as referees, shall we say, take their time to reply. [Q13] Anyway, it's absolutely normal for this process to take three to four months. What I do in this period is keep in touch with you and reassure you that things are moving along.\nOne of the ways we've devised to help you decide about applying as well as later when you've been accepted ... hopefully ... is to put you in contact with, if possible, a student from your own country who is at present studying with us. [Q14] What you can do is phone them up – we will, of course, liaise between you – and discuss your concerns with them. That way you can get an objective opinion of what you can expect if you come to live and study at Rexford – not only the academic atmosphere but important details like what the leisure facilities are like and whether the English weather and food are really as awful as everybody says! [Q15]\nIf you decide you can face it, the contact can also help you just before you leave, with tips on what to pack and that sort of thing. At the moment I think we've got two second-year students and one postgraduate from this country.\nNow to move on to the other concerns you expressed earlier. At a UK university – as I'm sure you know – you will be in an environment where independent learning is the norm, which takes most students a while to adjust to, [Q16] and at a time when you will be separated from your normal surroundings and, in most cases, your family. This can be a difficult time. But remember that something like 25% of our student body are international students like yourselves, and that there are several organisations in the university and city whose main purpose is to offer help and ensure that your time with us is enjoyable and useful.\nOne or two of you touched on the subject of accommodation earlier. So I'll just add a few points: it is the University's policy to give priority in the allocation of residence places to three categories, and those are: visiting students, exchange students and new postgraduate students. [Q17] However, demand exceeds supply, so there is still a need to put your name down early for campus accommodation, particularly if your family is accompanying you. This means that the earlier you decide whether you want to study with us ... and so get the procedure moving, the better it will be for everybody. Yes?\nWOMAN: What if you would prefer to live outside the university?\nMAN: If you're planning to live off-campus, you've got to sort things out even earlier. As with everything in short supply, the good accommodation gets snapped up months before the beginning of term – in other words if you're starting in October you need to be thinking about it in June or at the very latest July. [Q18] So you do need to think very carefully about what you need, how much you can afford to pay, well in advance. What you can't do is leave it until a few days before the start of term. The agencies in town are pretty good – it's just a matter of contacting them in good time. Of course, we have a full-time accommodation officer available to help all students. She'll get in touch with you when you're accepted – she's got plenty of contacts in the town and will deal with the agencies on your behalf. [Q19]\nOne or two of you asked me earlier about your level of spoken English. Obviously most of you have already achieved a lot – I wish I could speak your language half as well. Having said that though, I'm afraid the lecturers will make little or no allowance for the presence of non-native speakers in the audience. So anything you can do to improve your spoken English – even beyond the pretty high levels most of you have already reached – will help make your stay with us that bit more fun for you. Some extra practice before you arrive is worth more than ... for example private lessons afterwards, when you won't really have time. [Q20] Oh ... and one last thing before I invite further questions: it's very important that you ..."
+  },
+  {
+   "part": 3,
+   "range": [
+    21,
+    30
+   ],
+   "pages": [
+    60
+   ],
+   "groups": [
+    {
+     "id": "L3-1",
+     "type": "completion",
+     "range": [
+      21,
+      30
+     ],
+     "instructions": [
+      "Complete the form below.",
+      "Write **NO MORE THAN THREE WORDS AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Feedback Form"
+      },
+      {
+       "t": "p",
+       "text": "Course: *Communication in Business*"
+      },
+      {
+       "t": "p",
+       "text": "Course code: *CB162*"
+      },
+      {
+       "t": "p",
+       "text": "Dates: *From* {{21}} *to* {{22}}"
+      },
+      {
+       "t": "p",
+       "text": "Please give your comments on the following aspects of the course:"
+      },
+      {
+       "t": "table",
+       "header": 1,
+       "rows": [
+        [
+         "",
+         "Good Points",
+         "Suggestions for Improvement"
+        ],
+        [
+         "Course organisation",
+         "• {{23}}\n• *useful to have* {{24}} *at beginning of course*",
+         "• *too much work in* {{25}} *of the course – could be more evenly balanced*"
+        ],
+        [
+         "Course delivery",
+         "• *good* {{26}}",
+         "• *some* {{27}} *sessions went on too long*"
+        ],
+        [
+         "Materials and equipment",
+         "• *good* {{28}}",
+         "• *not enough copies of key texts available*\n• *need more computers*"
+        ],
+        [
+         "Testing and evaluation",
+         "• *quick feedback from oral presentations*\n• *marking criteria for oral presentations known in advance*",
+         "• *too much* {{29}}\n• *can we know criteria for marking final exams?*"
+        ],
+        [
+         "Other comments",
+         "• *excellent* {{30}}",
+         ""
+        ]
+       ]
+      }
+     ]
+    }
+   ],
+   "transcript": "ANNIE: Oh Ben – I just remembered I never filled in that form for Nick – did you do it?\nBEN: The course feedback form?\nANNIE: Yes. If you want, we can do it together. I've got mine here.\nBEN: Is that OK?\nANNIE: Yeah.\nBEN: OK, let's have a look then. What do we have to do?\nANNIE: Let's fill in the top first, let's see. Course, Course code ...\nBEN: Er, it's Communication in Business.\nANNIE: OK, Communication ... in ... Business, I do know that, but what's the code?\nBEN: CB16 something, CB162, isn't it?\nANNIE: Mmm, that's it, OK and dates, when did we start? I remember, my birthday's on May 4th and it was the day after, it must have been May 5th. [Q21]\nBEN: Gosh, doesn't seem that long ago, does it?\nANNIE: No, and we finish at the end of this week, on Friday, so that's July 15th?\nBEN: Er 16th, Monday was the 12th. [Q22] Right, that was the easy bit, now let's have a look – \"Please give your comments on the following aspects of the course\", OK, what's the first one? Oh, course organisation. What do you think?\nANNIE: Er, clear? It was, wasn't it?\nBEN: Yes, I think the organisation was clear. [Q23] OK, anything else for course organisation?\nANNIE: It was a good thing he gave us the course outline at the beginning, in the first session, [Q24] that was useful, so I'll put that down, shall I? Now, going on to suggestions for improvement, one thing that wasn't so good, I think we could have done a bit more work at the beginning. I mean at the beginning it seemed dead easy.\nBEN: Yeah.\nANNIE: I thought it was going to be really easy and then all of a sudden in the second half of the course [Q25] we got a whole load of work, reading to do and essays and things.\nBEN: Yes, it'd be better if it was more even. OK, now course delivery, does that mean teaching?\nANNIE: Yeah, I suppose so. Well, what I thought was really good on this course was the standard of teaching. [Q26] Actually – I mean some of the teachers were better than others – but the standard generally was fine. Much better than other courses I've been on.\nBEN: Yeah, I agree. Let's put that then. What about suggestions for improvement?\nANNIE: I ... I didn't think it was all that wonderful when we had great long group discussion sessions [Q27] that went on for hours and hours. I don't mean we shouldn't have group discussions, just that they shouldn't go on too long.\nANNIE: Now, on to materials and equipment.\nBEN: Oh, now what was good about some sessions was the handouts. [Q28]\nANNIE: Yes, I thought all the handouts were good actually, and some were great, with website addresses and everything.\nBEN: One problem though with materials was the key texts.\nANNIE: Yes! There just weren't enough copies on reserve in the library. And if you can't get the key texts before the session, how are you supposed to do the reading? And not enough computers. You have to wait ages to get one.\nBEN: OK, testing and evaluation – well, I don't know, it's hard to say until we've got our written assignments back.\nANNIE: Don't talk about it, I only got mine in yesterday, it was a real struggle. I hate to think what mark I'll get.\nBEN: Yes, but at least we've done the oral presentation – I thought that was good, the way I got my feedback really quickly.\nANNIE: Yes, it was. And I liked the way we knew what we'd be evaluated on, we knew the criteria, so we knew we had to think about clarity, organisation, and so on.\nBEN: Yeah, but I'm not so sure about the written work. [Q29] One thing I think is that there's just too much, it's really stressful.\nANNIE: Yes, I'd agree and I don't see why they can't let us know the criteria they use for marking.\nBEN: The written assignments? But he told us.\nANNIE: No, for the final exams. What are they looking for – what are the criteria? What makes a pass or a fail?\nBEN: Yeah, I never thought of that. It'd be really useful.\nANNIE: OK, any other comments?\nBEN: I thought student support was excellent. [Q30]\nANNIE: Yeah, me too. OK, excellent. Other comments?\nBEN: No, I can't think of anything else.\nANNIE: Nor me. OK, so that's done. Thanks, Ben.\nBEN: No, thank you."
+  },
+  {
+   "part": 4,
+   "range": [
+    31,
+    40
+   ],
+   "pages": [
+    61,
+    62
+   ],
+   "groups": [
+    {
+     "id": "L4-1",
+     "type": "completion",
+     "range": [
+      31,
+      35
+     ],
+     "instructions": [
+      "Complete the sentences below.",
+      "Write **NO MORE THAN TWO WORDS AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "HOUSEHOLD WASTE RECYCLING"
+      },
+      {
+       "t": "p",
+       "text": "By 2008, carbon dioxide emissions need to be {{31}} lower than in 1990."
+      },
+      {
+       "t": "p",
+       "text": "Recycling saves energy and reduces emissions from landfill sites and {{32}} ."
+      },
+      {
+       "t": "p",
+       "text": "People say that one problem is a lack of '{{33}}' sites for household waste."
+      },
+      {
+       "t": "li",
+       "text": "At the 'bring banks', household waste is sorted and unsuitable items removed."
+      },
+      {
+       "t": "p",
+       "text": "Glass designed to be utilised for {{34}} cannot be recycled with other types of glass."
+      },
+      {
+       "t": "p",
+       "text": "In the UK, {{35}} tons of glass is recycled each year."
+      }
+     ]
+    },
+    {
+     "id": "L4-2",
+     "type": "completion",
+     "range": [
+      36,
+      40
+     ],
+     "instructions": [
+      "Complete the table below.",
+      "Write **NO MORE THAN TWO WORDS** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Companies working with recycled materials"
+      },
+      {
+       "t": "table",
+       "header": 1,
+       "rows": [
+        [
+         "Material",
+         "Company",
+         "Product that the company manufactures"
+        ],
+        [
+         "glass",
+         "CLF Aggregates",
+         "*material used for making* {{36}}"
+        ],
+        [
+         "paper",
+         "Martin's",
+         "*office stationery*"
+        ],
+        [
+         "",
+         "Papersave",
+         "{{37}} *for use on farms*"
+        ],
+        [
+         "plastic",
+         "Pacrite",
+         "{{38}} *for collecting waste*"
+        ],
+        [
+         "",
+         "Waterford",
+         "{{39}}"
+        ],
+        [
+         "",
+         "Johnson & Jones",
+         "{{40}}"
+        ]
+       ]
+      }
+     ]
+    }
+   ],
+   "transcript": "STUDENT: Well, my group has been doing a project on how household waste is recycled in Britain.\nWe were quite shocked to discover that only 9% of people here in the UK make an effort to recycle their household waste. This is a lower figure than in most other European countries, and needs to increase dramatically in the next few years if the government is going to meet its recycling targets.\nThe agreed targets for the UK mean that by 2008 we must reduce our carbon dioxide emissions by 12.5%, compared with 1990. [Q31] And recycling can help to achieve that goal, in two main ways: the production of recycled glass and paper uses much less energy than producing them from virgin materials, and also recycling reduces greenhouse gas emissions from landfill sites and incineration plants. [Q32]\nAs part of our project, we carried out a survey of people in the street, and the thing that came up over and over again is that people don't think it's easy enough to recycle their waste. One problem is that there aren't enough 'drop-off' sites, that is, the places where the public are supposed to take their waste. [Q33]\nWe also discovered that waste that's collected from householders is taken to places called 'bring banks', for sorting and baling into loads. One problem here is taking out everything that shouldn't have been placed in the recycling containers: people put all sorts of things into bottle banks, like plastic bags and even broken umbrellas. All this has to be removed by hand. Another difficulty is that toughened glass used for cooking doesn't fully melt at the temperature required for other glass, and so that also has to be picked out by hand. [Q34]\nGlass is easy to recycle because it can be reused over and over again without becoming weaker. Two million tons of glass is thrown away each year, that is, seven billion bottles and jars; but only 500,000 tons of that is collected and recycled. [Q35]\nOddly enough, half the glass that's collected is green, and a lot of that is imported, so more green glass is recycled than the UK needs. As a result, new uses are being developed for recycled glass, particularly green glass, for example in fibreglass manufacture and water filtration. A company called CLF Aggregates makes a product for roads, and 30% of the material is crushed glass. [Q36]\nFor recycling paper, Britain comes second in Europe with 40%, behind Germany's amazing 70%.\nWhen recycling started, there were quality problems, so it was difficult to use recycled paper in office printers. But these problems have now been solved, and Martin's, based in South London, produces a range of office stationery which is 100% recycled, costs the same as normal paper and is of equally high quality.\nBut this high quality comes at a cost in terms of the waste produced during the process. Over a third of the waste paper that comes in can't be used in the recycled paper, leaving the question of what to do with it. One firm, Papersave, currently sells this to farmers as a soil conditioner, [Q37] though this practice will soon be banned because of transport costs and the smell, and the company is looking into the possibility of alternative uses.\nPlastic causes problems, because there are so many different types of plastic in use today, and each one has to be dealt with differently. Pacrite recycles all sorts of things, from bottles to car bumpers, and one of its most successful activities is recycling plastic bottles to make containers which are used all over the country to collect waste. [Q38]\nThe Save-a-Cup scheme was set up by the vending and plastics industries to recycle as many as possible of the three-and-a-half billion polystyrene cups used each year. At the moment 500 million polycups are collected, processed and sold on to other businesses, such as Waterford, which turns the cups into pencils, [Q39] and Johnson & Jones, a Welsh-based firm, which has developed a wide variety of items, including business cards. [Q40]\nWell, to sum up, there seems to be plenty of research going on into how to re-use materials, but the biggest problem is getting people to think about recycling instead of throwing things away. At least doing the research made us much more careful."
+  }
+ ],
+ "answers": {
+  "1": {
+   "a": [
+    "1.4 litres",
+    "1.4 liters"
+   ],
+   "k": "1.4 litres / 1.4 liters"
+  },
+  "2": {
+   "a": [
+    "automatic"
+   ]
+  },
+  "3": {
+   "a": [
+    "light",
+    "sky"
+   ],
+   "k": "light / sky"
+  },
+  "4": {
+   "a": [
+    "credit"
+   ]
+  },
+  "5": {
+   "a": [
+    "Harries"
+   ]
+  },
+  "6": {
+   "a": [
+    "Dr",
+    "Doctor"
+   ],
+   "k": "Dr / Doctor"
+  },
+  "7": {
+   "a": [
+    "Alton"
+   ]
+  },
+  "8": {
+   "a": [
+    "messages"
+   ]
+  },
+  "9": {
+   "a": [
+    "Lion"
+   ]
+  },
+  "10": {
+   "a": [
+    "reasonable"
+   ]
+  },
+  "11": {
+   "a": [
+    "C"
+   ]
+  },
+  "12": {
+   "a": [
+    "E"
+   ]
+  },
+  "13": {
+   "a": [
+    "references"
+   ]
+  },
+  "14": {
+   "a": [
+    "country"
+   ]
+  },
+  "15": {
+   "a": [
+    "weather"
+   ]
+  },
+  "16": {
+   "a": [
+    "C"
+   ]
+  },
+  "17": {
+   "a": [
+    "C"
+   ]
+  },
+  "18": {
+   "a": [
+    "A"
+   ]
+  },
+  "19": {
+   "a": [
+    "B"
+   ]
+  },
+  "20": {
+   "a": [
+    "C"
+   ]
+  },
+  "21": {
+   "a": [
+    "5th May"
+   ]
+  },
+  "22": {
+   "a": [
+    "16th July",
+    "Friday 16th July"
+   ],
+   "k": "16th July / Friday 16th July"
+  },
+  "23": {
+   "a": [
+    "clear",
+    "was clear"
+   ],
+   "k": "clear / was clear"
+  },
+  "24": {
+   "a": [
+    "outline",
+    "an outline",
+    "the outline",
+    "course outline",
+    "a course outline",
+    "the course outline"
+   ],
+   "k": "(an/the) outline / (a/the) course outline"
+  },
+  "25": {
+   "a": [
+    "2nd half",
+    "the 2nd half"
+   ],
+   "k": "(the) 2nd half"
+  },
+  "26": {
+   "a": [
+    "teaching",
+    "standard of teaching",
+    "teachers",
+    "standard of teachers"
+   ],
+   "k": "(standard of) teaching / (standard of) teachers"
+  },
+  "27": {
+   "a": [
+    "discussion",
+    "group discussion"
+   ],
+   "k": "discussion / group discussion"
+  },
+  "28": {
+   "a": [
+    "handouts"
+   ]
+  },
+  "29": {
+   "a": [
+    "written work"
+   ]
+  },
+  "30": {
+   "a": [
+    "student support",
+    "support for students"
+   ],
+   "k": "student support / support for students"
+  },
+  "31": {
+   "a": [
+    "12.5%",
+    "12.5 %"
+   ],
+   "k": "12.5 %"
+  },
+  "32": {
+   "a": [
+    "incineration plants"
+   ]
+  },
+  "33": {
+   "a": [
+    "drop-off"
+   ]
+  },
+  "34": {
+   "a": [
+    "cooking"
+   ]
+  },
+  "35": {
+   "a": [
+    "500,000",
+    "500000"
+   ],
+   "k": "500,000"
+  },
+  "36": {
+   "a": [
+    "roads"
+   ]
+  },
+  "37": {
+   "a": [
+    "soil conditioner"
+   ]
+  },
+  "38": {
+   "a": [
+    "containers"
+   ]
+  },
+  "39": {
+   "a": [
+    "pencils"
+   ]
+  },
+  "40": {
+   "a": [
+    "business cards"
+   ]
+  }
+ }
+}

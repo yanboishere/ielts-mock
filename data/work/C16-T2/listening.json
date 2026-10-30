@@ -1,0 +1,748 @@
+{
+ "parts": [
+  {
+   "part": 1,
+   "range": [
+    1,
+    10
+   ],
+   "pages": [
+    34
+   ],
+   "groups": [
+    {
+     "id": "L1-1",
+     "type": "completion",
+     "range": [
+      1,
+      10
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **ONE WORD AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Copying photos to digital format"
+      },
+      {
+       "t": "sub",
+       "text": "Name of company: Picturerep"
+      },
+      {
+       "t": "sub",
+       "text": "Requirements"
+      },
+      {
+       "t": "li",
+       "text": "Maximum size of photos is 30 cm, minimum size 4 cm."
+      },
+      {
+       "t": "li",
+       "text": "Photos must not be in a {{1}} or an album."
+      },
+      {
+       "t": "sub",
+       "text": "Cost"
+      },
+      {
+       "t": "li",
+       "text": "The cost for 360 photos is £{{2}} (including one disk)."
+      },
+      {
+       "t": "li",
+       "text": "Before the completed order is sent, {{3}} is required."
+      },
+      {
+       "t": "sub",
+       "text": "Services included in the price"
+      },
+      {
+       "t": "li",
+       "text": "Photos can be placed in a folder, e.g. with the name {{4}}."
+      },
+      {
+       "t": "li",
+       "text": "The {{5}} and contrast can be improved if necessary."
+      },
+      {
+       "t": "li",
+       "text": "Photos which are very fragile will be scanned by {{6}}."
+      },
+      {
+       "t": "sub",
+       "text": "Special restore service (costs extra)"
+      },
+      {
+       "t": "li",
+       "text": "It may be possible to remove an object from a photo, or change the {{7}}."
+      },
+      {
+       "t": "li",
+       "text": "A photo which is not correctly in {{8}} cannot be fixed."
+      },
+      {
+       "t": "sub",
+       "text": "Other information"
+      },
+      {
+       "t": "li",
+       "text": "Orders are completed within {{9}}."
+      },
+      {
+       "t": "li",
+       "text": "Send the photos in a box (not {{10}})."
+      }
+     ]
+    }
+   ],
+   "transcript": "EMPLOYEE: Hello, Picturerep. Can I help you?\nWOMAN: Oh, hi. I saw your advertisement about copying pictures to disk and I'd like a bit more information about what you do.\nEMPLOYEE: Sure. What would you like to know?\nWOMAN: Well, I've got a box full of old family photos that's been up in the attic for years, some of them must be 50 or 60 years old, and I'd like to get them converted to digital format.\nEMPLOYEE: Sure, we can do that for you.\nWOMAN: Right. And what about size? The photos are all sorts of sizes – are there any restrictions?\nEMPLOYEE: Well the maximum size of photo we can do with our normal service is 30 centimetres. And each picture must be at least 4 centimetres, that's the minimum we can cope with.\nWOMAN: That should be fine. And some of them are in a frame – should I take them out [Q1] before I send them?\nEMPLOYEE: Yes please, we can't copy them otherwise. And also the photos must all be separate, they mustn't be stuck into an album.\nWOMAN: OK, that's not a problem. So can you give me an idea of how much this will cost? I've got about 360 photos I think.\nEMPLOYEE: We charge £195 for 300 to 400 photos for the basic service. [Q2]\nWOMAN: OK. And does that include the disk?\nEMPLOYEE: Yes, one disk – but you can get extra ones for £5 each.\nWOMAN: That's good. So do I need to pay when I send you the photos?\nEMPLOYEE: No, we won't need anything until we've actually copied the pictures. Then we'll let you know how much it is, and once we've received the payment, we'll send the [Q3] parcel off to you.\nWOMAN: Right.\nEMPLOYEE: Is there anything else you'd like to ask about our services?\nWOMAN: Yes. I've roughly sorted out the photos into groups, according to what they're about – so can you keep them in those groups when you copy them?\nEMPLOYEE: Sure. We'll save each group in a different folder on the disk and if you like, you can suggest a name for each folder.\nWOMAN: So I could have one called 'Grandparents' for instance? [Q4]\nEMPLOYEE: Exactly.\nWOMAN: And do you do anything besides scan the photos? Like, can you make any improvements?\nEMPLOYEE: Yes, in the standard service each photo is checked, and we can sometimes touch [Q5] up the colour a bit, or improve the contrast – that can make a big difference.\nWOMAN: OK. And some of the photos are actually quite fragile – they won't get damaged in the process, will they?\nEMPLOYEE: No, if any look particularly fragile, we'd do them by hand. We do realise how [Q6] precious these old photos can be.\nWOMAN: Sure.\nEMPLOYEE: And another thing is we can make changes to a photo if you want – so if you want to remove an object from a photo, or maybe alter the background, we can do that. [Q7]\nWOMAN: Really? I might be interested in that. I'll have a look through the photos and see. Oh, and talking of fixing photos – I've got a few that aren't properly in focus. Can [Q8] you do anything to make that better?\nEMPLOYEE: No, I'm afraid that's one thing we can't do.\nWOMAN: OK.\nEMPLOYEE: Any other information I can give you?\nWOMAN: Er ... oh, how long will it all take?\nEMPLOYEE: We aim to get the copying done in ten days. [Q9]\nWOMAN: Fine. Right, well I'll get the photos packed up in a box and post them off to you.\nEMPLOYEE: Right. If you've got a strong cardboard box, that's best. We've found that plastic ones sometimes break in the post. [Q10]\nWOMAN: OK. Right, thanks for your help. Bye.\nEMPLOYEE: Bye."
+  },
+  {
+   "part": 2,
+   "range": [
+    11,
+    20
+   ],
+   "pages": [
+    35,
+    36
+   ],
+   "groups": [
+    {
+     "id": "L2-1",
+     "type": "choice",
+     "range": [
+      11,
+      15
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "questions": [
+      {
+       "n": 11,
+       "text": "Dartfield House school used to be",
+       "options": [
+        {
+         "key": "A",
+         "text": "a tourist information centre."
+        },
+        {
+         "key": "B",
+         "text": "a private home."
+        },
+        {
+         "key": "C",
+         "text": "a local council building."
+        }
+       ]
+      },
+      {
+       "n": 12,
+       "text": "What is planned with regard to the lower school?",
+       "options": [
+        {
+         "key": "A",
+         "text": "All buildings on the main site will be improved."
+        },
+        {
+         "key": "B",
+         "text": "The lower school site will be used for new homes."
+        },
+        {
+         "key": "C",
+         "text": "Additional school buildings will be constructed on the lower school site."
+        }
+       ]
+      },
+      {
+       "n": 13,
+       "text": "The catering has been changed because of",
+       "options": [
+        {
+         "key": "A",
+         "text": "long queuing times."
+        },
+        {
+         "key": "B",
+         "text": "changes to the school timetable."
+        },
+        {
+         "key": "C",
+         "text": "dissatisfaction with the menus."
+        }
+       ]
+      },
+      {
+       "n": 14,
+       "text": "Parents are asked to",
+       "options": [
+        {
+         "key": "A",
+         "text": "help their children to decide in advance which serving point to use."
+        },
+        {
+         "key": "B",
+         "text": "make sure their children have enough money for food."
+        },
+        {
+         "key": "C",
+         "text": "advise their children on healthy food to eat."
+        }
+       ]
+      },
+      {
+       "n": 15,
+       "text": "What does the speaker say about the existing canteen?",
+       "options": [
+        {
+         "key": "A",
+         "text": "Food will still be served there."
+        },
+        {
+         "key": "B",
+         "text": "Only staff will have access to it."
+        },
+        {
+         "key": "C",
+         "text": "Pupils can take their food into it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L2-2",
+     "type": "matching",
+     "range": [
+      16,
+      18
+     ],
+     "instructions": [
+      "What comment does the speaker make about each of the following serving points in the Food Hall?",
+      "Choose **THREE** answers from the box and write the correct letter, **A–D**, next to Questions 16–18."
+     ],
+     "optionsTitle": "Comments",
+     "options": [
+      {
+       "key": "A",
+       "text": "pupils help to plan menus"
+      },
+      {
+       "key": "B",
+       "text": "only vegetarian food"
+      },
+      {
+       "key": "C",
+       "text": "different food every week"
+      },
+      {
+       "key": "D",
+       "text": "daily change in menu"
+      }
+     ],
+     "title": "Food available at serving points in Food Hall",
+     "questions": [
+      {
+       "n": 16,
+       "text": "World Adventures"
+      },
+      {
+       "n": 17,
+       "text": "Street Life"
+      },
+      {
+       "n": 18,
+       "text": "Speedy Italian"
+      }
+     ]
+    },
+    {
+     "id": "L2-3",
+     "type": "multi",
+     "range": [
+      19,
+      20
+     ],
+     "n": [
+      19,
+      20
+     ],
+     "select": 2,
+     "instructions": [
+      "Choose **TWO** letters, **A–E**."
+     ],
+     "text": "Which **TWO** optional after-school lessons are new?",
+     "options": [
+      {
+       "key": "A",
+       "text": "swimming"
+      },
+      {
+       "key": "B",
+       "text": "piano"
+      },
+      {
+       "key": "C",
+       "text": "acting"
+      },
+      {
+       "key": "D",
+       "text": "cycling"
+      },
+      {
+       "key": "E",
+       "text": "theatre sound and lighting"
+      }
+     ]
+    }
+   ],
+   "transcript": "Good morning and thank you for coming here today. I'd like to bring you up to date with changes in the school that will affect your children.\nAs you know, the school buildings date from various times: some from the 1970s, some from the last five years, and of course Dartfield House is over a century old. It was commissioned by a businessman, Neville Richards, and intended as his family home, but he died before it was completed. His heir chose to sell it to the local council, who turned it into offices. A later [Q11] plan to convert it into a tourist information centre didn't come about, through lack of money, and instead it formed the nucleus of this school when it opened 40 years ago.\nThe school has grown as the local population has increased, and I can now give you some news about the lower school site, which is separated from the main site by a road. Planning permission has been granted for development of both sites. The lower school will move to new buildings that will be constructed on the main site. Developers will construct houses on [Q12] the existing lower school site. Work on the new school buildings should start within the next few months.\nA more imminent change concerns the catering facilities and the canteen. The canteen is always very busy throughout the lunch period – in fact it's often full to capacity, because a lot of our pupils like the food that's on offer there. But there's only one serving point, so most [Q13] pupils have to wait a considerable time to be served. This is obviously unsatisfactory, as they may have hardly finished their lunch before afternoon lessons start.\nSo we've had a new Food Hall built, and this will come into use next week. It'll have several serving areas, and I'll give you more details about those in a minute, but one thing we ask you to do, to help in the smooth running of the Food Hall, is to discuss with your children [Q14] each morning which type of food they want to eat that day, so they can go straight to the relevant serving point. There won't be any junk food – everything on offer will be healthy – and there's no change to the current system of paying for lunches by topping up your child's electronic payment card online.\nYou may be wondering what will happen to the old canteen. We'll still have tables and chairs [Q15] in there, and pupils can eat food from the Food Hall or lunch they've brought from home. Eventually we may use part of the canteen for storage, but first we'll see how many pupils go in there at lunchtime.\nOK, back to the serving points in the Food Hall, which will all have side dishes, desserts and drinks on sale, as well as main courses.\nOne serving point we call World Adventures. This will serve a different country's cuisine each [Q16] day, maybe Chinese one day and Lebanese the next. The menus will be planned for a week at a time, so pupils will know what's going to be available the whole of that week.\nStreet Life is also international, with food from three particular cultures. We'll ask pupils [Q17] to make suggestions, so perhaps sometimes there'll be food from Thailand, Ethiopia and Mexico, and then one of them will be replaced by Jamaican food for a week or two.\nThe Speedy Italian serving point will cater particularly for the many pupils who don't eat meat [Q18] or fish: they can be sure that all the food served there is suitable for them. There'll be plenty of variety, so they shouldn't get bored with the food.\nOK, that's all on the new Food Hall. Now after-school lessons. These are very popular with pupils, particularly swimming – in fact there's a waiting list for lessons. Cycling is another favourite, and I'm delighted that dozens of pupils make use of the chance to learn to ride in off-road conditions. It means that more and more cycle to and from school every day. As you know, we have a well-equipped performance centre, and we're going to start drama classes [Q19/Q20] in there, too. Pupils will be able to join in just for fun or work up to taking part in a play – we hope to put on at least one a year. We already teach a number of pupils to use the sound and lighting systems in the centre. And a former pupil has given a magnificent grand piano to the school, so a few pupils will be able to learn at the school instead of going to the local college, [Q19/Q20] as many of them do at the moment."
+  },
+  {
+   "part": 3,
+   "range": [
+    21,
+    30
+   ],
+   "pages": [
+    37,
+    38
+   ],
+   "groups": [
+    {
+     "id": "L3-1",
+     "type": "choice",
+     "range": [
+      21,
+      24
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "title": "Assignment on sleep and dreams",
+     "questions": [
+      {
+       "n": 21,
+       "text": "Luke read that one reason why we often forget dreams is that",
+       "options": [
+        {
+         "key": "A",
+         "text": "our memories cannot cope with too much information."
+        },
+        {
+         "key": "B",
+         "text": "we might otherwise be confused about what is real."
+        },
+        {
+         "key": "C",
+         "text": "we do not think they are important."
+        }
+       ]
+      },
+      {
+       "n": 22,
+       "text": "What do Luke and Susie agree about dreams predicting the future?",
+       "options": [
+        {
+         "key": "A",
+         "text": "It may just be due to chance."
+        },
+        {
+         "key": "B",
+         "text": "It only happens with certain types of event."
+        },
+        {
+         "key": "C",
+         "text": "It happens more often than some people think."
+        }
+       ]
+      },
+      {
+       "n": 23,
+       "text": "Susie says that a study on pre-school children having a short nap in the day",
+       "options": [
+        {
+         "key": "A",
+         "text": "had controversial results."
+        },
+        {
+         "key": "B",
+         "text": "used faulty research methodology."
+        },
+        {
+         "key": "C",
+         "text": "failed to reach any clear conclusions."
+        }
+       ]
+      },
+      {
+       "n": 24,
+       "text": "In their last assignment, both students had problems with",
+       "options": [
+        {
+         "key": "A",
+         "text": "statistical analysis."
+        },
+        {
+         "key": "B",
+         "text": "making an action plan."
+        },
+        {
+         "key": "C",
+         "text": "self-assessment."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L3-2",
+     "type": "completion",
+     "range": [
+      25,
+      30
+     ],
+     "instructions": [
+      "Complete the flow chart below.",
+      "Write **ONE WORD ONLY** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Assignment plan"
+      },
+      {
+       "t": "flow",
+       "steps": [
+        "Decide on research question:\nIs there a relationship between hours of sleep and number of dreams?",
+        "Decide on sample:\nTwelve students from the {{25}} department",
+        "Decide on methodology:\nSelf-reporting",
+        "Decide on procedure:\nAnswers on {{26}}",
+        "Check ethical guidelines for working with {{27}}\nEnsure that risk is assessed and {{28}} is kept to a minimum",
+        "Analyse the results\nCalculate the correlation and make a {{29}}",
+        "{{30}} the research"
+       ]
+      }
+     ]
+    }
+   ],
+   "transcript": "SUSIE: So Luke, for our next psychology assignment we have to do something on sleep and dreams.\nLUKE: Right. I've just read an article suggesting why we tend to forget most of our dreams soon after we wake up. I mean, most of my dreams aren't that interesting anyway, but what it said was that if we remembered everything, we might get [Q21] mixed up about what actually happened and what we dreamed. So it's a sort of protection. I hadn't heard that idea before. I'd always assumed that it was just that we didn't have room in our memories for all that stuff.\nSUSIE: Me too. What do you think about the idea that our dreams may predict the future?\nLUKE: It's a belief that you get all over the world.\nSUSIE: Yeah, lots of people have a story of it happening to them, but the explanation I've read is that for each dream that comes true, we have thousands that don't, [Q22] but we don't notice those, we don't even remember them. We just remember the ones where something in the real world, like a view or an action, happens to trigger a dream memory.\nLUKE: Right. So it's just a coincidence really. Something else I read about is what they call segmented sleeping. That's a theory that hundreds of years ago, people used to get up in the middle of the night and have a chat or something to eat, then go back to bed. So I tried it myself.\nSUSIE: Why?\nLUKE: Well it's meant to make you more creative. I don't know why. But I gave it up after a week. It just didn't fit in with my lifestyle.\nSUSIE: But most pre-school children have a short sleep in the day don't they? There was an experiment some students did here last term to see at what age kids should stop having naps. But they didn't really find an answer. They spent a lot of time [Q23] working out the most appropriate methodology, but the results didn't seem to show any obvious patterns.\nLUKE: Right. Anyway, let's think about our assignment. Last time I had problems with [Q24] the final stage, where we had to describe and justify how successful we thought we'd been. I struggled a bit with the action plan too.\nSUSIE: I was OK with the planning, but I got marked down for the self-assessment as well. And I had big problems with the statistical stuff, that's where I really lost marks.\nLUKE: Right.\nSUSIE: So shall we plan what we have to do for this assignment?\nLUKE: OK.\nSUSIE: First, we have to decide on our research question. So how about 'Is there a relationship between hours of sleep and number of dreams?'\nLUKE: OK. Then we need to think about who we'll do the study on. About 12 people?\nSUSIE: Right. And shall we use other psychology students?\nLUKE: Let's use people from a different department. What about history? [Q25]\nSUSIE: Yes, they might have interesting dreams! Or literature students?\nLUKE: I don't really know any.\nSUSIE: OK, forget that idea. Then we have to think about our methodology. So we could use observation, but that doesn't seem appropriate.\nLUKE: No. It needs to be self-reporting I think. And we could ask them to answer questions online.\nSUSIE: But in this case, paper might be better as they'll be doing it straight after they [Q26] wake up ... in fact while they're still half-asleep.\nLUKE: Right. And we'll have to check the ethical guidelines for this sort of research. [Q27]\nSUSIE: Mm, because our experiment involves humans, so there are special regulations.\nLUKE: Yes, I had a look at those for another assignment I did. There's a whole section on risk assessment, and another section on making sure they aren't put under [Q28] any unnecessary stress.\nSUSIE: Let's hope they don't have any bad dreams!\nLUKE: Yeah.\nSUSIE: Then when we've collected all our data we have to analyse it and calculate the correlation between our two variables, that's time sleeping and number of dreams and then present our results visually in a graph. [Q29]\nLUKE: Right. And the final thing is to think about our research and evaluate it. So that [Q30] seems quite straightforward.\nSUSIE: Yeah. So now let's ..."
+  },
+  {
+   "part": 4,
+   "range": [
+    31,
+    40
+   ],
+   "pages": [
+    39
+   ],
+   "groups": [
+    {
+     "id": "L4-1",
+     "type": "completion",
+     "range": [
+      31,
+      40
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **ONE WORD ONLY** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Health benefits of dance"
+      },
+      {
+       "t": "sub",
+       "text": "Recent findings:"
+      },
+      {
+       "t": "li",
+       "text": "All forms of dance produce various hormones associated with feelings of happiness."
+      },
+      {
+       "t": "li",
+       "text": "Dancing with others has a more positive impact than dancing alone."
+      },
+      {
+       "t": "li",
+       "text": "An experiment on university students suggested that dance increases {{31}}."
+      },
+      {
+       "t": "li",
+       "text": "For those with mental illness, dance could be used as a form of {{32}}."
+      },
+      {
+       "t": "sub",
+       "text": "Benefits of dance for older people:"
+      },
+      {
+       "t": "li",
+       "text": "accessible for people with low levels of {{33}}"
+      },
+      {
+       "t": "li",
+       "text": "reduces the risk of heart disease"
+      },
+      {
+       "t": "li",
+       "text": "better {{34}} reduces the risk of accidents"
+      },
+      {
+       "t": "li",
+       "text": "improves {{35}} function by making it work faster"
+      },
+      {
+       "t": "li",
+       "text": "improves participants' general well-being"
+      },
+      {
+       "t": "li",
+       "text": "gives people more {{36}} to take exercise"
+      },
+      {
+       "t": "li",
+       "text": "can lessen the feeling of {{37}}, very common in older people"
+      },
+      {
+       "t": "sub",
+       "text": "Benefits of Zumba:"
+      },
+      {
+       "t": "li",
+       "text": "A study at The University of Wisconsin showed that doing Zumba for 40 minutes uses up as many {{38}} as other quite intense forms of exercise."
+      },
+      {
+       "t": "li",
+       "text": "The *American Journal of Health Behavior* study showed that:"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "– women suffering from {{39}} benefited from doing Zumba."
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "– Zumba became a {{40}} for the participants."
+      }
+     ]
+    }
+   ],
+   "transcript": "Dancing is something that humans do when they want to have a good time. It's a universal response to music, found in all cultures. But what's only been discovered recently is that dancing not only makes us feel good, it's also extremely good for our health.\nDancing, like other forms of exercise, releases hormones, such as dopamine, which make us feel relaxed and happy. And it also reduces feelings of stress or anxiety.\nDancing is also a sociable activity, which is another reason it makes us feel good.\nOne study compared people's enjoyment of dancing at home in front of a video with dancing in a group in a studio.\nThe people dancing in a group reported feeling happier, whereas those dancing alone did not.\nIn another experiment, university researchers at York and Sheffield took a group of students and sent each of them into a lab where music was played for five minutes. Each had to choose from three options: to sit and listen quietly to the music, to cycle on an exercise bike while they listened, or to get up and dance. All were given cognitive tasks to perform before and after. The result showed that those who chose to dance showed much more creativity [Q31] when doing problem-solving tasks.\nDoctor Lovatt at the University of Hertfordshire believes dance could be a very useful way to help people suffering from mental health problems. He thinks dance should be prescribed as [Q32] therapy to help people overcome issues such as depression.\nIt's well established that dance is a good way of encouraging adolescent girls to take exercise but what about older people? Studies have shown that there are enormous benefits for people in their sixties and beyond. One of the great things about dance is that there are no barriers to participation. Anyone can have a go, even those whose standard of fitness is [Q33] quite low.\nDance can be especially beneficial for older adults who can't run or do more intense workouts, or for those who don't want to. One 2015 study found that even a gentle dance workout helps to promote a healthy heart. And there's plenty of evidence which suggests that dancing lowers the risk of falls, which could result in a broken hip, for example, by helping people to improve their balance. [Q34]\nThere are some less obvious benefits of dance for older people too. One thing I hadn't realised before researching this topic was that dance isn't just a physical challenge. It also requires a lot of concentration because you need to remember different steps and routines. For older people, this kind of activity is especially important because it forces their brain to [Q35] process things more quickly and to retain more information.\nCurrent research also shows that dance promotes a general sense of well-being in older participants, which can last up to a week after a class. Participants report feeling less tired and having greater motivation to be more active and do daily activities such as gardening or [Q36] walking to the shops or a park.\nBallroom or country dancing, both popular with older people, have to be done in groups. They require collaboration and often involve touching a dance partner, all of which encourages interaction on the dance floor. This helps to develop new relationships and can reduce older [Q37] people's sense of isolation, which is a huge problem in many countries.\nI also looked at the benefits of Zumba. Fifteen million people in 180 countries now regularly take a Zumba class, an aerobic workout based on Latin American dance moves. John Porcari, a professor of exercise and sport science at the University of Wisconsin, analysed a group of women who were Zumba regulars and found that a class lasting 40 minutes burns [Q38] about 370 calories. This is similar to moderately intense exercises like step aerobics or kickboxing.\nA study in the American Journal of Health Behavior showed that when women with obesity [Q39] did Zumba three times a week for 16 weeks, they lost an average of 1.2 kilos and lowered their percentage of body fat by 1%. More importantly, the women enjoyed the class so much that they made it a habit and continued to attend classes at least once a week – very unusual [Q40] for an aerobic exercise programme.\nDance is never going to compete with high-intensity workouts when it comes to physical fitness gains, but its popularity is likely to keep on rising because it's such a fun way to keep fit."
+  }
+ ],
+ "answers": {
+  "1": {
+   "a": [
+    "frame"
+   ]
+  },
+  "2": {
+   "a": [
+    "195"
+   ]
+  },
+  "3": {
+   "a": [
+    "payment"
+   ]
+  },
+  "4": {
+   "a": [
+    "Grandparents"
+   ]
+  },
+  "5": {
+   "a": [
+    "colour",
+    "color"
+   ],
+   "k": "colour / color"
+  },
+  "6": {
+   "a": [
+    "hand"
+   ]
+  },
+  "7": {
+   "a": [
+    "background"
+   ]
+  },
+  "8": {
+   "a": [
+    "focus"
+   ]
+  },
+  "9": {
+   "a": [
+    "ten days",
+    "10 days"
+   ],
+   "k": "ten / 10 days"
+  },
+  "10": {
+   "a": [
+    "plastic"
+   ]
+  },
+  "11": {
+   "a": [
+    "C"
+   ]
+  },
+  "12": {
+   "a": [
+    "B"
+   ]
+  },
+  "13": {
+   "a": [
+    "A"
+   ]
+  },
+  "14": {
+   "a": [
+    "A"
+   ]
+  },
+  "15": {
+   "a": [
+    "C"
+   ]
+  },
+  "16": {
+   "a": [
+    "D"
+   ]
+  },
+  "17": {
+   "a": [
+    "A"
+   ]
+  },
+  "18": {
+   "a": [
+    "B"
+   ]
+  },
+  "19": {
+   "a": [
+    "B"
+   ]
+  },
+  "20": {
+   "a": [
+    "C"
+   ]
+  },
+  "21": {
+   "a": [
+    "B"
+   ]
+  },
+  "22": {
+   "a": [
+    "A"
+   ]
+  },
+  "23": {
+   "a": [
+    "C"
+   ]
+  },
+  "24": {
+   "a": [
+    "C"
+   ]
+  },
+  "25": {
+   "a": [
+    "history"
+   ]
+  },
+  "26": {
+   "a": [
+    "paper"
+   ]
+  },
+  "27": {
+   "a": [
+    "humans",
+    "people"
+   ],
+   "k": "humans / people"
+  },
+  "28": {
+   "a": [
+    "stress"
+   ]
+  },
+  "29": {
+   "a": [
+    "graph"
+   ]
+  },
+  "30": {
+   "a": [
+    "evaluate"
+   ]
+  },
+  "31": {
+   "a": [
+    "creativity"
+   ]
+  },
+  "32": {
+   "a": [
+    "therapy"
+   ]
+  },
+  "33": {
+   "a": [
+    "fitness"
+   ]
+  },
+  "34": {
+   "a": [
+    "balance"
+   ]
+  },
+  "35": {
+   "a": [
+    "brain"
+   ]
+  },
+  "36": {
+   "a": [
+    "motivation"
+   ]
+  },
+  "37": {
+   "a": [
+    "isolation"
+   ]
+  },
+  "38": {
+   "a": [
+    "calories"
+   ]
+  },
+  "39": {
+   "a": [
+    "obesity"
+   ]
+  },
+  "40": {
+   "a": [
+    "habit"
+   ]
+  }
+ }
+}

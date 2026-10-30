@@ -1,0 +1,1483 @@
+{
+ "schema": "ielts-mock.exam/1",
+ "id": "C5-T2",
+ "source": {
+  "book": 5,
+  "test": 2
+ },
+ "title": "Cambridge IELTS 5 · Test 2",
+ "listening": {
+  "parts": [
+   {
+    "part": 1,
+    "range": [
+     1,
+     10
+    ],
+    "pages": [
+     33
+    ],
+    "groups": [
+     {
+      "id": "L1-1",
+      "type": "completion",
+      "range": [
+       1,
+       10
+      ],
+      "instructions": [
+       "Complete the notes below.",
+       "Write **NO MORE THAN THREE WORDS AND/OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "LIBRARY INFORMATION"
+       },
+       {
+        "t": "note",
+        "text": "*Example* Minimum joining age: *18 years*"
+       },
+       {
+        "t": "p",
+        "text": "For registration, must take"
+       },
+       {
+        "t": "li",
+        "text": "two {{1}} and"
+       },
+       {
+        "t": "li",
+        "text": "two forms of I.D. e.g. driving licence, {{2}}"
+       },
+       {
+        "t": "p",
+        "text": "Cost to join per year (without current student card): £{{3}}"
+       },
+       {
+        "t": "p",
+        "text": "Number of items allowed: (members of public) {{4}}"
+       },
+       {
+        "t": "p",
+        "text": "Loan times: four weeks"
+       },
+       {
+        "t": "p",
+        "text": "Fines start at £{{5}}"
+       },
+       {
+        "t": "p",
+        "text": "Computers can be booked up to {{6}} hours in advance"
+       },
+       {
+        "t": "p",
+        "text": "Library holds most national papers, all {{7}}, and magazines"
+       },
+       {
+        "t": "p",
+        "text": "Need {{8}} to use photocopier"
+       },
+       {
+        "t": "sub",
+        "text": "Creative Writing class"
+       },
+       {
+        "t": "li",
+        "text": "tutor is John {{9}}"
+       },
+       {
+        "t": "li",
+        "text": "held on {{10}} evenings"
+       }
+      ]
+     }
+    ],
+    "transcript": "LIBRARIAN: Good morning, North College Library. How can I help you?\nMAN: I was wondering if it was possible to join the library.\nLIBRARIAN: Are you a student at North College?\nMAN: No, I'm not, but someone told me it was possible to join, even if I wasn't.\nLIBRARIAN: That's right, it is. Are you over 18? That's our minimum joining age.\nMAN: Yes, I am.\nLIBRARIAN: That's no problem then.\nMAN: Could you tell me what I have to do to join?\nLIBRARIAN: Well, you'll need to come in to the library and fill out some forms. You'll also need to bring two passport photos with you. [Q1] We also need two documents for ID, so a driving licence would be fine.\nMAN: I've got that and what else? A credit card?\nLIBRARIAN: No, it needs to have your address on it.\nMAN: Shall I bring a bank statement, would that do? [Q2]\nLIBRARIAN: That'll be fine.\nMAN: Good. Does it cost anything to join?\nLIBRARIAN: Well, it's free for students here but otherwise it's £125 per year or £25 if you've got a current student card from another college. [Q3]\nMAN: I was at Westerley College until last year but now I've got a job at Jefferson's steel factory. Er, it's more expensive than I thought. My local library is free.\nLIBRARIAN: But you'll find they don't have the range of reference books or facilities which we buy for our students. That's why you have to pay to be an external member.\nMAN: I see. How many books can I borrow?\nLIBRARIAN: We allow twelve items borrowed at any one time if you're a student, and that includes CDs, DVDs and videos. However, it's only eight items for members of the public. [Q4]\nMAN: Fine. And how long can I have them for?\nLIBRARIAN: Well, you can have both fiction and reference books for four weeks which isn't bad really.\nMAN: And what happens if I return them late?\nLIBRARIAN: Like all libraries there's a fine system in place. The minimum fine is £1.50 [Q5] but it can be much higher for some items – up to £5 per week. We'll give you a booklet with all the details when you join. You can always renew items if they're not required by anyone else by telephoning or logging on to our website.\nMAN: What about the computers? Can I use them free of charge?\nLIBRARIAN: For college students it's free, but for external members like yourself, the first hour is free and then we make a nominal charge of £1 per hour thereafter.\nMAN: Do I have to book in advance for them?\nLIBRARIAN: Oh, yes, it's advisable. Most people tend to book twenty-four hours in advance although sometimes you can get one with only six hours' notice. However, the earliest you can book a computer is forty-eight hours before you need it, [Q6] and you can only book one hour at a time. If no-one else has booked the computer out, then you may be able to have another hour if you want. We have a wide range of databases, so the computers are in great demand.\nMAN: I'm thinking of doing some writing and I might need to access national newspapers. Do you have them on these databases?\nLIBRARIAN: We do indeed. We've got all the big nationals, The Guardian and The Observer, The Independent and The Times and Sunday Times. We've also got all the local papers and a wide selection of magazines. [Q7]\nMAN: Excellent. I assume you have photocopying facilities?\nLIBRARIAN: Of course. 5p a sheet for both A4 and A3 black-and-white copies and 40p a sheet for colour. You can get a card from the counter here – it doesn't take coins. [Q8]\nMAN: OK. Oh by the way, another thing I was wondering about was if you ran any writing classes through the library?\nLIBRARIAN: We do, but you'll have to speak to John Grantingham about that. He's our resident author. He runs the creative writing classes.\nMAN: John . . . Grant . . . . Could you spell that for me please?\nLIBRARIAN: Certainly. G-R-A-N-T-I-N-G-H-A-M. [Q9]\nMAN: Are the classes here at the library?\nLIBRARIAN: Yes – he's here on Thursday evenings, oh no sorry, Friday – he's just changed it. [Q10] You can contact him by emailing the library.\nMAN: Okay. Right, well that's about all I need to know. Thank you. I'll be along later this week to join. Thanks. Bye."
+   },
+   {
+    "part": 2,
+    "range": [
+     11,
+     20
+    ],
+    "pages": [
+     34,
+     35
+    ],
+    "groups": [
+     {
+      "id": "L2-1",
+      "type": "choice",
+      "range": [
+       11,
+       15
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B** or **C**."
+      ],
+      "title": "BICYCLES FOR THE WORLD",
+      "questions": [
+       {
+        "n": 11,
+        "text": "In 1993 Dan Pearman went to Ecuador",
+        "options": [
+         {
+          "key": "A",
+          "text": "as a tourist guide."
+         },
+         {
+          "key": "B",
+          "text": "as part of his studies."
+         },
+         {
+          "key": "C",
+          "text": "as a voluntary worker."
+         }
+        ]
+       },
+       {
+        "n": 12,
+        "text": "Dan's neighbour was successful in business because he",
+        "options": [
+         {
+          "key": "A",
+          "text": "employed carpenters from the area."
+         },
+         {
+          "key": "B",
+          "text": "was the most skilled craftsman in the town."
+         },
+         {
+          "key": "C",
+          "text": "found it easy to reach customers."
+         }
+        ]
+       },
+       {
+        "n": 13,
+        "text": "Dan says the charity relies on",
+        "options": [
+         {
+          "key": "A",
+          "text": "getting enough bicycles to send regularly."
+         },
+         {
+          "key": "B",
+          "text": "finding new areas which need the bicycles."
+         },
+         {
+          "key": "C",
+          "text": "charging for the bicycles it sends abroad."
+         }
+        ]
+       },
+       {
+        "n": 14,
+        "text": "What does Dan say about the town of Rivas?",
+        "options": [
+         {
+          "key": "A",
+          "text": "It has received the greatest number of bikes."
+         },
+         {
+          "key": "B",
+          "text": "It has almost as many bikes as Amsterdam."
+         },
+         {
+          "key": "C",
+          "text": "Its economy has been totally transformed."
+         }
+        ]
+       },
+       {
+        "n": 15,
+        "text": "What problem did the charity face in August 2000?",
+        "options": [
+         {
+          "key": "A",
+          "text": "It couldn't meet its overheads."
+         },
+         {
+          "key": "B",
+          "text": "It had to delay sending the bikes."
+         },
+         {
+          "key": "C",
+          "text": "It was criticised in the British media."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L2-2",
+      "type": "completion",
+      "range": [
+       16,
+       17
+      ],
+      "instructions": [
+       "Answer the questions below.",
+       "Write **NO MORE THAN ONE WORD OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "p",
+        "text": "How much money did the charity receive when it won an award? {{16}}"
+       },
+       {
+        "t": "p",
+        "text": "What is the charity currently hoping to buy? {{17}}"
+       }
+      ]
+     },
+     {
+      "id": "L2-3",
+      "type": "multi",
+      "range": [
+       18,
+       20
+      ],
+      "n": [
+       18,
+       19,
+       20
+      ],
+      "select": 3,
+      "instructions": [
+       "Choose **THREE** letters **A–G**."
+      ],
+      "text": "Which **THREE** things can the general public do to help the charity Pedal Power?",
+      "options": [
+       {
+        "key": "A",
+        "text": "organise a bicycle collection"
+       },
+       {
+        "key": "B",
+        "text": "repair the donated bikes"
+       },
+       {
+        "key": "C",
+        "text": "donate their unwanted tools"
+       },
+       {
+        "key": "D",
+        "text": "do voluntary work in its office"
+       },
+       {
+        "key": "E",
+        "text": "hold an event to raise money"
+       },
+       {
+        "key": "F",
+        "text": "identify areas that need bikes"
+       },
+       {
+        "key": "G",
+        "text": "write to the government"
+       }
+      ]
+     }
+    ],
+    "transcript": "My name's Dan Pearman and I'd like to talk about the work of Pedal Power, a small charity based mainly in the UK. I'll be giving our contact details at the end, if anyone would like to find out more about how to support us.\nBut first, how the charity began. I got the idea of exporting bicycles to developing countries while I was in Ecuador. I went there in 1993 just after graduating from university. After three years of studying, I wanted adventure. I loved travelling, so I decided to join a voluntary organisation and was sent to Ecuador to carry out land surveys. [Q11] The project came to an end after five years and when I returned to the UK in 1998, I started planning Pedal Power.\nWhere I lived in Ecuador was a very rural area. My neighbour had the only bicycle in the village, whereas everyone else walked everywhere. My neighbour's business was unusually successful, and for years I couldn't understand why. Then I realised having a bike meant he could get where he wanted to go without much trouble. [Q12] Other local carpenters could only accept jobs in a three-kilometre radius, so no matter how skilled they were, they could never do as many jobs as my neighbour.\nAt Pedal Power, we collect second-hand bikes in the UK and send them to some of the poorest regions in the world. When we distribute bikes overseas we don't give them away for free. We'd like to, but long term that doesn't really help the local economy. The demand for bikes is enormous, which makes them very expensive locally. So we sell them for 5% of the normal price. But in order to continue operating we need to have a constant supply of bikes which we send out every six months. [Q13]\nOne example of a town that's received bicycles from Pedal Power is Rivas. It was the first place I sent a full container of bicycles to. Most people there now own a bicycle. The local economy has developed so much, you wouldn't recognise it as the same place. [Q14] In fact, there are more bikes than on the streets of Amsterdam, if you've ever been there.\nBut Pedal Power still needs your help. You may have read about some of our recent problems in the British media. In August 2000, we simply ran out of money. We had containers of bikes ready to send, but no money to pay the bills. [Q15] It was a terrible situation. We managed to ensure the bikes went out on time, but the other problems carried on for several months.\nFortunately in October 2001 we won an Enterprise Award which helped us enormously. We invested fifteen of the seventy-five-thousand-pound prize money to help secure our future. [Q16] Winning the award helped raise our profile, and the money enabled us to pay all our shipping costs, which represent our greatest expense. Pedal Power changes lives – when someone gets a bicycle from us, they see a 14% increase in their income. We're currently looking to invest in computers so that our office staff can do an even better job. [Q17] Because of our work, people in a number of countries now have a better standard of living – so far we've provided 46,000 people with bikes. But we'd like to send more, at least 50,000 by the end of the year.\nNow there are many ways in which you can support the work of Pedal Power, not just by taking a bike to a collection in your area. I should also like to say if you do have a bike to donate, it doesn't matter what condition it's in – if we can't repair it, we'll strip it down for spare parts. Of course, to do that we always need tools, which are expensive to buy, so we welcome any that you can give. [Q18/19/20] Also, you could help by contacting the voluntary staff at our offices, they'll be able to suggest activities you could organise to bring in funds for us. [Q18/19/20] People do all kinds of things – including, of course, sponsored bike rides. Also, we're always interested to hear of other places that would benefit from receiving a consignment of bikes, and welcome suggestions from people who've been to developing regions on their travels. [Q18/19/20] We hope that by talking on radio programmes like this, we will be able to raise public awareness, which will lead to government organisations also giving us regular financial support, something that we really need.\nIf you'd like some more information about where to donate an old bicycle or offer help in other ways please contact us on . . ."
+   },
+   {
+    "part": 3,
+    "range": [
+     21,
+     30
+    ],
+    "pages": [
+     36
+    ],
+    "groups": [
+     {
+      "id": "L3-1",
+      "type": "completion",
+      "range": [
+       21,
+       30
+      ],
+      "instructions": [
+       "Complete the table below.",
+       "Write **NO MORE THAN THREE WORDS AND/OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "'Student Life' video project"
+       },
+       {
+        "t": "table",
+        "header": 1,
+        "rows": [
+         [
+          "",
+          "Cristina",
+          "Ibrahim"
+         ],
+         [
+          "**Enjoyed:**",
+          "• using the camera\n• going to a British {{21}}",
+          "contact with students doing other courses (has asked some to {{22}} with him)"
+         ],
+         [
+          "**Most useful language practice:**",
+          "• listening to instructions\n• learning {{23}} vocabulary",
+          "listening to British students' language because of:\n– normal speed\n– large amount of {{24}}"
+         ],
+         [
+          "**General usefulness:**",
+          "• operating video camera\n• working with other people:\n– learning about {{25}}\n– compromising\n– {{26}} people who have different views",
+          "the importance of {{27}}"
+         ],
+         [
+          "**Things to do differently in future:**",
+          "• decide when to {{28}} each stage at the beginning\n• make more effort to {{29}} with the camera",
+          "don't make the film too {{30}}"
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    "transcript": "TUTOR: First of all I'd just like to say, Cristina and Ibrahim, that I really enjoyed watching your video about student life last week, and I could see that the rest of the group did too. You did really well, and I hope that you got a lot out of it. I'd like to use this tutorial as a feedback session, where you reflect on the experience of doing the project. So Cristina, I was wondering, what did you enjoy most about making the video?\nCRISTINA: I liked using the camera.\nTUTOR: Is it the first time you've operated one like that?\nCRISTINA: Yes, it is.\nTUTOR: Well the results were very good! Anything else?\nCRISTINA: I also enjoyed visiting one of the British students we filmed. I'd never been inside a British home before. [Q21]\nTUTOR: OK Cristina, thanks. What about you, Ibrahim? What did you enjoy?\nIBRAHIM: Well for me it was a very good chance to get to know students who are on other courses, because everyone in our group is studying English, and we don't usually have much to do with the rest of the college.\nTUTOR: Yes, good. Do you think you'll maintain the contact now?\nIBRAHIM: I hope so. I've invited three of them to have dinner with me next week. [Q22]\nTUTOR: Great! If you haven't decided what to make yet I can tell you they'll love trying Arab dishes. And of course, it's good for your English too. Cristina, what did you find? What was the most useful aspect of the project from the point of view of the English practice?\nCRISTINA: I think, when we were being shown how to edit the film, we had to follow the instructions. And that was very good practice for me. And I also learned some technical words that I hadn't heard before. [Q23]\nTUTOR: What about you Ibrahim? What was the most useful for your English?\nIBRAHIM: It was listening to the British students, because they don't speak as slowly as most of the tutors on our course. I think they speak at natural speed, so it forces me to get used to it. And they use a lot of slang. [Q24]\nTUTOR: So you learned some new words which will be useful?\nIBRAHIM: Yes.\nTUTOR: Good. I'm glad it helped. Well, we've talked a little bit about enjoyment, and about language practice. Were there any other benefits? What else did you feel you'd learnt from the project? Was it useful in other ways?\nCRISTINA: Yes, well firstly, I learned how to use a video camera. And also, I think I really learned a lot about working together with other people. I've never done anything with a group before, and we had to find ways of cooperating, [Q25] erm, and compromising, and sometimes persuading people, [Q26] when they don't agree with you.\nTUTOR: Yes, that is a very useful experience, I know.\nTUTOR: What about you, Ibrahim?\nIBRAHIM: Well, I think I learnt a lot about how important editing is. [Q27] When you're filming you think that everything's going to be interesting, but in fact we cut around half of it in the end, and then it was much better.\nTUTOR: Good. Well, one last thing I'd like to ask. What mistakes do you think you, as a group that is, made? I mean, to put it another way, if you had to do it all over again, is there anything you'd do differently?\nCRISTINA: We didn't plan very well. For example, we didn't decide on dates when we'd complete each separate step of the project, and we should have agreed about that in the beginning, because we were always late with everything! [Q28]\nTUTOR: Right. Anything else?\nCRISTINA: I think we should have tried to experiment more with the camera. [Q29] I mean with angles, and the focus and that kind of thing.\nTUTOR: So you should have been more ambitious? Do you agree, Ibrahim?\nIBRAHIM: Not really. In fact, I think we were too ambitious. We were inexperienced, and we didn't have a lot of time, and we tried to do too much, to make a long film. [Q30] Next time I would make a shorter one and try to get the quality better.\nTUTOR: Well, that's very interesting. Next semester we will be doing another video project – with a different content, of course – but you'll have an opportunity to put into practice what you've learnt this time. Do you have any ideas about . . ."
+   },
+   {
+    "part": 4,
+    "range": [
+     31,
+     40
+    ],
+    "pages": [
+     37,
+     38
+    ],
+    "groups": [
+     {
+      "id": "L4-1",
+      "type": "completion",
+      "range": [
+       31,
+       40
+      ],
+      "instructions": [
+       "Complete the notes below.",
+       "Write **NO MORE THAN THREE WORDS AND/OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "ANTARCTICA"
+       },
+       {
+        "t": "sub",
+        "text": "GEOGRAPHY"
+       },
+       {
+        "t": "li",
+        "text": "world's highest, coldest and windiest continent"
+       },
+       {
+        "t": "li",
+        "text": "more than {{31}} times as big as the UK"
+       },
+       {
+        "t": "li",
+        "text": "most of the area is classified as {{32}}"
+       },
+       {
+        "t": "sub",
+        "text": "RESEARCH STATIONS"
+       },
+       {
+        "t": "li",
+        "text": "international teams work together"
+       },
+       {
+        "t": "li",
+        "text": "{{33}} is integrated with technical support"
+       },
+       {
+        "t": "li",
+        "text": "stations contain accommodation, work areas, a kitchen, a {{34}} and a gym"
+       },
+       {
+        "t": "li",
+        "text": "supplies were brought to Zero One station by sledge from a {{35}} at the edge of the ice 15 km away"
+       },
+       {
+        "t": "li",
+        "text": "problem of snow build-ups solved by building stations on {{36}} with adjustable legs"
+       },
+       {
+        "t": "sub",
+        "text": "FOOD AND DIET"
+       },
+       {
+        "t": "li",
+        "text": "average daily requirement for an adult in Antarctica is approximately {{37}} kilocalories"
+       },
+       {
+        "t": "li",
+        "text": "rations for field work prepared by process of freeze-drying"
+       },
+       {
+        "t": "sub",
+        "text": "RESEARCH"
+       },
+       {
+        "t": "p",
+        "text": "The most important research focuses on climate change, including"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "– measuring changes in the ice-cap (because of effects on sea levels and {{38}})"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "– monitoring the hole in the ozone layer"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "– analysing air from bubbles in ice to measure {{39}} caused by human activity"
+       },
+       {
+        "t": "sub",
+        "text": "WORK OPPORTUNITIES"
+       },
+       {
+        "t": "p",
+        "text": "Many openings for {{40}} people including"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "– research assistants"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "– administrative and technical positions"
+       }
+      ]
+     }
+    ],
+    "transcript": "Tonight I'm going to talk to you about that remarkable continent Antarctica – remote, hostile and at present uninhabited on a permanent basis. For early explorers, it was the ultimate survival contest; for researchers like me, it remains a place of great intellectual challenge; while for the modern tourist, it's simply a wilderness of great beauty.\nFirst, some facts and figures. Antarctica is a place of extremes – the highest, coldest and windiest continent and over fifty-eight times the size of the UK. [Q31] The ice-cap contains almost 70% of the world's fresh water and 90% of its ice, but with very low snowfall, most of the continent technically falls unbelievably into the category of 'desert'! [Q32] Huge icebergs break off the continent each year, while in winter half the surrounding ocean freezes over, which means its size almost doubles.\nResearch and exploration has been going on in Antarctica for more than two hundred years, and has involved scientists from many different countries, who work together on research stations. Here science and technical support have been integrated in a very cost-effective way – [Q33] our Antarctic research programme has several summers-only stations and two all-year-round ones; I was based on one of the all-year-round ones.\nThe research stations are really self-contained communities of about twenty people. There's living and working space, a kitchen with a huge food store, a small hospital and a well-equipped gym to ensure everyone keeps fit in their spare time. [Q34] The station generates its own electricity and communicates with the outside world using a satellite link.\nOur station – Zero One – had some special features. It wasn't built on land but on an ice-shelf, hundreds of metres thick. Supplies were brought to us on large sledges from a ship fifteen kilometres away at the ice edge. [Q35]\nLiving in the Antarctic hasn't always been so comfortable. Snow build-ups caused enormous problems for four previous stations on the same site, which were buried and finally crushed by the weight. Fortunately no-one was hurt, but these buildings became a huge challenge to architects who finally came up with a remarkable solution – the buildings are placed on platforms which can be raised above the changing snow level on legs which are extendable. [Q36]\nFood is one of the most important aspects of survival in a polar climate. People living there need to obtain a lot more energy from their food, both to keep warm and to undertake heavy physical work. Maybe you know that an adult in the UK will probably need about 1,700 kilocalories a day on average; someone in Antarctica will need about 3,500 – just over double! [Q37] This energy is provided by foods which are high in carbohydrate and fat.\nRations for fieldwork present an additional problem. They need to provide maximum energy, but they must also be compact and light for easy transport. Special boxes are prepared, each containing enough food for one person for twenty days. You may be familiar with coffee processed by freeze-drying, which preserves the quality of the food product while making a large saving in weight – well, this type of presentation is ideal in our situation. It wasn't available to earlier polar explorers, whose diet was commonly insufficient for their health.\nI think that being at the cutting edge of science has a special appeal for everyone working in Antarctica, in whatever capacity. As a marine biologist, my own research was fascinating; but it's perhaps climate change research that is the most crucial field of study.\nWithin this general field, surveying changes in the volume and stability of the ice-cap is vital, since these may have profound effects on world sea levels and on ocean currents. [Q38] A second important area is monitoring the size of the hole in the ozone layer above Antarctica, since this is an indicator of global ultra-violet radiation levels. Thirdly, bubbles in the ice-sheet itself provide an index of pollution [Q39] because frozen inside them are samples of previous atmospheres over the past 500,000 years, and these provide us with evidence for the effects of such human activities as agriculture and industry.\nThere are an increasing number of opportunities for young people to work for a period in Antarctica [Q40] – not only as research assistants in projects like mine, but also in a wide range of junior administrative and technical positions including vacancies for map-makers. I hope that the insights I've provided will encourage you to take up these opportunities in this fascinating continent."
+   }
+  ],
+  "answers": {
+   "1": {
+    "a": [
+     "passport photos",
+     "photos",
+     "passport photographs",
+     "photographs"
+    ],
+    "k": "(passport) photos / (passport) photographs"
+   },
+   "2": {
+    "a": [
+     "a bank statement",
+     "bank statement"
+    ],
+    "k": "(a) bank statement"
+   },
+   "3": {
+    "a": [
+     "125",
+     "125 per year"
+    ],
+    "k": "125 (per year)"
+   },
+   "4": {
+    "a": [
+     "8"
+    ]
+   },
+   "5": {
+    "a": [
+     "1.50"
+    ]
+   },
+   "6": {
+    "a": [
+     "48"
+    ]
+   },
+   "7": {
+    "a": [
+     "local papers",
+     "local newspapers"
+    ],
+    "k": "local papers / local newspapers"
+   },
+   "8": {
+    "a": [
+     "a card",
+     "card",
+     "cards"
+    ],
+    "k": "(a) card / cards"
+   },
+   "9": {
+    "a": [
+     "Grantingham"
+    ]
+   },
+   "10": {
+    "a": [
+     "Friday"
+    ]
+   },
+   "11": {
+    "a": [
+     "C"
+    ]
+   },
+   "12": {
+    "a": [
+     "C"
+    ]
+   },
+   "13": {
+    "a": [
+     "A"
+    ]
+   },
+   "14": {
+    "a": [
+     "C"
+    ]
+   },
+   "15": {
+    "a": [
+     "A"
+    ]
+   },
+   "16": {
+    "a": [
+     "£75,000",
+     "75,000",
+     "£75000",
+     "75000"
+    ],
+    "k": "£75,000"
+   },
+   "17": {
+    "a": [
+     "computers"
+    ]
+   },
+   "18": {
+    "a": [
+     "C"
+    ]
+   },
+   "19": {
+    "a": [
+     "E"
+    ]
+   },
+   "20": {
+    "a": [
+     "F"
+    ]
+   },
+   "21": {
+    "a": [
+     "home",
+     "student's home"
+    ],
+    "k": "home / student's home"
+   },
+   "22": {
+    "a": [
+     "have dinner",
+     "dinner",
+     "come to dinner",
+     "go to dinner"
+    ],
+    "k": "(have) dinner / come to dinner / go to dinner"
+   },
+   "23": {
+    "a": [
+     "technical"
+    ]
+   },
+   "24": {
+    "a": [
+     "slang"
+    ]
+   },
+   "25": {
+    "a": [
+     "cooperating",
+     "cooperation"
+    ],
+    "k": "cooperating / cooperation"
+   },
+   "26": {
+    "a": [
+     "persuading"
+    ]
+   },
+   "27": {
+    "a": [
+     "editing"
+    ]
+   },
+   "28": {
+    "a": [
+     "complete"
+    ]
+   },
+   "29": {
+    "a": [
+     "experiment"
+    ]
+   },
+   "30": {
+    "a": [
+     "long"
+    ]
+   },
+   "31": {
+    "a": [
+     "58"
+    ]
+   },
+   "32": {
+    "a": [
+     "desert"
+    ]
+   },
+   "33": {
+    "a": [
+     "science"
+    ]
+   },
+   "34": {
+    "a": [
+     "hospital",
+     "small hospital"
+    ],
+    "k": "hospital / small hospital"
+   },
+   "35": {
+    "a": [
+     "ship"
+    ]
+   },
+   "36": {
+    "a": [
+     "platforms"
+    ]
+   },
+   "37": {
+    "a": [
+     "3,500",
+     "3500"
+    ],
+    "k": "3,500"
+   },
+   "38": {
+    "a": [
+     "currents",
+     "ocean currents"
+    ],
+    "k": "currents / ocean currents"
+   },
+   "39": {
+    "a": [
+     "the pollution",
+     "pollution"
+    ],
+    "k": "(the) pollution"
+   },
+   "40": {
+    "a": [
+     "young"
+    ]
+   }
+  }
+ },
+ "reading": {
+  "passages": [
+   {
+    "passage": 1,
+    "range": [
+     1,
+     13
+    ],
+    "pages": [
+     39,
+     40,
+     41,
+     42,
+     43
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 1–13**, which are based on Reading Passage 1 below.",
+    "title": "BAKELITE",
+    "subtitle": "The birth of modern plastics",
+    "paragraphs": [
+     {
+      "text": "In 1907, Leo Hendrick Baekeland, a Belgian scientist working in New York, discovered and patented a revolutionary new synthetic material. His invention, which he named 'Bakelite', was of enormous technological importance, and effectively launched the modern plastics industry."
+     },
+     {
+      "text": "The term 'plastic' comes from the Greek *plassein*, meaning 'to mould'. Some plastics are derived from natural sources, some are semi-synthetic (the result of chemical action on a natural substance), and some are entirely synthetic, that is, chemically engineered from the constituents of coal or oil. Some are 'thermoplastic', which means that, like candlewax, they melt when heated and can then be reshaped. Others are 'thermosetting': like eggs, they cannot revert to their original viscous state, and their shape is thus fixed for ever. Bakelite had the distinction of being the first totally synthetic thermosetting plastic."
+     },
+     {
+      "text": "The history of today's plastics begins with the discovery of a series of semi-synthetic thermoplastic materials in the mid-nineteenth century. The impetus behind the development of these early plastics was generated by a number of factors – immense technological progress in the domain of chemistry, coupled with wider cultural changes, and the pragmatic need to find acceptable substitutes for dwindling supplies of 'luxury' materials such as tortoiseshell and ivory."
+     },
+     {
+      "text": "Baekeland's interest in plastics began in 1885 when, as a young chemistry student in Belgium, he embarked on research into phenolic resins, the group of sticky substances produced when phenol (carbolic acid) combines with an aldehyde (a volatile fluid similar to alcohol). He soon abandoned the subject, however, only returning to it some years later. By 1905 he was a wealthy New Yorker, having recently made his fortune with the invention of a new photographic paper. While Baekeland had been busily amassing dollars, some advances had been made in the development of plastics. The years 1899 and 1900 had seen the patenting of the first semi-synthetic thermosetting material that could be manufactured on an industrial scale. In purely scientific terms, Baekeland's major contribution to the field is not so much the actual discovery of the material to which he gave his name, but rather the method by which a reaction between phenol and formaldehyde could be controlled, thus making possible its preparation on a commercial basis. On 13 July 1907, Baekeland took out his famous patent describing this preparation, the essential features of which are still in use today."
+     },
+     {
+      "text": "The original patent outlined a three-stage process, in which phenol and formaldehyde (from wood or coal) were initially combined under vacuum inside a large egg-shaped kettle. The result was a resin known as Novalak, which became soluble and malleable when heated. The resin was allowed to cool in shallow trays until it hardened, and then broken up and ground into powder. Other substances were then introduced: including fillers, such as woodflour, asbestos or cotton, which increase strength and moisture resistance, catalysts (substances to speed up the reaction between two chemicals without joining to either) and hexa, a compound of ammonia and formaldehyde which supplied the additional formaldehyde necessary to form a thermosetting resin. This resin was then left to cool and harden, and ground up a second time. The resulting granular powder was raw Bakelite, ready to be made into a vast range of manufactured objects. In the last stage, the heated Bakelite was poured into a hollow mould of the required shape and subjected to extreme heat and pressure, thereby 'setting' its form for life."
+     },
+     {
+      "text": "The design of Bakelite objects, everything from earrings to television sets, was governed to a large extent by the technical requirements of the moulding process. The object could not be designed so that it was locked into the mould and therefore difficult to extract. A common general rule was that objects should taper towards the deepest part of the mould, and if necessary the product was moulded in separate pieces. Moulds had to be carefully designed so that the molten Bakelite would flow evenly and completely into the mould. Sharp corners proved impractical and were thus avoided, giving rise to the smooth, 'streamlined' style popular in the 1930s. The thickness of the walls of the mould was also crucial: thick walls took longer to cool and harden, a factor which had to be considered by the designer in order to make the most efficient use of machines."
+     },
+     {
+      "text": "Baekeland's invention, although treated with disdain in its early years, went on to enjoy an unparalleled popularity which lasted throughout the first half of the twentieth century. It became the wonder product of the new world of industrial expansion – 'the material of a thousand uses'. Being both non-porous and heat-resistant, Bakelite kitchen goods were promoted as being germ-free and sterilisable. Electrical manufacturers seized on its insulating properties, and consumers everywhere relished its dazzling array of shades, delighted that they were now, at last, no longer restricted to the wood tones and drab browns of the pre-plastic era. It then fell from favour again during the 1950s, and was despised and destroyed in vast quantities. Recently, however, it has been experiencing something of a renaissance, with renewed demand for original Bakelite objects in the collectors' marketplace, and museums, societies and dedicated individuals once again appreciating the style and originality of this innovative material."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R1-1",
+      "type": "completion",
+      "range": [
+       1,
+       3
+      ],
+      "instructions": [
+       "Complete the summary.",
+       "Choose **ONE WORD ONLY** from the passage for each answer.",
+       "Write your answers in boxes 1–3 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "p",
+        "text": "Some plastics behave in a similar way to {{1}} in that they melt under heat and can be moulded into new forms. Bakelite was unique because it was the first material to be both entirely {{2}} in origin, and thermosetting."
+       },
+       {
+        "t": "p",
+        "text": "There were several reasons for the research into plastics in the nineteenth century, among them the great advances that had been made in the field of {{3}} and the search for alternatives to natural resources like ivory."
+       }
+      ]
+     },
+     {
+      "id": "R1-2",
+      "type": "completion",
+      "range": [
+       4,
+       8
+      ],
+      "instructions": [
+       "Complete the flow-chart.",
+       "Choose **ONE WORD ONLY** from the passage for each answer.",
+       "Write your answers in boxes 4–8 on your answer sheet."
+      ],
+      "image": "images/C5/C5-T2-R1-flowchart.png",
+      "content": [
+       {
+        "t": "h",
+        "text": "The Production of Bakelite"
+       },
+       {
+        "t": "p",
+        "text": "stage one resin, called {{4}}"
+       },
+       {
+        "t": "p",
+        "text": "{{5}} (e.g. cotton, asbestos)"
+       },
+       {
+        "t": "p",
+        "text": "{{6}}"
+       },
+       {
+        "t": "p",
+        "text": "{{7}} Bakelite"
+       },
+       {
+        "t": "p",
+        "text": "apply intense heat and {{8}}"
+       }
+      ]
+     },
+     {
+      "id": "R1-3",
+      "type": "multi",
+      "range": [
+       9,
+       10
+      ],
+      "n": [
+       9,
+       10
+      ],
+      "select": 2,
+      "instructions": [
+       "Choose **TWO** letters **A–E**.",
+       "Write your answers in boxes 9 and 10 on your answer sheet.",
+       "**NB** Your answers may be given in either order."
+      ],
+      "text": "Which **TWO** of the following factors influencing the design of Bakelite objects are mentioned in the text?",
+      "options": [
+       {
+        "key": "A",
+        "text": "the function which the object would serve"
+       },
+       {
+        "key": "B",
+        "text": "the ease with which the resin could fill the mould"
+       },
+       {
+        "key": "C",
+        "text": "the facility with which the object could be removed from the mould"
+       },
+       {
+        "key": "D",
+        "text": "the limitations of the materials used to manufacture the mould"
+       },
+       {
+        "key": "E",
+        "text": "the fashionable styles of the period"
+       }
+      ]
+     },
+     {
+      "id": "R1-4",
+      "type": "tfng",
+      "range": [
+       11,
+       13
+      ],
+      "instructions": [
+       "Do the following statements agree with the information given in Reading Passage 1?",
+       "In boxes 11–13 on your answer sheet, write",
+       "**TRUE** if the statement agrees with the information",
+       "**FALSE** if the statement contradicts the information",
+       "**NOT GIVEN** if there is no information on this"
+      ],
+      "questions": [
+       {
+        "n": 11,
+        "text": "Modern-day plastic preparation is based on the same principles as that patented in 1907."
+       },
+       {
+        "n": 12,
+        "text": "Bakelite was immediately welcomed as a practical and versatile material."
+       },
+       {
+        "n": 13,
+        "text": "Bakelite was only available in a limited range of colours."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "passage": 2,
+    "range": [
+     14,
+     27
+    ],
+    "pages": [
+     44,
+     45,
+     46,
+     47,
+     48
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 14–27**, which are based on Reading Passage 2 below.",
+    "title": "What's so funny?",
+    "subtitle": "John McCrone reviews recent research on humour",
+    "paragraphs": [
+     {
+      "text": "The joke comes over the headphones: 'Which side of a dog has the most hair? The left.' No, not funny. Try again. 'Which side of a dog has the most hair? The outside.' Hah! The punchline is silly yet fitting, tempting a smile, even a laugh. Laughter has always struck people as deeply mysterious, perhaps pointless. The writer Arthur Koestler dubbed it the luxury reflex: 'unique in that it serves no apparent biological purpose'."
+     },
+     {
+      "text": "Theories about humour have an ancient pedigree. Plato expressed the idea that humour is simply a delighted feeling of superiority over others. Kant and Freud felt that joke-telling relies on building up a psychic tension which is safely punctured by the ludicrousness of the punchline. But most modern humour theorists have settled on some version of Aristotle's belief that jokes are based on a reaction to or resolution of incongruity, when the punchline is either a nonsense or, though appearing silly, has a clever second meaning."
+     },
+     {
+      "text": "Graeme Ritchie, a computational linguist in Edinburgh, studies the linguistic structure of jokes in order to understand not only humour but language understanding and reasoning in machines. He says that while there is no single format for jokes, many revolve around a sudden and surprising conceptual shift. A comedian will present a situation followed by an unexpected interpretation that is also apt."
+     },
+     {
+      "text": "So even if a punchline sounds silly, the listener can see there is a clever semantic fit and that sudden mental 'Aha!' is the buzz that makes us laugh. Viewed from this angle, humour is just a form of creative insight, a sudden leap to a new perspective."
+     },
+     {
+      "text": "However, there is another type of laughter, the laughter of social appeasement and it is important to understand this too. Play is a crucial part of development in most young mammals. Rats produce ultrasonic squeaks to prevent their scuffles turning nasty. Chimpanzees have a 'play-face' – a gaping expression accompanied by a panting 'ah, ah' noise. In humans, these signals have mutated into smiles and laughs. Researchers believe social situations, rather than cognitive events such as jokes, trigger these instinctual markers of play or appeasement. People laugh on fairground rides or when tickled to flag a play situation, whether they feel amused or not."
+     },
+     {
+      "text": "Both social and cognitive types of laughter tap into the same expressive machinery in our brains, the emotion and motor circuits that produce smiles and excited vocalisations. However, if cognitive laughter is the product of more general thought processes, it should result from more expansive brain activity."
+     },
+     {
+      "text": "Psychologist Vinod Goel investigated humour using the new technique of 'single event' functional magnetic resonance imaging (fMRI). An MRI scanner uses magnetic fields and radio waves to track the changes in oxygenated blood that accompany mental activity. Until recently, MRI scanners needed several minutes of activity and so could not be used to track rapid thought processes such as comprehending a joke. New developments now allow half-second 'snapshots' of all sorts of reasoning and problem-solving activities."
+     },
+     {
+      "text": "Although Goel felt being inside a brain scanner was hardly the ideal place for appreciating a joke, he found evidence that understanding a joke involves a widespread mental shift. His scans showed that at the beginning of a joke the listener's prefrontal cortex lit up, particularly the right prefrontal believed to be critical for problem solving. But there was also activity in the temporal lobes at the side of the head (consistent with attempts to rouse stored knowledge) and in many other brain areas. Then when the punchline arrived, a new area sprang to life – the orbital prefrontal cortex. This patch of brain tucked behind the orbits of the eyes is associated with evaluating information."
+     },
+     {
+      "text": "Making a rapid emotional assessment of the events of the moment is an extremely demanding job for the brain, animal or human. Energy and arousal levels may need to be retuned in the blink of an eye. These abrupt changes will produce either positive or negative feelings. The orbital cortex, the region that becomes active in Goel's experiment, seems the best candidate for the site that feeds such feelings into higher-level thought processes, with its close connections to the brain's sub-cortical arousal apparatus and centres of metabolic control."
+     },
+     {
+      "text": "All warm-blooded animals make constant tiny adjustments in arousal in response to external events, but humans, who have developed a much more complicated internal life as a result of language, respond emotionally not only to their surroundings, but to their own thoughts. Whenever a sought-for answer snaps into place, there is a shudder of pleased recognition. Creative discovery being pleasurable, humans have learned to find ways of milking this natural response. The fact that jokes tap into our general evaluative machinery explains why the line between funny and disgusting, or funny and frightening, can be so fine. Whether a joke gives pleasure or pain depends on a person's outlook."
+     },
+     {
+      "text": "Humour may be a luxury, but the mechanism behind it is no evolutionary accident. As Peter Derks, a psychologist at William and Mary College in Virginia, says: 'I like to think of humour as the distorted mirror of the mind. It's creative, perceptual, analytical and lingual. If we can figure out how the mind processes humour, then we'll have a pretty good handle on how it works in general.'"
+     }
+    ],
+    "groups": [
+     {
+      "id": "R2-1",
+      "type": "tfng",
+      "range": [
+       14,
+       20
+      ],
+      "instructions": [
+       "Do the following statements agree with the information given in Reading Passage 2?",
+       "In boxes 14–20 on your answer sheet, write",
+       "**TRUE** if the statement agrees with the information",
+       "**FALSE** if the statement contradicts the information",
+       "**NOT GIVEN** if there is no information on this"
+      ],
+      "questions": [
+       {
+        "n": 14,
+        "text": "Arthur Koestler considered laughter biologically important in several ways."
+       },
+       {
+        "n": 15,
+        "text": "Plato believed humour to be a sign of above-average intelligence."
+       },
+       {
+        "n": 16,
+        "text": "Kant believed that a successful joke involves the controlled release of nervous energy."
+       },
+       {
+        "n": 17,
+        "text": "Current thinking on humour has largely ignored Aristotle's view on the subject."
+       },
+       {
+        "n": 18,
+        "text": "Graeme Ritchie's work links jokes to artificial intelligence."
+       },
+       {
+        "n": 19,
+        "text": "Most comedians use personal situations as a source of humour."
+       },
+       {
+        "n": 20,
+        "text": "Chimpanzees make particular noises when they are playing."
+       }
+      ]
+     },
+     {
+      "id": "R2-2",
+      "type": "completion",
+      "range": [
+       21,
+       23
+      ],
+      "instructions": [
+       "The diagram below shows the areas of the brain activated by jokes.",
+       "Label the diagram.",
+       "Choose **NO MORE THAN TWO WORDS** from the passage for each answer.",
+       "Write your answers in boxes 21–23 on your answer sheet."
+      ],
+      "image": "images/C5/C5-T2-R2-diagram.png",
+      "content": [
+       {
+        "t": "p",
+        "text": "Right prefrontal cortex lights up – area of brain linked to {{21}}"
+       },
+       {
+        "t": "p",
+        "text": "{{22}} become active too"
+       },
+       {
+        "t": "p",
+        "text": "Orbital prefrontal cortex is activated – involved with {{23}}"
+       }
+      ]
+     },
+     {
+      "id": "R2-3",
+      "type": "matching",
+      "range": [
+       24,
+       27
+      ],
+      "instructions": [
+       "Complete each sentence with the correct ending **A–G** below.",
+       "Write the correct letter **A–G** in boxes 24–27 on your answer sheet."
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": "react to their own thoughts."
+       },
+       {
+        "key": "B",
+        "text": "helped create language in humans."
+       },
+       {
+        "key": "C",
+        "text": "respond instantly to whatever is happening."
+       },
+       {
+        "key": "D",
+        "text": "may provide valuable information about the operation of the brain."
+       },
+       {
+        "key": "E",
+        "text": "cope with difficult situations."
+       },
+       {
+        "key": "F",
+        "text": "relate to a person's subjective views."
+       },
+       {
+        "key": "G",
+        "text": "led our ancestors to smile and then laugh."
+       }
+      ],
+      "questions": [
+       {
+        "n": 24,
+        "text": "One of the brain's most difficult tasks is to"
+       },
+       {
+        "n": 25,
+        "text": "Because of the language they have developed, humans"
+       },
+       {
+        "n": 26,
+        "text": "Individual responses to humour"
+       },
+       {
+        "n": 27,
+        "text": "Peter Derks believes that humour"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "passage": 3,
+    "range": [
+     28,
+     40
+    ],
+    "pages": [
+     49,
+     50,
+     51,
+     52
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 28–40**, which are based on Reading Passage 3 below.",
+    "title": "The Birth of Scientific English",
+    "subtitle": null,
+    "paragraphs": [
+     {
+      "text": "World science is dominated today by a small number of languages, including Japanese, German and French, but it is English which is probably the most popular global language of science. This is not just because of the importance of English-speaking countries such as the USA in scientific research; the scientists of many non-English-speaking countries find that they need to write their research papers in English to reach a wide international audience. Given the prominence of scientific English today, it may seem surprising that no one really knew *how* to write science in English before the 17th century. Before that, Latin was regarded as the *lingua franca*¹ for European intellectuals."
+     },
+     {
+      "text": "The European Renaissance (c. 14th–16th century) is sometimes called the 'revival of learning', a time of renewed interest in the 'lost knowledge' of classical times. At the same time, however, scholars also began to test and extend this knowledge. The emergent nation states of Europe developed competitive interests in world exploration and the development of trade. Such expansion, which was to take the English language west to America and east to India, was supported by scientific developments such as the discovery of magnetism (and hence the invention of the compass), improvements in cartography and – perhaps the most important scientific revolution of them all – the new theories of astronomy and the movement of the Earth in relation to the planets and stars, developed by Copernicus (1473–1543)."
+     },
+     {
+      "text": "England was one of the first countries where scientists adopted and publicised Copernican ideas with enthusiasm. Some of these scholars, including two with interests in language – John Wallis and John Wilkins – helped found the Royal Society in 1660 in order to promote empirical scientific research."
+     },
+     {
+      "text": "Across Europe similar academies and societies arose, creating new national traditions of science. In the initial stages of the scientific revolution, most publications in the national languages were popular works, encyclopaedias, educational textbooks and translations. Original science was not done in English until the second half of the 17th century. For example, Newton published his mathematical treatise, known as the *Principia*, in Latin, but published his later work on the properties of light – *Opticks* – in English."
+     },
+     {
+      "text": "There were several reasons why original science continued to be written in Latin. The first was simply a matter of audience. Latin was suitable for an international audience of scholars, whereas English reached a socially wider, but more local, audience. Hence, popular science was written in English."
+     },
+     {
+      "text": "A second reason for writing in Latin may, perversely, have been a concern for secrecy. Open publication had dangers in putting into the public domain preliminary ideas which had not yet been fully exploited by their 'author'. This growing concern about intellectual property rights was a feature of the period – it reflected both the humanist notion of the individual, rational scientist who invents and discovers through private intellectual labour, and the growing connection between original science and commercial exploitation. There was something of a social distinction between 'scholars and gentlemen' who understood Latin, and men of trade who lacked a classical education. And in the mid-17th century it was common practice for mathematicians to keep their discoveries and proofs secret, by writing them in cipher, in obscure languages, or in private messages deposited in a sealed box with the Royal Society. Some scientists might have felt more comfortable with Latin precisely because its audience, though international, was socially restricted. Doctors clung the most keenly to Latin as an 'insider language'."
+     },
+     {
+      "text": "A third reason why the writing of original science in English was delayed may have been to do with the linguistic inadequacy of English in the early modern period. English was not well equipped to deal with scientific argument. First, it lacked the necessary technical vocabulary. Second, it lacked the grammatical resources required to represent the world in an objective and impersonal way, and to discuss the relations, such as cause and effect, that might hold between complex and hypothetical entities."
+     },
+     {
+      "text": "Fortunately, several members of the Royal Society possessed an interest in language and became engaged in various linguistic projects. Although a proposal in 1664 to establish a committee for improving the English language came to little, the society's members did a great deal to foster the publication of science in English and to encourage the development of a suitable writing style. Many members of the Royal Society also published monographs in English. One of the first was by Robert Hooke, the society's first curator of experiments, who described his experiments with microscopes in *Micrographia* (1665). This work is largely narrative in style, based on a transcript of oral demonstrations and lectures."
+     },
+     {
+      "text": "In 1665 a new scientific journal, *Philosophical Transactions*, was inaugurated. Perhaps the first international English-language scientific journal, it encouraged a new genre of scientific writing, that of short, focused accounts of particular experiments."
+     },
+     {
+      "text": "The 17th century was thus a formative period in the establishment of scientific English. In the following century much of this momentum was lost as German established itself as the leading European language of science. It is estimated that by the end of the 18th century 401 German scientific journals had been established as opposed to 96 in France and 50 in England. However, in the 19th century scientific English again enjoyed substantial lexical growth as the industrial revolution created the need for new technical vocabulary, and new, specialised, professional societies were instituted to promote and publish in the new disciplines."
+     },
+     {
+      "kind": "note",
+      "text": "¹ *lingua franca*: a language which is used for communication between groups of people who speak different languages"
+     }
+    ],
+    "groups": [
+     {
+      "id": "R3-1",
+      "type": "completion",
+      "range": [
+       28,
+       34
+      ],
+      "instructions": [
+       "Complete the summary.",
+       "Choose **NO MORE THAN TWO WORDS** from the passage for each answer.",
+       "Write your answers in boxes 28–34 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "p",
+        "text": "In Europe, modern science emerged at the same time as the nation state. At first, the scientific language of choice remained {{28}}. It allowed scientists to communicate with other socially privileged thinkers while protecting their work from unwanted exploitation. Sometimes the desire to protect ideas seems to have been stronger than the desire to communicate them, particularly in the case of mathematicians and {{29}}. In Britain, moreover, scientists worried that English had neither the {{30}} nor the {{31}} to express their ideas. This situation only changed after 1660 when scientists associated with the {{32}} set about developing English. An early scientific journal fostered a new kind of writing based on short descriptions of specific experiments. Although English was then overtaken by {{33}}, it developed again in the 19th century as a direct result of the {{34}}."
+       }
+      ]
+     },
+     {
+      "id": "R3-2",
+      "type": "tfng",
+      "range": [
+       35,
+       37
+      ],
+      "instructions": [
+       "Do the following statements agree with the information given in Reading Passage 3?",
+       "In boxes 35–37 on your answer sheet, write",
+       "**TRUE** if the statement agrees with the information",
+       "**FALSE** if the statement contradicts the information",
+       "**NOT GIVEN** if there is no information on this"
+      ],
+      "questions": [
+       {
+        "n": 35,
+        "text": "There was strong competition between scientists in Renaissance Europe."
+       },
+       {
+        "n": 36,
+        "text": "The most important scientific development of the Renaissance period was the discovery of magnetism."
+       },
+       {
+        "n": 37,
+        "text": "In 17th-century Britain, leading thinkers combined their interest in science with an interest in how to express ideas."
+       }
+      ]
+     },
+     {
+      "id": "R3-3",
+      "type": "completion",
+      "range": [
+       38,
+       40
+      ],
+      "instructions": [
+       "Complete the table.",
+       "Choose **NO MORE THAN TWO WORDS** from the passage for each answer.",
+       "Write your answers in boxes 38–40 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Science written in the first half of the 17th century"
+       },
+       {
+        "t": "table",
+        "header": 1,
+        "rows": [
+         [
+          "*Language used*",
+          "Latin",
+          "English"
+         ],
+         [
+          "*Type of science*",
+          "Original",
+          "{{38}}"
+         ],
+         [
+          "*Examples*",
+          "{{39}}",
+          "Encyclopaedias"
+         ],
+         [
+          "*Target audience*",
+          "International scholars",
+          "{{40}}, but socially wider"
+         ]
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "answers": {
+   "1": {
+    "a": [
+     "candlewax"
+    ]
+   },
+   "2": {
+    "a": [
+     "synthetic"
+    ]
+   },
+   "3": {
+    "a": [
+     "chemistry"
+    ]
+   },
+   "4": {
+    "a": [
+     "Novalak"
+    ]
+   },
+   "5": {
+    "a": [
+     "fillers"
+    ]
+   },
+   "6": {
+    "a": [
+     "hexa"
+    ]
+   },
+   "7": {
+    "a": [
+     "raw"
+    ]
+   },
+   "8": {
+    "a": [
+     "pressure"
+    ]
+   },
+   "9": {
+    "a": [
+     "B"
+    ]
+   },
+   "10": {
+    "a": [
+     "C"
+    ]
+   },
+   "11": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "12": {
+    "a": [
+     "FALSE"
+    ]
+   },
+   "13": {
+    "a": [
+     "FALSE"
+    ]
+   },
+   "14": {
+    "a": [
+     "FALSE"
+    ]
+   },
+   "15": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "16": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "17": {
+    "a": [
+     "FALSE"
+    ]
+   },
+   "18": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "19": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "20": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "21": {
+    "a": [
+     "problem solving"
+    ]
+   },
+   "22": {
+    "a": [
+     "temporal lobes"
+    ]
+   },
+   "23": {
+    "a": [
+     "evaluating information"
+    ]
+   },
+   "24": {
+    "a": [
+     "C"
+    ]
+   },
+   "25": {
+    "a": [
+     "A"
+    ]
+   },
+   "26": {
+    "a": [
+     "F"
+    ]
+   },
+   "27": {
+    "a": [
+     "D"
+    ]
+   },
+   "28": {
+    "a": [
+     "Latin"
+    ]
+   },
+   "29": {
+    "a": [
+     "doctors"
+    ]
+   },
+   "30": {
+    "a": [
+     "technical vocabulary"
+    ]
+   },
+   "31": {
+    "a": [
+     "grammatical resources"
+    ]
+   },
+   "32": {
+    "a": [
+     "Royal Society"
+    ]
+   },
+   "33": {
+    "a": [
+     "German"
+    ]
+   },
+   "34": {
+    "a": [
+     "industrial revolution"
+    ]
+   },
+   "35": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "36": {
+    "a": [
+     "FALSE"
+    ]
+   },
+   "37": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "38": {
+    "a": [
+     "popular"
+    ]
+   },
+   "39": {
+    "a": [
+     "Principia",
+     "the Principia",
+     "Newton's Principia",
+     "mathematical treatise"
+    ],
+    "k": "Principia / the Principia / Newton's Principia / mathematical treatise"
+   },
+   "40": {
+    "a": [
+     "local",
+     "more local",
+     "local audience"
+    ],
+    "k": "local / more local / local audience"
+   }
+  },
+  "eitherOrder": [
+   [
+    30,
+    31
+   ]
+  ]
+ },
+ "writing": {
+  "tasks": [
+   {
+    "task": 1,
+    "minutes": 20,
+    "minWords": 150,
+    "pages": [
+     53
+    ],
+    "prompt": [
+     "The charts below show the main reasons for study among students of different age groups and the amount of support they received from employers.",
+     "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+    ],
+    "image": "images/C5/C5-T2-W1.png",
+    "sample": {
+     "kind": "candidate",
+     "band": "8",
+     "text": "The first graph shows that there is a gradual decrease in study for career reasons with age. Nearly 80% of students under 26 years, study for their career. This percentage gradually declines by 10-20% every decade. Only 40% of 40-49yr olds and 18% of over 49yr olds are studying for career reasons in late adulthood.\n\nConversely, the first graph also shows that study stemming from interest increases with age. There are only 10% of under 26yr olds studying out of interest. The percentage increases slowly till the beginning of the fourth decade, and increases dramatically in late adulthood. Nearly same number of 40-49yr olds study for career and interest. However 70% of over 49yr olds study for interest in comparison to 18% studying for career reasons in that age group.\n\nThe second graph shows that employer support is maximum (approximately 60%) for the under 26yr students. It drops rapidly to 32% up to the third decade of life, and then increases in late adulthood up to about 44%. It is unclear whether employer support is only for career-focused study, but the highest level is for those students who mainly study for career purposes.",
+     "comment": "This answer summarises the key features of both charts and integrates them well. Clear trends are identified and supported with appropriately-selected figures. The answer could only be improved by adding an introduction to the general topic of the charts.\n\nThe information is well organised, with a clearly-signalled progression. Linking words are used accurately and precisely, although there is occasional omission. Paragraphing is used well initially, but lapses in the later section.\n\nA very good range of vocabulary is used to convey the information concisely and accurately with only occasional inappropriacy. Words are used precisely and there are no errors in spelling or word form.\n\nA wide range of structures is used and most sentences in this answer are accurate. Errors are rare and do not affect communication in this answer."
+    }
+   },
+   {
+    "task": 2,
+    "minutes": 40,
+    "minWords": 250,
+    "pages": [
+     54
+    ],
+    "prompt": [
+     "Write about the following topic:",
+     "*In some countries young people are encouraged to work or travel for a year between finishing high school and starting university studies.*",
+     "*Discuss the advantages and disadvantages for young people who decide to do this.*",
+     "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+    ],
+    "sample": {
+     "kind": "model",
+     "band": null,
+     "text": "It is quite common these days for young people in many countries to have a break from studying after graduating from high school. The trend is not restricted to rich students who have the money to travel, but is also evident among poorer students who choose to work and become economically independent for a period of time.\n\nThe reasons for this trend may involve the recognition that a young adult who passes directly from school to university is rather restricted in terms of general knowledge and experience of the world. By contrast, those who have spent some time earning a living or travelling to other places, have a broader view of life and better personal resources to draw on. They tend to be more independent, which is a very important factor in academic study and research, as well as giving them an advantage in terms of coping with the challenges of student life.\n\nHowever, there are certainly dangers in taking time off at that important age. Young adults may end up never returning to their studies or finding it difficult to readapt to an academic environment. They may think that it is better to continue in a particular job, or to do something completely different from a university course. But overall, I think this is less likely today, when academic qualifications are essential for getting a reasonable career.\n\nMy view is that young people should be encouraged to broaden their horizons. That is the best way for them to get a clear perspective of what they are hoping to do with their lives and why. Students with such a perspective are usually the most effective and motivated ones and taking a year off may be the best way to gain this.",
+     "comment": null
+    }
+   }
+  ]
+ },
+ "issues": []
+}

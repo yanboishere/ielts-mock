@@ -1,0 +1,1740 @@
+{
+ "schema": "ielts-mock.exam/1",
+ "id": "C8-T2",
+ "source": {
+  "book": 8,
+  "test": 2
+ },
+ "title": "Cambridge IELTS 8 · Test 2",
+ "listening": {
+  "parts": [
+   {
+    "part": 1,
+    "range": [
+     1,
+     10
+    ],
+    "pages": [
+     32,
+     33
+    ],
+    "groups": [
+     {
+      "id": "L1-1",
+      "type": "completion",
+      "range": [
+       1,
+       3
+      ],
+      "instructions": [
+       "Complete the form below.",
+       "Write **NO MORE THAN THREE WORDS AND/OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "TOTAL INSURANCE INCIDENT REPORT"
+       },
+       {
+        "t": "table",
+        "header": 0,
+        "rows": [
+         [
+          "*Example*",
+          "*Answer*"
+         ],
+         [
+          "**Name**",
+          "Michael Alexander"
+         ],
+         [
+          "**Address**",
+          "24 Manly Street, {{1}}, Sydney"
+         ],
+         [
+          "**Shipping agent**",
+          "{{2}}"
+         ],
+         [
+          "**Place of origin**",
+          "China"
+         ],
+         [
+          "**Date of arrival**",
+          "{{3}}"
+         ],
+         [
+          "**Reference number**",
+          "601 ACK"
+         ]
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L1-2",
+      "type": "completion",
+      "range": [
+       4,
+       10
+      ],
+      "instructions": [
+       "Complete the table below.",
+       "Write **ONE WORD AND/OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "table",
+        "header": 1,
+        "rows": [
+         [
+          "Item",
+          "Damage",
+          "Cost to repair/ replace"
+         ],
+         [
+          "Television",
+          "The {{4}} needs to be replaced",
+          "not known"
+         ],
+         [
+          "The {{5}} cabinet",
+          "The {{6}} of the cabinet is damaged",
+          "${{7}}"
+         ],
+         [
+          "Dining room table",
+          "A {{8}} is split",
+          "$200"
+         ],
+         [
+          "Set of china",
+          "Six {{9}} were broken",
+          "about\n${{10}} in total"
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    "transcript": "JUDY: Good morning. Total Insurance. Judy speaking, how may I help you?\nMICHAEL: I recently shipped my belongings from overseas back here to Australia and I took out insurance with your company. Some items were damaged during the move so I need to make a claim. What do I have to do?\nJUDY: Okay, well first I need to get a few details about this. Can you give me your name please?\nMICHAEL: Yes. It's Michael Alexander.\nJUDY: Okay. And your address please?\nMICHAEL: My old address or my current one?\nJUDY: Your current one.\nMICHAEL: It's 24 Manly Street, Milperra near Sydney.\nJUDY: What was the suburb, sorry?\nMICHAEL: Milperra. M-I-L-P-E-R-R-A [Q1]\nJUDY: Right. Now, who was the shipping agent Mr Alexander?\nMICHAEL: You mean the company we used?\nJUDY: Yes, the company who packed everything up at the point of origin.\nMICHAEL: Oh, it was ... er ... First Class Movers. [Q2]\nJUDY: Okay... where were the goods shipped from?\nMICHAEL: China, but the ship came via Singapore and was there for about a week.\nJUDY: Don't worry, all of that information will be in the documentation. Now, the dates. Do you know when the ship arrived?\nMICHAEL: It left on the 11th of October and got to Sydney on the 28th of November. [Q3]\nJUDY: Okay. I need one more thing. There's a reference number. It should be in the top right-hand corner of the pink form they gave you.\nMICHAEL: Let me have a look. I have so many papers. Yes, here it is. It's 601 ACK.\nJUDY: Thanks.\nJUDY: I need to take down a few details of the actual damage over the phone before you put in a full report. Can you tell me how many items were damaged and what the damage was?\nMICHAEL: Yes, well four things actually. I'll start with the big things. My TV first of all. It's a large one ... very expensive.\nJUDY: Our insurance doesn't cover electrical problems.\nMICHAEL: It isn't an electrical problem. The screen has a huge crack in it so it's unusable. [Q4]\nJUDY: I see. Any idea of the price to repair it?\nMICHAEL: No. Well, I don't think it can be repaired. It will need a new one. [Q4]\nJUDY: Okay. I'll make a note of that and we'll see what we can do. Now, what was the second item?\nMICHAEL: The cabinet from the bathroom was damaged as well. It's a lovely cabinet, we use it to keep our towels in. [Q5]\nJUDY: And what is the extent of the damage?\nMICHAEL: Well, the back and the sides seem okay but the door has a huge hole in it. [Q6] It can't be repaired. I'm really not very happy about it.\nJUDY: And how much do you think it will cost to replace it?\nMICHAEL: Well, when I bought it last year I paid $125 for it. But the one I've seen here in Sydney is a bit more expensive, it's $140. [Q7]\nJUDY: Right, and what was the third item?\nMICHAEL: My dining room table. It's a lovely table from Indonesia. It must have been very hot inside the container because one leg has completely split down the middle. [Q8] The top and the other three look okay thank goodness.\nJUDY: Any idea of the price to repair it?\nMICHAEL: Well, I had an estimate done on this actually because it is a very special table to us. They quoted us $200, which is really pricey so I hope the insurance will cover the total cost.\nJUDY: I'm sure that will be fine. What was the last item, Mr Alexander?\nMICHAEL: Well, we have a lovely set of china plates and dishes, you know, with matching cups, saucers, the lot. They were all in the one box which must have got dropped because some plates were broken – six actually. [Q9]\nJUDY: And can you tell me the replacement value of these?\nMICHAEL: Well, it's hard to say because they were part of a set but they can be up to $10 each as it's such a good set.\nJUDY: Okay, so that would be around $60 altogether? [Q10]\nMICHAEL: Yes, that's right.\nJUDY: And is that all of the items?\nMICHAEL: Yes. So what do I have to do now?"
+   },
+   {
+    "part": 2,
+    "range": [
+     11,
+     20
+    ],
+    "pages": [
+     34,
+     35
+    ],
+    "groups": [
+     {
+      "id": "L2-1",
+      "type": "choice",
+      "range": [
+       11,
+       11
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B** or **C**."
+      ],
+      "questions": [
+       {
+        "n": 11,
+        "text": "According to the speaker, the main purposes of the park are",
+        "options": [
+         {
+          "key": "A",
+          "text": "education and entertainment."
+         },
+         {
+          "key": "B",
+          "text": "research and education."
+         },
+         {
+          "key": "C",
+          "text": "research and entertainment."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L2-2",
+      "type": "completion",
+      "range": [
+       12,
+       14
+      ],
+      "instructions": [
+       "Label the plan below.",
+       "Write **NO MORE THAN TWO WORDS** for each answer."
+      ],
+      "image": "images/C8/C8-T2-L2-plan.png",
+      "content": [
+       {
+        "t": "h",
+        "text": "Agricultural Park"
+       },
+       {
+        "t": "p",
+        "text": "{{12}} Area"
+       },
+       {
+        "t": "p",
+        "text": "The {{13}}"
+       },
+       {
+        "t": "p",
+        "text": "{{14}} Area"
+       }
+      ]
+     },
+     {
+      "id": "L2-3",
+      "type": "choice",
+      "range": [
+       15,
+       20
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B** or **C**."
+      ],
+      "questions": [
+       {
+        "n": 15,
+        "text": "When are the experimental areas closed to the public?",
+        "options": [
+         {
+          "key": "A",
+          "text": "all the year round"
+         },
+         {
+          "key": "B",
+          "text": "almost all the year"
+         },
+         {
+          "key": "C",
+          "text": "a short time every year"
+         }
+        ]
+       },
+       {
+        "n": 16,
+        "text": "How can you move around the park?",
+        "options": [
+         {
+          "key": "A",
+          "text": "by tram, walking or bicycle"
+         },
+         {
+          "key": "B",
+          "text": "by solar car or bicycle"
+         },
+         {
+          "key": "C",
+          "text": "by bicycle, walking or bus"
+         }
+        ]
+       },
+       {
+        "n": 17,
+        "text": "The rare breed animals kept in the park include",
+        "options": [
+         {
+          "key": "A",
+          "text": "hens and horses."
+         },
+         {
+          "key": "B",
+          "text": "goats and cows."
+         },
+         {
+          "key": "C",
+          "text": "goats and hens."
+         }
+        ]
+       },
+       {
+        "n": 18,
+        "text": "What is the main purpose of having the Rare Breeds Section?",
+        "options": [
+         {
+          "key": "A",
+          "text": "to save unusual animals"
+         },
+         {
+          "key": "B",
+          "text": "to keep a variety of breeds"
+         },
+         {
+          "key": "C",
+          "text": "to educate the public"
+         }
+        ]
+       },
+       {
+        "n": 19,
+        "text": "What can you see in the park at the present time?",
+        "options": [
+         {
+          "key": "A",
+          "text": "the arrival of wild birds"
+         },
+         {
+          "key": "B",
+          "text": "fruit tree blossom"
+         },
+         {
+          "key": "C",
+          "text": "a demonstration of fishing"
+         }
+        ]
+       },
+       {
+        "n": 20,
+        "text": "The shop contains books about",
+        "options": [
+         {
+          "key": "A",
+          "text": "animals."
+         },
+         {
+          "key": "B",
+          "text": "local traditions."
+         },
+         {
+          "key": "C",
+          "text": "the history of the park."
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "transcript": "Welcome to Green Vale Agricultural Park. As you know, we have only been open a week so you are amongst our first visitors. We have lots of fascinating indoor and outdoor exhibits on our huge complex, spreading hundreds of hectares. Our remit is to give educational opportunities to the wider public as well as to offer research sites for a wide variety of agriculturists and other scientists. [Q11]\nLet's start by seeing what there is to do. As you can see here on our giant wall plan, we are now situated in the Reception block... here. As you walk out of the main door into the park there is a path you can follow. If you follow this route you will immediately come into the Rare Breeds section, where we keep a wide variety of animals which I shall be telling you a little more about later. Next to this ... moving east... is the large grazing area for the rare breeds. Then further east... in the largest section of our Park is the Forest Area. [Q12] South of the grazing area and in fact just next to the Reception block is our Experimental Crop Area. In the middle of the Park... this circular area is our lake.... These two small rectangular shapes here... are the Fish Farms where we rear fish for sale. To the east of those is the marsh area which attracts a great many migrant birds. [Q13] In the south-eastern corner, beyond the marsh, is our Market Garden area, growing vegetables and flowers. [Q14]\nAll these areas can be visited by the general public for almost all the year... although... please take note of the large signs at the entrance to each area which tell... which tell you when certain areas are being used for particular controlled experiments and are therefore temporarily out of bounds to the public. [Q15]\nYou can see for yourself what a huge area the park covers and a key question is always, how can we move around? Well you have a choice of means ... all environmentally friendly... cars are banned in the park. We have bicycles which you can hire behind the Reception block... [Q16] here... the healthy ones of you can go on foot and finally there's our electric tram, powered from solar cells. You find more information about this at the front entrance.\nA good place to start on your tour is the Rare Breeds section. We keep goats, sheep and hens and other kinds of poultry. [Q17] We are also thinking of bringing in cows and horses but we do not, as yet, have facilities for these bigger animals. The animals are fed in public twice a day and a short lecture given on their feeding habits and nutritional needs. These are very popular with the public but of course we mustn't lose sight of the main purpose of having this section, not as such to preserve rare animals but to maintain the diversity of breeds to broaden the gene pool for agricultural development. [Q18] Green Vale changes with the seasons with different events happening at different times of the year. May will be perhaps our most spectacular month with the arrival of the Canada geese and when our fruit trees will be in full blossom, but there are interesting events on all year round ... for example John Havers, our expert fly fisherman, is currently giving displays on the lake. Each of the sections has its own seasonal calendar... [Q19] please consult the summary board at the main entrance. And the final section, as we return to the Reception blocks, is the orchard.\nDo take time to browse round our shop... there is a wide selection of books on wildlife, some of them written by local authors, and the history of farming, including organic farming. [Q20] something which the park will be diversifying into in the coming months."
+   },
+   {
+    "part": 3,
+    "range": [
+     21,
+     30
+    ],
+    "pages": [
+     36,
+     37
+    ],
+    "groups": [
+     {
+      "id": "L3-1",
+      "type": "choice",
+      "range": [
+       21,
+       24
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B** or **C**."
+      ],
+      "title": "Honey Bees in Australia",
+      "questions": [
+       {
+        "n": 21,
+        "text": "Where in Australia have Asian honey bees been found in the past?",
+        "options": [
+         {
+          "key": "A",
+          "text": "Queensland"
+         },
+         {
+          "key": "B",
+          "text": "New South Wales"
+         },
+         {
+          "key": "C",
+          "text": "several states"
+         }
+        ]
+       },
+       {
+        "n": 22,
+        "text": "A problem with Asian honey bees is that they",
+        "options": [
+         {
+          "key": "A",
+          "text": "attack native bees."
+         },
+         {
+          "key": "B",
+          "text": "carry parasites."
+         },
+         {
+          "key": "C",
+          "text": "damage crops."
+         }
+        ]
+       },
+       {
+        "n": 23,
+        "text": "What point is made about Australian bees?",
+        "options": [
+         {
+          "key": "A",
+          "text": "Their honey varies in quality."
+         },
+         {
+          "key": "B",
+          "text": "Their size stops them from pollinating some flowers."
+         },
+         {
+          "key": "C",
+          "text": "They are sold to customers abroad."
+         }
+        ]
+       },
+       {
+        "n": 24,
+        "text": "Grant Freeman says that if Asian honey bees got into Australia,",
+        "options": [
+         {
+          "key": "A",
+          "text": "the country's economy would be affected."
+         },
+         {
+          "key": "B",
+          "text": "they could be used in the study of allergies."
+         },
+         {
+          "key": "C",
+          "text": "certain areas of agriculture would benefit."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L3-2",
+      "type": "completion",
+      "range": [
+       25,
+       30
+      ],
+      "instructions": [
+       "Complete the summary below.",
+       "Write **ONE WORD ONLY** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Looking for Asian honey bees"
+       },
+       {
+        "t": "p",
+        "text": "Birds called Rainbow Bee Eaters eat only {{25}}, and cough up small bits of skeleton and other products in a pellet."
+       },
+       {
+        "t": "p",
+        "text": "Researchers go to the locations the bee eaters like to use for {{26}}. They collect the pellets and take them to a {{27}} for analysis. Here {{28}} is used to soften them, and the researchers look for the {{29}} of Asian bees in the pellets."
+       },
+       {
+        "t": "p",
+        "text": "The benefit of this research is that the result is more {{30}} than searching for live Asian bees."
+       }
+      ]
+     }
+    ],
+    "transcript": "PROFESSOR: Good morning everyone. In today's seminar, Grant Freeman, a biologist who specialises in identifying insects, and who works for the Australian Quarantine Service, has come to talk to us about his current research work. Right, well, over to you, Grant.\nGRANT: Good morning, everyone. I'm sure that you know that the quarantine service regulates all food brought into Australia. Well, obviously they want to protect Australia from diseases that might come in with imported goods, but they also want to prevent insect pests from being introduced into the country, and that's where I have a part to play. Anyway, my current research involves trying to find a particular type of bee, the Asian Honey Bee, and finding out whether there are any of them around in various states of Australia. We discovered a few of them in Queensland once and eradicated them. [Q21] Now, we're pretty keen to make sure that there aren't any more getting in, particularly to New South Wales and other states.\nSTUDENT 1: What's wrong with Asian Honey Bees? Are they so different from Australian bees?\nGRANT: Well, in fact, they look almost the same, but they are infested with mites – microscopic creatures which live on them, and which can seriously damage our own home-grown bees, or could even wipe them out. [Q22]\nPROFESSOR: Well, what would happen if Australian bees died out?\nGRANT: Well, the honey from Australian bees is of excellent quality, much better than the stuff the Asian bees produce. In fact, Australia exports native Queen bees to a large number of countries because of this. [Q23] When the European Honey Bee was first discovered out in the bush, we found they made really unpleasant honey and they were also too big to pollinate many of our native flowers here in Australia.\nSTUDENT 2: That must have had a devastating effect on the natural flora. Did you lose any species?\nGRANT: No, we managed to get them under control before that happened but if Asian bees got in there could be other consequences. We could lose a lot of money because you might not be aware, but it's estimated that native bees' pollination of flower and vegetable crops is worth 1.2 billion dollars a year. [Q24] So in a way they're the farmers' friend. Oh, and another thing is, if you're stung by an Asian Honey Bee, it can produce an allergic reaction in some people; so they're much more dangerous than native bees.\nPROFESSOR: How will you know if Asian bees have entered Australia?\nGRANT: We're looking at the diet of the bird called the Rainbow Bee Eater. The Bee Eater doesn't care what it eats, as long as they're insects. But the interesting thing about this bird is that we are able to analyse exactly what it eats and that's really helpful if we're looking for introduced insects. [Q25]\nPROFESSOR: How come?\nGRANT: Because insects have their skeletons outside their bodies, so the Bee Eaters digest the meat from the inside. Then they bring up all the indigestible bits of skeleton and, of course, the wings in a pellet – a small ball of waste material which they cough up.\nPROFESSOR: That sounds a bit unpleasant. So, how do you go about it?\nGRANT: In the field we track down the Bee Eaters and find their favourite feeding spots, you know, the places where the birds usually feed. [Q26] It's here that we can find the pellets. We collect them up and take them back to the laboratory to examine the contents. [Q27]\nPROFESSOR: How do you do that?\nGRANT: The pellets are really hard, especially if they have been out in the sun for a few days so, first of all, we treat them by adding water to moisten them and make them softer. [Q28] Then we pull them apart under the microscope. Everything's all scrunched up but we're looking for wings so we just pull them all out and straighten them. Then we identify them to see if we can find any Asian bee wings. [Q29]\nPROFESSOR: And how many have you found?\nGRANT: So far our research shows that Asian bees have not entered Australia in any number – it's a good result and much more reliable than trying to find live ones as evidence of introduced insects. [Q30]\nPROFESSOR: Well, that's fascinating! Thank you, Grant, for those insights. I hope that you might inspire some of our students here to conduct some similar experiments."
+   },
+   {
+    "part": 4,
+    "range": [
+     31,
+     40
+    ],
+    "pages": [
+     38,
+     39
+    ],
+    "groups": [
+     {
+      "id": "L4-1",
+      "type": "choice",
+      "range": [
+       31,
+       36
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B** or **C**."
+      ],
+      "title": "Research on questions about doctors",
+      "questions": [
+       {
+        "n": 31,
+        "text": "In order to set up her research programme, Shona got",
+        "options": [
+         {
+          "key": "A",
+          "text": "advice from personal friends in other countries."
+         },
+         {
+          "key": "B",
+          "text": "help from students in other countries."
+         },
+         {
+          "key": "C",
+          "text": "information from her tutor's contacts in other countries."
+         }
+        ]
+       },
+       {
+        "n": 32,
+        "text": "What types of people were included in the research?",
+        "options": [
+         {
+          "key": "A",
+          "text": "young people in their first job"
+         },
+         {
+          "key": "B",
+          "text": "men who were working"
+         },
+         {
+          "key": "C",
+          "text": "women who were unemployed"
+         }
+        ]
+       },
+       {
+        "n": 33,
+        "text": "Shona says that in her questionnaire her aim was",
+        "options": [
+         {
+          "key": "A",
+          "text": "to get a wide range of data."
+         },
+         {
+          "key": "B",
+          "text": "to limit people's responses."
+         },
+         {
+          "key": "C",
+          "text": "to guide people through interviews."
+         }
+        ]
+       },
+       {
+        "n": 34,
+        "text": "What do Shona's initial results show about medical services in Britain?",
+        "options": [
+         {
+          "key": "A",
+          "text": "Current concerns are misrepresented by the press."
+         },
+         {
+          "key": "B",
+          "text": "Financial issues are critical to the government."
+         },
+         {
+          "key": "C",
+          "text": "Reforms within hospitals have been unsuccessful."
+         }
+        ]
+       },
+       {
+        "n": 35,
+        "text": "Shona needs to do further research in order to",
+        "options": [
+         {
+          "key": "A",
+          "text": "present the government with her findings."
+         },
+         {
+          "key": "B",
+          "text": "decide the level of extra funding needed."
+         },
+         {
+          "key": "C",
+          "text": "identify the preferences of the public."
+         }
+        ]
+       },
+       {
+        "n": 36,
+        "text": "Shona has learnt from the research project that",
+        "options": [
+         {
+          "key": "A",
+          "text": "it is important to plan projects carefully."
+         },
+         {
+          "key": "B",
+          "text": "people do not like answering questions."
+         },
+         {
+          "key": "C",
+          "text": "colleagues do not always agree."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L4-2",
+      "type": "matching",
+      "range": [
+       37,
+       40
+      ],
+      "instructions": [
+       "Which statement applies to each of the following people who were interviewed by Shona?",
+       "Choose **FOUR** answers from the box and write the correct letter, **A–F**, next to questions 37–40."
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": "gave false data"
+       },
+       {
+        "key": "B",
+        "text": "decided to stop participating"
+       },
+       {
+        "key": "C",
+        "text": "refused to tell Shona about their job"
+       },
+       {
+        "key": "D",
+        "text": "kept changing their mind about participating"
+       },
+       {
+        "key": "E",
+        "text": "became very angry with Shona"
+       },
+       {
+        "key": "F",
+        "text": "was worried about confidentiality"
+       }
+      ],
+      "title": "People interviewed by Shona",
+      "questions": [
+       {
+        "n": 37,
+        "text": "a person interviewed in the street"
+       },
+       {
+        "n": 38,
+        "text": "an undergraduate at the university"
+       },
+       {
+        "n": 39,
+        "text": "a colleague in her department"
+       },
+       {
+        "n": 40,
+        "text": "a tutor in a foreign university"
+       }
+      ]
+     }
+    ],
+    "transcript": "I've been doing some research into what people in Britain think of doctors, the ones who work in general practice – the first call for medical care – and comparing this with the situation in a couple of other countries. I want to talk about the rationale behind what I decided to do.\nNow I had to set up my programme of research in three different countries so I approached postgraduates in my field in overseas departments, contacting them by email, to organise things for me at their end. [Q31] I thought I would have trouble recruiting help but in fact everyone was very willing and sometimes their tutors got involved too.\nI had to give my helpers clear instructions about what kind of sample population I wanted them to use. I decided that people under 18 should be excluded because most of them are students or looking for their first job, and also I decided at this stage just to focus on men who were in employment, and set up something for people who didn't have jobs and for employed women later on as a separate investigation. [Q32]\nI specifically wanted to do a questionnaire, and interviews with a focus group. With the questionnaire, rather than limiting it to one specific point, I wanted to include as much variety as possible. [Q33] I know questionnaires are a very controlled way to do things but I thought I could do taped interviews later on to counteract the effects of this. And the focus group may also prove useful in future, by targeting subjects I can easily return to, as the participants tend to be more involved.\nSo I'm just collating the results now. At the moment it looks as if, in the UK, despite the fact that newspapers continually report that people are unhappy with medical care, in fact it is mainly the third level of care, which takes place in hospitals, that they are worried about. [Q34] Government reforms have been proposed at all levels and although their success is not guaranteed, long-term hospital care is in fact probably less of an issue than the media would have us believe. However, I've still got quite a bit of data to look at.\nCertainly I will need to do more far-reaching research than I had anticipated in order to establish if people want extra medical staff invested in the community, or if they want care to revert to fewer, but larger, key medical units. [Q35] The solution may well be something that can be easily implemented by those responsible in local government, with central government support of course.\nThis first stage has proved very valuable though. I was surprised by how willing most of the subjects were to get involved in the project – I had expected some unwillingness to answer questions honestly. But I was taken aback and rather concerned that something I thought I'd set up very well didn't necessarily seem that way to everyone in my own department. [Q36]\nI thought you might also be interested in some of the problems I encountered in collecting my data. There were odd cases that threw me – one of the subjects who I had approached while he was out shopping in town, decided to pull out when it came to the second round. It was a shame as it was someone who I would like to have interviewed more closely. [Q37]\nAnd one of the first-year students I interviewed wanted reassurance that no names would be traceable from the answers. [Q38] I was so surprised, because they think nothing of telling you about themselves and their opinions in seminar groups!\nThen, one of the people that I work with got a bit funny. The questions were quite personal and one minute he said he'd do it, then the next day he wouldn't, and in the end he did do it. [Q39] It's hard not to get angry in that situation but I tried to keep focused on the overall picture in order to stay calm.\nThe most bizarre case was a telephone interview I did with a teacher at a university in France. He answered all my questions in great detail – but then when I asked how much access he had to dangerous substances he wouldn't tell me exactly what his work involved. [Q40] It's a real eye-opener..."
+   }
+  ],
+  "answers": {
+   "1": {
+    "a": [
+     "Milperra"
+    ]
+   },
+   "2": {
+    "a": [
+     "First Class Movers"
+    ]
+   },
+   "3": {
+    "a": [
+     "28 November"
+    ]
+   },
+   "4": {
+    "a": [
+     "screen"
+    ]
+   },
+   "5": {
+    "a": [
+     "bathroom"
+    ]
+   },
+   "6": {
+    "a": [
+     "door"
+    ]
+   },
+   "7": {
+    "a": [
+     "140"
+    ]
+   },
+   "8": {
+    "a": [
+     "leg"
+    ]
+   },
+   "9": {
+    "a": [
+     "plates"
+    ]
+   },
+   "10": {
+    "a": [
+     "60"
+    ]
+   },
+   "11": {
+    "a": [
+     "B"
+    ]
+   },
+   "12": {
+    "a": [
+     "the Forest",
+     "Forest"
+    ],
+    "k": "(the) Forest"
+   },
+   "13": {
+    "a": [
+     "Fish Farm",
+     "Fish Farms"
+    ],
+    "k": "Fish Farm(s)"
+   },
+   "14": {
+    "a": [
+     "Market Garden"
+    ]
+   },
+   "15": {
+    "a": [
+     "C"
+    ]
+   },
+   "16": {
+    "a": [
+     "A"
+    ]
+   },
+   "17": {
+    "a": [
+     "C"
+    ]
+   },
+   "18": {
+    "a": [
+     "B"
+    ]
+   },
+   "19": {
+    "a": [
+     "C"
+    ]
+   },
+   "20": {
+    "a": [
+     "A"
+    ]
+   },
+   "21": {
+    "a": [
+     "A"
+    ]
+   },
+   "22": {
+    "a": [
+     "B"
+    ]
+   },
+   "23": {
+    "a": [
+     "C"
+    ]
+   },
+   "24": {
+    "a": [
+     "A"
+    ]
+   },
+   "25": {
+    "a": [
+     "insects"
+    ]
+   },
+   "26": {
+    "a": [
+     "feeding",
+     "eating"
+    ],
+    "k": "feeding/eating"
+   },
+   "27": {
+    "a": [
+     "laboratory"
+    ]
+   },
+   "28": {
+    "a": [
+     "water"
+    ]
+   },
+   "29": {
+    "a": [
+     "wings"
+    ]
+   },
+   "30": {
+    "a": [
+     "reliable",
+     "accurate"
+    ],
+    "k": "reliable/accurate"
+   },
+   "31": {
+    "a": [
+     "B"
+    ]
+   },
+   "32": {
+    "a": [
+     "B"
+    ]
+   },
+   "33": {
+    "a": [
+     "A"
+    ]
+   },
+   "34": {
+    "a": [
+     "A"
+    ]
+   },
+   "35": {
+    "a": [
+     "C"
+    ]
+   },
+   "36": {
+    "a": [
+     "C"
+    ]
+   },
+   "37": {
+    "a": [
+     "B"
+    ]
+   },
+   "38": {
+    "a": [
+     "F"
+    ]
+   },
+   "39": {
+    "a": [
+     "D"
+    ]
+   },
+   "40": {
+    "a": [
+     "C"
+    ]
+   }
+  }
+ },
+ "reading": {
+  "passages": [
+   {
+    "passage": 1,
+    "range": [
+     1,
+     13
+    ],
+    "pages": [
+     40,
+     41,
+     42,
+     43
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 1–13**, which are based on Reading Passage 1 below.",
+    "title": "Sheet glass manufacture: the float process",
+    "subtitle": null,
+    "paragraphs": [
+     {
+      "text": "Glass, which has been made since the time of the Mesopotamians and Egyptians, is little more than a mixture of sand, soda ash and lime. When heated to about 1500 degrees Celsius (°C) this becomes a molten mass that hardens when slowly cooled. The first successful method for making clear, flat glass involved spinning. This method was very effective as the glass had not touched any surfaces between being soft and becoming hard, so it stayed perfectly unblemished, with a 'fire finish'. However, the process took a long time and was labour intensive."
+     },
+     {
+      "text": "Nevertheless, demand for flat glass was very high and glassmakers across the world were looking for a method of making it continuously. The first continuous ribbon process involved squeezing molten glass through two hot rollers, similar to an old mangle. This allowed glass of virtually any thickness to be made non-stop, but the rollers would leave both sides of the glass marked, and these would then need to be ground and polished. This part of the process rubbed away around 20 per cent of the glass, and the machines were very expensive."
+     },
+     {
+      "text": "The float process for making flat glass was invented by Alistair Pilkington. This process allows the manufacture of clear, tinted and coated glass for buildings, and clear and tinted glass for vehicles. Pilkington had been experimenting with improving the melting process, and in 1952 he had the idea of using a bed of molten metal to form the flat glass, eliminating altogether the need for rollers within the float bath. The metal had to melt at a temperature less than the hardening point of glass (about 600°C), but could not boil at a temperature below the temperature of the molten glass (about 1500°C). The best metal for the job was tin."
+     },
+     {
+      "text": "The rest of the concept relied on gravity, which guaranteed that the surface of the molten metal was perfectly flat and horizontal. Consequently, when pouring molten glass onto the molten tin, the underside of the glass would also be perfectly flat. If the glass were kept hot enough, it would flow over the molten tin until the top surface was also flat, horizontal and perfectly parallel to the bottom surface. Once the glass cooled to 604°C or less it was too hard to mark and could be transported out of the cooling zone by rollers. The glass settled to a thickness of six millimetres because of surface tension interactions between the glass and the tin. By fortunate coincidence, 60 per cent of the flat glass market at that time was for six-millimetre glass."
+     },
+     {
+      "text": "Pilkington built a pilot plant in 1953 and by 1955 he had convinced his company to build a full-scale plant. However, it took 14 months of non-stop production, costing the company £100,000 a month, before the plant produced any usable glass. Furthermore, once they succeeded in making marketable flat glass, the machine was turned off for a service to prepare it for years of continuous production. When it started up again it took another four months to get the process right again. They finally succeeded in 1959 and there are now float plants all over the world, with each able to produce around 1000 tons of glass every day, non-stop for around 15 years."
+     },
+     {
+      "text": "Float plants today make glass of near optical quality. Several processes – melting, refining, homogenising – take place simultaneously in the 2000 tonnes of molten glass in the furnace. They occur in separate zones in a complex glass flow driven by high temperatures. It adds up to a continuous melting process, lasting as long as 50 hours, that delivers glass smoothly and continuously to the float bath, and from there to a coating zone and finally a heat treatment zone, where stresses formed during cooling are relieved."
+     },
+     {
+      "text": "The principle of float glass is unchanged since the 1950s. However, the product has changed dramatically, from a single thickness of 6.8 mm to a range from sub-millimetre to 25 mm, from a ribbon frequently marred by inclusions and bubbles to almost optical perfection. To ensure the highest quality, inspection takes place at every stage. Occasionally, a bubble is not removed during refining, a sand grain refuses to melt, a tremor in the tin puts ripples into the glass ribbon. Automated on-line inspection does two things. Firstly, it reveals process faults upstream that can be corrected. Inspection technology allows more than 100 million measurements a second to be made across the ribbon, locating flaws the unaided eye would be unable to see. Secondly, it enables computers downstream to steer cutters around flaws."
+     },
+     {
+      "text": "Float glass is sold by the square metre, and at the final stage computers translate customer requirements into patterns of cuts designed to minimise waste."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R1-1",
+      "type": "completion",
+      "range": [
+       1,
+       8
+      ],
+      "instructions": [
+       "Complete the table and diagram below.",
+       "Choose **NO MORE THAN TWO WORDS** from the passage for each answer.",
+       "Write your answers in boxes 1–8 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Early methods of producing flat glass"
+       },
+       {
+        "t": "table",
+        "header": 1,
+        "rows": [
+         [
+          "Method",
+          "Advantages",
+          "Disadvantages"
+         ],
+         [
+          "{{1}}",
+          "• Glass remained {{2}}",
+          "• Slow\n• {{3}}"
+         ],
+         [
+          "Ribbon",
+          "• Could produce glass sheets of varying {{4}}\n• Non-stop process",
+          "• Glass was {{5}}\n• 20% of glass rubbed away\n• Machines were expensive"
+         ]
+        ]
+       },
+       {
+        "t": "h",
+        "text": "Pilkington's float process"
+       },
+       {
+        "t": "img",
+        "src": "images/C8/C8-T2-R1-diagram.png"
+       },
+       {
+        "t": "p",
+        "text": "{{6}}"
+       },
+       {
+        "t": "p",
+        "text": "{{7}}"
+       },
+       {
+        "t": "p",
+        "text": "{{8}}"
+       }
+      ]
+     },
+     {
+      "id": "R1-2",
+      "type": "tfng",
+      "range": [
+       9,
+       13
+      ],
+      "instructions": [
+       "Do the following statements agree with the information given in Reading Passage 1?",
+       "In boxes 9–13 on your answer sheet, write",
+       "**TRUE** if the statement agrees with the information",
+       "**FALSE** if the statement contradicts the information",
+       "**NOT GIVEN** if there is no information on this"
+      ],
+      "questions": [
+       {
+        "n": 9,
+        "text": "The metal used in the float process had to have specific properties."
+       },
+       {
+        "n": 10,
+        "text": "Pilkington invested some of his own money in his float plant."
+       },
+       {
+        "n": 11,
+        "text": "Pilkington's first full-scale plant was an instant commercial success."
+       },
+       {
+        "n": 12,
+        "text": "The process invented by Pilkington has now been improved."
+       },
+       {
+        "n": 13,
+        "text": "Computers are better than humans at detecting faults in glass."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "passage": 2,
+    "range": [
+     14,
+     26
+    ],
+    "pages": [
+     44,
+     45,
+     46,
+     47
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 14–26**, which are based on Reading Passage 2 on the following pages.",
+    "title": "THE LITTLE ICE AGE",
+    "subtitle": null,
+    "paragraphs": [
+     {
+      "label": "A",
+      "text": "This book will provide a detailed examination of the Little Ice Age and other climatic shifts, but, before I embark on that, let me provide a historical context. We tend to think of climate – as opposed to weather – as something unchanging, yet humanity has been at the mercy of climate change for its entire existence, with at least eight glacial episodes in the past 730,000 years. Our ancestors adapted to the universal but irregular global warming since the end of the last great Ice Age, around 10,000 years ago, with dazzling opportunism. They developed strategies for surviving harsh drought cycles, decades of heavy rainfall or unaccustomed cold; adopted agriculture and stock-raising, which revolutionised human life; and founded the world's first pre-industrial civilisations in Egypt, Mesopotamia and the Americas. But the price of sudden climate change, in famine, disease and suffering, was often high."
+     },
+     {
+      "label": "B",
+      "text": "The Little Ice Age lasted from roughly 1300 until the middle of the nineteenth century. Only two centuries ago, Europe experienced a cycle of bitterly cold winters; mountain glaciers in the Swiss Alps were the lowest in recorded memory, and pack ice surrounded Iceland for much of the year. The climatic events of the Little Ice Age did more than help shape the modern world. They are the deeply important context for the current unprecedented global warming. The Little Ice Age was far from a deep freeze, however; rather an irregular seesaw of rapid climatic shifts, few lasting more than a quarter-century, driven by complex and still little understood interactions between the atmosphere and the ocean. The seesaw brought cycles of intensely cold winters and easterly winds, then, switched abruptly to years of heavy spring and early summer rains, mild winters, and frequent Atlantic storms, or to periods of droughts, light northeasterly winds, and summer heat waves."
+     },
+     {
+      "label": "C",
+      "text": "Reconstructing the climate changes of the past is extremely difficult, because systematic weather observations began only a few centuries ago, in Europe and North America. Records from India and tropical Africa are even more recent. For the time before records began, we have only 'proxy records' reconstructed largely from tree rings and ice cores, supplemented by a few incomplete written accounts. We now have hundreds of tree-ring records from throughout the northern hemisphere, and many from south of the equator, too, amplified with a growing body of temperature data from ice cores drilled in Antarctica, Greenland, the Peruvian Andes, and other locations. We are close to a knowledge of annual summer and winter temperature variations over much of the northern hemisphere going back 600 years."
+     },
+     {
+      "label": "D",
+      "text": "This book is a narrative history of climatic shifts during the past ten centuries, and some of the ways in which people in Europe adapted to them. Part One describes the Medieval Warm Period, roughly 900 to 1200. During these three centuries, Norse voyagers from Northern Europe explored northern seas, settled Greenland, and visited North America. It was not a time of uniform warmth, for then, as always since the Great Ice Age, there were constant shifts in rainfall and temperature. Mean European temperatures were about the same as today, perhaps slightly cooler."
+     },
+     {
+      "label": "E",
+      "text": "It is known that the Little Ice Age cooling began in Greenland and the Arctic in about 1200. As the Arctic ice pack spread southward, Norse voyages to the west were rerouted into the open Atlantic, then ended altogether. Storminess increased in the North Atlantic and North Sea. Colder, much wetter weather descended on Europe between 1315 and 1319, when thousands perished in a continent-wide famine. By 1400, the weather had become decidedly more unpredictable and stormier, with sudden shifts and lower temperatures that culminated in the cold decades of the late sixteenth century. Fish were a vital commodity in growing towns and cities, where food supplies were a constant concern. Dried cod and herring were already the staples of the European fish trade, but changes in water temperatures forced fishing fleets to work further offshore. The Basques, Dutch, and English developed the first offshore fishing boats adapted to a colder and stormier Atlantic. A gradual agricultural revolution in northern Europe stemmed from concerns over food supplies at a time of rising populations. The revolution involved intensive commercial farming and the growing of animal fodder on land not previously used for crops. The increased productivity from farmland made some countries self-sufficient in grain and livestock and offered effective protection against famine."
+     },
+     {
+      "label": "F",
+      "text": "Global temperatures began to rise slowly after 1850, with the beginning of the Modern Warm Period. There was a vast migration from Europe by land-hungry farmers and others, to which the famine caused by the Irish potato blight contributed, to North America, Australia, New Zealand, and southern Africa. Millions of hectares of forest and woodland fell before the newcomers' axes between 1850 and 1890, as intensive European farming methods expanded across the world. The unprecedented land clearance released vast quantities of carbon dioxide into the atmosphere, triggering for the first time humanly caused global warming. Temperatures climbed more rapidly in the twentieth century as the use of fossil fuels proliferated and greenhouse gas levels continued to soar. The rise has been even steeper since the early 1980s. The Little Ice Age has given way to a new climatic regime, marked by prolonged and steady warming. At the same time, extreme weather events like Category 5 hurricanes are becoming more frequent."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R2-1",
+      "type": "matching",
+      "range": [
+       14,
+       17
+      ],
+      "instructions": [
+       "Reading Passage 2 has six paragraphs, **A–F**.",
+       "Choose the correct heading for paragraphs **B** and **D–F** from the list of headings below.",
+       "Write the correct number, **i–ix**, in boxes 14–17 on your answer sheet.",
+       "Example: Paragraph A – viii",
+       "Example: Paragraph C – v"
+      ],
+      "optionsTitle": "List of Headings",
+      "options": [
+       {
+        "key": "i",
+        "text": "Predicting climatic changes"
+       },
+       {
+        "key": "ii",
+        "text": "The relevance of the Little Ice Age today"
+       },
+       {
+        "key": "iii",
+        "text": "How cities contribute to climate change"
+       },
+       {
+        "key": "iv",
+        "text": "Human impact on the climate"
+       },
+       {
+        "key": "v",
+        "text": "How past climatic conditions can be determined"
+       },
+       {
+        "key": "vi",
+        "text": "A growing need for weather records"
+       },
+       {
+        "key": "vii",
+        "text": "A study covering a thousand years"
+       },
+       {
+        "key": "viii",
+        "text": "People have always responded to climate change"
+       },
+       {
+        "key": "ix",
+        "text": "Enough food at last"
+       }
+      ],
+      "questions": [
+       {
+        "n": 14,
+        "text": "Paragraph B"
+       },
+       {
+        "n": 15,
+        "text": "Paragraph D"
+       },
+       {
+        "n": 16,
+        "text": "Paragraph E"
+       },
+       {
+        "n": 17,
+        "text": "Paragraph F"
+       }
+      ]
+     },
+     {
+      "id": "R2-2",
+      "type": "completion",
+      "range": [
+       18,
+       22
+      ],
+      "instructions": [
+       "Complete the summary using the list of words, **A–I**, below.",
+       "Write the correct letter, **A–I**, in boxes 18–22 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Weather during the Little Ice Age"
+       },
+       {
+        "t": "p",
+        "text": "Documentation of past weather conditions is limited: our main sources of knowledge of conditions in the distant past are {{18}} and {{19}}. We can deduce that the Little Ice Age was a time of {{20}}, rather than of consistent freezing. Within it there were some periods of very cold winters, others of {{21}} and heavy rain, and yet others that saw {{22}} with no rain at all."
+       }
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": "climatic shifts"
+       },
+       {
+        "key": "B",
+        "text": "ice cores"
+       },
+       {
+        "key": "C",
+        "text": "tree rings"
+       },
+       {
+        "key": "D",
+        "text": "glaciers"
+       },
+       {
+        "key": "E",
+        "text": "interactions"
+       },
+       {
+        "key": "F",
+        "text": "weather observations"
+       },
+       {
+        "key": "G",
+        "text": "heat waves"
+       },
+       {
+        "key": "H",
+        "text": "storms"
+       },
+       {
+        "key": "I",
+        "text": "written accounts"
+       }
+      ]
+     },
+     {
+      "id": "R2-3",
+      "type": "matching",
+      "range": [
+       23,
+       26
+      ],
+      "instructions": [
+       "Classify the following events as occurring during the",
+       "Write the correct letter, **A**, **B** or **C**, in boxes 23–26 on your answer sheet."
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": "*Medieval Warm Period*"
+       },
+       {
+        "key": "B",
+        "text": "*Little Ice Age*"
+       },
+       {
+        "key": "C",
+        "text": "*Modern Warm Period*"
+       }
+      ],
+      "questions": [
+       {
+        "n": 23,
+        "text": "Many Europeans started farming abroad."
+       },
+       {
+        "n": 24,
+        "text": "The cutting down of trees began to affect the climate."
+       },
+       {
+        "n": 25,
+        "text": "Europeans discovered other lands."
+       },
+       {
+        "n": 26,
+        "text": "Changes took place in fishing patterns."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "passage": 3,
+    "range": [
+     27,
+     40
+    ],
+    "pages": [
+     48,
+     49,
+     50,
+     51
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 27–40**, which are based on Reading Passage 3 on the following pages.",
+    "title": "The meaning and power of smell",
+    "subtitle": null,
+    "paragraphs": [
+     {
+      "text": "*The sense of smell, or olfaction, is powerful. Odours affect us on a physical, psychological and social level. For the most part, however, we breathe in the aromas which surround us without being consciously aware of their importance to us. It is only when the faculty of smell is impaired for some reason that we begin to realise the essential role the sense of smell plays in our sense of well-being*"
+     },
+     {
+      "label": "A",
+      "text": "A survey conducted by Anthony Synott at Montreal's Concordia University asked participants to comment on how important smell was to them in their lives. It became apparent that smell can evoke strong emotional responses. A scent associated with a good experience can bring a rush of joy, while a foul odour or one associated with a bad memory may make us grimace with disgust. Respondents to the survey noted that many of their olfactory likes and dislikes were based on emotional associations. Such associations can be powerful enough so that odours that we would generally label unpleasant become agreeable, and those that we would generally consider fragrant become disagreeable for particular individuals. The perception of smell, therefore, consists not only of the sensation of the odours themselves, but of the experiences and emotions associated with them."
+     },
+     {
+      "label": "B",
+      "text": "Odours are also essential cues in social bonding. One respondent to the survey believed that there is no true emotional bonding without touching and smelling a loved one. In fact, infants recognise the odours of their mothers soon after birth and adults can often identify their children or spouses by scent. In one well-known test, women and men were able to distinguish by smell alone clothing worn by their marriage partners from similar clothing worn by other people. Most of the subjects would probably never have given much thought to odour as a cue for identifying family members before being involved in the test, but as the experiment revealed, even when not consciously considered, smells register."
+     },
+     {
+      "label": "C",
+      "text": "In spite of its importance to our emotional and sensory lives, smell is probably the most undervalued sense in many cultures. The reason often given for the low regard in which smell is held is that, in comparison with its importance among animals, the human sense of smell is feeble and undeveloped. While it is true that the olfactory powers of humans are nothing like as fine as those possessed by certain animals, they are still remarkably acute. Our noses are able to recognise thousands of smells, and to perceive odours which are present only in extremely small quantities."
+     },
+     {
+      "label": "D",
+      "text": "Smell, however, is a highly elusive phenomenon. Odours, unlike colours, for instance, cannot be named in many languages because the specific vocabulary simply doesn't exist. 'It smells like . . .,' we have to say when describing an odour, struggling to express our olfactory experience. Nor can odours be recorded: there is no effective way to either capture or store them over time. In the realm of olfaction, we must make do with descriptions and recollections. This has implications for olfactory research."
+     },
+     {
+      "label": "E",
+      "text": "Most of the research on smell undertaken to date has been of a physical scientific nature. Significant advances have been made in the understanding of the biological and chemical nature of olfaction, but many fundamental questions have yet to be answered. Researchers have still to decide whether smell is one sense or two – one responding to odours proper and the other registering odourless chemicals in the air. Other unanswered questions are whether the nose is the only part of the body affected by odours, and how smells can be measured objectively given the non-physical components. Questions like these mean that interest in the psychology of smell is inevitably set to play an increasingly important role for researchers."
+     },
+     {
+      "label": "F",
+      "text": "However, smell is not simply a biological and psychological phenomenon. Smell is cultural, hence it is a social and historical phenomenon. Odours are invested with cultural values: smells that are considered to be offensive in some cultures may be perfectly acceptable in others. Therefore, our sense of smell is a means of, and model for, interacting with the world. Different smells can provide us with intimate and emotionally charged experiences and the value that we attach to these experiences is interiorised by the members of society in a deeply personal way. Importantly, our commonly held feelings about smells can help distinguish us from other cultures. The study of the cultural history of smell is, therefore, in a very real sense, an investigation into the essence of human culture."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R3-1",
+      "type": "matching",
+      "range": [
+       27,
+       32
+      ],
+      "instructions": [
+       "Reading Passage 3 has six paragraphs, **A–F**.",
+       "Choose the correct heading for each paragraph from the list of headings below.",
+       "Write the correct number, **i–viii**, in boxes 27–32 on your answer sheet."
+      ],
+      "optionsTitle": "List of Headings",
+      "options": [
+       {
+        "key": "i",
+        "text": "The difficulties of talking about smells"
+       },
+       {
+        "key": "ii",
+        "text": "The role of smell in personal relationships"
+       },
+       {
+        "key": "iii",
+        "text": "Future studies into smell"
+       },
+       {
+        "key": "iv",
+        "text": "The relationship between the brain and the nose"
+       },
+       {
+        "key": "v",
+        "text": "The interpretation of smells as a factor in defining groups"
+       },
+       {
+        "key": "vi",
+        "text": "Why our sense of smell is not appreciated"
+       },
+       {
+        "key": "vii",
+        "text": "Smell is our superior sense"
+       },
+       {
+        "key": "viii",
+        "text": "The relationship between smell and feelings"
+       }
+      ],
+      "questions": [
+       {
+        "n": 27,
+        "text": "Paragraph A"
+       },
+       {
+        "n": 28,
+        "text": "Paragraph B"
+       },
+       {
+        "n": 29,
+        "text": "Paragraph C"
+       },
+       {
+        "n": 30,
+        "text": "Paragraph D"
+       },
+       {
+        "n": 31,
+        "text": "Paragraph E"
+       },
+       {
+        "n": 32,
+        "text": "Paragraph F"
+       }
+      ]
+     },
+     {
+      "id": "R3-2",
+      "type": "choice",
+      "range": [
+       33,
+       36
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B**, **C** or **D**.",
+       "Write the correct letter in boxes 33–36 on your answer sheet."
+      ],
+      "questions": [
+       {
+        "n": 33,
+        "text": "According to the introduction, we become aware of the importance of smell when",
+        "options": [
+         {
+          "key": "A",
+          "text": "we discover a new smell."
+         },
+         {
+          "key": "B",
+          "text": "we experience a powerful smell."
+         },
+         {
+          "key": "C",
+          "text": "our ability to smell is damaged."
+         },
+         {
+          "key": "D",
+          "text": "we are surrounded by odours."
+         }
+        ]
+       },
+       {
+        "n": 34,
+        "text": "The experiment described in paragraph B",
+        "options": [
+         {
+          "key": "A",
+          "text": "shows how we make use of smell without realising it."
+         },
+         {
+          "key": "B",
+          "text": "demonstrates that family members have a similar smell."
+         },
+         {
+          "key": "C",
+          "text": "proves that a sense of smell is learnt."
+         },
+         {
+          "key": "D",
+          "text": "compares the sense of smell in males and females."
+         }
+        ]
+       },
+       {
+        "n": 35,
+        "text": "What is the writer doing in paragraph C?",
+        "options": [
+         {
+          "key": "A",
+          "text": "supporting other research"
+         },
+         {
+          "key": "B",
+          "text": "making a proposal"
+         },
+         {
+          "key": "C",
+          "text": "rejecting a common belief"
+         },
+         {
+          "key": "D",
+          "text": "describing limitations"
+         }
+        ]
+       },
+       {
+        "n": 36,
+        "text": "What does the writer suggest about the study of smell in the atmosphere in paragraph E?",
+        "options": [
+         {
+          "key": "A",
+          "text": "The measurement of smell is becoming more accurate."
+         },
+         {
+          "key": "B",
+          "text": "Researchers believe smell is a purely physical reaction."
+         },
+         {
+          "key": "C",
+          "text": "Most smells are inoffensive."
+         },
+         {
+          "key": "D",
+          "text": "Smell is yet to be defined."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "R3-3",
+      "type": "completion",
+      "range": [
+       37,
+       40
+      ],
+      "instructions": [
+       "Complete the sentences below.",
+       "Choose **ONE WORD ONLY** from the passage for each answer.",
+       "Write your answers in boxes 37–40 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "p",
+        "text": "Tests have shown that odours can help people recognise the {{37}} belonging to their husbands and wives."
+       },
+       {
+        "t": "p",
+        "text": "Certain linguistic groups may have difficulty describing smell because they lack the appropriate {{38}}."
+       },
+       {
+        "t": "p",
+        "text": "The sense of smell may involve response to {{39}} which do not smell, in addition to obvious odours."
+       },
+       {
+        "t": "p",
+        "text": "Odours regarded as unpleasant in certain {{40}} are not regarded as unpleasant in others."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "answers": {
+   "1": {
+    "a": [
+     "spinning"
+    ]
+   },
+   "2": {
+    "a": [
+     "perfectly unblemished",
+     "unblemished"
+    ],
+    "k": "(perfectly) unblemished"
+   },
+   "3": {
+    "a": [
+     "labour-intensive",
+     "labor-intensive",
+     "labour intensive",
+     "labor intensive"
+    ],
+    "k": "labour/labor-intensive"
+   },
+   "4": {
+    "a": [
+     "thickness"
+    ]
+   },
+   "5": {
+    "a": [
+     "marked"
+    ]
+   },
+   "6": {
+    "a": [
+     "molten glass",
+     "glass"
+    ],
+    "k": "(molten) glass"
+   },
+   "7": {
+    "a": [
+     "molten tin",
+     "tin",
+     "molten metal",
+     "metal"
+    ],
+    "k": "(molten) tin/metal"
+   },
+   "8": {
+    "a": [
+     "rollers"
+    ]
+   },
+   "9": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "10": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "11": {
+    "a": [
+     "FALSE"
+    ]
+   },
+   "12": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "13": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "14": {
+    "a": [
+     "ii"
+    ]
+   },
+   "15": {
+    "a": [
+     "vii"
+    ]
+   },
+   "16": {
+    "a": [
+     "ix"
+    ]
+   },
+   "17": {
+    "a": [
+     "iv"
+    ]
+   },
+   "18": {
+    "a": [
+     "C"
+    ],
+    "k": "18&19 IN EITHER ORDER C B"
+   },
+   "19": {
+    "a": [
+     "B"
+    ],
+    "k": "18&19 IN EITHER ORDER C B"
+   },
+   "20": {
+    "a": [
+     "A"
+    ]
+   },
+   "21": {
+    "a": [
+     "H"
+    ]
+   },
+   "22": {
+    "a": [
+     "G"
+    ]
+   },
+   "23": {
+    "a": [
+     "C"
+    ]
+   },
+   "24": {
+    "a": [
+     "C"
+    ]
+   },
+   "25": {
+    "a": [
+     "A"
+    ]
+   },
+   "26": {
+    "a": [
+     "B"
+    ]
+   },
+   "27": {
+    "a": [
+     "viii"
+    ]
+   },
+   "28": {
+    "a": [
+     "ii"
+    ]
+   },
+   "29": {
+    "a": [
+     "vi"
+    ]
+   },
+   "30": {
+    "a": [
+     "i"
+    ]
+   },
+   "31": {
+    "a": [
+     "iii"
+    ]
+   },
+   "32": {
+    "a": [
+     "v"
+    ]
+   },
+   "33": {
+    "a": [
+     "C"
+    ]
+   },
+   "34": {
+    "a": [
+     "A"
+    ]
+   },
+   "35": {
+    "a": [
+     "C"
+    ]
+   },
+   "36": {
+    "a": [
+     "D"
+    ]
+   },
+   "37": {
+    "a": [
+     "clothing"
+    ]
+   },
+   "38": {
+    "a": [
+     "vocabulary"
+    ]
+   },
+   "39": {
+    "a": [
+     "chemicals"
+    ]
+   },
+   "40": {
+    "a": [
+     "cultures"
+    ]
+   }
+  },
+  "eitherOrder": [
+   [
+    18,
+    19
+   ]
+  ]
+ },
+ "writing": {
+  "tasks": [
+   {
+    "task": 1,
+    "minutes": 20,
+    "minWords": 150,
+    "pages": [
+     52
+    ],
+    "prompt": [
+     "The three pie charts below show the changes in annual spending by a particular UK school in 1981, 1991 and 2001.",
+     "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+    ],
+    "image": "images/C8/C8-T2-W1.png",
+    "sample": {
+     "kind": "model",
+     "band": null,
+     "text": "The charts show how much a UK school spent on different running costs in three separate years: 1981, 1991 and 2001.\n\nIn all three years, the greatest expenditure was on staff salaries. But while other workers' salaries saw a fall from 28% in 1981 to only 15% of spending in 2001, teachers' pay remained the biggest cost, reaching 50% of total spending in 1991 and ending at 45% in 2001.\n\nExpenditure on resources such as books had increased to 20% by 1991 before decreasing to only 9% by the end of the period. In contrast, the cost of furniture and equipment saw an opposite trend. This cost decreased to only 5% of total expenditure in 1991 but rose dramatically in 2001 when it represented 23% of the school budget. Similarly, the cost of insurance saw a rising trend, growing from only 2% to 8% by 2001.\n\nOverall, teachers' salaries constituted the largest cost to the school, and while spending increased dramatically for equipment and insurance, there were corresponding drops in expenditure on things such as books and on other workers' salaries.",
+     "comment": null
+    }
+   },
+   {
+    "task": 2,
+    "minutes": 40,
+    "minWords": 250,
+    "pages": [
+     53
+    ],
+    "prompt": [
+     "Write about the following topic:",
+     "*Nowadays the way many people interact with each other has changed because of technology.*",
+     "*In what ways has technology affected the types of relationships people make?*",
+     "*Has this become a positive or negative development?*",
+     "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+    ],
+    "sample": {
+     "kind": "candidate",
+     "band": "5.5",
+     "text": "Nowadays the way people interact with each other has changed because of technology.\n\nYes, the technology has changed the people's interaction in very enhanced manner.\n\nEarlier people use to wait and try to find easy way to contact their friends or relatives leaving far. In past there was no quick technology to contact or to establish any communication between one person to another person. The Drawback with past communication systems was that it were very slow and were time taking process such as telegrams, letter etc. People used to afraid to write their personal feedbacks or things to their love ones due to insecure medium of communication. When it comes to professional level, the privacy and accuracy should be maintain but, to that time there were no secure communications.\n\nNow the things have changed around, people from far distance contact their loves one in an easy and quick ways which improves the Interaction level between two person. Quality the level of the Interaction between people to people, has improved because the people are equipped with high-tec technology which enhances the communication. There are many many medium which are available now such as Internet, Calling Cards etc.\n\nThe technology has provided the mobility faster which help people to talk or to interact at any time anywhere in the world.\n\nPeople can contact their friend or relatives any time they want. It has become so easier and feriendly to be in touch with your feriends, relatives even with the unknown people.",
+     "comment": "The topic introduction has been copied from the task and is deducted from the word count. This leaves the answer underlength at 236 words, so the candidate loses marks for this.\n\nThis answer addresses both questions, but the first is not well covered in terms of how actual relationships have changed. Nevertheless, there is a clear opinion that the effects have been positive and relationships have improved, with some relevant ideas to support this. There is a general progression to the argument, with some effective use of time markers and linkers. There is also some repetition, however. Paragraphing is not always logical, and ideas are not always well linked. A range of vocabulary that is relevant to the topic is used, including some precise and natural expressions. There are quite a lot of mistakes in word form, word choice or spelling, but these do not usually reduce understanding. A variety of sentence types is used, but not always accurately. Errors in grammar and punctuation are distracting at times, but only rarely cause problems for the reader."
+    }
+   }
+  ]
+ },
+ "issues": []
+}

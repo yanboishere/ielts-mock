@@ -1,0 +1,824 @@
+{
+ "parts": [
+  {
+   "part": 1,
+   "range": [
+    1,
+    10
+   ],
+   "pages": [
+    56,
+    57
+   ],
+   "groups": [
+    {
+     "id": "L1-1",
+     "type": "completion",
+     "range": [
+      1,
+      10
+     ],
+     "instructions": [
+      "Complete the form below.",
+      "Write **ONE WORD AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "OPENING A BANK ACCOUNT"
+      },
+      {
+       "t": "note",
+       "text": "*Example*"
+      },
+      {
+       "t": "p",
+       "text": "Application for a *Current* bank account"
+      },
+      {
+       "t": "p",
+       "text": "**Type of current account:** *The* '{{1}}' *account*"
+      },
+      {
+       "t": "p",
+       "text": "**Full name of applicant:** *Pieter Henes*"
+      },
+      {
+       "t": "p",
+       "text": "**Date of birth:** {{2}}"
+      },
+      {
+       "t": "p",
+       "text": "**Joint account holder(s):** *No*"
+      },
+      {
+       "t": "p",
+       "text": "**Current address:** {{3}} *Exeter*"
+      },
+      {
+       "t": "p",
+       "text": "**Time at current address:** {{4}}"
+      },
+      {
+       "t": "p",
+       "text": "**Previous address:** *Rielsdorf 2, Utrecht, Holland*"
+      },
+      {
+       "t": "p",
+       "text": "**Telephone:** **work** {{5}}"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "**home** *796431*"
+      },
+      {
+       "t": "p",
+       "text": "**Occupation:** {{6}}"
+      },
+      {
+       "t": "p",
+       "text": "**Identity (security):** *Name of his* {{7}} *: Siti*"
+      },
+      {
+       "t": "p",
+       "text": "**Opening sum:** € {{8}}"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "*to be transferred from Fransen Bank, Utrecht*"
+      },
+      {
+       "t": "p",
+       "text": "**Statements:** *Every* {{9}}"
+      },
+      {
+       "t": "p",
+       "text": "**Requests:** *Supply information about the bank's* {{10}} *service*"
+      }
+     ]
+    }
+   ],
+   "transcript": "PIETER: Good morning. I'd like to open a bank account, please.\nWOMAN: Certainly. If you'd like to take a seat, I'll just get some details from you. It won't take long.\nPIETER: Thanks.\nWOMAN: Is it a current account or a deposit account you wanted?\nPIETER: A current account.\nWOMAN: Right. I've got the application form here then. We have different types – I see you've got our leaflet there.\nPIETER: I've decided on the one called 'Select.' [Q1]\nWOMAN: Right, that's fine, so, first of all, can I have your full name please?\nPIETER: Yes, it's Pieter Henes. That's P–I–E–T–E–R.\nWOMAN: Is it H–E–double N–E–S?\nPIETER: Uh, only one N actually. It's a less common spelling of the name.\nWOMAN: Oh, right. OK. And what's your date of birth please?\nPIETER: The twenty-seventh of the first, nineteen seventy-three. [Q2]\nWOMAN: Right. And will this be a joint account?\nPIETER: No, just myself.\nWOMAN: OK, fine. And where are you living, Mr Henes?\nPIETER: 15, Riverside. [Q3]\nWOMAN: Is that all one word?\nPIETER: Yes.\nWOMAN: Exeter?\nPIETER: Yes.\nWOMAN: How long have you been at your present address? Er, is it more than two years?\nPIETER: Ah, just two weeks actually. [Q4] I only arrived in the country a month ago. I'm from Holland.\nWOMAN: Oh, that's fine. But we normally ask for a previous address in that case.\nPIETER: Oh yes, well, it's Rielsdorf 2. That's R–I–E–L–S–D–O–R–F 2, Utrecht.\nWOMAN: Holland. OK. Thank you. Do you have a daytime telephone number?\nPIETER: Yes, I think the number at my office is six-oh-six-two-nine-five. [Q5] Um, just a minute, I'd better check. Oh, no sorry, six-one-six. I'm not used to it yet. Would you like my home number too?\nWOMAN: Yes please.\nPIETER: It's seven-nine-six-four-three-one.\nWOMAN: Are they both local numbers?\nPIETER: Yes.\nWOMAN: Right. And your occupation?\nPIETER: Well, I'm in Britain as a project manager, but that's not my main job. I'm an engineer by profession. [Q6]\nWOMAN: I see. I think I'll put that then. It's shorter! Now we usually ask for a piece of information which we can use to check your identity, for security reasons. You know, if you phone us.\nPIETER: Like, erm, my wife's first name?\nWOMAN: Mother's might be better. It's less likely to be known. [Q7]\nPIETER: OK. Hers is Siti.\nWOMAN: Siti?\nPIETER: Yes, S–I–T–I. It's Indonesian.\nWOMAN: Fine. And how much would you like to open your account with? We usually ask for a minimum sum of £50. That's about €75.\nPIETER: Well, I'm going to transfer €2,000 from my Dutch account, just till I get paid. [Q8] In fact, I wanted to ask you about that. What's the best way to do it?\nWOMAN: It depends which bank you're with.\nPIETER: It's the Fransen Bank in Utrecht.\nWOMAN: OK, fine. I'll check that in a minute. If we have links with them we can do a direct transfer. But it's not a big problem either way. Um, let's see. How often would you like to receive statements?\nPIETER: I haven't really thought. Um, what's the usual thing?\nWOMAN: It's up to you. Some people like them weekly.\nPIETER: Oh, no, that's too often. Can I have them sent, um, once a month? [Q9]\nWOMAN: Yes, that's fine. Is there anything else?\nPIETER: I was thinking of registering for your internet service at some stage. [Q10]\nWOMAN: Oh, yes. Would you like me to send you information about that?\nPIETER: Please, yes.\nWOMAN: And would you like to receive information about the bank's other services – insurance, loans, anything like that?\nPIETER: Hmm, I don't think so, thanks.\nWOMAN: That's OK then. And one last thing, if you agree ..."
+  },
+  {
+   "part": 2,
+   "range": [
+    11,
+    20
+   ],
+   "pages": [
+    58,
+    59
+   ],
+   "groups": [
+    {
+     "id": "L2-1",
+     "type": "choice",
+     "range": [
+      11,
+      13
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "title": "THE HISTORY OF ROSEWOOD HOUSE",
+     "questions": [
+      {
+       "n": 11,
+       "text": "When the writer Sebastian George first saw Rosewood House, he",
+       "options": [
+        {
+         "key": "A",
+         "text": "thought he might rent it."
+        },
+        {
+         "key": "B",
+         "text": "felt it was too expensive for him."
+        },
+        {
+         "key": "C",
+         "text": "was unsure whether to buy it."
+        }
+       ]
+      },
+      {
+       "n": 12,
+       "text": "Before buying the house, George had",
+       "options": [
+        {
+         "key": "A",
+         "text": "experienced severe family problems."
+        },
+        {
+         "key": "B",
+         "text": "struggled to become a successful author."
+        },
+        {
+         "key": "C",
+         "text": "suffered a serious illness."
+        }
+       ]
+      },
+      {
+       "n": 13,
+       "text": "According to the speaker, George viewed Rosewood House as",
+       "options": [
+        {
+         "key": "A",
+         "text": "a rich source of material for his books."
+        },
+        {
+         "key": "B",
+         "text": "a way to escape from his work."
+        },
+        {
+         "key": "C",
+         "text": "a typical building of the region."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L2-2",
+     "type": "matching",
+     "range": [
+      14,
+      17
+     ],
+     "instructions": [
+      "Label the map below.",
+      "Write the correct letter, **A–J**, next to questions 14–17."
+     ],
+     "title": "ROSEWOOD HOUSE AND GARDENS",
+     "image": "images/C6/C6-T3-L2-map.png",
+     "options": [
+      {
+       "key": "A",
+       "text": ""
+      },
+      {
+       "key": "B",
+       "text": ""
+      },
+      {
+       "key": "C",
+       "text": ""
+      },
+      {
+       "key": "D",
+       "text": ""
+      },
+      {
+       "key": "E",
+       "text": ""
+      },
+      {
+       "key": "F",
+       "text": ""
+      },
+      {
+       "key": "G",
+       "text": ""
+      },
+      {
+       "key": "H",
+       "text": ""
+      },
+      {
+       "key": "I",
+       "text": ""
+      },
+      {
+       "key": "J",
+       "text": ""
+      }
+     ],
+     "questions": [
+      {
+       "n": 14,
+       "text": "Pear Alley"
+      },
+      {
+       "n": 15,
+       "text": "Mulberry Garden"
+      },
+      {
+       "n": 16,
+       "text": "Shop"
+      },
+      {
+       "n": 17,
+       "text": "Tea Room"
+      }
+     ]
+    },
+    {
+     "id": "L2-3",
+     "type": "completion",
+     "range": [
+      18,
+      20
+     ],
+     "instructions": [
+      "Complete the sentences below.",
+      "Write **ONE WORD ONLY** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "RIVER WALK"
+      },
+      {
+       "t": "p",
+       "text": "You can walk through the {{18}} that goes along the river bank."
+      },
+      {
+       "t": "p",
+       "text": "You can go over the {{19}} and then into a wooded area."
+      },
+      {
+       "t": "p",
+       "text": "On your way back, you could also go up to the {{20}}."
+      }
+     ]
+    }
+   ],
+   "transcript": "Welcome, everybody, to the lovely house and gardens of Rosewood, once the home of the famous writer, Sebastian George. He bought the house in 1902 although he had first seen it two years earlier. At that time the owners let it out to a tenant because George was too slow making up his mind to buy it. [Q11] When it came back on the market, there was no hesitation and he bought it immediately, for £9,300, even though the house had no bathroom, no running water upstairs, and no electricity.\nWhen he came here, he'd been married for ten years. During that time, he'd become one of the most famous writers in the English-speaking world. His professional success was enormous, but his personal life wasn't as successful. He was no longer on speaking terms with his brother and had been devastated by the death at the age of seven of his elder daughter, Josephine. [Q12]\nMoving to Rosewood allowed the family to start a new life. George regarded Rosewood as a pure example of a traditional country house of this part of England [Q13] and did some of his most successful writing here. The house and its grounds became the family haven and their escape to privacy and quiet. The walls, and the mullioned windows were built of the local sandstone, the tiles on the roofs and the bricks of the chimney stack were baked from local clay, and the wooden structures inside came from oak trees which grow around here.\nNow, please look at the map I've given you of the house and gardens. We're here at the Information Centre. Follow the path marked with the arrow and the first area you come to is the orchard on your left.\nAs you go further down the path, there's the kitchen garden on the right and as you go round the first sharp corner you will find, to your left, an area where different types of pear tree have been planted as well as some lovely flowers, and this is known as Pear Alley – designed by George himself. [Q14]\nNext to this is the greenhouse where some exotic plants and fruits are grown. Follow the path round the second corner and on your right you will see the entrance to the Mulberry Garden with its 500-year-old tree. [Q15] Past the Mulberry Garden, follow the path until you reach the front of the house. I suggest you spend a good hour wandering around this lovely building. A guide takes visitor groups round every two hours.\nIf you would like to purchase any of George's books or other souvenirs, then leave the house by the side entrance, where you will find our shop, which is situated between the house and the garage [Q16] which contains the magnificent old Rolls-Royce car which used to belong to George. I expect by this time you may also be in need of a rest and some refreshment. Most visitors are, so why don't you visit the tea room on the far side of the garage? [Q17]\nIf you have time, there is a lovely walk down towards the River Dudwell. For me, this is the best part of the estate. This isn't on the map but it is all clearly signposted. You cross the field which spreads along the banks of the river. [Q18] In spring, this area is well worth a visit. Spend a minute or two watching the water pass by underneath as you cross the footbridge, [Q19] and then continue along the River Walk through the woodland. On a hot summer's day the trees along this path provide welcome shade. Eventually you come to the water mill which used to provide the electricity for the house – only about four hours every evening – in George's time. And, finally, for those of you who would like to see stunning views of the surrounding countryside and who are a little bit more energetic, when you return from the mill take the first turning on your left and climb up to the viewpoint. [Q20] You won't regret it.\nEnjoy your visit!"
+  },
+  {
+   "part": 3,
+   "range": [
+    21,
+    30
+   ],
+   "pages": [
+    60,
+    61
+   ],
+   "groups": [
+    {
+     "id": "L3-1",
+     "type": "completion",
+     "range": [
+      21,
+      24
+     ],
+     "instructions": [
+      "Complete the sentences below.",
+      "Write **NO MORE THAN THREE WORDS AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "MARKETING ASSIGNMENT"
+      },
+      {
+       "t": "p",
+       "text": "For their assignment, the students must investigate one part of the {{21}}."
+      },
+      {
+       "t": "p",
+       "text": "The method the students must use to collect data is {{22}}."
+      },
+      {
+       "t": "p",
+       "text": "In total, the students must interview {{23}} people."
+      },
+      {
+       "t": "p",
+       "text": "Jack thinks the music preferences of {{24}} listeners are similar."
+      }
+     ]
+    },
+    {
+     "id": "L3-2",
+     "type": "completion",
+     "range": [
+      25,
+      30
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **NO MORE THAN TWO WORDS** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Marketing Survey: Music Preferences"
+      },
+      {
+       "t": "sub",
+       "text": "Age group of interviewee"
+      },
+      {
+       "t": "li",
+       "text": "25 or under"
+      },
+      {
+       "t": "li",
+       "text": "45 or over"
+      },
+      {
+       "t": "sub",
+       "text": "Music preferences"
+      },
+      {
+       "t": "li",
+       "text": "Pop"
+      },
+      {
+       "t": "li",
+       "text": "{{25}}"
+      },
+      {
+       "t": "li",
+       "text": "Folk"
+      },
+      {
+       "t": "li",
+       "text": "Easy listening"
+      },
+      {
+       "t": "li",
+       "text": "{{26}}"
+      },
+      {
+       "t": "sub",
+       "text": "Medium for listening to music"
+      },
+      {
+       "t": "li",
+       "text": "Radio"
+      },
+      {
+       "t": "li",
+       "text": "CD"
+      },
+      {
+       "t": "li",
+       "text": "TV"
+      },
+      {
+       "t": "li",
+       "text": "{{27}}"
+      },
+      {
+       "t": "sub",
+       "text": "Source of music"
+      },
+      {
+       "t": "li",
+       "text": "Music shops"
+      },
+      {
+       "t": "li",
+       "text": "{{28}}"
+      },
+      {
+       "t": "li",
+       "text": "Internet"
+      },
+      {
+       "t": "sub",
+       "text": "Places for listening to music"
+      },
+      {
+       "t": "li",
+       "text": "Disco"
+      },
+      {
+       "t": "li",
+       "text": "Pub"
+      },
+      {
+       "t": "li",
+       "text": "{{29}}"
+      },
+      {
+       "t": "li",
+       "text": "Concert hall"
+      },
+      {
+       "t": "li",
+       "text": "{{30}}"
+      }
+     ]
+    }
+   ],
+   "transcript": "JACK: Lucy, we really need to get working on this marketing assignment. We've only got five weeks left to the end of term to design it, carry it out, and then write up the results.\nLUCY: Sure. Well, let's get started right now. Let's go over the instructions. What exactly do we have to do?\nJACK: Well, it says here we have to look at one area of the entertainment industry. [Q21] There's a list of the different types.\nLUCY: What are they?\nJACK: Music, cinema, theatre, sport, and eating out.\nLUCY: Is that all?\nJACK: Looks like it.\nLUCY: So we choose one branch of the industry and then we look at how two different groups of people use it? Is that right?\nJACK: Yes.\nLUCY: And do we have to use any particular method to get our data? Can we mail out a questionnaire, or do face-to-face interviews, or maybe even observations?\nJACK: Well actually, it looks like we don't have a choice. We have to do telephone interviews. [Q22]\nLUCY: OK, so at least we don't have to waste time deciding between the different methods.\nJACK: Yeah, that's right. Oh, and the other requirement is the number of interviewees.\nLUCY: Not too many, I hope. Ten? Twenty?\nJACK: Well, we have to do two groups, remember, and it looks like we have to interview fifteen for each group.\nLUCY: That's thirty altogether then. It's going to take ages. [Q23]\nJACK: Yes, but remember we're working on this together, so we'll only have to do fifteen each.\nLUCY: OK, so those are all the requirements?\nJACK: Yes, looks like it.\nLUCY: So, first, which area are we going to choose? My preference would be cinema, since that's where I spend most of my money.\nJACK: Hmm, I don't think that's such a good idea. I don't think there are huge differences in the market there. I mean you get young and old, male and female, rich and poor all going to the same movies.\nLUCY: Yeah, maybe you're right. Let's make it music then.\nJACK: Right. So, what two groups will we compare and contrast?\nLUCY: Male and female? [Q24]\nJACK: No. Most of my female friends like the same music as me. Different age groups would be much more likely to show up differences, I think.\nLUCY: Yeah, I suppose you're right again. I'll take some notes, shall I? So ... Age Groups. Well. What do you think? Maybe twenty-five or under for one group, and forty-five or over for the other group? That should show up differences.\nJACK: Right.\nLUCY: OK. Next. How about the kind of music they like – let's give them some choices and then we can just tick boxes.\nJACK: OK. Let's have pop, jazz, folk, easy listening ... What else? [Q25]\nLUCY: Well, we should include classical. Some people like it, you know. [Q26]\nJACK: OK. OK. And then we should have how they listen to music.\nLUCY: The medium. Right. Let's include radio, CD – and then I guess there's TV.\nJACK: What about concerts? You know, in pubs and halls. [Q27]\nLUCY: Oh yeah, we should include live music of course.\nJACK: OK, we're on a roll now! Next point could be about where they actually get their music.\nLUCY: You mean like, do they buy it in music shops, or department stores? [Q28]\nJACK: Yes, or download it from the Internet.\nLUCY: Right. That could be for recorded music. Then we need another section for live music. Where do they go for that?\nJACK: OK. Let's say disco, pub, club, concert hall ... [Q29]\nLUCY: Or opera house! And I guess we should include karaoke bars. [Q30]\nJACK: Not many of them in this city!\nLUCY: OK. We'll leave that out then. So, what's left to do?\nJACK: That's it. Well, now we can make a time-scale for doing it."
+  },
+  {
+   "part": 4,
+   "range": [
+    31,
+    40
+   ],
+   "pages": [
+    62,
+    63
+   ],
+   "groups": [
+    {
+     "id": "L4-1",
+     "type": "choice",
+     "range": [
+      31,
+      34
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "title": "IRELAND IN THE NEOLITHIC PERIOD",
+     "image": "images/C6/C6-T3-L4-map.png",
+     "questions": [
+      {
+       "n": 31,
+       "text": "According to the speaker, it is not clear",
+       "options": [
+        {
+         "key": "A",
+         "text": "when the farming economy was introduced to Ireland."
+        },
+        {
+         "key": "B",
+         "text": "why people began to farm in Ireland."
+        },
+        {
+         "key": "C",
+         "text": "where the early Irish farmers came from."
+        }
+       ]
+      },
+      {
+       "n": 32,
+       "text": "What point does the speaker make about breeding animals in Neolithic Ireland?",
+       "options": [
+        {
+         "key": "A",
+         "text": "Their numbers must have been above a certain level."
+        },
+        {
+         "key": "B",
+         "text": "They were under threat from wild animals."
+        },
+        {
+         "key": "C",
+         "text": "Some species died out during this period."
+        }
+       ]
+      },
+      {
+       "n": 33,
+       "text": "What does the speaker say about the transportation of animals?",
+       "options": [
+        {
+         "key": "A",
+         "text": "Livestock would have limited the distance the farmers could sail."
+        },
+        {
+         "key": "B",
+         "text": "Neolithic boats were too primitive to have been used."
+        },
+        {
+         "key": "C",
+         "text": "Probably only a few breeding animals were imported."
+        }
+       ]
+      },
+      {
+       "n": 34,
+       "text": "What is the main evidence for cereal crops in Neolithic Ireland?",
+       "options": [
+        {
+         "key": "A",
+         "text": "the remains of burnt grain in pots"
+        },
+        {
+         "key": "B",
+         "text": "the marks left on pots by grains"
+        },
+        {
+         "key": "C",
+         "text": "the patterns painted on the surface of pots"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L4-2",
+     "type": "completion",
+     "range": [
+      35,
+      40
+     ],
+     "instructions": [
+      "Complete the sentences below.",
+      "Write **NO MORE THAN TWO WORDS** for each answer."
+     ],
+     "content": [
+      {
+       "t": "sub",
+       "text": "STONE TOOLS"
+      },
+      {
+       "t": "p",
+       "text": "Ploughs could either have been pulled by {{35}} or by cattle."
+      },
+      {
+       "t": "li",
+       "text": "The farmers needed homes which were permanent dwellings."
+      },
+      {
+       "t": "p",
+       "text": "In the final stages of axe-making, {{36}} were necessary for grinding and polishing."
+      },
+      {
+       "t": "p",
+       "text": "Irish axes were exported from Ireland to {{37}} and England."
+      },
+      {
+       "t": "sub",
+       "text": "POTTERY MAKING"
+      },
+      {
+       "t": "li",
+       "text": "The colonisers used clay to make pots."
+      },
+      {
+       "t": "p",
+       "text": "The {{38}} of the pots was often polished to make them watertight."
+      },
+      {
+       "t": "p",
+       "text": "Clay from {{39}} areas was generally used."
+      },
+      {
+       "t": "p",
+       "text": "Decoration was only put around the {{40}} of the earliest pots."
+      }
+     ]
+    }
+   ],
+   "transcript": "Good morning everyone. Last week we were looking at the hunter-gatherers in Ireland, across the Irish Sea from England. Today, we're going to move on to the period between four and six thousand years ago, known as the Neolithic period, which is when a total farming economy was introduced in Ireland.\nNow, there are several hypotheses about the origins of the first Neolithic settlers in Ireland, but most of these contain problems. [Q31] For instance, there are considerable archaeological difficulties about the theory that they came from England. The evidence doesn't really add up. But there are even greater practical problems about the theory that they came directly from continental Europe. For one thing, it's not clear just how sufficient numbers of men and women could have been transported to Ireland to establish a viable population. As you know, the hunter-gatherer economy which existed beforehand was based on small scattered groups. The farming economy would almost certainly have required much larger communities to do all the work needed to plant and tend sufficient crops to sustain them through the year.\nThe early farmers kept various animals, including cattle and sheep. There's also evidence of pigs, but it is possible that these could have been descended from the native wild species. Now, we know from modern farming that if the level of breeding stock falls below about three hundred females, the future of the species locally is at risk. So we must assume that from the beginnings of Neolithic farming the number of breeding sheep would have considerably exceeded three hundred, [Q32] and the national cattle herd must have been of a similar size. The question is how these were brought to the area and where they came from.\nIt's usually suggested that the Neolithic settlers used skin-covered boats to transport livestock. [Q33] But this method would have severely restricted the range of the colonising fleets. The sheer volume of animal transport necessary means it's unlikely that this livestock could have been brought from anywhere further than England.\nWhat about crops? Well, two main cereal crops were introduced to Ireland during this time: wheat and barley, both in several varieties. The main evidence for their presence consists of impressions on pottery, [Q34] where a cereal grain accidentally became embedded in the surface of a pot before it was fired. The grain itself was destroyed by the firing, but it left an impression on the pot which could be studied and identified by botanists.\nLet's turn our attention now to the farming technology available at that time. Before the cereal crops could be planted, it would have been necessary to clear the forest and to break the ground by ploughing. The stone blade of a plough has been discovered during excavation in County Mayo in western Ireland. The body of the plough would have been of wood and could have been drawn by people, but it's also likely that cattle were used. [Q35]\nNow, the cultivation of crops and the husbandry of livestock brought about changes in people's lifestyle such as the type of shelters they made. For one thing, instead of moving from place to place they needed permanent dwellings. The stone axes used to chop down trees to make these dwellings were far superior to any that the Stone Age hunter-gatherers used.\nTo make the axes, sources of suitable stone had to be found and systematically exploited. These so-called 'axe factories' were really quarries rather than factories, as the manufacture of the axes wasn't regularly performed on the quarry site. However, after the axe had been chipped into shape, they needed water and sand for grinding and polishing, [Q36] so a high mountainside wouldn't have been an appropriate place for this. So this final stage of the manufacture must have been carried out close to water and sure enough, there's ample evidence of this at coastal sites.\nNow it's clear that these Neolithic axes were transported all over Ireland, as well as to Scotland and the south of England. [Q37] It's not really surprising that axes from 'axe factories' in England have also been found in Ireland. At the very least, this indicates that there was a link between the two islands during that period.\nOne of the most useful innovations of the colonisers was pottery making, which was quite unknown to Irish hunter-gatherers. The pottery was probably made by shaping clay into a ball with the hand, and then hollowing it until the walls were the right thickness. After firing, the outside was often polished. This would have helped the pots to retain water, as they weren't glazed. [Q38] Now we know that the clay used usually came from local sources, [Q39] which suggests that manufacture was on a fairly small scale, even though thousands of fragments are usually found at Neolithic sites.\nIn the course of time decoration began to appear. At first this looked like a series of stitches and was just around the tops of the pots. [Q40] This could have been an imitation of earlier vessels which were made of leather sewn onto wood. Then eventually pots with decoration all over ..."
+  }
+ ],
+ "answers": {
+  "1": {
+   "a": [
+    "Select"
+   ]
+  },
+  "2": {
+   "a": [
+    "27.01.1973"
+   ]
+  },
+  "3": {
+   "a": [
+    "15 Riverside"
+   ]
+  },
+  "4": {
+   "a": [
+    "2 weeks",
+    "two weeks"
+   ],
+   "k": "2 weeks"
+  },
+  "5": {
+   "a": [
+    "616295"
+   ]
+  },
+  "6": {
+   "a": [
+    "engineer"
+   ]
+  },
+  "7": {
+   "a": [
+    "mother"
+   ]
+  },
+  "8": {
+   "a": [
+    "2,000",
+    "2000"
+   ],
+   "k": "2,000"
+  },
+  "9": {
+   "a": [
+    "month"
+   ]
+  },
+  "10": {
+   "a": [
+    "internet"
+   ]
+  },
+  "11": {
+   "a": [
+    "C"
+   ]
+  },
+  "12": {
+   "a": [
+    "A"
+   ]
+  },
+  "13": {
+   "a": [
+    "C"
+   ]
+  },
+  "14": {
+   "a": [
+    "H"
+   ]
+  },
+  "15": {
+   "a": [
+    "F"
+   ]
+  },
+  "16": {
+   "a": [
+    "B"
+   ]
+  },
+  "17": {
+   "a": [
+    "D"
+   ]
+  },
+  "18": {
+   "a": [
+    "field"
+   ]
+  },
+  "19": {
+   "a": [
+    "footbridge"
+   ]
+  },
+  "20": {
+   "a": [
+    "viewpoint"
+   ]
+  },
+  "21": {
+   "a": [
+    "entertainment industry"
+   ]
+  },
+  "22": {
+   "a": [
+    "telephone interviews"
+   ]
+  },
+  "23": {
+   "a": [
+    "30",
+    "thirty"
+   ],
+   "k": "30/thirty"
+  },
+  "24": {
+   "a": [
+    "male and female"
+   ]
+  },
+  "25": {
+   "a": [
+    "jazz"
+   ]
+  },
+  "26": {
+   "a": [
+    "classical"
+   ]
+  },
+  "27": {
+   "a": [
+    "concerts"
+   ]
+  },
+  "28": {
+   "a": [
+    "department stores"
+   ]
+  },
+  "29": {
+   "a": [
+    "club"
+   ]
+  },
+  "30": {
+   "a": [
+    "opera house"
+   ]
+  },
+  "31": {
+   "a": [
+    "C"
+   ]
+  },
+  "32": {
+   "a": [
+    "A"
+   ]
+  },
+  "33": {
+   "a": [
+    "A"
+   ]
+  },
+  "34": {
+   "a": [
+    "B"
+   ]
+  },
+  "35": {
+   "a": [
+    "people"
+   ]
+  },
+  "36": {
+   "a": [
+    "water and sand",
+    "sand and water",
+    "water, sand",
+    "sand, water"
+   ],
+   "k": "IN EITHER ORDER water / sand"
+  },
+  "37": {
+   "a": [
+    "Scotland"
+   ]
+  },
+  "38": {
+   "a": [
+    "outside"
+   ]
+  },
+  "39": {
+   "a": [
+    "local"
+   ]
+  },
+  "40": {
+   "a": [
+    "tops"
+   ]
+  }
+ },
+ "issues": [
+  "Listening Q36: the book prints two dotted lines for one question number ('In the final stages of axe-making, 36 ...... and ...... were necessary'); the key gives 'IN EITHER ORDER water / sand' as one answer, so a single gap {{36}} is shown accepting both orders."
+ ]
+}

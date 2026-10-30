@@ -1,0 +1,1592 @@
+{
+ "schema": "ielts-mock.exam/1",
+ "id": "C9-T1",
+ "source": {
+  "book": 9,
+  "test": 1
+ },
+ "title": "Cambridge IELTS 9 · Test 1",
+ "listening": {
+  "parts": [
+   {
+    "part": 1,
+    "range": [
+     1,
+     10
+    ],
+    "pages": [
+     1
+    ],
+    "groups": [
+     {
+      "id": "L1-1",
+      "type": "completion",
+      "range": [
+       1,
+       10
+      ],
+      "instructions": [
+       "Complete the notes below.",
+       "Write **NO MORE THAN THREE WORDS AND/OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "JOB ENQUIRY"
+       },
+       {
+        "t": "note",
+        "text": "*Example*"
+       },
+       {
+        "t": "li",
+        "text": "Work at: *a restaurant*"
+       },
+       {
+        "t": "li",
+        "text": "Type of work: {{1}}"
+       },
+       {
+        "t": "li",
+        "text": "Number of hours per week: 12 hours"
+       },
+       {
+        "t": "li",
+        "text": "Would need work permit"
+       },
+       {
+        "t": "li",
+        "text": "Work in the: {{2}} branch"
+       },
+       {
+        "t": "li",
+        "text": "Nearest bus stop: next to {{3}}"
+       },
+       {
+        "t": "li",
+        "text": "Pay: £{{4}} an hour"
+       },
+       {
+        "t": "li",
+        "text": "Extra benefits:"
+       },
+       {
+        "t": "li",
+        "level": 2,
+        "text": "– a free dinner"
+       },
+       {
+        "t": "li",
+        "level": 2,
+        "text": "– extra pay when you work on {{5}}"
+       },
+       {
+        "t": "li",
+        "level": 2,
+        "text": "– transport home when you work {{6}}"
+       },
+       {
+        "t": "li",
+        "text": "Qualities required:"
+       },
+       {
+        "t": "li",
+        "level": 2,
+        "text": "– {{7}}"
+       },
+       {
+        "t": "li",
+        "level": 2,
+        "text": "– ability to {{8}}"
+       },
+       {
+        "t": "li",
+        "text": "Interview arranged for: Thursday {{9}} at 6 p.m."
+       },
+       {
+        "t": "li",
+        "text": "Bring the names of two referees"
+       },
+       {
+        "t": "li",
+        "text": "Ask for: Samira {{10}}"
+       }
+      ]
+     }
+    ],
+    "transcript": "WOMAN: Good evening. King's Restaurant.\nMAN: Good evening. I'm ringing about the job I understand you have vacant.\nWOMAN: Oh yes.\nMAN: I'd like to find out a few more details, if I may.\nWOMAN: Yes, of course. Can I take your name?\nMAN: It's Peter Chin.\nWOMAN: Okay Peter. Well, if you want to ask about the job and then if we're both still interested, we could arrange for you to come for an interview.\nMAN: Great, thanks. I'm afraid I missed the advert for the job but heard about it from a friend.\nWOMAN: That's no problem at all. What would you like to know?\nMAN: Well, um, what sort of work is it - washing up?\nWOMAN: It's answering the phone. [Q1]\nMAN: Oh right, fine.\nWOMAN: And not waiting at table.\nMAN: That'd be good. And how many nights a week would it be?\nWOMAN: Well, we're really only busy at the weekend.\nMAN: So two nights?\nWOMAN: Three actually, so it would work out at twelve hours a week.\nMAN: That'd be fine. It wouldn't interfere with my studies.\nWOMAN: Are you at the university?\nMAN: Yes. First year Physics student.\nWOMAN: Oh, right.\nMAN: Um, and because I'm not an EU national would I need a work permit?\nWOMAN: Yes you would. Just get your tutor to sign it.\nMAN: That wouldn't be a problem, if I were to get the job. Um, where exactly is the restaurant?\nWOMAN: Well, we have two branches - the one we're recruiting for is in Hillsdunne Road. [Q2]\nMAN: I don't know that. How do you spell it please?\nWOMAN: It's H-I-double L-S-D-U-double N-E Road.\nMAN: Got that. Thanks. Is it near a bus stop?\nWOMAN: Yes. The nearest one would probably be just beside the Library. [Q3]\nMAN: Oh yes, I know it. That'd be fine for me. And could I ask about the pay?\nWOMAN: We're offering £4.45 an hour. [Q4]\nMAN: That's very good. My last job was £3.95 an hour.\nWOMAN: We feel it's pretty good and we also offer some good fringe benefits.\nMAN: Really?\nWOMAN: Well, we give you a free dinner, so you eat well.\nMAN: Right, better than hostel food!\nWOMAN: We certainly hope so! [Q5] And we also offer extra pay for working on national holidays.\nMAN: Oh, that's a really good perk, isn't it?\nWOMAN: Yes, we think so. And then because of the difficulties of getting public transport, if you're working after 11 o'clock we drive you home. [Q6]\nMAN: Oh, that's good to know.\nWOMAN: Well, we'd certainly be interested in inviting you for an interview, if you're still interested?\nMAN: Oh yes, certainly. Could I just also ask what qualities you're looking for?\nWOMAN: Well, for this particular job we want a clear voice, which you obviously do have! [Q7]\nMAN: Thanks.\nWOMAN: And you must be able to think quickly, you know. [Q8]\nMAN: Well, I hope I'd ...\nWOMAN: So, when could you come in for an interview? We're actually quite quiet tonight?\nMAN: Sorry, I couldn't come tonight. Or tomorrow, I'm afraid. Thursday's okay - that'd be 22nd of October. [Q9]\nWOMAN: Fine, after 5 p.m.?\nMAN: Yes, fine. Would 6 o'clock be okay?\nWOMAN: Perfect. And could you bring along the names of two referees?\nMAN: Yes, that's fine, no problem.\nWOMAN: Good. I look forward to seeing you.\nMAN: Oh, by the way, who should I ask for?\nWOMAN: Oh yes, of course, sorry. My name is Samira Manuja. [Q10]\nMAN: Can you spell that, please?\nWOMAN: M-A-N-U-J-A.\nMAN: Okay, I've got that. Thanks very much.\nWOMAN: Look forward to seeing you ..."
+   },
+   {
+    "part": 2,
+    "range": [
+     11,
+     20
+    ],
+    "pages": [
+     2,
+     3
+    ],
+    "groups": [
+     {
+      "id": "L2-1",
+      "type": "completion",
+      "range": [
+       11,
+       16
+      ],
+      "instructions": [
+       "Complete the notes below.",
+       "Write **ONE WORD AND/OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "SPORTS WORLD"
+       },
+       {
+        "t": "li",
+        "text": "a new {{11}} of an international sports goods company"
+       },
+       {
+        "t": "li",
+        "text": "located in the shopping centre to the {{12}} of Bradcaster"
+       },
+       {
+        "t": "li",
+        "text": "has sports {{13}} and equipment on floors 1–3"
+       },
+       {
+        "t": "li",
+        "text": "can get you any item within {{14}} days"
+       },
+       {
+        "t": "li",
+        "text": "shop specializes in equipment for {{15}}"
+       },
+       {
+        "t": "li",
+        "text": "has a special section which just sells {{16}}"
+       }
+      ]
+     },
+     {
+      "id": "L2-2",
+      "type": "choice",
+      "range": [
+       17,
+       18
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B**, or **C**."
+      ],
+      "questions": [
+       {
+        "n": 17,
+        "text": "A champion athlete will be in the shop",
+        "options": [
+         {
+          "key": "A",
+          "text": "on Saturday morning only"
+         },
+         {
+          "key": "B",
+          "text": "all day Saturday"
+         },
+         {
+          "key": "C",
+          "text": "for the whole weekend"
+         }
+        ]
+       },
+       {
+        "n": 18,
+        "text": "The first person to answer 20 quiz questions correctly will win",
+        "options": [
+         {
+          "key": "A",
+          "text": "gym membership"
+         },
+         {
+          "key": "B",
+          "text": "a video"
+         },
+         {
+          "key": "C",
+          "text": "a calendar"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L2-3",
+      "type": "multi",
+      "range": [
+       19,
+       20
+      ],
+      "n": [
+       19,
+       20
+      ],
+      "select": 2,
+      "instructions": [
+       "Choose **TWO** letters, **A–E**."
+      ],
+      "text": "Which TWO pieces of information does the speaker give about the fitness test?",
+      "options": [
+       {
+        "key": "A",
+        "text": "You need to reserve a place."
+       },
+       {
+        "key": "B",
+        "text": "It is free to account holders."
+       },
+       {
+        "key": "C",
+        "text": "You get advice on how to improve your health."
+       },
+       {
+        "key": "D",
+        "text": "It takes place in a special clinic."
+       },
+       {
+        "key": "E",
+        "text": "It is cheaper this month."
+       }
+      ]
+     }
+    ],
+    "transcript": "ANDREW: Now we go to Jane who is going to tell us about what's happening in town this weekend.\nJANE: Right, thanks Andrew, and now on to what's new, and do we really need yet another sports shop in Bradcaster? Well, most of you probably know Sports World - the branch of a Danish sports goods company that opened a few years ago - it's attracted a lot of custom, and so the company has now decided to open another branch in the area. [Q11] It's going to be in the shopping centre to the west of Bradcaster, so that will be good news for all of you who've found the original shop in the north of the town hard to get to. [Q12]\nI was invited to a special preview and I can promise you, this is the ultimate in sports retailing. The whole place has been given a new minimalist look with the company's signature colours of black and red. The first three floors have a huge range of sports clothing as well as equipment, and on the top floor there's a cafe and a book and DVD section. [Q13] You'll find all the well-known names as well as some less well-known ones. If they haven't got exactly what you want in stock they promise to get it for you in ten days. [Q14] Unlike the other store, where it can take up to fourteen days. They cover all the major sports, including football, tennis and swimming, but they particularly focus on running, and they claim to have the widest range of equipment in the country. [Q15] As well as that, a whole section of the third floor is devoted to sports bags, including the latest designs from the States - if you can't find what you want here, it doesn't exist! [Q16]\nThe shop will be open from 9.00 am this Saturday and if you go along to the opening then you'll have the chance to meet the national 400 metres running champion Paul King, who's coming along to open the shop, and he will be staying around until about midday to chat to any fans who want to meet him and sign autographs. [Q17]\nThen there will be a whole range of special attractions all weekend. There will be free tickets for local sporting events for the first 50 customers, and also a special competition open to all. Just answer fifteen out of twenty sports questions correctly to win a signed copy of Paul King's DVD 'Spring Tips', while the first person to get all the questions correct gets a year's free membership of the Bradcaster Gym. [Q18] All entrants will receive a special Sports calendar with details of all Bradcaster fixtures in the coming year.\nOne of the special opening offers is a fitness test - a complete review of your cardiac fitness and muscle tone, actually done in the shop by qualified staff. This would normally cost £30.00 but is available at half price for this month only. There are only a limited number of places available for this, so to make a booking phone 560341. [Q19] [Q20] In addition, if you open an account you get lots more special offers including the chance to try out equipment at special open evenings..."
+   },
+   {
+    "part": 3,
+    "range": [
+     21,
+     30
+    ],
+    "pages": [
+     4,
+     5
+    ],
+    "groups": [
+     {
+      "id": "L3-1",
+      "type": "choice",
+      "range": [
+       21,
+       30
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B** or **C**."
+      ],
+      "title": "Course Feedback",
+      "questions": [
+       {
+        "n": 21,
+        "text": "One reason why Spiros felt happy about his marketing presentation was that",
+        "options": [
+         {
+          "key": "A",
+          "text": "he was not nervous."
+         },
+         {
+          "key": "B",
+          "text": "his style was good."
+         },
+         {
+          "key": "C",
+          "text": "the presentation was the best in his group."
+         }
+        ]
+       },
+       {
+        "n": 22,
+        "text": "What surprised Hiroko about the other students' presentations?",
+        "options": [
+         {
+          "key": "A",
+          "text": "Their presentations were not interesting."
+         },
+         {
+          "key": "B",
+          "text": "They found their presentations stressful."
+         },
+         {
+          "key": "C",
+          "text": "They didn't look at the audience enough."
+         }
+        ]
+       },
+       {
+        "n": 23,
+        "text": "After she gave her presentation, Hiroko felt",
+        "options": [
+         {
+          "key": "A",
+          "text": "delighted."
+         },
+         {
+          "key": "B",
+          "text": "dissatisfied."
+         },
+         {
+          "key": "C",
+          "text": "embarrassed."
+         }
+        ]
+       },
+       {
+        "n": 24,
+        "text": "How does Spiros feel about his performance in tutorials?",
+        "options": [
+         {
+          "key": "A",
+          "text": "not very happy"
+         },
+         {
+          "key": "B",
+          "text": "really pleased"
+         },
+         {
+          "key": "C",
+          "text": "fairly confident"
+         }
+        ]
+       },
+       {
+        "n": 25,
+        "text": "Why can the other students participate so easily in discussions?",
+        "options": [
+         {
+          "key": "A",
+          "text": "They are polite to each other."
+         },
+         {
+          "key": "B",
+          "text": "They agree to take turns in speaking."
+         },
+         {
+          "key": "C",
+          "text": "They know each other well."
+         }
+        ]
+       },
+       {
+        "n": 26,
+        "text": "Why is Hiroko feeling more positive about tutorials now?",
+        "options": [
+         {
+          "key": "A",
+          "text": "She finds the other students' opinions more interesting."
+         },
+         {
+          "key": "B",
+          "text": "She is making more of a contribution."
+         },
+         {
+          "key": "C",
+          "text": "The tutor includes her in the discussion."
+         }
+        ]
+       },
+       {
+        "n": 27,
+        "text": "To help her understand lectures, Hiroko",
+        "options": [
+         {
+          "key": "A",
+          "text": "consulted reference materials."
+         },
+         {
+          "key": "B",
+          "text": "had extra tutorials with her lecturers."
+         },
+         {
+          "key": "C",
+          "text": "borrowed lecture notes from other students."
+         }
+        ]
+       },
+       {
+        "n": 28,
+        "text": "What does Spiros think of his reading skills?",
+        "options": [
+         {
+          "key": "A",
+          "text": "He reads faster than he used to."
+         },
+         {
+          "key": "B",
+          "text": "It still takes him a long time to read."
+         },
+         {
+          "key": "C",
+          "text": "He tends to struggle with new vocabulary."
+         }
+        ]
+       },
+       {
+        "n": 29,
+        "text": "What is Hiroko's subject area?",
+        "options": [
+         {
+          "key": "A",
+          "text": "environmental studies"
+         },
+         {
+          "key": "B",
+          "text": "health education"
+         },
+         {
+          "key": "C",
+          "text": "engineering"
+         }
+        ]
+       },
+       {
+        "n": 30,
+        "text": "Hiroko thinks that in the reading classes the students should",
+        "options": [
+         {
+          "key": "A",
+          "text": "learn more vocabulary."
+         },
+         {
+          "key": "B",
+          "text": "read more in their own subject areas."
+         },
+         {
+          "key": "C",
+          "text": "develop better reading strategies."
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "transcript": "TEACHER: Before we start, Spiros and Hiroko, thanks for coming in today to talk about your recent study experiences and congratulations to you both in doing so well in your first semester exams! I'd like to discuss with you the value of the English for Academic Purposes course you did here last year before starting your university course. Spiros, if I could start with you, what parts of the programme have now proved to be particularly valuable to you?\nSPIROS: I think that having to do a seminar presentation really helped me. For example, a couple of weeks ago in our marketing subject, when it was my turn to give a presentation I felt quite confident. Of course, I was still nervous but because I had done one before, I knew what to expect. Also, I know I was well-prepared and I had practised my timing. In fact, I think that in relation to some of the other people in my group, I did quite a good job because my overall style was quite professional. [Q21] What about you, Hiroko?\nHIROKO: Mmm, that's interesting. In my group, I was really surprised by the way the students did their presentations - they just read their notes aloud! Can you believe that? They didn't worry about their presentation style or keeping eye contact with their audience - and I remember that these things were really stressed to us in the course here. [Q22]\nTEACHER: So, how did you approach your presentation, Hiroko?\nHIROKO: Well, to speak frankly, I read my notes too! At the time, it was a relief to do it this way, but actually when I had finished, I didn't feel any real sense of satisfaction. [Q23] I didn't feel positive about the experience at all.\nSPIROS: That's a pity. You know, although I was pleased with my presentation, I am not so pleased with my actual performance right now in the tutorials - during the whole semester I've not said anything in our tutorial discussions. [Q24] Not a word.\nHIROKO: Really, Spiros? Why's that? Do the other students talk too much?\nSPIROS: It's partly that, but it's mostly because I have had no confidence to speak out. Their style of speaking is so different - it's not the style we were used to during the course. They use so many colloquialisms, they're not very polite and sometimes there seems to be no order in their discussion. Also, they are very familiar with each other, so because they know each other's habits, they can let each other into the discussion. [Q25]\nHIROKO: You're right, Spiros, I've experienced that too.\nHIROKO: For most of this semester, I've said absolutely nothing in tutorials. But recently, I've been trying to speak up more and I just jump in, and I've noticed an interesting thing, I've noticed that if they thought my point was interesting or new, then the next time they actually asked for my opinion, and then it was much easier for me to be part of the discussion. [Q26]\nSPIROS: That's great, Hiroko! I hope that happens for me next semester - I'll have to work hard to find some interesting points. What helped you to find these ideas?\nHIROKO: I think that one thing that helped me with this was the reading. I've had to do so much reading this semester just to help me make sense of the lectures. At first I couldn't understand what the lecturers were talking about, so I had to turn to the books and journals. [Q27] Every night I read for hours, using the lists of references that were given, and I made pages of notes. At breakfast, I read and read my notes again. This habit has helped me to follow the ideas in the lectures, and it's also given me some ideas to use in the tutorials.\nSPIROS: But I did so much reading anyway - I don't think there's any time left over for anything extra. My reading speed is still quite slow, though I'm much better at dealing with vocabulary than I used to be. [Q28]\nTEACHER: What else do you think we could add to the course program to help with this reading problem?\nSPIROS: There's not really anything because it's my problem. I remember we were given long articles to read. We didn't like that but now I realise that reading those long articles was good preparation for the things I need to read now. Also, in class we regularly had speed-reading tasks to do, and we kept a record of our reading speed, so the teachers were encouraging us to work on that.\nHIROKO: That's true Spiros, but what we read could have been different. Sometimes in the English class I felt frustrated when I had to read articles about the environment or health or education, because I wanted to concentrate on my own field but we didn't read anything about engineering. [Q29] So, I think I wasted some time learning vocabulary I didn't need.\nTEACHER: But surely the strategies you were taught for dealing with that vocabulary were helpful.\nHIROKO: Yes, but psychologically speaking, I would have felt much better working on reading from my own field. [Q30] What do you think Spiros?\nSPIROS: I agree; that would have helped my confidence too and I would have been more motivated. It was good though that we could work on our own topics when we wrote the research assignments.\nTEACHER: Okay, let's move on to writing now ..."
+   },
+   {
+    "part": 4,
+    "range": [
+     31,
+     40
+    ],
+    "pages": [
+     6
+    ],
+    "groups": [
+     {
+      "id": "L4-1",
+      "type": "completion",
+      "range": [
+       31,
+       40
+      ],
+      "instructions": [
+       "Complete the notes below",
+       "Write **NO MORE THAN TWO WORDS** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Mass Strandings of Whales and Dolphins"
+       },
+       {
+        "t": "p",
+        "text": "Mass strandings: situations where groups of whales, dolphins, etc. swim onto the beach and die"
+       },
+       {
+        "t": "p",
+        "text": "Common in areas where the {{31}} can change quickly"
+       },
+       {
+        "t": "p",
+        "text": "Several other theories:"
+       },
+       {
+        "t": "sub",
+        "text": "Parasites"
+       },
+       {
+        "t": "p",
+        "text": "e.g. some parasites can affect marine animals' {{32}}, which they depend on for navigation"
+       },
+       {
+        "t": "sub",
+        "text": "Toxins"
+       },
+       {
+        "t": "p",
+        "text": "Poisons from {{33}} are commonly consumed by whales"
+       },
+       {
+        "t": "p",
+        "text": "e.g. Cape Cod (1988) – whales were killed by saxitoxin"
+       },
+       {
+        "t": "sub",
+        "text": "Accidental Strandings"
+       },
+       {
+        "t": "p",
+        "text": "Animals may follow prey ashore, e.g. Thurston (1995)"
+       },
+       {
+        "t": "p",
+        "text": "Unlikely because the majority of animals were not {{34}} when they stranded"
+       },
+       {
+        "t": "sub",
+        "text": "Human Activity"
+       },
+       {
+        "t": "p",
+        "text": "{{35}} from military tests are linked to some recent strandings"
+       },
+       {
+        "t": "p",
+        "text": "The Bahamas (2000) stranding was unusual because the whales"
+       },
+       {
+        "t": "li",
+        "text": "were all {{36}}"
+       },
+       {
+        "t": "li",
+        "text": "were not in a {{37}}"
+       },
+       {
+        "t": "sub",
+        "text": "Group Behaviour"
+       },
+       {
+        "t": "li",
+        "text": "More strandings in the most {{38}} species of whales"
+       },
+       {
+        "t": "li",
+        "text": "1994 dolphin stranding – only the {{39}} was ill"
+       },
+       {
+        "t": "sub",
+        "text": "Further Reading"
+       },
+       {
+        "t": "p",
+        "text": "Marine Mammals Ashore (Connor) – gives information about stranding {{40}}"
+       }
+      ]
+     }
+    ],
+    "transcript": "Good afternoon everyone. Well, with some of you about to go out on field work it's timely that in this afternoon's session I'll be sharing some ideas about the reasons why groups of whales and dolphins sometimes swim ashore from the sea right onto the beach and, most often, die in what are known as 'mass strandings'.\nUnfortunately, this type of event is a frequent occurrence in some of the locations that you'll be travelling to, where sometimes the tide goes out suddenly, confusing the animals. [Q31] However, there are many other theories about the causes of mass strandings.\nThe first is that the behaviour is linked to parasites. It's often found that stranded animals were infested with large numbers of parasites. For instance, a type of worm is commonly found in the ears of dead whales. Since marine animals rely heavily on their hearing to navigate, this type of infestation has the potential to be very harmful. [Q32]\nAnother theory is related to toxins, or poisons. These have also been found to contribute to the death of many marine animals. Many toxins, as I'm sure you're aware, originate from plants, or animals. [Q33] The whale ingests these toxins in its normal feeding behaviour but whether these poisons directly or indirectly lead to stranding and death, seems to depend upon the toxin involved.\nIn 1988, for example, fourteen humpback whales examined after stranding along the beaches of Cape Cod were found to have been poisoned after eating tuna that contained saxitoxin, the same toxin that can be fatal in humans.\nAlternatively, it has also been suggested that some animals strand accidentally by following their prey ashore in the confusion of the chase. In 1995 David Thurston monitored pilot whales that beached after following squid ashore. However, this idea does not seem to hold true for the majority of mass strandings because examination of the animals' stomach contents reveal that most had not been feeding as they stranded. [Q34]\nThere are also some new theories which link strandings to humans. A growing concern is that loud noises in the ocean cause strandings. Noises such as those caused by military exercises are of particular concern and have been pinpointed as the cause of some strandings of late. [Q35]\nOne of these, a mass stranding of whales in 2000 in the Bahamas coincided closely with experiments using a new submarine detection system. There were several factors that made this stranding stand out as different from previous strandings. This led researchers to look for a new cause. For one, all the stranded animals were healthy. [Q36] In addition, the animals were spread out along 38 kilometres of coast, whereas it's more common for the animals to be found in a group when mass strandings occur. [Q37]\nA final theory is related to group behaviour, and suggests that sea mammals cannot distinguish between sick and healthy leaders and will follow sick leaders, even to an inevitable death. This is a particularly interesting theory since the whales that are thought to be most social - the toothed whales - are the group that strand the most frequently. [Q38]\nThe theory is also supported by evidence from a dolphin stranding in 1994. Examination of the dead animals revealed that apart from the leader, all the others had been healthy at the time of their death. [Q39]\nWithout one consistent theory however it is very hard for us to do anything about this phenomenon except to assist animals where and when we can. Stranding networks have been established around the world to aid in rescuing animals and collecting samples from those that could not be helped. [Q40] I recommend John Connor's Marine Mammals Ashore as an excellent starting point if you're interested in finding out more about these networks, or establishing one yourself."
+   }
+  ],
+  "answers": {
+   "1": {
+    "a": [
+     "answer phone",
+     "answering phone",
+     "answer the phone",
+     "answering the phone"
+    ],
+    "k": "answer(ing) (the) phone"
+   },
+   "2": {
+    "a": [
+     "Hillsdunne Road"
+    ]
+   },
+   "3": {
+    "a": [
+     "library"
+    ]
+   },
+   "4": {
+    "a": [
+     "4.45"
+    ]
+   },
+   "5": {
+    "a": [
+     "national holidays"
+    ]
+   },
+   "6": {
+    "a": [
+     "after 11",
+     "after 11 o'clock"
+    ],
+    "k": "after 11 (o'clock)"
+   },
+   "7": {
+    "a": [
+     "clear voice"
+    ]
+   },
+   "8": {
+    "a": [
+     "think quickly"
+    ]
+   },
+   "9": {
+    "a": [
+     "22 October"
+    ]
+   },
+   "10": {
+    "a": [
+     "Manuja"
+    ]
+   },
+   "11": {
+    "a": [
+     "branch"
+    ]
+   },
+   "12": {
+    "a": [
+     "west"
+    ]
+   },
+   "13": {
+    "a": [
+     "clothing"
+    ]
+   },
+   "14": {
+    "a": [
+     "10"
+    ]
+   },
+   "15": {
+    "a": [
+     "running"
+    ]
+   },
+   "16": {
+    "a": [
+     "bags"
+    ]
+   },
+   "17": {
+    "a": [
+     "A"
+    ]
+   },
+   "18": {
+    "a": [
+     "A"
+    ]
+   },
+   "19": {
+    "a": [
+     "A"
+    ],
+    "k": "19&20 IN EITHER ORDER A E"
+   },
+   "20": {
+    "a": [
+     "E"
+    ],
+    "k": "19&20 IN EITHER ORDER A E"
+   },
+   "21": {
+    "a": [
+     "B"
+    ]
+   },
+   "22": {
+    "a": [
+     "C"
+    ]
+   },
+   "23": {
+    "a": [
+     "B"
+    ]
+   },
+   "24": {
+    "a": [
+     "A"
+    ]
+   },
+   "25": {
+    "a": [
+     "C"
+    ]
+   },
+   "26": {
+    "a": [
+     "B"
+    ]
+   },
+   "27": {
+    "a": [
+     "A"
+    ]
+   },
+   "28": {
+    "a": [
+     "B"
+    ]
+   },
+   "29": {
+    "a": [
+     "C"
+    ]
+   },
+   "30": {
+    "a": [
+     "B"
+    ]
+   },
+   "31": {
+    "a": [
+     "tide",
+     "tides"
+    ],
+    "k": "tide/tides"
+   },
+   "32": {
+    "a": [
+     "hearing",
+     "ear",
+     "ears"
+    ],
+    "k": "hearing/ear/ears"
+   },
+   "33": {
+    "a": [
+     "plants or animals",
+     "animals or plants",
+     "plants and animals",
+     "animals and plants",
+     "plants animals",
+     "animals plants",
+     "plants or fish",
+     "fish or plants",
+     "plants and fish",
+     "fish and plants",
+     "plants fish",
+     "fish plants",
+     "plants or fishes",
+     "fishes or plants",
+     "plants and fishes",
+     "fishes and plants",
+     "plants fishes",
+     "fishes plants"
+    ],
+    "k": "IN EITHER ORDER; BOTH REQUIRED FOR ONE MARK plants animals/fish/fishes"
+   },
+   "34": {
+    "a": [
+     "feeding"
+    ]
+   },
+   "35": {
+    "a": [
+     "noise",
+     "noises"
+    ],
+    "k": "noise/noises"
+   },
+   "36": {
+    "a": [
+     "healthy"
+    ]
+   },
+   "37": {
+    "a": [
+     "group"
+    ]
+   },
+   "38": {
+    "a": [
+     "social"
+    ]
+   },
+   "39": {
+    "a": [
+     "leader"
+    ]
+   },
+   "40": {
+    "a": [
+     "network",
+     "networks"
+    ],
+    "k": "network/networks"
+   }
+  }
+ },
+ "reading": {
+  "passages": [
+   {
+    "passage": 1,
+    "range": [
+     1,
+     13
+    ],
+    "pages": [
+     7,
+     8,
+     9,
+     10,
+     11
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 1–13**, which are based on Reading Passage 1 below.",
+    "title": "William Henry Perkin",
+    "subtitle": "The man who invented synthetic dyes",
+    "paragraphs": [
+     {
+      "text": "William Henry Perkin was born on March 12, 1838, in London, England. As a boy, Perkin's curiosity prompted early interests in the arts, sciences, photography, and engineering. But it was a chance stumbling upon a run-down, yet functional, laboratory in his late grandfather's home that solidified the young man's enthusiasm for chemistry."
+     },
+     {
+      "text": "As a student at the City of London School, Perkin became immersed in the study of chemistry. His talent and devotion to the subject were perceived by his teacher, Thomas Hall, who encouraged him to attend a series of lectures given by the eminent scientist Michael Faraday at the Royal Institution. Those speeches fired the young chemist's enthusiasm further, and he later went on to attend the Royal College of Chemistry, which he succeeded in entering in 1853, at the age of 15."
+     },
+     {
+      "text": "At the time of Perkin's enrolment, the Royal College of Chemistry was headed by the noted German chemist August Wilhelm Hofmann. Perkin's scientific gifts soon caught Hofmann's attention and, within two years, he became Hofmann's youngest assistant. Not long after that, Perkin made the scientific breakthrough that would bring him both fame and fortune."
+     },
+     {
+      "text": "At the time, quinine was the only viable medical treatment for malaria. The drug is derived from the bark of the cinchona tree, native to South America, and by 1856, demand for the drug was surpassing the available supply. Thus, when Hofmann made some passing comments about the desirability of a synthetic substitute for quinine, it was unsurprising that his star pupil was moved to take up the challenge."
+     },
+     {
+      "text": "During his vacation in 1856, Perkin spent his time in the laboratory on the top floor of his family's house. He was attempting to manufacture quinine from aniline, an inexpensive and readily available coal tar waste product. Despite his best efforts, however, he did not end up with quinine. Instead, he produced a mysterious dark sludge. Luckily, Perkin's scientific training and nature prompted him to investigate the substance further. Incorporating potassium dichromate and alcohol into the aniline at various stages of the experimental process, he finally produced a deep purple solution. And, proving the truth of the famous scientist Louis Pasteur's words 'chance favours only the prepared mind', Perkin saw the potential of his unexpected find."
+     },
+     {
+      "text": "Historically, textile dyes were made from such natural sources as plants and animal excretions. Some of these, such as the glandular mucus of snails, were difficult to obtain and outrageously expensive. Indeed, the purple colour extracted from a snail was once so costly that in society at the time only the rich could afford it. Further, natural dyes tend to be muddy in hue and fade quickly. It was against this backdrop that Perkin's discovery was made."
+     },
+     {
+      "text": "Perkin quickly grasped that his purple solution could be used to colour fabric, thus making it the world's first synthetic dye. Realising the importance of this breakthrough, he lost no time in patenting it. But perhaps the most fascinating of all Perkin's reactions to his find was his nearly instant recognition that the new dye had commercial possibilities."
+     },
+     {
+      "text": "Perkin originally named his dye Tyrian Purple, but it later became commonly known as mauve (from the French for the plant used to make the colour violet). He asked advice of Scottish dye works owner Robert Pullar, who assured him that manufacturing the dye would be well worth it if the colour remained fast (i.e. would not fade) and the cost was relatively low. So, over the fierce objections of his mentor Hofmann, he left college to give birth to the modern chemical industry."
+     },
+     {
+      "text": "With the help of his father and brother, Perkin set up a factory not far from London. Utilising the cheap and plentiful coal tar that was an almost unlimited byproduct of London's gas street lighting, the dye works began producing the world's first synthetically dyed material in 1857. The company received a commercial boost from the Empress Eugenie of France, when she decided the new colour flattered her. Very soon, mauve was the necessary shade for all the fashionable ladies in that country. Not to be outdone, England's Queen Victoria also appeared in public wearing a mauve gown, thus making it all the rage in England as well. The dye was bold and fast, and the public clamoured for more. Perkin went back to the drawing board."
+     },
+     {
+      "text": "Although Perkin's fame was achieved and fortune assured by his first discovery, the chemist continued his research. Among other dyes he developed and introduced were aniline red (1859) and aniline black (1863) and, in the late 1860s, Perkin's synthetic dye discoveries had outcomes far beyond the merely decorative. The dyes also became vital to medical research in many ways. For instance, they were used to stain previously invisible microbes and bacteria, allowing researchers to identify such bacilli as tuberculosis, cholera, and anthrax. Artificial dyes continue to play a crucial role today. And, in what would have been particularly pleasing to Perkin, their current use is in the search for a vaccine against malaria."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R1-1",
+      "type": "tfng",
+      "range": [
+       1,
+       7
+      ],
+      "instructions": [
+       "Do the following statements agree with the information given in Reading Passage 1?",
+       "In boxes 1–7 on your answer sheet, write",
+       "**TRUE** if the statement agrees with the information",
+       "**FALSE** if the statement contradicts the information",
+       "**NOT GIVEN** if there is no information on this"
+      ],
+      "questions": [
+       {
+        "n": 1,
+        "text": "Michael Faraday was the first person to recognize Perkin's ability as a student of chemistry."
+       },
+       {
+        "n": 2,
+        "text": "Michael Faraday suggested Perkin should enroll in the Royal College of Chemistry."
+       },
+       {
+        "n": 3,
+        "text": "Perkin employed August Wilhelm Hofmann as his assistant."
+       },
+       {
+        "n": 4,
+        "text": "Perkin was still young when he made the discovery that made him rich and famous."
+       },
+       {
+        "n": 5,
+        "text": "The trees from which quinine is derived grow only in South America."
+       },
+       {
+        "n": 6,
+        "text": "Perkin hoped to manufacture a drug from a coal tar waste product."
+       },
+       {
+        "n": 7,
+        "text": "Perkin was inspired by the discoveries of the famous scientist Louis Pasteur."
+       }
+      ]
+     },
+     {
+      "id": "R1-2",
+      "type": "completion",
+      "range": [
+       8,
+       13
+      ],
+      "instructions": [
+       "Answer the questions below.",
+       "Choose **NO MORE THAN TWO WORDS** from the passage for each answer.",
+       "Write your answers in boxes 8–13 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "p",
+        "text": "Before Perkin's discovery, with what group in society was the colour purple associated? {{8}}"
+       },
+       {
+        "t": "p",
+        "text": "What potential did Perkin immediately understand that his new dye had? {{9}}"
+       },
+       {
+        "t": "p",
+        "text": "What was the name finally used to refer to the first colour Perkin invented? {{10}}"
+       },
+       {
+        "t": "p",
+        "text": "What was the name of the person Perkin consulted before setting up his own dye works? {{11}}"
+       },
+       {
+        "t": "p",
+        "text": "In what country did Perkin's newly invented colour first become fashionable? {{12}}"
+       },
+       {
+        "t": "p",
+        "text": "According to the passage, which disease is now being targeted by researchers using synthetic dyes? {{13}}"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "passage": 2,
+    "range": [
+     14,
+     26
+    ],
+    "pages": [
+     12,
+     13,
+     14,
+     15,
+     16,
+     17
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 14–26**, which are based on Reading Passage 2 on the following pages.",
+    "title": "IS THERE ANYBODY OUT THERE?",
+    "subtitle": "The Search for Extra-terrestrial Intelligence",
+    "paragraphs": [
+     {
+      "text": "*The question of whether we are alone in the Universe has haunted humanity for centuries, but we may now stand poised on the brink of the answer to that question, as we search for radio signals from other intelligent civilizations. This search, often known by the acronym SETI (search for extra-terrestrial intelligence), is a difficult one. Although groups around the world have been searching intermittently for three decades, it is only now that we have reached the level of technology where we can make a determined attempt to search all nearby stars for any sign of life.*"
+     },
+     {
+      "label": "A",
+      "text": "The primary reason for the search is basic curiosity—the same curiosity about the natural world that drives all pure science. We want to know whether life evolves naturally if given the right conditions, or whether there is something very special about the Earth to have fostered the variety of life forms that we see around us on the planet. The simple detection of a radio signal will be sufficient to answer this most basic of all the questions. In this sense, SETI is another cog in the machinery of pure science which is continually pushing out the horizon of our knowledge. However, there are other reasons for being interested in whether life exists elsewhere. For example, we have had civilization on Earth for perhaps only a few thousand years, and the threats of the nuclear war and pollution over the last few decades have told us that our survival may be tenuous. Will we last another two thousand years or will we wipe ourselves out? Since the lifetime of a planet like ours is several billion years, we can expect that, if other civilizations do survive in our galaxy, their ages will range from zero to several billion years. Thus the mere existence of such a civilization will tell us that long-term survival is possible, and gives us some cause for optimism. It is even possible that the older civilization may pass on the benefits of their experience in dealing with threats to survival such as nuclear war and global pollution, and other threats that we haven't yet discovered."
+     },
+     {
+      "label": "B",
+      "text": "In discussing whether we are alone, most SETI scientists adopt two ground rules. First, UFOs (Unidentified Flying Objects) are generally ignored since most scientists don't consider the evidence for them to be strong enough to bear serious consideration although it is also important to keep an open mind in case any really convincing evidence emerges in the future. Second, we make a very conservative assumption that we are looking for a life form that is pretty well like us, since if it differs radically from us we may well not recognize it as a life form, quite apart from whether we are able to communicate with it. In other words, the life form we are looking for may well have two green heads and seven fingers, but it will nevertheless resemble us in that it should communicate with its fellows, be interested in the Universe, live on a planet orbiting a star like our Sun, and perhaps most restrictively, have a chemistry, like us, based on carbon and water."
+     },
+     {
+      "label": "C",
+      "text": "Even when we make these assumptions, our understanding of other life forms is still severely limited. We do not even know, for example, how many stars have planets, and we certainly do not know how likely it is that life will arise naturally, given the right conditions. However, when we look at the 100 billion stars in our galaxy (the Milky Way), and 100 billion galaxies in the observable Universe, it seems inconceivable that at least one of these planets does not have a life form on it: in fact, the best educated guess we can make, using the little we do know about the conditions for carbon-based life, leads us to estimate that perhaps one in 100,000 stars might have a life-bearing planet orbiting it. That means that our nearest neighbours are perhaps 100 light years away, which is almost next door in astronomical terms."
+     },
+     {
+      "label": "D",
+      "text": "An alien civilization could choose many different ways of sending information across the galaxy, but many of these either require too much energy, or else are severely attenuated while traversing the vast distances across the galaxy. It turns out that, for a given amount of transmitted power, radio waves in the frequency range 1000 to 3000 MHz travel the greatest distance, and so all searches to date have concentrated on looking for radio waves in this frequency range. So far there have been a number of searches by various groups around the world, including Australian searches using the radio telescope at Parkes, New South Wales. Until now there have not been any detections from the few hundred stars which have been searched. The scale of the searches has been increased dramatically since 1992, when the US Congress NASA 110 million per year for ten years to conduct a thorough search for extra terrestrial life. Much of the money in this project is being spent on developing the special hardware needed to search many frequencies at once. The project has two parts. One part is a targeted search using the world's largest radio telescopes, the American-operated telescope in Arecibo, Puerto Rico and the French telescope in Nancy in France. This part of the project is searching the nearest 1000 likely stars with high sensitivity for signals in the frequency range 1000 to 3000 MHz. The other part of the project is an undirected search which is monitoring all of space with a lower sensitivity, using the smaller antennas of NASA's Deep Space Network."
+     },
+     {
+      "label": "E",
+      "text": "There is considerable debate over how we should react if we detect a signal from an alien civilization. Everybody agrees that we should not reply immediately. Quite apart from the impracticality of sending a reply over such large distances at short notice, it raises a host of ethical questions that would have to be addressed by the global community before any reply could be sent. Would the human race face the culture shock if faced with a superior and much older civilization? Luckily, there is no urgency about this. The stars being searched are hundreds of light years away, so it takes hundreds of years for their signal to reach us, and a further few hundreds for our reply to reach them. It's not important, then, if there's a delay of a few years, or decades, while the human race debates the question of whether to reply, and perhaps carefully drafts a reply."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R2-1",
+      "type": "matching",
+      "range": [
+       14,
+       17
+      ],
+      "instructions": [
+       "Reading Passage 2 has five paragraphs, **A–E**.",
+       "Choose the correct heading for paragraphs **B–E** from the list of headings below.",
+       "Write the correct number, *i–vii*, in boxes 14–17 in your answer sheet.",
+       "Example: Paragraph A – v"
+      ],
+      "optionsTitle": "List of Headings",
+      "options": [
+       {
+        "key": "i",
+        "text": "Seeking the transmission of radio signals from planets"
+       },
+       {
+        "key": "ii",
+        "text": "Appropriate responses to signals from other civilisations"
+       },
+       {
+        "key": "iii",
+        "text": "Vast distances to Earth's closest neighbours"
+       },
+       {
+        "key": "iv",
+        "text": "Assumptions underlying the search for extra terrestrial intelligence"
+       },
+       {
+        "key": "v",
+        "text": "Reasons for the search for extra-terrestrial intelligence"
+       },
+       {
+        "key": "vi",
+        "text": "Knowledge of extra terrestrial life forms"
+       },
+       {
+        "key": "vii",
+        "text": "Likelihood of life on other planets"
+       }
+      ],
+      "questions": [
+       {
+        "n": 14,
+        "text": "Paragraph B"
+       },
+       {
+        "n": 15,
+        "text": "Paragraph C"
+       },
+       {
+        "n": 16,
+        "text": "Paragraph D"
+       },
+       {
+        "n": 17,
+        "text": "Paragraph E"
+       }
+      ]
+     },
+     {
+      "id": "R2-2",
+      "type": "completion",
+      "range": [
+       18,
+       20
+      ],
+      "instructions": [
+       "Answer the questions below.",
+       "Choose **NO MORE THAN THREE WORDS AND/OR A NUMBER** from the passage for each answer.",
+       "Write your answers in boxes 18–20 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "p",
+        "text": "What is the life expectancy of Earth? {{18}}"
+       },
+       {
+        "t": "p",
+        "text": "What kind of signal from other intelligent civilizations are SETI scientists searching for? {{19}}"
+       },
+       {
+        "t": "p",
+        "text": "How many stars are the world's most powerful radio telescopes searching? {{20}}"
+       }
+      ]
+     },
+     {
+      "id": "R2-3",
+      "type": "ynng",
+      "range": [
+       21,
+       26
+      ],
+      "instructions": [
+       "Do the following statements agree with the views of the writer in Reading Passage 2?",
+       "In boxes 21–26 on your answer sheet, write",
+       "**YES** if the statement agrees with the views of the writer",
+       "**NO** if the statement contradicts the views of the writer",
+       "**NOT GIVEN** if there is no information on this"
+      ],
+      "questions": [
+       {
+        "n": 21,
+        "text": "Alien civilization may be able to help the human race to overcome serious problems."
+       },
+       {
+        "n": 22,
+        "text": "SETI scientists are trying to find a life form that resembles humans in many ways."
+       },
+       {
+        "n": 23,
+        "text": "The Americans and Australians have co-operated on joint research projects."
+       },
+       {
+        "n": 24,
+        "text": "So far SETI scientists have picked up radio signals from several stars."
+       },
+       {
+        "n": 25,
+        "text": "The NASA project attracted criticism from some members of Congress."
+       },
+       {
+        "n": 26,
+        "text": "If a signal from outer space is received, it will be important to respond promptly."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "passage": 3,
+    "range": [
+     27,
+     40
+    ],
+    "pages": [
+     18,
+     19,
+     20,
+     21,
+     22,
+     23
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 27–40**, which are based on Reading Passage 3 below.",
+    "title": "The history of the tortoise",
+    "subtitle": null,
+    "paragraphs": [
+     {
+      "text": "If you go back far enough, everything lived in the sea. At various points in evolutionary history, enterprising individuals within many different animal groups moved out onto the land, sometimes even to the most parched deserts, taking their own private seawater with them in blood and cellular fluids. In addition to the reptiles, birds, mammals and insects which we see all around us, other groups that have succeeded out of water include scorpions, snails, crustaceans such as woodlice and land crabs, millipedes and centipedes, spiders and various worms. And we mustn't forget the plants, without whose prior invasion of the land none of the other migrations could have happened."
+     },
+     {
+      "text": "Moving from water to land involved a major redesign of every aspect of life, including breathing and reproduction. Nevertheless, a good number of thoroughgoing land animals later turned around, abandoned their hard-earned terrestrial re-tooling, and returned to the water again. Seals have only gone part way back. They show us what the intermediates might have been like, on the way to extreme cases such as whales and dugongs. Whales (including the small whales we call dolphins) and dugongs, with their close cousins the manatees, ceased to be land creatures altogether and reverted to the full marine habits of their remote ancestors. They don't even come ashore to breed. They do, however, still breathe air, having never developed anything equivalent to the gills of their earlier marine incarnation. Turtles went back to the sea a very long time ago and, like all vertebrate returnees to the water, they breathe air. However, they are, in one respect, less fully given back to the water than whales or dugongs, for turtles still lay their eggs on beaches."
+     },
+     {
+      "text": "There is evidence that all modern turtles are descended from a terrestrial ancestor which lived before most of the dinosaurs. There are two key fossils called *Proganochelys quenstedti* and *Palaeochersis talampayensis* dating from early dinosaur times, which appear to be close to the ancestry of all modern turtles and tortoises. You might wonder how we can tell whether a fossil animal lived on land or in water, especially if only fragments are found. Sometimes it's obvious. Ichthyosaurs were reptilian contemporaries of the dinosaurs, with fins and streamlined bodies. The fossils look like dolphins, in the water. With turtles it is a little less obvious. One way to tell is by measuring the bones of their forelimbs."
+     },
+     {
+      "text": "Walter Joyce and Jacques Gauthier, at Yale University, obtained three measurements in these particular bones of 71 species of living turtles and tortoises. They used a kind of triangular graph paper to plot the three measurements against one another. All the land tortoise species formed a tight cluster of points in the upper part of the triangle; all the water turtles cluster in the lower part of the triangular graph. There was no overlap except when they added some species that spend time both in water and on land. Sure enough, these amphibious species show up on the triangular graph approximately half way between the 'wet cluster' of land tortoises. The next step was to determine where the fossils fell. The bones of *P. quenstedti* and *P. talampayensis* leave us in no doubt. Their points on the graph are right in the thick of the dry cluster. Both these fossils were dry-land tortoises. They come from the era before our turtles returned to the water."
+     },
+     {
+      "text": "You might think, therefore, that modern land tortoises have probably stayed on land ever since those early terrestrial times, as most mammals did after a few of them went back to the sea. But apparently not. If you draw out the family tree of all modern turtles and tortoises, nearly all the branches are aquatic. Today's land tortoises constitute a single branch, deeply nested among branches consisting of aquatic turtles. This suggests that modern land tortoises have not stayed on land continuously since the time of *P. quenstedti* and *P. talampayensis*. Rather, their ancestors were among those who went back to the water, and they then re-emerged back onto the land in (relatively) more recent times."
+     },
+     {
+      "text": "Tortoises therefore represent a remarkable double return. In common with all mammals, reptiles and birds, their remote ancestors were marine fish and before that various more or less worm-like creatures stretching back, still in the sea, to the primeval bacteria. Later ancestors lived on land and stayed there for a very large number of generations. Later ancestors still evolved back into the water and became sea turtles. And finally they returned yet again to the land as tortoises, some of which now live in the driest of deserts."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R3-1",
+      "type": "completion",
+      "range": [
+       27,
+       30
+      ],
+      "instructions": [
+       "Answer the questions below.",
+       "Choose **NO MORE THAN TWO WORDS** from the passage for each answer.",
+       "Write your answers in boxes 27–30 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "p",
+        "text": "What had to transfer from sea to land before any animals could migrate? {{27}}"
+       },
+       {
+        "t": "p",
+        "text": "Which **TWO** processes are mentioned as those in which animals had to make big changes as they moved onto land? {{28}}"
+       },
+       {
+        "t": "p",
+        "text": "Which physical feature, possessed by their ancestors, do whales lack? {{29}}"
+       },
+       {
+        "t": "p",
+        "text": "Which animals might ichthyosaurs have resembled? {{30}}"
+       }
+      ]
+     },
+     {
+      "id": "R3-2",
+      "type": "tfng",
+      "range": [
+       31,
+       33
+      ],
+      "instructions": [
+       "Do the following statements agree with the information given in Reading Passage 3?",
+       "In boxes 31–33 on your answer sheet, write",
+       "**TRUE** if the statement agrees with the information",
+       "**FALSE** if the statement contradicts the information",
+       "**NOT GIVEN** if there is no information on this"
+      ],
+      "questions": [
+       {
+        "n": 31,
+        "text": "Turtles were among the first group of animals to migrate back to the sea."
+       },
+       {
+        "n": 32,
+        "text": "It is always difficult to determine where an animal lived when its fossilized remains are incomplete."
+       },
+       {
+        "n": 33,
+        "text": "The habitat of ichthyosaurs can be determined by the appearance of their fossilized remains."
+       }
+      ]
+     },
+     {
+      "id": "R3-3",
+      "type": "completion",
+      "range": [
+       34,
+       39
+      ],
+      "instructions": [
+       "Complete the flow-chart below.",
+       "Choose **NO MORE THAN TWO WORDS AND/OR A NUMBER** from the passage for each answer.",
+       "Write your answers in boxes 34–39 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Method of determining where the ancestors of turtles and tortoises come from"
+       },
+       {
+        "t": "flow",
+        "steps": [
+         "**Step 1**\n71 species of living turtles and tortoises were examined and a total of {{34}} were taken from the bones of their forelimbs.",
+         "**Step 2**\nThe data was recorded on a {{35}} (necessary for comparing the information).\nOutcome: Land tortoises were represented by a dense {{36}} of points towards the top.\nSea turtles were grouped together in the bottom part.",
+         "**Step 3**\nThe same data was collected from some living {{37}} species and added to the other results.\nOutcome: The points for these species turned out to be positioned about {{38}} up the triangle between the land tortoises and the sea turtles.",
+         "**Step 4**\nBones of *P. quenstedti* and *P. talampayensis* were examined in a similar way and the results added.\nOutcome: The position of the points indicated that both these ancient creatures were {{39}}"
+        ]
+       }
+      ]
+     },
+     {
+      "id": "R3-4",
+      "type": "choice",
+      "range": [
+       40,
+       40
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B**, **C** or **D**.",
+       "Write the correct letter in box 40 on your answer sheet."
+      ],
+      "questions": [
+       {
+        "n": 40,
+        "text": "According to the writer, the most significant thing about tortoises is that",
+        "options": [
+         {
+          "key": "A",
+          "text": "they are able to adapt to life in extremely dry environments."
+         },
+         {
+          "key": "B",
+          "text": "their original life form was a kind of primeval bacteria."
+         },
+         {
+          "key": "C",
+          "text": "they have so much in common with sea turtles."
+         },
+         {
+          "key": "D",
+          "text": "they have made the transition from sea to land more than once."
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "answers": {
+   "1": {
+    "a": [
+     "FALSE"
+    ]
+   },
+   "2": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "3": {
+    "a": [
+     "FALSE"
+    ]
+   },
+   "4": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "5": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "6": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "7": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "8": {
+    "a": [
+     "rich",
+     "the rich",
+     "only rich"
+    ],
+    "k": "(the / only) rich"
+   },
+   "9": {
+    "a": [
+     "commercial",
+     "commercial possibilities"
+    ],
+    "k": "commercial (possibilities)"
+   },
+   "10": {
+    "a": [
+     "mauve",
+     "mauve was",
+     "mauve is"
+    ],
+    "k": "mauve (was/is)"
+   },
+   "11": {
+    "a": [
+     "Pullar",
+     "Robert Pullar"
+    ],
+    "k": "(Robert) Pullar"
+   },
+   "12": {
+    "a": [
+     "France",
+     "in France"
+    ],
+    "k": "(in) France"
+   },
+   "13": {
+    "a": [
+     "malaria",
+     "malaria is"
+    ],
+    "k": "malaria (is)"
+   },
+   "14": {
+    "a": [
+     "iv"
+    ]
+   },
+   "15": {
+    "a": [
+     "vii"
+    ]
+   },
+   "16": {
+    "a": [
+     "i"
+    ]
+   },
+   "17": {
+    "a": [
+     "ii"
+    ]
+   },
+   "18": {
+    "a": [
+     "several billion years"
+    ]
+   },
+   "19": {
+    "a": [
+     "radio",
+     "radio waves",
+     "radio signals"
+    ],
+    "k": "radio (waves/signals)"
+   },
+   "20": {
+    "a": [
+     "1000",
+     "1000 stars"
+    ],
+    "k": "1000 (stars)"
+   },
+   "21": {
+    "a": [
+     "YES"
+    ]
+   },
+   "22": {
+    "a": [
+     "YES"
+    ]
+   },
+   "23": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "24": {
+    "a": [
+     "NO"
+    ]
+   },
+   "25": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "26": {
+    "a": [
+     "NO"
+    ]
+   },
+   "27": {
+    "a": [
+     "plants"
+    ]
+   },
+   "28": {
+    "a": [
+     "breathing and reproduction",
+     "reproduction and breathing",
+     "breathing, reproduction",
+     "breathing reproduction",
+     "reproduction breathing"
+    ],
+    "k": "IN EITHER ORDER; BOTH REQUIRED FOR ONE MARK breathing reproduction"
+   },
+   "29": {
+    "a": [
+     "gills"
+    ]
+   },
+   "30": {
+    "a": [
+     "dolphins"
+    ]
+   },
+   "31": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "32": {
+    "a": [
+     "FALSE"
+    ]
+   },
+   "33": {
+    "a": [
+     "TRUE"
+    ]
+   },
+   "34": {
+    "a": [
+     "3 measurements",
+     "three measurements"
+    ],
+    "k": "3 measurements"
+   },
+   "35": {
+    "a": [
+     "graph",
+     "triangular graph"
+    ],
+    "k": "(triangular) graph"
+   },
+   "36": {
+    "a": [
+     "cluster"
+    ]
+   },
+   "37": {
+    "a": [
+     "amphibious"
+    ]
+   },
+   "38": {
+    "a": [
+     "half way",
+     "halfway"
+    ],
+    "k": "half way"
+   },
+   "39": {
+    "a": [
+     "dry-land tortoises",
+     "dry land tortoises"
+    ],
+    "k": "dry-land tortoises"
+   },
+   "40": {
+    "a": [
+     "D"
+    ]
+   }
+  }
+ },
+ "writing": {
+  "tasks": [
+   {
+    "task": 1,
+    "minutes": 20,
+    "minWords": 150,
+    "pages": [
+     24
+    ],
+    "prompt": [
+     "The two maps below show an island, before and after the construction of some tourist facilities.",
+     "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+    ],
+    "image": "images/C9/C9-T1-W1.png",
+    "sample": {
+     "kind": "candidate",
+     "band": "7",
+     "text": "The two maps show the same island while first one is before and the second one is after the construction for tourism.\nLooking first at the one before construction, we can see a huge island with a beach in the west. The total length of the island is approximately 250 metres.\nMoving on to the second map, we can see that there are lots of buildings on the island. There are two areas of accommodation. One is in the west near the beach while the other one is in the centre of the island. Between them, there is a restaurant in the north and a central reception block, which is surrounded by a vehicle track. This track also goes down to the pier where people can go sailing in the south sea of the island. Furthermore, tourists can swim near the beach in the west. A footpath connecting the western accommodation units also leads to the beach.\nOverall, comparing the two maps, there are significant changes after this development. Not only lots of facilities are built on the island, but also the sea is used for activities. The new island has become a good place for tourism.",
+     "comment": "This answer clearly presents the key features of the diagrams, and although the first map is described only briefly, this is acceptable for this particular task. The description is accurate though some aspects, such as the section on the accommodation, could have been more fully extended. The final paragraph summarises the main points effectively. The information is logically organised and can be easily followed throughout the response. A range of cohesive devices including reference and substitution is used appropriately, with only occasional inaccuracies. Some less common vocabulary and collocations are used appropriately, e.g. *central reception block*; *western accommodation units*, and there are no spelling errors. There is a variety of grammatical structures and many sentences contain no inaccuracies. Where errors do occur, they do not affect understanding."
+    }
+   },
+   {
+    "task": 2,
+    "minutes": 40,
+    "minWords": 250,
+    "pages": [
+     25
+    ],
+    "prompt": [
+     "Write about the following topic:",
+     "*Some experts believe that it is better for children to begin learning a foreign language at primary school rather than secondary school.*",
+     "*Do the advantages of this outweigh the disadvantages?*",
+     "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+    ],
+    "sample": {
+     "kind": "model",
+     "band": null,
+     "text": "Traditionally, children have begun studying foreign languages at secondary school, but introducing them earlier is recommended by some educationalists. This policy has been adopted by some educational authorities or individual schools, with both positive and negative outcomes.\nThe obvious argument in its favour is that young children pick up languages much more easily than teenagers. Their brains are still programmed to acquire their mother tongue, which facilitates learning another language, and unlike adolescents, they are not inhibited by self-consciousness.\nThe greater flexibility of the primary timetable allows for more frequent, shorter sessions and for a play-centred approach, thus maintaining learners' enthusiasm and progress. Their command of the language in later life will benefit from this early exposure, while learning other languages subsequently will be easier for them. They may also gain a better understanding of other cultures.\nThere are, however, some disadvantages. Primary school teachers are generalists, and may not have the necessary language skills themselves. If specialists have to be brought in to deliver these sessions, the flexibility referred to above is diminished. If primary language teaching is not standardised, secondary schools could be faced with a great variety of levels in different languages within their intake, resulting in a classroom experience which undoes the earlier gains. There is no advantage if enthusiastic primary pupils become demotivated as soon as they change schools. However, these issues can be addressed strategically within the policy adopted.\nAnything which encourages language learning benefits society culturally and economically, and early exposure to language learning contributes to this. Young children's innate abilities should be harnessed to make these benefits more achievable.",
+     "comment": null
+    }
+   }
+  ]
+ },
+ "issues": [
+  "Listening Q33: the notes print two blanks ('33 ____ or ____') for a single question (key: both required for one mark); rendered as one gap {{33}} accepting 'plants or animals' etc.",
+  "Retyping errors corrected: 'NOW we go' → 'Now we go'; 'Bradcasster' → 'Bradcaster'; '12hours' → '12 hours'; Q24 'his performance tutorials' → 'his performance in tutorials'; Q27 option 'extra tutorials with her lectures' → 'with her lecturers'; Q34 notes 'prey as hore' → 'prey ashore'. Left as printed: Part 2 DVD title 'Spring Tips' (possibly 'Sprint Tips').",
+  "This C9 PDF is a third-party retyping with typing errors; unambiguous typos were corrected to the evident intended wording.",
+  "Passage 1 corrections: 'city of London School' → 'City of London School'; 'study at chemistry' → 'study of chemistry'; 'his teachers, Thomas Hall' → 'his teacher, Thomas Hall'; 'young chemistry's enthusiasm' → 'young chemist's enthusiasm'; 'Mauve was' → 'mauve was'; 'all the rate' → 'all the rage'; Q12 'In what county' → 'In what country'.",
+  "Passage 2 corrections: 'on the brick of the answer' → 'on the brink of the answer'; 'as the search for radio signals ...' → 'as we search for radio signals ...'; 'a planet like outs' → 'a planet like ours'; 'Thus any mere existence' → 'Thus the mere existence'; 'the milky way' → 'the Milky Way'; 'spent on the developing' → 'spent on developing'; 'America-operated' → 'American-operated'; final fragment '... decades. While the human race debates ...' joined into one sentence ('decades, while ...').",
+  "Passage 3 corrections: 'spider and various worms' → 'spiders and various worms'; 'without those prior invasion' → 'without whose prior invasion'; 'they breath air' → 'they breathe air'; 'whether fossil animal lived' → 'whether a fossil animal lived'; 'Proganochleys' → 'Proganochelys'; 'from the extra before' → 'from the era before'; Q40 option B 'they original' → 'their original'.",
+  "Rubric 'FALES' (Q1–7, Q31–33) corrected to FALSE.",
+  "Reading Q21–26: the question page prints a TRUE/FALSE/NOT GIVEN rubric, but the answer key gives YES/NO/NOT GIVEN; following the key, the group is YES/NO/NOT GIVEN with the standard rubric and answers YES/NO/NOT GIVEN.",
+  "Uncertain, left as printed: Passage 1 'aniline black (1863) and, in the late 1860s, Perkin's synthetic dye discoveries ...' (words apparently lost); Passage 2 'when the US Congress NASA 110 million per year' (verb and probably '$' missing; amount uncertain); Passage 3 'The fossils look like dolphins, in the water' and 'approximately half way between the 'wet cluster' of land tortoises' (words apparently lost)."
+ ]
+}

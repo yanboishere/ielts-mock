@@ -1,0 +1,17 @@
+{
+  "C4":  {"pdf": "~/ielts-refs/c4-extra/Ielts4.pdf", "tests": [1,2,3,4]},
+  "C5":  {"pdf": "~/ielts-refs/zeeklog/repo/剑桥雅思真题5.pdf", "tests": [1,2,3,4]},
+  "C6":  {"pdf": "~/ielts-refs/zeeklog/repo/剑桥雅思真题6.pdf", "tests": [1,2,3,4]},
+  "C7":  {"pdf": "~/ielts-refs/zeeklog/repo/剑桥雅思真题7.pdf", "tests": [1,2,3,4]},
+  "C8":  {"pdf": "~/ielts-refs/zeeklog/repo/剑桥雅思真题8.pdf", "tests": [1,2,3,4]},
+  "C9":  {"pdf": "~/ielts-refs/zeeklog/repo/剑桥雅思真题9.pdf", "tests": [1,2,3,4]},
+  "C10": {"pdf": "~/ielts-refs/zeeklog/repo/剑桥雅思真题10.pdf", "tests": [1,2,3,4]},
+  "C11": {"pdf": "~/ielts-refs/zeeklog/repo/剑桥雅思真题11.pdf", "tests": [1,2,3,4]},
+  "C12": {"pdf": "~/ielts-refs/zeeklog/repo/剑桥雅思真题12.pdf", "tests": [5,6,7,8]},
+  "C13": {"pdf": "~/ielts-refs/zeeklog/repo/剑桥雅思真题13.pdf", "tests": [1,2,3,4]},
+  "C14": {"pdf": "~/ielts-refs/zeeklog/repo/剑桥雅思真题14.pdf", "tests": [1,2,3,4]},
+  "C15": {"pdf": "~/ielts-refs/zeeklog/repo/剑桥雅思真题15.pdf", "tests": [1,2,3,4]},
+  "C16": {"pdf": "~/ielts-refs/zeeklog/repo/剑桥雅思真题16.pdf", "tests": [1,2,3,4]},
+  "C17": {"pdf": "~/ielts-refs/zeeklog/repo/剑桥雅思真题17.pdf", "tests": [1,2,3,4]},
+  "C18": {"pdf": "~/ielts-refs/zeeklog/repo/剑桥雅思真题18.pdf", "tests": [1,2,3,4]}
+}

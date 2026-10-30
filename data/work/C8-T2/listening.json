@@ -1,0 +1,845 @@
+{
+ "parts": [
+  {
+   "part": 1,
+   "range": [
+    1,
+    10
+   ],
+   "pages": [
+    32,
+    33
+   ],
+   "groups": [
+    {
+     "id": "L1-1",
+     "type": "completion",
+     "range": [
+      1,
+      3
+     ],
+     "instructions": [
+      "Complete the form below.",
+      "Write **NO MORE THAN THREE WORDS AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "TOTAL INSURANCE INCIDENT REPORT"
+      },
+      {
+       "t": "table",
+       "header": 0,
+       "rows": [
+        [
+         "*Example*",
+         "*Answer*"
+        ],
+        [
+         "**Name**",
+         "Michael Alexander"
+        ],
+        [
+         "**Address**",
+         "24 Manly Street, {{1}}, Sydney"
+        ],
+        [
+         "**Shipping agent**",
+         "{{2}}"
+        ],
+        [
+         "**Place of origin**",
+         "China"
+        ],
+        [
+         "**Date of arrival**",
+         "{{3}}"
+        ],
+        [
+         "**Reference number**",
+         "601 ACK"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L1-2",
+     "type": "completion",
+     "range": [
+      4,
+      10
+     ],
+     "instructions": [
+      "Complete the table below.",
+      "Write **ONE WORD AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "table",
+       "header": 1,
+       "rows": [
+        [
+         "Item",
+         "Damage",
+         "Cost to repair/ replace"
+        ],
+        [
+         "Television",
+         "The {{4}} needs to be replaced",
+         "not known"
+        ],
+        [
+         "The {{5}} cabinet",
+         "The {{6}} of the cabinet is damaged",
+         "${{7}}"
+        ],
+        [
+         "Dining room table",
+         "A {{8}} is split",
+         "$200"
+        ],
+        [
+         "Set of china",
+         "Six {{9}} were broken",
+         "about\n${{10}} in total"
+        ]
+       ]
+      }
+     ]
+    }
+   ],
+   "transcript": "JUDY: Good morning. Total Insurance. Judy speaking, how may I help you?\nMICHAEL: I recently shipped my belongings from overseas back here to Australia and I took out insurance with your company. Some items were damaged during the move so I need to make a claim. What do I have to do?\nJUDY: Okay, well first I need to get a few details about this. Can you give me your name please?\nMICHAEL: Yes. It's Michael Alexander.\nJUDY: Okay. And your address please?\nMICHAEL: My old address or my current one?\nJUDY: Your current one.\nMICHAEL: It's 24 Manly Street, Milperra near Sydney.\nJUDY: What was the suburb, sorry?\nMICHAEL: Milperra. M-I-L-P-E-R-R-A [Q1]\nJUDY: Right. Now, who was the shipping agent Mr Alexander?\nMICHAEL: You mean the company we used?\nJUDY: Yes, the company who packed everything up at the point of origin.\nMICHAEL: Oh, it was ... er ... First Class Movers. [Q2]\nJUDY: Okay... where were the goods shipped from?\nMICHAEL: China, but the ship came via Singapore and was there for about a week.\nJUDY: Don't worry, all of that information will be in the documentation. Now, the dates. Do you know when the ship arrived?\nMICHAEL: It left on the 11th of October and got to Sydney on the 28th of November. [Q3]\nJUDY: Okay. I need one more thing. There's a reference number. It should be in the top right-hand corner of the pink form they gave you.\nMICHAEL: Let me have a look. I have so many papers. Yes, here it is. It's 601 ACK.\nJUDY: Thanks.\nJUDY: I need to take down a few details of the actual damage over the phone before you put in a full report. Can you tell me how many items were damaged and what the damage was?\nMICHAEL: Yes, well four things actually. I'll start with the big things. My TV first of all. It's a large one ... very expensive.\nJUDY: Our insurance doesn't cover electrical problems.\nMICHAEL: It isn't an electrical problem. The screen has a huge crack in it so it's unusable. [Q4]\nJUDY: I see. Any idea of the price to repair it?\nMICHAEL: No. Well, I don't think it can be repaired. It will need a new one. [Q4]\nJUDY: Okay. I'll make a note of that and we'll see what we can do. Now, what was the second item?\nMICHAEL: The cabinet from the bathroom was damaged as well. It's a lovely cabinet, we use it to keep our towels in. [Q5]\nJUDY: And what is the extent of the damage?\nMICHAEL: Well, the back and the sides seem okay but the door has a huge hole in it. [Q6] It can't be repaired. I'm really not very happy about it.\nJUDY: And how much do you think it will cost to replace it?\nMICHAEL: Well, when I bought it last year I paid $125 for it. But the one I've seen here in Sydney is a bit more expensive, it's $140. [Q7]\nJUDY: Right, and what was the third item?\nMICHAEL: My dining room table. It's a lovely table from Indonesia. It must have been very hot inside the container because one leg has completely split down the middle. [Q8] The top and the other three look okay thank goodness.\nJUDY: Any idea of the price to repair it?\nMICHAEL: Well, I had an estimate done on this actually because it is a very special table to us. They quoted us $200, which is really pricey so I hope the insurance will cover the total cost.\nJUDY: I'm sure that will be fine. What was the last item, Mr Alexander?\nMICHAEL: Well, we have a lovely set of china plates and dishes, you know, with matching cups, saucers, the lot. They were all in the one box which must have got dropped because some plates were broken – six actually. [Q9]\nJUDY: And can you tell me the replacement value of these?\nMICHAEL: Well, it's hard to say because they were part of a set but they can be up to $10 each as it's such a good set.\nJUDY: Okay, so that would be around $60 altogether? [Q10]\nMICHAEL: Yes, that's right.\nJUDY: And is that all of the items?\nMICHAEL: Yes. So what do I have to do now?"
+  },
+  {
+   "part": 2,
+   "range": [
+    11,
+    20
+   ],
+   "pages": [
+    34,
+    35
+   ],
+   "groups": [
+    {
+     "id": "L2-1",
+     "type": "choice",
+     "range": [
+      11,
+      11
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "questions": [
+      {
+       "n": 11,
+       "text": "According to the speaker, the main purposes of the park are",
+       "options": [
+        {
+         "key": "A",
+         "text": "education and entertainment."
+        },
+        {
+         "key": "B",
+         "text": "research and education."
+        },
+        {
+         "key": "C",
+         "text": "research and entertainment."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L2-2",
+     "type": "completion",
+     "range": [
+      12,
+      14
+     ],
+     "instructions": [
+      "Label the plan below.",
+      "Write **NO MORE THAN TWO WORDS** for each answer."
+     ],
+     "image": "images/C8/C8-T2-L2-plan.png",
+     "content": [
+      {
+       "t": "h",
+       "text": "Agricultural Park"
+      },
+      {
+       "t": "p",
+       "text": "{{12}} Area"
+      },
+      {
+       "t": "p",
+       "text": "The {{13}}"
+      },
+      {
+       "t": "p",
+       "text": "{{14}} Area"
+      }
+     ]
+    },
+    {
+     "id": "L2-3",
+     "type": "choice",
+     "range": [
+      15,
+      20
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "questions": [
+      {
+       "n": 15,
+       "text": "When are the experimental areas closed to the public?",
+       "options": [
+        {
+         "key": "A",
+         "text": "all the year round"
+        },
+        {
+         "key": "B",
+         "text": "almost all the year"
+        },
+        {
+         "key": "C",
+         "text": "a short time every year"
+        }
+       ]
+      },
+      {
+       "n": 16,
+       "text": "How can you move around the park?",
+       "options": [
+        {
+         "key": "A",
+         "text": "by tram, walking or bicycle"
+        },
+        {
+         "key": "B",
+         "text": "by solar car or bicycle"
+        },
+        {
+         "key": "C",
+         "text": "by bicycle, walking or bus"
+        }
+       ]
+      },
+      {
+       "n": 17,
+       "text": "The rare breed animals kept in the park include",
+       "options": [
+        {
+         "key": "A",
+         "text": "hens and horses."
+        },
+        {
+         "key": "B",
+         "text": "goats and cows."
+        },
+        {
+         "key": "C",
+         "text": "goats and hens."
+        }
+       ]
+      },
+      {
+       "n": 18,
+       "text": "What is the main purpose of having the Rare Breeds Section?",
+       "options": [
+        {
+         "key": "A",
+         "text": "to save unusual animals"
+        },
+        {
+         "key": "B",
+         "text": "to keep a variety of breeds"
+        },
+        {
+         "key": "C",
+         "text": "to educate the public"
+        }
+       ]
+      },
+      {
+       "n": 19,
+       "text": "What can you see in the park at the present time?",
+       "options": [
+        {
+         "key": "A",
+         "text": "the arrival of wild birds"
+        },
+        {
+         "key": "B",
+         "text": "fruit tree blossom"
+        },
+        {
+         "key": "C",
+         "text": "a demonstration of fishing"
+        }
+       ]
+      },
+      {
+       "n": 20,
+       "text": "The shop contains books about",
+       "options": [
+        {
+         "key": "A",
+         "text": "animals."
+        },
+        {
+         "key": "B",
+         "text": "local traditions."
+        },
+        {
+         "key": "C",
+         "text": "the history of the park."
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "transcript": "Welcome to Green Vale Agricultural Park. As you know, we have only been open a week so you are amongst our first visitors. We have lots of fascinating indoor and outdoor exhibits on our huge complex, spreading hundreds of hectares. Our remit is to give educational opportunities to the wider public as well as to offer research sites for a wide variety of agriculturists and other scientists. [Q11]\nLet's start by seeing what there is to do. As you can see here on our giant wall plan, we are now situated in the Reception block... here. As you walk out of the main door into the park there is a path you can follow. If you follow this route you will immediately come into the Rare Breeds section, where we keep a wide variety of animals which I shall be telling you a little more about later. Next to this ... moving east... is the large grazing area for the rare breeds. Then further east... in the largest section of our Park is the Forest Area. [Q12] South of the grazing area and in fact just next to the Reception block is our Experimental Crop Area. In the middle of the Park... this circular area is our lake.... These two small rectangular shapes here... are the Fish Farms where we rear fish for sale. To the east of those is the marsh area which attracts a great many migrant birds. [Q13] In the south-eastern corner, beyond the marsh, is our Market Garden area, growing vegetables and flowers. [Q14]\nAll these areas can be visited by the general public for almost all the year... although... please take note of the large signs at the entrance to each area which tell... which tell you when certain areas are being used for particular controlled experiments and are therefore temporarily out of bounds to the public. [Q15]\nYou can see for yourself what a huge area the park covers and a key question is always, how can we move around? Well you have a choice of means ... all environmentally friendly... cars are banned in the park. We have bicycles which you can hire behind the Reception block... [Q16] here... the healthy ones of you can go on foot and finally there's our electric tram, powered from solar cells. You find more information about this at the front entrance.\nA good place to start on your tour is the Rare Breeds section. We keep goats, sheep and hens and other kinds of poultry. [Q17] We are also thinking of bringing in cows and horses but we do not, as yet, have facilities for these bigger animals. The animals are fed in public twice a day and a short lecture given on their feeding habits and nutritional needs. These are very popular with the public but of course we mustn't lose sight of the main purpose of having this section, not as such to preserve rare animals but to maintain the diversity of breeds to broaden the gene pool for agricultural development. [Q18] Green Vale changes with the seasons with different events happening at different times of the year. May will be perhaps our most spectacular month with the arrival of the Canada geese and when our fruit trees will be in full blossom, but there are interesting events on all year round ... for example John Havers, our expert fly fisherman, is currently giving displays on the lake. Each of the sections has its own seasonal calendar... [Q19] please consult the summary board at the main entrance. And the final section, as we return to the Reception blocks, is the orchard.\nDo take time to browse round our shop... there is a wide selection of books on wildlife, some of them written by local authors, and the history of farming, including organic farming. [Q20] something which the park will be diversifying into in the coming months."
+  },
+  {
+   "part": 3,
+   "range": [
+    21,
+    30
+   ],
+   "pages": [
+    36,
+    37
+   ],
+   "groups": [
+    {
+     "id": "L3-1",
+     "type": "choice",
+     "range": [
+      21,
+      24
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "title": "Honey Bees in Australia",
+     "questions": [
+      {
+       "n": 21,
+       "text": "Where in Australia have Asian honey bees been found in the past?",
+       "options": [
+        {
+         "key": "A",
+         "text": "Queensland"
+        },
+        {
+         "key": "B",
+         "text": "New South Wales"
+        },
+        {
+         "key": "C",
+         "text": "several states"
+        }
+       ]
+      },
+      {
+       "n": 22,
+       "text": "A problem with Asian honey bees is that they",
+       "options": [
+        {
+         "key": "A",
+         "text": "attack native bees."
+        },
+        {
+         "key": "B",
+         "text": "carry parasites."
+        },
+        {
+         "key": "C",
+         "text": "damage crops."
+        }
+       ]
+      },
+      {
+       "n": 23,
+       "text": "What point is made about Australian bees?",
+       "options": [
+        {
+         "key": "A",
+         "text": "Their honey varies in quality."
+        },
+        {
+         "key": "B",
+         "text": "Their size stops them from pollinating some flowers."
+        },
+        {
+         "key": "C",
+         "text": "They are sold to customers abroad."
+        }
+       ]
+      },
+      {
+       "n": 24,
+       "text": "Grant Freeman says that if Asian honey bees got into Australia,",
+       "options": [
+        {
+         "key": "A",
+         "text": "the country's economy would be affected."
+        },
+        {
+         "key": "B",
+         "text": "they could be used in the study of allergies."
+        },
+        {
+         "key": "C",
+         "text": "certain areas of agriculture would benefit."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L3-2",
+     "type": "completion",
+     "range": [
+      25,
+      30
+     ],
+     "instructions": [
+      "Complete the summary below.",
+      "Write **ONE WORD ONLY** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Looking for Asian honey bees"
+      },
+      {
+       "t": "p",
+       "text": "Birds called Rainbow Bee Eaters eat only {{25}}, and cough up small bits of skeleton and other products in a pellet."
+      },
+      {
+       "t": "p",
+       "text": "Researchers go to the locations the bee eaters like to use for {{26}}. They collect the pellets and take them to a {{27}} for analysis. Here {{28}} is used to soften them, and the researchers look for the {{29}} of Asian bees in the pellets."
+      },
+      {
+       "t": "p",
+       "text": "The benefit of this research is that the result is more {{30}} than searching for live Asian bees."
+      }
+     ]
+    }
+   ],
+   "transcript": "PROFESSOR: Good morning everyone. In today's seminar, Grant Freeman, a biologist who specialises in identifying insects, and who works for the Australian Quarantine Service, has come to talk to us about his current research work. Right, well, over to you, Grant.\nGRANT: Good morning, everyone. I'm sure that you know that the quarantine service regulates all food brought into Australia. Well, obviously they want to protect Australia from diseases that might come in with imported goods, but they also want to prevent insect pests from being introduced into the country, and that's where I have a part to play. Anyway, my current research involves trying to find a particular type of bee, the Asian Honey Bee, and finding out whether there are any of them around in various states of Australia. We discovered a few of them in Queensland once and eradicated them. [Q21] Now, we're pretty keen to make sure that there aren't any more getting in, particularly to New South Wales and other states.\nSTUDENT 1: What's wrong with Asian Honey Bees? Are they so different from Australian bees?\nGRANT: Well, in fact, they look almost the same, but they are infested with mites – microscopic creatures which live on them, and which can seriously damage our own home-grown bees, or could even wipe them out. [Q22]\nPROFESSOR: Well, what would happen if Australian bees died out?\nGRANT: Well, the honey from Australian bees is of excellent quality, much better than the stuff the Asian bees produce. In fact, Australia exports native Queen bees to a large number of countries because of this. [Q23] When the European Honey Bee was first discovered out in the bush, we found they made really unpleasant honey and they were also too big to pollinate many of our native flowers here in Australia.\nSTUDENT 2: That must have had a devastating effect on the natural flora. Did you lose any species?\nGRANT: No, we managed to get them under control before that happened but if Asian bees got in there could be other consequences. We could lose a lot of money because you might not be aware, but it's estimated that native bees' pollination of flower and vegetable crops is worth 1.2 billion dollars a year. [Q24] So in a way they're the farmers' friend. Oh, and another thing is, if you're stung by an Asian Honey Bee, it can produce an allergic reaction in some people; so they're much more dangerous than native bees.\nPROFESSOR: How will you know if Asian bees have entered Australia?\nGRANT: We're looking at the diet of the bird called the Rainbow Bee Eater. The Bee Eater doesn't care what it eats, as long as they're insects. But the interesting thing about this bird is that we are able to analyse exactly what it eats and that's really helpful if we're looking for introduced insects. [Q25]\nPROFESSOR: How come?\nGRANT: Because insects have their skeletons outside their bodies, so the Bee Eaters digest the meat from the inside. Then they bring up all the indigestible bits of skeleton and, of course, the wings in a pellet – a small ball of waste material which they cough up.\nPROFESSOR: That sounds a bit unpleasant. So, how do you go about it?\nGRANT: In the field we track down the Bee Eaters and find their favourite feeding spots, you know, the places where the birds usually feed. [Q26] It's here that we can find the pellets. We collect them up and take them back to the laboratory to examine the contents. [Q27]\nPROFESSOR: How do you do that?\nGRANT: The pellets are really hard, especially if they have been out in the sun for a few days so, first of all, we treat them by adding water to moisten them and make them softer. [Q28] Then we pull them apart under the microscope. Everything's all scrunched up but we're looking for wings so we just pull them all out and straighten them. Then we identify them to see if we can find any Asian bee wings. [Q29]\nPROFESSOR: And how many have you found?\nGRANT: So far our research shows that Asian bees have not entered Australia in any number – it's a good result and much more reliable than trying to find live ones as evidence of introduced insects. [Q30]\nPROFESSOR: Well, that's fascinating! Thank you, Grant, for those insights. I hope that you might inspire some of our students here to conduct some similar experiments."
+  },
+  {
+   "part": 4,
+   "range": [
+    31,
+    40
+   ],
+   "pages": [
+    38,
+    39
+   ],
+   "groups": [
+    {
+     "id": "L4-1",
+     "type": "choice",
+     "range": [
+      31,
+      36
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "title": "Research on questions about doctors",
+     "questions": [
+      {
+       "n": 31,
+       "text": "In order to set up her research programme, Shona got",
+       "options": [
+        {
+         "key": "A",
+         "text": "advice from personal friends in other countries."
+        },
+        {
+         "key": "B",
+         "text": "help from students in other countries."
+        },
+        {
+         "key": "C",
+         "text": "information from her tutor's contacts in other countries."
+        }
+       ]
+      },
+      {
+       "n": 32,
+       "text": "What types of people were included in the research?",
+       "options": [
+        {
+         "key": "A",
+         "text": "young people in their first job"
+        },
+        {
+         "key": "B",
+         "text": "men who were working"
+        },
+        {
+         "key": "C",
+         "text": "women who were unemployed"
+        }
+       ]
+      },
+      {
+       "n": 33,
+       "text": "Shona says that in her questionnaire her aim was",
+       "options": [
+        {
+         "key": "A",
+         "text": "to get a wide range of data."
+        },
+        {
+         "key": "B",
+         "text": "to limit people's responses."
+        },
+        {
+         "key": "C",
+         "text": "to guide people through interviews."
+        }
+       ]
+      },
+      {
+       "n": 34,
+       "text": "What do Shona's initial results show about medical services in Britain?",
+       "options": [
+        {
+         "key": "A",
+         "text": "Current concerns are misrepresented by the press."
+        },
+        {
+         "key": "B",
+         "text": "Financial issues are critical to the government."
+        },
+        {
+         "key": "C",
+         "text": "Reforms within hospitals have been unsuccessful."
+        }
+       ]
+      },
+      {
+       "n": 35,
+       "text": "Shona needs to do further research in order to",
+       "options": [
+        {
+         "key": "A",
+         "text": "present the government with her findings."
+        },
+        {
+         "key": "B",
+         "text": "decide the level of extra funding needed."
+        },
+        {
+         "key": "C",
+         "text": "identify the preferences of the public."
+        }
+       ]
+      },
+      {
+       "n": 36,
+       "text": "Shona has learnt from the research project that",
+       "options": [
+        {
+         "key": "A",
+         "text": "it is important to plan projects carefully."
+        },
+        {
+         "key": "B",
+         "text": "people do not like answering questions."
+        },
+        {
+         "key": "C",
+         "text": "colleagues do not always agree."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L4-2",
+     "type": "matching",
+     "range": [
+      37,
+      40
+     ],
+     "instructions": [
+      "Which statement applies to each of the following people who were interviewed by Shona?",
+      "Choose **FOUR** answers from the box and write the correct letter, **A–F**, next to questions 37–40."
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "gave false data"
+      },
+      {
+       "key": "B",
+       "text": "decided to stop participating"
+      },
+      {
+       "key": "C",
+       "text": "refused to tell Shona about their job"
+      },
+      {
+       "key": "D",
+       "text": "kept changing their mind about participating"
+      },
+      {
+       "key": "E",
+       "text": "became very angry with Shona"
+      },
+      {
+       "key": "F",
+       "text": "was worried about confidentiality"
+      }
+     ],
+     "title": "People interviewed by Shona",
+     "questions": [
+      {
+       "n": 37,
+       "text": "a person interviewed in the street"
+      },
+      {
+       "n": 38,
+       "text": "an undergraduate at the university"
+      },
+      {
+       "n": 39,
+       "text": "a colleague in her department"
+      },
+      {
+       "n": 40,
+       "text": "a tutor in a foreign university"
+      }
+     ]
+    }
+   ],
+   "transcript": "I've been doing some research into what people in Britain think of doctors, the ones who work in general practice – the first call for medical care – and comparing this with the situation in a couple of other countries. I want to talk about the rationale behind what I decided to do.\nNow I had to set up my programme of research in three different countries so I approached postgraduates in my field in overseas departments, contacting them by email, to organise things for me at their end. [Q31] I thought I would have trouble recruiting help but in fact everyone was very willing and sometimes their tutors got involved too.\nI had to give my helpers clear instructions about what kind of sample population I wanted them to use. I decided that people under 18 should be excluded because most of them are students or looking for their first job, and also I decided at this stage just to focus on men who were in employment, and set up something for people who didn't have jobs and for employed women later on as a separate investigation. [Q32]\nI specifically wanted to do a questionnaire, and interviews with a focus group. With the questionnaire, rather than limiting it to one specific point, I wanted to include as much variety as possible. [Q33] I know questionnaires are a very controlled way to do things but I thought I could do taped interviews later on to counteract the effects of this. And the focus group may also prove useful in future, by targeting subjects I can easily return to, as the participants tend to be more involved.\nSo I'm just collating the results now. At the moment it looks as if, in the UK, despite the fact that newspapers continually report that people are unhappy with medical care, in fact it is mainly the third level of care, which takes place in hospitals, that they are worried about. [Q34] Government reforms have been proposed at all levels and although their success is not guaranteed, long-term hospital care is in fact probably less of an issue than the media would have us believe. However, I've still got quite a bit of data to look at.\nCertainly I will need to do more far-reaching research than I had anticipated in order to establish if people want extra medical staff invested in the community, or if they want care to revert to fewer, but larger, key medical units. [Q35] The solution may well be something that can be easily implemented by those responsible in local government, with central government support of course.\nThis first stage has proved very valuable though. I was surprised by how willing most of the subjects were to get involved in the project – I had expected some unwillingness to answer questions honestly. But I was taken aback and rather concerned that something I thought I'd set up very well didn't necessarily seem that way to everyone in my own department. [Q36]\nI thought you might also be interested in some of the problems I encountered in collecting my data. There were odd cases that threw me – one of the subjects who I had approached while he was out shopping in town, decided to pull out when it came to the second round. It was a shame as it was someone who I would like to have interviewed more closely. [Q37]\nAnd one of the first-year students I interviewed wanted reassurance that no names would be traceable from the answers. [Q38] I was so surprised, because they think nothing of telling you about themselves and their opinions in seminar groups!\nThen, one of the people that I work with got a bit funny. The questions were quite personal and one minute he said he'd do it, then the next day he wouldn't, and in the end he did do it. [Q39] It's hard not to get angry in that situation but I tried to keep focused on the overall picture in order to stay calm.\nThe most bizarre case was a telephone interview I did with a teacher at a university in France. He answered all my questions in great detail – but then when I asked how much access he had to dangerous substances he wouldn't tell me exactly what his work involved. [Q40] It's a real eye-opener..."
+  }
+ ],
+ "answers": {
+  "1": {
+   "a": [
+    "Milperra"
+   ]
+  },
+  "2": {
+   "a": [
+    "First Class Movers"
+   ]
+  },
+  "3": {
+   "a": [
+    "28 November"
+   ]
+  },
+  "4": {
+   "a": [
+    "screen"
+   ]
+  },
+  "5": {
+   "a": [
+    "bathroom"
+   ]
+  },
+  "6": {
+   "a": [
+    "door"
+   ]
+  },
+  "7": {
+   "a": [
+    "140"
+   ]
+  },
+  "8": {
+   "a": [
+    "leg"
+   ]
+  },
+  "9": {
+   "a": [
+    "plates"
+   ]
+  },
+  "10": {
+   "a": [
+    "60"
+   ]
+  },
+  "11": {
+   "a": [
+    "B"
+   ]
+  },
+  "12": {
+   "a": [
+    "the Forest",
+    "Forest"
+   ],
+   "k": "(the) Forest"
+  },
+  "13": {
+   "a": [
+    "Fish Farm",
+    "Fish Farms"
+   ],
+   "k": "Fish Farm(s)"
+  },
+  "14": {
+   "a": [
+    "Market Garden"
+   ]
+  },
+  "15": {
+   "a": [
+    "C"
+   ]
+  },
+  "16": {
+   "a": [
+    "A"
+   ]
+  },
+  "17": {
+   "a": [
+    "C"
+   ]
+  },
+  "18": {
+   "a": [
+    "B"
+   ]
+  },
+  "19": {
+   "a": [
+    "C"
+   ]
+  },
+  "20": {
+   "a": [
+    "A"
+   ]
+  },
+  "21": {
+   "a": [
+    "A"
+   ]
+  },
+  "22": {
+   "a": [
+    "B"
+   ]
+  },
+  "23": {
+   "a": [
+    "C"
+   ]
+  },
+  "24": {
+   "a": [
+    "A"
+   ]
+  },
+  "25": {
+   "a": [
+    "insects"
+   ]
+  },
+  "26": {
+   "a": [
+    "feeding",
+    "eating"
+   ],
+   "k": "feeding/eating"
+  },
+  "27": {
+   "a": [
+    "laboratory"
+   ]
+  },
+  "28": {
+   "a": [
+    "water"
+   ]
+  },
+  "29": {
+   "a": [
+    "wings"
+   ]
+  },
+  "30": {
+   "a": [
+    "reliable",
+    "accurate"
+   ],
+   "k": "reliable/accurate"
+  },
+  "31": {
+   "a": [
+    "B"
+   ]
+  },
+  "32": {
+   "a": [
+    "B"
+   ]
+  },
+  "33": {
+   "a": [
+    "A"
+   ]
+  },
+  "34": {
+   "a": [
+    "A"
+   ]
+  },
+  "35": {
+   "a": [
+    "C"
+   ]
+  },
+  "36": {
+   "a": [
+    "C"
+   ]
+  },
+  "37": {
+   "a": [
+    "B"
+   ]
+  },
+  "38": {
+   "a": [
+    "F"
+   ]
+  },
+  "39": {
+   "a": [
+    "D"
+   ]
+  },
+  "40": {
+   "a": [
+    "C"
+   ]
+  }
+ }
+}

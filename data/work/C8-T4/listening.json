@@ -1,0 +1,760 @@
+{
+ "parts": [
+  {
+   "part": 1,
+   "range": [
+    1,
+    10
+   ],
+   "pages": [
+    80
+   ],
+   "groups": [
+    {
+     "id": "L1-1",
+     "type": "completion",
+     "range": [
+      1,
+      10
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **NO MORE THAN TWO WORDS AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "West Bay Hotel – details of job"
+      },
+      {
+       "t": "note",
+       "text": "*Example*"
+      },
+      {
+       "t": "li",
+       "text": "Newspaper advert for *temporary* staff"
+      },
+      {
+       "t": "li",
+       "text": "Vacancies for {{1}}"
+      },
+      {
+       "t": "li",
+       "text": "Two shifts"
+      },
+      {
+       "t": "li",
+       "text": "Can choose your {{2}} (must be the same each week)"
+      },
+      {
+       "t": "li",
+       "text": "Pay: £5.50 per hour, including a {{3}}"
+      },
+      {
+       "t": "li",
+       "text": "A {{4}} is provided in the hotel"
+      },
+      {
+       "t": "li",
+       "text": "Total weekly pay: £231"
+      },
+      {
+       "t": "li",
+       "text": "Dress: a white shirt and {{5}} trousers (not supplied)"
+      },
+      {
+       "t": "p",
+       "level": 3,
+       "text": "a {{6}} (supplied)"
+      },
+      {
+       "t": "li",
+       "text": "Starting date: {{7}}"
+      },
+      {
+       "t": "li",
+       "text": "Call Jane {{8}} (Service Manager) before {{9}} tomorrow (Tel: 832009)"
+      },
+      {
+       "t": "li",
+       "text": "She'll require a {{10}}"
+      }
+     ]
+    }
+   ],
+   "transcript": "WOMAN: Hello, West Bay Hotel. Can I help you?\nMAN: Oh, good morning. I'm ringing about your advertisement in the Evening Gazette.\nWOMAN: Is that the one for temporary staff?\nMAN: That's right.\nWOMAN: Yes. I'm afraid the person who's dealing with that isn't in today, but I can give you the main details if you like.\nMAN: Yes please. Could you tell me what kind of staff you are looking for?\nWOMAN: We're looking for waiters at the moment. There was one post for a cook, [Q1] but that's already been taken.\nMAN: Oh right. Erm, what are the hours of work?\nWOMAN: There are two different shifts – there's a day shift from 7 to 2 and a late shift from 4 till 11.\nMAN: And can people choose which one they want to do?\nWOMAN: Not normally, because everyone would choose the day shift I suppose. You alternate from one week to another.\nMAN: Okay. I'm just writing all this down. What about time off?\nWOMAN: You get one day off and I think you can negotiate which one you want, it's [Q2] more or less up to you. But it has to be the same one every week.\nMAN: Do you know what the rates of pay are?\nWOMAN: Yes, I've got them here. You get £5.50 an hour, and that includes a break. [Q3]\nMAN: Do I have to go home to eat or ...\nWOMAN: You don't have to. You can get a meal in the hotel if you want to, and [Q4] there's no charge for it so you might as well.\nMAN: Oh good. Yes, so let's see. I'd get er, two hundred and twenty one, no, two hundred and thirty one pounds a week?\nWOMAN: You'd also get tips – our guests tend to be quite generous.\nMAN: Erm, is there a uniform? What about clothes?\nWOMAN: Yes, I forgot to mention that. You need to wear a white shirt, just a plain one, and dark trousers. You know, not green or anything like that. And we [Q5] don't supply those.\nMAN: That's okay, I've got trousers, I'd just have to buy a couple of shirts. What about anything else? Do I need a waistcoat or anything?\nWOMAN: You have to wear a jacket, but the hotel lends you that. [Q6]\nMAN: I see. Er, one last thing – I don't know what the starting date is.\nWOMAN: Just a minute, I think it's some time around the end of June. Yes, the 28th, [Q7] in time for the summer.\nMAN: That's great. I'm available from the 10th.\nWOMAN: Oh good. Well, if you can call again you need to speak to the Service Manager. Her name's Jane Urwin, that's U-R-W-I-N, and she'll probably [Q8] arrange to meet you.\nMAN: Okay. And when's the best time to ring?\nWOMAN: Could you call tomorrow? Um, she usually starts checking the rooms at midday, so before then if you can, so she'll have more time to chat. I'll just [Q9] give you her number because she's got a direct line.\nMAN: Thanks.\nWOMAN: It's 832 double-0 9.\nMAN: 823 double-0 9?\nWOMAN: 832.\nMAN: Oh, okay. Yes, I'll do that.\nWOMAN: And by the way, she will ask you for a reference, so you might like to be [Q10] thinking about that. You know, just someone who knows you and can vouch for you.\nMAN: Yes, no problem. Well, thanks very much for your help.\nWOMAN: You're welcome. Bye.\nMAN: Bye."
+  },
+  {
+   "part": 2,
+   "range": [
+    11,
+    20
+   ],
+   "pages": [
+    81,
+    82
+   ],
+   "groups": [
+    {
+     "id": "L2-1",
+     "type": "choice",
+     "range": [
+      11,
+      13
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "title": "Improvements to Red Hill Suburb",
+     "questions": [
+      {
+       "n": 11,
+       "text": "Community groups are mainly concerned about",
+       "options": [
+        {
+         "key": "A",
+         "text": "pedestrian safety."
+        },
+        {
+         "key": "B",
+         "text": "traffic jams."
+        },
+        {
+         "key": "C",
+         "text": "increased pollution."
+        }
+       ]
+      },
+      {
+       "n": 12,
+       "text": "It has been decided that the overhead power lines will be",
+       "options": [
+        {
+         "key": "A",
+         "text": "extended."
+        },
+        {
+         "key": "B",
+         "text": "buried."
+        },
+        {
+         "key": "C",
+         "text": "repaired."
+        }
+       ]
+      },
+      {
+       "n": 13,
+       "text": "The expenses related to the power lines will be paid for by",
+       "options": [
+        {
+         "key": "A",
+         "text": "the council."
+        },
+        {
+         "key": "B",
+         "text": "the power company."
+        },
+        {
+         "key": "C",
+         "text": "local businesses."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L2-2",
+     "type": "matching",
+     "range": [
+      14,
+      20
+     ],
+     "instructions": [
+      "Label the map below.",
+      "Write the correct letter, **A–H**, next to questions 14–20."
+     ],
+     "title": "Red Hill Improvement Plan",
+     "image": "images/C8/C8-T4-L2-map.png",
+     "options": [
+      {
+       "key": "A",
+       "text": ""
+      },
+      {
+       "key": "B",
+       "text": ""
+      },
+      {
+       "key": "C",
+       "text": ""
+      },
+      {
+       "key": "D",
+       "text": ""
+      },
+      {
+       "key": "E",
+       "text": ""
+      },
+      {
+       "key": "F",
+       "text": ""
+      },
+      {
+       "key": "G",
+       "text": ""
+      },
+      {
+       "key": "H",
+       "text": ""
+      }
+     ],
+     "questions": [
+      {
+       "n": 14,
+       "text": "trees"
+      },
+      {
+       "n": 15,
+       "text": "wider footpaths"
+      },
+      {
+       "n": 16,
+       "text": "coloured road surface"
+      },
+      {
+       "n": 17,
+       "text": "new sign"
+      },
+      {
+       "n": 18,
+       "text": "traffic lights"
+      },
+      {
+       "n": 19,
+       "text": "artwork"
+      },
+      {
+       "n": 20,
+       "text": "children's playground"
+      }
+     ]
+    }
+   ],
+   "transcript": "CAROL: Good morning and welcome again to Your City Today. With me today is Graham Campbell, a councillor from the city council. He will be telling us about the plan to improve the fast-growing suburb of Red Hill. Good morning Graham and welcome to the show.\nGRAHAM: Good morning, Carol.\nCAROL: Now, Graham, I understand that there has been a lot of community consultation for the new plan?\nGRAHAM: Yes, we've tried to address some of the concerns that local groups told us about. People we've heard from are mainly worried about traffic in the area, and, in particular, the increasing speed of cars near schools. They [Q11] feel that it is only a matter of time before there is an accident as a lot of the children walk to the school. So we're trying to do something about that. Another area of concern is the overhead power lines. These are very old and a lot of people we spoke to asked if something could be done about them. Well, I'm happy to report that the power company have agreed to move the power lines underground at a cost of $800,000. I think [Q12] that will really improve the look of the area, as well as being safer.\nCAROL: That's good to know, but will that mean an increase in rates for the local businesses in that area?\nGRAHAM: Well, the power company have agreed to bear the cost of this themselves [Q13] after a lot of discussion with the council. This is wonderful news as the council now has some extra funds for us to put into other things like tree planting and art work.\nGRAHAM: Now, we've also put together a map which we've sent out to all the residents in the area. And on the map we've marked the proposed changes. Firstly, we'll plant mature pine trees to provide shelter and shade just to the [Q14] right of the supermarket in Days Road. In order to address the traffic problems, the pavements on the corner of Carberry and Thomas Street will [Q15] be widened. This will help to reduce the speed of vehicles entering Thomas Street. We think it's very important to separate the local residential streets from the main road. So the roadway at the entry to Thomas Street from [Q16] Days Road will be painted red. This should mark it more clearly and act as a signal for traffic to slow down. One way of making sure that the pedestrians are safe is to increase signage at the intersections. A 'keep clear' sign will be erected at the junction of Evelyn Street and Hill Street, to [Q17] enable traffic to exit at all times. Something we're planning to do to help control the flow of traffic in the area is to install traffic lights half way down [Q18] Hill Street where it crosses Days Road. Now, we haven't only thought about the cars and traffic, of course, there's also something for the children. We're going to get school children in the area to research a local story, the life of a local sports hero perhaps, and an artist will incorporate that story into paintings on the wall of a building on the other side of Hill Street from the [Q19] supermarket. And finally, we've agreed to build a new children's playground which will be at the other end of Hill Street close to the intersection with [Q20] Carberry Street.\nCAROL: Wonderful, now, what's the next stage?\nGRAHAM: Well, the final plan..."
+  },
+  {
+   "part": 3,
+   "range": [
+    21,
+    30
+   ],
+   "pages": [
+    83,
+    84
+   ],
+   "groups": [
+    {
+     "id": "L3-1",
+     "type": "multi",
+     "range": [
+      21,
+      22
+     ],
+     "n": [
+      21,
+      22
+     ],
+     "select": 2,
+     "instructions": [
+      "Choose **TWO** letters, **A–E**."
+     ],
+     "text": "In which TWO ways is Dan financing his course?",
+     "options": [
+      {
+       "key": "A",
+       "text": "He is receiving money from the government."
+      },
+      {
+       "key": "B",
+       "text": "His family are willing to help him."
+      },
+      {
+       "key": "C",
+       "text": "The college is giving him a small grant."
+      },
+      {
+       "key": "D",
+       "text": "His local council is supporting him for a limited period."
+      },
+      {
+       "key": "E",
+       "text": "A former employer is providing partial funding."
+      }
+     ]
+    },
+    {
+     "id": "L3-2",
+     "type": "multi",
+     "range": [
+      23,
+      24
+     ],
+     "n": [
+      23,
+      24
+     ],
+     "select": 2,
+     "instructions": [
+      "Choose **TWO** letters, **A–E**."
+     ],
+     "text": "Which TWO reasons does Jeannie give for deciding to leave some college clubs?",
+     "options": [
+      {
+       "key": "A",
+       "text": "She is not sufficiently challenged."
+      },
+      {
+       "key": "B",
+       "text": "The activity interferes with her studies."
+      },
+      {
+       "key": "C",
+       "text": "She does not have enough time."
+      },
+      {
+       "key": "D",
+       "text": "The activity is too demanding physically."
+      },
+      {
+       "key": "E",
+       "text": "She does not think she is any good at the activity."
+      }
+     ]
+    },
+    {
+     "id": "L3-3",
+     "type": "choice",
+     "range": [
+      25,
+      26
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "questions": [
+      {
+       "n": 25,
+       "text": "What does Dan say about the seminars on the course?",
+       "options": [
+        {
+         "key": "A",
+         "text": "The other students do not give him a chance to speak."
+        },
+        {
+         "key": "B",
+         "text": "The seminars make him feel inferior to the other students."
+        },
+        {
+         "key": "C",
+         "text": "The preparation for seminars takes too much time."
+        }
+       ]
+      },
+      {
+       "n": 26,
+       "text": "What does Jeannie say about the tutorials on the course?",
+       "options": [
+        {
+         "key": "A",
+         "text": "They are an inefficient way of providing guidance."
+        },
+        {
+         "key": "B",
+         "text": "They are more challenging than she had expected."
+        },
+        {
+         "key": "C",
+         "text": "They are helping her to develop her study skills."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L3-4",
+     "type": "completion",
+     "range": [
+      27,
+      30
+     ],
+     "instructions": [
+      "Complete the flow-chart below.",
+      "Choose **NO MORE THAN TWO WORDS AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Advice on exam preparation"
+      },
+      {
+       "t": "flow",
+       "steps": [
+        "Make sure you know the exam requirements",
+        "Find some past papers",
+        "Work out your {{27}} for revision and write them on a card",
+        "Make a {{28}} and keep it in view",
+        "Divide revision into {{29}} for each day",
+        "Write one {{30}} about each topic",
+        "Practise writing some exam answers"
+       ]
+      }
+     ]
+    }
+   ],
+   "transcript": "DAN: Hi Jeannie. How's it going?\nJEANNIE: Oh, hello Dan. Pretty well, thanks. Have you managed to get the money for the course yet?\nDAN: Yes, that's all sorted out now, thanks. It took long enough, though. It was practically a year ago that I applied to my local council for a grant, and it took them six months to turn me down.\nJEANNIE: That's really slow.\nDAN: And I thought I was eligible for government funding, but it seems I was mistaken. So then I asked the boss of the company I used to work for if they would sponsor me, and much to my surprise, he said they'd make a [Q21 & 22] contribution.\nJEANNIE: But what about college grants and scholarships? There must be some you could apply for.\nDAN: Yes, there are, but they're all so small that I decided to leave them until I was desperate.\nJEANNIE: Uhuh.\nDAN: And in fact I didn't need to apply. My parents had been saying that as I already had a job, I ought to support myself through college. But in the [Q21 & 22] end they took pity on me, so now I've just about got enough.\nJEANNIE: That's good.\nDAN: So now I can put a bit of effort into meeting people – I haven't had time so far. Any suggestions?\nJEANNIE: What about joining some college clubs?\nDAN: Oh right. You joined several didn't you?\nJEANNIE: Yes, I'm in the drama club. It's our first performance next week, so we're rehearsing frantically, and I've got behind with my work, but it's worth it. I'm hoping to be in the spring production, too.\nDAN: I've never liked acting. Are you doing anything else?\nJEANNIE: I enjoyed singing when I was at school, so I joined a group when I came to college. I don't think the conductor stretches us enough, though so I'll [Q23 & 24] give up after the next concert. And I also joined the debating society. It's fun, but with all the rehearsing I'm doing, something has to go, and I'm [Q23 & 24] afraid that's the one.\nDAN: Do you do any sports?\nJEANNIE: Yes, I'm in one of the hockey teams. I'm not very good, but I'd really miss it if I stopped. I decided to try tennis when I came to college, and I'm finding it pretty tough going. I'm simply not fit enough.\nDAN: Nor me. I think I'll give that a miss!\nJEANNIE: I'm hoping it'll help me to build up my stamina, but it'll probably be a long haul.\nDAN: Good luck.\nJEANNIE: Thanks.\nDAN: How are you finding the course?\nJEANNIE: I wish we had more seminars.\nDAN: What? I'd have thought we had more than enough already. All those people saying clever things that I could never think of – it's quite interesting, but I wonder if I'm clever enough to be doing this course. [Q25]\nJEANNIE: I find it helpful to listen to the other people. I like the way we're exploring the subject, and working towards getting insight into it.\nDAN: How do you get on with your tutor? I don't think I'm on the same wavelength as mine, so I feel I'm not getting anything out of the tutorials. It would be more productive to read a book instead.\nJEANNIE: Oh, mine's very demanding. She gives me lots of feedback and advice, so [Q26] I've got much better at writing essays. And she's helping me plan my revision for the end-of-year exams.\nDAN: Do tell me, I always struggle with revision.\nJEANNIE: Well, the first thing is to find out exactly what's required in the exams.\nDAN: Mm. Would it help to get hold of some past papers?\nJEANNIE: Yes. They'll help to make it clear.\nDAN: Right, I'll do that. Then what?\nJEANNIE: Then you can sort out your revision priorities, based on what's most likely [Q27] to come up. I put these on a card, and read them through regularly.\nDAN: Uhuh.\nJEANNIE: But that isn't enough in itself. You also need a timetable, to see how you [Q28] can fit everything in, in the time available. Then keep it in front of you while you're studying.\nDAN: I've done that before, but it hasn't helped me!\nJEANNIE: Maybe you need to do something different every day, so if you break down your revision into small tasks, and allocate them to specific days, [Q29] there's more incentive to tackle them. With big topics you're more likely to put off starting.\nDAN: Good idea.\nJEANNIE: And as I revise each topic I write a single paragraph about it – then later I [Q30] can read it through quickly, and it helps fix things in my mind.\nDAN: That's brilliant.\nJEANNIE: I also write answers to questions for the exam practice. It's hard to make myself do it, though!\nDAN: Well, I'll try. Thanks a lot, Jeannie. That's a great help.\nJEANNIE: No problem.\nDAN: See you around.\nJEANNIE: Bye."
+  },
+  {
+   "part": 4,
+   "range": [
+    31,
+    40
+   ],
+   "pages": [
+    85,
+    86
+   ],
+   "groups": [
+    {
+     "id": "L4-1",
+     "type": "matching",
+     "range": [
+      31,
+      36
+     ],
+     "title": "Australian Aboriginal Rock Paintings",
+     "instructions": [
+      "Which painting styles have the following features?",
+      "Write the correct letter, **A**, **B** or **C**, next to questions 31–36."
+     ],
+     "optionsTitle": "Painting Styles",
+     "options": [
+      {
+       "key": "A",
+       "text": "Dynamic"
+      },
+      {
+       "key": "B",
+       "text": "Yam"
+      },
+      {
+       "key": "C",
+       "text": "Modern"
+      }
+     ],
+     "questions": [
+      {
+       "n": 31,
+       "text": "figures revealing bones"
+      },
+      {
+       "n": 32,
+       "text": "rounded figures"
+      },
+      {
+       "n": 33,
+       "text": "figures with parts missing"
+      },
+      {
+       "n": 34,
+       "text": "figures smaller than life size"
+      },
+      {
+       "n": 35,
+       "text": "sea creatures"
+      },
+      {
+       "n": 36,
+       "text": "plants"
+      }
+     ]
+    },
+    {
+     "id": "L4-2",
+     "type": "completion",
+     "range": [
+      37,
+      40
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **NO MORE THAN TWO WORDS** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Rainbow Serpent Project"
+      },
+      {
+       "t": "p",
+       "text": "**Aim of project:** to identify the {{37}} used as the basis for the Rainbow Serpent"
+      },
+      {
+       "t": "sub",
+       "text": "Yam Period"
+      },
+      {
+       "t": "li",
+       "text": "environmental changes led to higher {{38}}"
+      },
+      {
+       "t": "li",
+       "text": "traditional activities were affected, especially {{39}}"
+      },
+      {
+       "t": "sub",
+       "text": "Rainbow Serpent image"
+      },
+      {
+       "t": "li",
+       "text": "similar to a sea horse"
+      },
+      {
+       "t": "li",
+       "text": "unusual because it appeared in inland areas"
+      },
+      {
+       "t": "li",
+       "text": "symbolises {{40}} in Aboriginal culture"
+      }
+     ]
+    }
+   ],
+   "transcript": "Good morning, everyone. I've been invited to talk about my research project into Australian Aboriginal rock paintings. The Australian Aborigines have recorded both real and symbolic images of their time on rock walls for many thousands of years. Throughout the long history of this tradition, new images have appeared and new painting styles have developed. And these characteristics can be used to categorise the different artistic styles. Among these are what we call the Dynamic, Yam and Modern styles of painting.\nOne of the most significant characteristics of the different styles is the way that humans are depicted in the paintings. The more recent paintings show people in static poses. But the first human images to dominate rock art paintings, over 8,000 years ago, were full of movement. These paintings showed people hunting and cooking food and so they were given the name 'Dynamic' to reflect this energy. It's quite amazing considering they were painted in such a simple stick-like form. In the Yam period, there was a movement away from stick figures to a more naturalistic shape. However, they didn't go as far as the Modern style, which is known as 'x-ray' because it actually makes a feature of the internal [Q31] skeleton as well as the organs of animals and humans. The Yam style of painting got its [Q32] name from the fact that it featured much curvier figures that actually resemble the vegetable called a yam, which is similar to a sweet potato. The Modern paintings are [Q33] interesting because they include paintings at the time of the first contact with European settlers. Aborigines managed to convey the idea of the settlers' clothing by simply painting the Europeans without any hands, indicating the habit of standing with their hands in their pockets! Size is another characteristic. The more recent images tend to be life size or even larger, but the Dynamic figures are painted in miniature. [Q34]\nAboriginal rock art also records the environmental changes that occurred over thousands of years. For example, we know from the Dynamic paintings that over 8,000 years ago, Aborigines would have rarely eaten fish and sea levels were much lower at this time. In fact, fish didn't start to appear in paintings until the Yam period along with shells and other [Q35] marine images. The paintings of the Yam tradition also suggest that, during this time, the [Q36] Aborigines moved away from animals as their main food source and began including vegetables in their diet, as these feature prominently. Freshwater creatures didn't appear in the paintings until the Modern period from 4,000 years ago.\nSo, these paintings have already taught us a lot. But one image that has always intrigued us is known as the 'Rainbow Serpent'. The Rainbow Serpent, which is the focus of my most recent project, gets its name from its snake or serpent-like body and it first appeared in the Yam period 4 to 6,000 years ago. Many believe it is a curious mixture of kangaroo, snake and crocodile. But we decided to study the Rainbow Serpent paintings to see if we could locate the animal that the very first painters based their image on. [Q37]\nThe Yam period coincided with the end of the last ice age. This brought about tremendous change in the environment, with the sea levels rising and creeping steadily inland. This [Q38] flooded many familiar land features and also caused a great deal of disruption to traditional patterns of life, hunting in particular. New shores were formed and totally different creatures [Q39] would have washed up onto the shores. We studied 107 paintings of the Rainbow Serpent and found that the one creature that matches it most closely was the Ribboned Pipefish, which is a type of sea horse. This sea creature would have been a totally unfamiliar sight in the inland regions where the image is found and may have been the inspiration behind the early paintings.\nSo, at the end of the ice age there would have been enormous changes in animal and plant life. It's not surprising then, that the Aborigines linked this abundance to the new creatures they witnessed. Even today, Aborigines see the Rainbow Serpent as a symbol of creation, [Q40] which is understandable given the increase in vegetation and the new life forms that featured when the image first appeared."
+  }
+ ],
+ "answers": {
+  "1": {
+   "a": [
+    "waiter",
+    "waiters"
+   ],
+   "k": "waiter(s)"
+  },
+  "2": {
+   "a": [
+    "day off"
+   ]
+  },
+  "3": {
+   "a": [
+    "break"
+   ]
+  },
+  "4": {
+   "a": [
+    "free meal",
+    "meal"
+   ],
+   "k": "(free) meal"
+  },
+  "5": {
+   "a": [
+    "dark",
+    "dark coloured",
+    "dark colored"
+   ],
+   "k": "dark (coloured/colored)"
+  },
+  "6": {
+   "a": [
+    "jacket"
+   ]
+  },
+  "7": {
+   "a": [
+    "28 June"
+   ]
+  },
+  "8": {
+   "a": [
+    "Urwin"
+   ]
+  },
+  "9": {
+   "a": [
+    "12.00",
+    "12.00 pm",
+    "noon",
+    "mid-day"
+   ],
+   "k": "12.00 (pm)/noon/mid-day"
+  },
+  "10": {
+   "a": [
+    "reference"
+   ]
+  },
+  "11": {
+   "a": [
+    "A"
+   ]
+  },
+  "12": {
+   "a": [
+    "B"
+   ]
+  },
+  "13": {
+   "a": [
+    "B"
+   ]
+  },
+  "14": {
+   "a": [
+    "C"
+   ]
+  },
+  "15": {
+   "a": [
+    "D"
+   ]
+  },
+  "16": {
+   "a": [
+    "G"
+   ]
+  },
+  "17": {
+   "a": [
+    "B"
+   ]
+  },
+  "18": {
+   "a": [
+    "F"
+   ]
+  },
+  "19": {
+   "a": [
+    "A"
+   ]
+  },
+  "20": {
+   "a": [
+    "E"
+   ]
+  },
+  "21": {
+   "a": [
+    "B"
+   ]
+  },
+  "22": {
+   "a": [
+    "E"
+   ]
+  },
+  "23": {
+   "a": [
+    "A"
+   ]
+  },
+  "24": {
+   "a": [
+    "C"
+   ]
+  },
+  "25": {
+   "a": [
+    "B"
+   ]
+  },
+  "26": {
+   "a": [
+    "C"
+   ]
+  },
+  "27": {
+   "a": [
+    "priorities"
+   ]
+  },
+  "28": {
+   "a": [
+    "timetable"
+   ]
+  },
+  "29": {
+   "a": [
+    "small tasks",
+    "tasks"
+   ],
+   "k": "(small) tasks"
+  },
+  "30": {
+   "a": [
+    "single paragraph",
+    "paragraph"
+   ],
+   "k": "(single) paragraph"
+  },
+  "31": {
+   "a": [
+    "C"
+   ]
+  },
+  "32": {
+   "a": [
+    "B"
+   ]
+  },
+  "33": {
+   "a": [
+    "C"
+   ]
+  },
+  "34": {
+   "a": [
+    "A"
+   ]
+  },
+  "35": {
+   "a": [
+    "B"
+   ]
+  },
+  "36": {
+   "a": [
+    "B"
+   ]
+  },
+  "37": {
+   "a": [
+    "animal",
+    "creature"
+   ],
+   "k": "animal/creature"
+  },
+  "38": {
+   "a": [
+    "sea level",
+    "sea levels",
+    "water level",
+    "water levels"
+   ],
+   "k": "sea/water level(s)"
+  },
+  "39": {
+   "a": [
+    "hunting"
+   ]
+  },
+  "40": {
+   "a": [
+    "creation"
+   ]
+  }
+ }
+}

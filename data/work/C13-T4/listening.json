@@ -1,0 +1,827 @@
+{
+ "parts": [
+  {
+   "part": 1,
+   "range": [
+    1,
+    10
+   ],
+   "pages": [
+    75
+   ],
+   "groups": [
+    {
+     "id": "L1-1",
+     "type": "completion",
+     "range": [
+      1,
+      10
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **ONE WORD AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Alex's Training"
+      },
+      {
+       "t": "note",
+       "text": "*Example*"
+      },
+      {
+       "t": "p",
+       "text": "Alex completed his training in *2014*"
+      },
+      {
+       "t": "sub",
+       "text": "About the applicant:"
+      },
+      {
+       "t": "li",
+       "text": "At first, Alex did his training in the {{1}} department."
+      },
+      {
+       "t": "li",
+       "text": "Alex didn't have a qualification from school in {{2}} ."
+      },
+      {
+       "t": "li",
+       "text": "Alex thinks he should have done the diploma in {{3}} skills."
+      },
+      {
+       "t": "li",
+       "text": "Age of other trainees: the youngest was {{4}} ."
+      },
+      {
+       "t": "sub",
+       "text": "Benefits of doing training at JPNW:"
+      },
+      {
+       "t": "li",
+       "text": "Lots of opportunities because of the size of the organisation."
+      },
+      {
+       "t": "li",
+       "text": "Trainees receive the same amount of {{5}} as permanent staff."
+      },
+      {
+       "t": "li",
+       "text": "The training experience increases people's confidence a lot."
+      },
+      {
+       "t": "li",
+       "text": "Trainees go to {{6}} one day per month."
+      },
+      {
+       "t": "li",
+       "text": "The company is in a convenient {{7}} ."
+      },
+      {
+       "t": "sub",
+       "text": "Advice for interview:"
+      },
+      {
+       "t": "li",
+       "text": "Don't wear {{8}} ."
+      },
+      {
+       "t": "li",
+       "text": "Don't be {{9}} ."
+      },
+      {
+       "t": "li",
+       "text": "Make sure you {{10}} ."
+      }
+     ]
+    }
+   ],
+   "transcript": "MARTHA: Hi Alex. It's Martha Clines here. James White gave me your number. I hope you don't mind me calling you.\nALEX: Of course not. How are you, Martha?\nMARTHA: Good thanks. I'm ringing because I need a bit of advice.\nALEX: Oh yeah. What about?\nMARTHA: The training you did at JPNW a few years ago. I'm applying for the same thing.\nALEX: Oh right. Yes, I did mine in 2014. Best thing I ever did. I'm still working there.\nMARTHA: Really? What are you doing?\nALEX: Well, now I work in the customer services department but I did my initial training [Q1] in Finance. I stayed there for the first two years and then moved to where I am now.\nMARTHA: That's the same department I'm applying for. Did you enjoy it?\nALEX: I was pretty nervous to begin with. I didn't do well in my exams at school and I was really worried because I failed Maths. But it didn't actually matter because I [Q2] did lots of courses on the job.\nMARTHA: Did you get a diploma at the end of your trainee period? I'm hoping to do the one in business skills.\nALEX: Yes. That sounds good. I took the one on IT skills but I wish I'd done that [Q3] one instead.\nMARTHA: OK, that's good to know. What about the other trainees? How did you get on with them?\nALEX: There were about 20 of us who started at the same time and we were all around the same age – I was 18 and there was only one person younger than me, who [Q4] was 17. The rest were between 18 and 20. I made some good friends.\nMARTHA: I've heard lots of good things about the training at JPNW. It seems like there are a lot of opportunities there.\nALEX: Yeah, definitely. Because of its size you can work in loads of different areas within the organisation.\nMARTHA: What about pay? I know you get a lower minimum wage than regular employees.\nALEX: That's right – which isn't great. But you get the same number of days' holiday as [Q5] everyone else. And the pay goes up massively if they offer you a job at the end of the training period.\nMARTHA: Yeah, but I'm not doing it for the money – it's the experience I think will be really useful. Everyone says by the end of the year you gain so much confidence.\nALEX: You're right. That's the most useful part about it. There's a lot of variety too. You're given lots of different things to do. I enjoyed it all – I didn't even mind the studying.\nMARTHA: Do you have to spend any time in college?\nALEX: Yes, one day each month. So you get lots of support from both your tutor and [Q6] your manager.\nMARTHA: That's good. And the company is easy to get to, isn't it?\nALEX: Yes, it's very close to the train station so the location's a real advantage. [Q7]\nALEX: Have you got a date for your interview yet?\nMARTHA: Yes, it's on the 23rd of this month.\nALEX: So long as you're well prepared there's nothing to worry about. Everyone's very friendly.\nMARTHA: I am not sure what I should wear. What do you think?\nALEX: Nothing too casual – like jeans, for example. If you've got a nice jacket, wear that [Q8] with a skirt or trousers.\nMARTHA: OK. Thanks. Any other tips?\nALEX: Erm, well I know it's really obvious but arrive in plenty of time. They hate people [Q9] who are late. So make sure you know exactly where you have to get to. And one [Q10] other useful piece of advice my manager told me before I had the interview for this job – is to smile. Even if you feel terrified. It makes people respond better to you.\nMARTHA: I'll have to practise doing that in the mirror!\nALEX: Yeah – well, good luck. Let me know if you need any more information.\nMARTHA: Thanks very much."
+  },
+  {
+   "part": 2,
+   "range": [
+    11,
+    20
+   ],
+   "pages": [
+    76,
+    77
+   ],
+   "groups": [
+    {
+     "id": "L2-1",
+     "type": "choice",
+     "range": [
+      11,
+      16
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "title": "The Snow Centre",
+     "questions": [
+      {
+       "n": 11,
+       "text": "Annie recommends that when cross-country skiing, the visitors should",
+       "options": [
+        {
+         "key": "A",
+         "text": "get away from the regular trails."
+        },
+        {
+         "key": "B",
+         "text": "stop to enjoy views of the scenery."
+        },
+        {
+         "key": "C",
+         "text": "go at a slow speed at the beginning."
+        }
+       ]
+      },
+      {
+       "n": 12,
+       "text": "What does Annie tell the group about this afternoon's dog-sled trip?",
+       "options": [
+        {
+         "key": "A",
+         "text": "Those who want to can take part in a race."
+        },
+        {
+         "key": "B",
+         "text": "Anyone has the chance to drive a team of dogs."
+        },
+        {
+         "key": "C",
+         "text": "One group member will be chosen to lead the trail."
+        }
+       ]
+      },
+      {
+       "n": 13,
+       "text": "What does Annie say about the team relay event?",
+       "options": [
+        {
+         "key": "A",
+         "text": "All participants receive a medal."
+        },
+        {
+         "key": "B",
+         "text": "The course is 4 km long."
+        },
+        {
+         "key": "C",
+         "text": "Each team is led by a teacher."
+        }
+       ]
+      },
+      {
+       "n": 14,
+       "text": "On the snow-shoe trip, the visitors will",
+       "options": [
+        {
+         "key": "A",
+         "text": "visit an old gold mine."
+        },
+        {
+         "key": "B",
+         "text": "learn about unusual flowers."
+        },
+        {
+         "key": "C",
+         "text": "climb to the top of a mountain."
+        }
+       ]
+      },
+      {
+       "n": 15,
+       "text": "The cost of accommodation in the mountain hut includes",
+       "options": [
+        {
+         "key": "A",
+         "text": "a supply of drinking water."
+        },
+        {
+         "key": "B",
+         "text": "transport of visitors' luggage."
+        },
+        {
+         "key": "C",
+         "text": "cooked meals."
+        }
+       ]
+      },
+      {
+       "n": 16,
+       "text": "If there is a storm while the visitors are in the hut, they should",
+       "options": [
+        {
+         "key": "A",
+         "text": "contact the bus driver."
+        },
+        {
+         "key": "B",
+         "text": "wait until the weather improves."
+        },
+        {
+         "key": "C",
+         "text": "use the emergency locator beacon."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L2-2",
+     "type": "matching",
+     "range": [
+      17,
+      20
+     ],
+     "instructions": [
+      "What information does Annie give about skiing on each of the following mountain trails?",
+      "Choose **FOUR** answers from the box and write the correct letter, **A–F**, next to Questions 17–20."
+     ],
+     "optionsTitle": "Information",
+     "title": "Mountain trails",
+     "options": [
+      {
+       "key": "A",
+       "text": "It has a good place to stop and rest."
+      },
+      {
+       "key": "B",
+       "text": "It is suitable for all abilities."
+      },
+      {
+       "key": "C",
+       "text": "It involves crossing a river."
+      },
+      {
+       "key": "D",
+       "text": "It demands a lot of skill."
+      },
+      {
+       "key": "E",
+       "text": "It may be closed in bad weather."
+      },
+      {
+       "key": "F",
+       "text": "It has some very narrow sections."
+      }
+     ],
+     "questions": [
+      {
+       "n": 17,
+       "text": "Highland Trail"
+      },
+      {
+       "n": 18,
+       "text": "Pine Trail"
+      },
+      {
+       "n": 19,
+       "text": "Stony Trail"
+      },
+      {
+       "n": 20,
+       "text": "Loser's Trail"
+      }
+     ]
+    }
+   ],
+   "transcript": "Hi everyone, welcome to the Snow Centre. My name's Annie. I hope you enjoyed the bus trip from the airport – we've certainly got plenty of snow today! Well, you've come to New Zealand's premier snow and ski centre, and we've a whole load of activities for you during your week here.\nMost visitors come here for the cross-country skiing, where you're on fairly flat ground for most of the time, rather than going down steep mountainsides. There are marked trails, but [Q11] you can also leave these and go off on your own and that's an experience not to be missed. You can go at your own speed – it's great aerobic exercise if you really push yourself, or if you prefer you can just glide gently along and enjoy the beautiful scenery.\nThis afternoon, you'll be going on a dog-sled trip. You may have seen our dogs on TV recently racing in the winter sled festival. If you want, you can have your own team for the [Q12] afternoon and learn how to drive them, following behind our leader on the trail. Or if you'd prefer, you can just sit back in the sled and enjoy the ride as a passenger.\nAt the weekend, we have the team relay event, and you're all welcome to join in. We have a local school coming along, and a lot of the teachers are taking part too. Participation rather than winning is the main focus, and there's a medal for everyone who takes part. Participants [Q13] are in teams of two to four, and each team must complete four laps of the course.\nFor your final expedition, you'll head off to Mount Frenner wearing a pair of special snow shoes which allow you to walk on top of the snow. This is an area where miners once searched for gold, though there are very few traces of their work left now. When the snow melts in summer, the mountain slopes are carpeted in flowers and plants. It's a long ascent, [Q14] though not too steep, and walkers generally take a couple of days to get to the summit and return.\nYou'll spend the night in our hut half-way up the mountain. That's included in your package for the stay. It's got cooking facilities, firewood and water for drinking. For washing, we [Q15] recommend you use melted snow, though, to conserve supplies. We can take your luggage up on our snowmobile for you for just ten dollars a person. The hut has cooking facilities so you can make a hot meal in the evening and morning, but you need to take your own food.\nThe weather on Mount Frenner can be very stormy. In that case, stay in the hut – generally [Q16] the storms don't last long. Don't stress about getting back here to the centre in time to catch the airport bus – they'll probably not be running anyway. We do have an emergency locator beacon in the hut but only use that if it's a real emergency, like if someone's ill or injured.\nNow, let me tell you something about the different ski trails you can follow during your stay here.\nHighland Trail's directly accessible from where we are now. This trail's been designed to give [Q17] first-timers an experience they'll enjoy regardless of their age or skill, but it's also ideal for experts to practise their technique.\nThen there's Pine Trail ... if you're nervous about skiing, leave this one to the experts! You follow a steep valley looking right down on the river below – scary! But if you've fully [Q18] mastered the techniques needed for hills, it's great fun.\nStony Trail's a good choice once you've got a general idea of the basics. There are one or two tricky sections, but nothing too challenging. There's a shelter half-way where you can sit [Q19] and take a break and enjoy the afternoon sunshine.\nAnd finally, Loser's Trail. This starts off following a gentle river valley but the last part is quite exposed so the snow conditions can be challenging – if it's snowing or windy, check with us [Q20] before you set out to make sure the trail's open that day.\nRight, so now if you'd like to follow me, we'll get started ..."
+  },
+  {
+   "part": 3,
+   "range": [
+    21,
+    30
+   ],
+   "pages": [
+    78,
+    79
+   ],
+   "groups": [
+    {
+     "id": "L3-1",
+     "type": "choice",
+     "range": [
+      21,
+      26
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "title": "Labels giving nutritional information on food packaging",
+     "questions": [
+      {
+       "n": 21,
+       "text": "What was Jack's attitude to nutritional food labels before this project?",
+       "options": [
+        {
+         "key": "A",
+         "text": "He didn't read everything on them."
+        },
+        {
+         "key": "B",
+         "text": "He didn't think they were important."
+        },
+        {
+         "key": "C",
+         "text": "He thought they were too complicated."
+        }
+       ]
+      },
+      {
+       "n": 22,
+       "text": "Alice says that before doing this project,",
+       "options": [
+        {
+         "key": "A",
+         "text": "she was unaware of what certain foods contained."
+        },
+        {
+         "key": "B",
+         "text": "she was too lazy to read food labels."
+        },
+        {
+         "key": "C",
+         "text": "she was only interested in the number of calories."
+        }
+       ]
+      },
+      {
+       "n": 23,
+       "text": "When discussing supermarket brands of pizza, Jack agrees with Alice that",
+       "options": [
+        {
+         "key": "A",
+         "text": "the list of ingredients is shocking."
+        },
+        {
+         "key": "B",
+         "text": "he will hesitate before buying pizza again."
+        },
+        {
+         "key": "C",
+         "text": "the nutritional label is misleading."
+        }
+       ]
+      },
+      {
+       "n": 24,
+       "text": "Jack prefers the daily value system to other labelling systems because it is",
+       "options": [
+        {
+         "key": "A",
+         "text": "more accessible."
+        },
+        {
+         "key": "B",
+         "text": "more logical."
+        },
+        {
+         "key": "C",
+         "text": "more comprehensive."
+        }
+       ]
+      },
+      {
+       "n": 25,
+       "text": "What surprised both students about one flavour of crisps?",
+       "options": [
+        {
+         "key": "A",
+         "text": "The percentage of artificial additives given was incorrect."
+        },
+        {
+         "key": "B",
+         "text": "The products did not contain any meat."
+        },
+        {
+         "key": "C",
+         "text": "The labels did not list all the ingredients."
+        }
+       ]
+      },
+      {
+       "n": 26,
+       "text": "What do the students think about research into the impact of nutritional food labelling?",
+       "options": [
+        {
+         "key": "A",
+         "text": "It did not produce clear results."
+        },
+        {
+         "key": "B",
+         "text": "It focused on the wrong people."
+        },
+        {
+         "key": "C",
+         "text": "It made unrealistic recommendations."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L3-2",
+     "type": "multi",
+     "range": [
+      27,
+      28
+     ],
+     "n": [
+      27,
+      28
+     ],
+     "select": 2,
+     "instructions": [
+      "Choose **TWO** letters, **A–E**."
+     ],
+     "text": "Which **TWO** things surprised the students about the traffic-light system for nutritional labels?",
+     "options": [
+      {
+       "key": "A",
+       "text": "its widespread use"
+      },
+      {
+       "key": "B",
+       "text": "the fact that it is voluntary for supermarkets"
+      },
+      {
+       "key": "C",
+       "text": "how little research was done before its introduction"
+      },
+      {
+       "key": "D",
+       "text": "its unpopularity with food manufacturers"
+      },
+      {
+       "key": "E",
+       "text": "the way that certain colours are used"
+      }
+     ]
+    },
+    {
+     "id": "L3-3",
+     "type": "multi",
+     "range": [
+      29,
+      30
+     ],
+     "n": [
+      29,
+      30
+     ],
+     "select": 2,
+     "instructions": [
+      "Choose **TWO** letters, **A–E**."
+     ],
+     "text": "Which **TWO** things are true about the participants in the study on the traffic-light system?",
+     "options": [
+      {
+       "key": "A",
+       "text": "They had low literacy levels."
+      },
+      {
+       "key": "B",
+       "text": "They were regular consumers of packaged food."
+      },
+      {
+       "key": "C",
+       "text": "They were selected randomly."
+      },
+      {
+       "key": "D",
+       "text": "They were from all socio-economic groups."
+      },
+      {
+       "key": "E",
+       "text": "They were interviewed face-to-face."
+      }
+     ]
+    }
+   ],
+   "transcript": "JACK: I've still got loads to do for our report on nutritional food labels.\nALICE: Me too. What did you learn from doing the project about your own shopping habits?\nJACK: Well, I've always had to check labels for traces of peanuts in everything I eat because of my allergy. But beyond that I've never really been concerned enough to check how [Q21] healthy a product is.\nALICE: This project has actually taught me to read the labels much more carefully. I tended to [Q22] believe claims on packaging like 'low in fat'. But I now realise that the 'healthy' yoghurt I've bought for years is full of sugar and that it's actually quite high in calories.\nJACK: Ready meals are the worst ... comparing the labels on supermarket pizzas was a real eye-opener. Did you have any idea how many calories they contain? I was amazed.\nALICE: Yes, because unless you read the label really carefully, you wouldn't know that the [Q23] nutritional values given are for half a pizza.\nJACK: When most people eat the whole pizza. Not exactly transparent is it?\nALICE: Not at all. But I expect it won't stop you from buying pizza?\nJACK: Probably not, no! I thought comparing the different labelling systems used by food manufacturers was interesting. I think the kind of labelling system used makes a big difference.\nALICE: Which one did you prefer?\nJACK: I liked the traditional daily value system best – the one which tells you what proportion of your required daily intake of each ingredient the product contains. I'm not sure it's [Q24] the easiest for people to use but at least you get the full story. I like to know all the ingredients in a product – not just how much fat, salt and sugar they contain.\nALICE: But it's good supermarkets have been making an effort to provide reliable information for customers.\nJACK: Yes. There just needs to be more consistency between labelling systems used by different supermarkets, in terms of portion sizes, etc.\nALICE: Mmm. The labels on the different brands of chicken flavour crisps were quite revealing too, weren't they?\nJACK: Yeah. I don't understand how they can get away with calling them chicken flavour [Q25] when they only contain artificial additives.\nALICE: I know. I'd at least have expected them to contain a small percentage of real chicken.\nJACK: Absolutely.\nALICE: I think having nutritional food labeling has been a good idea, don't you? I think it will change people's behaviour and stop mothers, in particular, buying the wrong things.\nJACK: But didn't that study kind of prove the opposite? People didn't necessarily stop buying unhealthy products.\nALICE: They only said that might be the case. Those findings weren't that conclusive and it [Q26] was quite a small-scale study. I think more research has to be done.\nJACK: Yes, I think you're probably right.\nJACK: What do you think of the traffic-light system?\nALICE: I think supermarkets like the idea of having a colour-coded system – red, orange or green – for levels of fat, sugar and salt in a product.\nJACK: But it's not been adopted universally. And not on all products. Why do you suppose [Q27] [Q28] that is?\nALICE: Pressure from the food manufacturers. Hardly surprising that some of them are opposed to flagging up how unhealthy their products are.\nJACK: I'd have thought it would have been compulsory. It seems ridiculous it isn't.\nALICE: I know. And what I couldn't get over is the fact that it was brought in without enough consultation – a lot of experts had deep reservations about it.\nJACK: That is a bit weird. I suppose there's an argument for doing the research now when consumers are familiar with this system.\nALICE: Yeah, maybe.\nJACK: The participants in the survey were quite positive about the traffic-light system.\nALICE: Mmm. But I don't think they targeted the right people. They should have focused on people with low literacy levels because these labels are designed to be accessible to them.\nJACK: Yeah. But it's good to get feedback from all socio-economic groups. And there wasn't [Q29] [Q30] much variation in their responses.\nALICE: No. But if they hadn't interviewed participants face-to-face, they could have used a much bigger sample size. I wonder why they chose that method?\nJACK: Dunno. How were they selected? Did they volunteer or were they approached?\nALICE: I think they volunteered. The thing that wasn't stated was how often they bought packaged food – all we know is how frequently they used the supermarket."
+  },
+  {
+   "part": 4,
+   "range": [
+    31,
+    40
+   ],
+   "pages": [
+    80
+   ],
+   "groups": [
+    {
+     "id": "L4-1",
+     "type": "completion",
+     "range": [
+      31,
+      40
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **ONE WORD ONLY** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "The history of coffee"
+      },
+      {
+       "t": "sub",
+       "text": "Coffee in the Arab world"
+      },
+      {
+       "t": "li",
+       "text": "There was small-scale trade in wild coffee from Ethiopia."
+      },
+      {
+       "t": "li",
+       "text": "1522: Coffee was approved in the Ottoman court as a type of medicine."
+      },
+      {
+       "t": "li",
+       "text": "1623: In Constantinople, the ruler ordered the {{31}} of every coffee house."
+      },
+      {
+       "t": "sub",
+       "text": "Coffee arrives in Europe (17th century)"
+      },
+      {
+       "t": "li",
+       "text": "Coffee shops were compared to {{32}} ."
+      },
+      {
+       "t": "li",
+       "text": "They played an important part in social and {{33}} changes."
+      },
+      {
+       "t": "sub",
+       "text": "Coffee and European colonisation"
+      },
+      {
+       "t": "li",
+       "text": "European powers established coffee plantations in their colonies."
+      },
+      {
+       "t": "li",
+       "text": "Types of coffee were often named according to the {{34}} they came from."
+      },
+      {
+       "t": "li",
+       "text": "In Brazil and the Caribbean, most cultivation depended on {{35}} ."
+      },
+      {
+       "t": "li",
+       "text": "In Java, coffee was used as a form of {{36}} ."
+      },
+      {
+       "t": "li",
+       "text": "Coffee became almost as important as {{37}} ."
+      },
+      {
+       "t": "li",
+       "text": "The move towards the consumption of {{38}} in Britain did not also take place in the USA."
+      },
+      {
+       "t": "sub",
+       "text": "Coffee in the 19th century"
+      },
+      {
+       "t": "li",
+       "text": "Prices dropped because of improvements in {{39}} ."
+      },
+      {
+       "t": "li",
+       "text": "Industrial workers found coffee helped them to work at {{40}} ."
+      }
+     ]
+    }
+   ],
+   "transcript": "In my presentation, I'm going to talk about coffee, and its importance both in economic and social terms. We think it was first drunk in the Arab world, but there's hardly any documentary evidence of it before the 1500s, although of course that doesn't mean that people didn't know about it before then.\nHowever, there is evidence that coffee was originally gathered from bushes growing wild in Ethiopia, in the northeast of Africa. In the early sixteenth century, it was being bought by traders, and gradually its use as a drink spread throughout the Middle East. It's also known that in 1522, in the Turkish city of Constantinople, which was the centre of the Ottoman Empire, the court physician approved its use as a medicine.\nBy the mid-1500s, coffee bushes were being cultivated in the Yemen and for the next hundred years this region produced most of the coffee drunk in Africa and the Arab world. What's particularly interesting about coffee is its effect on social life. It was rarely drunk at home, but instead people went to coffee houses to drink it. These people, usually men, would meet to drink coffee and chat about issues of the day. But at the time, this chance to share ideas and opinions was seen as something that was potentially dangerous, and in 1623 [Q31] the ruler of Constantinople demanded the destruction of all the coffee houses in the city, although after his death many new ones opened, and coffee consumption continued. In the seventeenth century, coffee drinking spread to Europe, and here too coffee shops became [Q32] places where ordinary people, nearly always men, could meet to exchange ideas. Because of this, some people said that these places performed a similar function to universities. The opportunity they provided for people to meet together outside their own homes and to discuss the topics of the day had an enormous impact on social life, and many social movements and [Q33] political developments had their origins in coffee house discussions.\nIn the late 1600s, the Yemeni monopoly on coffee production broke down and coffee production started to spread around the world, helped by European colonisation. Europeans set up coffee plantations in Indonesia and the Caribbean and production of coffee in the colonies skyrocketed. Different types of coffee were produced in different areas, and it's [Q34] interesting that the names given to these different types, like Mocha or Java coffee, were often taken from the port they were shipped to Europe from. But if you look at the labour system in the different colonies, there were some significant differences.\nIn Brazil and the various Caribbean colonies, coffee was grown in huge plantations and the [Q35] workers there were almost all slaves. But this wasn't the same in all colonies; for example in Java, which had been colonised by the Dutch, the peasants grew coffee and passed [Q36] a proportion of this on to the Dutch, so it was used as a means of taxation. But whatever system was used, under the European powers of the eighteenth century, coffee production was very closely linked to colonisation. Coffee was grown in ever-increasing quantities [Q37] to satisfy the growing demand from Europe, and it became nearly as important as sugar production, which was grown under very similar conditions. However, coffee prices were not yet low enough for people to drink it regularly at home, so most coffee consumption still took place in public coffee houses and it still remained something of a luxury item. In Britain, however, a new drink was introduced from China, and started to become popular, gradually taking over from coffee, although at first it was so expensive that only the upper classes could afford it. This was tea, and by the late 1700s it was being widely drunk. However, when the [Q38] USA gained independence from Britain in 1776, they identified this drink with Britain, and coffee remained the preferred drink in the USA, as it still is today.\nSo, by the early nineteenth century, coffee was already being widely produced and consumed. But during this century, production boomed and coffee prices started to fall. This [Q39] was partly because new types of transportation had been developed which were cheaper and more efficient. So now, working people could afford to buy coffee – it wasn't just a drink for the middle classes. And this was at a time when large parts of Europe were starting to work in industries. And sometimes this meant their work didn't stop when it got dark; they might have  – [Q40] to continue throughout the night. So, the use of coffee as a stimulant became important – it wasn't just a drink people drank in the morning, for breakfast.\nThere were also changes in cultivation ..."
+  }
+ ],
+ "answers": {
+  "1": {
+   "a": [
+    "Finance"
+   ]
+  },
+  "2": {
+   "a": [
+    "Maths",
+    "Math",
+    "Mathematics"
+   ],
+   "k": "Maths / Math / Mathematics"
+  },
+  "3": {
+   "a": [
+    "business"
+   ]
+  },
+  "4": {
+   "a": [
+    "17",
+    "seventeen"
+   ],
+   "k": "17 / seventeen"
+  },
+  "5": {
+   "a": [
+    "holiday",
+    "holidays",
+    "vacation",
+    "vacations"
+   ],
+   "k": "holiday(s) / vacation(s)"
+  },
+  "6": {
+   "a": [
+    "college"
+   ]
+  },
+  "7": {
+   "a": [
+    "location"
+   ]
+  },
+  "8": {
+   "a": [
+    "jeans"
+   ]
+  },
+  "9": {
+   "a": [
+    "late"
+   ]
+  },
+  "10": {
+   "a": [
+    "smile"
+   ]
+  },
+  "11": {
+   "a": [
+    "A"
+   ]
+  },
+  "12": {
+   "a": [
+    "B"
+   ]
+  },
+  "13": {
+   "a": [
+    "A"
+   ]
+  },
+  "14": {
+   "a": [
+    "C"
+   ]
+  },
+  "15": {
+   "a": [
+    "A"
+   ]
+  },
+  "16": {
+   "a": [
+    "B"
+   ]
+  },
+  "17": {
+   "a": [
+    "B"
+   ]
+  },
+  "18": {
+   "a": [
+    "D"
+   ]
+  },
+  "19": {
+   "a": [
+    "A"
+   ]
+  },
+  "20": {
+   "a": [
+    "E"
+   ]
+  },
+  "21": {
+   "a": [
+    "A"
+   ]
+  },
+  "22": {
+   "a": [
+    "A"
+   ]
+  },
+  "23": {
+   "a": [
+    "C"
+   ]
+  },
+  "24": {
+   "a": [
+    "C"
+   ]
+  },
+  "25": {
+   "a": [
+    "B"
+   ]
+  },
+  "26": {
+   "a": [
+    "A"
+   ]
+  },
+  "27": {
+   "a": [
+    "B"
+   ]
+  },
+  "28": {
+   "a": [
+    "C"
+   ]
+  },
+  "29": {
+   "a": [
+    "D"
+   ]
+  },
+  "30": {
+   "a": [
+    "E"
+   ]
+  },
+  "31": {
+   "a": [
+    "destruction"
+   ]
+  },
+  "32": {
+   "a": [
+    "universities",
+    "university"
+   ],
+   "k": "universities / university"
+  },
+  "33": {
+   "a": [
+    "political"
+   ]
+  },
+  "34": {
+   "a": [
+    "port",
+    "ports"
+   ],
+   "k": "port(s)"
+  },
+  "35": {
+   "a": [
+    "slaves",
+    "slavery"
+   ],
+   "k": "slaves / slavery"
+  },
+  "36": {
+   "a": [
+    "taxation"
+   ]
+  },
+  "37": {
+   "a": [
+    "sugar"
+   ]
+  },
+  "38": {
+   "a": [
+    "tea"
+   ]
+  },
+  "39": {
+   "a": [
+    "transportation"
+   ]
+  },
+  "40": {
+   "a": [
+    "night"
+   ]
+  }
+ }
+}

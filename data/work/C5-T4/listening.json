@@ -1,0 +1,820 @@
+{
+ "parts": [
+  {
+   "part": 1,
+   "range": [
+    1,
+    10
+   ],
+   "pages": [
+    79
+   ],
+   "groups": [
+    {
+     "id": "L1-1",
+     "type": "completion",
+     "range": [
+      1,
+      10
+     ],
+     "instructions": [
+      "Complete the form below.",
+      "Write **NO MORE THAN THREE WORDS AND/OR NUMBERS** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "HOST FAMILY APPLICANT"
+      },
+      {
+       "t": "note",
+       "text": "*Example*"
+      },
+      {
+       "t": "p",
+       "text": "Name: *Jenny Chan*"
+      },
+      {
+       "t": "p",
+       "text": "Present address: *Sea View Guest House,* {{1}}"
+      },
+      {
+       "t": "p",
+       "text": "Daytime phone number: *2237676*"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "*[NB Best time to contact is* {{2}} *]*"
+      },
+      {
+       "t": "p",
+       "text": "Age: *19*"
+      },
+      {
+       "t": "p",
+       "text": "Intended length of stay: {{3}}"
+      },
+      {
+       "t": "p",
+       "text": "Occupation while in UK: *student*"
+      },
+      {
+       "t": "p",
+       "text": "General level of English: {{4}}"
+      },
+      {
+       "t": "p",
+       "text": "Preferred location: *in the* {{5}}"
+      },
+      {
+       "t": "p",
+       "text": "Special diet: {{6}}"
+      },
+      {
+       "t": "p",
+       "text": "Other requirements: *own facilities*"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "*own television*"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "{{7}}"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "*to be* {{8}}"
+      },
+      {
+       "t": "p",
+       "text": "Maximum price: £ {{9}} *a week*"
+      },
+      {
+       "t": "p",
+       "text": "Preferred starting date: {{10}}"
+      }
+     ]
+    }
+   ],
+   "transcript": "ADVISER: Good morning, how can I help you?\nSTUDENT: Good morning. Umm, I understand you help fix up students with host families.\nADVISER: That's right ... are you interested in ...?\nSTUDENT: Yes ...\nADVISER: Well please sit down and I'll just take a few details.\nSTUDENT: Thank you.\nADVISER: Right now ... what name is it?\nSTUDENT: Jenny Chan.\nADVISER: Can you spell that please?\nSTUDENT: Yes ... J-E-N-N-Y C-H-A-N.\nADVISER: Right ... and what is your present address?\nSTUDENT: Sea View Guest House, 14 Hill Road. [Q1]\nADVISER: OK, and do you know the phone number there?\nSTUDENT: Yes ...: I have it here, ummm ... 2237676, but I'm only there after about 7 pm.\nADVISER: So when would be the best time to catch you?\nSTUDENT: I suppose between 9 and, let me see, half-past, before I leave for the college. [Q2]\nADVISER: Great ... and can I ask you your age?\nSTUDENT: I've just had my nineteenth birthday.\nADVISER: And how long would you want to stay with the host family?\nSTUDENT: I'm planning on staying a year but at the moment I'm definitely here for four months only. I have to get an extension to my permit. [Q3]\nADVISER: You're working on it? Fine ... and what will be your occupation while you're in the UK?\nSTUDENT: Studying English?\nADVISER: And what would you say your level of English is?\nSTUDENT: Umm. Good, I think I'd like to say 'advanced' but my written work is below the level of my spoken, so I suppose it's intermediate. [Q4]\nADVISER: Certainly your spoken English is advanced. Anyway, which area do you think you would prefer?\nSTUDENT: Ummm, well I'm studying right in the centre but I'd really like to live in the north-west. [Q5]\nADVISER: That shouldn't be a great problem ... we usually have lots of families up there.\nADVISER: And do you have any particular requirements for diet?\nSTUDENT: Well, I'm nearly a vegetarian ... not quite. [Q6]\nADVISER: Shall I say you are? It's probably easier that way.\nSTUDENT: That would be best.\nADVISER: Anything about your actual room?\nSTUDENT: I would prefer my own facilities – 'en suite', is that right? And also if it's possible a TV and I'd also like the house to have a real garden rather than just a yard, somewhere I could sit and be peaceful. [Q7]\nADVISER: Is that all?\nSTUDENT: Well ... I'm really serious about improving my English so I'd prefer to be the only guest if that's possible? [Q8]\nADVISER: No other guests ... Yes, you get more practice that way. Anyway, obviously all this is partly dependent on how much you're willing to pay. What did you have in mind?\nSTUDENT: I was thinking in terms of about £60–£80 a week, but I'd go up to a hundred if it was something special. [Q9]\nADVISER: Well I don't think we'd have any problems finding something for you.\nSTUDENT: Oh, good.\nADVISER: And when would you want it for?\nSTUDENT: I'd like to move in approximately two weeks.\nADVISER: Let me see, it's the 10th today ... so if we go for the Monday it's the 23rd March. [Q10]\nSTUDENT: Yes.\nADVISER: Right ... good, and if I could ask one last question ..."
+  },
+  {
+   "part": 2,
+   "range": [
+    11,
+    20
+   ],
+   "pages": [
+    80,
+    81
+   ],
+   "groups": [
+    {
+     "id": "L2-1",
+     "type": "completion",
+     "range": [
+      11,
+      13
+     ],
+     "instructions": [
+      "Complete the sentences below.",
+      "Write **NO MORE THAN TWO WORDS** for each answer."
+     ],
+     "content": [
+      {
+       "t": "p",
+       "text": "The next meeting of the soccer club will be in the {{11}} in King's Park on 2 July."
+      },
+      {
+       "t": "p",
+       "text": "The first event is a {{12}} ."
+      },
+      {
+       "t": "p",
+       "text": "At the final dinner, players receive {{13}} ."
+      }
+     ]
+    },
+    {
+     "id": "L2-2",
+     "type": "completion",
+     "range": [
+      14,
+      17
+     ],
+     "instructions": [
+      "Complete the table below.",
+      "Write **NO MORE THAN THREE WORDS AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "table",
+       "header": 1,
+       "rows": [
+        [
+         "Competition",
+         "Number of Teams",
+         "Games Begin",
+         "Training Session\n(in King's Park)"
+        ],
+        [
+         "Junior",
+         "{{14}}",
+         "8.30 am",
+         "{{15}}"
+        ],
+        [
+         "Senior",
+         "{{16}}",
+         "2.00 pm",
+         "{{17}}"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L2-3",
+     "type": "completion",
+     "range": [
+      18,
+      20
+     ],
+     "instructions": [
+      "Complete the table below.",
+      "Write **NO MORE THAN THREE WORDS** for each answer."
+     ],
+     "content": [
+      {
+       "t": "table",
+       "header": 1,
+       "rows": [
+        [
+         "Name of Office Bearer",
+         "Responsibility"
+        ],
+        [
+         "Robert Young: President",
+         "to manage meetings"
+        ],
+        [
+         "Gina Costello: Treasurer",
+         "to {{18}}"
+        ],
+        [
+         "David West: Secretary",
+         "to {{19}}"
+        ],
+        [
+         "Jason Dokic: Head Coach",
+         "to {{20}}"
+        ]
+       ]
+      }
+     ]
+    }
+   ],
+   "transcript": "Good evening everyone and thank you for coming to the Soccer Club meeting. It's good to see so many parents and children here tonight, and I know you are looking forward to a great football season. Now I'd like to take a few minutes to tell you about some changes to the Soccer Club for the coming season.\nNow, this season we'll be playing all our matches for both the junior and senior competitions at King's Park, instead of Royal Park, which was used last season.\nNow for meetings, we're going to use the clubhouse in King's Park, and the next meeting will be held in the clubhouse on the 2nd of July. [Q11]\nAs usual, we hope to begin the season with a picnic next Saturday at the clubhouse. [Q12] Please try and come to the picnic as it's always good fun. The last week of the season we usually have a dinner and presentation of prizes to the players, and more information about this will be given to you later in the season. [Q13]\nThis season we have more teams than ever. We hope to have ten teams, instead of five, in the junior competition and they will play on Saturday mornings, beginning at 8.30 a.m. [Q14] Training sessions will be held in King's Park on Wednesday afternoons for the juniors and they will be wearing red shirts again this year. [Q15]\nIn the senior competition, there'll be four teams, the same as last year, and their games will [Q16] be played on Saturday afternoons starting at 2.30, no sorry, it will be a 2 o'clock start, and the training session for seniors is planned for Sunday afternoons. [Q17]\nNow I'd like to introduce you to the new committee for the Soccer Club for this season. Firstly, let me welcome Robert Young, the new President, who will manage the meetings for the next two years. Robert's son has been playing football with the club for over five years now, and many thanks to Robert for taking on the job of President.\nNext we have Gina Costello, she's the treasurer, and she will collect the fees from you for the season. [Q18] Please try and give Gina your fees as early as possible in the season, as the club needs the money to buy some new equipment.\nThen there's David West who has volunteered to be the club secretary, and one of the many jobs he will have is to send out newsletters to you regularly. [Q19] If you have any information that may be useful, please let David know so that it can be included in these newsletters.\nAlso I'd like to introduce you to Jason Dokic who is the Head Coach. For all the new members here tonight, this is the third year that Jason has been with us as Head Coach, and we are very lucky to have such an experienced coach and former player at our club. He will continue to supervise the teams, at training sessions and on match days. [Q20]\nNow before we finish and have some refreshments, does anyone have any questions they'd like to ask the new committee?"
+  },
+  {
+   "part": 3,
+   "range": [
+    21,
+    30
+   ],
+   "pages": [
+    82,
+    83
+   ],
+   "groups": [
+    {
+     "id": "L3-1",
+     "type": "completion",
+     "range": [
+      21,
+      24
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **NO MORE THAN THREE WORDS** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Box Telecom"
+      },
+      {
+       "t": "p",
+       "text": "Problems: been affected by"
+      },
+      {
+       "t": "li",
+       "level": 2,
+       "text": "drop in {{21}}"
+      },
+      {
+       "t": "li",
+       "level": 2,
+       "text": "growing {{22}}"
+      },
+      {
+       "t": "li",
+       "level": 2,
+       "text": "delays due to a strike"
+      },
+      {
+       "t": "p",
+       "text": "Causes of problems:"
+      },
+      {
+       "t": "li",
+       "level": 2,
+       "text": "high {{23}}"
+      },
+      {
+       "t": "li",
+       "level": 2,
+       "text": "lack of good {{24}}"
+      }
+     ]
+    },
+    {
+     "id": "L3-2",
+     "type": "choice",
+     "range": [
+      25,
+      27
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "questions": [
+      {
+       "n": 25,
+       "text": "What does Karin think the company will do?",
+       "options": [
+        {
+         "key": "A",
+         "text": "look for private investors"
+        },
+        {
+         "key": "B",
+         "text": "accept a takeover offer"
+        },
+        {
+         "key": "C",
+         "text": "issue some new shares"
+        }
+       ]
+      },
+      {
+       "n": 26,
+       "text": "How does the tutor suggest the company can recover?",
+       "options": [
+        {
+         "key": "A",
+         "text": "by appointing a new managing director"
+        },
+        {
+         "key": "B",
+         "text": "by changing the way it is organised"
+        },
+        {
+         "key": "C",
+         "text": "by closing some of its retail outlets"
+        }
+       ]
+      },
+      {
+       "n": 27,
+       "text": "The tutor wants Jason and Karin to produce a report which",
+       "options": [
+        {
+         "key": "A",
+         "text": "offers solutions to Box Telecom's problems."
+        },
+        {
+         "key": "B",
+         "text": "analyses the UK market."
+        },
+        {
+         "key": "C",
+         "text": "compares different companies."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L3-3",
+     "type": "matching",
+     "range": [
+      28,
+      30
+     ],
+     "instructions": [
+      "Which opinion does each person express about Box Telecom?",
+      "Choose your answers from the box and write the letters **A–F** next to questions 28–30."
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "its workers are motivated"
+      },
+      {
+       "key": "B",
+       "text": "it has too little investment"
+      },
+      {
+       "key": "C",
+       "text": "it will overcome its problems"
+      },
+      {
+       "key": "D",
+       "text": "its marketing campaign needs improvement"
+      },
+      {
+       "key": "E",
+       "text": "it is old-fashioned"
+      },
+      {
+       "key": "F",
+       "text": "it has strong managers"
+      }
+     ],
+     "questions": [
+      {
+       "n": 28,
+       "text": "Karin"
+      },
+      {
+       "n": 29,
+       "text": "Jason"
+      },
+      {
+       "n": 30,
+       "text": "the tutor"
+      }
+     ]
+    }
+   ],
+   "transcript": "TUTOR: Right, Jason and Karin, now I asked you to look at the case study for Box Telecom as part of your exam assessment. It's interesting because they are in the middle of problems at the moment and I want you to track how they deal with them. Let's start with you, Karin. Having read through the case study, can you just summarise what the problems were that Box Telecom had to take on board?\nKARIN: Um, yeah ... Well of course what first came to their attention was that, despite a new advertising campaign, they were suffering from falling sales – and this is something that had many causes. [Q21] On top of that immediate problem, what had also happened over the last two years was that, although they had invested in an expansion plan, they had to face up to increased competition. [Q22] And, before they had a chance to get to grips with the effects of that, they were stalled by a strike and it was just when they were thinking about making a colossal investment in new machinery for their plants. So they were really in trouble.\nTUTOR: Yes, I think that's fair. And Jason, you contacted the company, didn't you? What did the company define as the reasons for these problems?\nJASON: Well, I think they've hit on the right things – it would be easy to say they had invested too heavily, or at the wrong time, but in fact the signs were good and what they were set back by was high interest rates. [Q23] At the same time, their longer-term problems, which were affecting their market share, were eventually credited to poor training – and having looked at the details in their last report I think that's right. [Q24]\nTUTOR: So, onto the larger issues then. Karin, what do you think the company will do?\nKARIN: Hmm ... Well, obviously they have the choice of accepting the very favourable terms that another company – KMG Plc – have given them to buy them out. That would mean creating a new company with a new image. Or they could decide on a bolder move and offer some new shares if they wanted. But I think they're much more cautious than that and expect they will start trying to find individuals who'd be prepared to back them with some of the capital they need. [Q25]\nTUTOR: Well, you mustn't always assume that dramatic problems require dramatic solutions. Sometimes there's a simple fix such as changing the guy at the top. If they truly are cautious, then I suspect they will seek to shut down some of their shops. But a more ambitious approach, and one which I think would have more chance of success, would be to alter how they're running things – the management layers and the processes. [Q26] So in your analysis try to think of all the options. Jason?\nJASON: Yes, it's interesting because I've found it a really useful company to study. Its problems cross all types of industries and it's lucky it's so big – a smaller or even medium-sized company would have gone under by now.\nTUTOR: Ah well in fact, what I want you two to do is to go away when we've finished our discussion today and write a report. We've looked in general at the telecommunications market in the UK over the last few sessions and I want you to take Box Telecom as an example and suggest some ways in which they might overcome their problems. [Q27] And outline the reasons why you think as you do – but try and keep it intrinsic to the company rather than dragging in other examples. Is that OK, Karin?\nKARIN: Yes, I think I can do that. Personally I've got great hopes for it. I think it will recover. [Q28] That advertising campaign they did was very strong and they're very innovative with their products – they set new trends. The company's got to recover, don't you think, Jason?\nJASON: Hmmm I'm not sure. I think it can but it's not a foregone conclusion unless they manage to attract the right level of investment. The company definitely needs a boost and to attract more highly skilled workers if their recovery is to be long-lasting. [Q29] When I was talking to the marketing manager he said to me that he thinks the company had got a great management team – but he would say that, wouldn't he? – but they are suffering from having to work with outdated production machinery and that could cost a lot to put right.\nTUTOR: Well, personally I think the stock market is to blame. I think they were expecting too much of the company and then inevitably it looked bad when it didn't perform. The market should have had more realistic expectations. And I disagree with you about the advertising campaign Karin. That's where they could do with some innovation – to get sales kick-started. [Q30] Anyway, let's see what you come up with ... *[fade]*"
+  },
+  {
+   "part": 4,
+   "range": [
+    31,
+    40
+   ],
+   "pages": [
+    84,
+    85
+   ],
+   "groups": [
+    {
+     "id": "L4-1",
+     "type": "choice",
+     "range": [
+      31,
+      36
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "questions": [
+      {
+       "n": 31,
+       "text": "During the first week of term, students are invited to",
+       "options": [
+        {
+         "key": "A",
+         "text": "be shown round the library by the librarian."
+        },
+        {
+         "key": "B",
+         "text": "listen to descriptions of library resources."
+        },
+        {
+         "key": "C",
+         "text": "do an intensive course in the computer centre."
+        }
+       ]
+      },
+      {
+       "n": 32,
+       "text": "The speaker warns the students that",
+       "options": [
+        {
+         "key": "A",
+         "text": "internet materials can be unreliable."
+        },
+        {
+         "key": "B",
+         "text": "downloaded information must be acknowledged."
+        },
+        {
+         "key": "C",
+         "text": "computer access may be limited at times."
+        }
+       ]
+      },
+      {
+       "n": 33,
+       "text": "The library is acquiring more CDs as a resource because",
+       "options": [
+        {
+         "key": "A",
+         "text": "they are a cheap source of information."
+        },
+        {
+         "key": "B",
+         "text": "they take up very little space."
+        },
+        {
+         "key": "C",
+         "text": "they are more up to date than the reference books."
+        }
+       ]
+      },
+      {
+       "n": 34,
+       "text": "Students are encouraged to use journals online because",
+       "options": [
+        {
+         "key": "A",
+         "text": "the articles do not need to be returned to the shelves."
+        },
+        {
+         "key": "B",
+         "text": "reading online is cheaper than photocopying articles."
+        },
+        {
+         "key": "C",
+         "text": "the stock of printed articles is to be reduced."
+        }
+       ]
+      },
+      {
+       "n": 35,
+       "text": "Why might some students continue to use reference books?",
+       "options": [
+        {
+         "key": "A",
+         "text": "they can be taken away from the library"
+        },
+        {
+         "key": "B",
+         "text": "they provide information unavailable elsewhere"
+        },
+        {
+         "key": "C",
+         "text": "they can be borrowed for an extended loan period"
+        }
+       ]
+      },
+      {
+       "n": 36,
+       "text": "What is the responsibility of the Training Supervisor?",
+       "options": [
+        {
+         "key": "A",
+         "text": "to supervise and support library staff"
+        },
+        {
+         "key": "B",
+         "text": "to provide orientation to the library facilities"
+        },
+        {
+         "key": "C",
+         "text": "to identify needs and inform section managers"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L4-2",
+     "type": "matching",
+     "range": [
+      37,
+      40
+     ],
+     "instructions": [
+      "Which section of the university will help postgraduate students with their dissertations in the following ways?",
+      "Write the correct letter, **A**, **B** or **C**, next to questions 37–40."
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "the postgraduate's own department or tutor"
+      },
+      {
+       "key": "B",
+       "text": "library staff"
+      },
+      {
+       "key": "C",
+       "text": "another section of the university"
+      }
+     ],
+     "reuse": true,
+     "questions": [
+      {
+       "n": 37,
+       "text": "training in specialised computer programs"
+      },
+      {
+       "n": 38,
+       "text": "advising on bibliography presentation"
+      },
+      {
+       "n": 39,
+       "text": "checking the draft of the dissertation"
+      },
+      {
+       "n": 40,
+       "text": "providing language support"
+      }
+     ]
+    }
+   ],
+   "transcript": "OK, are you all settled? Well, first of all, welcome to Cardiff University. I'm here to explain what we can offer you.\nNow, as a new student at the university, you will probably need some sort of guidance to help you to use the library effectively to study and research. Some of you have asked about a guided tour but we find this rather muddles people. So, in this first week, we run a series of talks which focus on different aspects of the library and its resources. [Q31] You'll also find that to get the most out of the library you really do need to be computer literate and so all this term we run small classes which will bring you up to speed on how to access the computer-loaded information.\nOK, now let me give you an outline of what's available to you. You'll find that the computers are increasingly used as a research tool. Many students do most of their research on the internet and the library computers are permanently online. Having found what you need, you'll find you can readily save texts on your personal computer space to print off when you need. You might think that it is the fastest way to get information but the links can be slow. Clearly you can find lots on there but much of it is useless information as it is from highly debatable sources – so be critical. [Q32] You'll also find that the library has loaded several CD-ROMS onto the computers from specialist reference sources such as the MLA. It means we can expand what we offer you at very little extra cost and saves us having to invest in more and more books. [Q33] The CD-ROMS contain exactly the same information as the reference books as the two are updated together.\nNow most of you will need to refer to journal articles in your work and you'll find you can also access these online and we encourage you to do so.\nClearly some of you will find the printed version more accessible as it sits on the shelves but I'm afraid the intention is to phase these out eventually. [Q34] However, you will still be able to print off a version of the text rather than photocopying the journal pages. So you must get used to working online. Naturally we do still have the full range of classic reference books, additional to the CD-ROMS, for you to use and there are several copies of each one. This is because some of you may prefer to borrow a book rather than sit in the library. [Q35] There is a restricted loan time on these so that they are not missing from the shelves for too long. Although there is a Section Manager for each part of the library, they are very busy and so, if you do get stuck looking for things, you should ask the relevant Cataloguing Assistant. As your Training Supervisor, I just oversee your induction and will not be around after this initial week. [Q36]\nSome of you may be interested to know that the library is offering specialised training sessions on writing a dissertation. Obviously this is not relevant to those of you who are undergraduates; it is just for postgraduates. Your department will discuss the planning stage of the dissertation – i.e. what you're going to do – with you and we will focus on the structure of it. However, the training will also include some time on the computers. [Q37] I realise most of you know how to organise files but we can show you the different ways to run data programmes. [Q37] Your tutors will tell you at the outset how to set out the chapters they require but you will need to ask them how they would like you to organise the bibliography because it varies depending on your subject area. [Q38] When you've got something together the trainer here will look through the draft version for you to see if it's OK. [Q39] And, one final point, for those of you who have registered from abroad, we can offer individual sessions on dissertations if you feel you need them. If you require language lessons then they are available from the International Centre next to the Law Department. [Q40]"
+  }
+ ],
+ "answers": {
+  "1": {
+   "a": [
+    "14 Hill Road"
+   ]
+  },
+  "2": {
+   "a": [
+    "between 9 and 9.30",
+    "9-9.30",
+    "9–9.30"
+   ],
+   "k": "between 9 and 9.30 / 9–9.30"
+  },
+  "3": {
+   "a": [
+    "1 year"
+   ]
+  },
+  "4": {
+   "a": [
+    "intermediate"
+   ]
+  },
+  "5": {
+   "a": [
+    "North-West"
+   ]
+  },
+  "6": {
+   "a": [
+    "vegetarian"
+   ]
+  },
+  "7": {
+   "a": [
+    "a real garden",
+    "a garden",
+    "real garden",
+    "garden"
+   ],
+   "k": "(a) (real) garden"
+  },
+  "8": {
+   "a": [
+    "the only guest",
+    "only guest"
+   ],
+   "k": "(the) only guest"
+  },
+  "9": {
+   "a": [
+    "100"
+   ]
+  },
+  "10": {
+   "a": [
+    "23rd March",
+    "Monday 23rd March"
+   ],
+   "k": "23rd March / Monday 23rd March"
+  },
+  "11": {
+   "a": [
+    "clubhouse"
+   ]
+  },
+  "12": {
+   "a": [
+    "picnic"
+   ]
+  },
+  "13": {
+   "a": [
+    "prizes"
+   ]
+  },
+  "14": {
+   "a": [
+    "10"
+   ]
+  },
+  "15": {
+   "a": [
+    "Wednesday afternoon",
+    "Wednesday afternoons"
+   ],
+   "k": "Wednesday afternoon(s)"
+  },
+  "16": {
+   "a": [
+    "4"
+   ]
+  },
+  "17": {
+   "a": [
+    "Sunday afternoon",
+    "Sunday afternoons"
+   ],
+   "k": "Sunday afternoon(s)"
+  },
+  "18": {
+   "a": [
+    "collect the fees",
+    "collect fees",
+    "collect the money",
+    "collect money"
+   ],
+   "k": "collect (the) fees / collect (the) money"
+  },
+  "19": {
+   "a": [
+    "send out newsletters",
+    "send out newsletter",
+    "send the newsletters",
+    "send the newsletter",
+    "send newsletters",
+    "send newsletter"
+   ],
+   "k": "send (out/the) newsletter(s)"
+  },
+  "20": {
+   "a": [
+    "supervise the teams",
+    "supervise teams"
+   ],
+   "k": "supervise (the) teams"
+  },
+  "21": {
+   "a": [
+    "sales"
+   ]
+  },
+  "22": {
+   "a": [
+    "competition"
+   ]
+  },
+  "23": {
+   "a": [
+    "interest rates",
+    "rates of interest"
+   ],
+   "k": "interest rates / rates of interest"
+  },
+  "24": {
+   "a": [
+    "training"
+   ]
+  },
+  "25": {
+   "a": [
+    "A"
+   ]
+  },
+  "26": {
+   "a": [
+    "B"
+   ]
+  },
+  "27": {
+   "a": [
+    "A"
+   ]
+  },
+  "28": {
+   "a": [
+    "C"
+   ]
+  },
+  "29": {
+   "a": [
+    "B"
+   ]
+  },
+  "30": {
+   "a": [
+    "D"
+   ]
+  },
+  "31": {
+   "a": [
+    "B"
+   ]
+  },
+  "32": {
+   "a": [
+    "A"
+   ]
+  },
+  "33": {
+   "a": [
+    "A"
+   ]
+  },
+  "34": {
+   "a": [
+    "C"
+   ]
+  },
+  "35": {
+   "a": [
+    "A"
+   ]
+  },
+  "36": {
+   "a": [
+    "B"
+   ]
+  },
+  "37": {
+   "a": [
+    "B"
+   ]
+  },
+  "38": {
+   "a": [
+    "A"
+   ]
+  },
+  "39": {
+   "a": [
+    "B"
+   ]
+  },
+  "40": {
+   "a": [
+    "C"
+   ]
+  }
+ }
+}

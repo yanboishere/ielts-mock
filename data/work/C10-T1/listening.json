@@ -1,0 +1,713 @@
+{
+ "parts": [
+  {
+   "part": 1,
+   "range": [
+    1,
+    10
+   ],
+   "pages": [
+    2,
+    3
+   ],
+   "groups": [
+    {
+     "id": "L1-1",
+     "type": "completion",
+     "range": [
+      1,
+      6
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **ONE WORD** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "SELF-DRIVE TOURS IN THE USA"
+      },
+      {
+       "t": "note",
+       "text": "*Example*"
+      },
+      {
+       "t": "p",
+       "text": "**Name:** Andrea *Brown*"
+      },
+      {
+       "t": "p",
+       "text": "**Address:** 24 {{1}} Road"
+      },
+      {
+       "t": "p",
+       "text": "**Postcode:** BH5 2OP"
+      },
+      {
+       "t": "p",
+       "text": "**Phone:** (mobile) 077 8664 3091"
+      },
+      {
+       "t": "p",
+       "text": "**Heard about company from:** {{2}}"
+      },
+      {
+       "t": "sub",
+       "text": "Possible self-drive tours"
+      },
+      {
+       "t": "p",
+       "text": "Trip One:"
+      },
+      {
+       "t": "li",
+       "text": "Los Angeles: customer wants to visit some {{3}} parks with her children"
+      },
+      {
+       "t": "li",
+       "text": "Yosemite Park: customer wants to stay in a lodge, not a {{4}}"
+      },
+      {
+       "t": "p",
+       "text": "Trip Two:"
+      },
+      {
+       "t": "li",
+       "text": "Customer wants to see the {{5}} on the way to Cambria"
+      },
+      {
+       "t": "li",
+       "text": "At Santa Monica: not interested in shopping"
+      },
+      {
+       "t": "li",
+       "text": "At San Diego, wants to spend time on the {{6}}"
+      }
+     ]
+    },
+    {
+     "id": "L1-2",
+     "type": "completion",
+     "range": [
+      7,
+      10
+     ],
+     "instructions": [
+      "Complete the table below.",
+      "Write **ONE WORD AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "table",
+       "header": 1,
+       "rows": [
+        [
+         "",
+         "Number of days",
+         "Total distance",
+         "Price (per person)",
+         "Includes"
+        ],
+        [
+         "Trip One",
+         "12 days",
+         "{{7}} km",
+         "£525",
+         "• accommodation\n• car\n• one {{8}}"
+        ],
+        [
+         "Trip Two",
+         "9 days",
+         "980 km",
+         "£{{9}}",
+         "• accommodation\n• car\n• {{10}}"
+        ]
+       ]
+      }
+     ]
+    }
+   ],
+   "transcript": "TRAVEL AGENT: Good morning. World Tours. My name is Jamie. How can I help you?\nANDREA: Good morning. I want some information on self-drive tours in the USA. Could you send me a brochure?\nTRAVEL AGENT: Of course. Could I have your name please?\nANDREA: Andrea Brown.\nTRAVEL AGENT: Thank you. And your address?\nANDREA: 24, Ardleigh Road. [Q1]\nTRAVEL AGENT: Can you spell that?\nANDREA: A-R-D-L-E-I-G-H Road.\nTRAVEL AGENT: Postcode?\nANDREA: BH5 2OP\nTRAVEL AGENT: Thanks. And can I have your phone number?\nANDREA: Is a mobile alright?\nTRAVEL AGENT: Fine.\nANDREA: It's 07786643091.\nTRAVEL AGENT: Thank you. And can I ask you where you heard about World Tours? From a friend? Or did you see an advert somewhere?\nANDREA: No, I read about you in the newspaper. [Q2]\nTRAVEL AGENT: OK, I'll get the brochures in the post to you but can I give you some information over the phone. What kinds of things do you want to do on your holiday?\nANDREA: I'm interested in going to California with my family. I've got two children and we want to hire a car.\nTRAVEL AGENT: OK. We have a couple of self-drive tours there visiting different places of interest in California. The first one begins in Los Angeles and there's plenty of time to visit some of the theme parks there. [Q3]\nANDREA: That's something on my children's list so I'd want to include that.\nTRAVEL AGENT: Good. Then you drive to San Francisco. From San Francisco you can drive to Yosemite Park where you spend a couple of nights. You can choose to stay in a lodge or on the campsite.\nANDREA: I don't like the idea of staying in a tent. It'd be too hot. [Q4]\nTRAVEL AGENT: Right. And the tour ends in Las Vegas.\nANDREA: OK.\nTRAVEL AGENT: The other trip we can arrange is slightly different. It starts in San Francisco. Then you drive south to Cambria.\nANDREA: Someone told me there's a really nice castle near Cambria. Will we go near that? [Q5]\nTRAVEL AGENT: Hearst Castle is on that road so you could stop there.\nANDREA: Good. I'd like to do that. Does this trip also go into the desert?\nTRAVEL AGENT: No, it continues to Santa Monica where most people like to stop and do some shopping.\nANDREA: We have enough of that at home so that doesn't interest us.\nTRAVEL AGENT: OK. Well you could go straight on to San Diego.\nANDREA: That's good for beaches isn't it? [Q6]\nTRAVEL AGENT: That's right, that's a good place to relax and your children might like to visit the zoo before flying home.\nANDREA: I don't think so. We want some time for sunbathing and swimming.\nANDREA: So how many days are the trips and how much do they cost?\nTRAVEL AGENT: The first one I told you about is a self-drive tour through California which lasts twelve days and covers 2,020 kilometres. [Q7] The shortest journey is 206 km and the longest is 632 kilometres. The cost is £525 per person. That includes accommodation, car rental and a flight but no meals. [Q8]\nANDREA: OK. And the other trip?\nTRAVEL AGENT: That lasts nine days but you spend only three days on the road. You cover about 980 kilometres altogether.\nANDREA: So is that cheaper then?\nTRAVEL AGENT: Yes, it's almost a hundred pounds cheaper. It's £429 per person, which is a good deal. [Q9]\nANDREA: So that covers accommodation and car hire. What about flights?\nTRAVEL AGENT: They aren't included. But these hotels offer dinner in the price. [Q10]\nANDREA: OK. Well, thank you very much. I'll be in touch when I've had a chance to look at the brochure.\nTRAVEL AGENT: I'm pleased to help. Goodbye.\nANDREA: Goodbye."
+  },
+  {
+   "part": 2,
+   "range": [
+    11,
+    20
+   ],
+   "pages": [
+    4,
+    5
+   ],
+   "groups": [
+    {
+     "id": "L2-1",
+     "type": "multi",
+     "range": [
+      11,
+      12
+     ],
+     "n": [
+      11,
+      12
+     ],
+     "select": 2,
+     "instructions": [
+      "Choose **TWO** letters **A–E**."
+     ],
+     "text": "Which **TWO** facilities at the leisure club have recently been improved?",
+     "options": [
+      {
+       "key": "A",
+       "text": "the gym"
+      },
+      {
+       "key": "B",
+       "text": "the tracks"
+      },
+      {
+       "key": "C",
+       "text": "the indoor pool"
+      },
+      {
+       "key": "D",
+       "text": "the outdoor pool"
+      },
+      {
+       "key": "E",
+       "text": "the sports training for children"
+      }
+     ]
+    },
+    {
+     "id": "L2-2",
+     "type": "completion",
+     "range": [
+      13,
+      20
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **NO MORE THAN TWO WORDS** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Joining the leisure club"
+      },
+      {
+       "t": "sub",
+       "text": "*Personal Assessment*"
+      },
+      {
+       "t": "li",
+       "text": "New members should describe any {{13}} ."
+      },
+      {
+       "t": "li",
+       "text": "The {{14}} will be explained to you before you use the equipment."
+      },
+      {
+       "t": "li",
+       "text": "You will be given a six-week {{15}} ."
+      },
+      {
+       "t": "sub",
+       "text": "*Types of membership*"
+      },
+      {
+       "t": "li",
+       "text": "There is a compulsory £90 {{16}} fee for members."
+      },
+      {
+       "t": "li",
+       "text": "Gold members are given {{17}} to all the LP clubs."
+      },
+      {
+       "t": "li",
+       "text": "Premier members are given priority during {{18}} hours."
+      },
+      {
+       "t": "li",
+       "text": "Premier members can bring some {{19}} every month."
+      },
+      {
+       "t": "li",
+       "text": "Members should always take their {{20}} with them."
+      }
+     ]
+    }
+   ],
+   "transcript": "On behalf of LP Clubs, I'd like to welcome you all here today. My name's Sandy Fisher and I'm one of the fitness managers here. Before we start our tour of the club I'll just run through some basic information about the facilities we have here, including recent improvements, and explain the types of membership available.\nOur greatest asset is probably our swimming pool which at 25 metres isn't Olympic-sized, but now we've expanded it to eight lanes, it's much wider. [Q11/Q12] This means there are rarely more than a couple of people at a time in each lane. Unfortunately, there isn't space for an outdoor pool here but the glass roof on the swimming pool is partly retractable, which means you can enjoy something of the open-air experience on warmer days.\nOur recently refurbished fitness suite has all the latest exercise equipment including ten new running machines, [Q11/Q12] and a wide range of weight-training machines. Each member is given full training in how to operate the equipment and there is always a trainer on duty to offer help and advice. Although we do have adult-only times after 6 and at certain times at weekends, children are well catered for. Older children continue to benefit from a wide range of tuition; anything from trampolining to yoga.\nOne thing all our members appreciate about us is that we take very good care of them. This starts on day one with your personal assessment. You are asked to fill in a questionnaire giving details of any health problems. [Q13] One of our personal trainers will then go through this with you.\nThe trainer will then take you through the safety rules for using the equipment in the fitness suite. [Q14] During your next exercise session a personal trainer will work with you to make sure you understand these. It's very important to do this because we really do want to avoid having any sports injuries. There's a lot more to looking after yourself than simply lifting weights!\nAt the end of the personal assessment, the trainer will draw up a plan, outlining what you should try to achieve within a six-week period. [Q15] This will then be reviewed at the end of the six weeks.\nNow, I'll just quickly run through the types of membership we have available. All members must pay a joining fee of £90 [Q16] in addition to the rates for the monthly membership fees. Gold membership entitles you to free entry at all LP Clubs. [Q17] There are now LP clubs in all major cities and towns so if you travel a lot this will be a great advantage. Individual gold membership costs £50 a month and joint membership for you and your partner will cost £75.\nPremier membership is for professional people whose work commitments make it difficult for them to use the club during the day and so LP gives booking preferences to Premier members at peak times. [Q18] This means you will find it easier to book the sessions at times that suit you. Reciprocal arrangements with other LP Clubs are available to Premier members. Premier membership is for individuals only, but you will be sent passes for guests every month. [Q19] The monthly fee is £65.\nYou don't have to have any special clothes or equipment when you visit the club. We provide robes and hairdryers in the changing rooms, but it's very important to remember your photo card because you won't be able to get in without it. [Q20]\nFor people who aren't working during the day then ..."
+  },
+  {
+   "part": 3,
+   "range": [
+    21,
+    30
+   ],
+   "pages": [
+    6,
+    7
+   ],
+   "groups": [
+    {
+     "id": "L3-1",
+     "type": "choice",
+     "range": [
+      21,
+      25
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "title": "Global Design Competition",
+     "questions": [
+      {
+       "n": 21,
+       "text": "Students entering the design competition have to",
+       "options": [
+        {
+         "key": "A",
+         "text": "produce an energy-efficient design."
+        },
+        {
+         "key": "B",
+         "text": "adapt an existing energy-saving appliance."
+        },
+        {
+         "key": "C",
+         "text": "develop a new use for current technology."
+        }
+       ]
+      },
+      {
+       "n": 22,
+       "text": "John chose a dishwasher because he wanted to make dishwashers",
+       "options": [
+        {
+         "key": "A",
+         "text": "more appealing."
+        },
+        {
+         "key": "B",
+         "text": "more common."
+        },
+        {
+         "key": "C",
+         "text": "more economical."
+        }
+       ]
+      },
+      {
+       "n": 23,
+       "text": "The stone in John's 'Rockpool' design is used",
+       "options": [
+        {
+         "key": "A",
+         "text": "for decoration."
+        },
+        {
+         "key": "B",
+         "text": "to switch it on."
+        },
+        {
+         "key": "C",
+         "text": "to stop water escaping."
+        }
+       ]
+      },
+      {
+       "n": 24,
+       "text": "In the holding chamber, the carbon dioxide",
+       "options": [
+        {
+         "key": "A",
+         "text": "changes back to a gas."
+        },
+        {
+         "key": "B",
+         "text": "dries the dishes."
+        },
+        {
+         "key": "C",
+         "text": "is allowed to cool."
+        }
+       ]
+      },
+      {
+       "n": 25,
+       "text": "At the end of the cleaning process, the carbon dioxide",
+       "options": [
+        {
+         "key": "A",
+         "text": "is released into the air."
+        },
+        {
+         "key": "B",
+         "text": "is disposed of with the waste."
+        },
+        {
+         "key": "C",
+         "text": "is collected ready to be re-used."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L3-2",
+     "type": "completion",
+     "range": [
+      26,
+      30
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **ONE WORD ONLY** for each answer."
+     ],
+     "content": [
+      {
+       "t": "li",
+       "text": "John needs help preparing for his {{26}} ."
+      },
+      {
+       "t": "li",
+       "text": "The professor advises John to make a {{27}} of his design."
+      },
+      {
+       "t": "li",
+       "text": "John's main problem is getting good quality {{28}} ."
+      },
+      {
+       "t": "li",
+       "text": "The professor suggests John apply for a {{29}} ."
+      },
+      {
+       "t": "li",
+       "text": "The professor will check the {{30}} information in John's written report."
+      }
+     ]
+    }
+   ],
+   "transcript": "JOHN: Erm ... hello Professor, I'm John Wishart. I'm working on my entry for the Global Design Competition. My tutor said you might be able to help me with it.\nPROFESSOR: Ah, yes, I got a copy of your drawings. Come in and tell me about it. What sort of competition is it?\nJOHN: Well, it's an international design competition and we have to come up with a new design for a typical domestic kitchen appliance. [Q21]\nPROFESSOR: I see, and are there any special conditions? Does it have to save energy for example?\nJOHN: Actually that was the focus in last year's competition. This year's different. We have to adopt an innovative approach to existing technology, using it in a way that hasn't been thought of before.\nPROFESSOR: I see, that sounds tricky. And what kitchen appliance have you chosen?\nJOHN: Well, I decided to choose the dishwasher.\nPROFESSOR: Interesting, what made you choose that?\nJOHN: Well, they're an everyday kitchen appliance in most Australian houses but they're all pretty boring and almost identical to each other. I think some people will be prepared to pay a little extra for something that looks different. [Q22]\nPROFESSOR: That's a nice idea. I see you've called your design 'the Rockpool'; why is that?\nJOHN: Basically because it looks like the rock pools you find on a beach. The top is made of glass so that you can look down into it.\nPROFESSOR: And there's a stone at the bottom. Is that just for decoration?\nJOHN: Actually it does have a function. Instead of pushing a button, you turn the stone. [Q23]\nPROFESSOR: So it's really just a novel way of starting the dishwasher.\nJOHN: That's right.\nPROFESSOR: It's a really nice design, but what makes it innovative?\nJOHN: Well, I decided to make a dishwasher that uses carbon dioxide.\nPROFESSOR: In place of water and detergent? How will you manage that?\nJOHN: The idea is to pressurise the carbon dioxide so that it becomes a liquid. The fluid is then released into the dishwasher where it cleans the dishes all by itself.\nPROFESSOR: Sounds like a brilliant idea! Your system will totally do away with the need for strong detergents. So what happens once the dishes are clean?\nJOHN: Well, to allow them to dry, the liquid carbon dioxide and the waste materials all go to an area called the holding chamber. That's where the liquid is depressurised and so it reverts to a gas. [Q24] Then the oil and grease are separated out and sent to the waste system.\nPROFESSOR: It sounds like you've thought it all out very thoroughly. So, what happens to the carbon dioxide once the process is complete? Not wasted I hope.\nJOHN: Actually, that's where the real savings are made. The carbon dioxide is sent back to the cylinder and can be used again and again. [Q25]\nPROFESSOR: What a terrific idea. Do you think it will ever be built?\nJOHN: Probably not, but that's OK.\nPROFESSOR: Well, I'm sure a lot of positive things will come out of your design.\nPROFESSOR: Now, you seem to have thought about everything so what exactly did you need me to help you with?\nJOHN: Well, my design has made it to the final stage of the competition and, in a few months' time, I have to give a presentation, [Q26] and that's the part I was hoping you could help me with.\nPROFESSOR: Right, well that should be easy enough. What have you managed to do so far?\nJOHN: Well, I've got detailed drawings to show how it will work and I've also written a 500-word paper on it.\nPROFESSOR: I see. Well, if you want to stand a good chance of winning you really need a model of the machine. [Q27]\nJOHN: Yes, I thought I might but I'm having a few problems.\nPROFESSOR: What is the main difficulty so far? Let me guess – is it the materials?\nJOHN: Yes. I want it to look professional but everything that's top quality is also very expensive. [Q28]\nPROFESSOR: Look, projects like this are very important to us. They really help lift our profile. So why don't you talk to the university about a grant? [Q29] I can help you fill out the application forms if you like.\nJOHN: That would be great.\nPROFESSOR: You'd better show me this paper you've written as well. For a global competition such as this you need to make sure the technical details you've given are accurate and thorough. [Q30]\nJOHN: That would be a great help.\nPROFESSOR: Is there anything else I can do?\nJOHN: Well, I'm really ..."
+  },
+  {
+   "part": 4,
+   "range": [
+    31,
+    40
+   ],
+   "pages": [
+    8
+   ],
+   "groups": [
+    {
+     "id": "L4-1",
+     "type": "completion",
+     "range": [
+      31,
+      40
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **ONE WORD ONLY** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "THE SPIRIT BEAR"
+      },
+      {
+       "t": "sub",
+       "text": "General facts"
+      },
+      {
+       "t": "li",
+       "text": "It is a white bear belonging to the black bear family."
+      },
+      {
+       "t": "li",
+       "text": "Its colour comes from an uncommon {{31}} ."
+      },
+      {
+       "t": "li",
+       "text": "Local people believe that it has unusual {{32}} ."
+      },
+      {
+       "t": "li",
+       "text": "They protect the bear from {{33}} ."
+      },
+      {
+       "t": "sub",
+       "text": "Habitat"
+      },
+      {
+       "t": "li",
+       "text": "The bear's relationship with the forest is complex."
+      },
+      {
+       "t": "li",
+       "text": "Tree roots stop {{34}} along salmon streams."
+      },
+      {
+       "t": "li",
+       "text": "The bears' feeding habits provide nutrients for forest vegetation."
+      },
+      {
+       "t": "li",
+       "text": "It is currently found on a small number of {{35}} ."
+      },
+      {
+       "t": "sub",
+       "text": "Threats"
+      },
+      {
+       "t": "li",
+       "text": "Habitat is being lost due to deforestation and construction of {{36}} by logging companies."
+      },
+      {
+       "t": "li",
+       "text": "Unrestricted {{37}} is affecting the salmon supply."
+      },
+      {
+       "t": "li",
+       "text": "The bears' existence is also threatened by their low rate of {{38}} ."
+      },
+      {
+       "t": "sub",
+       "text": "Going forward"
+      },
+      {
+       "t": "li",
+       "text": "Interested parties are working together."
+      },
+      {
+       "t": "li",
+       "text": "Logging companies must improve their {{39}} of logging."
+      },
+      {
+       "t": "li",
+       "text": "Maintenance and {{40}} of the spirit bears' territory is needed."
+      }
+     ]
+    }
+   ],
+   "transcript": "Today we continue our series on ecology and conservation with a look at a particularly endangered member of the black bear family. One in ten black bears is actually born with a white coat, which is the result of a special gene that surfaces in a few. [Q31] Local people have named it 'the spirit bear'. And according to the legends of these communities, its snowy fur brings with it a special power. [Q32] Because of this, it has always been highly regarded by them – so much that they do not speak of seeing it to anyone else. It is their way of protecting it when strangers visit the area. [Q33]\nThe white bear's habitat is quite interesting. The bear's strong relationship with the old-growth rainforest is a complex one. The white bear relies on the huge centuries-old trees in the forest in many ways. For example, the old-growth trees have extremely long roots that help prevent erosion of the soil along the banks of the many fish streams. [Q34] Keeping these banks intact is important because these streams are home to salmon, which are the bear's main food source. In return, the bear's feeding habits nurture the forest. As the bears eat the salmon, they discard the skin and bones in great amounts on the forest floor, which provide vital nutrients. These produce lush vegetation that sustains thousands of other types of life forms, from birds to insects and more.\nToday, the spirit bear lives off the coast of the province of British Columbia on a few islands. [Q35] There is great concern for their survival since it is estimated that less than two hundred of these white bears remain. The best way to protect them is to make every effort to preserve the delicate balance of their forest environment – in other words, their ecosystem.\nThe greatest threat to the bear's existence is the loss of its habitat. Over many years, logging companies have stripped the land by cutting down a large number of trees. In addition, they have built roads which have fractured the areas where the bear usually feeds, and many hibernation sites have also been lost. [Q36] The logging of the trees along the streams has damaged the places where the bears fish. To make matters worse, the number of salmon in those streams is declining because there is no legal limit on fishing at the moment. [Q37]\nAll these influences have a negative impact on the spirit bear's very existence, which is made all the more fragile by the fact that reproduction among these bears has always been disappointingly low. [Q38]\nAnd so, what's the situation going forward? Community organizations, environmental groups and the British Columbia government are now working together on the problem. The government is now requiring logging companies to adopt a better logging method, [Q39] which is a positive step. However, these measures alone may not be sufficient to ensure a healthy population of the spirit bear in the future.\nOther steps also need to be taken. While it is important to maintain the spirit bear's habitat, there also needs to be more emphasis on its expansion. [Q40] The move is justified as it will also create space for other bears that are losing their homes ..."
+  }
+ ],
+ "answers": {
+  "1": {
+   "a": [
+    "Ardleigh"
+   ]
+  },
+  "2": {
+   "a": [
+    "newspaper"
+   ]
+  },
+  "3": {
+   "a": [
+    "theme"
+   ]
+  },
+  "4": {
+   "a": [
+    "tent"
+   ]
+  },
+  "5": {
+   "a": [
+    "castle"
+   ]
+  },
+  "6": {
+   "a": [
+    "beach",
+    "beaches"
+   ],
+   "k": "beach/beaches"
+  },
+  "7": {
+   "a": [
+    "2020",
+    "2,020"
+   ],
+   "k": "2020"
+  },
+  "8": {
+   "a": [
+    "flight"
+   ]
+  },
+  "9": {
+   "a": [
+    "429"
+   ]
+  },
+  "10": {
+   "a": [
+    "dinner"
+   ]
+  },
+  "11": {
+   "a": [
+    "A"
+   ]
+  },
+  "12": {
+   "a": [
+    "C"
+   ]
+  },
+  "13": {
+   "a": [
+    "health problems"
+   ]
+  },
+  "14": {
+   "a": [
+    "safety rules"
+   ]
+  },
+  "15": {
+   "a": [
+    "plan"
+   ]
+  },
+  "16": {
+   "a": [
+    "joining"
+   ]
+  },
+  "17": {
+   "a": [
+    "free entry"
+   ]
+  },
+  "18": {
+   "a": [
+    "peak"
+   ]
+  },
+  "19": {
+   "a": [
+    "guests"
+   ]
+  },
+  "20": {
+   "a": [
+    "photo card",
+    "photo cards"
+   ],
+   "k": "photo card / photo cards"
+  },
+  "21": {
+   "a": [
+    "C"
+   ]
+  },
+  "22": {
+   "a": [
+    "A"
+   ]
+  },
+  "23": {
+   "a": [
+    "B"
+   ]
+  },
+  "24": {
+   "a": [
+    "A"
+   ]
+  },
+  "25": {
+   "a": [
+    "C"
+   ]
+  },
+  "26": {
+   "a": [
+    "presentation"
+   ]
+  },
+  "27": {
+   "a": [
+    "model"
+   ]
+  },
+  "28": {
+   "a": [
+    "material",
+    "materials"
+   ],
+   "k": "material/materials"
+  },
+  "29": {
+   "a": [
+    "grant"
+   ]
+  },
+  "30": {
+   "a": [
+    "technical"
+   ]
+  },
+  "31": {
+   "a": [
+    "gene"
+   ]
+  },
+  "32": {
+   "a": [
+    "power",
+    "powers"
+   ],
+   "k": "power/powers"
+  },
+  "33": {
+   "a": [
+    "strangers"
+   ]
+  },
+  "34": {
+   "a": [
+    "erosion"
+   ]
+  },
+  "35": {
+   "a": [
+    "islands"
+   ]
+  },
+  "36": {
+   "a": [
+    "roads"
+   ]
+  },
+  "37": {
+   "a": [
+    "fishing"
+   ]
+  },
+  "38": {
+   "a": [
+    "reproduction"
+   ]
+  },
+  "39": {
+   "a": [
+    "method",
+    "methods"
+   ],
+   "k": "method/methods"
+  },
+  "40": {
+   "a": [
+    "expansion"
+   ]
+  }
+ }
+}

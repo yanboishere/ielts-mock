@@ -1,0 +1,2009 @@
+{
+ "schema": "ielts-mock.exam/1",
+ "id": "C4-T3",
+ "source": {
+  "book": 4,
+  "test": 3
+ },
+ "title": "Cambridge IELTS 4 · Test 3",
+ "listening": {
+  "parts": [
+   {
+    "part": 1,
+    "range": [
+     1,
+     10
+    ],
+    "pages": [
+     57,
+     58
+    ],
+    "groups": [
+     {
+      "id": "L1-1",
+      "type": "completion",
+      "range": [
+       1,
+       4
+      ],
+      "instructions": [
+       "Complete the form below.",
+       "Write **NO MORE THAN THREE WORDS AND/OR NUMBERS** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "Accommodation Request Form"
+       },
+       {
+        "t": "note",
+        "text": "*Example*"
+       },
+       {
+        "t": "p",
+        "text": "Name: *Sara Lim*"
+       },
+       {
+        "t": "p",
+        "text": "Age: 23"
+       },
+       {
+        "t": "p",
+        "text": "Length of time in Australia: {{1}}"
+       },
+       {
+        "t": "p",
+        "text": "Present address: Flat 1,"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "539, {{2}} Road"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "Canterbury 2036"
+       },
+       {
+        "t": "p",
+        "text": "Present course: {{3}} English"
+       },
+       {
+        "t": "p",
+        "text": "Accommodation required from: {{4}},"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "7th September"
+       }
+      ]
+     },
+     {
+      "id": "L1-2",
+      "type": "choice",
+      "range": [
+       5,
+       7
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B** or **C**."
+      ],
+      "questions": [
+       {
+        "n": 5,
+        "text": "Sara requires a",
+        "options": [
+         {
+          "key": "A",
+          "text": "single room."
+         },
+         {
+          "key": "B",
+          "text": "twin room."
+         },
+         {
+          "key": "C",
+          "text": "triple room."
+         }
+        ]
+       },
+       {
+        "n": 6,
+        "text": "She would prefer to live with a",
+        "options": [
+         {
+          "key": "A",
+          "text": "family."
+         },
+         {
+          "key": "B",
+          "text": "single person."
+         },
+         {
+          "key": "C",
+          "text": "couple."
+         }
+        ]
+       },
+       {
+        "n": 7,
+        "text": "She would like to live in a",
+        "options": [
+         {
+          "key": "A",
+          "text": "flat."
+         },
+         {
+          "key": "B",
+          "text": "house."
+         },
+         {
+          "key": "C",
+          "text": "studio apartment."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L1-3",
+      "type": "completion",
+      "range": [
+       8,
+       10
+      ],
+      "instructions": [
+       "Complete the sentences below.",
+       "Write **NO MORE THAN ONE WORD** for each answer."
+      ],
+      "content": [
+       {
+        "t": "p",
+        "text": "The {{8}} will be $320."
+       },
+       {
+        "t": "p",
+        "text": "She needs to pay the rent by cash or cheque on a {{9}} basis."
+       },
+       {
+        "t": "p",
+        "text": "She needs to pay her part of the {{10}} bill."
+       }
+      ]
+     }
+    ],
+    "transcript": "LYNDA: Sara, I've heard that you want to move into a homestay family. Is that correct?\nSARA: Yes, that's right. I've been staying with my aunt and now my cousin is arriving from Singapore and my aunt needs the room for him.\nLYNDA: Oh, that's bad luck. Well, I'll need to get some particulars first. Sara, what's your full name?\nSARA: Sara Lim, and that's Sara without the 'h' at the end.\nLYNDA: Mmm. How old are you, Sara?\nSARA: Twenty-three, only just. It was my birthday on the twenty-first of August.\nLYNDA: Happy birthday for yesterday. How long have you been in Australia?\nSARA: A year in Adelaide and six months in Sydney. I prefer Sydney, I've got more [Q1] friends here.\nLYNDA: What's your address at your aunt's house?\nSARA: Flat one, five three nine Forest Road, Canterbury. And the post code is two, [Q2] o, three, six.\nLYNDA: OK. What are you studying now?\nSARA: I was studying General English in Adelaide and now I'm doing Academic [Q3] English, because I'm trying to get into Medicine next year.\nLYNDA: That sounds good, but it'll take you a long time. When would you like to move out from your aunt's?\nSARA: My cousin arrives on Friday morning, so I'd better be out on Thursday. [Q4]\nLYNDA: What, the seventh of September?\nSARA: Yes, that's right.\nLYNDA: That doesn't leave us much time. Right, OK. I need to know what kind of accommodation you'd like, so I can get you something suitable.\nSARA: Can I share a room with someone else? I've been alone in my room at my aunt's [Q5] and I've always shared with my sister and I like that.\nLYNDA: Yes, fine. That'll save you money too. Would you like to live with a family or do you think that a single person would be better for you? I have lots of very nice [Q6] single people on my books.\nSARA: Do you have any women living alone, retired women?\nLYNDA: Yes, I have quite a few whose children have grown up and left home. In fact, I have some really lovely retired ladies, living by themselves, who just love the company of students. Most of them live in flats, but that's not a problem for you, [Q7] is it?\nSARA: Not at all. I'm used to that. My aunt lives in a flat too, remember. I'm not used to a big house with a garden, swimming pool, pets and all that.\nLYNDA: OK, fine. I know quite a bit about what you want now. I should let you know that your rent will be a hundred and sixty dollars per week. You'll have to pay me three hundred and twenty dollars as a deposit before you move in. The [Q8] deposit is as insurance, in case you break something. You'll need to pay monthly [Q9] to me, by cash or cheque, I don't mind. You don't need to pay for gas, electricity or water, but you will need to pay your proportion of the phone bill. Most [Q10] families do that on an honour system, but you'll have to wait and see.\nSARA: Mmm.\nLYNDA: Have you got any more questions for me?\nSARA: When will you know where I can go?\nLYNDA: I'll work on it now, so come and see me tomorrow and I should have some news for you then.\nSARA: Thanks a lot.\nLYNDA: Goodbye. See you tomorrow – after lunch would be better for me.\nSARA: OK, see you then. Bye."
+   },
+   {
+    "part": 2,
+    "range": [
+     11,
+     20
+    ],
+    "pages": [
+     59,
+     60
+    ],
+    "groups": [
+     {
+      "id": "L2-1",
+      "type": "choice",
+      "range": [
+       11,
+       14
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B** or **C**."
+      ],
+      "questions": [
+       {
+        "n": 11,
+        "text": "When is this year's festival being held?",
+        "options": [
+         {
+          "key": "A",
+          "text": "1–13 January"
+         },
+         {
+          "key": "B",
+          "text": "5–17 January"
+         },
+         {
+          "key": "C",
+          "text": "25–31 January"
+         }
+        ]
+       },
+       {
+        "n": 12,
+        "text": "What will the reviewer concentrate on today?",
+        "options": [
+         {
+          "key": "A",
+          "text": "theatre"
+         },
+         {
+          "key": "B",
+          "text": "dance"
+         },
+         {
+          "key": "C",
+          "text": "exhibitions"
+         }
+        ]
+       },
+       {
+        "n": 13,
+        "text": "How many circuses are there in the festival?",
+        "options": [
+         {
+          "key": "A",
+          "text": "one"
+         },
+         {
+          "key": "B",
+          "text": "two"
+         },
+         {
+          "key": "C",
+          "text": "several"
+         }
+        ]
+       },
+       {
+        "n": 14,
+        "text": "Where does Circus Romano perform?",
+        "options": [
+         {
+          "key": "A",
+          "text": "in a theatre"
+         },
+         {
+          "key": "B",
+          "text": "in a tent"
+         },
+         {
+          "key": "C",
+          "text": "in a stadium"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L2-2",
+      "type": "completion",
+      "range": [
+       15,
+       20
+      ],
+      "instructions": [
+       "Complete the notes below.",
+       "Write **NO MORE THAN THREE WORDS** for each answer."
+      ],
+      "content": [
+       {
+        "t": "table",
+        "header": 1,
+        "rows": [
+         [
+          "",
+          "Where",
+          "Type of performance",
+          "Highlights",
+          "Type of audience"
+         ],
+         [
+          "Circus Romano",
+          "",
+          "Clowns and acrobats",
+          "Music and {{15}}",
+          "{{16}}"
+         ],
+         [
+          "Circus Electrica",
+          "{{17}}",
+          "Dancers and magicians",
+          "Aerial displays",
+          "{{18}}"
+         ],
+         [
+          "Mekong Water Puppets",
+          "{{19}}",
+          "Puppets",
+          "Seeing the puppeteers at the end",
+          "{{20}}"
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    "transcript": "GEOFFREY: Good evening, and in this week's edition of 'Focus on the Arts', Jane Hemmington is going to fill us in on what's in store for us at this year's Summer Festival. Over to you, Jane.\nJANE: Thank you, Geoffrey. This year, the Summer Festival is the biggest we've ever seen, so there should be something for everybody. This is the third year they've run it and the timing's slightly different: for the last couple of years it's been around the fifth to seventeenth, but this year they wanted to allow everyone enough time to recover from the first of January celebrations and they've put it at the end of the month. [Q11] The programme has sensational theatre, dance and also a large number of art exhibitions, but the thing the Festival is most famous for is its great street music. For today's report though, Geoffrey, I'm looking at some of the theatrical events that you might like to see; in particular, at this year's [Q12] theme – circuses. I'm going to tell you about two circus performances, but there are plenty [Q13] of others in the programme. I've chosen these because they represent distinct movements within circus performance. The first is the Circus Romano from Italy. As this is a travelling circus, it follows a long tradition by performing in a marquee – which is really like a canvas portable building [Q14] usually put up in a green space or car park, rather than in a theatre or stadium. In spite of this, Circus Romano isn't at all like the traditional circuses I grew up with. There are no animals – just very talented clowning and acrobatic routines. The show has a lot of very funny moments, especially at the beginning, but the best part is the music and lighting. They're magical. At [Q15] forty-five dollars it's very expensive anyway – it's really for adult tastes. In [Q16] fact, much of it would be wasted on children – so I suggest you leave them at home. The second circus performance is Circus Electrica at the Studio Theatre. [Q17] The purists are suggesting that this isn't a circus at all. It's a showcase for skills in dance and magic, rather than the usual ones you expect in a circus. With only six performers it's a small production, which suits the venue well – the Studio only seats about two hundred people. For my money it's the aerial displays which are outstanding as well as the magical tricks – features which are missing from Circus Romano. An interesting feature of the show is that the performers are so young – the youngest is only fourteen. But it's still well worth seeing: a good one for the whole family. [Q18] And finally, as it's summer, you may wish to see some of the Festival performances that are being presented outdoors. Like the famous Mekong Water Puppet Troupe, performing in the City Gardens this week. Now, water [Q19] puppetry is amazing! It's large puppets on long sticks, controlled by puppeteers standing waist deep in the lake. The puppets do comedy routines and there is some terrific formation dancing. This is a fantastic show and the best moment comes at the end – seeing the puppeteers. When the troupe walks up out of the water, you get this amazing feeling. It's really hard to believe that what you've been watching is lifeless wood and cloth. As an adult, I had a great time, but I did note that other older people in the audience weren't quite as taken with it as I was. It's a must for young children though, [Q20] and that's the audience it's really aimed at. Well, that's all I've time for today, but I'll be back next week with more news of what's worth seeing and what it's best to miss."
+   },
+   {
+    "part": 3,
+    "range": [
+     21,
+     30
+    ],
+    "pages": [
+     61,
+     62
+    ],
+    "groups": [
+     {
+      "id": "L3-1",
+      "type": "choice",
+      "range": [
+       21,
+       25
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B** or **C**."
+      ],
+      "questions": [
+       {
+        "n": 21,
+        "text": "The man wants information on courses for",
+        "options": [
+         {
+          "key": "A",
+          "text": "people going back to college."
+         },
+         {
+          "key": "B",
+          "text": "postgraduate students."
+         },
+         {
+          "key": "C",
+          "text": "business executives."
+         }
+        ]
+       },
+       {
+        "n": 22,
+        "text": "The 'Study for Success' seminar lasts for",
+        "options": [
+         {
+          "key": "A",
+          "text": "one day."
+         },
+         {
+          "key": "B",
+          "text": "two days."
+         },
+         {
+          "key": "C",
+          "text": "three days."
+         }
+        ]
+       },
+       {
+        "n": 23,
+        "text": "In the seminar the work on writing aims to improve",
+        "options": [
+         {
+          "key": "A",
+          "text": "confidence."
+         },
+         {
+          "key": "B",
+          "text": "speed."
+         },
+         {
+          "key": "C",
+          "text": "clarity."
+         }
+        ]
+       },
+       {
+        "n": 24,
+        "text": "Reading sessions help students to read",
+        "options": [
+         {
+          "key": "A",
+          "text": "analytically."
+         },
+         {
+          "key": "B",
+          "text": "as fast as possible."
+         },
+         {
+          "key": "C",
+          "text": "thoroughly."
+         }
+        ]
+       },
+       {
+        "n": 25,
+        "text": "The seminar tries to",
+        "options": [
+         {
+          "key": "A",
+          "text": "prepare learners physically."
+         },
+         {
+          "key": "B",
+          "text": "encourage interest in learning."
+         },
+         {
+          "key": "C",
+          "text": "develop literacy skills."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L3-2",
+      "type": "choice",
+      "range": [
+       26,
+       30
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B** or **C**."
+      ],
+      "questions": [
+       {
+        "n": 26,
+        "text": "A key component of the course is learning how to",
+        "options": [
+         {
+          "key": "A",
+          "text": "use time effectively."
+         },
+         {
+          "key": "B",
+          "text": "stay healthy."
+         },
+         {
+          "key": "C",
+          "text": "select appropriate materials."
+         }
+        ]
+       },
+       {
+        "n": 27,
+        "text": "Students who want to do the 'Study for Success' seminar should",
+        "options": [
+         {
+          "key": "A",
+          "text": "register with the Faculty Office."
+         },
+         {
+          "key": "B",
+          "text": "contact their Course Convenor."
+         },
+         {
+          "key": "C",
+          "text": "reserve a place in advance."
+         }
+        ]
+       },
+       {
+        "n": 28,
+        "text": "The 'Learning Skills for University Study' course takes place on",
+        "options": [
+         {
+          "key": "A",
+          "text": "Monday, Wednesday and Friday."
+         },
+         {
+          "key": "B",
+          "text": "Monday, Tuesday and Wednesday."
+         },
+         {
+          "key": "C",
+          "text": "Monday, Thursday and Friday."
+         }
+        ]
+       },
+       {
+        "n": 29,
+        "text": "A feature of this course is",
+        "options": [
+         {
+          "key": "A",
+          "text": "a physical training component."
+         },
+         {
+          "key": "B",
+          "text": "advice on coping with stress."
+         },
+         {
+          "key": "C",
+          "text": "a detailed weekly planner."
+         }
+        ]
+       },
+       {
+        "n": 30,
+        "text": "The man chooses the 'Study for Success' seminar because",
+        "options": [
+         {
+          "key": "A",
+          "text": "he is over forty."
+         },
+         {
+          "key": "B",
+          "text": "he wants to start at the beginning."
+         },
+         {
+          "key": "C",
+          "text": "he seeks to revise his skills."
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "transcript": "OFFICER: Hello. Er, I'm Dawn Matthews.\nSTUDENT: Yes, hello. I've been referred to you because I'm enquiring about the refresher courses that you run. I'd like to find out a bit more about them.\nOFFICER: OK. Well, we run quite a few different short courses for students who are either returning to study or studying part-time. Um, tell me about your [Q21] situation.\nSTUDENT: Well, I think that I really need some help in preparing for the coming semester, especially to build up my confidence a bit and help me study effectively because, you see, I've been out in the work-force for nearly twelve years now, so it really is a long time since I was last a student.\nOFFICER: Yes, it can seem like a long time, can't it? Um, well, let me start by telling you what courses we have that might suit you. Are you an undergraduate or a postgraduate? Arts or Sciences?\nSTUDENT: Undergraduate, and I'm in the Business faculty.\nOFFICER: Right then. First of all, there's our intensive 'Study for Success' seminar on the first and second of February. It's aimed at students like you who are [Q22] uncertain about what to expect at college, and looks at a fairly wide range of approaches to university learning, to motivate you to begin your study and build on your own learning strategies.\nSTUDENT: Mm, that sounds good. What are some of the strategies that are presented?\nOFFICER: Well, we try to cover all aspects of study. Some of the strategies in writing, for example, would be improving your planning for writing, organising your thinking and building some techniques to help you write more clearly. With [Q23] reading, there'll be sessions aimed at getting into the habit of analysing [Q24] material as you read it, and tips to help you record and remember what you have read. It really is very important to begin reading confidently right from the beginning.\nSTUDENT: Mm.\nOFFICER: There's also advice on how to get the most from your lectures and practice in giving confident presentations, as well as how to prepare for exams.\nSTUDENT: What about the motivational side of things?\nOFFICER: Ah. Well, there's a range of motivational exercises that we do to help the students feel positive and enthusiastic about their study. The process of [Q25] learning and exploring a subject can lead to a whole new way of looking at the world, and the study skills and techniques that you build up can be applied in all sorts of different ways.\nSTUDENT: Actually, I... I'm very excited about the whole thing of taking up studying again but, you know, I'm a little nervous about whether I'll manage to get everything done. I suppose it's the same for all mature students?\nOFFICER: Of course it is. Two of the key components of the course are time management [Q26] and overcoming procrastination. People discover that, once they learn to plan their days, all the work can be accomplished and there'll still be time for leisure.\nSTUDENT: Is there an enrolment fee?\nOFFICER: Well, er, oh, just a minute, let's see ... Ah, the cost is thirty pounds, which includes all course materials and morning tea. You have to arrange your own lunch.\nSTUDENT: That wouldn't be a problem. I already make sandwiches for my three kids and my wife and myself every day. I won't have to change my routine.\nOFFICER: No. Now, I need to tell you that this is a very popular course and it's essential that you book well ahead of time. In fact, the Course Convenor tells me that [Q27] there are only five places left.\nSTUDENT: What other course might be good for me?\nOFFICER: There is one other that you could benefit from. It's simply called 'Learning Skills for University Study' and is on three consecutive mornings starting on [Q28] a Monday, from nine to twelve, and costs twenty-five pounds. This is aimed at upgrading the study skills most school-leavers have and help them cope with the increased demands of university study. It focuses mainly on making students more responsible for their own success.\nSTUDENT: What sort of things are covered in this course?\nOFFICER: Well, basically it's more advanced thinking, note-taking, reading and writing strategies, but also some input about stress management. [Q29]\nSTUDENT: I think I'd be better off starting from the basics and looking at all the [Q30] strategies, don't you?\nOFFICER: Yes, from what you've told me, I think that's more in line with your situation.\nSTUDENT: Alright then, um, can I book a place on the 'Study for Success' seminar course now?\nOFFICER: Yes. Let me just get out a registration form and take down your details."
+   },
+   {
+    "part": 4,
+    "range": [
+     31,
+     40
+    ],
+    "pages": [
+     63,
+     64
+    ],
+    "groups": [
+     {
+      "id": "L4-1",
+      "type": "completion",
+      "range": [
+       31,
+       32
+      ],
+      "instructions": [
+       "Complete the notes below.",
+       "Write **NO MORE THAN TWO WORDS AND/OR A NUMBER** for each answer."
+      ],
+      "content": [
+       {
+        "t": "h",
+        "text": "New Union Building"
+       },
+       {
+        "t": "sub",
+        "text": "Procedures to establish student opinion:"
+       },
+       {
+        "t": "li",
+        "text": "students were asked to give written suggestions on the building's design"
+       },
+       {
+        "t": "li",
+        "text": "these points informed the design of a {{31}}"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "(there were {{32}} respondents)"
+       },
+       {
+        "t": "li",
+        "text": "results collated and report produced by Union Committee"
+       }
+      ]
+     },
+     {
+      "id": "L4-2",
+      "type": "completion",
+      "range": [
+       33,
+       37
+      ],
+      "instructions": [
+       "Complete the table below.",
+       "Write **NO MORE THAN THREE WORDS** for each answer."
+      ],
+      "content": [
+       {
+        "t": "table",
+        "header": 2,
+        "rows": [
+         [
+          "",
+          "CHOICE OF SITE",
+          "",
+          ""
+         ],
+         [
+          "",
+          "Site One",
+          "Site Two",
+          "Site Three"
+         ],
+         [
+          "Location",
+          "City centre near Faculty of {{33}}",
+          "Outskirts near park",
+          "Out of town near the {{34}}"
+         ],
+         [
+          "Advantages and/or disadvantages",
+          "Problems with {{35}}",
+          "Close to {{36}}",
+          "Access to living quarters. Larger site, so more {{37}}"
+         ]
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L4-3",
+      "type": "completion",
+      "range": [
+       38,
+       38
+      ],
+      "instructions": [
+       "Choose **TWO** letters **A–G**."
+      ],
+      "content": [
+       {
+        "t": "p",
+        "text": "Which **TWO** facilities did the students request in the new Union building? {{38}}"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "**A** a library"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "**B** a games room"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "**C** a student health centre"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "**D** a mini fitness centre"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "**E** a large swimming pool"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "**F** a travel agency"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "**G** a lecture theatre"
+       }
+      ]
+     },
+     {
+      "id": "L4-4",
+      "type": "choice",
+      "range": [
+       39,
+       39
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B** or **C**."
+      ],
+      "questions": [
+       {
+        "n": 39,
+        "text": "Which argument was used **AGAINST** having a drama theatre?",
+        "options": [
+         {
+          "key": "A",
+          "text": "It would be expensive and no students would use it."
+         },
+         {
+          "key": "B",
+          "text": "It would be a poor use of resources because only a minority would use it."
+         },
+         {
+          "key": "C",
+          "text": "It could not accommodate large productions of plays."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "L4-5",
+      "type": "completion",
+      "range": [
+       40,
+       40
+      ],
+      "instructions": [
+       "Choose **TWO** letters **A–E**."
+      ],
+      "content": [
+       {
+        "t": "p",
+        "text": "Which **TWO** security measures have been requested? {{40}}"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "**A** closed-circuit TV"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "**B** show Union Card on entering the building"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "**C** show Union Card when asked"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "**D** spot searches of bags"
+       },
+       {
+        "t": "p",
+        "level": 2,
+        "text": "**E** permanent Security Office on site"
+       }
+      ]
+     }
+    ],
+    "transcript": "We're very grateful that the Committee has agreed that a representative for the Students' Union can present students' suggestions about the design for the proposed new Union building. We appreciate that some of our ideas may not be feasible in the circumstances, but we do feel that it is important that the ultimate beneficiaries of the facilities should have some say in its design.\nIf I could start by briefly explaining what steps were taken to find out student opinion and how we have arrived at conclusions. Firstly, a meeting was held in the current Union for our SU Committee to explain the options. Then we invited all students to submit written suggestions for the design, placing cards in a suggestion box. These suggestions then provided the basis for the design of a questionnaire, which was completed by approximately [Q31] [Q32] two thousand of the College students over a period of three weeks. Finally, the SU Committee collated the results and drew up a report. If I can just hand around a copy of that report. This presentation is essentially a summary and discussion of the key points of this report.\nSo, in broad terms, the consensus was as follows. Firstly, regarding the crucial matter of the site, we presented the three options that you have proposed. One: in the city centre, near the Faculty of Education; two: on the outskirts of the city, near the park, and three: out of [Q33] town, near the halls of residence. We asked students to cite reasons for and against these [Q34] sites and, and there was remarkable agreement on all three. Site One was unpopular because of traffic and parking problems. Site Two had a number of supporters, mainly [Q35] because it was close to most lecture rooms. And Site Three, out of town, near the halls of [Q36] residence, was clearly the most popular because of access from living quarters. It was clear that the Union was mainly to be used after lectures. It was also felt that the larger site would allow more room for a choice of facilities. [Q37]\nOur second area of interest was obviously the facilities: there was minimal interest in having a library on the premises, but one option seemed to be a reading room instead – more useful. We would like the current table games room to be replaced with a small gym. [Q38] And, if possible, a small swimming pool – not, of course, Olympic-sized! There was a large number of respondents in favour of a travel agent's and insurance centre. We also request that there be the offices of the Student Counselling Centre, moving this from the Refectory. There was, however, much disagreement about whether to build a drama theatre. Just over forty per cent of the respondents were in favour, but a largish minority were strongly against it, claiming that it is elitist and a waste of funds. Essentially the jury is out on that. [Q39]\nFinally, given the number of unfortunate incidents in the current Union over the past few months, a strong point was repeatedly made about security. The recommendations would be at least video surveillance and security personnel who would check Student Union cards on [Q40] request. We doubt if it would be feasible to have a check at reception of all people coming in.\nWell, this is the summary of the views of the student population. As I say, fuller details are given in our report but I'm happy to take any questions if you have them... (fade out)"
+   }
+  ],
+  "answers": {
+   "1": {
+    "a": [
+     "1½ years",
+     "1.5 years",
+     "one and a half years"
+    ],
+    "k": "1½ years"
+   },
+   "2": {
+    "a": [
+     "Forest",
+     "Forrest"
+    ],
+    "k": "Forest / Forrest"
+   },
+   "3": {
+    "a": [
+     "Academic"
+    ]
+   },
+   "4": {
+    "a": [
+     "Thursday"
+    ]
+   },
+   "5": {
+    "a": [
+     "B"
+    ]
+   },
+   "6": {
+    "a": [
+     "B"
+    ]
+   },
+   "7": {
+    "a": [
+     "A"
+    ]
+   },
+   "8": {
+    "a": [
+     "deposit"
+    ]
+   },
+   "9": {
+    "a": [
+     "monthly"
+    ]
+   },
+   "10": {
+    "a": [
+     "telephone",
+     "phone"
+    ],
+    "k": "telephone / phone"
+   },
+   "11": {
+    "a": [
+     "C"
+    ]
+   },
+   "12": {
+    "a": [
+     "A"
+    ]
+   },
+   "13": {
+    "a": [
+     "C"
+    ]
+   },
+   "14": {
+    "a": [
+     "B"
+    ]
+   },
+   "15": {
+    "a": [
+     "lighting",
+     "lights",
+     "light"
+    ],
+    "k": "lighting / lights / light"
+   },
+   "16": {
+    "a": [
+     "adult",
+     "adults"
+    ],
+    "k": "adult / adults"
+   },
+   "17": {
+    "a": [
+     "Studio Theatre",
+     "at Studio Theatre",
+     "the Studio Theatre",
+     "at the Studio Theatre",
+     "Studio Theater",
+     "at Studio Theater",
+     "the Studio Theater",
+     "at the Studio Theater"
+    ],
+    "k": "(at) Studio Theatre / (the) Studio Theatre / (at) Studio Theater / (the) Studio Theater"
+   },
+   "18": {
+    "a": [
+     "the whole family",
+     "all the family",
+     "families"
+    ],
+    "k": "the whole family / all the family / families"
+   },
+   "19": {
+    "a": [
+     "City Gardens",
+     "in City Gardens",
+     "the City Gardens",
+     "in the City Gardens",
+     "outdoors"
+    ],
+    "k": "(in) City Gardens / the City Gardens / outdoors"
+   },
+   "20": {
+    "a": [
+     "young children",
+     "younger children",
+     "children"
+    ],
+    "k": "young children / younger children / children"
+   },
+   "21": {
+    "a": [
+     "A"
+    ]
+   },
+   "22": {
+    "a": [
+     "B"
+    ]
+   },
+   "23": {
+    "a": [
+     "C"
+    ]
+   },
+   "24": {
+    "a": [
+     "A"
+    ]
+   },
+   "25": {
+    "a": [
+     "B"
+    ]
+   },
+   "26": {
+    "a": [
+     "A"
+    ]
+   },
+   "27": {
+    "a": [
+     "C"
+    ]
+   },
+   "28": {
+    "a": [
+     "B"
+    ]
+   },
+   "29": {
+    "a": [
+     "B"
+    ]
+   },
+   "30": {
+    "a": [
+     "B"
+    ]
+   },
+   "31": {
+    "a": [
+     "questionnaire"
+    ]
+   },
+   "32": {
+    "a": [
+     "approximately 2,000",
+     "about 2,000",
+     "approximately 2000",
+     "about 2000"
+    ],
+    "k": "approximately 2,000 / about 2,000"
+   },
+   "33": {
+    "a": [
+     "Education"
+    ]
+   },
+   "34": {
+    "a": [
+     "halls of residence",
+     "living quarters"
+    ],
+    "k": "halls of residence / living quarters"
+   },
+   "35": {
+    "a": [
+     "traffic and parking",
+     "parking and traffic",
+     "traffic parking",
+     "parking traffic"
+    ],
+    "k": "IN EITHER ORDER, BOTH REQUIRED FOR ONE MARK traffic parking"
+   },
+   "36": {
+    "a": [
+     "most lecture rooms",
+     "lecture rooms",
+     "lecture halls",
+     "lecture theatres",
+     "lecture theaters"
+    ],
+    "k": "(most) lecture rooms / lecture halls / lecture theatres / lecture theaters"
+   },
+   "37": {
+    "a": [
+     "choice of facilities",
+     "facilities",
+     "room for facilities"
+    ],
+    "k": "(choice of) facilities / (room for) facilities"
+   },
+   "38": {
+    "a": [
+     "D F",
+     "F D",
+     "D, F",
+     "F, D",
+     "D,F",
+     "F,D",
+     "DF",
+     "FD",
+     "D and F",
+     "F and D"
+    ],
+    "k": "IN EITHER ORDER, BOTH REQUIRED FOR ONE MARK D F"
+   },
+   "39": {
+    "a": [
+     "B"
+    ]
+   },
+   "40": {
+    "a": [
+     "A C",
+     "C A",
+     "A, C",
+     "C, A",
+     "A,C",
+     "C,A",
+     "AC",
+     "CA",
+     "A and C",
+     "C and A"
+    ],
+    "k": "IN EITHER ORDER, BOTH REQUIRED FOR ONE MARK A C"
+   }
+  }
+ },
+ "reading": {
+  "passages": [
+   {
+    "passage": 1,
+    "range": [
+     1,
+     13
+    ],
+    "pages": [
+     65,
+     66,
+     67,
+     68,
+     69
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 1–13** which are based on Reading Passage 1 below.",
+    "title": "Micro-Enterprise Credit for Street Youth",
+    "subtitle": null,
+    "paragraphs": [
+     {
+      "text": "*'I am from a large, poor family and for many years we have done without breakfast. Ever since I joined the Street Kids International program I have been able to buy my family sugar and buns for breakfast. I have also bought myself decent second-hand clothes and shoes.'*"
+     },
+     {
+      "text": "Doreen Soko"
+     },
+     {
+      "text": "*'We've had business experience. Now I'm confident to expand what we've been doing. I've learnt cash management, and the way of keeping money so we save for re-investment. Now business is a part of our lives. As well, we didn't know each other before – now we've made new friends.'*"
+     },
+     {
+      "text": "Fan Kaoma"
+     },
+     {
+      "text": "**Participants in the Youth Skills Enterprise Initiative Program, Zambia**"
+     },
+     {
+      "kind": "heading",
+      "text": "Introduction"
+     },
+     {
+      "text": "Although small-scale business training and credit programs have become more common throughout the world, relatively little attention has been paid to the need to direct such opportunities to young people. Even less attention has been paid to children living on the streets or in difficult circumstances."
+     },
+     {
+      "text": "Over the past nine years, Street Kids International (S.K.I.) has been working with partner organisations in Africa, Latin America and India to support the economic lives of street children. The purpose of this paper is to share some of the lessons S.K.I. and our partners have learned."
+     },
+     {
+      "kind": "heading",
+      "text": "Background"
+     },
+     {
+      "text": "Typically, children do not end up on the streets due to a single cause, but to a combination of factors: a dearth of adequately funded schools, the demand for income at home, family breakdown and violence. The street may be attractive to children as a place to find adventurous play and money. However, it is also a place where some children are exposed, with little or no protection, to exploitative employment, urban crime, and abuse."
+     },
+     {
+      "text": "Children who work on the streets are generally involved in unskilled, labour-intensive tasks which require long hours, such as shining shoes, carrying goods, guarding or washing cars, and informal trading. Some may also earn income through begging, or through theft and other illegal activities. At the same time, there are street children who take pride in supporting themselves and their families and who often enjoy their work. Many children may choose entrepreneurship because it allows them a degree of independence, is less exploitative than many forms of paid employment, and is flexible enough to allow them to participate in other activities such as education and domestic tasks."
+     },
+     {
+      "kind": "heading",
+      "text": "Street Business Partnerships"
+     },
+     {
+      "text": "S.K.I. has worked with partner organisations in Latin America, Africa and India to develop innovative opportunities for street children to earn income."
+     },
+     {
+      "text": "• The S.K.I. Bicycle Courier Service first started in the Sudan. Participants in this enterprise were supplied with bicycles, which they used to deliver parcels and messages, and which they were required to pay for gradually from their wages. A similar program was taken up in Bangalore, India."
+     },
+     {
+      "text": "• Another successful project, the Shoe Shine Collective, was a partnership program with the Y.W.C.A. in the Dominican Republic. In this project, participants were lent money to purchase shoe shine boxes. They were also given a safe place to store their equipment, and facilities for individual savings plans."
+     },
+     {
+      "text": "• The Youth Skills Enterprise Initiative in Zambia is a joint program with the Red Cross Society and the Y.W.C.A. Street youths are supported to start their own small business through business training, life skills training and access to credit."
+     },
+     {
+      "kind": "heading",
+      "text": "Lessons Learned"
+     },
+     {
+      "text": "The following lessons have emerged from the programs that S.K.I. and partner organisations have created."
+     },
+     {
+      "text": "• Being an entrepreneur is not for everyone, nor for every street child. Ideally, potential participants will have been involved in the organisation's programs for at least six months, and trust and relationship-building will have already been established."
+     },
+     {
+      "text": "• The involvement of the participants has been essential to the development of relevant programs. When children have had a major role in determining procedures, they are more likely to abide by and enforce them."
+     },
+     {
+      "text": "• It is critical for all loans to be linked to training programs that include the development of basic business and life skills."
+     },
+     {
+      "text": "• There are tremendous advantages to involving parents or guardians in the program, where such relationships exist. Home visits allow staff the opportunity to know where the participants live, and to understand more about each individual's situation."
+     },
+     {
+      "text": "• Small loans are provided initially for purchasing fixed assets such as bicycles, shoe shine kits and basic building materials for a market stall. As the entrepreneurs gain experience, the enterprises can be gradually expanded and consideration can be given to increasing loan amounts. The loan amounts in S.K.I. programs have generally ranged from US$30–$100."
+     },
+     {
+      "text": "• All S.K.I. programs have charged interest on the loans, primarily to get the entrepreneurs used to the concept of paying interest on borrowed money. Generally the rates have been modest (lower than bank rates)."
+     },
+     {
+      "kind": "heading",
+      "text": "Conclusion"
+     },
+     {
+      "text": "There is a need to recognise the importance of access to credit for impoverished young people seeking to fulfil economic needs. The provision of small loans to support the entrepreneurial dreams and ambitions of youth can be an effective means to help them change their lives. However, we believe that credit must be extended in association with other types of support that help participants develop critical life skills as well as productive businesses."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R1-1",
+      "type": "choice",
+      "range": [
+       1,
+       4
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B**, **C** or **D**.",
+       "Write your answers in boxes 1–4 on your answer sheet."
+      ],
+      "questions": [
+       {
+        "n": 1,
+        "text": "The quotations in the box at the beginning of the article",
+        "options": [
+         {
+          "key": "A",
+          "text": "exemplify the effects of S.K.I."
+         },
+         {
+          "key": "B",
+          "text": "explain why S.K.I. was set up."
+         },
+         {
+          "key": "C",
+          "text": "outline the problems of street children."
+         },
+         {
+          "key": "D",
+          "text": "highlight the benefits to society of S.K.I."
+         }
+        ]
+       },
+       {
+        "n": 2,
+        "text": "The main purpose of S.K.I. is to",
+        "options": [
+         {
+          "key": "A",
+          "text": "draw the attention of governments to the problem of street children."
+         },
+         {
+          "key": "B",
+          "text": "provide schools and social support for street children."
+         },
+         {
+          "key": "C",
+          "text": "encourage the public to give money to street children."
+         },
+         {
+          "key": "D",
+          "text": "give business training and loans to street children."
+         }
+        ]
+       },
+       {
+        "n": 3,
+        "text": "Which of the following is mentioned by the writer as a reason why children end up living on the streets?",
+        "options": [
+         {
+          "key": "A",
+          "text": "unemployment"
+         },
+         {
+          "key": "B",
+          "text": "war"
+         },
+         {
+          "key": "C",
+          "text": "poverty"
+         },
+         {
+          "key": "D",
+          "text": "crime"
+         }
+        ]
+       },
+       {
+        "n": 4,
+        "text": "In order to become more independent, street children may",
+        "options": [
+         {
+          "key": "A",
+          "text": "reject paid employment."
+         },
+         {
+          "key": "B",
+          "text": "leave their families."
+         },
+         {
+          "key": "C",
+          "text": "set up their own businesses."
+         },
+         {
+          "key": "D",
+          "text": "employ other children."
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "id": "R1-2",
+      "type": "completion",
+      "range": [
+       5,
+       8
+      ],
+      "instructions": [
+       "Complete the table below.",
+       "Choose **NO MORE THAN THREE WORDS** from Reading Passage 1 for each answer.",
+       "Write your answers in boxes 5–8 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "table",
+        "header": 1,
+        "rows": [
+         [
+          "*Country*",
+          "*Organisations Involved*",
+          "*Type of Project*",
+          "*Support Provided*"
+         ],
+         [
+          "{{5}}",
+          "• S.K.I.",
+          "courier service",
+          "• provision of {{6}}"
+         ],
+         [
+          "Dominican Republic",
+          "• S.K.I.\n• Y.W.C.A.",
+          "{{7}}",
+          "• loans\n• storage facilities\n• savings plans"
+         ],
+         [
+          "Zambia",
+          "• S.K.I.\n• The Red Cross\n• Y.W.C.A.",
+          "setting up small businesses",
+          "• business training\n• {{8}} training\n• access to credit"
+         ]
+        ]
+       }
+      ]
+     },
+     {
+      "id": "R1-3",
+      "type": "ynng",
+      "range": [
+       9,
+       12
+      ],
+      "instructions": [
+       "Do the following statements agree with the claims of the writer in Reading Passage 1?",
+       "In boxes 9–12 on your answer sheet write",
+       "**YES** if the statement agrees with the claims of the writer",
+       "**NO** if the statement contradicts the claims of the writer",
+       "**NOT GIVEN** if it is impossible to say what the writer thinks about this"
+      ],
+      "questions": [
+       {
+        "n": 9,
+        "text": "Any street child can set up their own small business if given enough support."
+       },
+       {
+        "n": 10,
+        "text": "In some cases, the families of street children may need financial support from S.K.I."
+       },
+       {
+        "n": 11,
+        "text": "Only one fixed loan should be given to each child."
+       },
+       {
+        "n": 12,
+        "text": "The children have to pay back slightly more money than they borrowed."
+       }
+      ]
+     },
+     {
+      "id": "R1-4",
+      "type": "choice",
+      "range": [
+       13,
+       13
+      ],
+      "instructions": [
+       "Choose the correct letter, **A**, **B**, **C** or **D**.",
+       "Write your answer in box 13 on your answer sheet."
+      ],
+      "questions": [
+       {
+        "n": 13,
+        "text": "The writers conclude that money should only be lent to street children",
+        "options": [
+         {
+          "key": "A",
+          "text": "as part of a wider program of aid."
+         },
+         {
+          "key": "B",
+          "text": "for programs that are not too ambitious."
+         },
+         {
+          "key": "C",
+          "text": "when programs are supported by local businesses."
+         },
+         {
+          "key": "D",
+          "text": "if the projects planned are realistic and useful."
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "passage": 2,
+    "range": [
+     14,
+     26
+    ],
+    "pages": [
+     70,
+     71,
+     72,
+     73
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 14–26** which are based on Reading Passage 2 on the following pages.",
+    "title": "Volcanoes – earth-shattering news",
+    "subtitle": "*When Mount Pinatubo suddenly erupted on 9 June 1991, the power of volcanoes past and present again hit the headlines*",
+    "paragraphs": [
+     {
+      "label": "A",
+      "text": "Volcanoes are the ultimate earth-moving machinery. A violent eruption can blow the top few kilometres off a mountain, scatter fine ash practically all over the globe and hurl rock fragments into the stratosphere to darken the skies a continent away."
+     },
+     {
+      "text": "But the classic eruption – cone-shaped mountain, big bang, mushroom cloud and surges of molten lava – is only a tiny part of a global story. Vulcanism, the name given to volcanic processes, really has shaped the world. Eruptions have rifted continents, raised mountain chains, constructed islands and shaped the topography of the earth. The entire ocean floor has a basement of volcanic basalt."
+     },
+     {
+      "text": "Volcanoes have not only made the continents, they are also thought to have made the world's first stable atmosphere and provided all the water for the oceans, rivers and ice caps. There are now about 600 active volcanoes. Every year they add two or three cubic kilometres of rock to the continents. Imagine a similar number of volcanoes smoking away for the last 3,500 million years. That is enough rock to explain the continental crust."
+     },
+     {
+      "text": "What comes out of volcanic craters is mostly gas. More than 90% of this gas is water vapour from the deep earth: enough to explain, over 3,500 million years, the water in the oceans. The rest of the gas is nitrogen, carbon dioxide, sulphur dioxide, methane, ammonia and hydrogen. The quantity of these gases, again multiplied over 3,500 million years, is enough to explain the mass of the world's atmosphere. We are alive because volcanoes provided the soil, air and water we need."
+     },
+     {
+      "label": "B",
+      "text": "Geologists consider the earth as having a molten core, surrounded by a semi-molten mantle and a brittle, outer skin. It helps to think of a soft-boiled egg with a runny yolk, a firm but squishy white and a hard shell. If the shell is even slightly cracked during boiling, the white material bubbles out and sets like a tiny mountain chain over the crack – like an archipelago of volcanic islands such as the Hawaiian Islands. But the earth is so much bigger and the mantle below is so much hotter."
+     },
+     {
+      "text": "Even though the mantle rocks are kept solid by overlying pressure, they can still slowly 'flow' like thick treacle. The flow, thought to be in the form of convection currents, is powerful enough to fracture the 'eggshell' of the crust into plates, and keep them bumping and grinding against each other, or even overlapping, at the rate of a few centimetres a year. These fracture zones, where the collisions occur, are where earthquakes happen. And, very often, volcanoes."
+     },
+     {
+      "label": "C",
+      "text": "These zones are lines of weakness, or hot spots. Every eruption is different, but put at its simplest, where there are weaknesses, rocks deep in the mantle, heated to 1,350°C, will start to expand and rise. As they do so, the pressure drops, and they expand and become liquid and rise more swiftly."
+     },
+     {
+      "text": "Sometimes it is slow: vast bubbles of magma – molten rock from the mantle – inch towards the surface, cooling slowly, to show through as granite extrusions (as on Skye, or the Great Whin Sill, the lava dyke squeezed out like toothpaste that carries part of Hadrian's Wall in northern England). Sometimes – as in Northern Ireland, Wales and the Karoo in South Africa – the magma rose faster, and then flowed out horizontally on to the surface in vast thick sheets. In the Deccan plateau in western India, there are more than two million cubic kilometres of lava, some of it 2,400 metres thick, formed over 500,000 years of slurping eruption."
+     },
+     {
+      "text": "Sometimes the magma moves very swiftly indeed. It does not have time to cool as it surges upwards. The gases trapped inside the boiling rock expand suddenly, the lava glows with heat, it begins to froth, and it explodes with tremendous force. Then the slightly cooler lava following it begins to flow over the lip of the crater. It happens on Mars, it happened on the moon, it even happens on some of the moons of Jupiter and Uranus. By studying the evidence, vulcanologists can read the force of the great blasts of the past. Is the pumice light and full of holes? The explosion was tremendous. Are the rocks heavy, with huge crystalline basalt shapes, like the Giant's Causeway in Northern Ireland? It was a slow, gentle eruption."
+     },
+     {
+      "text": "The biggest eruptions are deep on the mid-ocean floor, where new lava is forcing the continents apart and widening the Atlantic by perhaps five centimetres a year. Look at maps of volcanoes, earthquakes and island chains like the Philippines and Japan, and you can see the rough outlines of what are called tectonic plates – the plates which make up the earth's crust and mantle. The most dramatic of these is the Pacific 'ring of fire' where there have been the most violent explosions – Mount Pinatubo near Manila, Mount St Helen's in the Rockies and El Chichón in Mexico about a decade ago, not to mention world-shaking blasts like Krakatoa in the Sunda Straits in 1883."
+     },
+     {
+      "label": "D",
+      "text": "But volcanoes are not very predictable. That is because geological time is not like human time. During quiet periods, volcanoes cap themselves with their own lava by forming a powerful cone from the molten rocks slopping over the rim of the crater; later the lava cools slowly into a huge, hard, stable plug which blocks any further eruption until the pressure below becomes irresistible. In the case of Mount Pinatubo, this took 600 years."
+     },
+     {
+      "text": "Then, sometimes, with only a small warning, the mountain blows its top. It did this at Mont Pelée in Martinique at 7.49 a.m. on 8 May, 1902. Of a town of 28,000, only two people survived. In 1815, a sudden blast removed the top 1,280 metres of Mount Tambora in Indonesia. The eruption was so fierce that dust thrown into the stratosphere darkened the skies, cancelling the following summer in Europe and North America. Thousands starved as the harvests failed, after snow in June and frosts in August. Volcanoes are potentially world news, especially the quiet ones."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R2-1",
+      "type": "matching",
+      "range": [
+       14,
+       17
+      ],
+      "instructions": [
+       "Reading Passage 2 has four sections **A–D**.",
+       "Choose the correct heading for each section from the list of headings below.",
+       "Write the correct number **i–vi** in boxes 14–17 on your answer sheet."
+      ],
+      "optionsTitle": "List of Headings",
+      "options": [
+       {
+        "key": "i",
+        "text": "Causes of volcanic eruption"
+       },
+       {
+        "key": "ii",
+        "text": "Efforts to predict volcanic eruption"
+       },
+       {
+        "key": "iii",
+        "text": "Volcanoes and the features of our planet"
+       },
+       {
+        "key": "iv",
+        "text": "Different types of volcanic eruption"
+       },
+       {
+        "key": "v",
+        "text": "International relief efforts"
+       },
+       {
+        "key": "vi",
+        "text": "The unpredictability of volcanic eruptions"
+       }
+      ],
+      "questions": [
+       {
+        "n": 14,
+        "text": "Section A"
+       },
+       {
+        "n": 15,
+        "text": "Section B"
+       },
+       {
+        "n": 16,
+        "text": "Section C"
+       },
+       {
+        "n": 17,
+        "text": "Section D"
+       }
+      ]
+     },
+     {
+      "id": "R2-2",
+      "type": "completion",
+      "range": [
+       18,
+       21
+      ],
+      "instructions": [
+       "Answer the questions below using **NO MORE THAN THREE WORDS AND/OR A NUMBER** from the passage for each answer.",
+       "Write your answers in boxes 18–21 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "p",
+        "text": "What are the sections of the earth's crust, often associated with volcanic activity, called? {{18}}"
+       },
+       {
+        "t": "p",
+        "text": "What is the name given to molten rock from the mantle? {{19}}"
+       },
+       {
+        "t": "p",
+        "text": "What is the earthquake zone on the Pacific Ocean called? {{20}}"
+       },
+       {
+        "t": "p",
+        "text": "For how many years did Mount Pinatubo remain inactive? {{21}}"
+       }
+      ]
+     },
+     {
+      "id": "R2-3",
+      "type": "completion",
+      "range": [
+       22,
+       26
+      ],
+      "instructions": [
+       "Complete the summary below.",
+       "Choose **NO MORE THAN TWO WORDS** from the passage for each answer.",
+       "Write your answers in boxes 22–26 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "p",
+        "text": "Volcanic eruptions have shaped the earth's land surface. They may also have produced the world's atmosphere and {{22}} . Eruptions occur when molten rocks from the earth's mantle rise and expand. When they become liquid, they move more quickly through cracks in the surface. There are different types of eruption. Sometimes the {{23}} moves slowly and forms outcrops of granite on the earth's surface. When it moves more quickly it may flow out in thick horizontal sheets. Examples of this type of eruption can be found in Northern Ireland, Wales, South Africa and {{24}} . A third type of eruption occurs when the lava emerges very quickly and {{25}} violently. This happens because the magma moves so suddenly that {{26}} are emitted."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "passage": 3,
+    "range": [
+     27,
+     40
+    ],
+    "pages": [
+     74,
+     75,
+     76,
+     77
+    ],
+    "intro": "You should spend about 20 minutes on **Questions 27–40** which are based on Reading Passage 3 below.",
+    "title": "Obtaining Linguistic Data",
+    "subtitle": null,
+    "paragraphs": [
+     {
+      "label": "A",
+      "text": "Many procedures are available for obtaining data about a language. They range from a carefully planned, intensive field investigation in a foreign country to a casual introspection about one's mother tongue carried out in an armchair at home."
+     },
+     {
+      "label": "B",
+      "text": "In all cases, someone has to act as a source of language data – an informant. Informants are (ideally) native speakers of a language, who provide utterances for analysis and other kinds of information about the language (e.g. translations, comments about correctness, or judgements on usage). Often, when studying their mother tongue, linguists act as their own informants, judging the ambiguity, acceptability, or other properties of utterances against their own intuitions. The convenience of this approach makes it widely used, and it is considered the norm in the generative approach to linguistics. But a linguist's personal judgements are often uncertain, or disagree with the judgements of other linguists, at which point recourse is needed to more objective methods of enquiry, using non-linguists as informants. The latter procedure is unavoidable when working on foreign languages, or child speech."
+     },
+     {
+      "label": "C",
+      "text": "Many factors must be considered when selecting informants – whether one is working with single speakers (a common situation when languages have not been described before), two people interacting, small groups or large-scale samples. Age, sex, social background and other aspects of identity are important, as these factors are known to influence the kind of language used. The topic of conversation and the characteristics of the social setting (e.g. the level of formality) are also highly relevant, as are the personal qualities of the informants (e.g. their fluency and consistency). For larger studies, scrupulous attention has been paid to the sampling theory employed, and in all cases, decisions have to be made about the best investigative techniques to use."
+     },
+     {
+      "label": "D",
+      "text": "Today, researchers often tape-record informants. This enables the linguist's claims about the language to be checked, and provides a way of making those claims more accurate ('difficult' pieces of speech can be listened to repeatedly). But obtaining naturalistic, good-quality data is never easy. People talk abnormally when they know they are being recorded, and sound quality can be poor. A variety of tape-recording procedures have thus been devised to minimise the 'observer's paradox' (how to observe the way people behave when they are not being observed). Some recordings are made without the speakers being aware of the fact – a procedure that obtains very natural data, though ethical objections must be anticipated. Alternatively, attempts can be made to make the speaker forget about the recording, such as keeping the tape recorder out of sight, or using radio microphones. A useful technique is to introduce a topic that quickly involves the speaker, and stimulates a natural language style (e.g. asking older informants about how times have changed in their locality)."
+     },
+     {
+      "label": "E",
+      "text": "An audio tape recording does not solve all the linguist's problems, however. Speech is often unclear and ambiguous. Where possible, therefore, the recording has to be supplemented by the observer's written comments on the non-verbal behaviour of the participants, and about the context in general. A facial expression, for example, can dramatically alter the meaning of what is said. Video recordings avoid these problems to a large extent, but even they have limitations (the camera cannot be everywhere), and transcriptions always benefit from any additional commentary provided by an observer."
+     },
+     {
+      "label": "F",
+      "text": "Linguists also make great use of structured sessions, in which they systematically ask their informants for utterances that describe certain actions, objects or behaviour. With a bilingual informant, or through use of an interpreter, it is possible to use translation techniques ('How do you say *table* in your language?'). A large number of points can be covered in a short time, using interview worksheets and questionnaires. Often, the researcher wishes to obtain information about just a single variable, in which case a restricted set of questions may be used: a particular feature of pronunciation, for example, can be elicited by asking the informant to say a restricted set of words. There are also several direct methods of elicitation, such as asking informants to fill in the blanks in a substitution frame (e.g. *I* ___ *see a car*), or feeding them the wrong stimulus for correction ('Is it possible to say *I no can see*?')."
+     },
+     {
+      "label": "G",
+      "text": "A representative sample of language, compiled for the purpose of linguistic analysis, is known as a corpus. A corpus enables the linguist to make unbiased statements about frequency of usage, and it provides accessible data for the use of different researchers. Its range and size are variable. Some corpora attempt to cover the language as a whole, taking extracts from many kinds of text; others are extremely selective, providing a collection of material that deals only with a particular linguistic feature. The size of the corpus depends on practical factors, such as the time available to collect, process and store the data: it can take up to several hours to provide an accurate transcription of a few minutes of speech. Sometimes a small sample of data will be enough to decide a linguistic hypothesis; by contrast, corpora in major research projects can total millions of words. An important principle is that all corpora, whatever their size, are inevitably limited in their coverage, and always need to be supplemented by data derived from the intuitions of native speakers of the language, through either introspection or experimentation."
+     }
+    ],
+    "groups": [
+     {
+      "id": "R3-1",
+      "type": "matching",
+      "range": [
+       27,
+       31
+      ],
+      "instructions": [
+       "Reading Passage 3 has seven paragraphs labelled **A–G**.",
+       "Which paragraph contains the following information?",
+       "Write the correct letter **A–G** in boxes 27–31 on your answer sheet.",
+       "**NB** You may use any letter more than once."
+      ],
+      "options": [
+       {
+        "key": "A",
+        "text": ""
+       },
+       {
+        "key": "B",
+        "text": ""
+       },
+       {
+        "key": "C",
+        "text": ""
+       },
+       {
+        "key": "D",
+        "text": ""
+       },
+       {
+        "key": "E",
+        "text": ""
+       },
+       {
+        "key": "F",
+        "text": ""
+       },
+       {
+        "key": "G",
+        "text": ""
+       }
+      ],
+      "reuse": true,
+      "questions": [
+       {
+        "n": 27,
+        "text": "the effect of recording on the way people talk"
+       },
+       {
+        "n": 28,
+        "text": "the importance of taking notes on body language"
+       },
+       {
+        "n": 29,
+        "text": "the fact that language is influenced by social situation"
+       },
+       {
+        "n": 30,
+        "text": "how informants can be helped to be less self-conscious"
+       },
+       {
+        "n": 31,
+        "text": "various methods that can be used to generate specific data"
+       }
+      ]
+     },
+     {
+      "id": "R3-2",
+      "type": "completion",
+      "range": [
+       32,
+       36
+      ],
+      "instructions": [
+       "Complete the table below.",
+       "Choose **NO MORE THAN THREE WORDS** from the passage for each answer.",
+       "Write your answers in boxes 32–36 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "table",
+        "header": 1,
+        "rows": [
+         [
+          "METHODS OF OBTAINING LINGUISTIC DATA",
+          "ADVANTAGES",
+          "DISADVANTAGES"
+         ],
+         [
+          "{{32}} as informant",
+          "convenient",
+          "method of enquiry not objective enough"
+         ],
+         [
+          "non-linguist as informant",
+          "necessary with {{33}} and child speech",
+          "the number of factors to be considered"
+         ],
+         [
+          "recording an informant",
+          "allows linguists' claims to be checked",
+          "{{34}} of sound"
+         ],
+         [
+          "videoing an informant",
+          "allows speakers' {{35}} to be observed",
+          "{{36}} might miss certain things"
+         ]
+        ]
+       }
+      ]
+     },
+     {
+      "id": "R3-3",
+      "type": "completion",
+      "range": [
+       37,
+       40
+      ],
+      "instructions": [
+       "Complete the summary of paragraph G below.",
+       "Choose **NO MORE THAN THREE WORDS** from the passage for each answer.",
+       "Write your answers in boxes 37–40 on your answer sheet."
+      ],
+      "content": [
+       {
+        "t": "p",
+        "text": "A linguist can use a corpus to comment objectively on {{37}} . Some corpora include a wide range of language while others are used to focus on a {{38}} . The length of time the process takes will affect the {{39}} of the corpus. No corpus can ever cover the whole language and so linguists often find themselves relying on the additional information that can be gained from the {{40}} of those who speak the language concerned."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "answers": {
+   "1": {
+    "a": [
+     "A"
+    ]
+   },
+   "2": {
+    "a": [
+     "D"
+    ]
+   },
+   "3": {
+    "a": [
+     "C"
+    ]
+   },
+   "4": {
+    "a": [
+     "C"
+    ]
+   },
+   "6": {
+    "a": [
+     "bicycles"
+    ]
+   },
+   "8": {
+    "a": [
+     "life skills"
+    ]
+   },
+   "9": {
+    "a": [
+     "NO"
+    ]
+   },
+   "10": {
+    "a": [
+     "NOT GIVEN"
+    ]
+   },
+   "11": {
+    "a": [
+     "NO"
+    ]
+   },
+   "12": {
+    "a": [
+     "YES"
+    ]
+   },
+   "13": {
+    "a": [
+     "A"
+    ]
+   },
+   "14": {
+    "a": [
+     "iii"
+    ]
+   },
+   "15": {
+    "a": [
+     "i"
+    ]
+   },
+   "16": {
+    "a": [
+     "iv"
+    ]
+   },
+   "17": {
+    "a": [
+     "vi"
+    ]
+   },
+   "19": {
+    "a": [
+     "magma"
+    ]
+   },
+   "20": {
+    "a": [
+     "ring of fire"
+    ]
+   },
+   "25": {
+    "a": [
+     "explodes"
+    ]
+   },
+   "27": {
+    "a": [
+     "D"
+    ]
+   },
+   "28": {
+    "a": [
+     "E"
+    ]
+   },
+   "29": {
+    "a": [
+     "C"
+    ]
+   },
+   "30": {
+    "a": [
+     "D"
+    ]
+   },
+   "31": {
+    "a": [
+     "F"
+    ]
+   },
+   "33": {
+    "a": [
+     "foreign languages"
+    ]
+   },
+   "38": {
+    "a": [
+     "particular linguistic feature"
+    ]
+   },
+   "39": {
+    "a": [
+     "size"
+    ]
+   },
+   "40": {
+    "a": [
+     "intuitions"
+    ]
+   },
+   "5": {
+    "a": [
+     "Sudan and India",
+     "India and Sudan",
+     "Sudan India",
+     "India Sudan",
+     "Sudan, India",
+     "India, Sudan"
+    ],
+    "k": "IN EITHER ORDER, BOTH REQUIRED FOR ONE MARK Sudan India"
+   },
+   "7": {
+    "a": [
+     "Shoe Shine",
+     "Shoe Shine Collective"
+    ],
+    "k": "Shoe Shine / Shoe Shine Collective"
+   },
+   "18": {
+    "a": [
+     "plates",
+     "the plates",
+     "the tectonic plates"
+    ],
+    "k": "plates / the plates / the tectonic plates"
+   },
+   "21": {
+    "a": [
+     "600",
+     "600 years",
+     "for 600 years"
+    ],
+    "k": "600 / 600 years / for 600 years"
+   },
+   "22": {
+    "a": [
+     "water",
+     "the water",
+     "oceans",
+     "the oceans"
+    ],
+    "k": "water / the water / oceans / the oceans"
+   },
+   "23": {
+    "a": [
+     "lava",
+     "magma",
+     "molten rock"
+    ],
+    "k": "lava / magma / molten rock"
+   },
+   "24": {
+    "a": [
+     "India",
+     "western India"
+    ],
+    "k": "India / western India"
+   },
+   "26": {
+    "a": [
+     "gases",
+     "the gases",
+     "trapped gases"
+    ],
+    "k": "gases / the gases / trapped gases"
+   },
+   "32": {
+    "a": [
+     "linguist",
+     "the linguist",
+     "linguist acts",
+     "the linguist acts",
+     "linguists",
+     "the linguists",
+     "linguists act",
+     "the linguists act"
+    ],
+    "k": "(the) linguist (acts) / (the) linguists (act)"
+   },
+   "34": {
+    "a": [
+     "quality",
+     "the quality",
+     "the poor quality"
+    ],
+    "k": "quality / the quality / the poor quality"
+   },
+   "35": {
+    "a": [
+     "non-verbal behaviour",
+     "non-verbal behavior",
+     "facial expression",
+     "facial expressions"
+    ],
+    "k": "non-verbal behaviour / non-verbal behavior / facial expression / facial expressions"
+   },
+   "36": {
+    "a": [
+     "camera",
+     "video camera",
+     "recording",
+     "video recording"
+    ],
+    "k": "camera / video camera / recording / video recording"
+   },
+   "37": {
+    "a": [
+     "frequency of usage",
+     "usage frequency"
+    ],
+    "k": "frequency of usage / usage frequency"
+   }
+  }
+ },
+ "writing": {
+  "tasks": [
+   {
+    "task": 1,
+    "minutes": 20,
+    "minWords": 150,
+    "pages": [
+     78
+    ],
+    "prompt": [
+     "The chart below shows the different levels of post-school qualifications in Australia and the proportion of men and women who held them in 1999.",
+     "Summarise the information by selecting and reporting the main features, and make comparisons where relevant."
+    ],
+    "image": "images/C4/C4-T3-W1.png",
+    "sample": {
+     "kind": "model",
+     "band": null,
+     "text": "The chart gives information about post-school qualifications in terms of the different levels of further education reached by men and women in Australia in 1999.\n\nWe can see immediately that there were substantial differences in the proportion of men and women at different levels. The biggest gender difference is at the lowest post-school level, where 90% of those who held a skilled vocational diploma were men, compared with only 10% of women. By contrast, more women held undergraduate diplomas (70%) and marginally more women reached degree level (55%).\n\nAt the higher levels of education, men with postgraduate diplomas clearly outnumbered their female counterparts (70% and 30%, respectively), and also constituted 60% of Master's graduates.\n\nThus we can see that more men than women hold qualifications at the lower and higher levels of education, while more women reach undergraduate diploma level than men. The gender difference is smallest at the level of Bachelor's degree, however.",
+     "comment": null
+    }
+   },
+   {
+    "task": 2,
+    "minutes": 40,
+    "minWords": 250,
+    "pages": [
+     79
+    ],
+    "prompt": [
+     "Write about the following topic:",
+     "*Creative artists should always be given the freedom to express their own ideas (in words, pictures, music or film) in whichever way they wish. There should be no government restrictions on what they do.*",
+     "*To what extent do you agree or disagree with this opinion?*",
+     "Give reasons for your answer and include any relevant examples from your own knowledge or experience."
+    ],
+    "sample": {
+     "kind": "candidate",
+     "band": "7",
+     "text": "I agree with the statement that there should be no government restriction on creative artists who express themselves in the way they do and that they must be given freedom for the same. Expression has always been the keynote in a person's life. It is the result of mere expression of our thoughts that we are able to communicate. Restrictions on how we present our thoughts is senseless\n\nCreative artists play a major role in our society, be it the government, old people, the youth or the children. Their works enlighten our minds, no matter if is factual or entertainment based. It is diserving that after a days work when we want to take some time off for ourselves, we look out for some leisure. For instance: either pleasant music or a family movie which soothes the mind. Entertainment give us an overview of a new side of life which every individual respects. There is almost everything good in what is given to us through the media world which is made up of artists.\n\nOn the contrary sometimes these artists tend to be unscrupulous. They convert rumours into facts and present them before us. This might impair the reputation of some illustrious people in today's society. On such occasions, certain restrictions are understandable. Nevertheless we all do know what is right or wrong. Rules and regulations not always are the solution to how artists present their own ideas. Hence it is doltish to be impetuous and the government should enforce alternative ways to control the media.\n\nRespect for ones ideas is not only hypothetical but must be practised. It is through respect that each one of us can be recognised as a unique person in the world. This can be achieved by looking at the bright side of what media i.e. the creative artists display for us. Not a day can go by when we dont look out for colourful dreams and a beautiful life which we can find either through music, poetry, films, pictures; everything that the creative artists offer us.",
+     "comment": "This answer considers the main issues raised by the question and presents a definite opinion about the statement. However, the response tends to over-generalise and sometimes the examples used to support ideas seem rather confusing. Ideas are generally clearly organised, and paragraphing is clear but the argument is difficult to follow in places. A range of linking words and expressions is used, but there are occasional mistakes. The candidate uses an ambitious range of vocabulary and sentence patterns, but has some problems with word choice and collocations. There are very few spelling errors and only minor grammar mistakes, but there are many examples of expressions used inappropriately."
+    }
+   }
+  ]
+ },
+ "issues": [
+  "Listening Q35: the table cell prints two dotted lines ('35 ...... and ......') for a single question (key: traffic, parking – in either order, both required for one mark); rendered as one gap {{35}} accepting 'traffic and parking' etc.",
+  "Listening Q38 and Q40: each is a single question number printed as 'Choose TWO letters' with the key 'IN EITHER ORDER, BOTH REQUIRED FOR ONE MARK' (Q38: D, F; Q40: A, C). The schema's multi type needs one question number per letter, so each is rendered as a completion group with the lettered list as text and one gap accepting both letters in either order (e.g. 'D F', 'F, D', 'D and F').",
+  "Reading Q5: the table cell prints two dotted lines ('5 ...... and ......') for a single question (key: Sudan, India – in either order, both required for one mark); rendered as one gap {{5}} accepting 'Sudan and India' etc."
+ ]
+}

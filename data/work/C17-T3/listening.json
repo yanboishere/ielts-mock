@@ -1,0 +1,784 @@
+{
+ "parts": [
+  {
+   "part": 1,
+   "range": [
+    1,
+    10
+   ],
+   "pages": [
+    46
+   ],
+   "groups": [
+    {
+     "id": "L1-1",
+     "type": "completion",
+     "range": [
+      1,
+      10
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **ONE WORD AND/OR A NUMBER** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Advice on surfing holidays"
+      },
+      {
+       "t": "sub",
+       "text": "Jack's advice"
+      },
+      {
+       "t": "li",
+       "text": "Recommends surfing for {{1}} holidays in the summer"
+      },
+      {
+       "t": "li",
+       "text": "Need to be quite {{2}}"
+      },
+      {
+       "t": "sub",
+       "text": "Irish surfing locations"
+      },
+      {
+       "t": "li",
+       "text": "County Clare"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "– Lahinch has some good quality {{3}} and surf schools"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "– There are famous cliffs nearby"
+      },
+      {
+       "t": "li",
+       "text": "County Mayo"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "– Good surf school at {{4}} beach"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "– Surf camp lasts for one {{5}}"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "– Can also explore the local {{6}} by kayak"
+      },
+      {
+       "t": "sub",
+       "text": "Weather"
+      },
+      {
+       "t": "li",
+       "text": "Best month to go: {{7}}"
+      },
+      {
+       "t": "li",
+       "text": "Average temperature in summer: approx. {{8}} degrees"
+      },
+      {
+       "t": "sub",
+       "text": "Costs"
+      },
+      {
+       "t": "li",
+       "text": "Equipment"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "– Wetsuit and surfboard: {{9}} euros per day"
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "– Also advisable to hire {{10}} for warmth"
+      }
+     ]
+    }
+   ],
+   "transcript": "WOMAN: Jack, I'm thinking of taking the kids to the seaside on a surfing holiday this summer and I wanted to ask your advice – as I know you're such an expert.\nJACK: Well, I don't know about that, but yes, I've done a bit of surfing over the years. I'd thoroughly recommend it. I think it's the kind of holiday all the family can enjoy [Q1] together. The thing about surfing is that it's great for all ages and all abilities. My youngest started when he was only three!\nWOMAN: Wow! But it's quite physically demanding, isn't it? I've heard you need to be [Q2] pretty fit.\nJACK: Yes. You'll certainly learn more quickly and won't tire as easily.\nWOMAN: Well – that should be OK for us. You've been surfing a few times in Ireland, haven't you?\nJACK: Yes. There's some great surfing there, which people don't always realise.\nWOMAN: And which locations would you recommend? – there seem to be quite a few.\nJACK: Yes, there are loads. Last year we went to County Donegal. There are several great places to surf there.\nWOMAN: What about in County Clare? I read that's also really good for surfing.\nJACK: Yes, it is. I've been there a few times. Most people go to Lahinch. My kids love it there. The waves aren't too challenging and the town is very lively.\nWOMAN: Are there good hotels there? [Q3]\nJACK: Yes – some very nice ones and there are also a few basic hostels and campsites. It's great if you need lessons as the surf schools are excellent.\nWOMAN: Sounds good.\nJACK: Yes and there's lots to see in the area – like those well-known cliffs – ... I've forgotten the name of them ...\nWOMAN: Oh don't worry – I can look them up.\nJACK: I've also been surfing in County Mayo, which is less well-known for surfing, but we had a really good time. That was a few years ago when the kids were younger. There's a good surf school at Carrowniskey beach. [Q4]\nWOMAN: How do you spell that?\nJACK: C-A-double R-O-W-N-I-S-K-E-Y\nWOMAN: OK.\nJACK: I put the kids into the surf camp they run during the summer for 10–16 year olds.\nWOMAN: Oh right. How long was that for?\nJACK: Three hours every day for a week. It was perfect – they were so tired out after [Q5] that.\nWOMAN: I can imagine.\nJACK: One thing we did while the kids were surfing was to rent some kayaks to have a [Q6] look around the bay which is nearby. It's really beautiful.\nWOMAN: Oh, I'd love to do that.\nWOMAN: Now the only time I went to Ireland it rained practically every day.\nJACK: Mmm yes – that can be a problem – but you can surf in the rain, you know.\nWOMAN: It doesn't have the same appeal, somehow.\nJACK: Well, the weather's been fine the last couple of years when I've been there, but actually, it tends to rain more in August than in the spring or autumn. September's my favourite month because the water is warmer then. [Q7]\nWOMAN: The only problem is that the kids are back to school then.\nJACK: I know. But one good thing about Irish summers is that it doesn't get too hot. The average temperature is about 19 degrees and it usually doesn't go above [Q8] 25 degrees.\nWOMAN: That sounds alright. Now what about costs?\nJACK: Surfing is a pretty cheap holiday really – the only cost is the hire of equipment. You can expect to pay a daily rate of about 30 euros for the hire of a wetsuit and [Q9] board – but you can save about 40 euros if you hire by the week.\nWOMAN: That's not too bad.\nJACK: No. It's important to make sure you get good quality wetsuits – you'll all get too cold if you don't. And make sure you also get boots. They keep your feet warm [Q10] and it's easier to surf with them on too.\nWOMAN: OK. Well, thanks very much ..."
+  },
+  {
+   "part": 2,
+   "range": [
+    11,
+    20
+   ],
+   "pages": [
+    47,
+    48
+   ],
+   "groups": [
+    {
+     "id": "L2-1",
+     "type": "multi",
+     "range": [
+      11,
+      12
+     ],
+     "n": [
+      11,
+      12
+     ],
+     "select": 2,
+     "instructions": [
+      "Choose **TWO** letters, **A–E**."
+     ],
+     "text": "Which **TWO** facts are given about the school's extended hours childcare service?",
+     "options": [
+      {
+       "key": "A",
+       "text": "It started recently."
+      },
+      {
+       "key": "B",
+       "text": "More children attend after school than before school."
+      },
+      {
+       "key": "C",
+       "text": "An average of 50 children attend in the mornings."
+      },
+      {
+       "key": "D",
+       "text": "A child cannot attend both the before and after school sessions."
+      },
+      {
+       "key": "E",
+       "text": "The maximum number of children who can attend is 70."
+      }
+     ]
+    },
+    {
+     "id": "L2-2",
+     "type": "choice",
+     "range": [
+      13,
+      15
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "questions": [
+      {
+       "n": 13,
+       "text": "How much does childcare cost for a complete afternoon session per child?",
+       "options": [
+        {
+         "key": "A",
+         "text": "£3.50"
+        },
+        {
+         "key": "B",
+         "text": "£5.70"
+        },
+        {
+         "key": "C",
+         "text": "£7.20"
+        }
+       ]
+      },
+      {
+       "n": 14,
+       "text": "What does the manager say about food?",
+       "options": [
+        {
+         "key": "A",
+         "text": "Children with allergies should bring their own food."
+        },
+        {
+         "key": "B",
+         "text": "Children may bring healthy snacks with them."
+        },
+        {
+         "key": "C",
+         "text": "Children are given a proper meal at 5 p.m."
+        }
+       ]
+      },
+      {
+       "n": 15,
+       "text": "What is different about arrangements in the school holidays?",
+       "options": [
+        {
+         "key": "A",
+         "text": "Children from other schools can attend."
+        },
+        {
+         "key": "B",
+         "text": "Older children can attend."
+        },
+        {
+         "key": "C",
+         "text": "A greater number of children can attend."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L2-3",
+     "type": "matching",
+     "range": [
+      16,
+      20
+     ],
+     "instructions": [
+      "What information is given about each of the following activities on offer?",
+      "Choose **FIVE** answers from the box and write the correct letter, **A–G**, next to Questions 16–20."
+     ],
+     "optionsTitle": "Information",
+     "options": [
+      {
+       "key": "A",
+       "text": "has limited availability"
+      },
+      {
+       "key": "B",
+       "text": "is no longer available"
+      },
+      {
+       "key": "C",
+       "text": "is for over 8s only"
+      },
+      {
+       "key": "D",
+       "text": "requires help from parents"
+      },
+      {
+       "key": "E",
+       "text": "involves an additional fee"
+      },
+      {
+       "key": "F",
+       "text": "is a new activity"
+      },
+      {
+       "key": "G",
+       "text": "was requested by children"
+      }
+     ],
+     "title": "Activities",
+     "questions": [
+      {
+       "n": 16,
+       "text": "Spanish"
+      },
+      {
+       "n": 17,
+       "text": "Music"
+      },
+      {
+       "n": 18,
+       "text": "Painting"
+      },
+      {
+       "n": 19,
+       "text": "Yoga"
+      },
+      {
+       "n": 20,
+       "text": "Cooking"
+      }
+     ]
+    }
+   ],
+   "transcript": "Good afternoon. My name's Mrs Carter and I run the before and after school extended hours childcare service. I hope you've had a chance to have a good look around the school and talk to staff and pupils. I know that many of you are interested in using our childcare service when your child joins the school, and perhaps you already know something about it, but for those that don't, I'll go through the main details now.\nWe offer childcare for children from the ages of four to eleven both before and after school. I know that many parents who work find this service invaluable. You can leave your child with us safe in the knowledge that they will be extremely well cared for.\nWe are insured to provide care for up to 70 children, although we rarely have this many [Q11/Q12] attending at any one session. I think we generally expect around 50–60 children for the [Q11/Q12] afternoon sessions and about half that number for the breakfast sessions. Although we currently do have 70 children registered with us, not all of these attend every day. It's ten years since we began offering an extended hours service and we've come a long way during that time. When we first opened, we only had about 20 children attending regularly.\nWe try to keep our costs as low as we can and we think we provide very good value for money. For the afternoon sessions, which run from 3.30 until 6 p.m., it's £7.20. But if you [Q13] prefer, you can pay for one hour only, which costs £3.50, or two hours which costs £5.70.\nThe cost of the childcare includes food and snacks. They'll be given breakfast in the morning and in the afternoon, a healthy snack as soon as they finish school. At 5 p.m. children are [Q14] given something more substantial, such as pasta or a casserole. Please inform us of any allergies that your child might have and we'll make sure they're offered a suitable alternative.\nAs you may know, the childcare service runs through the school holidays from 8 a.m. to 6 p.m. We offer a really varied and exciting programme to keep the children entertained – we don't want them to feel as if they are still at school! It will also feel different because they'll get the chance to make new friends with children from other schools – spaces are available [Q15] for them because a lot of our term-time children don't always attend during the holiday. In the past, parents have asked if children over the age of 11 are allowed to come with their younger brothers and sisters – but I'm afraid we're unable to do this because of the type of insurance we have.\nSo now let me tell you about some of the activities that your child can do during the after-school sessions. As well as being able to use the playground equipment, computers and the library, there is usually at least one 'special' activity that children can do each day. For example, Spanish. We have a specialist teacher coming in every Thursday to give a basic introduction to the language through games and songs. She does two sessions: one for the over 8s and one for the younger children. This is the only activity which we have to make an [Q16] extra charge for – but it's well worth it.\nOnce a week the children have the opportunity to do some music. We're very lucky that one of our staff is a member of a folk band. On Mondays, she teaches singing and percussion to groups of children. We do rely on parental support for this, so if any of you sing or play an [Q17] instrument and would be prepared to help out at these sessions, we'd be delighted.\nPainting continues to be one of the most popular activities. To begin with we weren't keen on offering this because of the extra mess involved, but children kept asking if they could do [Q18] some art and so we finally gave in. Art is great for helping the children to relax after working hard at school all day.\nYoga is something that we've been meaning to introduce for some time but haven't been able [Q19] to find anyone available to teach it – until now that is. So we'll see how this goes. Hopefully, children will benefit in all sorts of ways from this.\nCooking is another popular activity. They make a different sort of cake, or pizza or bread each week. Although the younger children love doing it, we found that the mess was just too much, so we've decided to restrict this to the over 8s, as they are better able to clean up after [Q20] themselves."
+  },
+  {
+   "part": 3,
+   "range": [
+    21,
+    30
+   ],
+   "pages": [
+    49,
+    50
+   ],
+   "groups": [
+    {
+     "id": "L3-1",
+     "type": "choice",
+     "range": [
+      21,
+      24
+     ],
+     "instructions": [
+      "Choose the correct letter, **A**, **B** or **C**."
+     ],
+     "title": "Holly's Work Placement Tutorial",
+     "questions": [
+      {
+       "n": 21,
+       "text": "Holly has chosen the Orion Stadium placement because",
+       "options": [
+        {
+         "key": "A",
+         "text": "it involves children."
+        },
+        {
+         "key": "B",
+         "text": "it is outdoors."
+        },
+        {
+         "key": "C",
+         "text": "it sounds like fun."
+        }
+       ]
+      },
+      {
+       "n": 22,
+       "text": "Which aspect of safety does Dr Green emphasise most?",
+       "options": [
+        {
+         "key": "A",
+         "text": "ensuring children stay in the stadium"
+        },
+        {
+         "key": "B",
+         "text": "checking the equipment children will use"
+        },
+        {
+         "key": "C",
+         "text": "removing obstacles in changing rooms"
+        }
+       ]
+      },
+      {
+       "n": 23,
+       "text": "What does Dr Green say about the spectators?",
+       "options": [
+        {
+         "key": "A",
+         "text": "They can be hard to manage."
+        },
+        {
+         "key": "B",
+         "text": "They make useful volunteers."
+        },
+        {
+         "key": "C",
+         "text": "They shouldn't take photographs."
+        }
+       ]
+      },
+      {
+       "n": 24,
+       "text": "What has affected the schedule in the past?",
+       "options": [
+        {
+         "key": "A",
+         "text": "bad weather"
+        },
+        {
+         "key": "B",
+         "text": "an injury"
+        },
+        {
+         "key": "C",
+         "text": "extra time"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L3-2",
+     "type": "matching",
+     "range": [
+      25,
+      30
+     ],
+     "instructions": [
+      "What do Holly and her tutor agree is an important aspect of each of the following events management skills?",
+      "Choose **SIX** answers from the box and write the correct letter, **A–H**, next to Questions 25–30."
+     ],
+     "optionsTitle": "Important aspects",
+     "options": [
+      {
+       "key": "A",
+       "text": "being flexible"
+      },
+      {
+       "key": "B",
+       "text": "focusing on details"
+      },
+      {
+       "key": "C",
+       "text": "having a smart appearance"
+      },
+      {
+       "key": "D",
+       "text": "hiding your emotions"
+      },
+      {
+       "key": "E",
+       "text": "relying on experts"
+      },
+      {
+       "key": "F",
+       "text": "trusting your own views"
+      },
+      {
+       "key": "G",
+       "text": "doing one thing at a time"
+      },
+      {
+       "key": "H",
+       "text": "thinking of the future"
+      }
+     ],
+     "title": "Events management skills",
+     "questions": [
+      {
+       "n": 25,
+       "text": "Communication"
+      },
+      {
+       "n": 26,
+       "text": "Organisation"
+      },
+      {
+       "n": 27,
+       "text": "Time management"
+      },
+      {
+       "n": 28,
+       "text": "Creativity"
+      },
+      {
+       "n": 29,
+       "text": "Leadership"
+      },
+      {
+       "n": 30,
+       "text": "Networking"
+      }
+     ]
+    }
+   ],
+   "transcript": "HOLLY: Hello Dr Green – I'm here to talk to you about my work placement.\nTUTOR: Oh yes, it's Holly, isn't it?\nHOLLY: Yes.\nTUTOR: So, which work placement have you chosen?\nHOLLY: I decided to go for the Orion Stadium placement. The event I'll be managing is one where I'm helping to set up a sports competition for primary school children.\nTUTOR: Yup. That's always a popular placement – even though it can be tougher than you think working with children.\nHOLLY: I know, but it's the fresh air that attracts me – organising something indoors [Q21] doesn't have the same appeal, even though it might be fun.\nTUTOR: OK, so obviously safety's going to be one of your key concerns for this event.\nHOLLY: Yes, I've already thought about that. I'll need to make sure none of the equipment's damaged.\nTUTOR: Ah well, you'll be working with schools, so the equipment will be their responsibility. However, the grounds and what goes on there will be yours.\nHOLLY: Oh I see – that'll include keeping everyone within the boundary once they're in [Q22] their kit and on the field?\nTUTOR: Exactly – you'll need to inspect areas like changing rooms as well for anything someone can trip over, but your main priority will be not to lose anyone!\nHOLLY: Right. I'll need staff to help with that.\nTUTOR: And don't forget about the spectators.\nHOLLY: Mmm. I was thinking that many of them will be parents, who could help run the event.\nTUTOR: I wouldn't rely on that. They'll be more interested in filming their children than volunteering.\nHOLLY: I'll need to make sure they don't interfere with events doing that!\nTUTOR: And that's not always easy, especially when a proud parent's trying to get a snap [Q23] of their child and you want them to move elsewhere.\nHOLLY: OK. What about the scheduling?\nTUTOR: With sporting events there are all sorts of things that can alter the timetable – like rain, for instance – though so far, we've always been lucky with that.\nHOLLY: Yeah, and I was thinking about what to do if someone got hurt as well. I know [Q24] that last year that caused a terrible delay.\nTUTOR: You have to be prepared for such things.\nHOLLY: Oh. What if a match ends in a draw – do you let the teams keep going until someone wins?\nTUTOR: That'll be up to you – and again, you need to plan for it.\nHOLLY: Right.\nTUTOR: Now, the aim of your work placement is to give you the opportunity to develop the skills that an events manager needs. So, let's talk about those a bit.\nHOLLY: Well, I think my communication skills are pretty good. I can talk on the phone to people and book venues and that kind of thing.\nTUTOR: Good – just remember it isn't only about what you say. If you meet someone [Q25] face-to-face and want to persuade them to be a sponsor, for example...\nHOLLY: Oh, I'll dress up for that! Sure.\nTUTOR: Good. Let's go on to think about your organisational skills. You're working in a very people-based industry and that means things won't always go to plan.\nHOLLY: I guess it's being prepared to make changes that matters. [Q26]\nTUTOR: That's right. You may have to make an on-the-spot change to a timetable because of a problem you hadn't anticipated ...\nHOLLY: ... just do it! OK.\nTUTOR: How's your time management these days?\nHOLLY: I'm working on it – I'm certainly better when I have a deadline, which is why this work suits me.\nTUTOR: Yes, but it's how you respond as that deadline approaches! [Q27]\nHOLLY: I know I've got to look calm even if I'm in a panic.\nTUTOR: Just think to yourself – no one must know I'm under pressure.\nHOLLY: Yeah – even though I'm multi-tasking like crazy!\nTUTOR: Another skill that events managers need is creativity. Often your client has what we call the 'big picture' idea, but it's up to the events manager to think of all the [Q28] fine points that go to making it work.\nHOLLY: Right, so I need to listen carefully to that idea and then fill in all the gaps.\nTUTOR: That's right. And you'll have a team working under you, so another key skill is leadership. Your team may have lots of ideas too, but you've got to make the ultimate choices. Do we have refreshments inside or out, for example?\nHOLLY: Isn't it better to be democratic?\nTUTOR: It's a nice idea, but you have the ultimate responsibility. So, believe in what you [Q29] think best. Be prepared to say 'yes', that's a good idea but it won't work here.\nHOLLY: I see what you mean. What about the networking side of things? I know it's an area that a lot of students worry about because we don't have much experience to offer others.\nTUTOR: But even without it – you can still be an interesting person with useful ideas. And the more people you impress, the better.\nHOLLY: I guess that will help me when I apply for a real job. [Q30]\nTUTOR: Exactly – think ahead – remember what your ambitions are and keep them in mind.\nHOLLY: Definitely."
+  },
+  {
+   "part": 4,
+   "range": [
+    31,
+    40
+   ],
+   "pages": [
+    51
+   ],
+   "groups": [
+    {
+     "id": "L4-1",
+     "type": "completion",
+     "range": [
+      31,
+      40
+     ],
+     "instructions": [
+      "Complete the notes below.",
+      "Write **ONE WORD ONLY** for each answer."
+     ],
+     "content": [
+      {
+       "t": "h",
+       "text": "Bird Migration Theory"
+      },
+      {
+       "t": "p",
+       "text": "Most birds are believed to migrate seasonally."
+      },
+      {
+       "t": "sub",
+       "text": "Hibernation theory"
+      },
+      {
+       "t": "li",
+       "text": "It was believed that birds hibernated underwater or buried themselves in {{31}}."
+      },
+      {
+       "t": "li",
+       "text": "This theory was later disproved by experiments on caged birds."
+      },
+      {
+       "t": "sub",
+       "text": "Transmutation theory"
+      },
+      {
+       "t": "li",
+       "text": "Aristotle believed birds changed from one species into another in summer and winter."
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "– In autumn he observed that redstarts experience the loss of {{32}} and thought they then turned into robins."
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "– Aristotle's assumptions were logical because the two species of birds had a similar {{33}}."
+      },
+      {
+       "t": "sub",
+       "text": "17th century"
+      },
+      {
+       "t": "li",
+       "text": "Charles Morton popularised the idea that birds fly to the {{34}} in winter."
+      },
+      {
+       "t": "sub",
+       "text": "Scientific developments"
+      },
+      {
+       "t": "li",
+       "text": "In 1822, a stork was killed in Germany which had an African spear in its {{35}}."
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "– previously there had been no {{36}} that storks migrate to Africa"
+      },
+      {
+       "t": "li",
+       "text": "Little was known about the {{37}} and journeys of migrating birds until the practice of ringing was established."
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "– It was thought large birds carried small birds on some journeys because they were considered incapable of travelling across huge {{38}}."
+      },
+      {
+       "t": "p",
+       "level": 2,
+       "text": "– Ringing depended on what is called the '{{39}}' of dead birds."
+      },
+      {
+       "t": "li",
+       "text": "In 1931, the first {{40}} to show the migration of European birds was printed."
+      }
+     ]
+    }
+   ],
+   "transcript": "Scientists believe that a majority of the earth's bird population migrate in some fashion or other. Some travel seasonally for relatively short distances, such as birds that move from their winter habitats in lowlands to mountain tops for the summers. Others, like the Arctic Tern, travel more than 25,000 miles seasonally between the northern and southern poles. Bird migration has been studied over many centuries through a variety of observations.\nBut until relatively recently, where birds went to in the winter was considered something of a mystery. The lack of modern science and technology led to many theories that we now recognize as error-filled and even somewhat amusing. Take hibernation theory for example – two thousand years ago, it was commonly believed that when birds left an area, they went underwater to hibernate in the seas and oceans. Another theory for the regular appearance [Q31] and disappearance of birds was that they spent winter hidden in mud till the weather changed and food became abundant again. The theory that some birds hibernate persisted until experiments were done on caged birds in the 1940s which demonstrated that birds have no hibernation instinct.\nOne of the earliest naturalists and philosophers from ancient Greece was Aristotle who was the first writer to discuss the disappearance and reappearance of some bird species at certain times of year. He developed the theory of transmutation, the seasonal change of one species into another, by observing redstarts and robins. He observed that in the autumn, [Q32] small birds called 'redstarts' began to lose their feathers, which convinced Aristotle that they changed into robins for the winter, and back into redstarts in the summer. These assumptions are understandable given that this pair of species are similar in shape, but are a classic [Q33] example of an incorrect interpretation based on correct observations.\nThe most bizarre theory was put forward by an English amateur scientist, Charles Morton, in the seventeenth century. He wrote a surprisingly well-regarded paper claiming that birds [Q34] migrate to the moon and back every year. He came to this conclusion as the only logical explanation for the total disappearance of some species.\nOne of the key moments in the development of migration theory came in 1822 when a white stork was shot in Germany. This particular stork made history because of the long spear in [Q35] its neck which incredibly had not killed it – everyone immediately realised this spear was definitely not European. It turned out to be a spear from a tribe in Central Africa. This was a truly defining moment in the history of ornithology because it was the first evidence that [Q36] storks spend their winters in sub-Saharan Africa. You can still see the 'arrow stork' in the Zoological Collection of the University of Rostock in Germany.\nPeople gradually became aware that European birds moved south in autumn and north in summer but didn't know much about it until the practice of catching birds and putting rings on their legs became established. Before this, very little information was available about the [Q37] actual destinations of particular species and how they travelled there. People speculated that larger birds provided a kind of taxi service for smaller birds by carrying them on their backs. This idea came about because it seemed impossible that small birds weighing only a few [Q38] grams could fly over vast oceans. This idea was supported by observations of bird behaviour such as the harassment of larger birds by smaller birds.\nThe development of bird ringing, by a Danish schoolteacher, Hans Christian Cornelius [Q39] Mortensen, made many discoveries possible. This is still common practice today and relies upon what is known as 'recovery' – this is when ringed birds are found dead in the place they have migrated to, and identified. Huge amounts of data were gathered in the early part of the twentieth century and for the first time in history people understood where birds actually went [Q40] to in winter. In 1931, an atlas was published showing where the most common species of European birds migrated to. More recent theories about bird migration ..."
+  }
+ ],
+ "answers": {
+  "1": {
+   "a": [
+    "family"
+   ]
+  },
+  "2": {
+   "a": [
+    "fit"
+   ]
+  },
+  "3": {
+   "a": [
+    "hotels"
+   ]
+  },
+  "4": {
+   "a": [
+    "Carrowniskey"
+   ]
+  },
+  "5": {
+   "a": [
+    "week"
+   ]
+  },
+  "6": {
+   "a": [
+    "bay"
+   ]
+  },
+  "7": {
+   "a": [
+    "September"
+   ]
+  },
+  "8": {
+   "a": [
+    "19",
+    "nineteen"
+   ],
+   "k": "19 / nineteen"
+  },
+  "9": {
+   "a": [
+    "30",
+    "thirty"
+   ],
+   "k": "30 / thirty"
+  },
+  "10": {
+   "a": [
+    "boots"
+   ]
+  },
+  "11": {
+   "a": [
+    "B"
+   ]
+  },
+  "12": {
+   "a": [
+    "E"
+   ]
+  },
+  "13": {
+   "a": [
+    "C"
+   ]
+  },
+  "14": {
+   "a": [
+    "C"
+   ]
+  },
+  "15": {
+   "a": [
+    "A"
+   ]
+  },
+  "16": {
+   "a": [
+    "E"
+   ]
+  },
+  "17": {
+   "a": [
+    "D"
+   ]
+  },
+  "18": {
+   "a": [
+    "G"
+   ]
+  },
+  "19": {
+   "a": [
+    "F"
+   ]
+  },
+  "20": {
+   "a": [
+    "C"
+   ]
+  },
+  "21": {
+   "a": [
+    "B"
+   ]
+  },
+  "22": {
+   "a": [
+    "A"
+   ]
+  },
+  "23": {
+   "a": [
+    "A"
+   ]
+  },
+  "24": {
+   "a": [
+    "B"
+   ]
+  },
+  "25": {
+   "a": [
+    "C"
+   ]
+  },
+  "26": {
+   "a": [
+    "A"
+   ]
+  },
+  "27": {
+   "a": [
+    "D"
+   ]
+  },
+  "28": {
+   "a": [
+    "B"
+   ]
+  },
+  "29": {
+   "a": [
+    "F"
+   ]
+  },
+  "30": {
+   "a": [
+    "H"
+   ]
+  },
+  "31": {
+   "a": [
+    "mud"
+   ]
+  },
+  "32": {
+   "a": [
+    "feathers"
+   ]
+  },
+  "33": {
+   "a": [
+    "shape"
+   ]
+  },
+  "34": {
+   "a": [
+    "moon"
+   ]
+  },
+  "35": {
+   "a": [
+    "neck"
+   ]
+  },
+  "36": {
+   "a": [
+    "evidence"
+   ]
+  },
+  "37": {
+   "a": [
+    "destinations"
+   ]
+  },
+  "38": {
+   "a": [
+    "oceans"
+   ]
+  },
+  "39": {
+   "a": [
+    "recovery"
+   ]
+  },
+  "40": {
+   "a": [
+    "atlas"
+   ]
+  }
+ }
+}
