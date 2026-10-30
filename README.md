@@ -92,7 +92,7 @@
 
 ## 安装
 
-1. 到 [Releases](../../releases/latest) 下载 `雅思模考-x.y.z.dmg`（约 1.4 GB，题库和全部听力音频已内置）。
+1. 到 [Releases](../../releases/latest) 下载 `IELTSMock-x.y.z.dmg`（约 1.4 GB，题库和全部听力音频已内置）。
 2. 双击打开 DMG，把「雅思模考」拖进「Applications（应用程序）」。
 3. **第一次打开**：App 是本地自签名的，没有经过苹果公证，macOS 会提示"无法验证开发者"。
    - 在 Finder 中右键点 App →「打开」→ 再点「打开」；
