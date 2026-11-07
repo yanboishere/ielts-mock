@@ -1746,6 +1746,56 @@
    }
   ]
  },
+ "speaking": {
+  "pages": [
+   55,
+   56
+  ],
+  "part1": {
+   "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+   "topics": [
+    {
+     "title": "Giving gifts",
+     "questions": [
+      "When do people give gifts or presents in your country?",
+      "Do you ever take a gift when you visit someone in their home? [Why/Why not?]",
+      "When did you last receive a gift? [What was it?]",
+      "Do you enjoy looking for gifts for people? [Why/Why not?]"
+     ]
+    }
+   ]
+  },
+  "part2": {
+   "topic": "Describe something you did that was new or exciting.",
+   "prompt": "You should say:",
+   "points": [
+    "what you did",
+    "where and when you did this",
+    "who you shared the activity with"
+   ],
+   "closing": "and explain why this activity was new or exciting for you."
+  },
+  "part3": {
+   "topics": [
+    {
+     "title": "Doing new things",
+     "questions": [
+      "Why do you think some people like doing new things?",
+      "What problems can people have when they try new activities for the first time?",
+      "Do you think it's best to do new things on your own or with other people? Why?"
+     ]
+    },
+    {
+     "title": "Learning new things",
+     "questions": [
+      "What kinds of things do children learn to do when they are very young? How important are these things?",
+      "Do you think children and adults learn to do new things in the same way? How is their learning style different?",
+      "Some people say that it is more important to be able to learn new things now than it was in the past. Do you agree or disagree with that? Why?"
+     ]
+    }
+   ]
+  }
+ },
  "issues": [
   "L Q12: the table prints 'between 12 ........ and ........' with one question number covering both blanks; rendered as 'between {{12}}'. Key 'Friday/Sunday' (= Friday and Sunday) expanded to both days.",
   "L Section 2 map (Hinchingbrooke Park): the scan shows faint bleed-through of a table from the facing page inside the map; letters A–I are all legible.",
@@ -1773,6 +1823,7 @@
   "P3 para 5: 'never encouraged before' → 'never encountered before'. P3 para 7: 'trivial phobia' → 'trivial phobias'.",
   "P3 para 8: 'social intelligence come in' → 'comes in'; 'mange people' → 'manage people'; 'social cognitions' → 'social cognition'; 'make or beak a deal' → 'make or break a deal'; 'becomes interviewed with' → 'becomes intertwined with'.",
   "P3 Q29 B: 'it interpret data' → 'it interprets data'; Q30 B: 'what you senses transmit' → 'what your senses transmit'; Q38–40 ending E: 'mange people' → 'manage people'.",
-  "P3 Q32–37: the PDF prints a TRUE/'FALES'/NOT GIVEN rubric, but the answer key gives YES/NO/NOT GIVEN (32 YES, 33 YES, 34 NOT GIVEN, 35 NO, 36 NOT GIVEN, 37 NO); following the key, the group is typed ynng and the rubric replaced with the standard YES/NO/NOT GIVEN wording."
+  "P3 Q32–37: the PDF prints a TRUE/'FALES'/NOT GIVEN rubric, but the answer key gives YES/NO/NOT GIVEN (32 YES, 33 YES, 34 NOT GIVEN, 35 NO, 36 NOT GIVEN, 37 NO); following the key, the group is typed ynng and the rubric replaced with the standard YES/NO/NOT GIVEN wording.",
+  "C9 is a retyped edition; unambiguous typing error corrected (Speaking): Part 3 'more important to be able to learn new things now that it was in the past' -> 'now than it was in the past'."
  ]
 }

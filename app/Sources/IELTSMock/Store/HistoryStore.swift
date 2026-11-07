@@ -26,6 +26,8 @@ final class HistoryStore: ObservableObject {
             if let d = try? Data(contentsOf: f), let a = try? decoder.decode(Attempt.self, from: d) { list.append(a) }
         }
         attempts = list.sorted { $0.startedAt > $1.startedAt }
+        // A Speaking test cannot be resumed; one left unfinished by a crash or forced quit is removed.
+        for a in attempts where a.status == .inProgress && a.modules.contains(.speaking) { delete(a) }
     }
 
     func save(_ a: Attempt) {
@@ -38,6 +40,7 @@ final class HistoryStore: ObservableObject {
     func delete(_ a: Attempt) {
         attempts.removeAll { $0.id == a.id }
         try? FileManager.default.removeItem(at: AppPaths.attempts.appendingPathComponent("\(a.id.uuidString).json"))
+        if a.speaking != nil { try? FileManager.default.removeItem(at: AppPaths.recordings(a.id)) }
     }
 
     func attempt(_ id: UUID) -> Attempt? { attempts.first { $0.id == id } }
@@ -45,7 +48,7 @@ final class HistoryStore: ObservableObject {
     var submitted: [Attempt] { attempts.filter { $0.status == .submitted } }
 
     /// An unfinished attempt that can be resumed.
-    var resumable: Attempt? { attempts.first { $0.status == .inProgress } }
+    var resumable: Attempt? { attempts.first { $0.status == .inProgress && !$0.modules.contains(.speaking) } }
 
     func attempts(exam id: String) -> [Attempt] { submitted.filter { $0.examId == id } }
 

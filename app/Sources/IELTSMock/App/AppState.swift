@@ -22,8 +22,12 @@ final class AppState: ObservableObject {
     let bank: BankStore
     let history: HistoryStore
     let ai: AIService
+    let models: SpeechModelStore
 
     @Published var session: ExamSession?
+    @Published var speakingSession: SpeakingSession?
+    /// A Speaking test waiting for its pre-flight checks (microphone, models).
+    @Published var speakingLaunch: SpeakingLaunch?
     @Published var route: Route = .home
     @Published var path: [DetailPage] = []
     @Published var alert: String?
@@ -34,6 +38,7 @@ final class AppState: ObservableObject {
         bank = BankStore()
         history = HistoryStore()
         ai = AIService(settings: s)
+        models = SpeechModelStore()
         bank.reload()
     }
 
@@ -72,6 +77,29 @@ final class AppState: ObservableObject {
         start(ref, mode: .practice, stages: [Stage(module: m, section: section)])
     }
 
+    // MARK: speaking
+
+    func startSpeaking(_ ref: ExamRef, part: Int? = nil) {
+        guard ref.exam.speaking != nil else { return }
+        speakingLaunch = SpeakingLaunch(ref: ref, part: part)
+    }
+
+    func beginSpeaking(_ launch: SpeakingLaunch) {
+        speakingLaunch = nil
+        speakingSession = SpeakingSession(ref: launch.ref, practicePart: launch.part, settings: settings, history: history, ai: ai, models: models)
+    }
+
+    /// Closes the Speaking screen; a finished test opens its result.
+    func endSpeaking() {
+        guard let s = speakingSession else { return }
+        let finished = s.phase == .finished
+        let id = s.attempt.id
+        if !finished { s.abandon() }
+        speakingSession = nil
+        // The shell is rebuilt when the Speaking screen closes; navigate once it exists.
+        if finished { DispatchQueue.main.async { self.navigate(.history, open: .attempt(id)) } }
+    }
+
     func resume(_ a: Attempt) {
         guard let ref = bank.ref(a.examId) else {
             alert = "找不到这套题（\(a.examId)），可能题库已被移除。"
@@ -94,4 +122,11 @@ final class AppState: ObservableObject {
             navigate(.history, open: .attempt(id))
         }
     }
+}
+
+struct SpeakingLaunch: Identifiable {
+    let id = UUID()
+    let ref: ExamRef
+    /// 1–3 for one part as practice, nil for the whole test.
+    let part: Int?
 }

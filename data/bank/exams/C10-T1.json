@@ -1595,5 +1595,54 @@
    }
   ]
  },
+ "speaking": {
+  "pages": [
+   24
+  ],
+  "part1": {
+   "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+   "topics": [
+    {
+     "title": "Weekends",
+     "questions": [
+      "How do you usually spend your weekends? [Why?]",
+      "Which is your favourite part of the weekend? [Why?]",
+      "Do you think your weekends are long enough? [Why/Why not?]",
+      "How important do you think it is to have free time at the weekends? [Why?]"
+     ]
+    }
+   ]
+  },
+  "part2": {
+   "topic": "Describe someone you know who does something well.",
+   "prompt": "You should say:",
+   "points": [
+    "who this person is",
+    "how you know this person",
+    "what they do well"
+   ],
+   "closing": "and explain why you think this person is so good at doing this."
+  },
+  "part3": {
+   "topics": [
+    {
+     "title": "Skills and abilities",
+     "questions": [
+      "What skills and abilities do people most want to have today? Why?",
+      "Which skills should children learn at school? Are there any skills which they should learn at home? What are they?",
+      "Which skills do you think will be important in the future? Why?"
+     ]
+    },
+    {
+     "title": "Salaries for skilled people",
+     "questions": [
+      "Which kinds of jobs have the highest salaries in your country? Why is this?",
+      "Are there any other jobs that you think should have high salaries? Why do you think that?",
+      "Some people say it would be better for society if everyone got the same salary. What do you think about that? Why?"
+     ]
+    }
+   ]
+  }
+ },
  "issues": []
 }

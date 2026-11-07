@@ -1,0 +1,50 @@
+{
+ "pages": [54],
+ "part1": {
+  "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+  "topics": [
+   {
+    "title": "Newspapers and Magazines",
+    "questions": [
+     "Which magazines and newspapers do you read? [Why?]",
+     "What kinds of article are you most interested in? [Why?]",
+     "Have you ever read a newspaper or magazine in a foreign language? [When/Why?]",
+     "Do you think reading a newspaper or magazine in a foreign language is a good way to learn the language? [Why/Why not?]"
+    ]
+   }
+  ]
+ },
+ "part2": {
+  "topic": "Describe a restaurant that you enjoyed going to.",
+  "prompt": "You should say:",
+  "points": [
+   "where the restaurant was",
+   "why you chose this restaurant",
+   "what type of food you ate in this restaurant"
+  ],
+  "closing": "and explain why you enjoyed eating in this restaurant."
+ },
+ "part3": {
+  "topics": [
+   {
+    "title": "Restaurants",
+    "questions": [
+     "Why do you think people go to restaurants when they want to celebrate something?",
+     "Which are more popular in your country: fast food restaurants or traditional restaurants? Why do you think that is?",
+     "Some people say that food in an expensive restaurant is always better than food in a cheap restaurant – would you agree?"
+    ]
+   },
+   {
+    "title": "Producing food",
+    "questions": [
+     "Do you think there will be a greater choice of food available in shops in the future, or will there be less choice?",
+     "What effects has modern technology had on the way food is produced?",
+     "How important is it for a country to be able to grow all the food it needs, without importing any from other countries?"
+    ]
+   }
+  ]
+ },
+ "issues": [
+  "Speaking Part 2: the book typesets the word 'and' at the end of the third cue-card point ('what type of food you ate in this restaurant and' / 'explain why you enjoyed eating in this restaurant.'); it is placed at the start of 'closing' ('and explain why you enjoyed eating in this restaurant.') as in the other tests. No wording changed."
+ ]
+}

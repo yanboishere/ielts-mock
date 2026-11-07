@@ -1750,6 +1750,55 @@
    }
   ]
  },
+ "speaking": {
+  "pages": [
+   36
+  ],
+  "part1": {
+   "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+   "topics": [
+    {
+     "title": "Keeping in contact with people",
+     "questions": [
+      "How do you usually contact your friends? [Why?]",
+      "Do you prefer to contact different people in different ways? [Why?]",
+      "Do you find it easy to keep in contact with friends and family? [Why/Why not?]",
+      "In your country, did people in the past keep in contact in the same ways as they do today? [Why/Why not?]"
+     ]
+    }
+   ]
+  },
+  "part2": {
+   "topic": "Describe a party that you enjoyed.",
+   "prompt": "You should say:",
+   "points": [
+    "whose party it was and what it was celebrating",
+    "where the party was held and who went to it",
+    "what people did during the party"
+   ],
+   "closing": "and explain what you enjoyed about this party."
+  },
+  "part3": {
+   "topics": [
+    {
+     "title": "Family parties",
+     "questions": [
+      "What are the main reasons why people organise family parties in your country?",
+      "In some places people spend a lot of money on parties that celebrate special family events. Is this ever true in your country? Do you think this is a good trend or a bad trend?",
+      "Are there many differences between family parties and parties given by friends? Why do you think this is?"
+     ]
+    },
+    {
+     "title": "National celebrations",
+     "questions": [
+      "What kinds of national celebration do you have in your country?",
+      "Who tends to enjoy national celebrations more: young people or old people? Why?",
+      "Why do you think some people think that national celebrations are a waste of government money? Would you agree or disagree with this view? Why?"
+     ]
+    }
+   ]
+  }
+ },
  "issues": [
   "Section 1 tapescript: one speaker label is printed 'WMAN:' (for MAN:) in the book; reproduced as printed.",
   "Reading Passage 2, Questions 14–20: the book prints 'Reading Passage 2 has seven paragraphs, A–H' although the passage has eight lettered paragraphs (A–H; B is the example); reproduced as printed."

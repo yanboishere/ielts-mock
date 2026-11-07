@@ -1563,6 +1563,55 @@
    }
   ]
  },
+ "speaking": {
+  "pages": [
+   33
+  ],
+  "part1": {
+   "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+   "topics": [
+    {
+     "title": "Dancing",
+     "questions": [
+      "Do you enjoy dancing? [Why/Why not?]",
+      "Has anyone ever taught you to dance? [Why/Why not?]",
+      "Tell me about any traditional dancing in your country.",
+      "Do you think that traditional dancing will be popular in the future? [Why/Why not?]"
+     ]
+    }
+   ]
+  },
+  "part2": {
+   "topic": "Describe someone in your family who you like.",
+   "prompt": "You should say:",
+   "points": [
+    "how this person is related to you",
+    "what this person looks like",
+    "what kind of person he/she is"
+   ],
+   "closing": "and explain why you like this person."
+  },
+  "part3": {
+   "topics": [
+    {
+     "title": "Family similarities",
+     "questions": [
+      "In what ways can people in a family be similar to each other?",
+      "Do you think that daughters are always more similar to mothers than to male relatives? What about sons and fathers?",
+      "In terms of personality, are people more influenced by their family or by their friends? In what ways?"
+     ]
+    },
+    {
+     "title": "Genetic research",
+     "questions": [
+      "Where can people in your country get information about genetic research?",
+      "How do people in your country feel about genetic research?",
+      "Should this research be funded by governments or private companies? Why?"
+     ]
+    }
+   ]
+  }
+ },
  "issues": [
   "Q7, Q19 and Q32: the book prints two dotted lines for one question number ('from 7 ...... to ......', 'for 19 ...... and ......', 'made of 32 ...... and ......'); the key gives both parts as one answer (10 (am), 4.30 (pm) / Monday, Thursday / metal and leather IN EITHER ORDER), so a single gap is shown and the connecting words 'to' / 'and' after the gap are omitted.",
   "Q11–16: the heading 'Part of the theatre' printed above the question list is given as the last instruction line.",

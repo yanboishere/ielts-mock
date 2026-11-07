@@ -1,0 +1,47 @@
+{
+ "pages": [101],
+ "part1": {
+  "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+  "topics": [
+   {
+    "title": "Clothes",
+    "questions": [
+     "How important are clothes and fashion to you? [Why/Why not?]",
+     "What kind of clothes do you dislike? [Why?]",
+     "How different are the clothes you wear now from those you wore 10 years ago?",
+     "What do you think the clothes we wear say about us?"
+    ]
+   }
+  ]
+ },
+ "part2": {
+  "topic": "Describe a festival that is important in your country.",
+  "prompt": "You should say:",
+  "points": [
+   "when the festival occurs",
+   "what you did during it",
+   "what you like or dislike about it"
+  ],
+  "closing": "and explain why this festival is important."
+ },
+ "part3": {
+  "topics": [
+   {
+    "title": "Purpose of festivals and celebrations",
+    "questions": [
+     "Why do you think festivals are important events in the working year?",
+     "Would you agree that the original significance of festivals is often lost today? Is it good or bad, do you think?",
+     "Do you think that new festivals will be introduced in the future? What kind?"
+    ]
+   },
+   {
+    "title": "Festivals and the media",
+    "questions": [
+     "What role does the media play in festivals, do you think?",
+     "Do you think it's good or bad to watch festivals on TV? Why?",
+     "How may globalisation affect different festivals around the world?"
+    ]
+   }
+  ]
+ }
+}

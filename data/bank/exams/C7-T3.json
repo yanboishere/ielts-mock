@@ -1780,6 +1780,55 @@
    }
   ]
  },
+ "speaking": {
+  "pages": [
+   84
+  ],
+  "part1": {
+   "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+   "topics": [
+    {
+     "title": "Cold weather",
+     "questions": [
+      "Have you ever been in very cold weather? [When?]",
+      "How often is the weather cold where you come from?",
+      "Are some parts of your country colder than others? [Why?]",
+      "Would you prefer to live in a hot place or a cold place? [Why?]"
+     ]
+    }
+   ]
+  },
+  "part2": {
+   "topic": "Describe a competition (e.g. TV, college/work or sports competition) that you took part in.",
+   "prompt": "You should say:",
+   "points": [
+    "what kind of competition it was and how you found out about it",
+    "what you had to do",
+    "what the prizes were"
+   ],
+   "closing": "and explain why you chose to take part in this competition."
+  },
+  "part3": {
+   "topics": [
+    {
+     "title": "Competitions in school",
+     "questions": [
+      "Why do you think some school teachers use competitions as class activities?",
+      "Do you think it is a good thing to give prizes to children who do well at school? Why?",
+      "Would you say that schools for young children have become more or less competitive since you were that age? Why?"
+     ]
+    },
+    {
+     "title": "Sporting competitions",
+     "questions": [
+      "What are the advantages and disadvantages of intensive training for young sportspeople?",
+      "Some people think that competition leads to a better performance from sports stars. Others think it just makes players feel insecure. What is your opinion?",
+      "Do you think that it is possible to become too competitive in sport? In what way?"
+     ]
+    }
+   ]
+  }
+ },
  "issues": [
   "Listening Q11–16 are one printed group (\"SPONSORED WALKING HOLIDAY\"); split into three choice groups so that Q12's options (three pie charts A, B, C, shaded area = 'Money going to charity') can be shown as the group image; Q12 option texts are empty.",
   "Listening Section 3 diagram (Q23–25) carries a blue 'www.luckbar.com.cn' watermark stamp in the scan; it remains visible in the crop.",

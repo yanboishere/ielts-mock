@@ -1,0 +1,50 @@
+{
+ "pages": [31],
+ "part1": {
+  "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+  "topics": [
+   {
+    "title": "Neighbours",
+    "questions": [
+     "How well do you know the people who live next door to you?",
+     "How often do you see them? [Why/Why not?]",
+     "What kinds of problem do people sometimes have with their neighbours?",
+     "How do you think neighbours can help each other?"
+    ]
+   }
+  ]
+ },
+ "part2": {
+  "topic": "Describe a time when you were asked to give your opinion in a questionnaire or survey",
+  "prompt": "You should say:",
+  "points": [
+   "what the questionnaire/survey was about",
+   "why you were asked to give your opinions",
+   "what opinions you gave"
+  ],
+  "closing": "and explain how you felt about giving your opinions in this questionnaire/survey."
+ },
+ "part3": {
+  "topics": [
+   {
+    "title": "Asking questions",
+    "questions": [
+     "What kinds of organisation want to find out about people's opinions?",
+     "Do you think that questionnaires or surveys are good ways of finding out people's opinions?",
+     "What reasons might people have for not wanting to give their opinions?"
+    ]
+   },
+   {
+    "title": "Questionnaires in school",
+    "questions": [
+     "Do you think it would be a good idea for schools to ask students their opinions about lessons?",
+     "What would the advantages for schools be if they asked students their opinions?",
+     "Would there be any disadvantages in asking students' opinions?"
+    ]
+   }
+  ]
+ },
+ "issues": [
+  "Speaking Part 2: the book prints the cue-card topic without a final full stop ('Describe a time when you were asked to give your opinion in a questionnaire or survey'); checked against the page image and reproduced as printed."
+ ]
+}

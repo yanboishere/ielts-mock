@@ -1,0 +1,41 @@
+{
+  "pages": [32],
+  "part1": {
+    "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+    "topics": [
+      { "title": "Email",
+        "questions": [
+          "What kinds of emails do you receive about your work or studies?",
+          "Do you prefer to email, phone or text your friends? [Why?]",
+          "Do you reply to emails and messages as soon as you receive them? [Why/Why not?]",
+          "Are you happy to receive emails that are advertising things? [Why/Why not?]"
+        ] }
+    ]
+  },
+  "part2": {
+    "topic": "Describe a hotel that you know.",
+    "prompt": "You should say:",
+    "points": [
+      "where this hotel is",
+      "what this hotel looks like",
+      "what facilities this hotel has"
+    ],
+    "closing": "and explain whether you think this is a nice hotel to stay in."
+  },
+  "part3": {
+    "topics": [
+      { "title": "Staying in hotels",
+        "questions": [
+          "What things are important when people are choosing a hotel?",
+          "Why do some people not like staying in hotels?",
+          "Do you think staying in a luxury hotel is a waste of money?"
+        ] },
+      { "title": "Working in a hotel",
+        "questions": [
+          "Do you think hotel work is a good career for life?",
+          "How does working in a big hotel compare with working in a small hotel?",
+          "What skills are needed to be a successful hotel manager?"
+        ] }
+    ]
+  }
+}

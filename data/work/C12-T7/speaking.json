@@ -1,0 +1,49 @@
+{
+ "pages": [
+  73
+ ],
+ "part1": {
+  "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+  "topics": [
+   {
+    "title": "Clothes",
+    "questions": [
+     "Where do you buy most of your clothes? [Why?]",
+     "How often do you buy new clothes for yourself? [Why?]",
+     "How do you decide which clothes to buy? [Why?]",
+     "Have the kinds of clothes you like changed in recent years? [Why?/Why not?]"
+    ]
+   }
+  ]
+ },
+ "part2": {
+  "topic": "Describe an interesting discussion you had about how you spend your money.",
+  "prompt": "You should say:",
+  "points": [
+   "who you had the discussion with",
+   "why you discussed this topic",
+   "what the result of the discussion was"
+  ],
+  "closing": "and explain why this discussion was interesting for you."
+ },
+ "part3": {
+  "topics": [
+   {
+    "title": "Money and young people",
+    "questions": [
+     "Why do some parents give their children money to spend each week?",
+     "Do you agree that schools should teach children how to manage money?",
+     "Do you think it is a good idea for students to earn money while studying?"
+    ]
+   },
+   {
+    "title": "Money and society",
+    "questions": [
+     "Do you think it is true that in today's society money cannot buy happiness?",
+     "What disadvantages are there in a society where the gap between rich and poor is very large?",
+     "Do you think richer countries have a responsibility to help poorer countries?"
+    ]
+   }
+  ]
+ }
+}

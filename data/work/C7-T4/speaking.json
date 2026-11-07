@@ -1,0 +1,47 @@
+{
+ "pages": [107],
+ "part1": {
+  "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+  "topics": [
+   {
+    "title": "Travelling to work or college",
+    "questions": [
+     "How do you usually travel to work or college? [Why?]",
+     "Have you always travelled to work/college in the same way? [Why/Why not?]",
+     "What do you like about travelling to work/college this way?",
+     "What changes would improve the way you travel to work/college? [Why?]"
+    ]
+   }
+  ]
+ },
+ "part2": {
+  "topic": "Describe a piece of electronic equipment that you find useful.",
+  "prompt": "You should say:",
+  "points": [
+   "what it is",
+   "how you learned to use it",
+   "how long you have had it"
+  ],
+  "closing": "and explain why you find this piece of electronic equipment useful."
+ },
+ "part3": {
+  "topics": [
+   {
+    "title": "Technology and housework",
+    "questions": [
+     "What kinds of machine are used for housework in modern homes in your country?",
+     "How have these machines benefited people? Are there any negative effects of using them?",
+     "Do you think all new homes will be equipped with household machines in the future? Why?"
+    ]
+   },
+   {
+    "title": "Technology in the workplace",
+    "questions": [
+     "What kinds of equipment do most workers need to use in offices today?",
+     "How have developments in technology affected employment in your country?",
+     "Some people think that technology has brought more stress than benefits to employed people nowadays. Would you agree or disagree? Why?"
+    ]
+   }
+  ]
+ }
+}

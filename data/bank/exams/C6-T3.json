@@ -1765,6 +1765,55 @@
    }
   ]
  },
+ "speaking": {
+  "pages": [
+   78
+  ],
+  "part1": {
+   "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+   "topics": [
+    {
+     "title": "Traffic where you live",
+     "questions": [
+      "How do most people travel to work where you live?",
+      "What traffic problems are there in your area? [Why?]",
+      "How do traffic problems affect you?",
+      "How would you reduce the traffic problems in your area?"
+     ]
+    }
+   ]
+  },
+  "part2": {
+   "topic": "Describe a game or sport you enjoy playing.",
+   "prompt": "You should say:",
+   "points": [
+    "what kind of game or sport it is",
+    "who you play it with",
+    "where you play it"
+   ],
+   "closing": "and explain why you enjoy playing it."
+  },
+  "part3": {
+   "topics": [
+    {
+     "title": "Children's games",
+     "questions": [
+      "How have games changed from the time when you were a child?",
+      "Do you think this has been a positive change? Why?",
+      "Why do you think children like playing games?"
+     ]
+    },
+    {
+     "title": "Games and competition",
+     "questions": [
+      "Do you think competitive games are good or bad for children? In what ways?",
+      "How can games sometimes help to unite people?",
+      "Why is competition often seen as important in today's society?"
+     ]
+    }
+   ]
+  }
+ },
  "issues": [
   "Listening Q36: the book prints two dotted lines for one question number ('In the final stages of axe-making, 36 ...... and ...... were necessary'); the key gives 'IN EITHER ORDER water / sand' as one answer, so a single gap {{36}} is shown accepting both orders.",
   "Reading Passage 1 has no printed title in the book (Question 13 asks for the best title); the placeholder 'Reading Passage 1' is used.",

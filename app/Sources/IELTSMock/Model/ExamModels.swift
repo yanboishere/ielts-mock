@@ -3,7 +3,7 @@ import Foundation
 // Mirrors the `ielts-mock.exam/1` JSON schema produced by the bank builder (see ~/ielts-data/SCHEMA.md).
 
 enum Module: String, Codable, CaseIterable, Identifiable, Hashable {
-    case listening, reading, writing
+    case listening, reading, writing, speaking
     var id: String { rawValue }
 
     var title: String {
@@ -11,6 +11,7 @@ enum Module: String, Codable, CaseIterable, Identifiable, Hashable {
         case .listening: return "听力"
         case .reading: return "阅读"
         case .writing: return "写作"
+        case .speaking: return "口语"
         }
     }
 
@@ -19,6 +20,7 @@ enum Module: String, Codable, CaseIterable, Identifiable, Hashable {
         case .listening: return "Listening"
         case .reading: return "Reading"
         case .writing: return "Writing"
+        case .speaking: return "Speaking"
         }
     }
 
@@ -27,6 +29,7 @@ enum Module: String, Codable, CaseIterable, Identifiable, Hashable {
         case .listening: return "headphones"
         case .reading: return "book"
         case .writing: return "pencil.and.outline"
+        case .speaking: return "mic"
         }
     }
 
@@ -36,8 +39,12 @@ enum Module: String, Codable, CaseIterable, Identifiable, Hashable {
         case .listening: return "L"
         case .reading: return "R"
         case .writing: return "W"
+        case .speaking: return "S"
         }
     }
+
+    /// Modules answered on the question paper and run by `ExamSession` (Speaking has its own session).
+    var isPaperBased: Bool { self != .speaking }
 }
 
 struct Exam: Codable, Identifiable, Hashable {
@@ -49,6 +56,7 @@ struct Exam: Codable, Identifiable, Hashable {
     var listening: ListeningModule?
     var reading: ReadingModule?
     var writing: WritingModule?
+    var speaking: SpeakingModule?
 
     static func == (a: Exam, b: Exam) -> Bool { a.id == b.id }
     func hash(into h: inout Hasher) { h.combine(id) }
@@ -70,7 +78,7 @@ struct Exam: Codable, Identifiable, Hashable {
         switch module {
         case .listening: return listening?.answers ?? [:]
         case .reading: return reading?.answers ?? [:]
-        case .writing: return [:]
+        case .writing, .speaking: return [:]
         }
     }
 
@@ -78,7 +86,7 @@ struct Exam: Codable, Identifiable, Hashable {
         switch module {
         case .listening: return listening?.eitherOrder ?? []
         case .reading: return reading?.eitherOrder ?? []
-        case .writing: return []
+        case .writing, .speaking: return []
         }
     }
 
@@ -89,7 +97,7 @@ struct Exam: Codable, Identifiable, Hashable {
             return (listening?.parts ?? []).enumerated().flatMap { i, p in p.groups.map { (i, $0) } }
         case .reading:
             return (reading?.passages ?? []).enumerated().flatMap { i, p in p.groups.map { (i, $0) } }
-        case .writing:
+        case .writing, .speaking:
             return []
         }
     }
@@ -105,9 +113,89 @@ struct Exam: Codable, Identifiable, Hashable {
             return (listening?.parts ?? []).firstIndex { $0.range.count == 2 && number >= $0.range[0] && number <= $0.range[1] } ?? 0
         case .reading:
             return (reading?.passages ?? []).firstIndex { $0.range.count == 2 && number >= $0.range[0] && number <= $0.range[1] } ?? 0
-        case .writing:
+        case .writing, .speaking:
             return 0
         }
+    }
+}
+
+// MARK: - speaking
+
+struct SpeakingModule: Codable, Hashable {
+    var pages: [Int]?
+    var part1: SpeakingTopicSet?
+    var part2: CueCard?
+    var part3: SpeakingTopicSet?
+
+    var parts: [Int] {
+        var p: [Int] = []
+        if part1 != nil { p.append(1) }
+        if part2 != nil { p.append(2) }
+        if part3 != nil { p.append(3) }
+        return p
+    }
+}
+
+struct SpeakingTopicSet: Codable, Hashable {
+    var intro: String?
+    var topics: [SpeakingTopic]
+}
+
+struct SpeakingTopic: Codable, Hashable {
+    var title: String
+    var questions: [String]
+}
+
+struct CueCard: Codable, Hashable {
+    var topic: String
+    var prompt: String?
+    var points: [String]
+    var closing: String?
+    var followUp: [String]?
+
+    /// The instruction as the examiner reads it out: "I'd like you to describe a hotel that you know."
+    var spokenTopic: String {
+        let t = SpeakingQuestion.speakable(topic)
+        guard let f = t.first else { return t }
+        return "I'd like you to " + f.lowercased() + t.dropFirst()
+    }
+}
+
+/// A printed Part 1 / Part 3 question split into what the examiner asks and the bracketed prompt the examiner may
+/// add after the answer ("Do you prefer to email, phone or text your friends? [Why?]").
+struct SpeakingQuestion: Hashable {
+    var printed: String
+    var main: String
+    var prompt: String?
+
+    init(_ printed: String) {
+        self.printed = printed
+        if let r = printed.range(of: #"\s*\[([^\]]+)\]\s*$"#, options: .regularExpression) {
+            main = String(printed[..<r.lowerBound])
+            prompt = printed[r].trimmingCharacters(in: CharacterSet(charactersIn: " []"))
+        } else {
+            main = printed
+            prompt = nil
+        }
+    }
+
+    /// The printed prompt as the examiner would say it: "[Why?]" and "[Why/Why not?]" both become a neutral "Why's that?".
+    var spokenPrompt: String? {
+        guard let p = prompt else { return nil }
+        if p.lowercased().hasPrefix("why") { return "Why's that?" }
+        return Self.speakable(p)
+    }
+
+    var spokenMain: String { Self.speakable(main) }
+
+    /// Text for speech synthesis: no inline markup, and the examiner's blanks ("in ... / where you live") resolved.
+    static func speakable(_ s: String) -> String {
+        var t = InlineMarkup.strip(s)
+        t = t.replacingOccurrences(of: #"\bin (\.\.\.|…) ?/ ?"#, with: "", options: .regularExpression)
+        t = t.replacingOccurrences(of: #"(\.\.\.|…) ?/ ?"#, with: "", options: .regularExpression)
+        t = t.replacingOccurrences(of: "/", with: " or ")
+        t = t.replacingOccurrences(of: #"\s+"#, with: " ", options: .regularExpression)
+        return t.trimmingCharacters(in: .whitespaces)
     }
 }
 

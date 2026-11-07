@@ -23,7 +23,7 @@ final class AIService: ObservableObject {
 
     func isRunning(_ key: String) -> Bool { running[key] != nil }
 
-    private func run<T>(_ key: String, _ body: @escaping (LLMClient, @escaping @Sendable (Int) -> Void) async throws -> T) async throws -> T {
+    func run<T>(_ key: String, _ body: @escaping (LLMClient, @escaping @Sendable (Int) -> Void) async throws -> T) async throws -> T {
         errors[key] = nil
         running[key] = 0
         defer { running[key] = nil }
@@ -74,7 +74,7 @@ final class AIService: ObservableObject {
                 para.isImage ? "[figure]" : ((para.label.map { "\($0) " } ?? "") + InlineMarkup.strip(para.text))
             }.joined(separator: "\n\n")
             groups = p.groups
-        case .writing:
+        case .writing, .speaking:
             return []
         }
         let needed = Set(wrong.map(\.groupId))

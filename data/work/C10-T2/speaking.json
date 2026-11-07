@@ -1,0 +1,47 @@
+{
+ "pages": [48],
+ "part1": {
+  "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+  "topics": [
+   {
+    "title": "Music",
+    "questions": [
+     "What types of music do you like to listen to? [Why?]",
+     "At what times of day do you like to listen to music? [Why?]",
+     "Did you learn to play a musical instrument when you were a child? [Why/Why not?]",
+     "Do you think all children should learn to play a musical instrument? [Why/Why not?]"
+    ]
+   }
+  ]
+ },
+ "part2": {
+  "topic": "Describe a shop near where you live that you sometimes use.",
+  "prompt": "You should say:",
+  "points": [
+   "what sorts of product or service it sells",
+   "what the shop looks like",
+   "where it is located"
+  ],
+  "closing": "and explain why you use this shop."
+ },
+ "part3": {
+  "topics": [
+   {
+    "title": "Local business",
+    "questions": [
+     "What types of local business are there in your neighbourhood? Are there any restaurants, shops or dentists for example?",
+     "Do you think local businesses are important for a neighbourhood? In what way?",
+     "How do large shopping malls and commercial centres affect small local businesses? Why do you think that is?"
+    ]
+   },
+   {
+    "title": "People and business",
+    "questions": [
+     "Why do some people want to start their own business?",
+     "Are there any disadvantages to running a business? Which is the most serious?",
+     "What are the most important qualities that a good business person needs? Why is that?"
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "pages": [80],
+ "part1": {
+  "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+  "topics": [
+   {
+    "title": "Leisure",
+    "questions": [
+     "Do you have any hobbies or interests? [What are they?]",
+     "How did you become interested in (*whatever hobby/interest the candidate mentions*)?",
+     "What is there to do in your free time in (*candidate's home town/village*)?",
+     "How do you usually spend your holidays?",
+     "Is there anywhere you would particularly like to visit? [Why?]"
+    ]
+   }
+  ]
+ },
+ "part2": {
+  "topic": "Describe a river, lake or sea which you like.",
+  "prompt": "You should say:",
+  "points": [
+   "what the river, lake or sea is called",
+   "where it is",
+   "what the land near it is like"
+  ],
+  "closing": "and explain why you like this river, lake or sea."
+ },
+ "part3": {
+  "topics": [
+   {
+    "title": "Water-based leisure activities",
+    "questions": [
+     "What do people enjoy doing when they visit rivers, lakes or the sea? Why do you think these activities are popular?",
+     "What benefits do you think people get from the activities they enjoy in the water?",
+     "What are the different advantages of going to the sea or to a swimming pool to enjoy yourself? What do you think the disadvantages are?"
+    ]
+   },
+   {
+    "title": "The economic importance of rivers, lakes and the sea",
+    "questions": [
+     "How does water transport, like boats and ships, compare with other kinds? Are there any advantages/disadvantages of water transport?",
+     "How important is it for a town or city to be located near a river or the sea? Why?",
+     "Have there been any changes in the number of jobs available in fishing and water transport industries, do you think? Why do you think this is?"
+    ]
+   }
+  ]
+ }
+}

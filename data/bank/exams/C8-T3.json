@@ -1746,7 +1746,57 @@
    }
   ]
  },
+ "speaking": {
+  "pages": [
+   79
+  ],
+  "part1": {
+   "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+   "topics": [
+    {
+     "title": "Flowers",
+     "questions": [
+      "Do you like to have flowers in your home? [Why/Why not?]",
+      "Where would you go to buy flowers? [Why?]",
+      "On what occasions would you give someone flowers?",
+      "Are flowers important in your culture? [Why/Why not?]"
+     ]
+    }
+   ]
+  },
+  "part2": {
+   "topic": "Describe a meeting you remember going to at work, college or school.",
+   "prompt": "You should say:",
+   "points": [
+    "when and where the meeting was held",
+    "who was at the meeting",
+    "what the people at the meeting talked about"
+   ],
+   "closing": "and explain why you remember going to this meeting."
+  },
+  "part3": {
+   "topics": [
+    {
+     "title": "Going to meetings",
+     "questions": [
+      "What are the different types of meeting that people often go to?",
+      "Some people say that no-one likes to go to meetings – what do you think?",
+      "Why can it sometimes be important to go to meetings?"
+     ]
+    },
+    {
+     "title": "International meetings",
+     "questions": [
+      "Why do you think world leaders often have meetings together?",
+      "What possible difficulties might be involved in organising meetings between world leaders?",
+      "Do you think that meetings between international leaders will become more frequent in the future? Or will there be less need for world leaders to meet?"
+     ]
+    }
+   ]
+  }
+ },
  "issues": [
-  "R1 Q11-13: the book prints the rubric \"Do the following statements agree with the information given in Reading Passage 1?\" but with YES/NO/NOT GIVEN options (claims of the writer); reproduced as printed, answers keyed as YES/NO/NOT GIVEN."
+  "R1 Q11-13: the book prints the rubric \"Do the following statements agree with the information given in Reading Passage 1?\" but with YES/NO/NOT GIVEN options (claims of the writer); reproduced as printed, answers keyed as YES/NO/NOT GIVEN.",
+  "Speaking Part 2: in the book the last cue-card point and the closing line share a printed line ('what the people at the meeting talked' / 'about and explain why you remember going' / 'to this meeting.'); split as point 'what the people at the meeting talked about' and closing 'and explain why you remember going to this meeting.'. No wording changed."
  ]
 }

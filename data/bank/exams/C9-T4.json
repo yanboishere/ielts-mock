@@ -1709,6 +1709,56 @@
    }
   ]
  },
+ "speaking": {
+  "pages": [
+   113,
+   114
+  ],
+  "part1": {
+   "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+   "topics": [
+    {
+     "title": "Bicycles",
+     "questions": [
+      "How popular are bicycles in your home town? [Why?]",
+      "How often do you ride a bicycle? [Why/Why not?]",
+      "Do you think that bicycles are suitable for all ages? [Why/Why not?]",
+      "What are the advantages of a bicycle compared to a car? [Why?]"
+     ]
+    }
+   ]
+  },
+  "part2": {
+   "topic": "Describe a person who has done a lot of work to help people.",
+   "prompt": "You should say:",
+   "points": [
+    "who this person is/was",
+    "where this person lives/lived",
+    "what he/she has done to help people"
+   ],
+   "closing": "and explain how you know about this person."
+  },
+  "part3": {
+   "topics": [
+    {
+     "title": "Helping other people in the community",
+     "questions": [
+      "What are some of the ways people can help others in the community? Which is most important?",
+      "Why do you think some people like to help other people?",
+      "Some people say that people help others in the community more now than they did in the past. Do you agree or disagree? Why?"
+     ]
+    },
+    {
+     "title": "Community Services",
+     "questions": [
+      "What types of services, such as libraries or health centres, are available to the people who live in your area? Do you think there are enough of them?",
+      "Which group of people generally need most support in a community? Why?",
+      "Who do you think should pay for the services that are available to the people in a community? Should it be the government or individual people?"
+     ]
+    }
+   ]
+  }
+ },
  "issues": [
   "C9 is a retyped edition; unambiguous typing errors corrected (Listening):",
   "Q7-10 table: 'Health eating' -> 'Healthy eating'; 'Avoiding injures' -> 'Avoiding injuries'; 'room4'/'room6' -> 'room 4'/'room 6'",
@@ -1738,6 +1788,8 @@
   "P3 para D: 'market forces and , although' -> 'and, although'; 'a very competitive environments' -> 'environment'",
   "Q31 options B–D printed with capital initials ('Were not…', 'Were more…', 'Preserved…') -> lower case; Q34 option D missing full stop added",
   "P3 para E: 'For example, Pithecanthropus erectus corresponds to public perceptions.' – words appear to be missing (the original text says where/how it is depicted); intended wording uncertain, kept as printed",
-  "A photograph of Marie Curie printed after Passage 1 was not reproduced (decorative)."
+  "A photograph of Marie Curie printed after Passage 1 was not reproduced (decorative).",
+  "C9 is a retyped edition; unambiguous typing error corrected (Speaking): Part 3 'people help others In the community' -> 'people help others in the community' (stray capital mid-sentence).",
+  "Speaking Part 3 topic title 'Community Services' kept as printed (title case, unlike the book's other sentence-case topic titles; not an unambiguous error)."
  ]
 }

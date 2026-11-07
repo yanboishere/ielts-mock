@@ -1579,6 +1579,56 @@
    }
   ]
  },
+ "speaking": {
+  "pages": [
+   82,
+   83
+  ],
+  "part1": {
+   "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+   "topics": [
+    {
+     "title": "Telephoning",
+     "questions": [
+      "How often do you make telephone calls? [Why/Why not?]",
+      "Who do you spend most time talking to on the telephone? [Why?]",
+      "When do you think you'll next make a telephone call? [Why?]",
+      "Do you sometimes prefer to send a text message instead of telephoning? [Why/Why not?]"
+     ]
+    }
+   ]
+  },
+  "part2": {
+   "topic": "Describe a journey [e.g. by car, plane, boat] that you remember well.",
+   "prompt": "You should say:",
+   "points": [
+    "where you went",
+    "how you travelled",
+    "why you went on the journey"
+   ],
+   "closing": "and explain why you remember this journey well."
+  },
+  "part3": {
+   "topics": [
+    {
+     "title": "Reasons for daily travel",
+     "questions": [
+      "Why do people need to travel every day?",
+      "What problems can people have when they are on their daily journey, for example to work or school? Why is this?",
+      "Some people say that daily journeys like these will not be so common in the future. Do you agree or disagree? Why?"
+     ]
+    },
+    {
+     "title": "Benefits of international travel",
+     "questions": [
+      "What do you think people can learn from travelling to other countries? Why?",
+      "Can travel make a positive difference to the economy of a country? How?",
+      "Do you think a society can benefit if its members have experience of travelling to other countries? In what ways?"
+     ]
+    }
+   ]
+  }
+ },
  "issues": [
   "C9 is a retyped PDF; unambiguous typing errors corrected: Q1–5 table header 'Facilites' → 'Facilities'; Q6–10 table title 'GREEK ISLAND HOILDAYS' → 'GREEK ISLAND HOLIDAYS'; Q14–18 'each the following people' → 'each of the following people'; Q19–20 rubric 'ONE WORD AND/OR NUMBER' → 'ONE WORD AND/OR A NUMBER'; transcript Section 1 'why don't | send' → 'why don't I send' and 'l've/l'd/l'm' → 'I've/I'd/I'm'.",
   "Section 1 transcript: the text layer gives '€10,000' at Q6, but the page image prints '£10,000'; image followed. The Q9 margin marker was missing from the text layer and was placed from the image.",
@@ -1588,6 +1638,7 @@
   "Reading Q33 and Q35: the notes print two blanks ('33 ____ and ____', '35 ____ and ____') for a single question (key: in either order, both required for one mark); each rendered as one gap accepting e.g. 'Jupiter and Saturn'.",
   "Kept as printed (words apparently missing, intended wording not certain): P3 para B 'the longest-distance repair job history' (probably 'job in history'); P3 para E 'so-called turbo—which come very close' (probably 'turbo codes'); P2 para C 'Southampton has been rewarded £215,000' and the unclosed quotation in Dr Bahaj's statement.",
   "Reading Q23–26 diagram labels are part of the cropped image and are shown as printed.",
-  "Writing Task 1 prompt: the PDF prints 'relavant'; corrected to 'relevant'."
+  "Writing Task 1 prompt: the PDF prints 'relavant'; corrected to 'relevant'.",
+  "C9 is a retyped edition; unambiguous typing error corrected (Speaking): Part 2 closing 'And explain why you remember this journey well.' -> 'and explain ...' (lower-case continuation of 'You should say:', as on the Test 2 and Test 4 cue cards)."
  ]
 }

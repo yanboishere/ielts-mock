@@ -1,0 +1,47 @@
+{
+ "pages": [79],
+ "part1": {
+  "intro": "The examiner asks you about yourself, your home, work or studies and other familiar topics.",
+  "topics": [
+   {
+    "title": "Online shopping",
+    "questions": [
+     "How often do you buy things online? [Why?]",
+     "What was the last thing you bought online?",
+     "Do you ever see things in shops and then buy them online? [Why/Why not?]",
+     "Do you think the popularity of online shopping is changing your town or city centre? [Why/Why not?]"
+    ]
+   }
+  ]
+ },
+ "part2": {
+  "topic": "Describe a time when you enjoyed visiting a member of your family in their home.",
+  "prompt": "You should say:",
+  "points": [
+   "who you visited and where they lived",
+   "why you made this visit",
+   "what happened during this visit"
+  ],
+  "closing": "and explain what you enjoyed about this visit."
+ },
+ "part3": {
+  "topics": [
+   {
+    "title": "Family occasions",
+    "questions": [
+     "When do families celebrate together in your country?",
+     "How often do all the generations in a family come together in your country?",
+     "Why is it that some people might *not* enjoy attending family occasions?"
+    ]
+   },
+   {
+    "title": "Everyday life in families",
+    "questions": [
+     "Do you think it is a good thing for parents to help their children with schoolwork?",
+     "How important do you think it is for families to eat together at least once a day?",
+     "Do you believe that everyone in a family should share household tasks?"
+    ]
+   }
+  ]
+ }
+}

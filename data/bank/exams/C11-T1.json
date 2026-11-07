@@ -1579,5 +1579,56 @@
    }
   ]
  },
- "issues": []
+ "speaking": {
+  "pages": [
+   30
+  ],
+  "part1": {
+   "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+   "topics": [
+    {
+     "title": "Food and cooking",
+     "questions": [
+      "What sorts of food do you like eating most? [Why?]",
+      "Who normally does the cooking in your home? [Why/Why not?]",
+      "Do you watch cookery programmes on TV? [Why/Why not?]",
+      "In general, do you prefer eating out or eating at home? [Why?]"
+     ]
+    }
+   ]
+  },
+  "part2": {
+   "topic": "Describe a house/apartment that someone you know lives in.",
+   "prompt": "You should say:",
+   "points": [
+    "whose house/apartment this is",
+    "where the house/apartment is",
+    "what it looks like inside"
+   ],
+   "closing": "and explain what you like or dislike about this person's house/apartment."
+  },
+  "part3": {
+   "topics": [
+    {
+     "title": "Different types of home",
+     "questions": [
+      "What kinds of home are most popular in your country? Why is this?",
+      "What do you think are the advantates of living in a house rather than an apartment?",
+      "Do you think that everyone would like to live in a larger home? Why is that?"
+     ]
+    },
+    {
+     "title": "Finding a place to live",
+     "questions": [
+      "How easy is it to find a place to live in your country?",
+      "Do you think it's better to rent or to buy a place to live in? Why?",
+      "Do you agree that there is a right age for young adults to stop living with their parents? Why is that?"
+     ]
+    }
+   ]
+  }
+ },
+ "issues": [
+  "Speaking Part 3 (Different types of home): the book itself prints 'advantates' (for 'advantages') in 'What do you think are the advantates of living in a house rather than an apartment?' (checked against the page image); reproduced as printed."
+ ]
 }

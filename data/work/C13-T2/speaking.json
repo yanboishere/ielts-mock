@@ -1,0 +1,44 @@
+{
+ "pages": [54],
+ "part1": {
+  "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+  "topics": [
+   {"title": "Age",
+    "questions": [
+     "Are you happy to be the age you are now? [Why/Why not?]",
+     "When you were a child, did you think a lot about your future? [Why/Why not?]",
+     "Do you think you have changed as you have got older? [Why/Why not?]",
+     "What will be different about your life in the future? [Why]"
+    ]}
+  ]
+ },
+ "part2": {
+  "topic": "Describe a time when you started using a new technological device (e.g. a new computer or phone).",
+  "prompt": "You should say:",
+  "points": [
+   "what device you started using",
+   "why you started using this device",
+   "how easy or difficult it was to use"
+  ],
+  "closing": "and explain how helpful this device was to you."
+ },
+ "part3": {
+  "topics": [
+   {"title": "Technology and education",
+    "questions": [
+     "What is the best age for children to start computer lessons?",
+     "Do you think that schools should use more technology to help children learn?",
+     "Do you agree or disagree that computers will replace teachers one day?"
+    ]},
+   {"title": "Technology and society",
+    "questions": [
+     "How much has technology improved how we communicate with each other?",
+     "Do you agree that there are still many more major technological innovations to be made?",
+     "Could you suggest some reasons why some people are deciding to reduce their use of technology?"
+    ]}
+  ]
+ },
+ "issues": [
+  "Speaking Part 1 ('Age'): the last prompt is printed '[Why]' (no question mark); kept as printed."
+ ]
+}

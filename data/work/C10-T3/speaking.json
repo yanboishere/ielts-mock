@@ -1,0 +1,50 @@
+{
+ "pages": [71],
+ "part1": {
+  "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+  "topics": [
+   {
+    "title": "Travel",
+    "questions": [
+     "Do you enjoy travelling? [Why/Why not?]",
+     "Have you done much travelling? [Why/Why not?]",
+     "Do you think it's better to travel alone or with other people? [Why?]",
+     "Where would you like to travel in the future? [Why?]"
+    ]
+   }
+  ]
+ },
+ "part2": {
+  "topic": "Describe a child that you know.",
+  "prompt": "You should say:",
+  "points": [
+   "who this child is and how often you see him or her",
+   "how old this child is",
+   "what he or she is like"
+  ],
+  "closing": "and explain what you feel about this child."
+ },
+ "part3": {
+  "topics": [
+   {
+    "title": "Relationships between parents and children",
+    "questions": [
+     "How much time do children spend with their parents in your country? Do you think that is enough?",
+     "How important do you think spending time together is for the relationships between parents and children? Why?",
+     "Have relationships between parents and children changed in recent years? Why do you think that is?"
+    ]
+   },
+   {
+    "title": "Children's free-time activities",
+    "questions": [
+     "What are the most popular free-time activities with children today?",
+     "Do you think the free-time activities children do today are good for their health? Why is that?",
+     "How do you think children's activities will change in the future? Will this be a positive change?"
+    ]
+   }
+  ]
+ },
+ "issues": [
+  "Speaking (scan page 71, book p. 79): the binding shadow partly hides the first letter of several lines at the left margin (e.g. 'How', 'is', 'parents', 'Have', 'think', 'What', 'positive' in Part 3); the words are unambiguous from the visible remainder and were restored without change of wording."
+ ]
+}

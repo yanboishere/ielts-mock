@@ -1,0 +1,47 @@
+{
+ "pages": [55],
+ "part1": {
+  "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+  "topics": [
+   {
+    "title": "Musical instruments",
+    "questions": [
+     "Which instrument do you like listening to most? [Why?]",
+     "Have you ever learned to play a musical instrument? [Which one?]",
+     "Do you think children should learn to play a musical instrument at school? [Why/Why not?]",
+     "How easy would it be to learn to play an instrument without a teacher? [Why?]"
+    ]
+   }
+  ]
+ },
+ "part2": {
+  "topic": "Describe something healthy you enjoy doing.",
+  "prompt": "You should say:",
+  "points": [
+   "what you do",
+   "where you do it",
+   "who you do it with"
+  ],
+  "closing": "and explain why you think doing this is healthy."
+ },
+ "part3": {
+  "topics": [
+   {
+    "title": "Keeping fit and healthy",
+    "questions": [
+     "What do most people do to keep fit in your country?",
+     "How important is it for people to do some regular physical exercise?"
+    ]
+   },
+   {
+    "title": "Health and modern lifestyles",
+    "questions": [
+     "Why do some people think that modern lifestyles are not healthy?",
+     "Why do some people choose to lead unhealthy lives?",
+     "Should individuals or governments be responsible for making people's lifestyle healthy?",
+     "What could be done to encourage people to live in a healthy way?"
+    ]
+   }
+  ]
+ }
+}

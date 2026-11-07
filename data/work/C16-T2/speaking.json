@@ -1,0 +1,41 @@
+{
+  "pages": [56],
+  "part1": {
+    "intro": "The examiner asks you about yourself, your home, work or studies and other familiar topics.",
+    "topics": [
+      { "title": "Flowers and plants",
+        "questions": [
+          "Do you have a favourite flower or plant? [Why/Why not?]",
+          "What kinds of flowers and plants grow near where you live? [Why/Why not?]",
+          "Is it important to you to have flowers and plants in your home? [Why/Why not?]",
+          "Have you ever bought flowers for someone else? [Why/Why not?]"
+        ] }
+    ]
+  },
+  "part2": {
+    "topic": "Describe a review you read about a product or service.",
+    "prompt": "You should say:",
+    "points": [
+      "where you read the review",
+      "what the product or service was",
+      "what information the review gave about the product or service"
+    ],
+    "closing": "and explain what you did as a result of reading this review."
+  },
+  "part3": {
+    "topics": [
+      { "title": "Online reviews",
+        "questions": [
+          "What kinds of things do people write online reviews about in your country?",
+          "Why do some people write online reviews?",
+          "Do you think that online reviews are good for both shoppers and companies?"
+        ] },
+      { "title": "Customer service",
+        "questions": [
+          "What do you think it might be like to work in a customer service job?",
+          "Do you agree that customers are more likely to complain nowadays?",
+          "How important is it for companies to take all customer complaints seriously?"
+        ] }
+    ]
+  }
+}

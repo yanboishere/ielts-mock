@@ -1544,5 +1544,54 @@
    }
   ]
  },
+ "speaking": {
+  "pages": [
+   77
+  ],
+  "part1": {
+   "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+   "topics": [
+    {
+     "title": "Photographs",
+     "questions": [
+      "What type of photos do you like taking? [Why/Why not?]",
+      "What do you do with photos you take? [Why/Why not?]",
+      "When you visit other places, do you take photos or buy postcards? [Why/Why not?]",
+      "Do you like people taking photos of you? [Why/Why not?]"
+     ]
+    }
+   ]
+  },
+  "part2": {
+   "topic": "Describe a day when you thought the weather was perfect.",
+   "prompt": "You should say:",
+   "points": [
+    "where you were on this day",
+    "what the weather was like on this day",
+    "what you did during the day"
+   ],
+   "closing": "and explain why you thought the weather was perfect on this day."
+  },
+  "part3": {
+   "topics": [
+    {
+     "title": "Types of weather",
+     "questions": [
+      "What types of weather do people in your country dislike most? Why is that?",
+      "What jobs can be affected by different weather conditions? Why?",
+      "Are there any important festivals in your country that celebrate a season or type of weather?"
+     ]
+    },
+    {
+     "title": "Weather forecasts",
+     "questions": [
+      "How important do you think it is for everyone to check what the next day's weather will be? Why?",
+      "What is the best way to get accurate information about the weather?",
+      "How easy or difficult is it to predict the weather in your country? Why is that?"
+     ]
+    }
+   ]
+  }
+ },
  "issues": []
 }

@@ -1542,6 +1542,55 @@
    }
   ]
  },
+ "speaking": {
+  "pages": [
+   74
+  ],
+  "part1": {
+   "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+   "topics": [
+    {
+     "title": "Money",
+     "questions": [
+      "When you go shopping, do you prefer to pay for things in cash or by card? [Why?]",
+      "Do you ever save money to buy special things? [Why/Why not?]",
+      "Would you ever take a job which had low pay? [Why/Why not?]",
+      "Would winning a lot of money make a big difference to your life? [Why/Why not?]"
+     ]
+    }
+   ]
+  },
+  "part2": {
+   "topic": "Describe an interesting discussion you had as part of your work or studies.",
+   "prompt": "You should say:",
+   "points": [
+    "what the subject of the discussion was",
+    "who you discussed the subject with",
+    "what opinions were expressed"
+   ],
+   "closing": "and explain why you found the discussion interesting."
+  },
+  "part3": {
+   "topics": [
+    {
+     "title": "Discussing problems with others",
+     "questions": [
+      "Why is it good to discuss problems with other people?",
+      "Do you think that it's better to talk to friends and not family about problems?",
+      "Is it always a good idea to tell lots of people about a problem?"
+     ]
+    },
+    {
+     "title": "Communication skills at work",
+     "questions": [
+      "Which communication skills are most important when taking part in meetings with colleagues?",
+      "What are the possible effects of poor written communication skills at work?",
+      "What do you think will be the future impact of technology on communication in the workplace?"
+     ]
+    }
+   ]
+  }
+ },
  "issues": [
   "Q1–16 question pages are missing from the source scan (book pp. 54–55); question text rebuilt from online retyped copies (engnovate, ieltstrainingonline, luckyielts) and cross-checked against the answer key and audioscript."
  ]

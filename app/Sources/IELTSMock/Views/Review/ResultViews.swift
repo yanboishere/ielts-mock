@@ -39,7 +39,9 @@ struct AttemptView: View {
                     .frame(maxWidth: 360)
                 }
                 let m = a.modules.contains(tab) ? tab : (a.modules.first ?? .listening)
-                if m == .writing {
+                if m == .speaking {
+                    SpeakingResultView(attempt: a, ref: ref)
+                } else if m == .writing {
                     WritingResultView(attempt: a, ref: ref)
                 } else {
                     ObjectiveResultView(attempt: a, ref: ref, module: m) { reviewing = m }
@@ -63,6 +65,8 @@ struct AttemptView: View {
                     Text(m.title).font(.caption).foregroundStyle(.secondary)
                     if m == .writing {
                         BandBadge(band: a.writingBand, size: 26)
+                    } else if m == .speaking {
+                        BandBadge(band: a.speakingBand, size: 26)
                     } else if let s = a.scores[m] {
                         Text("\(s.correct)/\(s.total)").font(.title3.bold().monospacedDigit())
                         if let b = s.band { Text("Band \(Grader.bandString(b))").font(.caption.bold()).foregroundStyle(Theme.brand) }
@@ -130,7 +134,7 @@ struct ObjectiveResultView: View {
         switch module {
         case .listening: return "Part \(s + 1)"
         case .reading: return "Passage \(s + 1)" + (ref.exam.reading?.passages[safe: s].map { " · " + InlineMarkup.strip($0.title) } ?? "")
-        case .writing: return ""
+        case .writing, .speaking: return ""
         }
     }
 
@@ -271,6 +275,17 @@ enum AIActions {
             let r = try await ai.assess(ref: ref, task: task, essay: essay)
             guard var cur = history.attempt(attemptId) else { return }
             cur.assessments[task.task] = r
+            history.save(cur)
+        } catch {}
+    }
+
+    static func assessSpeaking(ai: AIService, history: HistoryStore, attemptId: UUID, ref: ExamRef) async {
+        guard let a = history.attempt(attemptId), let record = a.speaking else { return }
+        let practice = a.mode == .practice ? a.scopes.first?.section.map { $0 + 1 } : nil
+        do {
+            let r = try await ai.assessSpeaking(ref: ref, record: record, practicePart: practice)
+            guard var cur = history.attempt(attemptId) else { return }
+            cur.speaking?.assessment = r
             history.save(cur)
         } catch {}
     }

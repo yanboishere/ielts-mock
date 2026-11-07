@@ -1663,5 +1663,54 @@
    }
   ]
  },
+ "speaking": {
+  "pages": [
+   99
+  ],
+  "part1": {
+   "intro": "The examiner asks you about yourself, your home, work or studies and other familiar topics.",
+   "topics": [
+    {
+     "title": "Fast food",
+     "questions": [
+      "What kinds of fast food have you tried? [Why/Why not?]",
+      "Do you ever use a microwave to cook food quickly? [Why/Why not?]",
+      "How popular are fast food restaurants where you live? [Why/Why not?]",
+      "When would you go to a fast-food restaurant? [Why/Why not?]"
+     ]
+    }
+   ]
+  },
+  "part2": {
+   "topic": "Describe some technology (e.g. an app, phone, software program) that you decided to stop using.",
+   "prompt": "You should say:",
+   "points": [
+    "when and where you got this technology",
+    "why you started using this technology",
+    "why you decided to stop using it"
+   ],
+   "closing": "and explain how you feel about the decision you made."
+  },
+  "part3": {
+   "topics": [
+    {
+     "title": "Computer games",
+     "questions": [
+      "What kinds of computer games do people play in your country?",
+      "Why do people enjoy playing computer games?",
+      "Do you think that all computer games should have a minimum age for players?"
+     ]
+    },
+    {
+     "title": "Technology in the classroom",
+     "questions": [
+      "In what ways can technology in the classroom be helpful?",
+      "Do you agree that students are often better at using technology than their teachers?",
+      "Do you believe that computers will ever replace human teachers?"
+     ]
+    }
+   ]
+  }
+ },
  "issues": []
 }

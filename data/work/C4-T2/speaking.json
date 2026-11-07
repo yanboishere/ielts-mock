@@ -1,0 +1,48 @@
+{
+ "pages": [56],
+ "part1": {
+  "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+  "topics": [
+   {
+    "title": "Food and cooking",
+    "questions": [
+     "What kinds of food do you like to eat?",
+     "What kind of new food would you like to try? [Why?]",
+     "Do you like cooking? [Why/Why not?]",
+     "What was the last meal you cooked?",
+     "Do you prefer home-cooked food or food from restaurants? [Why?]"
+    ]
+   }
+  ]
+ },
+ "part2": {
+  "topic": "Describe an interest or hobby that you enjoy.",
+  "prompt": "You should say:",
+  "points": [
+   "how you became interested in it",
+   "how long you have been doing it",
+   "why you enjoy it"
+  ],
+  "closing": "and explain what benefits you get from this interest or hobby."
+ },
+ "part3": {
+  "topics": [
+   {
+    "title": "The social benefits of hobbies",
+    "questions": [
+     "Do you think having a hobby is good for people's social life? In what way?",
+     "Are there any negative effects of a person spending too much time on their hobby? What are they?",
+     "Why do you think people need to have an interest or hobby?"
+    ]
+   },
+   {
+    "title": "Leisure time",
+    "questions": [
+     "In your country, how much time do people spend on work and how much time on leisure? Is this a good balance, do you think?",
+     "Would you say the amount of free time has changed much in the last fifty years?",
+     "Do you think people will have more or less free time in the future? Why?"
+    ]
+   }
+  ]
+ }
+}

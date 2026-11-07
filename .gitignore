@@ -18,3 +18,5 @@ tools/qa/dewatermark
 data/ocr/
 data/bank/audio/
 data/bank/pages/
+# speech.cpp build output (scripts/build_speech.sh)
+app/Vendor/speech/speech

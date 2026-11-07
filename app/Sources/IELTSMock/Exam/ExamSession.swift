@@ -126,6 +126,7 @@ final class ExamSession: ObservableObject, Identifiable {
         case .listening: return Array((exam.listening?.parts ?? []).indices)
         case .reading: return Array((exam.reading?.passages ?? []).indices)
         case .writing: return Array((exam.writing?.tasks ?? []).indices)
+        case .speaking: return []
         }
     }
 
@@ -134,7 +135,7 @@ final class ExamSession: ObservableObject, Identifiable {
         switch module {
         case .listening: return sections.flatMap { i in exam.listening.map { p in Array(p.parts[i].first...p.parts[i].last) } ?? [] }
         case .reading: return sections.flatMap { i in exam.reading.map { p in Array(p.passages[i].first...p.passages[i].last) } ?? [] }
-        case .writing: return []
+        case .writing, .speaking: return []
         }
     }
 
@@ -168,6 +169,8 @@ final class ExamSession: ObservableObject, Identifiable {
             remaining = resuming ? (attempt.remaining[module] ?? allotted) : allotted
             deadline = nil
             paused = false
+        case .speaking:
+            break
         }
         awaitingStart = true
         save(force: true)
@@ -184,6 +187,8 @@ final class ExamSession: ObservableObject, Identifiable {
             }
         case .reading, .writing:
             deadline = Date().addingTimeInterval(remaining)
+        case .speaking:
+            break
         }
     }
 
@@ -195,7 +200,7 @@ final class ExamSession: ObservableObject, Identifiable {
         case .writing:
             if let s = stage.section, let t = exam.writing?.tasks[safe: s] { return Double(t.minutes) * 60 }
             return Double(settings.writingMinutes) * 60
-        case .listening:
+        case .listening, .speaking:
             return 0
         }
     }

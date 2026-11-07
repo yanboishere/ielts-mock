@@ -1712,6 +1712,56 @@
    }
   ]
  },
+ "speaking": {
+  "pages": [
+   102
+  ],
+  "part1": {
+   "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+   "topics": [
+    {
+     "title": "Your favourite place",
+     "questions": [
+      "What place do you most like to visit?",
+      "How often do you visit this place?",
+      "Why do you like it so much?",
+      "Is it popular with many other people?",
+      "Has it changed very much since you first went there? [In what way?]"
+     ]
+    }
+   ]
+  },
+  "part2": {
+   "topic": "Describe a useful website you have visited.",
+   "prompt": "You should say:",
+   "points": [
+    "what the website was",
+    "how you found the address for this website",
+    "what the website contained"
+   ],
+   "closing": "and explain why it was useful to you."
+  },
+  "part3": {
+   "topics": [
+    {
+     "title": "The Internet and communication",
+     "questions": [
+      "What effect has the Internet had on the way people generally communicate with each other?",
+      "Why do you think the Internet is being used more and more for communication?",
+      "How reliable do you think information from the Internet is? Why? What about the news on the Internet?"
+     ]
+    },
+    {
+     "title": "The Internet and shopping",
+     "questions": [
+      "Why do you think some people use the Internet for shopping? Why doesn't everyone use it in this way?",
+      "What kinds of things are easy to buy and sell online? Can you give me some examples?",
+      "Do you think shopping on the Internet will be more or less popular in the future? Why?"
+     ]
+    }
+   ]
+  }
+ },
  "issues": [
   "Writing Task 1 sample answer and examiner comment: the book prints the unrendered entity '&dollar;' / '&dollar' (presumably intended as '$') before the figures; reproduced as printed."
  ]

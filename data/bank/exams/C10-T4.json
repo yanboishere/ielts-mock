@@ -1726,5 +1726,58 @@
    }
   ]
  },
- "issues": []
+ "speaking": {
+  "pages": [
+   95
+  ],
+  "part1": {
+   "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+   "topics": [
+    {
+     "title": "School",
+     "questions": [
+      "Did you go to secondary/high school near to where you lived? [Why/Why not?]",
+      "What did you like about your secondary/high school? [Why?]",
+      "Tell me about anything you didn't like at your school.",
+      "How do you think your school could be improved? [Why/Why not?]"
+     ]
+    }
+   ]
+  },
+  "part2": {
+   "topic": "Describe something you don't have now but would really like to own in the future.",
+   "prompt": "You should say:",
+   "points": [
+    "what this thing is",
+    "how long you have wanted to own it",
+    "where you first saw it"
+   ],
+   "closing": "and explain why you would like to own it."
+  },
+  "part3": {
+   "topics": [
+    {
+     "title": "Owning things",
+     "questions": [
+      "What types of things do young people in your country most want to own today? Why is this?",
+      "Why do some people feel they need to own things?",
+      "Do you think that owning lots of things makes people happy? Why?"
+     ]
+    },
+    {
+     "title": "Salaries for skilled people",
+     "questions": [
+      "Do you think television and films can make people want to get new possessions? Why do they have this effect?",
+      "Are there any benefits to society of people wanting to get new possessions? Why do you think this is?",
+      "Do you think people will consider that having lots of possessions is a sign of success in the future? Why?"
+     ]
+    }
+   ]
+  }
+ },
+ "issues": [
+  "Speaking Part 3: the book prints the second discussion-topic heading as 'Salaries for skilled people' (the same heading as Test 1 Part 3), although its questions are about possessions; checked against the page image and reproduced as printed.",
+  "Speaking Part 1 (School): the word 'didn't' in 'Tell me about anything you didn't like at your school.' is underlined in the book; underline has no markup in the schema, so it is kept as plain text. The prompt '[Why/Why not?]' after 'How do you think your school could be improved?' is also as printed.",
+  "Speaking (scan page 95, book p. 103): the binding shadow partly hides the first letter of several lines at the left margin; the words are unambiguous from the visible remainder and were restored without change of wording."
+ ]
 }

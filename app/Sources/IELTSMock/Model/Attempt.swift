@@ -98,6 +98,7 @@ struct Attempt: Codable, Identifiable, Hashable {
     var scores: [Module: ModuleScore] = [:]
     var explanations: [String: QuestionExplanation] = [:]
     var assessments: [Int: WritingAssessment] = [:]
+    var speaking: SpeakingRecord?
 
     // live session bookkeeping (for resuming)
     var currentStage: Int = 0
@@ -111,6 +112,7 @@ struct Attempt: Codable, Identifiable, Hashable {
             case .listening: return "\(examTitle) · 听力" + (s.section.map { " Part \($0 + 1)" } ?? "")
             case .reading: return "\(examTitle) · 阅读" + (s.section.map { " Passage \($0 + 1)" } ?? "")
             case .writing: return "\(examTitle) · 写作" + (s.section.map { " Task \($0 + 1)" } ?? "")
+            case .speaking: return "\(examTitle) · 口语" + (s.section.map { " Part \($0 + 1)" } ?? "")
             }
         }
         if mode == .moduleMock, let m = scopes.first?.module { return "\(examTitle) · \(m.title)模考" }
@@ -126,9 +128,12 @@ struct Attempt: Codable, Identifiable, Hashable {
             let t2 = assessments[2]?.overallBand
             if let t1, let t2 { bands.append(roundHalf((t1 + 2 * t2) / 3)) } else { bands.append(roundHalf(w.reduce(0, +) / Double(w.count))) }
         }
+        if let s = speakingBand { bands.append(s) }
         guard scopes.allSatisfy({ $0.section == nil }) else { return nil }
         return Grader.overall(bands)
     }
+
+    var speakingBand: Double? { speaking?.assessment?.overallBand }
 
     var writingBand: Double? {
         let t1 = assessments[1]?.overallBand

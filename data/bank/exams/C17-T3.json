@@ -1690,5 +1690,54 @@
    }
   ]
  },
+ "speaking": {
+  "pages": [
+   67
+  ],
+  "part1": {
+   "intro": "The examiner asks you about yourself, your home, work or studies and other familiar topics.",
+   "topics": [
+    {
+     "title": "Drinks",
+     "questions": [
+      "What do you like to drink with your dinner? [Why?]",
+      "Do you drink a lot of water every day? [Why/Why not?]",
+      "Do you prefer drinking tea or coffee? [Why?]",
+      "If people visit you in your home, what do you usually offer them to drink? [Why/Why not?]"
+     ]
+    }
+   ]
+  },
+  "part2": {
+   "topic": "Describe a monument (e.g., a statue or sculpture) that you like.",
+   "prompt": "You should say:",
+   "points": [
+    "what this monument is",
+    "where this monument is",
+    "what it looks like"
+   ],
+   "closing": "and explain why you like this monument."
+  },
+  "part3": {
+   "topics": [
+    {
+     "title": "Public monuments",
+     "questions": [
+      "What kinds of monuments do tourists in your country enjoy visiting?",
+      "Why do you think there are often statues of famous people in public places?",
+      "Do you agree that old monuments and buildings should always be preserved?"
+     ]
+    },
+    {
+     "title": "Architecture",
+     "questions": [
+      "Why is architecture such a popular university subject?",
+      "In what ways has the design of homes changed in recent years?",
+      "To what extent does the design of buildings affect people's moods?"
+     ]
+    }
+   ]
+  }
+ },
  "issues": []
 }

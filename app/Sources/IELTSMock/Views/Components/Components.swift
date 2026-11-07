@@ -16,6 +16,7 @@ enum Theme {
         case .listening: return Color(red: 0.2, green: 0.45, blue: 0.85)
         case .reading: return Color(red: 0.15, green: 0.6, blue: 0.45)
         case .writing: return Color(red: 0.8, green: 0.45, blue: 0.1)
+        case .speaking: return Color(red: 0.55, green: 0.3, blue: 0.8)
         }
     }
 }

@@ -9,9 +9,9 @@ Subcommands
   findtext BOOK REGEX [PAGES]        search OCR text, print page numbers + matching rows
   events   BOOK                      print detected structural markers (test/section starts)
   validate FILE.json [...]           validate exam JSON files against the schema
-  assemble BOOK TEST                 merge ~/ielts-data/work/BOOK-TTEST/{listening,reading,writing}.json into
+  assemble BOOK TEST                 merge ~/ielts-data/work/BOOK-TTEST/{listening,reading,writing,speaking}.json into
                                      ~/ielts-data/bank/exams/BOOK-TTEST.json and validate it
-  show     EXAMID [listening|reading|writing]   print a readable rendering of an assembled exam (for proofreading)
+  show     EXAMID [listening|reading|writing|speaking]   print a readable rendering of an assembled exam (for proofreading)
   answers  EXAMID                    print the answer keys compactly (for checking against the key pages)
 
 Coordinates are normalized to the upright page, origin top-left: x, y, width, height in 0..1.
@@ -489,6 +489,45 @@ def check_writing(v, W):
                     v.err(f"{w}.sample.{k} must be a string")
 
 
+def check_speaking(v, S):
+    def strs(x):
+        return isinstance(x, list) and all(isinstance(q, str) and q.strip() for q in x)
+    if not isinstance(S.get("pages"), list) or not S["pages"]:
+        v.err("speaking.pages required")
+    for part in ("part1", "part3"):
+        P = S.get(part)
+        if P is None:
+            v.warn(f"speaking.{part} missing")
+            continue
+        ts = P.get("topics")
+        if not isinstance(ts, list) or not ts:
+            v.err(f"speaking.{part}.topics must be a non-empty list")
+            continue
+        for i, t in enumerate(ts):
+            if not isinstance(t.get("title"), str) or not t["title"].strip():
+                v.err(f"speaking.{part}.topics[{i}].title required")
+            if not isinstance(t.get("questions"), list) or not strs(t["questions"]):
+                v.err(f"speaking.{part}.topics[{i}].questions must be a list of strings")
+            elif part == "part3" and not t["questions"]:
+                v.err(f"speaking.part3.topics[{i}] has no questions")
+            for q in t.get("questions", []):
+                if re.search(r"\.{4,}|_{3,}", q):
+                    v.err(f"speaking.{part}: placeholder text in {q!r}")
+    P2 = S.get("part2")
+    if P2 is None:
+        v.warn("speaking.part2 missing")
+    else:
+        if not isinstance(P2.get("topic"), str) or not P2["topic"].strip():
+            v.err("speaking.part2.topic required")
+        if not strs(P2.get("points")) or not P2.get("points"):
+            v.err("speaking.part2.points must be a non-empty list of strings")
+        for k in ("prompt", "closing"):
+            if k in P2 and not isinstance(P2[k], str):
+                v.err(f"speaking.part2.{k} must be a string")
+        if "followUp" in P2 and not strs(P2["followUp"]):
+            v.err("speaking.part2.followUp must be a list of strings")
+
+
 def validate(path):
     v = V(path)
     try:
@@ -511,6 +550,8 @@ def validate(path):
             v.err(f"missing module {mod}")
         else:
             fn(v, d[mod])
+    if "speaking" in d:
+        check_speaking(v, d["speaking"])
     if d.get("issues") is not None and not (isinstance(d["issues"], list) and all(isinstance(s, str) for s in d["issues"])):
         v.err("issues must be a list of strings")
     return v
@@ -538,10 +579,11 @@ def cmd_assemble(args):
             "source": {"book": int(book[1:]), "test": test},
             "title": f"Cambridge IELTS {book[1:]} · Test {test}"}
     issues = []
-    for mod in ("listening", "reading", "writing"):
+    for mod in ("listening", "reading", "writing", "speaking"):
         f = os.path.join(work, mod + ".json")
         if not os.path.exists(f):
-            print(f"missing {f}")
+            if mod != "speaking":
+                print(f"missing {f}")
             continue
         try:
             d = json.load(open(f))
@@ -608,7 +650,7 @@ def _render_group(g, answers):
 
 def cmd_show(args):
     d = _exam(args[0])
-    mods = [args[1]] if len(args) > 1 else ["listening", "reading", "writing"]
+    mods = [args[1]] if len(args) > 1 else ["listening", "reading", "writing", "speaking"]
     for mod in mods:
         m = d.get(mod, {})
         print(f"===== {mod.upper()}")
@@ -625,6 +667,20 @@ def cmd_show(args):
                 print(f"PASSAGE {p.get('passage')} '{p.get('title')}' pages {p.get('pages')} {words} words, labels {[x.get('label') for x in p.get('paragraphs', []) if x.get('label')]}")
                 for g in p.get("groups", []):
                     print("\n".join(_render_group(g, m.get("answers", {}))))
+        elif mod == "speaking":
+            for part in ("part1", "part3"):
+                for t in m.get(part, {}).get("topics", []):
+                    print(f"{part.upper()} · {t.get('title')}")
+                    for q in t.get("questions", []):
+                        print("  - " + q)
+                if part == "part1" and m.get("part2"):
+                    c = m["part2"]
+                    print(f"PART2 · {c.get('topic')}\n  {c.get('prompt', '')}")
+                    for pt in c.get("points", []):
+                        print("    • " + pt)
+                    print("  " + c.get("closing", ""))
+                    for q in c.get("followUp", []):
+                        print("  follow-up: " + q)
         elif mod == "writing":
             for t in m.get("tasks", []):
                 print(f"TASK {t.get('task')} image={t.get('image')} sample={'yes' if t.get('sample') else 'no'}")

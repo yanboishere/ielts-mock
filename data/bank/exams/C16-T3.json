@@ -1624,5 +1624,54 @@
    }
   ]
  },
+ "speaking": {
+  "pages": [
+   77
+  ],
+  "part1": {
+   "intro": "The examiner asks you about yourself, your home, work or studies and other familiar topics.",
+   "topics": [
+    {
+     "title": "Summer",
+     "questions": [
+      "Is summer your favourite time of year? [Why/Why not?]",
+      "What do you do in summer when the weather's very hot? [Why?]",
+      "Do you go on holiday every summer? [Why/Why not?]",
+      "Did you enjoy the summer holidays when you were at school? [Why/Why not?]"
+     ]
+    }
+   ]
+  },
+  "part2": {
+   "topic": "Describe a luxury item you would like to own in the future.",
+   "prompt": "You should say:",
+   "points": [
+    "what item you would like to own",
+    "what this item looks like",
+    "why you would like to own this item"
+   ],
+   "closing": "and explain whether you think you will ever own this item."
+  },
+  "part3": {
+   "topics": [
+    {
+     "title": "Expensive items",
+     "questions": [
+      "Which expensive items would many young people (in your country) like to buy?",
+      "How do the expensive items that younger people want to buy differ from those that older people want to buy?",
+      "Do you think that people are more likely to buy expensive items for their friends or for themselves?"
+     ]
+    },
+    {
+     "title": "Rich people",
+     "questions": [
+      "How difficult is it to become very rich in today's world?",
+      "Do you agree that money does not necessarily bring happiness?",
+      "In what ways might rich people use their money to help society?"
+     ]
+    }
+   ]
+  }
+ },
  "issues": []
 }

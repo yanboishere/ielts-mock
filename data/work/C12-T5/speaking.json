@@ -1,0 +1,52 @@
+{
+ "pages": [
+  29
+ ],
+ "part1": {
+  "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+  "topics": [
+   {
+    "title": "Health",
+    "questions": [
+     "Is it important to you to eat healthy food? [Why?/Why not?]",
+     "If you catch a cold, what do you do to help you feel better? [Why?]",
+     "Do you pay attention to public information about health? [Why?/Why not?]",
+     "What could you do to have a healthier lifestyle?"
+    ]
+   }
+  ]
+ },
+ "part2": {
+  "topic": "Describe an occasion when you had to wait a long time for someone or something to arrive.",
+  "prompt": "You should say:",
+  "points": [
+   "who or what you were waiting for",
+   "how long you had to wait",
+   "why you had to wait a long time"
+  ],
+  "closing": "and explain how you felt about waiting a long time."
+ },
+ "part3": {
+  "topics": [
+   {
+    "title": "Arriving early",
+    "questions": [
+     "In what kinds of situations should people always arrive early?",
+     "How important it is to arrive early in your country?",
+     "How can modern technology help people to arrive early?"
+    ]
+   },
+   {
+    "title": "Being patient",
+    "questions": [
+     "What kinds of jobs require the most patience?",
+     "Is it always better to be patient in work (or studies)?",
+     "Do you agree or disagree that the older people are, the more patient they are?"
+    ]
+   }
+  ]
+ },
+ "issues": [
+  "Speaking Part 3 ('Arriving early'): the book prints 'How important it is to arrive early in your country?' with this word order (checked against the scan, not an OCR error); reproduced as printed."
+ ]
+}

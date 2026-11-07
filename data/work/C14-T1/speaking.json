@@ -1,0 +1,50 @@
+{
+ "pages": [31],
+ "part1": {
+  "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+  "topics": [
+   {
+    "title": "Future",
+    "questions": [
+     "What job would you like to have ten years from now? [Why?]",
+     "How useful will English be for your future? [Why/Why not?]",
+     "How much travelling do you hope to do in the future? [Why/Why not?]",
+     "How do you think your life will change in the future? [Why/Why not?]"
+    ]
+   }
+  ]
+ },
+ "part2": {
+  "topic": "Describe a book that you enjoyed reading because you had to think a lot.",
+  "prompt": "You should say:",
+  "points": [
+   "what this book was",
+   "why you decided to read it",
+   "what reading this book made you think about"
+  ],
+  "closing": "and explain why you enjoyed reading this book."
+ },
+ "part3": {
+  "topics": [
+   {
+    "title": "Children and reading",
+    "questions": [
+     "What are the most popular types of children's books in your country?",
+     "What are the benefits of parents reading books to their children?",
+     "Should parents always let children choose the books they read?"
+    ]
+   },
+   {
+    "title": "Electronic books",
+    "questions": [
+     "How popular are electronic books are in your country?",
+     "What are the advantages of parents reading electronic books (compared to printed books)?",
+     "Will electronic books ever completely replace printed books in the future?"
+    ]
+   }
+  ]
+ },
+ "issues": [
+  "Speaking Part 3 (Electronic books): the book itself prints 'How popular are electronic books are in your country?' with a duplicated 'are' (checked against the page image); reproduced as printed."
+ ]
+}

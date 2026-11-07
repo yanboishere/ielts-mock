@@ -1,0 +1,47 @@
+{
+ "pages": [33],
+ "part1": {
+  "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+  "topics": [
+   {
+    "title": "Friends",
+    "questions": [
+     "Are your friends mostly your age or different ages? [Why?]",
+     "Do you usually see your friends during the week or at weekends? [Why?]",
+     "The last time you saw your friends, what did you do together?",
+     "In what ways are your friends important to you?"
+    ]
+   }
+  ]
+ },
+ "part2": {
+  "topic": "Describe an interesting historic place.",
+  "prompt": "You should say:",
+  "points": [
+   "what it is",
+   "where it is located",
+   "what you can see there now"
+  ],
+  "closing": "and explain why this place is interesting."
+ },
+ "part3": {
+  "topics": [
+   {
+    "title": "Looking after historic places",
+    "questions": [
+     "How do people in your country feel about protecting historic buildings?",
+     "Do you think an area can benefit from having an interesting historic place locally? In what way?",
+     "What do you think will happen to historic places or buildings in the future? Why?"
+    ]
+   },
+   {
+    "title": "The teaching of history at school",
+    "questions": [
+     "How were you taught history when you were at school?",
+     "Are there other ways people can learn about history, apart from at school? How?",
+     "Do you think history will still be a school subject in the future? Why?"
+    ]
+   }
+  ]
+ }
+}

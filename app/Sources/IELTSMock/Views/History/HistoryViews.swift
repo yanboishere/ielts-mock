@@ -17,6 +17,8 @@ struct AttemptRow: View {
                 ForEach(attempt.modules, id: \.self) { m in
                     if m == .writing {
                         Text("写 \(Grader.bandString(attempt.writingBand))").monospacedDigit()
+                    } else if m == .speaking {
+                        Text("口语 \(Grader.bandString(attempt.speakingBand))").monospacedDigit()
                     } else if let s = attempt.scores[m] {
                         Text("\(m == .listening ? "听" : "读") \(s.correct)/\(s.total)" + (s.band.map { " · \(Grader.bandString($0))" } ?? ""))
                             .monospacedDigit()

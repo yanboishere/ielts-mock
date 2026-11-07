@@ -1664,6 +1664,55 @@
    }
   ]
  },
+ "speaking": {
+  "pages": [
+   96
+  ],
+  "part1": {
+   "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+   "topics": [
+    {
+     "title": "Your neighbourhood",
+     "questions": [
+      "Do you like the neighbourhood you live in? [Why/Why not?]",
+      "What do you do in your neighbourhood in your free time? [Why/Why not?]",
+      "What new things would you like to have in your neighbourhood? [Why/Why not?]",
+      "Would you like to live in another neighbourhood in your town or city? [Why/Why not?]"
+     ]
+    }
+   ]
+  },
+  "part2": {
+   "topic": "Describe a website you have bought something from.",
+   "prompt": "You should say:",
+   "points": [
+    "what the website is",
+    "what you bought from this website",
+    "how satisfied you were with what you bought"
+   ],
+   "closing": "and explain what you liked and disliked about using this website."
+  },
+  "part3": {
+   "topics": [
+    {
+     "title": "Shopping online",
+     "questions": [
+      "What kinds of things do people in your country often buy from online shops?",
+      "Why has online shopping become so popular in many countries?",
+      "What are some possible disadvantages of buying things from online shops?"
+     ]
+    },
+    {
+     "title": "Online retail businesses",
+     "questions": [
+      "Do you agree that the prices of all goods should be lower on internet shopping sites than in shops?",
+      "Will large shopping malls continue to be popular, despite the growth of internet shopping?",
+      "Do you think that some businesses (e.g. banks and travel agents) will only operate online in the future?"
+     ]
+    }
+   ]
+  }
+ },
  "issues": [
   "Reading Passage 3 has no printed title in the book (Question 40 asks for the best title). The validator requires a title, so the neutral label 'Reading Passage 3' is used instead of inventing one (the answer to Q40 is deliberately not used)."
  ]

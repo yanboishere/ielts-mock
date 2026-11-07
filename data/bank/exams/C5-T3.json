@@ -1687,5 +1687,54 @@
    }
   ]
  },
+ "speaking": {
+  "pages": [
+   78
+  ],
+  "part1": {
+   "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+   "topics": [
+    {
+     "title": "Entertainment",
+     "questions": [
+      "Do you prefer relaxing at home or going out in the evening? [Why?]",
+      "When you go out for an evening, what do you like to do?",
+      "How popular is this with other people in your country?",
+      "Is there any kind of entertainment you do not like? [Why/Why not?]"
+     ]
+    }
+   ]
+  },
+  "part2": {
+   "topic": "Describe one of your friends.",
+   "prompt": "You should say:",
+   "points": [
+    "how you met",
+    "how long you have known each other",
+    "how you spend time together"
+   ],
+   "closing": "and explain why you like this person."
+  },
+  "part3": {
+   "topics": [
+    {
+     "title": "Qualities of friends",
+     "questions": [
+      "What do you think are the most important qualities for friends to have?",
+      "Which are more important to people, their family or their friends? Why?",
+      "What do you think causes friendships to break up?"
+     ]
+    },
+    {
+     "title": "Other relationships",
+     "questions": [
+      "What other types of relationship, apart from friends or family, are important in people's lives today?",
+      "Have relationships with neighbours where you live changed in recent years? How?",
+      "How important do you think it is for a person to spend some time alone? Why/Why not?"
+     ]
+    }
+   ]
+  }
+ },
  "issues": []
 }

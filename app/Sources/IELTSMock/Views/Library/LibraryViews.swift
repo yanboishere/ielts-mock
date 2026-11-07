@@ -45,7 +45,7 @@ struct HomeView: View {
         VStack(alignment: .leading, spacing: 4) {
             Text("雅思模考").font(.largeTitle.bold())
             Text(bank.refs.isEmpty ? "题库为空：请在设置 → 题库中导入题库文件夹。" :
-                    "剑桥雅思 \(bank.books.first.map(String.init) ?? "")–\(bank.books.last.map(String.init) ?? "") 共 \(bank.refs.filter { !$0.isCustom }.count) 套真题 · 听力 / 阅读 / 写作全真计时模考")
+                    "剑桥雅思 \(bank.books.first.map(String.init) ?? "")–\(bank.books.last.map(String.init) ?? "") 共 \(bank.refs.filter { !$0.isCustom }.count) 套真题 · 听力 / 阅读 / 写作 / 口语全真模考")
                 .foregroundStyle(.secondary)
         }
     }
@@ -70,6 +70,7 @@ struct HomeView: View {
         let lBands = submitted.compactMap { $0.scores[.listening]?.band }
         let rBands = submitted.compactMap { $0.scores[.reading]?.band }
         let wBands = submitted.compactMap(\.writingBand)
+        let sBands = submitted.compactMap(\.speakingBand)
         let totalTime = submitted.flatMap { $0.timing.values.map(\.used) }.reduce(0, +)
         func avg(_ a: [Double]) -> Double? { a.isEmpty ? nil : roundHalf(a.reduce(0, +) / Double(a.count)) }
         return HStack(spacing: 14) {
@@ -77,6 +78,7 @@ struct HomeView: View {
             statBand("听力平均", avg(Array(lBands.prefix(5))), "最近 5 次")
             statBand("阅读平均", avg(Array(rBands.prefix(5))), "最近 5 次")
             statBand("写作平均", avg(Array(wBands.prefix(5))), "AI 评分")
+            statBand("口语平均", avg(Array(sBands.prefix(5))), "AI 评分")
             stat("累计用时", formatDuration(totalTime), "")
         }
     }
@@ -108,6 +110,7 @@ struct HomeView: View {
             if let b = a.scores[.listening]?.band { pts.append(TrendPoint(date: a.finishedAt ?? a.startedAt, module: "听力", band: b)) }
             if let b = a.scores[.reading]?.band { pts.append(TrendPoint(date: a.finishedAt ?? a.startedAt, module: "阅读", band: b)) }
             if let b = a.writingBand { pts.append(TrendPoint(date: a.finishedAt ?? a.startedAt, module: "写作", band: b)) }
+            if let b = a.speakingBand { pts.append(TrendPoint(date: a.finishedAt ?? a.startedAt, module: "口语", band: b)) }
             return pts
         }
     }
@@ -303,6 +306,12 @@ struct TestSummaryCard: View {
                     Text(t.prompt.dropFirst().first.map { InlineMarkup.strip($0) } ?? t.promptText).lineLimit(2).foregroundStyle(.secondary)
                 }
             }
+            if let c = exam.speaking?.part2 {
+                HStack(alignment: .top, spacing: 6) {
+                    Text("S2").font(.caption.bold()).foregroundStyle(Theme.moduleColor(.speaking))
+                    Text(InlineMarkup.strip(c.topic)).lineLimit(1).foregroundStyle(.secondary)
+                }
+            }
         }
         .card()
     }
@@ -352,6 +361,7 @@ struct TestDetailView: View {
                 if let L = exam.listening { listeningCard(ref, L) }
                 if let R = exam.reading { readingCard(ref, R) }
                 if let W = exam.writing { writingCard(ref, W) }
+                if let S = exam.speaking { speakingCard(ref, S) }
 
                 let atts = history.attempts(exam: ref.id)
                 if !atts.isEmpty {
@@ -423,6 +433,43 @@ struct TestDetailView: View {
                     }
                     Spacer()
                     Button("练习（20 分钟）") { app.startPractice(ref, .reading, section: i) }
+                }
+            }
+        }
+        .card()
+    }
+
+    func speakingCard(_ ref: ExamRef, _ S: SpeakingModule) -> some View {
+        VStack(alignment: .leading, spacing: 10) {
+            HStack {
+                Label("口语", systemImage: Module.speaking.symbol).font(.title3.bold()).foregroundStyle(Theme.moduleColor(.speaking))
+                Text("考官语音提问 · 本地转写 · 官方标准评分").foregroundStyle(.secondary)
+                Spacer()
+                Button("口语模考（约 11–14 分钟）") { app.startSpeaking(ref) }
+            }
+            if let p1 = S.part1 {
+                HStack(alignment: .top) {
+                    Text("Part 1").bold().frame(width: 60, alignment: .leading)
+                    Text(p1.topics.map(\.title).joined(separator: " · ") + " · \(p1.topics.map(\.questions.count).reduce(0, +)) 题")
+                        .foregroundStyle(.secondary)
+                    Spacer()
+                    Button("练习") { app.startSpeaking(ref, part: 1) }
+                }
+            }
+            if let c = S.part2 {
+                HStack(alignment: .top) {
+                    Text("Part 2").bold().frame(width: 60, alignment: .leading)
+                    Text(InlineMarkup.strip(c.topic)).foregroundStyle(.secondary)
+                    Spacer()
+                    Button("练习") { app.startSpeaking(ref, part: 2) }
+                }
+            }
+            if let p3 = S.part3 {
+                HStack(alignment: .top) {
+                    Text("Part 3").bold().frame(width: 60, alignment: .leading)
+                    Text(p3.topics.map(\.title).joined(separator: " · ")).foregroundStyle(.secondary)
+                    Spacer()
+                    Button("练习") { app.startSpeaking(ref, part: 3) }
                 }
             }
         }

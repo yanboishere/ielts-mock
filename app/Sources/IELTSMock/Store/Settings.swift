@@ -39,6 +39,17 @@ final class SettingsStore: ObservableObject {
     @Published var examContrast: ExamContrast { didSet { d.set(examContrast.rawValue, forKey: "ui.examContrast") } }
     @Published var autoAdvanceListening: Bool { didSet { d.set(autoAdvanceListening, forKey: "ui.autoAdvance") } }
 
+    // Speaking
+    /// Show the examiner's question as text (the real test does not).
+    @Published var speakingShowText: Bool { didSet { d.set(speakingShowText, forKey: "speaking.showText") } }
+    /// End an answer after this many seconds of silence once the candidate has spoken (0 = only with the button).
+    @Published var speakingAutoEnd: Double { didSet { d.set(speakingAutoEnd, forKey: "speaking.autoEnd") } }
+    /// Identifier of the examiner's voice ("" = the best British voice installed).
+    @Published var examinerVoice: String { didSet { d.set(examinerVoice, forKey: "speaking.voice") } }
+    @Published var examinerRate: Double { didSet { d.set(examinerRate, forKey: "speaking.rate") } }
+    /// Download speech models from hf-mirror.com instead of huggingface.co.
+    @Published var modelMirror: Bool { didSet { d.set(modelMirror, forKey: "speaking.mirror") } }
+
     static let claudeModels = ["claude-opus-5-5", "claude-sonnet-5-5", "claude-haiku-5-5", "claude-fable-5-1"]
     static let openaiModels = ["gpt-6-astra", "gpt-6.1-sol", "gpt-6.1-terra", "gpt-5.5"]
 
@@ -65,6 +76,11 @@ final class SettingsStore: ObservableObject {
         candidateName = d.string(forKey: "ui.candidate") ?? ""
         examContrast = ExamContrast(rawValue: d.string(forKey: "ui.examContrast") ?? "") ?? .standard
         autoAdvanceListening = d.object(forKey: "ui.autoAdvance") as? Bool ?? true
+        speakingShowText = d.object(forKey: "speaking.showText") as? Bool ?? false
+        speakingAutoEnd = d.object(forKey: "speaking.autoEnd") as? Double ?? 4
+        examinerVoice = d.string(forKey: "speaking.voice") ?? ""
+        examinerRate = d.object(forKey: "speaking.rate") as? Double ?? 0.47
+        modelMirror = d.object(forKey: "speaking.mirror") as? Bool ?? (Locale.current.region?.identifier == "CN")
     }
 
     var currentModel: String { provider == .claude ? claudeModel : openaiModel }

@@ -1,0 +1,47 @@
+{
+ "pages": [52],
+ "part1": {
+  "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+  "topics": [
+   {
+    "title": "Social media",
+    "questions": [
+     "Which social media websites do you use?",
+     "How much time do you spend on social media sites? [Why/Why not?]",
+     "What kind of information about yourself have you put on social media? [Why/Why not?]",
+     "Is there anything you don't like about social media? [Why?]"
+    ]
+   }
+  ]
+ },
+ "part2": {
+  "topic": "Describe something you liked very much which you bought for your home.",
+  "prompt": "You should say:",
+  "points": [
+   "what you bought",
+   "when and where you bought it",
+   "why you chose this particular thing"
+  ],
+  "closing": "and explain why you liked it so much."
+ },
+ "part3": {
+  "topics": [
+   {
+    "title": "Creating a nice home",
+    "questions": [
+     "Why do some people buy lots of things for their home?",
+     "Do you think it is very expensive to make a home look nice?",
+     "Why don't some people care about how their home looks?"
+    ]
+   },
+   {
+    "title": "Different types of home",
+    "questions": [
+     "In what ways is living in a flat/apartment better than living in a house?",
+     "Do you think homes will look different in the future?",
+     "Do you agree that the kinds of homes people prefer change as they get older?"
+    ]
+   }
+  ]
+ }
+}

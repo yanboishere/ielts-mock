@@ -90,6 +90,51 @@ final class DebugDriver {
                     reply("assess done; errors: \(app.ai.errors)")
                 }
             }
+        case "winsize":
+            if let w = NSApp.windows.first(where: { $0.isVisible && !($0 is NSPanel) }), let W = Double(arg(1)), let H = Double(arg(2)) {
+                var f = w.frame
+                f.origin.y += f.height - H
+                f.size = NSSize(width: W, height: H)
+                w.setFrame(f, display: true)
+            }
+        case "scroll":
+            // scroll Y: moves the tallest scroll view of the main window to Y points from its top
+            if let w = NSApp.windows.first(where: { $0.isVisible && !($0 is NSPanel) }), let root = w.contentView {
+                func all(_ v: NSView) -> [NSView] { [v] + v.subviews.flatMap(all) }
+                let scrolls = all(root).compactMap { $0 as? NSScrollView }.filter { $0.documentView != nil }
+                if let s = scrolls.max(by: { ($0.documentView?.frame.height ?? 0) < ($1.documentView?.frame.height ?? 0) }) {
+                    let y = CGFloat(Double(arg(1)) ?? 0)
+                    let doc = s.documentView!
+                    let target = doc.isFlipped ? y : max(0, doc.frame.height - s.contentView.bounds.height - y)
+                    s.contentView.scroll(to: NSPoint(x: 0, y: target))
+                    s.reflectScrolledClipView(s.contentView)
+                    reply("scroll: doc height \(doc.frame.height)")
+                }
+            }
+        case "spkpre":
+            if let r = app.bank.ref(arg(1)) { app.startSpeaking(r, part: Int(arg(2))) }
+        case "speaking":
+            if let r = app.bank.ref(arg(1)) { app.beginSpeaking(SpeakingLaunch(ref: r, part: Int(arg(2)))) }
+        case "spkfeed":
+            SpeakingRecorder.debugFeed = p.count > 1 ? p[1...].joined(separator: " ").split(separator: ",").map { URL(fileURLWithPath: String($0)) } : []
+        case "spkmute": Examiner.muted = arg(1) != "0"
+        case "spkbegin": app.speakingSession?.begin()
+        case "spkdone": app.speakingSession?.answerFinished()
+        case "spkprep": app.speakingSession?.startTalkingNow()
+        case "spkend": app.speakingSession?.endEarly()
+        case "spkclose": app.endSpeaking()
+        case "spkimport":
+            let files = [arg(1), arg(2)]
+            Task {
+                for (spec, f) in zip(SpeechCatalog.all, files) where !f.isEmpty {
+                    await app.models.importFile(URL(fileURLWithPath: f), for: spec)
+                }
+                reply("spkimport: \(SpeechCatalog.all.map { "\($0.id)=\(app.models.state($0))" })")
+            }
+        case "spkstate":
+            if let s = app.speakingSession {
+                reply("spkstate: phase=\(s.phase) part=\(s.part) turns=\(s.turns.count) transcribed=\(s.transcribedCount) engine=\(s.engineStatus) err=\(s.errorMessage ?? "-")")
+            } else { reply("spkstate: none") }
         case "begin": app.session?.startTimer()
         case "go": if let n = Int(arg(1)) { app.session?.go(to: n) }
         case "section": if let n = Int(arg(1)) { app.session?.currentSection = n }

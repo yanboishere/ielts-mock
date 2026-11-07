@@ -1,0 +1,41 @@
+{
+  "pages": [75],
+  "part1": {
+    "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+    "topics": [
+      { "title": "Swimming",
+        "questions": [
+          "Did you learn to swim when you were a child? [Why/Why not?]",
+          "How often do you go swimming now? [Why/Why not?]",
+          "What places are there for swimming where you live? [Why?]",
+          "Do you think it would be more enjoyable to go swimming outdoors or at an indoor pool? [Why?]"
+        ] }
+    ]
+  },
+  "part2": {
+    "topic": "Describe a famous business person that you know about.",
+    "prompt": "You should say:",
+    "points": [
+      "who this person is",
+      "what kind of business this person is involved in",
+      "what you know about this business person"
+    ],
+    "closing": "and explain what you think of this business person."
+  },
+  "part3": {
+    "topics": [
+      { "title": "Famous people today",
+        "questions": [
+          "What kinds of people are most famous in your country today?",
+          "Why are there so many stories about famous people in the news?",
+          "Do you agree or disagree that many young people today want to be famous?"
+        ] },
+      { "title": "Advantages of being famous",
+        "questions": [
+          "Do you think it is easy for famous people to earn a lot of money?",
+          "Why might famous people enjoy having fans?",
+          "In what ways could famous people use their influence to do good things in the world?"
+        ] }
+    ]
+  }
+}

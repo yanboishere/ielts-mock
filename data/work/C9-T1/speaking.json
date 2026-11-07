@@ -1,0 +1,51 @@
+{
+ "pages": [26, 27],
+ "part1": {
+  "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+  "topics": [
+   {
+    "title": "Games",
+    "questions": [
+     "What games are popular in your country? [Why?]",
+     "Do you play any games? [Why/Why not?]",
+     "How do people learn to play games in your country?",
+     "Do you think it's important for people to play games? [Why/Why not?]"
+    ]
+   }
+  ]
+ },
+ "part2": {
+  "topic": "Describe an open-air or street market which you enjoyed visiting.",
+  "prompt": "You should say:",
+  "points": [
+   "where the market is",
+   "what the market sells",
+   "how big the market is"
+  ],
+  "closing": "and explain why you enjoyed visiting this market."
+ },
+ "part3": {
+  "topics": [
+   {
+    "title": "Shopping at markets",
+    "questions": [
+     "Do people in your country enjoy going to open-air markets that sell things like foods or clothes or old objects? Which type of market is more popular? Why?",
+     "Do you think markets are more suitable places for selling certain types of things? Which ones? Why do you think this is?",
+     "Do you think young people feel the same about shopping at markets as older people? Why is that?"
+    ]
+   },
+   {
+    "title": "Shopping in general",
+    "questions": [
+     "What do you think are the advantages of buying things from shops rather than markets?",
+     "How does advertising influence what people choose to buy? Is this true for everyone?",
+     "Do you think that any recent changes in the way people live have affected general shopping habits? Why is this?"
+    ]
+   }
+  ]
+ },
+ "issues": [
+  "C9 is a retyped edition; unambiguous typing errors corrected (Speaking): Part 2 closing 'And explain why you enjoyed visiting this market.' -> 'and explain ...' (lower-case continuation of 'You should say:', as on the Test 2 and Test 4 cue cards); Part 3 'feel the same about shopping at markets like as older people' -> 'at markets as older people' (stray 'like'); Part 3 'How dose advertising influence' -> 'How does advertising influence'.",
+  "Speaking Part 3 'Shopping in general': the retyped PDF runs the three example questions together in one paragraph; split at the question boundaries into 'What do you think are the advantages ...?' / 'How does advertising ...? Is this true for everyone?' / 'Do you think that any recent changes ...? Why is this?' (each other Part 3 question in the book is printed as its own paragraph)."
+ ]
+}

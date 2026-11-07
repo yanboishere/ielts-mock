@@ -1573,6 +1573,55 @@
    }
   ]
  },
+ "speaking": {
+  "pages": [
+   74
+  ],
+  "part1": {
+   "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+   "topics": [
+    {
+     "title": "Neighbours",
+     "questions": [
+      "How often do you see your neighbours? [Why/Why not?]",
+      "Do you invite your neighbours to your home? [Why/Why not?]",
+      "Do you think you are a good neighbour? [Why/Why not?]",
+      "Has a neighbour ever helped you? [Why/Why not?]"
+     ]
+    }
+   ]
+  },
+  "part2": {
+   "topic": "Describe a very difficult task that you succeeded in doing as part of your work or studies.",
+   "prompt": "You should say:",
+   "points": [
+    "what task you did",
+    "why this task was very difficult",
+    "how you worked on this task"
+   ],
+   "closing": "and explain how you felt when you had successfully completed this task."
+  },
+  "part3": {
+   "topics": [
+    {
+     "title": "Difficult jobs",
+     "questions": [
+      "What are the most difficult jobs that people do?",
+      "Why do you think some people choose to do difficult jobs?",
+      "Do you agree or disagree that all jobs are difficult sometimes?"
+     ]
+    },
+    {
+     "title": "Personal and career success",
+     "questions": [
+      "How important is it for everyone to have a goal in their personal life?",
+      "Is it always necessary to work hard in order to achieve career success?",
+      "Do you think that successful people are always happy people?"
+     ]
+    }
+   ]
+  }
+ },
  "issues": [
   "Listening Part 1 question page (p.53) is almost blank in the scan (only the title and 'Accommodation' are legible); the notes were transcribed from the PDF text layer and the layout reconstructed from the faint image. The example answer is garbled in the text layer; 'Angela' is taken from the audioscript.",
   "Reading Passage 3: the paragraph beginning 'Play is pleasurable:' is printed as an indented block (list of criteria); it is reproduced as a normal paragraph."

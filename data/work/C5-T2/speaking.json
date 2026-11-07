@@ -1,0 +1,47 @@
+{
+ "pages": [55],
+ "part1": {
+  "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+  "topics": [
+   {
+    "title": "Colour",
+    "questions": [
+     "What's your favourite colour? [Why?]",
+     "Do you like the same colours now as you did when you were younger? [Why/Why not?]",
+     "What can you learn about a person from the colours they like?",
+     "Do any colours have a special meaning in your culture?"
+    ]
+   }
+  ]
+ },
+ "part2": {
+  "topic": "Describe a song or a piece of music you like.",
+  "prompt": "You should say:",
+  "points": [
+   "what the song or music is",
+   "what kind of song or music it is",
+   "where you first heard it"
+  ],
+  "closing": "and explain why you like it."
+ },
+ "part3": {
+  "topics": [
+   {
+    "title": "Music and young people",
+    "questions": [
+     "What kinds of music are popular with young people in your culture?",
+     "What do you think influences a young person's taste in music?",
+     "How has technology affected the kinds of music popular with young people?"
+    ]
+   },
+   {
+    "title": "Music and society",
+    "questions": [
+     "Tell me about any traditional music in your culture.",
+     "How important is it for a culture to have musical traditions?",
+     "Why do you think countries have national anthems or songs?"
+    ]
+   }
+  ]
+ }
+}

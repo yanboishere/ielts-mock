@@ -5,10 +5,11 @@ struct SettingsView: View {
         TabView {
             AISettingsTab().tabItem { Label("AI", systemImage: "sparkles") }
             TimingSettingsTab().tabItem { Label("计时与提醒", systemImage: "timer") }
+            SpeakingSettingsTab().tabItem { Label("口语", systemImage: "mic") }
             BankSettingsTab().tabItem { Label("题库", systemImage: "books.vertical") }
             DisplaySettingsTab().tabItem { Label("显示", systemImage: "textformat") }
         }
-        .frame(width: 620, height: 520)
+        .frame(width: 680, height: 600)
     }
 }
 
@@ -207,6 +208,66 @@ struct DisplaySettingsTab: View {
             Section("考试界面") {
                 Slider(value: $settings.fontScale, in: 0.8...1.6, step: 0.1) { Text("字号 \(Int(settings.fontScale * 100))%") }
                 TextField("考生姓名（显示在考试顶栏，可留空）", text: $settings.candidateName)
+            }
+        }
+        .formStyle(.grouped)
+    }
+}
+
+struct SpeakingSettingsTab: View {
+    @EnvironmentObject var settings: SettingsStore
+    @EnvironmentObject var models: SpeechModelStore
+    @StateObject private var examiner = Examiner()
+
+    var body: some View {
+        Form {
+            Section("本地语音识别（Arion 同款模型）") {
+                ForEach(SpeechCatalog.all) { spec in
+                    VStack(alignment: .leading, spacing: 4) {
+                        HStack {
+                            Text(spec.title).bold()
+                            Spacer()
+                            if models.state(spec) == .ready {
+                                Button("在 Finder 中显示") { NSWorkspace.shared.activateFileViewerSelecting([models.fileURL(spec)]) }
+                                Button("删除", role: .destructive) { models.delete(spec) }
+                            }
+                        }
+                        ModelStatusView(spec: spec)
+                    }
+                }
+                Toggle("从国内镜像下载（hf-mirror.com）", isOn: $settings.modelMirror)
+                LabeledContent("语音引擎") {
+                    Text(SpeechEngine.binary.map { "speech.cpp 0.8.11（\($0.path.contains(".app/") ? "已内置" : $0.path)）" } ?? "未找到")
+                        .foregroundStyle(SpeechEngine.binary == nil ? .red : .secondary)
+                }
+                Text("模型在本机运行（Apple Silicon 上用 Metal 加速），录音不离开电脑。模型来自 Qwen3-ASR（Apache-2.0），推理引擎 speech.cpp（MIT），与 AstraFoundry/Arion 选用的组合相同。")
+                    .font(.caption).foregroundStyle(.secondary)
+            }
+            Section("考官") {
+                Picker("声音", selection: $settings.examinerVoice) {
+                    Text("自动（最佳英式声音）").tag("")
+                    ForEach(Examiner.englishVoices, id: \.identifier) { v in
+                        Text("\(v.name) · \(v.language)\(v.quality == .premium ? " · 高品质" : v.quality == .enhanced ? " · 增强" : "")").tag(v.identifier)
+                    }
+                }
+                HStack {
+                    Text("语速")
+                    Slider(value: $settings.examinerRate, in: 0.38...0.56)
+                    Button("试听") {
+                        examiner.voiceIdentifier = settings.examinerVoice.isEmpty ? nil : settings.examinerVoice
+                        examiner.rate = Float(settings.examinerRate)
+                        Task { await examiner.say("Now, in this first part of the test, I'd like to ask you some questions about yourself. Do you work or are you a student?") }
+                    }
+                }
+                Text("可在「系统设置 › 辅助功能 › 朗读内容 › 系统声音」中下载更自然的英语声音（如 Serena、Daniel 高品质版）。").font(.caption).foregroundStyle(.secondary)
+            }
+            Section("作答") {
+                Toggle("显示考官问题的文字（真实考试中没有）", isOn: $settings.speakingShowText)
+                Picker("说完后自动进入下一题", selection: $settings.speakingAutoEnd) {
+                    Text("关闭（只用「回答完毕」按钮）").tag(0.0)
+                    ForEach([2.0, 3, 4, 5, 6, 8], id: \.self) { Text("静音 \(Int($0)) 秒后").tag($0) }
+                }
+                Text("Part 2 的独白只在讲满 2 分钟或点「回答完毕」时结束，不会因为停顿自动结束。").font(.caption).foregroundStyle(.secondary)
             }
         }
         .formStyle(.grouped)

@@ -1,0 +1,41 @@
+{
+ "pages": [95],
+ "part1": {
+  "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+  "topics": [
+   {"title": "Animals",
+    "questions": [
+     "Are there many animals or birds where you live? [Why/Why not?]",
+     "How often do you watch programmes or read articles about wild animals? [Why?]",
+     "Have you ever been to a zoo or a wildlife park? [Why/Why not?]",
+     "Would you like to have a job working with animals? [Why/Why not?]"
+    ]}
+  ]
+ },
+ "part2": {
+  "topic": "Describe a website you use that helps you a lot in your work or studies.",
+  "prompt": "You should say:",
+  "points": [
+   "what the website is",
+   "how often you use the website",
+   "what information the website gives you"
+  ],
+  "closing": "and explain how your work or studies would change if this website didn't exist."
+ },
+ "part3": {
+  "topics": [
+   {"title": "The internet",
+    "questions": [
+     "Why do some people find the internet addictive?",
+     "What would the world be like without the internet?",
+     "Do you think that the way people use the internet may change in the future?"
+    ]},
+   {"title": "Social media websites",
+    "questions": [
+     "What are the ways that social media can be used for positive purposes?",
+     "Why do some individuals post highly negative comments about other people on social media?",
+     "Do you think that companies' main form of advertising will be via social media in the future?"
+    ]}
+  ]
+ }
+}

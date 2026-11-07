@@ -1,0 +1,50 @@
+{
+ "pages": [101],
+ "part1": {
+  "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+  "topics": [
+   {
+    "title": "Your friends",
+    "questions": [
+     "Do you prefer to have one particular friend or a group of friends? [Why?]",
+     "What do you like doing most with your friend/s?",
+     "Do you think it's important to keep in contact with friends you knew as a child? [Why/Why not?]",
+     "What makes a friend into a good friend?"
+    ]
+   }
+  ]
+ },
+ "part2": {
+  "topic": "Describe an important choice you had to make in your life.",
+  "prompt": "You should say:",
+  "points": [
+   "when you had to make this choice",
+   "what you had to choose between",
+   "whether you made a good choice"
+  ],
+  "closing": "and explain how you felt when you were making this choice."
+ },
+ "part3": {
+  "topics": [
+   {
+    "title": "Important choices",
+    "questions": [
+     "What are the typical choices people make at different stages of their lives?",
+     "Should important choices be made by parents rather than by young adults?",
+     "Why do some people like to discuss choices with other people?"
+    ]
+   },
+   {
+    "title": "Choices in everyday life",
+    "questions": [
+     "What kind of choices do people have to make in their everyday life?",
+     "Why do some people choose to do the same things every day? Are there any disadvantages in this?",
+     "Do you think that people today have more choices to make today than in the past?"
+    ]
+   }
+  ]
+ },
+ "issues": [
+  "Speaking Part 3 (Choices in everyday life): the book itself prints 'today' twice in 'Do you think that people today have more choices to make today than in the past?' (checked against the page image); reproduced as printed."
+ ]
+}

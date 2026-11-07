@@ -1633,5 +1633,54 @@
    }
   ]
  },
+ "speaking": {
+  "pages": [
+   56
+  ],
+  "part1": {
+   "intro": "The examiner asks you about yourself, your home, work or studies and other familiar topics.",
+   "topics": [
+    {
+     "title": "Science",
+     "questions": [
+      "Did you like studying science when you were at school? [Why/Why not?]",
+      "What do you remember about your science teachers at school?",
+      "How interested are you in science now? [Why/Why not?]",
+      "What do you think has been an important recent scientific development? [Why?]"
+     ]
+    }
+   ]
+  },
+  "part2": {
+   "topic": "Describe a tourist attraction in your country that you would recommend.",
+   "prompt": "You should say:",
+   "points": [
+    "what the tourist attraction is",
+    "where in your country this tourist attraction is",
+    "what visitors can see and do at this tourist attraction"
+   ],
+   "closing": "and explain why you would recommend this tourist attraction."
+  },
+  "part3": {
+   "topics": [
+    {
+     "title": "Museums and art galleries",
+     "questions": [
+      "What are the most popular museums and art galleries in ... / where you live?",
+      "Do you believe that all museums and art galleries should be free?",
+      "What kinds of things make a museum or art gallery an interesting place to visit?"
+     ]
+    },
+    {
+     "title": "The holiday industry",
+     "questions": [
+      "Why, do you think, do some people book package holidays rather than travelling independently?",
+      "Would you say that large numbers of tourists cause problems for local people?",
+      "What sort of impact can large holiday resorts have on the environment?"
+     ]
+    }
+   ]
+  }
+ },
  "issues": []
 }

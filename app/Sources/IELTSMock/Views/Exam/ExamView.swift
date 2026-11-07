@@ -21,6 +21,7 @@ struct ExamView: View {
                     case .listening: ListeningPane()
                     case .reading: ReadingPane()
                     case .writing: WritingPane()
+                    case .speaking: EmptyView()
                     }
                 }
                 .frame(maxWidth: .infinity, maxHeight: .infinity)
@@ -308,6 +309,7 @@ struct InstructionBar: View {
         case .listening: return "Part \(e.listening?.parts[safe: i]?.part ?? i + 1)"
         case .reading: return "Part \(e.reading?.passages[safe: i]?.passage ?? i + 1)"
         case .writing: return "Part \(e.writing?.tasks[safe: i]?.task ?? i + 1)"
+        case .speaking: return ""
         }
     }
 
@@ -323,6 +325,8 @@ struct InstructionBar: View {
         case .writing:
             guard let t = e.writing?.tasks[safe: session.currentSection] else { return "" }
             return "You should spend about \(t.minutes) minutes on this task. Write at least \(t.minWords) words."
+        case .speaking:
+            return ""
         }
     }
 }
@@ -371,7 +375,7 @@ struct QuestionNavigator: View {
         switch session.module {
         case .listening: return session.exam.listening.map { p in Array(p.parts[i].first...p.parts[i].last) } ?? []
         case .reading: return session.exam.reading.map { p in Array(p.passages[i].first...p.passages[i].last) } ?? []
-        case .writing: return []
+        case .writing, .speaking: return []
         }
     }
 
@@ -380,6 +384,7 @@ struct QuestionNavigator: View {
         case .listening: return "Part \(session.exam.listening?.parts[safe: i]?.part ?? i + 1)"
         case .reading: return "Part \(session.exam.reading?.passages[safe: i]?.passage ?? i + 1)"
         case .writing: return "Part \(session.exam.writing?.tasks[safe: i]?.task ?? i + 1)"
+        case .speaking: return ""
         }
     }
 
@@ -525,6 +530,8 @@ struct StageIntroView: View {
             return session.allotted > 0 ? "约 \(Int(session.allotted / 60)) 分钟（录音 + \(settings.listeningReviewMinutes) 分钟检查时间）" : "正在读取音频…"
         case .reading, .writing:
             return "\(Int(session.allotted / 60)) 分钟" + (session.remaining < session.allotted ? "（剩余 \(session.timeText)）" : "")
+        case .speaking:
+            return ""
         }
     }
 
@@ -553,6 +560,8 @@ struct StageIntroView: View {
             return ["Answer both parts. Task 2 contributes twice as much as Task 1 to the Writing score.",
                     "Write at least 150 words for Task 1 and at least 250 words for Task 2.",
                     "编辑器不提供拼写检查和自动更正，与机考一致。"]
+        case .speaking:
+            return []
         }
     }
 }

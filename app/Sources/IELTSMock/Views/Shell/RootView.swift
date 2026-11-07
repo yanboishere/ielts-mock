@@ -5,13 +5,19 @@ struct RootView: View {
 
     var body: some View {
         Group {
-            if let s = app.session {
+            if let s = app.speakingSession {
+                SpeakingExamView(session: s)
+                    .id(s.id)
+            } else if let s = app.session {
                 ExamView(session: s)
                     .environmentObject(s)
                     .id(s.id)
             } else {
                 ShellView()
             }
+        }
+        .sheet(item: $app.speakingLaunch) { launch in
+            SpeakingPreflightView(launch: launch)
         }
         .alert("提示", isPresented: Binding(get: { app.alert != nil }, set: { if !$0 { app.alert = nil } })) {
             Button("好") { app.alert = nil }

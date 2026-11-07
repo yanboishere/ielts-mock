@@ -1,0 +1,44 @@
+{
+  "issues": [
+    "Speaking Part 1 (Jewellery), 3rd question: the book prints 'When do people like to give jewellery in your country [Why?]' with no question mark after 'country' (checked on the zoomed scan, p97); reproduced as printed."
+  ],
+  "pages": [97],
+  "part1": {
+    "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+    "topics": [
+      { "title": "Jewellery",
+        "questions": [
+          "How often do you wear jewellery? [Why/Why not?]",
+          "What type of jewellery do you like best? [Why/Why not?]",
+          "When do people like to give jewellery in your country [Why?]",
+          "Have you ever given jewellery to someone as a gift? [Why/Why not?]"
+        ] }
+    ]
+  },
+  "part2": {
+    "topic": "Describe an interesting TV programme you watched about a science topic.",
+    "prompt": "You should say:",
+    "points": [
+      "what science topic this TV programme was about",
+      "when you saw this TV programme",
+      "what you learnt from this TV programme about a science topic"
+    ],
+    "closing": "and explain why you found this TV programme interesting."
+  },
+  "part3": {
+    "topics": [
+      { "title": "Science and the public",
+        "questions": [
+          "How interested are most people in your country in science?",
+          "Why do you think children today might be better at science than their parents?",
+          "How do you suggest the public can learn more about scientific developments?"
+        ] },
+      { "title": "Scientific discoveries",
+        "questions": [
+          "What do you think are the most important scientific discoveries in the last 100 years?",
+          "Do you agree or disagree that there are no more major scientific discoveries left to make?",
+          "Who should pay for scientific research – governments or private companies?"
+        ] }
+    ]
+  }
+}

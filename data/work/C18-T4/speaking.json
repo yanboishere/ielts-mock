@@ -1,0 +1,47 @@
+{
+ "pages": [100],
+ "part1": {
+  "intro": "The examiner asks you about yourself, your home, work or studies and other familiar topics.",
+  "topics": [
+   {
+    "title": "Sleep",
+    "questions": [
+     "How many hours do you usually sleep at night?",
+     "Do you sometimes sleep during the day? [Why/Why not?]",
+     "What do you do if you can't get to sleep at night? [Why?]",
+     "Do you ever remember the dreams you've had while you were asleep?"
+    ]
+   }
+  ]
+ },
+ "part2": {
+  "topic": "Describe a time when you met someone who you became good friends with.",
+  "prompt": "You should say:",
+  "points": [
+   "who you met",
+   "when and where you met this person",
+   "what you thought about this person when you first met"
+  ],
+  "closing": "and explain why you think you became good friends with this person."
+ },
+ "part3": {
+  "topics": [
+   {
+    "title": "Friends at school",
+    "questions": [
+     "How important is it for children to have lots of friends at school?",
+     "Do you think it is wrong for parents to influence which friends their children have?",
+     "Why do you think children often choose different friends as they get older?"
+    ]
+   },
+   {
+    "title": "Making new friends",
+    "questions": [
+     "If a person is moving to a new town, what is a good way for them to make friends?",
+     "Can you think of any disadvantages of making new friends online?",
+     "Would you say it is harder for people to make new friends as they get older?"
+    ]
+   }
+  ]
+ }
+}

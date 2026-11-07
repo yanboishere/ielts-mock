@@ -1,0 +1,49 @@
+{
+ "pages": [
+  94
+ ],
+ "part1": {
+  "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+  "topics": [
+   {
+    "title": "Art",
+    "questions": [
+     "Did you enjoy doing art lessons when you were a child? [Why?/Why not?]",
+     "Do you ever draw or paint pictures now? [Why?/Why not?]",
+     "When was the last time you went to an art gallery or exhibition? [Why?]",
+     "What kind of pictures do you like having in your home? [Why?]"
+    ]
+   }
+  ]
+ },
+ "part2": {
+  "topic": "Describe a time when you visited a friend or family member at their workplace.",
+  "prompt": "You should say:",
+  "points": [
+   "who you visited",
+   "where this person worked",
+   "why you visited this person's workplace"
+  ],
+  "closing": "and explain how you felt about visiting this person's workplace."
+ },
+ "part3": {
+  "topics": [
+   {
+    "title": "Different kinds of workplaces",
+    "questions": [
+     "What things make an office comfortable to work in?",
+     "Why do some people prefer to work outdoors?",
+     "Do you agree that the building people work in is more important than the colleagues they work with?"
+    ]
+   },
+   {
+    "title": "The importance of work",
+    "questions": [
+     "What would life be like if people didn't have to work?",
+     "Are all jobs of equal importance?",
+     "Why do some people become workaholics?"
+    ]
+   }
+  ]
+ }
+}

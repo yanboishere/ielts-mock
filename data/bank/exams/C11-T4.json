@@ -1695,6 +1695,55 @@
    }
   ]
  },
+ "speaking": {
+  "pages": [
+   100
+  ],
+  "part1": {
+   "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+   "topics": [
+    {
+     "title": "Names",
+     "questions": [
+      "How did your parents choose your name(s)?",
+      "Does your name have any special meaning?",
+      "Is your name common or unusual in your country?",
+      "If you could change your name, would you? [Why/Why not?]"
+     ]
+    }
+   ]
+  },
+  "part2": {
+   "topic": "Describe a TV documentary you watched that was particularly interesting.",
+   "prompt": "You should say:",
+   "points": [
+    "what the documentary was about",
+    "why you decided to watch it",
+    "what you learnt during the documentary"
+   ],
+   "closing": "and explain why the TV documentary was particularly interesting."
+  },
+  "part3": {
+   "topics": [
+    {
+     "title": "Different types of TV programmes",
+     "questions": [
+      "What are the most popular kinds of TV programmes in your country? Why is this?",
+      "Do you think there are too many game shows on TV nowadays? Why?",
+      "Do you think TV is the main way for people to get the news in your country? What other ways are there?"
+     ]
+    },
+    {
+     "title": "TV advertising",
+     "questions": [
+      "What types of products are advertised most often on TV?",
+      "Do you think that people pay attention to adverts on TV? Why do you think that is?",
+      "How important are regulations on TV advertising?"
+     ]
+    }
+   ]
+  }
+ },
  "issues": [
   "Reading key for Questions 19–26 is misprinted in the book (p129 lists 19 D, 20 TRUE, 21 TRUE, 22 NOT GIVEN, 23 TRUE, 24 FALSE, 25 C, 26 A – shifted by one line, with a stray 'D' at 19 and no answer for the last question). Answers here are the shifted-back values checked against the passage: 19 TRUE, 20 TRUE, 21 NOT GIVEN, 22 TRUE, 23 FALSE, 24 C, 25 A; 26 E was inferred from the passage ('When voice textures fit the performer's physiognomy and gestures, a whole and very realistic persona emerges')."
  ]

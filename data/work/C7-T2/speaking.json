@@ -1,0 +1,47 @@
+{
+ "pages": [59],
+ "part1": {
+  "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+  "topics": [
+   {
+    "title": "Laughing",
+    "questions": [
+     "What kinds of thing make you laugh?",
+     "Do you like making other people laugh? [Why/Why not?]",
+     "Do you think it's important for people to laugh? [Why/Why not?]",
+     "Is laughing the same as feeling happy, do you think? [Why/Why not?]"
+    ]
+   }
+  ]
+ },
+ "part2": {
+  "topic": "Describe an idea you had for improving something at work or college.",
+  "prompt": "You should say:",
+  "points": [
+   "when and where you had your idea",
+   "what your idea was",
+   "who you told about your idea"
+  ],
+  "closing": "and explain why you thought your idea would make an improvement."
+ },
+ "part3": {
+  "topics": [
+   {
+    "title": "Ideas and education",
+    "questions": [
+     "Some people think that education should be about memorising the important ideas of the past. Do you agree or disagree? Why?",
+     "Should education encourage students to have their own new ideas? Why?",
+     "How do you think teachers could help students to develop and share their own ideas?"
+    ]
+   },
+   {
+    "title": "Ideas in the workplace",
+    "questions": [
+     "Should employers encourage their workers to have new ideas about improving the company? Why?",
+     "Do you think people sometimes dislike ideas just because they are new? Why?",
+     "What is more difficult: having new ideas or putting them into practice? Which is more important for a successful company?"
+    ]
+   }
+  ]
+ }
+}

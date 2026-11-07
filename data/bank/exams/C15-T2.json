@@ -1634,5 +1634,54 @@
    }
   ]
  },
+ "speaking": {
+  "pages": [
+   53
+  ],
+  "part1": {
+   "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+   "topics": [
+    {
+     "title": "Languages",
+     "questions": [
+      "How many languages can you speak? [Why/Why not?]",
+      "How useful will English be to you in your future? [Why/Why not?]",
+      "What do you remember about learning languages at school? [Why/Why not?]",
+      "What do you think would be the hardest language for you to learn? [Why?]"
+     ]
+    }
+   ]
+  },
+  "part2": {
+   "topic": "Describe a website that you bought something from.",
+   "prompt": "You should say:",
+   "points": [
+    "what the website is",
+    "what you bought from this website",
+    "how satisfied you were with what you bought"
+   ],
+   "closing": "and explain what you liked or disliked about using this website."
+  },
+  "part3": {
+   "topics": [
+    {
+     "title": "Shopping online",
+     "questions": [
+      "What kinds of things do people in your country often buy from online shops?",
+      "Why do you think online shopping has become so popular nowadays?",
+      "What are some possible disadvantages of buying things from online shops?"
+     ]
+    },
+    {
+     "title": "The culture of consumerism",
+     "questions": [
+      "Why do many people today keep buying things which they do not need?",
+      "Do you believe the benefits of a consumer society outweigh the disadvantages?",
+      "How possible is it to avoid the culture of consumerism?"
+     ]
+    }
+   ]
+  }
+ },
  "issues": []
 }

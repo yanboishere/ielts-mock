@@ -35,6 +35,11 @@ cat > "$STAGE/安装说明.txt" <<TXT
 练习记录、AI Key 等个人数据保存在 ~/Library/Application Support/IELTSMock 和钥匙串里，覆盖安装新版本不会丢失。
 仅供个人学习使用。Cambridge IELTS 内容版权归 Cambridge University Press & Assessment 所有。
 TXT
-hdiutil create -volname "雅思模考" -srcfolder "$STAGE" -fs HFS+ -format ULMO -ov "$DMG" >/dev/null
-rm -rf "$STAGE"
+# makehybrid + convert build the image without mounting a scratch volume under /Volumes
+# (which `hdiutil create -srcfolder` needs and sandboxed shells refuse).
+RAW="$ROOT/build/dmg-raw.dmg"
+rm -f "$RAW" "$DMG"
+hdiutil makehybrid -hfs -hfs-volume-name "雅思模考" -o "$RAW" "$STAGE" >/dev/null
+hdiutil convert "$RAW" -format ULMO -o "$DMG" >/dev/null
+rm -rf "$STAGE" "$RAW"
 ls -lh "$DMG"

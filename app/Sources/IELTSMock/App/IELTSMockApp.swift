@@ -14,6 +14,7 @@ struct IELTSMockApp: App {
                 .environmentObject(app.bank)
                 .environmentObject(app.history)
                 .environmentObject(app.ai)
+                .environmentObject(app.models)
                 .frame(minWidth: 1100, minHeight: 720)
                 .onAppear { DebugDriver.installIfRequested(app) }
         }
@@ -44,6 +45,7 @@ struct IELTSMockApp: App {
                 .environmentObject(app.bank)
                 .environmentObject(app.history)
                 .environmentObject(app.ai)
+                .environmentObject(app.models)
         }
     }
 }

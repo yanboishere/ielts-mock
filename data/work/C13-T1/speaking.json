@@ -1,0 +1,44 @@
+{
+ "pages": [32],
+ "part1": {
+  "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+  "topics": [
+   {"title": "Television programmes",
+    "questions": [
+     "Where do you usually watch TV programmes/shows? [Why?/Why not?]",
+     "What's your favourite TV programme/show? [Why?]",
+     "Are there any programmes/shows you don't like watching? [Why?/Why not?]",
+     "Do you think you will watch more TV or fewer TV programmes/shows in the future? [Why?/Why not?]"
+    ]}
+  ]
+ },
+ "part2": {
+  "topic": "Describe someone you know who has started a business.",
+  "prompt": "You should say:",
+  "points": [
+   "who this person is",
+   "what work this person does",
+   "why this person decided to start a business"
+  ],
+  "closing": "and explain whether you would like to do the same kind of work as this person."
+ },
+ "part3": {
+  "topics": [
+   {"title": "Choosing work",
+    "questions": [
+     "What kinds of jobs do young people not want to do in your country?",
+     "Who is best at advising young people about choosing a job: teachers or parents?",
+     "Is money always the most important thing when choosing a job?"
+    ]},
+   {"title": "Work–Life balance",
+    "questions": [
+     "Do you agree that many people nowadays are under pressure to work longer hours and take less holiday?",
+     "What is the impact on society of people having a poor work–life balance?",
+     "Could you recommend some effective strategies for governments and employers to ensure people have a good work–life balance?"
+    ]}
+  ]
+ },
+ "issues": [
+  "Speaking Part 3 ('Choosing work'): the word 'not' in 'What kinds of jobs do young people not want to do in your country?' is underlined in the book; underline has no markup in the schema, so it is kept as plain text."
+ ]
+}

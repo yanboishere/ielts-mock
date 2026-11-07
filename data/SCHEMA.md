@@ -184,3 +184,36 @@ Crop figures with `ielts figcrop BOOK PAGE x y w h NAME` (normalized, top-left o
 Naming: `C15-T1-L2-map`, `C15-T1-L4-diagram`, `C15-T1-R2-diagram`, `C15-T1-W1`. Include the figure's own printed
 title/legend/axes inside the crop, exclude the question list, page headers and the QR-code watermark.
 Verify every crop by viewing it.
+
+## Speaking (`speaking.json`, optional module)
+```jsonc
+{
+  "pages": [32],
+  "part1": {
+    "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+    "topics": [
+      { "title": "Email",
+        "questions": ["What kinds of emails do you receive about your work or studies?",
+                      "Do you prefer to email, phone or text your friends? [Why?]"] }
+    ]
+  },
+  "part2": {
+    "topic": "Describe a hotel that you know.",
+    "prompt": "You should say:",
+    "points": ["where this hotel is", "what this hotel looks like", "what facilities this hotel has"],
+    "closing": "and explain whether you think this is a nice hotel to stay in.",
+    "followUp": ["Do you often stay in hotels?"]          // only if the book prints rounding-off questions
+  },
+  "part3": {
+    "topics": [
+      { "title": "Staying in hotels",
+        "questions": ["What things are important when people are choosing a hotel?"] }
+    ]
+  }
+}
+```
+Copy every question exactly as printed, one string per question, keeping the examiner prompts in square brackets
+(`[Why?]`, `[Why/Why not?]`) at the end of the question they belong to. Omit the "EXAMPLE" / "Example questions:"
+labels and the boxed instruction beside the cue card ("You will have to talk about the topic for one to two minutes…").
+If the book gives Part 1 only as an introduction plus topic titles without questions (some older books), keep the
+titles with an empty `questions` list. If a part is missing from the scan, omit it and say so in `issues`.

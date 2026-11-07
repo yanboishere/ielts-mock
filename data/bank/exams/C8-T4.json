@@ -1696,6 +1696,55 @@
    }
   ]
  },
+ "speaking": {
+  "pages": [
+   102
+  ],
+  "part1": {
+   "intro": "The examiner asks the candidate about him/herself, his/her home, work or studies and other familiar topics.",
+   "topics": [
+    {
+     "title": "Television",
+     "questions": [
+      "How often do you watch television? [Why/Why not?]",
+      "Which television channel do you usually watch? [Why?]",
+      "Do you enjoy the advertisements on television? [Why/Why not?]",
+      "Do you think most programmes on television are good? [Why/Why not?]"
+     ]
+    }
+   ]
+  },
+  "part2": {
+   "topic": "Describe a friend of your family you remember from your childhood.",
+   "prompt": "You should say:",
+   "points": [
+    "who the person was",
+    "how your family knew this person",
+    "how often this person visited your family"
+   ],
+   "closing": "and explain why you remember this person."
+  },
+  "part3": {
+   "topics": [
+    {
+     "title": "Friendship",
+     "questions": [
+      "What do you think makes someone a good friend to a whole family?",
+      "Do you think we meet different kinds of friend at different stages of our lives? In what ways are these types of friend different?",
+      "How easy is it to make friends with people from a different age group?"
+     ]
+    },
+    {
+     "title": "Influence of friends",
+     "questions": [
+      "Do you think it is possible to be friends with someone if you never meet them in person? Is this real friendship?",
+      "What kind of influence can friends have on our lives?",
+      "How important would you say it is to have friends from different cultures?"
+     ]
+    }
+   ]
+  }
+ },
  "issues": [
   "Writing Task 2 sample answer is handwritten; transcribed from the scan keeping the candidate's spelling (e.g. 'convience', 'diabeties', 'surpress'); 'drop one stop earlier' and 'grow older' are best readings of unclear handwriting."
  ]

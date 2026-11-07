@@ -27,6 +27,18 @@ enum AppPaths {
         try? FileManager.default.createDirectory(at: u, withIntermediateDirectories: true)
         return u
     }
+    /// Recordings of one Speaking attempt.
+    static func recordings(_ attempt: UUID) -> URL {
+        let u = support.appendingPathComponent("Recordings", isDirectory: true).appendingPathComponent(attempt.uuidString, isDirectory: true)
+        try? FileManager.default.createDirectory(at: u, withIntermediateDirectories: true)
+        return u
+    }
+    /// Downloaded speech models (recognition, voice activity detection).
+    static var models: URL {
+        let u = support.appendingPathComponent("Models", isDirectory: true)
+        try? FileManager.default.createDirectory(at: u, withIntermediateDirectories: true)
+        return u
+    }
     static var audioOverrides: URL {
         let u = support.appendingPathComponent("AudioOverrides", isDirectory: true)
         try? FileManager.default.createDirectory(at: u, withIntermediateDirectories: true)
